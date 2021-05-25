@@ -3,5 +3,5 @@ theme: jekyll-theme-minimal
 title: jonbeckett.github.io
 description: The online homepage of Jonathan Beckett
 
-logo: [Location of the logo]
+logo: https://source.unsplash.com/random/200x200
 show_downloads: false
