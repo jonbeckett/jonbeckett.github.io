@@ -22,7 +22,7 @@ I can be found on most of the popular social networks - feel free to add, friend
 
 ## Blogging
 
-I have been writing a personal blog on the internet for years (at Wordpress), and have been experimenting with writing essays over the past few months (at Medium). Feel free to read, follor, or subscribe.
+I write about subjects that interest me at Medium, and a personal journal at Wordpress. Feel free to read, follor, or subscribe.
 
 * [Medium](https://jonbeckett.medium.com) ~ essays
 * [Wordpress](https://jonathanwrotethis.wordpress.com) ~ personal journal
