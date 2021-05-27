@@ -20,12 +20,12 @@ I can be found on most of the popular social networks - feel free to add, friend
 * [Facebook](https://facebook.com/jonbeckett)
 * [Instagram](https://instagram.com/jonbeckett)
 
-## Blogging
+## Writing
 
 I write about subjects that interest me at Medium, and a personal journal at Wordpress. Feel free to read, follor, or subscribe.
 
-* [Medium](https://jonbeckett.medium.com) ~ essays
-* [Wordpress](https://jonathanwrotethis.wordpress.com) ~ personal journal
+* [Medium](https://jonbeckett.medium.com)
+* [Wordpress](https://jonathanwrotethis.wordpress.com)
 
 ## Instant Messaging
 
