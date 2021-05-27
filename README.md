@@ -22,7 +22,7 @@ I can be found on most of the popular social networks - feel free to add, friend
 
 ## Writing
 
-I write about subjects that interest me at Medium, and a personal journal at Wordpress. Feel free to read, follor, or subscribe.
+I write about subjects that interest me at Medium, and a personal journal at Wordpress. Feel free to read, follow, or subscribe.
 
 * [Medium](https://jonbeckett.medium.com)
 * [Wordpress](https://jonathanwrotethis.wordpress.com)
