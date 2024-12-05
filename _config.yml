@@ -53,11 +53,11 @@ minima:
   date_format: "%A %d %B %Y"
 
   # Generate social links in footer.
-  social_links:
-    - { platform: facebook,  user_url: "https://www.facebook.com/jekyll" }
-    - { platform: instagram, user_url: "https://instagram.com/jonbeckett" }
-    - { platform: bluesky,   user_url: "https://bsky.app/profile/jonbeckett.bsky.social" }
-    - { platform: github,    user_url: "https://github.com/jonbeckett" }
-
+  #social_links:
+  #  - { platform: facebook,  user_url: "https://www.facebook.com/jekyll" }
+  #  - { platform: instagram, user_url: "https://instagram.com/jonbeckett" }
+  #  - { platform: bluesky,   user_url: "https://bsky.app/profile/jonbeckett.bsky.social" }
+  #  - { platform: github,    user_url: "https://github.com/jonbeckett" }
+    
 
 
