@@ -14,7 +14,7 @@ It's funny - normally I'm outnumbered four to one by women in the house - with t
 
 Aha - I know the next track - it's "Anti-Hero". Go me. I could probably do a pub-quiz on Taylor Swift at this point. As long as they play "Anti-Hero".
 
-Full disclosure - I bought a couple of her albums earlier in the year - part of the drive to add at least  _some_  female singers to our vinyl record collection. She joined Madonna and Tori Amos in the rather exclusive collection of music I'm re-acquiring. Next on the list are Sara Bareilles, Idina Menzel, and P!nk.
+Full disclosure - I bought a couple of her albums earlier in the year - part of the drive to add at least *some* female singers to our vinyl record collection. She joined Madonna and Tori Amos in the rather exclusive collection of music I'm re-acquiring. Next on the list are Sara Bareilles, Idina Menzel, and P!nk.
 
 It's getting late. I should probably go and collapse into bed. I have to make another trip into town in the morning for sleepover food supplies.
 

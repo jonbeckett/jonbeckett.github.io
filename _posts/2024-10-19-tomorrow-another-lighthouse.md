@@ -4,9 +4,7 @@ tags:
   - Life
 ---
 
-# 2024-10-19 Tomorrow, another lighthouse
-
-Yesterday marked our first full day in Brixham, and a concerted effort to  *not*  run here, there and everywhere - to  *not*  chase our own tail.
+Yesterday marked our first full day in Brixham, and a concerted effort to *not*  here, there and everywhere - to *not* chase our own tail.
 
 After much indecision mid-morning we found ourselves in a delightful French restaurant serving breakfasts - "La Petite Maison". Following the whole "when in Rome" trope, I ordered french bread with bacon and syrup. The number of calories in it probably required scientific notation, and my body probably still hasn't forgiven me, but oh my word was it delicious.
 

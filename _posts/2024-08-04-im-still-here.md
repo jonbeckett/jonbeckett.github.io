@@ -4,7 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-04 I'm still here
 
 Somehow a week has passed since I last wrote in the blog. I'm not sure how or why. I used to write almost every day - sharing thoughts, ideas and whatever else. These days there always seems to be something more important first - and then something else, and something else.
 
@@ -16,7 +15,7 @@ My eldest daughter went away with her boyfriend's family this week - her first t
 
 "You must have done more than just work though ?"
 
-"No.  Just work. Oh - and we went to the cinema one night to see the Deadpool movie."
+"No. Just work. Oh - and we went to the cinema one night to see the Deadpool movie."
 
 We walked quietly for the next minute or two, and I turned over what I had said. Other than the night we went to the cinema, I worked all day every day - invariably missing lunch breaks - and then worked throughout each evening on content creation.
 

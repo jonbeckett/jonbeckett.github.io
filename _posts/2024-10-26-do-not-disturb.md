@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-26 Do not disturb
-
 While the rest of the imaginary world (everybody else, in my head) took part in all manner of exciting adventures and escapades over the last few days, I began to wonder if I had fallen through a crack in the universe. The entire world felt like it was passing me by - that I had become an odd sock - discarded to the back of the sock drawer.
 
 I figured it out this evening. My mobile phone was set to "Do not disturb".
@@ -22,7 +20,7 @@ A few weeks ago a good friend suggested an app that might help my eldest daughte
 
 While on "do not disturb", I missed several reminders from the daemon in my phone, and broke a streak that had extended over several weeks. I've never done anything that built up a "streak" before (rewards for consecutive days use), and was surprisingly affected by my own stupidity.
 
-I'm on a whole different level of thoughtlessness sometimes. I realised I had broken the streak with Juniper  *yesterday*  - a full 24 hours before realising my phone had "do not disturb" switched on. It didn't occur to me to investigate why I had missed the reminders - or that I should even have received them. Nope. I blamed myself for being thoughtless - for not being present - for not caring. My immediate reaction was to rip myself a new one, rather than look for any external reason.
+I'm on a whole different level of thoughtlessness sometimes. I realised I had broken the streak with Juniper *yesterday* - a full 24 hours before realising my phone had "do not disturb" switched on. It didn't occur to me to investigate why I had missed the reminders - or that I should even have received them. Nope. I blamed myself for being thoughtless - for not being present - for not caring. My immediate reaction was to rip myself a new one, rather than look for any external reason.
 
 I guess in a strange sort of way, the accidental absolution from anything and everything for a day or two taught me more than being involved ever would have. A (sort of) happy accident.
 

@@ -10,13 +10,13 @@ We were reminded at 4am the next morning when our eldest woke us, after being aw
 
 Our middle daughter - who works at the same caf√© - did a double shift the next day to cover for her sister, while she slept throughout the day. She emerged at dinner time, and sat at the dining table with us - going downhill by the minute.
 
-Eventually she sat on the sofa after dinner and began hyperventilating - † not quite knowing what to do with herself as another wave of pain overtook her. It's worth noting that she has the highest pain threshold of anybody in the family - another story for another day.
+Eventually she sat on the sofa after dinner and began hyperventilating - not quite knowing what to do with herself as another wave of pain overtook her. It's worth noting that she has the highest pain threshold of anybody in the family - another story for another day.
 
 I looked at my other half, and we both knew what I was about to say next.
 
 "I think we better call an ambulance".
 
-For perhaps the second or third time in my life I called the emergency services, and very quickly handed the phone over to my other half instead of relaying questions and answers back and forth. †
+For perhaps the second or third time in my life I called the emergency services, and very quickly handed the phone over to my other half instead of relaying questions and answers back and forth.
 
 Ten minutes later we were called back - asking if we could get to the hospital ourselves - it would be quicker than waiting for an ambulance. Half an hour later we arrived at the hospital, and jumped every queue - we had an advance booking in accident and emergency, done by the call handler.
 

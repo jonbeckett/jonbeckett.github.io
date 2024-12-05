@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-14 The Upside Down
-
 This week marks the first of my staycations - a series of "use them or lose them" holidays resulting from a year where I carried on working while others escaped the rat race.
 
 I'm at an oddly loose end.
@@ -28,7 +26,7 @@ Like I said. It got me down - so I left - for much the same reason I rarely visi
 
 Anyway.
 
-I wandered towards home and looked in on the bookshop, and the stationers. I nearly bought a paper notebook. Nearly. I don't  *need*  a paper notebook - I have a perfectly useable one with lots of empty pages left - but it was very nice. I nearly bought a pen too.
+I wandered towards home and looked in on the bookshop, and the stationers. I nearly bought a paper notebook. Nearly. I don't *need* a paper notebook - I have a perfectly useable one with lots of empty pages left - but it was very nice. I nearly bought a pen too.
 
 The bookshop was filled with all manner of tempting books. It always is. I love bookshops. I love books. I resisted temptation. I'm not entirely sure how. Instead of adding to the towering pile of unread books, I continued home - trudging back through the puddles to find the house much as I left it.
 

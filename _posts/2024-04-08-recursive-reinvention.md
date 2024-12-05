@@ -10,17 +10,17 @@ I've moved the blog to Substack. Again. We've been here before, haven't we - thr
 
 I exported the subscribers from the back-end of Wordpress earlier this evening, and imported them into Substack. This probably means very little, other than you just received this post as an email without having to set foot in the blog. That's kind of the point.
 
-If you  _really_  don't want any more mail arriving in your in-box, just click the unsubscribe link contained within any of the emails you receive from me.
+If you really don't want any more mail arriving in your in-box, just click the unsubscribe link contained within any of the emails you receive from me.
 
-The blog lives at  [https://jonathanwrotethis.substack.com](https://jonathanwrotethis.substack.com/).
+The blog lives at [https://jonathanwrotethis.substack.com](https://jonathanwrotethis.substack.com/).
 
-If you  _do_  visit the blog - and you're more than welcome - you'll find no like buttons, and no comments. If you want to agree or disagree, I'm only an email away.
+If you do visit the blog - and you're more than welcome - you'll find no like buttons, and no comments. If you want to agree or disagree, I'm only an email away.
 
 Going forwards, the blog will just be my words, among those written by the vast community of refugees from other platforms that have made Substack their home in recent times - the likes of Glenn Greenwald, Seymour Hersh, Anne Helen Peterson, George Saunders, Kaitlyn Greenidge, Roxane Gay, Carmen Maria Mechado, and Jia Tolentino.
 
 I can see the attraction for professional authors - Substack allows them to both control, and monetise their content. I'm not doing that - and never will. I can't imagine anybody would pay to read the inconsequential thoughts I pollute the internet with at the best of times.
 
-I've back-populated the blog with  _every_  post - right back to the start (or at least to the point where I have saved copies of anything). If you want to learn what I was doing on a random Saturday afternoon twenty years ago, wonder no more. Quite why you might be wondering what I was doing on a Saturday afternoon twenty years ago is another question entirely.
+I've back-populated the blog with every post - right back to the start (or at least to the point where I have saved copies of anything). If you want to learn what I was doing on a random Saturday afternoon twenty years ago, wonder no more. Quite why you might be wondering what I was doing on a Saturday afternoon twenty years ago is another question entirely.
 
 Anyway.
 

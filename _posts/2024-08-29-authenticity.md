@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-29 Authenticity
-
 Following the quite predictable implosion and subsequent exodus of users from the hellscape that Twitter became once Elon gave free reign to the toxic horde, I "followed the spiders" across the internet in search of somewhere better to procrastinate.
 
 A part of me asks "why bother". There will always be somewhere new to discover - the internet never slows down. I'm often caught between the idea of setting up a beach-head for myself - becoming a fool on a hill - or descending into any of the "town squares" - the various popular social networks that seem to rise and fall every few years.
@@ -32,9 +30,9 @@ You know the funny thing? I may have found my ultimate destination some time ago
 
 Substack.
 
-Yes, they're paying to attract influential writers, and yes, they could do with a small army of user interface and interaction designers, but my word has their trajectory been spectacular. Where else can you find the likes of Patti Smith, Margaret Atwood, Salman Rushdie, Stephen Fry, Chuck Palahniuk, Nick Hornby, Richard Dawkins and Pamela Anderson (yes,  *that*  Pamela Anderson) writing personal blogs, alongside a rapidly growing community of old-media journalists, retired columnists, and plain-old-garden-bloggers such as myself?
+Yes, they're paying to attract influential writers, and yes, they could do with a small army of user interface and interaction designers, but my word has their trajectory been spectacular. Where else can you find the likes of Patti Smith, Margaret Atwood, Salman Rushdie, Stephen Fry, Chuck Palahniuk, Nick Hornby, Richard Dawkins and Pamela Anderson (yes, *that* Pamela Anderson) writing personal blogs, alongside a rapidly growing community of old-media journalists, retired columnists, and plain-old-garden-bloggers such as myself?
 
-Of course this is me though, and rather than switch platforms  *yet again*, I'm trying to be everywhere, for everybody, all at once (*isn't that a movie title?*). I'm cross-posting to Wordpress, Tumblr, Medium, and Substack.
+Of course this is me though, and rather than switch platforms ï¿½*yet again*, I'm trying to be everywhere, for everybody, all at once (*isn't that a movie title?*). I'm cross-posting to Wordpress, Tumblr, Medium, and Substack.
 
 Now and again the urge to find out what other's think of each platform overtakes me, and a quick search uncovers an entire universe of commercial bloggers espousing Wordpress rule over the internet universe, and how you can buy their get-rich-quick series of posts, videos, and podcasts about how you too can live happily ever after while holed up in a perfect cabin with a laptop somewhere.
 
@@ -44,6 +42,6 @@ I'm not ranting. In the words of the Dowager Countess of Grantham, "I'm explaini
 
 This post doesn't really have a point. It's just me - emptying my head - and wondering how many plates I can continue to spin until they all come crashing down.
 
-Perhaps I  *do*  have a point though.
+Perhaps I *do* have a point though.
 
 The famous writers that have begun to gather at Substack seem to be mostly independent - devoid of any sort of agenda or mission to prove the validity of what they might share. They are without publishers, agents, or marketers filtering, shaping, or writing their words for them. It's refreshing, and brings about an authenticity that a lot of the "social internet" has been missing for a long time.

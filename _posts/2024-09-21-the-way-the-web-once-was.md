@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-09-21 The way the web once was
-
 For the last several weeks I've been perpetuating perhaps the most ridiculous escapade in quite some time - cross-posting blog entries to WordPress, Tumblr, Substack and Medium at the same time. I've also been experimenting with both Threads and Bluesky - the hopeful pretenders to the pile of ashes where Twitter once stood.
 
 I've come to the conclusion that no one blogging or micro-blogging platform is any better than another. Each is a walled garden of sorts. A silo. Each has it's own captive audience, fighting to attract attention among their fellow platform-dwellers, like fisherman fishing for each other in the same small barrel.
@@ -16,7 +14,7 @@ Back when I started writing a blog - around the same time the oldest millenials 
 
 Anyway.
 
-Back in the dim and distant past you could install a blog script and start posting - and the  *world*  was your audience. Yes, it took effort to comment - you had to enter your name, email address and URL every time - but it meant you weren't fishing in a barrel - you were casting your net into an ocean that covered the entire planet.
+Back in the dim and distant past you could install a blog script and start posting - and the *world* was your audience. Yes, it took effort to comment - you had to enter your name, email address and URL every time - but it meant you weren't fishing in a barrel - you were casting your net into an ocean that covered the entire planet.
 
 People added guestbooks to their blogs - where strangers that happened upon each others soap-boxes could leave messages - not comments - not replies - just "hi - I found you - love what you're doing".
 
@@ -26,4 +24,4 @@ Sure, the early days of the web were a little like the wild west - with wastelan
 
 Imagine that - encouraging people to leave your writing and read somebody elses - losing you clicks, ad revenue and attention.
 
-Of course we can't go back - we can only go forwards - but we can choose how we go forwards. With that in mind, I'm going to carry on cross-posting -  *because why not*  - and I'm going to start drawing up a blogroll. I will invite readers to leave their walled gardens and go on something of an adventure - to follow the breadcrumb trail out of the maze, and re-discover the world that so many seem to have forgotten - the world outside the walls.
+Of course we can't go back - we can only go forwards - but we can choose how we go forwards. With that in mind, I'm going to carry on cross-posting - *because why not* - and I'm going to start drawing up a blogroll. I will invite readers to leave their walled gardens and go on something of an adventure - to follow the breadcrumb trail out of the maze, and re-discover the world that so many seem to have forgotten - the world outside the walls.

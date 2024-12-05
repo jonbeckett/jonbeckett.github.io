@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-21 A self destruction and an exodus
-
 In the spirit of Wellybob the Backwards Cat, who starred in a single episode of a british 1970s children's television show called "Jamie and the Magic Torch", I'm going to write this post in reverse order.
 
 I suppose you might call this a "TLDR" (too long, didn't read) preface, in the style of so many AI generated news articles that tell you what they are going to tell you, tell you it, then tell you what they've told you. Yes, they drive me nuts too.
@@ -42,15 +40,15 @@ This is where it gets interesting.
 
 Matt Mullenweg (the CEO of Automattic) had taken issue with WP Engine for some time - with their reluctance to financially support the development of the core platform, and their alleged willingness to allow their customers to think of "WP Engine" as "Wordpress". There's pretty good precedent around protection of trademarks - so this wasn't really a surprise.
 
-What Automattic did next  *was*  a surprise.
+What Automattic did next *was* a surprise.
 
 First, WP Engine were blocked from the Wordpress plugin repository - the central nervous system that allows millions of websites all over the world to ensure that each part of their installation is up-to-date.
 
-Next, Automattic forked the most popular extension developed by WP Engine for Wordpress - used by  *millions*  of websites (remember at this point Wordpress in one shape or another hosts something like 40% of the web). They cited security concerns as their primary motivation.
+Next, Automattic forked the most popular extension developed by WP Engine for Wordpress - used by *millions* of websites (remember at this point Wordpress in one shape or another hosts something like 40% of the web). They cited security concerns as their primary motivation.
 
 I think this is where the story turns. Everything up until this point was pretty predictable. The next part wasn't.
 
-Automattic didn't just fork the WP Engine developed extension - they removed any integrations with other WP Engine offerings, re-named it, and  *re-directed every website using it to their version*. They didn't test it properly either. Thousands of websites went down, all over the world.
+Automattic didn't just fork the WP Engine developed extension - they removed any integrations with other WP Engine offerings, re-named it, and *re-directed every website using it to their version*. They didn't test it properly either. Thousands of websites went down, all over the world.
 
 I'm hoping you're keeping up with this.
 
@@ -68,4 +66,4 @@ That's why I'm moving my blog. All I ever wanted was somewhere to write, and to 
 
 Yes, Substack is a walled garden too - but they play nicely with others.
 
-Head to  [jonathanwrotethis.substack.com](https://jonathanwrotethis.substack.com/)  and have a read. You might like to subscribe too - it's free :)
+Head to [jonathanwrotethis.substack.com](https://jonathanwrotethis.substack.com/) and have a read. You might like to subscribe too - it's free :)
