@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi – I’m Jonathan.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+While not bashing my head against the desk repeatedly or sitting in conference calls pretending to be clever, I write idiotic blog posts, occasionally trudge around town in running shoes, and attempt to survive living in a house with four women and two cats.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I live in deepest, darkest England – land of good manners, punctuation, starched shirts and silent indignation. I grew up near Oxford and now live in the countryside just outside London.
 
+I like pizza, wine, chocolate biscuits, coffee, cult movies, 80s music, and retro computers and video games.
 
-[jekyll-organization]: https://github.com/jekyll
+## Get in touch
+
+### Email
+
+By far the most reliable way of reaching me is via email:
+
+[jonathan.beckett@gmail.com](mailto:jonathan.beckett@gmail.com)
