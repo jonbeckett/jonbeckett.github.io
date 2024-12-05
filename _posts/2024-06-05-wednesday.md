@@ -1,0 +1,6 @@
+---
+title: Wednesday
+tags:
+  - Life
+---
+
