@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-15 Another day, another cafe
-
 I'm holed up in the corner of the café where my daughters work - surrounded by a coffee, half a sausage roll, a chromebook, and a rag-tag band of people from all walks of life - either stopping by during their day to catch up with each other, or escaping from the rest of their life - as I am.
 
 The café is far quieter, and somehow more friendly than yesterday's pub. I'm not entirely sure why. I guess it's down to expectation more than anything - the pub is somewhere you go with friends - the café - this café - is more for lone wanderers - such as myself, or the pretty lady sitting adjacent to me, tapping away on her laptop too.

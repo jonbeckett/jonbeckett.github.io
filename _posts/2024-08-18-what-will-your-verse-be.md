@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-18 What will your verse be
-
 Tonight is all about having nothing to write, but writing anyway - in the vague hope that forcing words into the keyboard will somehow cause them to self-organise into something either insightful, thoughtful, or perhaps at least relatable.
 
 Saturday becomes Sunday in half an hour. I'm wondering where the day went - or the week for that matter. Work and home have pretty much consumed me recently; hence the relative lack of verbiage pouring forth across the internet from my keyboard.

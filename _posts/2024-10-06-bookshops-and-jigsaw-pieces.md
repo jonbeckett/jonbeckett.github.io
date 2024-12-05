@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-06 Bookshops and jigsaw pieces
-
 We were supposed to go for breakfast in town this morning - just the two of us. A quiet breakfast together, and a wander around town while the new car charged up on one of the quick charging stations in the car-park near the river.
 
 Knowing that I would need to be up and ready to leave the house not looking like a caveman, I fell out of bed early, had a shower, shave, got dressed, found some respectable clothes, and then fell down an internet rabbit hole while waiting for others to arise.

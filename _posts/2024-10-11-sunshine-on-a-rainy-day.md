@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-11 Sunshine on a rainy day
-
 After working solidly throughout the year, I have ended up with almost all of my holiday allocation untouched. This is not unusual, given my character, personality, or whatever you might describe as "the way I am". I've always been happier to be busy than at a loose end - and have no doubt been taken advantage of in the past.
 
 A panic meeting of sorts was convened towards the end of the summer, during which approval was given for me to take one week off per month for the remainder of the year. The first of those weeks is next week.

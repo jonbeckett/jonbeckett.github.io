@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-09-05 Socially Challenged
-
 Rather than trudge through the rain this lunchtime to a nearby store that sells marvellous sausage rolls, I warmed up leftovers from the fridge, and plan to spend the rest of lunchtime emptying my head into the keyboard. A rare treat.
 
 I am my own worst enemy when it comes to working through lunch. Quite often I forget to eat entirely - then wonder why I feel so drained later in the day. Those are the times when I end up calling on the marvellous sausage roll shop.

@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-20 Like an exhale
-
 Tuesday became Wednesday ten minutes ago - while brushing my teeth alongside my daughter in the downstairs bathroom. We have a weird synchronicity - we often meet at midnight with a toothbrush. We know how to live, obviously.
 
 I'm certain tomorrow was at least an hour away when I looked five minutes ago.

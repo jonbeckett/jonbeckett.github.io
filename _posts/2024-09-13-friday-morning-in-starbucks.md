@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-09-13 Friday morning in Starbucks
-
 It's Friday morning, and I find myself sitting at a table in the middle of Starbucks. It just occurred to me that today is Friday 13th. Isn't it interesting how inconsequential hoodoo can stay with you - ready to resurrect itself at a moment's notice.
 
 I have Friday and Monday off work. A break. A long weekend. Shortly before leaving the house I put the washing machine on. Is it sad that the prospect of a day off triggered an urge within me to clear any chores before the weekend arrives?

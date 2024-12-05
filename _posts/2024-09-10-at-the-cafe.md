@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-09-10 At the café
-
 I have escaped from the confines of the junk-room for a few hours. I'm holed up in the middle of the café my daughters work at for the morning - or at least until the lunchtime rush arrives. It's a change of scenery - a chance to decompress.
 
 The café is never quiet on a morning.

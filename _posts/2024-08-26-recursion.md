@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-26 Recursion
-
 Every time a computer wakes up, it sees the world for the first time. In the first seconds of it's resurrected life it learns "how to be what you expected it to be" all over again. Not long after those moments of blissful ignorance it discovers what you did to it previously, and the hope, optimism and happiness it had moments earlier is snatched away.
 
 Oh, the parallels I could draw with the real world. Especially after this weekend.

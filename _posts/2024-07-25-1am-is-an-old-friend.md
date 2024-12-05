@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-07-25 1am is an old friend
-
 1am is an old friend.
 
 How is it that I don't write anything for days, and then the urge to write something appears an hour after I should have already been fast asleep?

@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-09-29 The remains of the day
-
 How on earth have I written nothing in the blog for five days? You might think - given the cavernous period of "missing time" that I would have breathless adventures and escapades to impart - important and insightful commentary on life, the universe and eveything - and you would be wrong.
 
 I have very little of earth shattering importance to impart - not that I'm going to let that stop me. Having nothing to say, and saying it, seems to be something of a required skill when it comes to writing a blog.

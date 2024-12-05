@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-18 First morning in Brixham
-
 A few weeks ago - after learning when I would be using my remaining work holidays - my other half arranged her remaining holidays to coincide, and asked an old friend that owns a cottage on the coast if we might use it for a few days.
 
 The many storied cottage is on the sea-front in Brixham, Devon - on the south west coast. It's worth noting that I've been to Brixham several times, but can't really remember anything about it. My Dad used to own a boat. My formative years were spent sailing up and down the coast, visiting all manner of harbours and bays. No doubt he could regale me with stories of each and every visit.

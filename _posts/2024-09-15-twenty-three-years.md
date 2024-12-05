@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-09-15 Twenty three years
-
 Today marks twenty three years since I stood at the front of a church in front of family and friends, exchanged rings, and signed a legally binding contract.
 
 Marriage is a strange thing really, isn't it. One of the last vestiges of entanglement between "the church" and "the state" in most countries - mostly to encourage social stability, which reduces the long-term cost of supporting society - hence the various tax-breaks that married couples receive.

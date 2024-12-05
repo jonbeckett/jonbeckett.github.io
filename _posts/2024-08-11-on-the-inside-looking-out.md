@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-11 On the inside looking out
-
 It's Sunday evening, and you find me sitting in the dark of the junk room listening to a random chill-out Jazz playlist. It feels like Charlie Brown is going to wander past with Snoopy at any moment.
 
 This morning - after scraping myself out of bed - I found myself alone around the house for the first couple of hours, so after picking up after everybody else, I found time for a coffee and a few minutes with Shania Twain and Tori Amos on the record player.

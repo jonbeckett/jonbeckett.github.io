@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-08-24 Endings and beginnings
-
 While attempting to work this week there has been constant noise from next door - the sound of workmen crashing and banging around in the garden. I wondered if the lady that lives next door might have moved out for the week while her roof is renovated - I had heard who I can only presume was her grand-daughter asking a thousand and one questions in the front garden a day or so before.
 
 I think I was wrong.

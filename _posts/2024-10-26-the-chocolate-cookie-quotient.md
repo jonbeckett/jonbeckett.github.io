@@ -4,8 +4,6 @@ tags:
   - Life
 ---
 
-# 2024-10-26 The chocolate cookie quotient
-
 After days filled with adventure and exploration last weekend, the return to reality this week has been somewhat jarring. I've been head-down for much of the week on a complicated work project - a "moon shot" of sorts.
 
 I've been working through lunches, accidentally working late, going to bed thinking about the numerous problems to solve, and waking up with lines of programming running through my head. Probably not the best place to be.
