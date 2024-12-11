@@ -1,5 +1,5 @@
 ---
-title: It�s been a few days
+title: It's been a few days
 tags:
   - Life
 ---
