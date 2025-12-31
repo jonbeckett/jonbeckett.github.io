@@ -38,23 +38,23 @@ layout: default
 
     {% if site.paginate %}
       <div class="pager">
-        <ul class="pagination">
+        <div class="pagination">
         {%- if paginator.previous_page %}
-          <li>
+          <div class="pagination-item">
             <a href="{{ paginator.previous_page_path | relative_url }}">{{ paginator.previous_page }}</a>
-          </li>
+          </div>
         {%- else %}
-          <li><span class="pager-edge">•</span></li>
+          <div class="pagination-item"><span class="pager-edge">•</span></div>
         {%- endif %}
-          <li><span class="current-page">{{ paginator.page }}</span></li>
+          <div class="pagination-item"><span class="current-page">{{ paginator.page }}</span></div>
         {%- if paginator.next_page %}
-          <li>
+          <div class="pagination-item">
             <a href="{{ paginator.next_page_path | relative_url }}">{{ paginator.next_page }}</a>
-          </li>
+          </div>
         {%- else %}
-          <li><span class="pager-edge">•</span></li>
+          <div class="pagination-item"><span class="pager-edge">•</span></div>
         {%- endif %}
-        </ul>
+        </div>
       </div>
     {%- endif %}
   {%- endif -%}

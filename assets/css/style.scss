@@ -11,54 +11,42 @@
 
 .pager .pagination {
   display: table !important;
-  list-style: none !important;
-  list-style-type: none !important;
   margin: 0 auto !important;
-  padding: 0 !important;
 }
 
-.pager .pagination li {
-  float: left !important;
+.pager .pagination-item {
   display: table-cell !important;
-  list-style: none !important;
-  list-style-type: none !important;
   margin: 0 3px !important;
   min-width: 45px !important;
   min-height: 45px !important;
   text-align: center !important;
 }
 
-.pager .pagination li a {
+.pager .pagination-item a {
   display: block !important;
   padding: 10px 12px !important;
   border: 1px solid #e8e8e8 !important;
   text-decoration: none !important;
-  min-width: 41px !important;
   text-align: center !important;
   box-sizing: border-box !important;
   color: #2a7ae2 !important;
 }
 
-.pager .pagination li a:hover {
+.pager .pagination-item a:hover {
   border-color: #828282 !important;
 }
 
-.pager .pagination li span.current-page,
-.pager .pagination li span.pager-edge {
+.pager .pagination-item span {
   display: block !important;
   padding: 10px 12px !important;
-  min-width: 41px !important;
   text-align: center !important;
   box-sizing: border-box !important;
 }
 
-.pager .pagination li span.current-page {
+.pager .pagination-item span.current-page {
   font-weight: bold !important;
-  background-color: transparent !important;
-  border: 1px solid transparent !important;
 }
 
-.pager .pagination li span.pager-edge {
-  border: 1px solid transparent !important;
+.pager .pagination-item span.pager-edge {
   color: #e8e8e8 !important;
 }
