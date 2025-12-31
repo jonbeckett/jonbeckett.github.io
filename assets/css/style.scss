@@ -10,26 +10,24 @@
 }
 
 .pager .pagination {
-  display: table !important;
-  margin: 0 auto !important;
+  display: inline-block !important;
 }
 
 .pager .pagination-item {
-  display: table-cell !important;
+  display: inline-block !important;
   margin: 0 3px !important;
-  min-width: 45px !important;
-  min-height: 45px !important;
-  text-align: center !important;
+  vertical-align: middle !important;
 }
 
 .pager .pagination-item a {
-  display: block !important;
-  padding: 10px 12px !important;
+  display: inline-block !important;
+  padding: 10px 15px !important;
   border: 1px solid #e8e8e8 !important;
   text-decoration: none !important;
   text-align: center !important;
   box-sizing: border-box !important;
   color: #2a7ae2 !important;
+  min-width: 45px !important;
 }
 
 .pager .pagination-item a:hover {
@@ -37,15 +35,18 @@
 }
 
 .pager .pagination-item span.current-page {
-  display: block !important;
-  padding: 10px 12px !important;
+  display: inline-block !important;
+  padding: 10px 15px !important;
   text-align: center !important;
   box-sizing: border-box !important;
   font-weight: bold !important;
-  border: 1px solid transparent !important;
+  min-width: 45px !important;
 }
 
 .pager .pagination-item.pager-edge-item {
-  border: 1px solid transparent !important;
-  color: transparent !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
 }
