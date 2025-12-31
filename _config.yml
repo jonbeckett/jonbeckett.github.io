@@ -25,7 +25,7 @@ repository: "jonbeckett/jonbeckett.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs: false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -54,48 +54,8 @@ reCaptcha:
 atom_feed:
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
-search: true # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: lunr # lunr (default), algolia, google
-lunr:
-  search_within_pages: false # true, false (default)
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
-google:
-  search_engine_id: # YOUR_SEARCH_ENGINE_ID
-  instant_search: # false (default), true
+search: false # true, false (default)
 
-# SEO Related
-google_site_verification:
-bing_site_verification:
-naver_site_verification:
-yandex_site_verification:
-baidu_site_verification:
-
-# Social Sharing
-twitter:
-  username:
-facebook:
-  username:
-  app_id:
-  publisher:
-og_image: # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type: # Person or Organization (defaults to Person)
-  name: # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-# Analytics
-analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id:
-    anonymize_ip: # true, false (default)
 
 # Site Author
 author:
@@ -110,41 +70,34 @@ author:
       # url: "mailto:jonathan.beckett@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://jonbeckett.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://jonbeckett.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonbeckett"
+      url: "https://facebook.com/jonbeckett"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: "https://instagram.com/jonbeckett"
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://threads.net/@jonbeckett"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jonbeckett.bsky.social"
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonbeckett"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://facebook.com/jonbeckett"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/jonbeckett"
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://threads.net/@jonbeckett"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/jonbeckett.bsky.social"
 
 # Reading Files
 include:
