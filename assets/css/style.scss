@@ -1,6 +1,17 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+@import "minima";
+
+// Fix pagination bullet points
+.pagination {
+  list-style-type: none !important;
+  
+  li {
+    list-style: none !important;
+    
+    &::before {
+      content: none !important;
+    }
+  }
+}
