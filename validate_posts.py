@@ -21,7 +21,7 @@ class BlogPostValidator:
         self.posts_checked = 0
         
         # Valid layouts that should exist
-        self.valid_layouts = {"post", "page", "default", "home", "base"}
+        self.valid_layouts = {"post", "page", "default", "home"}
         
     def log_error(self, file_path, message):
         """Log an error for a specific file"""
