@@ -20,24 +20,27 @@ url: "https://jonbeckett.github.io"
 baseurl: ""
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 markdown: kramdown
 highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-include-cache
 
 # Pagination settings
 paginate: 10
 paginate_path: "/page:num/"
 
-# Minima settings
-minima:
-  skin: auto
-  date_format: "%b %-d, %Y"
-  social_links:
-    - { platform: github, user_url: "https://github.com/jonbeckett" }
+# Minimal Mistakes settings
+author:
+  name: "Jonathan Beckett"
+  bio: "Welcome to my homepage on the internet."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jonbeckett"
 
 # Exclude from processing
 exclude:
