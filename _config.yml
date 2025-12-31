@@ -60,7 +60,7 @@ search: false # true, false (default)
 # Site Author
 author:
   name: "Jonathan Beckett"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/jonbeckett.jpg"
   bio: "Welcome to my homepage on the internet."
   location:
   email: "jonathan.beckett@gmail.com"
