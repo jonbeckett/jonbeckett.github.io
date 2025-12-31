@@ -13,17 +13,21 @@
   display: inline-block !important;
   list-style: none !important;
   list-style-type: none !important;
+  list-style-position: inside !important;
   margin: 0 !important;
   margin-left: 0 !important;
   padding: 0 !important;
+  padding-left: 0 !important;
 }
 
 .pager .pagination li {
   display: inline-block !important;
   list-style: none !important;
   list-style-type: none !important;
+  list-style-position: inside !important;
   margin: 0 3px !important;
   margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
 .pager .pagination li::before {
