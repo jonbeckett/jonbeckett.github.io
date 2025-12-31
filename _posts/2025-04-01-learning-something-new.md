@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Learning Something New"
 date: 2025-04-01
 categories: blog

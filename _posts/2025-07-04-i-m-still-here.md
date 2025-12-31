@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "I'm still here"
 date: 2025-07-04
 categories: blog

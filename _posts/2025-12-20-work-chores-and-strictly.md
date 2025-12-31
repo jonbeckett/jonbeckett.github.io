@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Work, chores and strictly"
 date: 2025-12-20
 categories: blog

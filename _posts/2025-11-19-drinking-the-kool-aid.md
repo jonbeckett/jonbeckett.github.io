@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Drinking the Kool Aid"
 date: 2025-11-19
 categories: blog

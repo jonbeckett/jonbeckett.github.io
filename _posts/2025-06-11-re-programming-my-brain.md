@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Re-programming my brain"
 date: 2025-06-11
 categories: blog

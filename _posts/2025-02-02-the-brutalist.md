@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Brutalist"
 date: 2025-02-02
 categories: blog

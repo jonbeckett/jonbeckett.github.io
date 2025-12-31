@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Coming up for air"
 date: 2025-01-29
 categories: blog

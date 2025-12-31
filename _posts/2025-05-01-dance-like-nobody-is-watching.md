@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Dance like nobody is watching"
 date: 2025-05-01
 categories: blog

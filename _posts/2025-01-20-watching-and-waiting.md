@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Watching and Waiting"
 date: 2025-01-20
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Last man standing"
 date: 2025-04-07
 categories: blog

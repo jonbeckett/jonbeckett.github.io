@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "This world wasnt designed for me"
 date: 2025-05-10
 categories: blog

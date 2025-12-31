@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "To By Young"
 date: 2025-10-29
 categories: blog

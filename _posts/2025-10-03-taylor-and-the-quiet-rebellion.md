@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Taylor and the quiet rebellion"
 date: 2025-10-03
 categories: blog

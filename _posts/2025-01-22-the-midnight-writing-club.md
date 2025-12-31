@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Midnight Writing Club"
 date: 2025-01-22
 categories: blog

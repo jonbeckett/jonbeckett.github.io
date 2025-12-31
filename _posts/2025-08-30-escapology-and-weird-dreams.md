@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Escapology and Weird Dreams"
 date: 2025-08-30
 categories: blog

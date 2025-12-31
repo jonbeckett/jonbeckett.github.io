@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Nuremberg"
 date: 2025-11-12
 categories: blog

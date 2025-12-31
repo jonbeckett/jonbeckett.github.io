@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Everything, Everywhere"
 date: 2025-09-07
 categories: blog

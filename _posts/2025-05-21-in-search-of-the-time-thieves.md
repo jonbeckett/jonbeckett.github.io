@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "In search of the time thieves"
 date: 2025-05-21
 categories: blog

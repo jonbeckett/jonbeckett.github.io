@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Step Back in Time"
 date: 2025-10-12
 categories: blog

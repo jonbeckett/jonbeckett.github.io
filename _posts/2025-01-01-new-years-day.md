@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "New Years Day"
 date: 2025-01-01
 categories: blog

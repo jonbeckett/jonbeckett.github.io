@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Strawberry jam on toast versus the common cold"
 date: 2025-09-04
 categories: blog

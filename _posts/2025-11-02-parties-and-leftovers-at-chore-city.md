@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Parties and Leftovers at Chore City"
 date: 2025-11-02
 categories: blog

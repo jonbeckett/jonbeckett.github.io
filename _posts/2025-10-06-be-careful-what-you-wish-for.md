@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Be Careful What You Wish For"
 date: 2025-10-06
 categories: blog

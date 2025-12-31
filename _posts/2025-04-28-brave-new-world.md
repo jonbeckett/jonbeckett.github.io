@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Brave New World"
 date: 2025-04-28
 categories: blog

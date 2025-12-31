@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Chasing my own tail"
 date: 2025-06-22
 categories: blog

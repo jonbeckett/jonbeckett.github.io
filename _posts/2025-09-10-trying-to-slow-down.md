@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Trying to slow down"
 date: 2025-09-10
 categories: blog

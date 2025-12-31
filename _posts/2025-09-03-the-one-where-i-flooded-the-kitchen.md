@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The one where I flooded the kitchen"
 date: 2025-09-03
 categories: blog

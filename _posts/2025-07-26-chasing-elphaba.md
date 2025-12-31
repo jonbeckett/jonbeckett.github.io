@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Chasing Elphaba"
 date: 2025-07-26
 categories: blog

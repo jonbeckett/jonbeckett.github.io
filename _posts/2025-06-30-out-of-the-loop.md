@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Out of the loop"
 date: 2025-06-30
 categories: blog

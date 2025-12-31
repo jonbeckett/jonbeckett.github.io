@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "An Evening at the Theatre"
 date: 2025-09-28
 categories: blog

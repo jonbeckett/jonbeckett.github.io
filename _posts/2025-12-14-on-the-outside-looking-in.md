@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "On the outside, looking in"
 date: 2025-12-14
 categories: blog

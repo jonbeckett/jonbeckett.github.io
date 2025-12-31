@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Old friends and unread books"
 date: 2025-06-01
 categories: blog

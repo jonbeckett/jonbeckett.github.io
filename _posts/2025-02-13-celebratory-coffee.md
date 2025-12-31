@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Celebratory coffee"
 date: 2025-02-13
 categories: blog

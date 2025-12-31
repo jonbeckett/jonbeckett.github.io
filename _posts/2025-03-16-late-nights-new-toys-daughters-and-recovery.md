@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Late nights new toys daughters and recovery"
 date: 2025-03-16
 categories: blog

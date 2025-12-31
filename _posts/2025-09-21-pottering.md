@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pottering"
 date: 2025-09-21
 categories: blog

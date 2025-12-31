@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Quiet Days Vogon Poetry and Impossible Creaters"
 date: 2025-10-26
 categories: blog

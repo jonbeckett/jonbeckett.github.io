@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The Importance of Being Earnest"
 date: 2025-11-20
 categories: blog

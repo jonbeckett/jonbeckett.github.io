@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Half Past My Bedtime"
 date: 2025-10-16
 categories: blog

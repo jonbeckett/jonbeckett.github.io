@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "We know how to spend our Friday nights"
 date: 2025-05-17
 categories: blog

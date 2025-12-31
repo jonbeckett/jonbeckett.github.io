@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Long Weekend"
 date: 2025-10-23
 categories: blog

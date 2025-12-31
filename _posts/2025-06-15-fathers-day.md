@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Fathers Day"
 date: 2025-06-15
 categories: blog

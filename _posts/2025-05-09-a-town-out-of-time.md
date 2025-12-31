@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A Town out of time"
 date: 2025-05-09
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "South West"
 date: 2025-11-15
 categories: blog

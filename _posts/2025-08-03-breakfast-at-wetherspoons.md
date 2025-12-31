@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Breakfast at Wetherspoons"
 date: 2025-08-03
 categories: blog

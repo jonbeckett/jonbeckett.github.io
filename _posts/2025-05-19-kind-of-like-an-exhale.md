@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Kind of like an exhale"
 date: 2025-05-19
 categories: blog

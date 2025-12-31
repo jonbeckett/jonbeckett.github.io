@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Half Past Lunchtime on Sunday"
 date: 2025-11-09
 categories: blog

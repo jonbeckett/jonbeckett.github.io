@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Copenhagen"
 date: 2025-12-07
 categories: blog

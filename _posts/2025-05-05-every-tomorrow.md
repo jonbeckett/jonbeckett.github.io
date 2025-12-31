@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Every Tomorrow"
 date: 2025-05-05
 categories: blog

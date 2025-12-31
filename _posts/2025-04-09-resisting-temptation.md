@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Resisting temptation"
 date: 2025-04-09
 categories: blog

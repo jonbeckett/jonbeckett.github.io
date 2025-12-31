@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Caverns Measureless to Man"
 date: 2025-01-12
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Lights in the Sky"
 date: 2025-10-27
 categories: blog

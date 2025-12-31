@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Reflection"
 date: 2025-03-02
 categories: blog

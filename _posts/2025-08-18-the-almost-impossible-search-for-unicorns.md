@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "The almost impossible search for unicorns"
 date: 2025-08-18
 categories: blog

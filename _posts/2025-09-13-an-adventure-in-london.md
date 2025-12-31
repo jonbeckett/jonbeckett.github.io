@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "An Adventure in London"
 date: 2025-09-13
 categories: blog
