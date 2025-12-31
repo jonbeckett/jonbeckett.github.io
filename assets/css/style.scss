@@ -8,6 +8,7 @@
   margin: 2em 0;
   overflow: hidden;
   clear: both;
+  width: 100%;
 }
 
 .pager a {
@@ -16,6 +17,7 @@
   border: 1px solid #e8e8e8;
   text-decoration: none;
   color: #2a7ae2;
+  max-width: 200px;
 }
 
 .pager a:hover {
