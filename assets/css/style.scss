@@ -3,15 +3,47 @@
 
 @import "minima";
 
-// Fix pagination bullet points
+// Pagination styles for minima 2.5.1
+.pager {
+  text-align: center;
+  margin: 2em 0;
+}
+
 .pagination {
-  list-style-type: none !important;
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
   
   li {
-    list-style: none !important;
+    display: inline-block;
+    list-style: none;
+    margin: 0 3px;
     
-    &::before {
-      content: none !important;
+    a, span {
+      display: block;
+      padding: 10px 15px;
+      border: 1px solid #e8e8e8;
+      text-decoration: none;
+      min-width: 41px;
+      text-align: center;
+      box-sizing: border-box;
+      
+      &:hover {
+        border-color: #bbb;
+      }
+    }
+    
+    .current-page {
+      font-weight: bold;
+      background-color: #828282;
+      color: white;
+      border-color: #828282;
+    }
+    
+    .pager-edge {
+      border: none;
+      color: #828282;
     }
   }
 }
