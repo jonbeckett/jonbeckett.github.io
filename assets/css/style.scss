@@ -5,48 +5,28 @@
 
 // Pagination styles for minima 2.5.1
 .pager {
-  text-align: center !important;
-  margin: 2em 0 !important;
+  margin: 2em 0;
+  overflow: hidden;
+  clear: both;
 }
 
-.pager .pagination {
-  display: inline-block !important;
+.pager a {
+  display: block;
+  padding: 10px 20px;
+  border: 1px solid #e8e8e8;
+  text-decoration: none;
+  color: #2a7ae2;
 }
 
-.pager .pagination-item {
-  display: inline-block !important;
-  margin: 0 3px !important;
-  vertical-align: middle !important;
+.pager a:hover {
+  border-color: #828282;
+  text-decoration: none;
 }
 
-.pager .pagination-item a {
-  display: inline-block !important;
-  padding: 10px 15px !important;
-  border: 1px solid #e8e8e8 !important;
-  text-decoration: none !important;
-  text-align: center !important;
-  box-sizing: border-box !important;
-  color: #2a7ae2 !important;
-  min-width: 45px !important;
+.pager .previous {
+  float: left;
 }
 
-.pager .pagination-item a:hover {
-  border-color: #828282 !important;
-}
-
-.pager .pagination-item span.current-page {
-  display: inline-block !important;
-  padding: 10px 15px !important;
-  text-align: center !important;
-  box-sizing: border-box !important;
-  font-weight: bold !important;
-  min-width: 45px !important;
-}
-
-.pager .pagination-item.pager-edge-item {
-  width: 0 !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  overflow: hidden !important;
+.pager .next {
+  float: right;
 }
