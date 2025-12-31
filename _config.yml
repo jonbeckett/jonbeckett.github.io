@@ -26,6 +26,11 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+
+# Pagination settings
+paginate: 10
+paginate_path: "/page:num/"
 
 # Minima settings
 minima:
@@ -47,3 +52,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+  - archive/
