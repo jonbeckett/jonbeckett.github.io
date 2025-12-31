@@ -1,0 +1,16 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Override pagination styles to remove bullet points
+.pagination {
+  list-style-type: none !important;
+  
+  li {
+    list-style: none !important;
+    list-style-type: none !important;
+    
+    &::before {
+      content: none !important;
+    }
+  }
+}
