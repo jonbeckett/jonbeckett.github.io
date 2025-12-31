@@ -5,45 +5,53 @@
 
 // Pagination styles for minima 2.5.1
 .pager {
-  text-align: center;
-  margin: 2em 0;
+  text-align: center !important;
+  margin: 2em 0 !important;
 }
 
-.pagination {
-  display: inline-block;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  
-  li {
-    display: inline-block;
-    list-style: none;
-    margin: 0 3px;
-    
-    a, span {
-      display: block;
-      padding: 10px 15px;
-      border: 1px solid #e8e8e8;
-      text-decoration: none;
-      min-width: 41px;
-      text-align: center;
-      box-sizing: border-box;
-      
-      &:hover {
-        border-color: #bbb;
-      }
-    }
-    
-    .current-page {
-      font-weight: bold;
-      background-color: #828282;
-      color: white;
-      border-color: #828282;
-    }
-    
-    .pager-edge {
-      border: none;
-      color: #828282;
-    }
-  }
+.pager .pagination {
+  display: inline-block !important;
+  list-style: none !important;
+  list-style-type: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.pager .pagination li {
+  display: inline-block !important;
+  list-style: none !important;
+  list-style-type: none !important;
+  margin: 0 3px !important;
+}
+
+.pager .pagination li::before {
+  content: none !important;
+  display: none !important;
+}
+
+.pager .pagination li a,
+.pager .pagination li span {
+  display: inline-block !important;
+  padding: 10px 15px !important;
+  border: 1px solid #e8e8e8 !important;
+  text-decoration: none !important;
+  min-width: 41px !important;
+  text-align: center !important;
+  box-sizing: border-box !important;
+}
+
+.pager .pagination li a:hover {
+  border-color: #bbb !important;
+}
+
+.pager .pagination li .current-page {
+  font-weight: bold !important;
+  background-color: #828282 !important;
+  color: white !important;
+  border-color: #828282 !important;
+}
+
+.pager .pagination li .pager-edge {
+  border: none !important;
+  color: #828282 !important;
 }
