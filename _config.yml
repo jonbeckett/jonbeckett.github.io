@@ -20,27 +20,56 @@ url: "https://jonbeckett.github.io"
 baseurl: ""
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
-highlighter: rouge
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-include-cache
 
 # Pagination settings
 paginate: 10
-paginate_path: "/page:num/"
+paginate_path: /page:num/
 
 # Minimal Mistakes settings
+minimal_mistakes_skin: default
+locale: "en-US"
+title_separator: "-"
+
+# Site Author
 author:
   name: "Jonathan Beckett"
+  avatar: ""
   bio: "Welcome to my homepage on the internet."
+  location: ""
+  email: "jonathan.beckett@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonbeckett"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jonbeckett"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 # Exclude from processing
 exclude:
