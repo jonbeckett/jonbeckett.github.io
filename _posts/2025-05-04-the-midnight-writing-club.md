@@ -2,7 +2,9 @@
 layout: single
 title: "The Midnight Writing Club"
 date: 2025-05-04
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 A few months ago I found myself sitting in the dark of the junk room in the dead of night, writing a blog post, and wondered how many other people were doing the same thing.

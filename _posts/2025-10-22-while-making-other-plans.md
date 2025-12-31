@@ -2,7 +2,9 @@
 layout: single
 title: "While Making Other Plans"
 date: 2025-10-22
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 In early 2006, after discovering I have a rare genetic defect, after a third and final unsuccessful attempt at IVF, and after gazing into the yawning crater that had once been our bank account, we resigned ourselves to either never having children, or perhaps, maybe talking about adoption.

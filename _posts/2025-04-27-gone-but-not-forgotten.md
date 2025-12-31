@@ -2,7 +2,9 @@
 layout: single
 title: "Gone but not forgotten"
 date: 2025-04-27
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 While tinkering with something on the internet this evening - and shaking my head at my own idiocy when it comes to not only finding rabbit holes, but actively digging them - I started reading old blog posts. Snapshots of my life from years gone by.

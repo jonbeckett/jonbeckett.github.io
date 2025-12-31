@@ -2,7 +2,9 @@
 layout: single
 title: "Round in Circles"
 date: 2025-10-19
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Sunday

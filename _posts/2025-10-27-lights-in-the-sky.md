@@ -2,7 +2,9 @@
 layout: single
 title: "Lights in the Sky"
 date: 2025-10-27
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 One of the current WordPress writing prompts asks “what historical event fascinates you the most ?”

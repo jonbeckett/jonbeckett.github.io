@@ -2,7 +2,9 @@
 layout: single
 title: "The Importance of Being Earnest"
 date: 2025-11-20
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 We made our way into London yesterday evening to watch Stephen Fry starring as Lady Bracknell in “The Importance of Being Earnest”. It didn’t quite work out as planned, but I’ll get to that.

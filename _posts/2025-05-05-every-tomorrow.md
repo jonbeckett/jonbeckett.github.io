@@ -2,7 +2,9 @@
 layout: single
 title: "Every Tomorrow"
 date: 2025-05-05
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I'm watching the minutes tick down at the end of a three-day weekend and find myself wondering where the time has gone. In truth, it's been a fairly quiet weekend. Sometimes, quiet is good.

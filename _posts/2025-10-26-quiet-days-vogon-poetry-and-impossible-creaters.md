@@ -2,7 +2,9 @@
 layout: single
 title: "Quiet Days Vogon Poetry and Impossible Creaters"
 date: 2025-10-26
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After spending so many years surrounded by chaos at home, it always feels a little bit odd when travelling to find life suddenly becalmed. So much so that I slept in this morning. I can’t remember the last time I slept through until 9 in the morning - especially as the clocks changed last night - winding back an hour.

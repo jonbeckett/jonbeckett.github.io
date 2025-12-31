@@ -2,7 +2,9 @@
 layout: single
 title: "The Unwanted Elephant"
 date: 2025-05-03
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 While walking home from town earlier today I happened upon a huge unwanted soft-toy of an elephant, sitting quietly at the end of somebody's driveway, with a cardboard sign propped against it with the word "free" written on it.

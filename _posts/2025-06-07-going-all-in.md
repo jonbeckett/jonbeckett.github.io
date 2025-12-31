@@ -2,7 +2,9 @@
 layout: single
 title: "Going All In"
 date: 2025-06-07
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 My mobile phone came up for renewal last week. After a few days of abject indecision, I finally pulled the trigger on its replacement this afternoon. An iPhone will arrive through the post tomorrow. After several years using an Android phone as a daily driver, I’m heading back to Apple.

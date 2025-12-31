@@ -2,7 +2,9 @@
 layout: single
 title: "In search of the time thieves"
 date: 2025-05-21
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Somehow it’s half past midnight - or "half past my bedtime", as my middle daughter might have said when she was young.

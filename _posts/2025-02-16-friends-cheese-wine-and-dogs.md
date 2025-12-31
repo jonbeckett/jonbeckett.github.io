@@ -2,7 +2,9 @@
 layout: single
 title: "Friends, Cheese, Wine and Dogs"
 date: 2025-02-16
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After several months chasing our own tails, we invited some friends over last night. There really wasn’t much of a plan - other than escaping from each other’s normal lives for a few hours. We filled the table up with bread, cheese, crackers, and wine and caught up properly with each other’s adventures.

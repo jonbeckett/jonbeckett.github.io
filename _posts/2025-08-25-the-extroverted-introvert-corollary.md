@@ -2,7 +2,9 @@
 layout: single
 title: "The Extroverted Introvert Corollary"
 date: 2025-08-25
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 A few days ago I made the colossal mistake of setting foot into the “social internet” in search of hopefully kindred spirits - or “Unicorns” as I labelled them at the time - fellow recorders of life’s exhalations.

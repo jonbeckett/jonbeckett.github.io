@@ -2,7 +2,9 @@
 layout: single
 title: "Almost daily"
 date: 2025-01-08
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 For the last several years, whenever asked how frequently I write on the blog, I have replied "almost daily". I'm beginning to wonder if I should refactor my stock reply to "almost weekly".

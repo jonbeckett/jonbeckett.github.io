@@ -2,7 +2,9 @@
 layout: single
 title: "An artificially generated alter-ego"
 date: 2025-03-30
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I asked an artificially intelligent machine learning algorithm to draw a concept art character of a 50 year old software developer sitting in a room full of old computer hardware (so essentially, a pretend alter-ego of myself).

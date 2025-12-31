@@ -2,7 +2,9 @@
 layout: single
 title: "Unintentionally Absent"
 date: 2025-03-21
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I’ve been meaning to write something all week - somehow each time I sit down at the computer, something happens to either distract or divert me.

@@ -2,7 +2,9 @@
 layout: single
 title: "Brave New World"
 date: 2025-04-28
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After conducting all manner of covert experiments in recent days and weeks - driven by a creeping disdain for the continued and increasingly brazen commoditisation of readers by the major online publishing platforms - I've pulled the trigger on a somewhat seismic change.

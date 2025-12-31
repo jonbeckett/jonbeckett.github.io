@@ -2,7 +2,9 @@
 layout: single
 title: "Strawberry jam on toast versus the common cold"
 date: 2025-09-04
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 While brushing my teeth a few days ago, it occurred to me that I haven’t been sick for quite some time. Months. Not since this time last year, when I ended up at the doctors for perhaps the third time in twenty five years, and ended up being prescribed alarming quantities of steroids.

@@ -2,7 +2,9 @@
 layout: single
 title: "Eurovision"
 date: 2025-05-18
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I'm not really sure when we started watching Eurovision. It's become a "thing" that we do each year - setting the evening aside with a few drinks and some food to enjoy the various countries performances.

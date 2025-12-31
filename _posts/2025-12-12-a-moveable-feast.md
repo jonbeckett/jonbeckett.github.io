@@ -2,7 +2,9 @@
 layout: single
 title: "A Moveable Feast"
 date: 2025-12-12
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 It occurred to me this morning that I’m becoming invisible. As wave after wave of new generations enter the scene from stage left, I’m increasingly the fool on the hill - recounting past adventures, and rolling my eyes at the surrounding cacophony.

@@ -2,7 +2,9 @@
 layout: single
 title: "The Melting Pot"
 date: 2025-01-11
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 While sitting atop my fence with a bag of popcorn, waiting for the Facebook, Instagram and Threads mud-slinging escapade to calm down, I've been trying to understand the anger, spite and fury that seems to have consumed so many.

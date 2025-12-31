@@ -2,7 +2,9 @@
 layout: single
 title: "Last man standing"
 date: 2025-04-07
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Everybody else went to bed some time ago. I'm sitting in the dark of the junk room, bathed in the light of the desk lamps while Billy Joel plays the piano and sings.

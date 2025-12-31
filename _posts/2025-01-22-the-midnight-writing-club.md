@@ -2,7 +2,9 @@
 layout: single
 title: "The Midnight Writing Club"
 date: 2025-01-22
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Welcome to the inaugural meeting of the “Midnight Writing Club”. Unfortunately we only have one member at the moment, so I’ll be acting as chair-person, taking the minutes, making the coffee, and putting the cake on plates that I brought with me.

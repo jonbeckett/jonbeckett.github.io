@@ -2,7 +2,9 @@
 layout: single
 title: "The Need to Slow Down"
 date: 2025-09-30
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 While racing from one thing to another throughout a typical day, I rarely give any thought to what I might not do – I’m invariably consumed with what I have not done – or what others might be able to accuse me of not doing.

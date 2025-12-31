@@ -2,7 +2,9 @@
 layout: single
 title: "Resisting temptation"
 date: 2025-04-09
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I fell down an internet rabbit hole this week. After posting my frustrations with Substack's increasingly steep slide towards becoming a walled garden, a number of people got in touch - relating their annoyance too.

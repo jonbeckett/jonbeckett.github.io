@@ -2,7 +2,9 @@
 layout: single
 title: "Oats, Harbours, Mermaids and Glogg"
 date: 2025-12-08
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Today was very much a day of new things. A breakfast of overnight oats, a pilgrimage of sorts, a marching military band, a mermaid, an open sandwich and a glass of glogg.

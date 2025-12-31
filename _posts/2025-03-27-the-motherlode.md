@@ -2,7 +2,9 @@
 layout: single
 title: "The Motherlode"
 date: 2025-03-27
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 While sitting here in the dark of the junk room, bathed in the light of lamps that stand on either end of the desk, a server farm somewhere is having a quiet heart attack - having received every blog post I’ve written since 2003. The posts are slowly appearing - back-filling the past towards the present, re-constructing the “story of me”.

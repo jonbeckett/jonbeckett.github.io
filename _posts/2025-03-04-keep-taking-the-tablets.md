@@ -2,7 +2,9 @@
 layout: single
 title: "Keep taking the tablets"
 date: 2025-03-04
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 On the way home from visiting my parents last night, after being sick for the better part of two weeks, my other half pretty much ordered to me to book a doctors appointment. The confirmation came through within a couple of hours (while still en-route - it’s a long way), for an appointment the same afternoon. Unheard of.

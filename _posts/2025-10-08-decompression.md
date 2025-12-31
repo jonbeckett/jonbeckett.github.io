@@ -2,7 +2,9 @@
 layout: single
 title: "Decompression"
 date: 2025-10-08
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I’m having a “night off” tonight. Trying to slow down. Listening to music. Noodling around with this and that on the Mac. Not really achieving anything, and not worrying too much about that.

@@ -2,7 +2,9 @@
 layout: single
 title: "Christmas Day"
 date: 2025-12-25
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Somehow we’ve made it through Christmas in one piece.

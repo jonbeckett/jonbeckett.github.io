@@ -2,7 +2,9 @@
 layout: single
 title: "South West"
 date: 2025-11-15
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After working throughout the entire summer, and disappearing for one long weekend during that time, I finally shut my computer down on Friday evening with no intention of switching it back on  for the coming week.

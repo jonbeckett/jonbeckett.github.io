@@ -2,7 +2,9 @@
 layout: single
 title: "Reflection"
 date: 2025-03-02
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Greetings from deepest, darkest Cornwall, where I’m visiting my parents for the weekend.

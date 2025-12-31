@@ -2,7 +2,9 @@
 layout: single
 title: "An Evening at the Theatre"
 date: 2025-09-28
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After spending much of the weekend hiding from the world with a nasty cold, we ventured out tonight rather than waste the theatre tickets we bought over a year ago and promptly forgot all about. If the theatre hadn’t sent an email reminder yesterday, there would have been two empty seats in row C this evening.

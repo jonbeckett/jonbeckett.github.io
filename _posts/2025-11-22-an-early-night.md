@@ -2,7 +2,9 @@
 layout: single
 title: "An Early Night"
 date: 2025-11-22
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After an early night last night, I have been up since 3:45 this morning. I got up to watch the Grand Prix in Las Vegas - which turned out to be not worth watching at all. Oh well.

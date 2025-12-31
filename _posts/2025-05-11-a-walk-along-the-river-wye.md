@@ -2,7 +2,9 @@
 layout: single
 title: "A walk along the river Wye"
 date: 2025-05-11
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After waking a little after 8 this morning I performed the inevitable gymnastics around the holiday cottage to have a shower and shave without punching windows, or drop-kicking deodorant cans, toothbrushes, or toilet rolls around the rooms like ping-pong balls.

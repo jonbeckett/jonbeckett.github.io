@@ -2,7 +2,9 @@
 layout: single
 title: "Slowly by Surely"
 date: 2025-04-04
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After several days of seemingly endless struggling, I started to make progress today.

@@ -2,7 +2,9 @@
 layout: single
 title: "To By Young"
 date: 2025-10-29
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 What is the “right” age to act? What if the most authentic version of “you” is still a little bit… sticky-fingered and prone to spontaneous laughter?

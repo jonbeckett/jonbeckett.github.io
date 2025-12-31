@@ -2,7 +2,9 @@
 layout: single
 title: "The Brutalist"
 date: 2025-02-02
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 We saw the movie “The Brutalist” at the cinema last night. I almost emptied my head into the keyboard when we got home, and I’m glad I didn’t - there was just so much to process about it - the majority of which I can’t really communicate.

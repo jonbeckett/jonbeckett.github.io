@@ -2,7 +2,9 @@
 layout: single
 title: "Homeward Bound"
 date: 2025-05-12
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After waking a little after 8am this morning, and packing our belongings into the back of the car, we took a final stroll into our temporary home. Along the way we happened upon quite the most spectacular bookshop you can possibly imagine (the photos are on Instagram), and then fed our faces with poached eggs on toast at a wonderful café just around the corner.

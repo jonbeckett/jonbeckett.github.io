@@ -2,7 +2,9 @@
 layout: single
 title: "Learning Something Entirely New"
 date: 2025-04-01
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Today marked the beginning of perhaps a long journey into the unknown - learning something entirely new - or new to me at least.

@@ -2,7 +2,9 @@
 layout: single
 title: "Be Careful What You Wish For"
 date: 2025-10-06
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Aviation has been a common thread throughout my life – from the giant red encyclopedia that was ever present in our house, to the balsa Tiger Moth my Dad made at the kitchen table when we were small (the smell of dope still brings that memory back), and my brother building countless plastic model kits from the local toy shop.

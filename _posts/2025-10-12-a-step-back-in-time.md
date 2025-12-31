@@ -2,7 +2,9 @@
 layout: single
 title: "A Step Back in Time"
 date: 2025-10-12
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 We attended the party of a wonderful friend yesterday evening to help celebrate her 50th birthday. The invitation requested 80s themed fancy dress.

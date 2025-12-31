@@ -2,7 +2,9 @@
 layout: single
 title: "The Memory Library"
 date: 2025-04-12
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 When I write for the blog, the words have recently started out in a note taking application called "Obsidian". I like it primarily because it writes in plain text. When starting a new post, I invariable name the file with the date, and then the name of the day until I think of something better.

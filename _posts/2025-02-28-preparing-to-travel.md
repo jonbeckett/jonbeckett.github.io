@@ -2,7 +2,9 @@
 layout: single
 title: "Preparing to Travel"
 date: 2025-02-28
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After a week and a half struggling with a cough and cold, I’m finally starting to feel better this morning - or at least if I sit quietly, I don’t cough my lungs up. My head still slowly fills with snot though. Too much? Sorry.

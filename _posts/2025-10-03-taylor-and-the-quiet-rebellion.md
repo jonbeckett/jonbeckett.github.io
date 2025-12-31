@@ -2,7 +2,9 @@
 layout: single
 title: "Taylor and the quiet rebellion"
 date: 2025-10-03
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Taylor Swift’s new album “The Life of a Showgirl” arrived this morning. As a fifty-something guy that invariably listens to retro radio stations targeted at people of a certain age, I probably have no business listening to songs sung by a girl twenty years younger than me. Or so expectation would have you believe.

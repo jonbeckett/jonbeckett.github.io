@@ -2,7 +2,9 @@
 layout: single
 title: "Everything, Everywhere, Again"
 date: 2025-09-12
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 At some point yesterday - nearly five days later than planned - and now with most of the holiday gone when I might have stage managed the migration smoothly and expertly - “The” blog has appeared at the place it should have appeared several days ago.

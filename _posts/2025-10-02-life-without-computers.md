@@ -2,7 +2,9 @@
 layout: single
 title: "Life without Computers"
 date: 2025-10-02
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Can you imagine what life would be like without a computer? I’m old enough that I don’t need to imagine it – I can remember it.

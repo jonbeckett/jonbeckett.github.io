@@ -2,7 +2,9 @@
 layout: single
 title: "Kind of like an exhale"
 date: 2025-05-19
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 A little while ago - after receiving feedback that subscribers to my blog weren't altogether happy with Substack marketing things at them I tried switching it to Ghost. It seemed like a good idea at the time - building my own castle on the internet. My house, my content, my rules. The interesting thing? As time went on I received feedback that perhaps Substack hadn't been so bad after all. Quite a lot of feedback.

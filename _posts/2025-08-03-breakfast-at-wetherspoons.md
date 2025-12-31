@@ -2,7 +2,9 @@
 layout: single
 title: "Breakfast at Wetherspoons"
 date: 2025-08-03
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 This morning you find me holed up in a booth at our local Wetherspoons - part of a huge pub chain that stretches across the country. I’m sitting in the booth with my laptop, tapping away, and occasionally looking up to meet the gaze of older people wandering past in search of a seat - who seem to resent my existence, because I’m here on my own, and taking up an entire table that they could have used.

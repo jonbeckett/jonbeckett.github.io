@@ -2,7 +2,9 @@
 layout: single
 title: "Four Days Away"
 date: 2025-05-08
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 For the last several years - since the children were old enough - we have escaped for a long weekend in the spring to visit a European city. Just the two of us. An escape from life, work, and whatever else for a few days - walking city streets, and wandering around museums, galleries, and bookshops - and perhaps trying out local food and drinks along the way.

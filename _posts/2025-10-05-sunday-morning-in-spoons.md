@@ -2,7 +2,9 @@
 layout: single
 title: "Sunday morning in Spoons"
 date: 2025-10-05
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I’m sitting in Wetherspoons this morning, feeling incredibly smug to have bagged a table in a booth. Doing so seems to depend on arriving before 9:30.

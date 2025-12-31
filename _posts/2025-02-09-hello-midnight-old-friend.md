@@ -2,7 +2,9 @@
 layout: single
 title: "Hello midnight, old friend"
 date: 2025-02-09
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 We went out for breakfast this morning at the café where my middle daughter works (or rather, one of the places she works - she now has two jobs). The owner came over and sat with us for a few minutes - we’ve known him for years - our children were all at school together. It was good to catch up.

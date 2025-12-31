@@ -2,7 +2,9 @@
 layout: single
 title: "Artificial Intelligence"
 date: 2025-02-02
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I just finished watching the movie “Her”. It’s only taken me 12 years and then two sittings to make it through the movie. Better late than never, right? I can’t help feeling that if sometimes things happen for a reason, perhaps the universe *made* me wait until now - perhaps if I had seen it before, it might not have landed with quite the same impact.

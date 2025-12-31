@@ -2,7 +2,9 @@
 layout: single
 title: "Long Weekend"
 date: 2025-10-23
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 The clock ticked into Friday ten minutes ago, and you find me almost giddy with the prospect of not returning to work until Tuesday next week. A long weekend away.

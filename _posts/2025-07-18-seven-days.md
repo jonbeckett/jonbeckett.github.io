@@ -2,7 +2,9 @@
 layout: single
 title: "Seven Days"
 date: 2025-07-18
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 It’s been seven days since I last wrote. Seven days of work, chores, drama, and mayhem. The last two days particularly so.

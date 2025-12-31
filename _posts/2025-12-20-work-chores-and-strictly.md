@@ -2,7 +2,9 @@
 layout: single
 title: "Work, chores and strictly"
 date: 2025-12-20
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 It’s been a few days again. A few days since I last emptied my head into the keyboard. I’m not sure where the last week went, to be honest. Work, chores, and errands rapidly conspire if you let them - and I tend to let them.

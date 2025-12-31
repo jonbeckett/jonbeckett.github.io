@@ -2,7 +2,9 @@
 layout: single
 title: "The Glyptotek and Tivoli Gardens"
 date: 2025-12-10
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Yesterday morning we set out bright and early for the “Glyptotek” - a vanity project built by Carl Jacobsen - the son of the founder of the Carlsberg breweries - to house his art collection. While wandering around the museum I found myself wondering if art is a really good tax break. It must be - judging by the corridors of sculptures and paintings.

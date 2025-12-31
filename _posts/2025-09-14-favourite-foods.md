@@ -2,7 +2,9 @@
 layout: single
 title: "Favourite Foods"
 date: 2025-09-14
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 There's writing prompt at Wordpress today asking "what are your favourite types of foods". To be honest, it would be easier to list the foods I don't like, rather than foods I like best - because I'll pretty much eat anything (within reason). We'll ignore that they have written both types and foods as plural.

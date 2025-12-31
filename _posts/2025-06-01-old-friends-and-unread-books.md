@@ -2,7 +2,9 @@
 layout: single
 title: "Old friends and unread books"
 date: 2025-06-01
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I can never quite decide if “having a quiet weekend” is missing out on opportunities to be here, there, and everywhere, or if stepping away from the mayhem is somehow more valuable. I know people talk about “investing in yourself”, but it can easily get to the point where you’ve not seen anybody for weeks or months.

@@ -2,7 +2,9 @@
 layout: single
 title: "We know how to spend our Friday nights"
 date: 2025-05-17
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I answered an SOS call on Friday morning from a neighbour. Their internet was being "a bit rubbish" (their words), so rather than headbang the wall for several days answering support emails before summoning an engineer from wherever internet service providers hide engineers, they sent me a message.

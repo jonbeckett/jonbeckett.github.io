@@ -2,7 +2,9 @@
 layout: single
 title: "Tiredness Abounds"
 date: 2025-07-27
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 Sunday evening became Monday morning two minutes ago. Normally I would be digging my heels in for another hour and fighting the arrival of tomorrow for as long as possible. I’m too tired to fight it tonight.

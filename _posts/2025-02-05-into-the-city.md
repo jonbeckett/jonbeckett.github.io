@@ -2,7 +2,9 @@
 layout: single
 title: "Into the City"
 date: 2025-02-05
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 At five fifty five this morning my body woke me up, and I switched off the alarm I had carefully set the previous night. I’m mysteriously good at doing that.

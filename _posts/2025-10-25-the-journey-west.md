@@ -2,7 +2,9 @@
 layout: single
 title: "The Journey West"
 date: 2025-10-25
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 After a wonderfully unplanned night out with friends last night, we scraped ourselves out of bed this morning, threw clothes into travel bags, and set off towards Wells in Somerset - a small town near Glastonbury.

@@ -2,7 +2,9 @@
 layout: single
 title: "Half Past Lunchtime on Sunday"
 date: 2025-11-09
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 It’s half past lunchtime on Sunday, and you find me hiding out in the junk room at home, listening to a singer-songwriter playlist. Randy Newman is singing that he thinks it’s going to rain today. He’s not wrong - it looks pretty miserable outside. Never mind. I’ll stay in the warm with a mug of coffee.

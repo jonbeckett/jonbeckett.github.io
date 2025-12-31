@@ -2,7 +2,9 @@
 layout: single
 title: "Pottering"
 date: 2025-09-21
-categories: blog
+categories:
+  - blog
+  - "2025"
 ---
 
 I’m having a day off from everything today. Well... I say everything, but I’ve filled the washing machine three times. Who knew that chores are a great excuse to avoid getting on with other things?
