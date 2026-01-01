@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Saved A Dog"
 date: 2015-10-14
-categories: archive
+categories: "2015"
 ---
 
 I cycle to work on a mountain bike each day. The first half of the journey takes me through the centre of the town - doing battle with the school run traffic - and the second half takes me off into the countryside, and into a country estate. The journey is about 3 miles, door to door, and takes anything from ten minutes, to twenty, depending on how fast my legs feel like they can make me go on a given day.

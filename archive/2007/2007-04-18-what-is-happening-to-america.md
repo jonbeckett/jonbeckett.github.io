@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Is Happening To America"
 date: 2007-04-18
-categories: archive
+categories: "2007"
 ---
 
 Over the past few days I have seen some of the media coverage of the shootings in Virginia. Inevitably, after the news channels had reported the available information - which took all of 2 minutes - they repeated the story. On every channel. All evening.

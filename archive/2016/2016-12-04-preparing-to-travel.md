@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Preparing To Travel"
 date: 2016-12-04
-categories: archive
+categories: "2016"
 ---
 
 Sunday morning is rapidly vanishing. I had grand plans about sitting with a cup of tea and writing some lengthy brain-dumpish tome about "where I am right now" - in terms of my life, my thoughts about things, and so on. Instead I've spent the greater part of the morning putting washing through the machine, hanging clothes up to dry, washing up, tidying up, and all the other crap that seems to consume weekend after weekend.

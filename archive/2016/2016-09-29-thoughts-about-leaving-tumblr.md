@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts About Leaving Tumblr"
 date: 2016-09-29
-categories: archive
+categories: "2016"
 ---
 
 Over the past few weeks I've been giving this whole blogging escapade a fair amount of thought. More thought than I've given it in quite some time - which doesn't actually have to be that much thought at all, given that I haven't really given it any thought at all for the last little while.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "California Suite"
 date: 2012-12-07
-categories: archive
+categories: "2012"
 ---
 
 Earlier this week some friends called with two spare tickets to watch a play at The Mill at Sonning. Fitting it in amid our work week was something of an adventure, but somehow we made it to their door in time, and then made it through horrendous traffic in time to eat before the play started.

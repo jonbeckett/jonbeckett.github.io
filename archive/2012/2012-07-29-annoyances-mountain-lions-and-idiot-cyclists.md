@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Annoyances Mountain Lions And Idiot Cyclists"
 date: 2012-07-29
-categories: archive
+categories: "2012"
 ---
 
 After much thought and deliberation (actually, very little thought, and even less deliberation), I've decided it might be better to not talk to anybody today. There are so many things annoying me, and so many people saying things that are either wrong, idiotic, or prejudiced, that it's just better to keep my mouth shut.

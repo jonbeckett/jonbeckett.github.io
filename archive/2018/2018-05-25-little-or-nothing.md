@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Little Or Nothing"
 date: 2018-05-25
-categories: archive
+categories: "2018"
 ---
 
 After scraping myself out of bed a little after 9am this morning - perhaps the latest I have been up in many months - I busied myself with the usual round of chores for the first few hours of the day - washing up, tidying up, cutting the grass, and so on. I even cleaned the fridge out (read: threw almost it's entire contents into the wheelie bin outside). Beyond that, I really haven't done much at all - I'm struggling to think what I spent the rest of the day doing.

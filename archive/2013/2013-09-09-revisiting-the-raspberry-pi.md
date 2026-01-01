@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Revisiting The Raspberry Pi"
 date: 2013-09-09
-categories: archive
+categories: "2013"
 ---
 
 The "Raspberry Pi" is a $35 computer that has been developed over the last few years to be sold into education, and the developing world. It uses off the shelf components to construct an extremely cheap, versatile platform through which it is hoped a new generation of software developers and hardware engineers will be fosteredin much the same way as the explosion that happened in the mid 1980s when 8 bit computers became affordable.

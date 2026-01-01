@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Past Rediscovered"
 date: 2010-11-18
-categories: archive
+categories: "2010"
 ---
 
 While tidying up files in the depths of the computer earlier, I started delving through a folder titled "canned" - representing projects that had at some point in the distant past been pushed to one side... consigned to history. The existence of a project folder in and of itself points towards a time in the past when I had time to meddle with all manner of coding projects; a time before social networks, instant messaging, blogging, family life, and children had destroyed any free time I now (don't) have.

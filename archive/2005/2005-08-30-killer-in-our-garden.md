@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Killer In Our Garden"
 date: 2005-08-30
-categories: archive
+categories: "2005"
 ---
 
 I think I just caused the death of a small bird in the back garden... the picture above shows the last thing the little bird saw too.

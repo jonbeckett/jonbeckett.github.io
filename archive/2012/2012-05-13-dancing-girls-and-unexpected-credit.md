@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dancing Girls And Unexpected Credit"
 date: 2012-05-13
-categories: archive
+categories: "2012"
 ---
 
 Over the past few weeks my better half has been working on a secret project - at times our lounge has been carpeted with penguin headpieces, and at other times red velvet vampire cloaks. I was sworn to secrecy ahead of the shows staged this evening at the theatre in town.

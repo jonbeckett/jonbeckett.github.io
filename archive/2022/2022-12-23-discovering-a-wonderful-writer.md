@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Discovering a Wonderful Writer"
 date: 2022-12-23
-categories: archive
+categories: "2022"
 ---
 
 It's the last working day before Christmas. Half an hour left, with a long weekend stretched out ahead. While not working I've been grocery shopping, put two loads of clothes through the washing machine, emptied a sink filled with dirty cups, and picked up plates and cups from all over the house.

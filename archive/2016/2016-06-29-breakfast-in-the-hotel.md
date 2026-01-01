@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Breakfast In The Hotel"
 date: 2016-06-29
-categories: archive
+categories: "2016"
 ---
 
 I woke this morning with a start, realised I was in the hotel, rolled over and looked at the laptop screen (which was plugged in, so hadn't hibernated) - 6am. It always strikes me as amusing that for the first few moments when we wake up in a strange place, it takes our head a few moments to put everything together.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tired And Annoyed"
 date: 2005-04-07
-categories: archive
+categories: "2005"
 ---
 
 I checked into gMail a little while ago to send an email into work warning them that I might not be available to go on client site next week, and discovered an email sent shortly after I left the office from one of the project managers, who has told a client I will be visiting them on Tuesday. F*cking dammit.

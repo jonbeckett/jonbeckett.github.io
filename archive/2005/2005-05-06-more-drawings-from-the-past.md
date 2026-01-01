@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "More Drawings From The Past"
 date: 2005-05-06
-categories: archive
+categories: "2005"
 ---
 
 Here's a couple more drawings from the far distant past when I used to make time to sit and draw.

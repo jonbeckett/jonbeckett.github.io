@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Can You Solve The Puzzle "
 date: 2010-08-28
-categories: archive
+categories: "2010"
 ---
 
 Here's the situation

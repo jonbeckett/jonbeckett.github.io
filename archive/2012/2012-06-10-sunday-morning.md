@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning"
 date: 2012-06-10
-categories: archive
+categories: "2012"
 ---
 
 It's Sunday morning. I guess the title kind of gave that awayalthough I could have written this on another day, and mis-titled it on purpose. That would have been a bit silly though, and I'm definitely never sillyyou can ask the children. Actually, maybe not.

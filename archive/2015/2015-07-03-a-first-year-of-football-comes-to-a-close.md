@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A First Year Of Football Comes To A Close"
 date: 2015-07-03
-categories: archive
+categories: "2015"
 ---
 
 After finishing work this evening I cycled home from the office, and stopped off along the way to pick up dinner for our eldest daughter and myself. The rest of the house were in a playpark across town, attending the "end of year barbecue" for the youth team that our youngest plays for.

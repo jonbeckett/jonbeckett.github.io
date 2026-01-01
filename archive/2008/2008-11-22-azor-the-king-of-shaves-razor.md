@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Azor The King Of Shaves Razor"
 date: 2008-11-22
-categories: archive
+categories: "2008"
 ---
 
 Some of the regular readers here will remember me talking about "King of Shaves" shaving gel a couple of years ago, and the impact it had on me. While walking around Boots in Liverpool Street Station yesterday (where I buy my lunch from each day), I happened upon the "Azor".

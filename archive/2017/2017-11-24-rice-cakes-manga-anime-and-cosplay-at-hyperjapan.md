@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rice Cakes Manga Anime And Cosplay At Hyperjapan"
 date: 2017-11-24
-categories: archive
+categories: "2017"
 ---
 
 After sliding out of bed at 6am this morning, jumping in the shower, having shave, and throwing on clothes prepared last night, I knocked on Miss 17's bedroom door for the first time. Over the course of the next half an hour I knocked on her door ten more times. With minutes ticking down until we absolutely had to leave the house in order to catch the train to London, she appeared - dressed, coat on, phone in her pocket, earbuds in her ears.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Cart Before The Horse"
 date: 2011-01-10
-categories: archive
+categories: "2011"
 ---
 
 I have been wondering recently how I have managed to write online for 7 years, and - perhaps more amazingly - how I've managed to keep hold of the majority of my writing during that time.

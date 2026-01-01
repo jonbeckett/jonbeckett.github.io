@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "10 Random Facts"
 date: 2008-02-15
-categories: archive
+categories: "2008"
 ---
 
 My oldest and most close internet friend carefully avoided including me in a "tagged" blog meme, so I am replying to the request anyway. I have no idea what I am going to come up with as I begin typing, but we'll see.

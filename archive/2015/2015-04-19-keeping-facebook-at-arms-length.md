@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Keeping Facebook At Arms Length"
 date: 2015-04-19
-categories: archive
+categories: "2015"
 ---
 
 Over the last few weeks something has become more clear to me - that I need to keep Facebook at arms length. I don't think I need to deactivate (it's too useful), but the real problem is something Facebook can't fix - people.

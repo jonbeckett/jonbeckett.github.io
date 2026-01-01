@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cloning Objects In C"
 date: 2008-11-20
-categories: archive
+categories: "2008"
 ---
 
 I debated about writing this in a different place on the internet, but seeing as this blog has become a drop box for anything and everything that enters my head and exits via my fingers, I thought "what the hell".

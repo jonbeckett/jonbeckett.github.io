@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sex Always Sells"
 date: 2009-07-31
-categories: archive
+categories: "2009"
 ---
 
 While tinkering with some Javascript last night, I extracted the avatar images of everybody I follow from Twitter and posted it online. All good.

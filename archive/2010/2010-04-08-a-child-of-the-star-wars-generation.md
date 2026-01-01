@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Child Of The Star Wars Generation"
 date: 2010-04-08
-categories: archive
+categories: "2010"
 ---
 
 I was born in 1973, which made me four years old when Star Wars arrived at the cinema in 1977. It was quite possibly the first movie I went to see, and predictably I don't remember an awful lot about the trip to the cinema at all. I do remember returning home from watching Star Trek - The Motion Picture a couple of years later - principally because my Dad told us he was going to "warp speed" on the way home and turned the car lights off for a few seconds.

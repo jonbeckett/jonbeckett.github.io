@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Life Update"
 date: 2008-11-14
-categories: archive
+categories: "2008"
 ---
 
 It's been a while since I last wrote a proper blog post about "my life", so perhaps a coffee break while sitting in London this morning is the perfect opportunity.

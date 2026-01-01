@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Few Of My Favourite Things"
 date: 2016-02-20
-categories: archive
+categories: "2016"
 ---
 
 When I sat down to compile this list earlier this evening, I was planning on putting a blogroll together, but then it kind of morphed into this post. Before you feel down that your blog isn't in this short list, take note of the titlethis is just a few of the blogs I try to follow, picked pretty randomly. I will almost certainly repeat this post again in the future, highlighting a few more.

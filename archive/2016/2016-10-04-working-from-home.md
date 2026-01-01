@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working From Home"
 date: 2016-10-04
-categories: archive
+categories: "2016"
 ---
 
 Today I find myself holed up in the study/junk room at home, drinking coffee, and trying to get my head around somethingI have been studiously avoiding at work for some time. The real reason I'm working from home is to take receipt of a replacement for the mobile phone I bought on Saturday. The same mobile phone I dropped and broke yesterday morning.

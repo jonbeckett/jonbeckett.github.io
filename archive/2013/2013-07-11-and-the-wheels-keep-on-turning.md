@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And The Wheels Keep On Turning"
 date: 2013-07-11
-categories: archive
+categories: "2013"
 ---
 
 The last few days have felt like I'm stuck in some kind of giant world-machine, swirling around, being thrown from place to place, and never being spat out. I would have probably written something last night, but events overtook meI got in from work at about 6:20 and discovered the kitchen I had cleared before leaving in the morning had been trashed. My other half was racing out of the door to a school meeting, and left a half-cooked dinner for the kids on the kitchen worktops for me to finish off. She has this weird ability of being able to get everything out, and put nothing awayso the kitchen kind of resembled a scene from Apocalypse Now.

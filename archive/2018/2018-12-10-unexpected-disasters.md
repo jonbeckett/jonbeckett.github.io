@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Disasters"
 date: 2018-12-10
-categories: archive
+categories: "2018"
 ---
 
 While sitting at my desk at work this morning, fielding calls from Germany, and wondering quite why the ridiculously complex invention on the screen in front of me wasn't working, the phone rang.

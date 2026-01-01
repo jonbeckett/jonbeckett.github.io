@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Trouble With Tumblr"
 date: 2014-11-02
-categories: archive
+categories: "2014"
 ---
 
 I tried to take part in a social "meme" on Tumblr today. At 11am I posted a video exported from iMovie (I won't bore you with details - lets just say it was very compatible with everything and anywhere), uploaded it to Tumblr, and expected it to appear. It didn't. Instead the interface showed a new "Processing" title in the sidebar. For eight hours until I clicked the trashcan icon on the "processing" video.

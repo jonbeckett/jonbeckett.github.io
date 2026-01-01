@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working Late On Web Design"
 date: 2009-01-14
-categories: archive
+categories: "2009"
 ---
 
 I've been working late this evening on a freelance web development project - I can't show you the actual project yet, but I can give a hint through the graphic below;

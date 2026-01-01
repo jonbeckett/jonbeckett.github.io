@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Parents Evening"
 date: 2010-03-25
-categories: archive
+categories: "2010"
 ---
 
 Yesterday evening saw us make the journey to school for parents evening while good friends babysat the children.

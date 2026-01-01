@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thursday Night And Friday Morning"
 date: 2016-07-23
-categories: archive
+categories: "2016"
 ---
 
 I have been sitting here for an hour now - wondering what to write. I guess this perpetuates the grand tradition of "I have nothing to say, and I'm saying it". I'm sitting on the couch in the lounge, illuminated by the dim light of the fish-tank in the corner of the room. The television has been off for most of the evening. I tried to start watching the new season of "Mr Robot", but I'm guessing the network engineers are up to something again - it suddenly stopped streaming twice. I'm giving it an hour before trying again.

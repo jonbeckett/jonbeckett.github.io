@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Compact Disc Failure Rates"
 date: 2008-10-02
-categories: archive
+categories: "2008"
 ---
 
 Our eldest daughter asked if she could have some music on the other evening - and following a quick finger through the first few CDs in our rack, I pulled down ABBA Gold (she went to see Mamma Mia recently, and has been humming the various tunes ever since).

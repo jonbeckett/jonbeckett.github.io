@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The chocolate cookie quotient"
 date: 2024-10-26
-categories: archive
+categories: "2024"
 ---
 
 After days filled with adventure and exploration last weekend, the return to reality this week has been somewhat jarring. I've been head-down for much of the week on a complicated work project - a "moon shot" of sorts.

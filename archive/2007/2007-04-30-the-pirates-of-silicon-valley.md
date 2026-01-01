@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Pirates Of Silicon Valley"
 date: 2007-04-30
-categories: archive
+categories: "2007"
 ---
 
 While crashed on the couch this afternoon I sat and watched the movie "The Pirates of Silicon Valley" - a made for TV movie from the late 1990s that tries to tell the story of the early years of Apple and Microsoft. While there are many parts of the story missing, lots of it is wrong, lots of it invented, and even more of it is taken completely out of context, the movie was still enjoyable.

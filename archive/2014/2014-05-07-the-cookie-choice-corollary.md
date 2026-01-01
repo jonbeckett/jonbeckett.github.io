@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Cookie Choice Corollary"
 date: 2014-05-07
-categories: archive
+categories: "2014"
 ---
 
 I just walked into the office and interrupted a ridiculous converstion where two of my co-workers were trying to decide which cookies to buy from town. I caused slack jaws all round by drawing a simple Venn diagram on a piece of paper, with the words "Cheapest", "Most", and "Nicest" circled.

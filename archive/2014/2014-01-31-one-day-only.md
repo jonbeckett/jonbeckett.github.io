@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Day Only"
 date: 2014-01-31
-categories: archive
+categories: "2014"
 ---
 
 I have been back in the office today for the first time in weeks. Waking up at 7am this morning was really rather wonderful. You quickly forget that the morning mayhem in the kitchen is somehow comfortingbeing a part of a busy family is a good feeling.

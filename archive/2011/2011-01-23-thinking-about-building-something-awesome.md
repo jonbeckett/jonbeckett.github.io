@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thinking About Building Something Awesome"
 date: 2011-01-23
-categories: archive
+categories: "2011"
 ---
 
 Wouldn't it be great if there was an open directory, where anybody could post Tumblogs, or posts they like, as often as they like? Kind of like an open directory

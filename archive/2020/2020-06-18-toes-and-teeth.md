@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Toes And Teeth"
 date: 2020-06-18
-categories: archive
+categories: "2020"
 ---
 
 Somehow I have managed to break a toe, and a tooth. I know, it sounds ridiculous. On Tuesday morning the phone rang, and I ran through the house barefoot to pick it up (while my teenage daughters stood around the phone, debating about picking it up) and managed to kick a door-frame.

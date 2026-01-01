@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Today Is Not Pi Day"
 date: 2016-03-14
-categories: archive
+categories: "2016"
 ---
 
 I've been avoiding "Pi Day" posts on the internet all day, and while avoiding them, an anger has been bubbling up slowly and steadily. It's no good. I'm going to have to post this, before I suddenly lash out at somebody in the comedic way angry English people tend to when pushed just a little too far.

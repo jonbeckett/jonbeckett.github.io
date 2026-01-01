@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas"
 date: 2018-12-25
-categories: archive
+categories: "2018"
 ---
 
 Just glancing at the clock, it's a little after 10pm on "Boxing Day" - the day after Christmas Day. I'm not sure if other countries around the world call it "Boxing Day", but we do here. I'm not entirely sure why - I'm sure a visit to either Google or Wikipedia would answer that - or a shout-out to Alexa. More on her later.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Starting An Eccentric Online Endeavour"
 date: 2007-07-23
-categories: archive
+categories: "2007"
 ---
 
 A few weeks ago while browsing through the book store at Paddington Station in London, I came across a book where the author had "traded up" from a paper clip to a house over the course of several hundred trades, and had written about his adventures.

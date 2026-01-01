@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Dangerous Business"
 date: 2016-01-09
-categories: archive
+categories: "2016"
 ---
 
 For the last several years I have only really followed a handful of blogssome of them discovered during the inaugural running of "NaBloPoMo" (National Blog Posting Month), back when it was fun, and relevant, and kind of original. The fact that it was quickly exploited, argued over, and destroyed by everybody involved is neither here nor thereI discovered some amazing people who later became unlikely friends during that month of non-stop writing.

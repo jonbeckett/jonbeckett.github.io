@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Google Nexus 7"
 date: 2012-07-25
-categories: archive
+categories: "2012"
 ---
 
 More by luck than judgement, the "Google Nexus 7" arrived yesterday eveningafter falling off my mountain bike on the way home (another story for another day), I arrived at a friend's house where the parcel had been diverted in the absence of my better half (who was at the dentist). If you're wondering about the chaotic series of eventsit's pretty normal. Given that Google didn't notify me the parcel was coming, it was pure blind luck that we managed to catch it at all.First impressions of it are stellar. I can make direct comparisons against both the second and third generation iPads because we have both of them in the house, and those comparisons leave me wondering if I will touch the iPad again. I can't help agreeing with M G Siegler in his recent write-up at TechCrunchthe Nexus 7 is as good or better at most things than the iPad, but overall is just easier to carry around with you. The likelihood of throwing it in a bag as you leave the house is far higher than the iPad because it's easier to carry.

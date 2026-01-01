@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Want One Of Them New Macs"
 date: 2005-01-12
-categories: archive
+categories: "2005"
 ---
 
 Apple are releasing a new Mac.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Retro Video Games"
 date: 2019-12-04
-categories: archive
+categories: "2019"
 ---
 
 Throughout the 1990s and early 2000s in the UK, a huge skills gap opened up that the various science, technology, engineering and mathematics Universities became worried about. Although the county had lucked into leading most of the world through the 1980s, with an army of "bedroom coders" using the early 8-bit home computers, a decade on most schools were only teaching children how to use word processors and spreadsheets - not how the actual computers work.

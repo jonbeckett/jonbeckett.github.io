@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Struggle Is Real"
 date: 2019-07-18
-categories: archive
+categories: "2019"
 ---
 
 I'm beginning to wonder when life will give me a break. While projects at work loom over me like an avalanche waiting to happen, the parenting adventure threatens to tunnel underneath me, and cause the ground I'm standing on to fall in at any moment.

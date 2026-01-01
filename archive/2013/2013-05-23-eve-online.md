@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Eve Online"
 date: 2013-05-23
-categories: archive
+categories: "2013"
 ---
 
 I'm in the process of downloading Eve Online - a massively multiplayer online role playing game where you get to play at being a starship captain. I doubt I will get much chance to play it, but it seems like a fun escape.

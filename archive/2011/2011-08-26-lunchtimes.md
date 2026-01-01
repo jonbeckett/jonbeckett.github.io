@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lunchtimes"
 date: 2011-08-26
-categories: archive
+categories: "2011"
 ---
 
 I wish I could come up with a more constructive way of spending lunchtimes than messing around with stuff on the internet.

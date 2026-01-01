@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Morning In Preston"
 date: 2010-09-01
-categories: archive
+categories: "2010"
 ---
 
 8:30am - sitting in Cafe Nero in the middle of Preston - a few minutes walk from my eventual destination (which of course I cannot name for all sorts of professional reasons).

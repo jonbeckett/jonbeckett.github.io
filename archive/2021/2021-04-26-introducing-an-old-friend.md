@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Introducing An Old Friend"
 date: 2021-04-26
-categories: archive
+categories: "2021"
 ---
 
 Over the last few days I have been arm twisting a wonderful blogging friend that has remained largely undiscovered in the wilds of LiveJournal.

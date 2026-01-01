@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Social Networking A Personal History"
 date: 2010-11-11
-categories: archive
+categories: "2010"
 ---
 
 I don't often think of myself as using social networking much. Sure, I have accounts almost everywhere, but that's more to do with reserving my name should I want to use whatever the service is in the future (Oklahoma land rush mentality).

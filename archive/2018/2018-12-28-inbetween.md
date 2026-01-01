@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Inbetween"
 date: 2018-12-28
-categories: archive
+categories: "2018"
 ---
 
 Christmas already seems like a memory - which is a strange thing to say, because it was only a few days ago - but it is already falling into the past - something that happened - not something that just happened. Maybe it feels so strange because we are in the days between Christmas and New Year - a limbo of sorts - no longer Christmas, and not yet New Year.

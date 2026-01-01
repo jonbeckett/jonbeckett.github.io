@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pancakes For Breakfast"
 date: 2016-03-25
-categories: archive
+categories: "2016"
 ---
 
 Today is a bank holiday in the UK. Despite the separation of Church and State here, Easter dictates that everybody gets Friday and Mondayoff. I'm not complainingit means I get a couple of days off work.

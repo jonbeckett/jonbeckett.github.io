@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Putting A Crap Day Behind Me"
 date: 2005-07-28
-categories: archive
+categories: "2005"
 ---
 
 It's getting pretty late now, and I'm looking forward to putting a pretty crap day behind me.

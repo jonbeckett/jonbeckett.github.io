@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "London Calling"
 date: 2021-05-14
-categories: archive
+categories: "2021"
 ---
 
 A little while after the sun rises tomorrow morning, no doubt after gazing at the ceiling for a little while, I will untangle myself from the safety of the bedclothes, stumble downstairs to the shower, have a shave, pull on some clothes, and wake my eldest daughter. With a little luck we will make it to the railway station on the edge of town in time to purchase two tickets, find a seat, and sit in worried silence with masks on, and disinfectant gel in our pockets.

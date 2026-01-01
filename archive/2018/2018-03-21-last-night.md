@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Last Night"
 date: 2018-03-21
-categories: archive
+categories: "2018"
 ---
 
 I fly home tomorrow morning. I did a little work this evening, but nothing like the epic slog the last few evenings turned into. You don't even want to see the state of my bullet journal - page after page filled with scribbled notes, and half-drawn diagrams. At some point over the next few days I need to start turning the chaotic mess into something that makes sense.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Lifestyle Distortion Field"
 date: 2017-03-13
-categories: archive
+categories: "2017"
 ---
 
 It struck me this evening that I may have stumbled upon a direction for this blog - or rather, the direction I don't want it to go in.

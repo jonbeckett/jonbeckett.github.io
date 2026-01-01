@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Adding Subscriptions"
 date: 2011-02-10
-categories: archive
+categories: "2011"
 ---
 
 I added a load of subscription goodness to the blog today via the lovely folks at Feedburner (umm I guess that would be Google then). If you have no idea about this, FeedBurner integrates with Tumblr, and keeps track of who is following you via the RSS feed - data you would otherwise know nothing about.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Plurk Yet Another Social Media Microblogging Application"
 date: 2008-08-09
-categories: archive
+categories: "2008"
 ---
 
 I'm sure those of you who spend far too many hours on the internet will have looked at Plurk already. For those of you who have not, here's what it looks like;

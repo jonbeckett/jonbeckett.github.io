@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning"
 date: 2016-11-06
-categories: archive
+categories: "2016"
 ---
 
 It's heading towards 11am on a cold and frosty Sunday morning. I noticed yesterday after the wind picked up that most of the leaves have now fallen from the trees. Suddenly the world looks very stark, and foreboding.

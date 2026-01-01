@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To The Well"
 date: 2019-06-02
-categories: archive
+categories: "2019"
 ---
 
 After writing off much of yesterday, I finally got to the cinema with my eldest daughter on Sunday afternoon - a promised trip to watch "Rocketman". A second visit for myself, and a first exposure for her to both the man and his music. Sure, she's heard one or two of Elton's songs on the radio over the years, but the movie tied them to a living, breathing, walking disaster, fully aware of his vices, gremlins, and fallibilities.

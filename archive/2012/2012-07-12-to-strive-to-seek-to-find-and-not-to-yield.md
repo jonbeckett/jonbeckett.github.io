@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "To Strive To Seek To Find And Not To Yield"
 date: 2012-07-12
-categories: archive
+categories: "2012"
 ---
 
 While aimlessly surfing the internet late last night a Facebook browser tab flickered, and began blinking. Curiosity got the better of me as it so often does, and I discovered a chat window from a friend on the other side of the world - a friend I have known for 12 years, but never met in real life.

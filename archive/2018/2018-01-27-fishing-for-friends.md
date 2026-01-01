@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fishing For Friends"
 date: 2018-01-27
-categories: archive
+categories: "2018"
 ---
 
 Sometimes I spend an hour randomly following links from blogs to comments, and on to further blogs - reading, commenting, and reminding myself what it is to take part in the wider community.

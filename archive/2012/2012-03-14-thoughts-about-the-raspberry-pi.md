@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts About The Raspberry Pi"
 date: 2012-03-14
-categories: archive
+categories: "2012"
 ---
 
 While reading various forum posts about Raspberry Pi supply chain issues, it got me thinking about the wider picture this evening. I guess for the benefit of the wider crowd, I need to fill in a bit of back story first.

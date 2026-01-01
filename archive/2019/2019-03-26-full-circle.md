@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Full Circle"
 date: 2019-03-26
-categories: archive
+categories: "2019"
 ---
 
 After a somewhat epic journey around the internet over the last few months, I'm back where I started, and somehow enthused about writing something worth reading for a change. I'm not quite sure how that happens - where the words come from.

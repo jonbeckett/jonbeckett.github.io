@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Scrapped The Bullet Journal And Returned To A Filofax"
 date: 2017-12-27
-categories: archive
+categories: "2017"
 ---
 
 We all knew this was going to happen, didn't we.

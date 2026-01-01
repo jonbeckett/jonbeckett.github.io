@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "More Thoughts On Starting Something"
 date: 2008-10-04
-categories: archive
+categories: "2008"
 ---
 
 You may recall a month or so ago I mentioned about "starting something" once more on the internet, and wondered if anybody else was interested in helping.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wendys Birthday Random Photos"
 date: 2009-04-01
-categories: archive
+categories: "2009"
 ---
 
 a few of the many photos I took at W's party, while dividing myself between roles of organiser, host, financier, friend, husband, dad, mental dancer, and tired person slumped in the corner

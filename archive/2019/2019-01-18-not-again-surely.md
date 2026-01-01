@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Again Surely"
 date: 2019-01-18
-categories: archive
+categories: "2019"
 ---
 
 If you just wandered into this post, and know my recent history on the internet, you're probably thinking "not again, surely?". Erm. Well. Yes actually. Again. I've always liked what the guys at Postach.io did with their blog hosting platform - if you've never heard of it, it links to Evernote, and turns the various notes you post into Evernote into a nicely formatted blog. It divorces you from worrying about anything to do with the blog - you can just think about the words, and the system takes care of everything else for you.

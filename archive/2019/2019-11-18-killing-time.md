@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Killing Time"
 date: 2019-11-18
-categories: archive
+categories: "2019"
 ---
 
 I'm sitting at my desk at work, watching the clock. Everything I wanted to get done today is done - ticked off - complete. There is still an hour left. Before I fall back into the darkness that seems to have envoloped me in recent weeks, let's try and look at the positives.

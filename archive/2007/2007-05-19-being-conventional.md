@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being Conventional"
 date: 2007-05-19
-categories: archive
+categories: "2007"
 ---
 
 If you walked past our bathroom in the early hours of the morning you might be forgiven for thinking that I am half asleep while leaning towards the mirror, razor in hand, chin coated with "advanced" goop (I have been trying out various shaving products).

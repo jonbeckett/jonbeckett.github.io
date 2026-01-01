@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Time For A Change Of Banner And A New Messenger Bag"
 date: 2010-11-17
-categories: archive
+categories: "2010"
 ---
 
 Is this a final "look and feel" for the blog? Probably not, but it's a step in the right direction. Something a little more personal; a little less abstract. It will do.

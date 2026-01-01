@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cutting Another Parental String"
 date: 2015-01-11
-categories: archive
+categories: "2015"
 ---
 
 Our eldest daughter has gone shopping on her own in a nearby town for the first time today. I will admit to being ever so slightly nervous. I'm not really watching the e-mail in-box, all social networks, and staying near the phone, honest.

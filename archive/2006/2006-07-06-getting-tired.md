@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting Tired"
 date: 2006-07-06
-categories: archive
+categories: "2006"
 ---
 
 It's Thursday morning, and so far this week I have logged over 35 hours work. At this rate, I'm going to hit something like 60 hours at some point over the weekend. How crazy is that?

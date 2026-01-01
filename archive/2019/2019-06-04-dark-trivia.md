@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dark Trivia"
 date: 2019-06-04
-categories: archive
+categories: "2019"
 ---
 
 I'm sitting in the darkness of the junk room, listening to an internet radio station, and pretending I'm a writer. Of course we all know I'm really a software developer that just spent all day running around in circles, re-designing something I won't be able to tell you about - which beggars why I mentioned it in the first place. I can pretend to be a writer though.

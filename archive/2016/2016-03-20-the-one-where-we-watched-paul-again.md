@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where We Watched Paul Again"
 date: 2016-03-20
-categories: archive
+categories: "2016"
 ---
 
 After flicking through the channels last night looking for something to watch after the kids had gone to bed, I noticed that "Paul" was just starting, sosuddenly a tedious choice became very easy indeed.

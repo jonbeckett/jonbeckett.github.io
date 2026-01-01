@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bullet Journal Productivity Tip"
 date: 2019-01-14
-categories: archive
+categories: "2019"
 ---
 
 You know how everybody seems to be going on and on and on and on and on and on about Bullet Journals at the moment? I have a cunning tip to aid you in your procrastinatory productivity efforts.

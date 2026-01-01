@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being Stupid"
 date: 2010-05-18
-categories: archive
+categories: "2010"
 ---
 
 Little Miss 6 has decided she likes pasta and sauce. This is a breakthrough. She finally seems to be leaving behind the year of "I don't like that". Of course she is being closely followed by Little Miss 5, who has just begun rejecting everything.

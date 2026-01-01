@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Obsessive Compulsive"
 date: 2013-05-12
-categories: archive
+categories: "2013"
 ---
 
 Year by year, I'm getting worse. I'm not sure if it's a reaction to living with quite possibly the most untidy, disorganised person in the world, or just because I'm a bit mad.

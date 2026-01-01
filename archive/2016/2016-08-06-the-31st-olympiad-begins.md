@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The 31St Olympiad Begins"
 date: 2016-08-06
-categories: archive
+categories: "2016"
 ---
 
 I stayed up last night to watch the opening ceremony of the 31st Olympic games from Rio, Brasil. The ceremony started at midnight, and continued into the early hours. I loved it. I think perhaps my favourite moment of the entire thing was the most simple - when Giselle Bundchen walked across the floor of the Olympic stadium to "The Girl from Ipenima".

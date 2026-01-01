@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "All work and no play"
 date: 2024-06-04
-categories: archive
+categories: "2024"
 ---
 
 This evening you find me sitting in the dark of the living room on my own, finishing off a glass of wine. Our old cat George is sitting across from me, staring at reflections in the patio door. I wonder what he can see that I cannot.

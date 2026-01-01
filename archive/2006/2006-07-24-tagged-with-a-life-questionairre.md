@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tagged With A Life Questionairre"
 date: 2006-07-24
-categories: archive
+categories: "2006"
 ---
 
 One of my friends on the internet "tagged" me with a set of questions, and I sheepishly agreed to reply to them. Enjoy...

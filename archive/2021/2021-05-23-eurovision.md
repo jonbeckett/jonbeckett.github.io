@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Eurovision"
 date: 2021-05-23
-categories: archive
+categories: "2021"
 ---
 
 The Eurovision Song Contest was held this evening in Rotterdam. If you've never heard of it, it's the annual competition that launched ABBA into the stratosphere in the 1970s, and was the subject of the wonderful movie starring Rachel McAdams and Will Ferrell last year.

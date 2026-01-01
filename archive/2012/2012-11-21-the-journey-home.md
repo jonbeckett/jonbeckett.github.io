@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey Home"
 date: 2012-11-21
-categories: archive
+categories: "2012"
 ---
 
 After a product and technology demonstration that went better than might have been expected, I wandered out onto the rain soaked streets of Harrogate this morning, and contemplated the journey home. Trusting my instincts (that aren't entirely reliable at the best of times), I followed my nose through the streets in the general direction of the railway station, and miraculously found my way directly to it. It would have been easier of course if there were any signs within the town, rather than just the major traffic intersections on the outskirts.

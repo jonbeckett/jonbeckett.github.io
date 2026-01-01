@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Struggle Escape and Marilyn"
 date: 2023-05-19
-categories: archive
+categories: "2023"
 ---
 
 Somehow the entire evening has vanished from beneath me. I'm not quite sure how that happens.

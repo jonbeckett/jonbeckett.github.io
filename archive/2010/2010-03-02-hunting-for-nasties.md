@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hunting For Nasties"
 date: 2010-03-02
-categories: archive
+categories: "2010"
 ---
 
 The "big" computer at home - the desktop one with printers and various other doo dads attached - is busy checking for monsters in it's own closet. It's been acting up for a little while, and I'm giving Microsoft the benefit of the doubt at least until the monster hunt finishes.

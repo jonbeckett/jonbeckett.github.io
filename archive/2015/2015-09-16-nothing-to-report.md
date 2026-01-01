@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nothing To Report"
 date: 2015-09-16
-categories: archive
+categories: "2015"
 ---
 
 Life has been surprisingly quiet this week, while also remaining unendlingly busy, mundane, tiring, and aggravating. There has been no one big thing that has ground me down - just an avalanche of little things - small enough that you don't notice at the time, but then wonder where the hell the day went.

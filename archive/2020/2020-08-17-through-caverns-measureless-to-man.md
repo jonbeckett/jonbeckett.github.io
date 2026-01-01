@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Through Caverns Measureless To Man"
 date: 2020-08-17
-categories: archive
+categories: "2020"
 ---
 
 The internet came of age when I was an impressionable teen. An infinite rabbit hole, filled with ideas, knowledge, thoughts, idiocy, adventure, and everything in-between. Idealism and optimism convinced us that we might find our tribe somewhere deep in the labyrinth, and forge an escape from the world around us.

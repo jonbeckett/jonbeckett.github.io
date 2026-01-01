@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Rugby And The Superbowl"
 date: 2018-02-03
-categories: archive
+categories: "2018"
 ---
 
 It's Sunday evening, dinner is busy cooking, the clothes are mostly washed, two of the children are watching TV in their rooms after a day on the rugby fields, and the eldest is at a friend's house after lying to my face this morning. Not happy with her at all, but trying not to react too badly. Let's just say her choice of friends is very, very poor, but that there's very little we can do about it. We will inevitably find outselves picking the pieces up in a few weeks once again.

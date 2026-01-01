@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Evening With Friends"
 date: 2014-04-18
-categories: archive
+categories: "2014"
 ---
 
 We spent the evening eating pizza, drinking wine, and catching up with good friends that live across the way. The children played video and board games together, and amused themselves all evening. We all ate enough pizza to kill a Rhino, and made two bottles of wine vanish.

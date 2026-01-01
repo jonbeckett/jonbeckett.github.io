@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Reality Of A Quiet Weekend"
 date: 2011-04-02
-categories: archive
+categories: "2011"
 ---
 
 Given that I have now been ill for five weeks, and have had a cough for the last week that only shows itself if I exert myself in any way at all - you know, like walking through the house - I'm trying to have a weekend off from doing anything.

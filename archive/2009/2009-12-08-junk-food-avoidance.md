@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Junk Food Avoidance"
 date: 2009-12-08
-categories: archive
+categories: "2009"
 ---
 
 I ate burgers for dinner every night last week while staying in the hotel, and then on friday capped the week off with a pizza. Not exactly good for me.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Counting The Days"
 date: 2008-12-15
-categories: archive
+categories: "2008"
 ---
 
 At lunchtime today, two things happened that made me realise once again that I will be more than glad to get out of the city - to no longer have to ignore the appalling behaviour of others.

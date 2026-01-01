@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Morning"
 date: 2020-05-18
-categories: archive
+categories: "2020"
 ---
 
 The clock has just ticked past 9am on Monday morning, and you find me sitting at the dining table in the living room opposite my youngest daughter, who is starting her school day - with a laptop propped in front of her, a pencil case full of pens and pencils, and a paper notepad open next to her. She has a habit of reading text on the screen out-loud, which I'm rapidly discovering is quite possibly the most distracting thing in the known universe.

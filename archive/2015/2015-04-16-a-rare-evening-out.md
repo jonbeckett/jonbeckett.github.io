@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Rare Evening Out"
 date: 2015-04-16
-categories: archive
+categories: "2015"
 ---
 
 After arriving home from work this evening, and sitting down with a cold drink to recover from the bike ride home, I checked my phone for email.

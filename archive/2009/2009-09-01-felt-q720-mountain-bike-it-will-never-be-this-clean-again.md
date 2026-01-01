@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Felt Q720 Mountain Bike It Will Never Be This Clean Again"
 date: 2009-09-01
-categories: archive
+categories: "2009"
 ---
 
 Fresh out of the boxthe first photos of the Felt Q720 mountain bike I took delivery of earlier today.

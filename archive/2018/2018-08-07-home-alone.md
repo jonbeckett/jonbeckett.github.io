@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Home Alone"
 date: 2018-08-07
-categories: archive
+categories: "2018"
 ---
 
 Wednesday evening finds me sitting at a desk in the study, listening to Spotify, and wondering how much of today's thoughts to empty into the keyboard. I'm accompanied by a can that was filled with cider until a few minutes ago, and a teddy bear propped on the corner of the desk, gazing into the room with the same silly grin he's always had.

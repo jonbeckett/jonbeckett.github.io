@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Answering Important Questions For Our Time"
 date: 2008-01-16
-categories: archive
+categories: "2008"
 ---
 
 In the previous post, I invited people to ask me random questions, and promised to answer them. After spendingoh, secondspicking which ones to answer, here are my cogitations for your interest, delight, and damning verdicts

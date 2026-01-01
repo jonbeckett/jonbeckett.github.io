@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Oversleeping"
 date: 2023-02-19
-categories: archive
+categories: "2023"
 ---
 
 I overslept this morning - if you can count dragging yourself out of bed at 9:30am on a Sunday morning oversleeping. I also had the strangest dream I've had in quite some time. I'm going to try and write it down before it vanishes entirely from my head.

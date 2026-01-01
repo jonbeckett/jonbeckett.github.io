@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tonsillitis"
 date: 2012-03-14
-categories: archive
+categories: "2012"
 ---
 
 Early in the hours of Monday morning I snapped awake to the sound of footsteps between the bedrooms. Without opening an eye, the footsteps wandered slowly into our bedroom, and then somebody small and silent climbed onto the bed, and wiggled between us.

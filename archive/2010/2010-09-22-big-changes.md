@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Big Changes"
 date: 2010-09-22
-categories: archive
+categories: "2010"
 ---
 
 Today I did something rather drastic, rather brave, and a little bit silly. I killed the blog I have been writing for the past four years. The content lives on (I migrated everything to here), but the blog - known as "Cheese and Beans" is no more. It was time.

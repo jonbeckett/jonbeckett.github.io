@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Afternoon In Higginson Park"
 date: 2007-03-11
-categories: archive
+categories: "2007"
 ---
 
 It has been unseasonably warm and sunny this weekend in Marlow, so W and I took it upon ourselves to go for a stroll in Higginson Park - about a mile from where we live.

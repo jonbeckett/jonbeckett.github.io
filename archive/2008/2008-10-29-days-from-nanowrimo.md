@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Days From Nanowrimo"
 date: 2008-10-29
-categories: archive
+categories: "2008"
 ---
 
 We are days away from the start of NaNoWriMo, and I have not given any thought at all to the story I am going to write. Am I worried? Yes and No.

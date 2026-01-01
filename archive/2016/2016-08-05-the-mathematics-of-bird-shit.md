@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Mathematics Of Bird Shit"
 date: 2016-08-05
-categories: archive
+categories: "2016"
 ---
 
 This morning was wonderful. The sun shone, the birds sang, blue sky stretched to the horizon in all directions, and there was hardly a breath of wind. As I cycled through the country estate that the office nestles in the depths of, I checked my wristwatch - 8:47am. Plenty of time to slow down, relax, and feel the breeze during the last half mile before arriving at work. I sat up in the saddle, took my hands from the handlebars, and rested them on my thighs.

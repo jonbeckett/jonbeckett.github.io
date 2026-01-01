@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Our Wedding"
 date: 2009-06-28
-categories: archive
+categories: "2009"
 ---
 
 I just realised that I have never shared the photos of our wedding (in 2001 with the world at large. Consider this the start of that being corrected;

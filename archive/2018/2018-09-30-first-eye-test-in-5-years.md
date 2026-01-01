@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Eye Test In 5 Years"
 date: 2018-09-30
-categories: archive
+categories: "2018"
 ---
 
 While sitting at work last Tuesday morning, I rubbed the tiredness from my left eye, and pain shot through my eye. I thought perhaps I had pulled an eyelash into my eye, and wandered down to the mens bathroom to check in the mirror. Nothing. I put up with it for the next 24 hours, wondering if it might settle down on it's own, before eventually calling the local optician to get it checked out. And that's how I ended up sitting in a chair while a lovely Indian lady peered into my eyes with all manner of instruments this afternoon.

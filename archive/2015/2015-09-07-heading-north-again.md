@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heading North Again"
 date: 2015-09-07
-categories: archive
+categories: "2015"
 ---
 
 I'm sitting on the train to Glasgow, which is presently sitting in the depths of Euston Station, London. I'm not going to Glasgow - the train is - I'm leaving it at Preston, about 200 miles north of London.

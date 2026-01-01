@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Steve Jobs"
 date: 2016-04-22
-categories: archive
+categories: "2016"
 ---
 
 We finally watched the Aaron Sorkin movie "Steve Jobs" last nightstreamed as a rental from Amazon.

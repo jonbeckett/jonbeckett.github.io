@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Behold The Podcast"
 date: 2020-04-18
-categories: archive
+categories: "2020"
 ---
 
 In mid January this year I started recording a podcast - a podcast talking to bloggers around the internet about their blogs. This morning I started to take the lid off the podcast, and include a bit more about it in the blog.

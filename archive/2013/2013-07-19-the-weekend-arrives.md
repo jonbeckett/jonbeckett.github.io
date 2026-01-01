@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend Arrives"
 date: 2013-07-19
-categories: archive
+categories: "2013"
 ---
 
 It doesn't really feel like the weekend has arrivedmore like I've managed to make it to the weekendon my knees, half stumbling, half falling across the line.

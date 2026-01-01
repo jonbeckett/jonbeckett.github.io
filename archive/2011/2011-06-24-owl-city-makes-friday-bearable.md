@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Owl City Makes Friday Bearable"
 date: 2011-06-24
-categories: archive
+categories: "2011"
 ---
 
 I'm sat in the office listening to "Maybe I'm Dreaming" by Owl City. The music takes me away from the drudgery of chasing my own tail, and allows me an escape of sorts within my own head.

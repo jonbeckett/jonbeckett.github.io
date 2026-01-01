@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Reflections On The City"
 date: 2014-01-10
-categories: archive
+categories: "2014"
 ---
 
 It's funny how you set out on a journey with all sorts of plans, and then realise after a little while that those plans have somehow been torn up, burned, and stomped into the floor by an imaginary herd of pyromaniac wildebeasts.

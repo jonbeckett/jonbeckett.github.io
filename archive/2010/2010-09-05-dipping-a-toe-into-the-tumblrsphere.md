@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dipping A Toe Into The Tumblrsphere"
 date: 2010-09-05
-categories: archive
+categories: "2010"
 ---
 
 Last night I ventured forth into the sweaty masses of the tumblrsphere, and began following a number of the lifestreamers. Until now, my connection to Tumblr has been largely though web designers, software developers, technologists, photographers, social media mavens, and any number of other like-minded souls.

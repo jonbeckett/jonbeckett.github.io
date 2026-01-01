@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Big Bang Theory"
 date: 2008-12-04
-categories: archive
+categories: "2008"
 ---
 
 While flicking through the TV channels late one night a few months ago, myself and W happened upon a sitcom filled with geeks, and found ourselves sucked in. We had not idea what it was called, but laughed like drains right the way through it (I'm guessing I am W's frame of reference for "geek").

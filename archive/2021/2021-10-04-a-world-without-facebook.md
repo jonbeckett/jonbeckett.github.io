@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A World Without Facebook"
 date: 2021-10-04
-categories: archive
+categories: "2021"
 ---
 
 Just before dinner this evening while finishing work, checking email, and taking a quick look at the various social sites I have accounts, I noticed Facebook was down. And Instagram. I grinned, raised an eyebrow, and went off to eat dinner with my family.

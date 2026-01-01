@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Lonely Place"
 date: 2007-05-28
-categories: archive
+categories: "2007"
 ---
 
 Sometimes the internet can be a very lonely place - especially when you keep in touch with most of your friends via the internet, and their names don't light up, or appear in your in-box.

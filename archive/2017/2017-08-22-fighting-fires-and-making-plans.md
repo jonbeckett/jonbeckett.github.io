@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fighting Fires And Making Plans"
 date: 2017-08-22
-categories: archive
+categories: "2017"
 ---
 
 Today has been interesting. Of course I don't really mean interesting - I mean tiring, frustrating, irritating, and all those other words. You don't really want to hear about me fire-fighting source code that has worked for months and chose not to this morning though, do you. I can't really tell you anyway, because it's all to do with the secret super-hero job in the hollowed out mountain. Or something like that.

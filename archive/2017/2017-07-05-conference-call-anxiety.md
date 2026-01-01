@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Conference Call Anxiety"
 date: 2017-07-05
-categories: archive
+categories: "2017"
 ---
 
 Am I the only person that suffers from anxiety before a conference call? I had a client call at 10am this morning, and for half an hour leading up to the call, I was pretty much bricking it. It's ridiculous really.

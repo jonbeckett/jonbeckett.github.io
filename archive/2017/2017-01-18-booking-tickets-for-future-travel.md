@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Booking Tickets For Future Travel"
 date: 2017-01-18
-categories: archive
+categories: "2017"
 ---
 
 I spent the majority of today either filing expense claims for recent travel, or (rather craftily, I thought) filing expense claims for trains tickets that haven't arrived yet, and hotel stays that have yet to happen.

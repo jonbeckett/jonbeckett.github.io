@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Perceptions And Assumptions"
 date: 2018-09-05
-categories: archive
+categories: "2018"
 ---
 
 Several times in the last few days I have caught myself worrying about what people might think about entirely innocent situations I write about, or find myself in the middle of.

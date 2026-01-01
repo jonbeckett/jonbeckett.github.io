@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Upgrading The Filofax"
 date: 2016-02-27
-categories: archive
+categories: "2016"
 ---
 
 You might think, given that I work as a software and web developer in the daytime, and carry a mobile phone in my pocket that's perpetuallyconnected to Google Drive, and Google Calendar, that I would have divorced paper from my life. You would be wrong.

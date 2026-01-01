@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Harry Potter"
 date: 2004-07-02
-categories: archive
+categories: "2004"
 ---
 
 We went to the cinema last night to see "Harry Potter and the Prizoner of Azkaban". In my opinion it's the best HP movie yet, and most importantly actually had a decent story this time. I guess the general concensus is that the third book is the best so that kind of makes sense.

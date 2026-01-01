@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And The World Keeps Turning"
 date: 2009-04-01
-categories: archive
+categories: "2009"
 ---
 
 The last few days have been unrelenting.

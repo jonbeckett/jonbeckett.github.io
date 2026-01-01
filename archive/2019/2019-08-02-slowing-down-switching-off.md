@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slowing Down Switching Off"
 date: 2019-08-02
-categories: archive
+categories: "2019"
 ---
 
 It's finally the weekend. After ordering Domino's as a special treat, watching a ridiculous movie, and drinking a can of beer, I'm starting to switch off.

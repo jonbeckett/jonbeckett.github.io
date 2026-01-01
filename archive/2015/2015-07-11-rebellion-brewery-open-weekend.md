@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rebellion Brewery Open Weekend"
 date: 2015-07-11
-categories: archive
+categories: "2015"
 ---
 
 This weekend marked the bi-annual open-weekend of our local brewery, the Rebellion Beer company. About a week ago an email did the rounds asking who was going, and it pretty rapidly looked like everybody I have worked closely with over the last five or six years would be there - except me. I really didn't think I would beable to make it, but the various pieces of the impossible jigsaw that make up my life fell into placeone after another, and I finally sent the email yesterday morning - "AND ME!"

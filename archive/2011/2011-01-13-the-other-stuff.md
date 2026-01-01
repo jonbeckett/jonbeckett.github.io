@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Other Stuff"
 date: 2011-01-13
-categories: archive
+categories: "2011"
 ---
 
 I thought this might make a good topic for a post - the "other things" that are in your bag. Just to make it a bit more interesting, I figured out if I could fit in on top of my current Moleskine...

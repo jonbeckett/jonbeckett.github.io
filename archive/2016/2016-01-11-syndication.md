@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Syndication"
 date: 2016-01-11
-categories: archive
+categories: "2016"
 ---
 
 After a weekend filled with olympic levels of procrastination,tinkering, and really quite useless meddling, the words and pictures I post to the blog will now pollute the wider internet as never before. This is a good thing. Perhaps. I know I promised to stop posting about geeky crap, but given that I have no life to speak of at the moment, this is about as good as it gets today.

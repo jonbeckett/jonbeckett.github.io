@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "M4A Annoyances"
 date: 2010-10-14
-categories: archive
+categories: "2010"
 ---
 
 kidsonswings:

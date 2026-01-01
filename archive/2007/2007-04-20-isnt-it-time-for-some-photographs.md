@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Isnt It Time For Some Photographs"
 date: 2007-04-20
-categories: archive
+categories: "2007"
 ---
 
 I have been carrying my camera phone around with me for the last few weeks, and not really keeping up my end of the bargain - recording the more interesting happenings in the world as it passes me by...

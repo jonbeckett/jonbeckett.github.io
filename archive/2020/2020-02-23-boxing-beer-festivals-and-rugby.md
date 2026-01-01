@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Boxing Beer Festivals And Rugby"
 date: 2020-02-23
-categories: archive
+categories: "2020"
 ---
 
 My ever-reliable body-clock went off at 5am this morning - I rolled over in bed, pulled on the headphones I had prepared the night before, and listened to free radio coverage of the boxing match between Wilder and Fury from Las Vegas. Of course by breakfast time a multitude of people had shared the "live" fight on YouTube, which should give anybody considering pay-per-view pause for thought.

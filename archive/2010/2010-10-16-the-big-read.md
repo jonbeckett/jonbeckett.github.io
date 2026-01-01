@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Big Read"
 date: 2010-10-16
-categories: archive
+categories: "2010"
 ---
 
 In 2003, the BBC surveyed the television audience over the course of several months to find the most loved books by the general public - here's the top 20.

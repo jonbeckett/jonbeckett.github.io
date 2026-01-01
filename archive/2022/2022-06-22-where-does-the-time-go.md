@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where Does The Time Go"
 date: 2022-06-22
-categories: archive
+categories: "2022"
 ---
 
 Since stepping back from posting 'every other day' to the blog, I've discovered a paradox of sorts. While I thought having a few days between posts might conjure stories worth telling, the reality is that by the time I sit down to write anything, I've forgotten the stories worth telling.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Quiet Weekend"
 date: 2018-07-07
-categories: archive
+categories: "2018"
 ---
 
 After finishing work on Friday evening I cycled home via the supermarket with Miss 17, and picked up all manner of goodies to help out with dinner. The barbecue we lucked into on Freecycle was going to get it's first try-out. I am reliably informed that "Friday night pizza night" has become "Friday night barbecue night" throughout the summer.

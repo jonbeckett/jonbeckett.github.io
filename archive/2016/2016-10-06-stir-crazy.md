@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stir Crazy"
 date: 2016-10-06
-categories: archive
+categories: "2016"
 ---
 
 I had planned on being in the office today. That all changed a few minutes after waving the children off to school, when it transpired that the plans recorded in Google Calendarweren't entirely accurate. A meeting after lunch that I had presumed would involve both myself and my other half actually meant just me. Thankfully my work have been brilliant about me taking time off recently, and today was no exception. I just made sure after returning that I made the missing hours back up - working late into the evening answering emails, and helping distant co-workers in their hour of need.

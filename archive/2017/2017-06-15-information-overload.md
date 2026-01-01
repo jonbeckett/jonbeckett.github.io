@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Information Overload"
 date: 2017-06-15
-categories: archive
+categories: "2017"
 ---
 
 When it comes to catching up with the news, I have become increasingly lazy. In the UK we all pay for the BBC to exist, and along with that funding comes a number of rules - one of them being that their news reporting is unbiased. Therefore if I want to know what's going on in the world, I head to the BBC news homepage, and rarely venture anywhere else.

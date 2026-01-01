@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "February 2009 Photo Journal My Home Town"
 date: 2009-02-03
-categories: archive
+categories: "2009"
 ---
 
 I have been repeatedly requested by far flung friends for pictures of where we live - and today while walking through the snow and ice into town for emergency shopping, I finally took the camera with me.

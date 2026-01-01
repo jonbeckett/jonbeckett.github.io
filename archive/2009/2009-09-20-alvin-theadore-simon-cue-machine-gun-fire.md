@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Alvin Theadore Simon Cue Machine Gun Fire"
 date: 2009-09-20
-categories: archive
+categories: "2009"
 ---
 
 I just got back from a trip to the shops accompanied by our youngest, and was subjected to a barrage on 4 year old thoughts about life, the universe and everything for the entire duration of our trip. Given that the walk takes 20 minutes on her little legs, that's about three quarters of an hour of brain dump.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hospitals Errands And Running Yourself Ragged"
 date: 2010-11-25
-categories: archive
+categories: "2010"
 ---
 
 It is with tremendous relief that I can report that our youngest - Little Miss 5 - is home, in her bed, and sleeping soundly after a day spent in hospital. She had a bandage the size of a tennis ball stuck to her face, but is otherwise absolutely fine.

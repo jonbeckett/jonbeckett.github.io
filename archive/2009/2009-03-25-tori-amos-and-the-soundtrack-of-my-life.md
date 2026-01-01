@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tori Amos And The Soundtrack Of My Life"
 date: 2009-03-25
-categories: archive
+categories: "2009"
 ---
 
 I discovered her one morning in 1991 while watching breakfast television. She was there during the hundreds of hours spent commuting to and from London. She was there while walking the Cumbria Way. She was there when we discovered we could not have children, and she is playing now as three little girls sleep upstairs and I work late into the night.

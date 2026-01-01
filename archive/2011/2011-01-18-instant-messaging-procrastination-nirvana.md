@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Instant Messaging Procrastination Nirvana"
 date: 2011-01-18
-categories: archive
+categories: "2011"
 ---
 
 If you would like to help me procrastinate this afternoon, feel free to add me on any of the following networks;

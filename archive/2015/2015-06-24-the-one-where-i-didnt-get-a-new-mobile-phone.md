@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Didnt Get A New Mobile Phone"
 date: 2015-06-24
-categories: archive
+categories: "2015"
 ---
 
 In-between running errands this morning I realised I would only be a few minutes late for work if I dropped into our local mobile phone store to grab the Windows Phone I wrote about a few days ago. The idea focussed itself because I forgot to charge my phone overnight, and quite predictably it was running on fumes this morning.

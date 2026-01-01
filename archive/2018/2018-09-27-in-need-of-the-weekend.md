@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Need Of The Weekend"
 date: 2018-09-27
-categories: archive
+categories: "2018"
 ---
 
 Step away from the keyboard. Just step away from the keyboard. For a few minutes. Those are the words I find myself repeating - to myself. Take a break. Walk away. Breath.

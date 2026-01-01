@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The End Of Another Week"
 date: 2004-07-23
-categories: archive
+categories: "2004"
 ---
 
 I know, I know - I haven't been writing much in my blog recently.

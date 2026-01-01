@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Resurrecting The Imac"
 date: 2019-01-26
-categories: archive
+categories: "2019"
 ---
 
 Over the course of the last week we have begun decluttering around the house - digging out long forgotten things from the back of cupboards, and the attic - and putting them up for sale on E-Bay. Among the various items was an Apple iMac from the early 2000s. I'm not entirely sure of it's vintage - we bought it perhaps ten years ago on E-Bay from a school that had unearthed it from a long forgotten storage cupboard. It had almost certainly never been used.

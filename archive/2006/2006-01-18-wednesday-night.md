@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wednesday Night"
 date: 2006-01-18
-categories: archive
+categories: "2006"
 ---
 
 Today started at 7:30am when the radio alarm woke me up. I turned to W and reminded her that I had left my bike at work last night, and that she had promised to give me a lift in... the grunt that followed indicated that she had forgotten all about that.

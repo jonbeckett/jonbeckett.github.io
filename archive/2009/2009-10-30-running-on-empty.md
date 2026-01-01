@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running On Empty"
 date: 2009-10-30
-categories: archive
+categories: "2009"
 ---
 
 When children get ill, their body does the same thing mine does; hikes the temperature up and burns the virus from their system. The kids have something happen that I don't though - they hallucinate.

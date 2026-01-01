@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A challenge for the year ahead"
 date: 2024-01-01
-categories: archive
+categories: "2024"
 ---
 
 During January I've decided to take part in the annual "bloganuary" escapade at Wordpress - where you're encouraged to write something inspired by the writing prompt each day, tag it with #bloganuary, and post it off in your own little paper boat to sail the internet ocean.

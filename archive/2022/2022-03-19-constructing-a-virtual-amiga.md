@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Constructing A Virtual Amiga"
 date: 2022-03-19
-categories: archive
+categories: "2022"
 ---
 
 Too much work and not enough play makes Jack a dull boy - or at least, that's what the pages from the typewriter in The Shining had written on them. It tends to be true of me too. Let's hope I don't go insane while writing a novel in a deserted hotel.

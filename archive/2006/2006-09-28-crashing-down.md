@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Crashing Down"
 date: 2006-09-28
-categories: archive
+categories: "2006"
 ---
 
 I just played Chess on the internet for the first time in ages, and got resoundingly thrashed twice in a row. It may have had something to do with the glass of wine I just drank, but I'm not so sure.

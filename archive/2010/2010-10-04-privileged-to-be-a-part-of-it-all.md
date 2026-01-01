@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Privileged To Be A Part Of It All"
 date: 2010-10-04
-categories: archive
+categories: "2010"
 ---
 
 I have been half-watching a documentary on the television this evening about changes that occurred in the chemical industry over the past hundred years. The various talking heads from decades old interviews talked about the times of great development in their industry.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Door To Door Electricity Supply Salesmen"
 date: 2010-04-07
-categories: archive
+categories: "2010"
 ---
 
 We just had a guy turn up at the door selling electricity. Only he wasn't of course. He was conducting a door-to-door survey on behalf of Scottish Power to make sure people were paying the correct tariff after "numerous" local complaints about the tariff people have been paying for their electricity and gas supplies. Yeah right.

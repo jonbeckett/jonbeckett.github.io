@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cancelling Travel Plans"
 date: 2017-01-02
-categories: archive
+categories: "2017"
 ---
 
 All of the plans I made this week have now been torn into confetti and sprinkled around the office. The train tickets and hotel booking have been cancelled. The bag full of neatly folded clothes at home will now not be required until next week. This is perhaps the final nail in the idea of doing a"Bullet Journal", unless I wanted thecalendar to look like I've invented a new form of written language where every completed line of text has a line through it.

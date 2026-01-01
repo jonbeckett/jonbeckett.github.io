@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Recuperating"
 date: 2011-01-28
-categories: archive
+categories: "2011"
 ---
 
 First sight this morning was of a little blonde shadow in our bedroom doorway. I can't recall the exact conversation that ensued between her, her older sister and myself, but I do remember W nudging me in a half punch and mumbling "what time is it?" into the pillow.

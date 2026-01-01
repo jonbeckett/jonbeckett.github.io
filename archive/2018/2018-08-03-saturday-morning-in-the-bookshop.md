@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Morning In The Bookshop"
 date: 2018-08-03
-categories: archive
+categories: "2018"
 ---
 
 The day began with the clock radio bursting into life, and filling utter dross. I squinted my eyes open and watched the seconds and minutes pass on the bedside clock, wondering how long I might lay there before somebody might consider there was something wrong with me. Minutes? Hours? I'm guessing we'll never find out, because the curious instinct to "not waste the weekend" kicked in, and carried me downstairs for a shower.

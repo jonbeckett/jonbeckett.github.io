@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Disclaimer Awesomeness"
 date: 2010-10-21
-categories: archive
+categories: "2010"
 ---
 
 I threw a disclaimer page onto this tumblog earlier this morning (in reality, it's a mashup of several other disclaimers that I found online). I guess covering your own ass is a wise thing to do these days.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Marlow Half Marathon"
 date: 2006-11-05
-categories: archive
+categories: "2006"
 ---
 
 Today saw the running of the Marlow Half Marathon, which W's mum took part in. This saw me up and about at an unusually early time on a Sunday morning in preparation for their arrival at 9 this morning.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rediscovering The Past"
 date: 2015-01-29
-categories: archive
+categories: "2015"
 ---
 
 While digging through the long forgotten catacombs of the external network drive at home this evening, I came across a rather sizeable XML file with a cryptic name. Rather than continue looking for the thing I originally set out for, curiosity got the better of me. The file contained the archives of my blog posts from 2003 through to 2012.

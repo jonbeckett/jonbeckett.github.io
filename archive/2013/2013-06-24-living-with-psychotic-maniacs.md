@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Living With Psychotic Maniacs"
 date: 2013-06-24
-categories: archive
+categories: "2013"
 ---
 
 This photo (and the events of this morning, which I will get to later) are all the proof anybody should ever need that cats are not nice, cuddly, friendly creatures. Oh no. They are psychotic, violent maniacs.

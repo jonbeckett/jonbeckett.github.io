@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Evening"
 date: 2019-08-18
-categories: archive
+categories: "2019"
 ---
 
 Usually on a Sunday evening I would be making sure the kids have clean clothes for school, putting things in my work backpack, washing up, tidying up, and generally getting steeling myself for another week of mayhem. Only that's not happening tonight - because the kids are still on their summer holidays, and I'm off work too.

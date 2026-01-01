@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday At Legoland"
 date: 2014-04-14
-categories: archive
+categories: "2014"
 ---
 
 We tipped outselves out of bed early on Sunday morning, packed our bags with all manner of snacks, and set out for Legoland to celebrate the new "9 year old" status of our youngest. We have been to Legoland several times before, and although extortionately expensive (even after halving the gate price with vouchers), if the weather is good it makes for a great day out with children. Or rather, it should have made for a great day out, but I'll get to that later.

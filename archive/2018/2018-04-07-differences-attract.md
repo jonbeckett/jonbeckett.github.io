@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Differences Attract"
 date: 2018-04-07
-categories: archive
+categories: "2018"
 ---
 
 It's no secret that my favorite TV show of the last several years was 'Community' - a comedy about a group of misfits that end up at community college together for various reasons. It was written by Dan Harmon after attending community college to be near a girl he was seeing at the time - he became fascinated with the unlikely collection of people thrown together in college, and wrote the TV series off the back of it.

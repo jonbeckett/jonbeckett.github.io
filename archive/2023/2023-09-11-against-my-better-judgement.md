@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Against my better judgement"
 date: 2023-09-11
-categories: archive
+categories: "2023"
 ---
 
 I'm giving Wordpress another chance. I immediately noticed while catching up on recent posts in the "Reader" interface that the "like" button worked perhaps 50% of the time. I'll pretend it didn't happen.

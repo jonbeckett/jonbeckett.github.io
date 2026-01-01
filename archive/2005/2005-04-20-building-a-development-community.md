@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Building A Development Community"
 date: 2005-04-20
-categories: archive
+categories: "2005"
 ---
 
 I have spent the last half an hour putting the foundations in place to open my "open source" projects up to the world - to try and build a community of developers to take the project forwards.

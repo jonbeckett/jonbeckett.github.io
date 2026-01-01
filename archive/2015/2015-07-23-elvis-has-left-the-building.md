@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Elvis Has Left The Building"
 date: 2015-07-23
-categories: archive
+categories: "2015"
 ---
 
 Another Thursday, and another journey across the country aboard a long distance train. I now know that the 4pm train out of Preston is the "fast one" - covering the length of the country in a little over two hours.

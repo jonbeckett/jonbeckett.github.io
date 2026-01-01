@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running on two hours sleep"
 date: 2024-07-12
-categories: archive
+categories: "2024"
 ---
 
 Our youngest daughter arrived in the living room late last night doubled up in pain. We've been here before. After giving her ibuprofen and paracetamol she was showing no improvement. Half an hour later we were at accident and emergency at our nearest hospital.

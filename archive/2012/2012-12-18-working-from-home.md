@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working From Home"
 date: 2012-12-18
-categories: archive
+categories: "2012"
 ---
 
 Fifteen minutes ago I sat down to write something before beginning work for the day. I still haven't written anything (unless you count this). I now have half an hour before the work laptop has to come out of the bag, and I absolutely need to get on with something. The knowledge that my co-workers will be going through a similar avoidance scheme is entertaining in a way; I'm half tempted to open a chat window with the girl who sits behind me in the office, and open the video window "by accident" - catch her in her pyjamas.

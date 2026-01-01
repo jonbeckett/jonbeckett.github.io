@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The journey home"
 date: 2024-05-13
-categories: archive
+categories: "2024"
 ---
 
 After two days of glorious sunshine, the tables were turned this morning. The heavens didn't so much open, as their entire contents fell on Cornwall.

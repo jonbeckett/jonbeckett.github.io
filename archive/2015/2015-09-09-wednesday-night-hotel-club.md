@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wednesday Night Hotel Club"
 date: 2015-09-09
-categories: archive
+categories: "2015"
 ---
 
 It's remarkably difficult to write about anything when you're sitting in a hotel room for the third night in a row, and you chose not to drag yourself to the bar next door. Instead you walked to the supermarket - across six lanes of traffic - and bought a salad, chocolate, and a cheap bottle of wine. Now you're sitting in the hotel room, wondering what to do next.

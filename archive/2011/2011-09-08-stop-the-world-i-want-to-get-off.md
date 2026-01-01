@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stop The World I Want To Get Off"
 date: 2011-09-08
-categories: archive
+categories: "2011"
 ---
 
 This is getting a bit silly. I've been working on a big sort-of-secret project at work for weeks now. It hasn't just eaten up hoursit's bitten off entire weeks, chewed them up, and spat them back out again.

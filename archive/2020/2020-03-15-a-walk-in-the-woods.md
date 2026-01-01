@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Walk In The Woods"
 date: 2020-03-15
-categories: archive
+categories: "2020"
 ---
 
 Despite the rain that fell all day, I took Miss 19 out for a walk in the woods this morning - or perhaps more accurately, a walk through the fields to a nearby hamlet where a small pub serves lunches.

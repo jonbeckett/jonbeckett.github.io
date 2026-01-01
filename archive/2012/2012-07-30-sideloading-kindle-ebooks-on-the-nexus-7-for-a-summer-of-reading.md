@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sideloading Kindle Ebooks On The Nexus 7 For A Summer Of Reading"
 date: 2012-07-30
-categories: archive
+categories: "2012"
 ---
 
 Yes, I know the title hints at all manner of technical shenanigans. In reality, it's just me choosing books to take away on holiday next weekand to begin reading in the evenings this weekI really need to stop watching television so much. Since stopping freelance work in the evenings, you might think I had slowed down a bit. I'm blogging again, which is one thing I guess, but I'm also watching TVsomething I haven't really done for years.

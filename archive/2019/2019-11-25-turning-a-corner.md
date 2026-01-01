@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Turning A Corner"
 date: 2019-11-25
-categories: archive
+categories: "2019"
 ---
 
 I think my body might actually be starting to stage a fight-back. I have felt better today than I have in several weeks. The snotty nose has gone, and breathing appears to be possible again - you know, without exploding in a coughing fit when doing something as strenuous as standing up.

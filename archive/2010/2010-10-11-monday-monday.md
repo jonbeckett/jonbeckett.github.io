@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Monday"
 date: 2010-10-11
-categories: archive
+categories: "2010"
 ---
 
 Ba daaa, baa da daa daa...

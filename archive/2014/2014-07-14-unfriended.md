@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unfriended"
 date: 2014-07-14
-categories: archive
+categories: "2014"
 ---
 
 After clicking send on the tenth email of Monday morning I had a swig of coffee, opened a new tab in the browser, and jumped down the Tumblr rat hole for a few minutes. While hitting the "next post" keyboard shortcuta wonderful inventionI realised I had not seen any posts by distant friend in some time.

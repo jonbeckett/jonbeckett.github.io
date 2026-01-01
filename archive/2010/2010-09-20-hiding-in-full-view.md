@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hiding In Full View"
 date: 2010-09-20
-categories: archive
+categories: "2010"
 ---
 
 Why do so many people hide behind pseudonyms online? Why are they so scared of being themselves?

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where Google Charge Me For A Domain I Dont Own Any More"
 date: 2011-02-02
-categories: archive
+categories: "2011"
 ---
 
 A couple of years ago I maintained a technical blog called "Bag of Spanners". It served as a notebook of bits and pieces of code I had figured out, and that I neatened up for the benefit of others. It ceased to exist some time ago (for reasons I might go into another time).

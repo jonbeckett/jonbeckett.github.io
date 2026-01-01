@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Plodding Onwards"
 date: 2016-03-24
-categories: archive
+categories: "2016"
 ---
 
 It's Thursday morning before the bank holiday weekend. I have a conference call in a little while hence the appearance of the headset on my desk. Work has been kind of interesting over the last week or sowe're "crossing the streams", Ghostbusters styleI've been doing some coding on the back end of WordPress. I can't tell youwhat I've been doing, but stillit's far more interesting than the usual stuff I get to work on.

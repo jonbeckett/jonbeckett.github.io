@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nablopomo And Lisa"
 date: 2017-10-12
-categories: archive
+categories: "2017"
 ---
 
 One of the great benefits of having taken part in this curious online world for so long, is you know the back-story behind things. As many of you will know, NaNoWriMo will kick off in a couple of weeks time - if you've not heard of it, it's pretty simple - write a 50,000 word novel during November. Lots of people try it, as have I, spectacularly unsuccessfully.

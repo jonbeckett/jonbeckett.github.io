@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Remind Me What Normal Feels Like"
 date: 2014-08-18
-categories: archive
+categories: "2014"
 ---
 
 The various things going wrong with me have started to get me down. I've now had the chest infection for three weeks, and a cold for a week. The stiff neck is better. The broken toe is finally healing, although I have to be careful.

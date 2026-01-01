@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Submerged"
 date: 2017-02-21
-categories: archive
+categories: "2017"
 ---
 
 I hit the ground running this morning, and started the programming for a new project. I completely lost track of time, and before I knew it there was only an hour or so of the day remaining. I had a goal in mind - something I wanted to get working before the day ended, but didn't quite get there. It's still annoying me now.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Doctor"
 date: 2013-08-24
-categories: archive
+categories: "2013"
 ---
 
 While walking into town a little while ago, I passed two elderly ladies, chatting in the middle of the footpath. One was perhaps 75 years old, and the other was easily 90, with a shocking auburn wig hanging lopsided on her stooped head.

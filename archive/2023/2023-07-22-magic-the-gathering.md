@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Magic the Gathering"
 date: 2023-07-22
-categories: archive
+categories: "2023"
 ---
 
 I sat down with my daughters after clearing up the dinner things and set about learning to play "Magic the Gathering" with them. If you've never heard of it, it's a fantasy card game where you each play from a deck of cards in order to "fight" each other - a "last man standing" sort of thing, interwoven with all manner of rules.

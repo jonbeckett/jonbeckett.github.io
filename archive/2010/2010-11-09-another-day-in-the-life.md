@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Day In The Life"
 date: 2010-11-09
-categories: archive
+categories: "2010"
 ---
 
 Could this really be a "day in the life" post at long last?

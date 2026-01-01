@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rabbit Holes"
 date: 2018-01-21
-categories: archive
+categories: "2018"
 ---
 
 Today feels like it has slipped through my fingers. I rolled out of bed a minute or so after the radio alarm clock erupted into life at 7am, and stomped off towards the shower. A few minutes later I arrived in the kitchen to discover a washing up mountain from the night before. My other half wandered into the kitchen - rubbing her eyes - and apologised. She had made lunches for everybody late the night before, and didn't get as far as drying anything, or putting anything away. By the time I finished, the children had gone to school, and I had little or no time to get my own things together.

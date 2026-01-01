@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Night Off"
 date: 2023-06-14
-categories: archive
+categories: "2023"
 ---
 
 After running every other day for the last several weeks, and working out last night too (I'm still sore now), I'm having a night off tonight. I suppose it shows how unfit I had become, because after doing three rounds of basic circuit training last night - squats, push ups, and so on - I could hardly move this morning. I went for a walk at lunchtime purely to make my legs start working again.

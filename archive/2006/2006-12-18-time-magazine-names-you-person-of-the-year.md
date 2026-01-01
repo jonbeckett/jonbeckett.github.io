@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Time Magazine Names You Person Of The Year"
 date: 2006-12-18
-categories: archive
+categories: "2006"
 ---
 
 It's very rare that I run a story across both the PluggedOut blog and here at LifeAndTimes, but I felt today was one of those rare times...

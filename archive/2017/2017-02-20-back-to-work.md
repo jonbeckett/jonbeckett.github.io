@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back To Work"
 date: 2017-02-20
-categories: archive
+categories: "2017"
 ---
 
 I returned to the office today after the better part of six weeks either travelling around the country, or sick at home. I will admit to a certain amount of dread when opening my email - I thought I got off remarkably lightly - I only had a couple of emails to actively respond to - the rest were from the resident office geeks, nerding out about a new phone system.

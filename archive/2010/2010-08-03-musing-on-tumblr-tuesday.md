@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Musing On Tumblr Tuesday"
 date: 2010-08-03
-categories: archive
+categories: "2010"
 ---
 
 It would appear that convention dictates the turning of the cogs behind the Tumblr Directory on a Tuesday necessitates the pimping of Tumblites that carry your favour.

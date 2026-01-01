@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mr Foggs Residence"
 date: 2019-03-29
-categories: archive
+categories: "2019"
 ---
 
 I'm not entirely sure that I know where to start - I just know I need to before the memories of the evening leave my head. I'm sitting on the train home from London at ten minutes to midnight. I will arrive at a town fairly-near home at somewhere close to 1am, and will then summon a taxi for the last few miles.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Would You Let This Man Run Your Company"
 date: 2004-07-06
-categories: archive
+categories: "2004"
 ---
 
 It struck me this morning how Steve Ballmer has the incredible skill of looking almost infinitely stupid regardless of the situation you put him in. Would you trust the guy to run your company? Would you want him to be your poster-boy?

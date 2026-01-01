@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Much Needed Peace And Quiet"
 date: 2012-02-11
-categories: archive
+categories: "2012"
 ---
 
 More by luck than judgement, today has become a slow day. A day filled with nothing much at all. A day to sit down, listen to music, write, rest, and drink tea. The younger children have gone with W to visit her parents, and I am in charge of our eldest - who is coughing in the lounge. Early this morning I asked her to clean her room in exchange for watching television. I can't hear television.

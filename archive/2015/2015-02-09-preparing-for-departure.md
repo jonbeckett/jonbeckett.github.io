@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Preparing For Departure"
 date: 2015-02-09
-categories: archive
+categories: "2015"
 ---
 
 I'm having a dilemma. This afternoon I will be travelling north for a few days - staying in the Holiday Inn near a client site for two nights. I'm wondering if I can fit everything in my work backpack, rather than carry a second bag. The packing list is going to look something like this;

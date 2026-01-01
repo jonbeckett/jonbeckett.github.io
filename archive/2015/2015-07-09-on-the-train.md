@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Train"
 date: 2015-07-09
-categories: archive
+categories: "2015"
 ---
 
 Well this is novel... I'm sitting on the train, travelling from Wycombe to Warwick, typing this from the bluetooth keyboard into the Evernote app on the Kindle Fire. Let's hope it handles recording notes while it has no internet connection. I imagine I'll post it later today when I return to the office.

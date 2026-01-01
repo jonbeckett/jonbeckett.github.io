@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "That Was The Weekend That Was"
 date: 2012-06-18
-categories: archive
+categories: "2012"
 ---
 
 I'm sat here at work on Monday morning, and I'm pretty much burned out before the week has even begun. I'm thinking that perhaps spending twenty minutes emptying my head into the computer will help me focus for the rest of the day on programming. Perhaps.

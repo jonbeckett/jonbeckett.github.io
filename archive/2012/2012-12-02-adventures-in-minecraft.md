@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Adventures In Minecraft"
 date: 2012-12-02
-categories: archive
+categories: "2012"
 ---
 
 Over the course of the last couple of years I have seen several friends post about an odd video game called "Minecraft" - an open ended sandbox where you could build all manner of structures, dig holes, and fight zombies (yes, you read that right). It always sounded just a little bit too far off the end of the geek gang-plank for me to dare looking at.

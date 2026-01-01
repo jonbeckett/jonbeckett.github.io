@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday Morning"
 date: 2024-02-23
-categories: archive
+categories: "2024"
 ---
 
 How has it been a week since I last wrote anything in the blog? I've been meaning to write something every day - but one thing or another has got in the way and just sitting in front of the keyboard to write has never quite happened.

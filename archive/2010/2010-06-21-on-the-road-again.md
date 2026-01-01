@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Road Again"
 date: 2010-06-21
-categories: archive
+categories: "2010"
 ---
 
 The alarm clock on my mobile phone beeped into life at 5:30am. I had been awake since just after 5 - watching the minutes tick down, drifting into and out of sleep. Long forgotten commuting muscle memory carried me down the stairs, got me through the shower, into clothes, and began filling my bag for the day ahead.

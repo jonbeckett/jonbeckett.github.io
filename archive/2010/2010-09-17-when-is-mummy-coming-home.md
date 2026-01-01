@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "When Is Mummy Coming Home"
 date: 2010-09-17
-categories: archive
+categories: "2010"
 ---
 
 At 5:50am, I woke with a start. W was sat upright in bed, shooing the cat away, and cursing volubly.

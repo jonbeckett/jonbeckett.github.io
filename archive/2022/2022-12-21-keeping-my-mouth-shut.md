@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Keeping my mouth shut"
 date: 2022-12-21
-categories: archive
+categories: "2022"
 ---
 
 Somehow we're halfway through the week before Christmas. Only a few days left. I could swear I lost a day this week already. Being honest, I could probably swear about a lot of things at the moment. I'm choosing not to though. I'm taking the high ground.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Residential Trip For Our Youngest"
 date: 2015-06-22
-categories: archive
+categories: "2015"
 ---
 
 Our youngest daughter arrived in our bedroom doorway fully dressed, teeth brushed, and hair combed at 7am sharp this morning. She had obviously been standing in the hallway, waiting for the alarm to go off.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Grump Old Men"
 date: 2005-06-16
-categories: archive
+categories: "2005"
 ---
 
 It struck me earlier this afternoon that I have not been writing in my Blog regularly.

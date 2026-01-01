@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lost A Follower"
 date: 2010-10-05
-categories: archive
+categories: "2010"
 ---
 
 I just noticed I lost a follower. While this wouldn't be important, if you only had 65 followers to begin with, it's the same as losing a chunk of chocolate from a 250g bar.

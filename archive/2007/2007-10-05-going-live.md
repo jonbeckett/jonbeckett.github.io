@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Going Live"
 date: 2007-10-05
-categories: archive
+categories: "2007"
 ---
 
 Yesterday evening I stayed late to help fire-fight in the go-live of the project I have been working on for the last six months. I finally found myself wandering back towards Liverpool Street station a little after 9pm. "Go Live's" are always fun, because you cannot bring the system down while the business is using it, and woe betide you if the system isn't back up the next morning.

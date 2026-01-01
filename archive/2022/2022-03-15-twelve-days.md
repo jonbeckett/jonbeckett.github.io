@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Twelve Days"
 date: 2022-03-15
-categories: archive
+categories: "2022"
 ---
 
 Twelve days. That's how many days I managed to stay away from publishing an almost-daily journal on the internet. If I'm entirely honest, I started writing again almost immediately - experimenting with traditional diary entries. It all seemed so pointless.

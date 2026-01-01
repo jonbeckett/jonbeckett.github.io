@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Photo From Turkey"
 date: 2006-10-07
-categories: archive
+categories: "2006"
 ---
 
 We finally got W's films developed of our trip to Turkey.

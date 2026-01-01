@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Found While Surfing"
 date: 2006-01-19
-categories: archive
+categories: "2006"
 ---
 
 If you have read the list of interests in my profile, you will see that I have "comic artwork" in there. It probably seems like a pretty childish thing to be interested in - following from the whole speech about "putting away childish things" that was read at my wedding in 2001. Well perhaps the following might bring your perception more in line with mine...

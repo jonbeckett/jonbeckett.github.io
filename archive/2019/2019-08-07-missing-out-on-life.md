@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Missing Out On Life"
 date: 2019-08-07
-categories: archive
+categories: "2019"
 ---
 
 I should re-title this blog "every other day" given the frequency I seem to be posting at the moment. It's not a conscious decision to slow down either - just a lack of any time to write anything.

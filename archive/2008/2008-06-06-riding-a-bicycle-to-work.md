@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Riding A Bicycle To Work"
 date: 2008-06-06
-categories: archive
+categories: "2008"
 ---
 
 At present I am commuting into the city for three days each weekand for the remaining two days I live close enough to the office to ride a mountain bike to work.

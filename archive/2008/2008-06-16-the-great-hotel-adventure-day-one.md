@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Great Hotel Adventure Day One"
 date: 2008-06-16
-categories: archive
+categories: "2008"
 ---
 
 At 7am my Palm organiser burst into life with a quiet electronic wailing that would perhaps have been quite loud for an ant. My ear - more accustomed to hearing small children across the hallway - heard it and I woke immediately. Knowing that I wasn't due in the hotel lobby until 9, I started looking for things to do.

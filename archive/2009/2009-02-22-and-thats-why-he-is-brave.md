@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And Thats Why He Is Brave"
 date: 2009-02-22
-categories: archive
+categories: "2009"
 ---
 
 The swirling maelstrom of thoughts cleared a little this evening while waiting for our eldest to brush her teeth. A section of my favourite book appeared in my head quite unannounced, and has refused to leave all evening. I'm thinking that if I write this down, it may make room for other thoughts.

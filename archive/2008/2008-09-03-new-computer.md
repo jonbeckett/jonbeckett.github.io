@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "New Computer"
 date: 2008-09-03
-categories: archive
+categories: "2008"
 ---
 
 I just ordered a replacement for our venerable desktop computer at home. I could bore you with specifications, but I am not going to. Suffice to say it's many times faster than the current machine sat in front of me, has many times more memory, many times more storage, and a humongous screen.

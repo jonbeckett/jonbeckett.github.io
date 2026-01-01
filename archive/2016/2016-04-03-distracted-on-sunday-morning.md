@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Distracted On Sunday Morning"
 date: 2016-04-03
-categories: archive
+categories: "2016"
 ---
 
 I woke a little after 6am this morning, rolled over, looked at my bedside clock, and immediately fell back asleep. I have vague memories of my other half arriving in the room between 5 and 6amI'm guessing she fell asleep in the living room while binge-watching season 5 of "Game of Thrones". I finally woke at half past seven, and stared at the ceiling for a while. Finally eight oclock rolled around, and the annoying corner of my brain that whispers "you're wasting the day" became more and more insistent.

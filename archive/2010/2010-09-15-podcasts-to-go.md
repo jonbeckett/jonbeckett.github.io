@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Podcasts To Go"
 date: 2010-09-15
-categories: archive
+categories: "2010"
 ---
 
 While commuting into and out of London throughout much of 2007 and 2008, I became a regular listener of several podcasts. The bug has stayed with me, and I often choose them over television on an evening.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Road Again"
 date: 2015-12-14
-categories: archive
+categories: "2015"
 ---
 
 We pulled out of Euston 1 minute early (that's never happened before). Currently hurtling across North London, watching the grey skies, industrial units and suburbs whistle past the window. I'm squashed into the corner of a table on the train, next to a sizeable businessman. How does that happen ? How is it that two fairly big guys will always end up sitting next to each other on small train seats ? The businessman sitting across from me just lost the signal on his phone. Not funny at all, honest.

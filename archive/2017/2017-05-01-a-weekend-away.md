@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Weekend Away"
 date: 2017-05-01
-categories: archive
+categories: "2017"
 ---
 
 I was going to begin this post with some sort of clever remark about nobody searching me out to discover where I have been for the last few days, but then realised that everybody I kind-of know via the internet follows me on Instagram, so would have seen the daily photos taken from here there and everywhere.

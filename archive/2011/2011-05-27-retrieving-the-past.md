@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Retrieving The Past"
 date: 2011-05-27
-categories: archive
+categories: "2011"
 ---
 
 Tucked away on a shelf in a dark corner of our study, a row of ZIP disks have hidden for the last decade. They have moved house with us, and survived multiple clearouts. I don't know why I've hung on to them over the years, but I have.

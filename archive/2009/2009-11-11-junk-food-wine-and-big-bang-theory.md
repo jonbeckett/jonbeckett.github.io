@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Junk Food Wine And Big Bang Theory"
 date: 2009-11-11
-categories: archive
+categories: "2009"
 ---
 
 The last few days has heralded something of a resurgence within meI have stories to share for the first time in ages. Perhaps it comes from a recent attack on the blogroll mountain.

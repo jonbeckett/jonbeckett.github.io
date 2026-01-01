@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And Then There Were Five"
 date: 2013-10-05
-categories: archive
+categories: "2013"
 ---
 
 Miss Nine is home from her school trip. She spent the last week at an outward bound center, several hundred miles from home, with the rest of her school year.We wandered into town yesterday evening and were very nearly late; as we rounded the final corner towards the school we were greeted by a rugby scrum of parents surrounding a coach.

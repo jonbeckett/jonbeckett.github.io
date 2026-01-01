@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Theres This Girl I Know Who Writes A Blog Sometimes"
 date: 2011-11-05
-categories: archive
+categories: "2011"
 ---
 
 There's this girl I know who writes a blog sometimes. I doubt I will ever meet her because she lives on the other side of the world, but we sort of know each other through reading and commenting over the last year or so.

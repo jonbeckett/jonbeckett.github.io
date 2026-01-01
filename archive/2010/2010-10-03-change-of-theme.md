@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Change Of Theme"
 date: 2010-10-03
-categories: archive
+categories: "2010"
 ---
 
 I just bought a new theme for my tumblog - "Well Liked" by Peter Vidani.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hectic Weekends"
 date: 2003-06-09
-categories: archive
+categories: "2003"
 ---
 
 We got up early on Saturday to get into London (I had to get a new passport).

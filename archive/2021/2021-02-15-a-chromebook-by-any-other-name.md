@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Chromebook By Any Other Name"
 date: 2021-02-15
-categories: archive
+categories: "2021"
 ---
 
 Late last night I discovered a company called "Neverware" created the software to install on a USB stick that allows a computer to boot from the stick and turns it into a Chromebook. The software is called "CloudReady", and the home edition is *free*. What's more, if you like what it does, with a single click you can wipe the computer and install the Chrome operating system onto it's internal storage - turning it completely into a Chromebook. Neverware did their job so well, Google acquired them.

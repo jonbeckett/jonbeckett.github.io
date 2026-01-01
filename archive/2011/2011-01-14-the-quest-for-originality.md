@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Quest For Originality"
 date: 2011-01-14
-categories: archive
+categories: "2011"
 ---
 
 Is it just me, or do some people do nothing but reblog? It's no accident that Tumblr sent a number of bloggers on an all expenses paid trip to New York Fashion Week -they are trying to inject new content into the ecosystem.

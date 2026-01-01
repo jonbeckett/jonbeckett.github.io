@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fixing The Car"
 date: 2004-10-09
-categories: archive
+categories: "2004"
 ---
 
 A couple of nights ago, W got home from work and told me that the lights were playing up in her car - if she indicated right, the lights went on to full beam, and if she pulled the stalk towards herself, it stayed there...

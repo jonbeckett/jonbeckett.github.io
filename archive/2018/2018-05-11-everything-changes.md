@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Everything Changes"
 date: 2018-05-11
-categories: archive
+categories: "2018"
 ---
 
 After a day or two turning the idea over and over in my head, and an afternoon spent figuring out what needed to be done, I have migrated this blog over from Evernote and Postach.io to Blogger. After the wave of a magic wand, I migrated the comments over via Disqus, hooked a subdomain up to the blog with the help of CloudFlare, connected Google Analytics, re-wired Mailchimp, and setup Feedburner.

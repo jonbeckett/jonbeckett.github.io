@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Retro Computing"
 date: 2016-04-23
-categories: archive
+categories: "2016"
 ---
 
 This post was written on a retro "G3" iMac in the corner of the junk room we somewhat convincingly call the "Study" at home. We bought the iMac from eBay about four years ago, and for the majority of that time, it has sat on the floor. It was originally sold in about 2002 as far as I can figure out, and then left in the store room of a school for the best part of a decade until somebody cleared the school, and sold it to us.

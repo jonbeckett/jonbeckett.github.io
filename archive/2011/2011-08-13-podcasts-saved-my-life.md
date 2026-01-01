@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Podcasts Saved My Life"
 date: 2011-08-13
-categories: archive
+categories: "2011"
 ---
 
 Throughout the best part of 2 years beginning in 2007, I was subcontracted into a big company in central London. This meant joining the millions who commute into and out of the city each day for a 2 hour journey each way. It meant leaving the house at 7 in the morning, and returning home at 7 in the evening not fun.

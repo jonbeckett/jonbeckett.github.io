@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday Morning 9Am"
 date: 2016-10-28
-categories: archive
+categories: "2016"
 ---
 
 At 6:45am on a weekday our house lurches into life. The heating timer ticks over, and a quiet thunder of hot water rumbles through pipes throughout the house. A few minutes later an alarm clock switches on, filling the silence with news bulletins from the local radio station. One by one mobile phones around the house begin delivering notifications, with quiet chirps, beeps, and whistles. All the while I gaze at the ceiling, gathering thoughts. Moments later a battery powered cat toy erupts into life in our youngest child's bedroom, and fills the house with badly sampled cat noises. Now we are all awake.

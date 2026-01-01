@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Every Other Day"
 date: 2018-08-20
-categories: archive
+categories: "2018"
 ---
 
 I seem to only make it to the blog every other day at the moment, which is ridiculous because I have the week off work. Im knocking around the house doing chores, walking into town running errands, and somehow filling each day with forgettable detritus.

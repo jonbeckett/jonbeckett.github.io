@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coast To Coast"
 date: 2022-01-02
-categories: archive
+categories: "2022"
 ---
 
 *This year I'm taking part in "[Bloganuary](https://bloganuary.wordpress.com/)" - a series of writing prompts published throughout the month by [Mindy Postoff](https://bloganuary.wordpress.com/author/mindywoothemes/). Today's theme is "what is a road trip you would love to take?"*

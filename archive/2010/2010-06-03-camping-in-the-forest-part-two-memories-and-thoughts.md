@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Camping In The Forest Part Two Memories And Thoughts"
 date: 2010-06-03
-categories: archive
+categories: "2010"
 ---
 
 We have spent the past several days holed up in a tent, deep in the Forest of Dean to give the children a holiday, and to give ourselves a break from the usual mayhem that surrounds us. Of course "break" is a relative term; quite apart from packing and unpacking, we have also been cooking for, tidying up after, and entertaining the children pretty much 18 hours a day.

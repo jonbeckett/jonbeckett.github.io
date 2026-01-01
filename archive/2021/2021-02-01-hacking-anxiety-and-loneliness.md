@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hacking Anxiety And Loneliness"
 date: 2021-02-01
-categories: archive
+categories: "2021"
 ---
 
 I'm not working today, so have spent much of the day juggling home school assistance with efforts to encourage my eldest daughter to step outside her self imposed seclusion. She arrived in the lounge late last night on something of a downer, so we spent an hour firing ideas at her like a machine gun.

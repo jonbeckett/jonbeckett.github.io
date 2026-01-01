@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Hour For Free"
 date: 2014-10-26
-categories: archive
+categories: "2014"
 ---
 
 After waking up this morning, and wondering why the alarm hadn't gone off on my phone (I set it as an insurance policy to deliver Miss 10 to rugby practice on time), I wandered downstairs. I had a vague memory of switching the alarm off - something I'm remarkably good at; waking up just enough to function, but not "really" waking up at all.

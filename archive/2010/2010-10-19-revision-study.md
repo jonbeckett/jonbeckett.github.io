@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Revision Study"
 date: 2010-10-19
-categories: archive
+categories: "2010"
 ---
 
 Apart from half an hour wandering to the school and back this morning in order to delivery the children to their various places of learning, I've been shut away in the study at home all day - revising for a Microsoft professional certification test tomorrow.

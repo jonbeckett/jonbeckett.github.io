@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Happened To The Weekend "
 date: 2019-07-14
-categories: archive
+categories: "2019"
 ---
 
 Douglas Adams once wrote "I love Deadlines - I like the whooshing sound as they fly by". I'm starting to think the same way about weekends. Since finishing work on Friday evening the entire weekend seems to have been a marathon.

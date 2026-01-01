@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Temptation Destroys Peace Of Mind"
 date: 2010-06-04
-categories: archive
+categories: "2010"
 ---
 
 I couldn't do it. I couldn't leave my work mobile alone. It sat quietly charging in the corner of the study until late this afternoon when I happened to busy myself with sorting out the various contents of my backpack from camping.

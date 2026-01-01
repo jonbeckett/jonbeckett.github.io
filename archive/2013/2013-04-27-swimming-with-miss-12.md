@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Swimming With Miss 12"
 date: 2013-04-27
-categories: archive
+categories: "2013"
 ---
 
 Midway through the morning my better half quietly wandered into the study and asked if I would take Miss 12 swimming. She has her first rowing lesson at school next week, and was stressing out that she would fail the swimming test (in reality you cannot fail it - you are given abuoyancyaid if you're not confident in the water).

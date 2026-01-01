@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lacking Effort"
 date: 2016-07-04
-categories: archive
+categories: "2016"
 ---
 
 It feels like I've been investing little or no effort into blog posts for a while now - forcing the daily posts when I have little or nothing to share. I guess it opens an internal debate about the wisdom of posting every day, versus posting when I have something to say. I'm reminded of a cartoon I saw some time ago - captioned "I have nothing to say, and I'm saying it". Being brutally honest, that's been the story of blogging (for me) for quite some time.

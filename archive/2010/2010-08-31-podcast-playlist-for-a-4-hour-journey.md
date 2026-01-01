@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Podcast Playlist For A 4 Hour Journey"
 date: 2010-08-31
-categories: archive
+categories: "2010"
 ---
 
 To help survive the hour into London, the hour across London, and the two hours heading north, I'm filling my phone with podcasts

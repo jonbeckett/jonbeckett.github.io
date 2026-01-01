@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pausing For Breath"
 date: 2011-04-11
-categories: archive
+categories: "2011"
 ---
 
 This afternoon I find myself approaching a rare situation indeedthe work required for a client demo mid-week is functionally complete, and fairly well polishedmeaning I have a rare thing on my handsspare time. That being said, I'm waiting for a virtual machine to start up in order to complete a random objective thrown at me yesterday.

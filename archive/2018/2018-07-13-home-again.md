@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Home Again"
 date: 2018-07-13
-categories: archive
+categories: "2018"
 ---
 
 I got up ridiculously early yesterday - or rather, I tried to get up. You know the room spinning feeling when you go to bed after a night out? It felt like that. I staggered towards the bathroom to have a shower, and wondered what the hell was going on. I've had it happen in the past - fleetingly - but it usually goes away. It wasn't this time.

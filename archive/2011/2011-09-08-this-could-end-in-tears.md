@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "This Could End In Tears"
 date: 2011-09-08
-categories: archive
+categories: "2011"
 ---
 
 I'm following an online tutorial to change the low level configuration of my HTC Desire phone. If it works, I can fill it up with more applications than you can throw a very large bag of sticks at. If it doesn't work, the phone will probably be buggered.

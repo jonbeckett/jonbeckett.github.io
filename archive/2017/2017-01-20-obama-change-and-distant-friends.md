@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Obama Change And Distant Friends"
 date: 2017-01-20
-categories: archive
+categories: "2017"
 ---
 
 It's been fascinating to watch events unfold on the other side of the world this week.Quite apart from having family in America (my uncle and cousin live in California), throughout the years I have been writing a blog on the internet, I have come to know quite a number of the American people. I was going to write about their idealism, hopes, fears, ambitions, and so on - but you eventually realise that people are just people, wherever they live.

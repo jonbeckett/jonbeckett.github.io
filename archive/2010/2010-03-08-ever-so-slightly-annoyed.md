@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ever So Slightly Annoyed"
 date: 2010-03-08
-categories: archive
+categories: "2010"
 ---
 
 While skimming the various news outlets around the internet before turning in for the night, I happened upon a news story relating the frustration of home schooling parents who cannot find faith related science books that teach the same thing that their children would have been taught in school.

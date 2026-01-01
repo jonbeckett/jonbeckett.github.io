@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To The Real World"
 date: 2009-02-21
-categories: archive
+categories: "2009"
 ---
 
 We'll be getting back in the car in a couple of hours time to travel home from my parents on the south west coast - a five hour car journey taking us through Cornwall, Devon, Somerset, Wiltshire, Berkshire, and finally Buckinghamshire.

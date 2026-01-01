@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wandering Thoughts On An Early Commute"
 date: 2009-06-23
-categories: archive
+categories: "2009"
 ---
 
 Sitting on the train, en-route to Birmingham once again. Woke with a start at 4:55am, and lurched out of bed. Espresso at home, and a capuccino at Maidenhead have kick started my body enough to deal with the early start.

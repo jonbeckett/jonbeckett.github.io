@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stealing an hour from the Sandman"
 date: 2024-10-30
-categories: archive
+categories: "2024"
 ---
 
 The clock ticked past midnight nearly three quarters of an hour ago, and now races me towards sleep as I endeavour to complete one more thing - writing this post - before sleep inevitably wins.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Imaginary Astronaut Escapade"
 date: 2022-12-04
-categories: archive
+categories: "2022"
 ---
 
 I threw some photos of myself at an "artificially intelligent" application earlier today, and it resulted in the most surreal few minutes of my life - as I watched all manner of scenes that never happened arrive in my mobile phone.

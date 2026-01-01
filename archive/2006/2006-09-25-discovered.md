@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Discovered"
 date: 2006-09-25
-categories: archive
+categories: "2006"
 ---
 
 I forgot to say... while on holiday in Turkey we went out for dinner one evening in nearby Fethiye, and while eating the main course, our host for the evening (the owner of the hotel), suddenly drops this bombshell...

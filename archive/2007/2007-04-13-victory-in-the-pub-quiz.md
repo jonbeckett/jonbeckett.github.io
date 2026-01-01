@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Victory In The Pub Quiz"
 date: 2007-04-13
-categories: archive
+categories: "2007"
 ---
 
 We won our local pub quiz last night for the first time. We have come joint first before, but last night they changed the format of the quiz - meaning the music and tabloid newspaper questions vanished, and it was a true "trivia" quiz...

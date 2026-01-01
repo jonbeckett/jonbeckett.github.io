@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Shin Megami Tensei Devil Survivor"
 date: 2010-09-26
-categories: archive
+categories: "2010"
 ---
 
 For the last several weeks I've been planning on getting a role playing game for the DS. Having sold the Playstation 2 and XBox, and not being able to warrant the money for either a PS3 or 360, the DS is my primary gaming device.

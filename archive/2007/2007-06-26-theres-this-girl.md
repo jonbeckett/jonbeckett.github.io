@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Theres This Girl"
 date: 2007-06-26
-categories: archive
+categories: "2007"
 ---
 
 There's this girl that gets on the train at Maidenhead, and she doesn't shut up. Ever. I swear she doesn't breath either - at least not in through her mouth - there's no time. Just to make it worse, she speaks with this nasal tone that can't help but induce narcolepsy in those around her (or at least me). She could be used as a weapon at conferences.

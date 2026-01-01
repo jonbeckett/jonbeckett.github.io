@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Missing My Family"
 date: 2008-06-18
-categories: archive
+categories: "2008"
 ---
 
 I can't sleep, and I've realised why. I miss my family... a lot.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Finding Yet Another Bag"
 date: 2008-09-10
-categories: archive
+categories: "2008"
 ---
 
 You may remember I was rather enthusiastic about the "Danger Rocks" bag I bought, and that has been accompanying me to and from London on the train of late. W was also rather taken with it, which explains why I no longer have a "Danger Rocks" bag.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Forging Ahead With Tc"
 date: 2003-01-31
-categories: archive
+categories: "2003"
 ---
 
 After a week of concentrated effort, the new ThoughtCafe site code is becoming more stable, and the bugs are falling out as I work on it.

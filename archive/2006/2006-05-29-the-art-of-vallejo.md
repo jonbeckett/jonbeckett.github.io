@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Art Of Vallejo"
 date: 2006-05-29
-categories: archive
+categories: "2006"
 ---
 
 Following on last night from the post of a piece of artwork by Sorayama, here is a painting by Boris Vallejo.

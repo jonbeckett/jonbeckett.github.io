@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rockstar Lifestyle"
 date: 2020-11-27
-categories: archive
+categories: "2020"
 ---
 
 It's 11pm on Friday night, and I'm the last person awake in the house. All I can hear is the blood pumping through my ears, and the rattle of the keyboard as I type these words.

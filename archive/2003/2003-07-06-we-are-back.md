@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "We Are Back"
 date: 2003-07-06
-categories: archive
+categories: "2003"
 ---
 
 Just a quick note to let everybody who reads this know that we are back from the states. We arrived at Heathrow this morning, got home lunchtime, slept a bit, and now we are both trying to stay awake until fairly late to get our body clocks back onto UK time.

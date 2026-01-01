@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Paying it forward"
 date: 2024-07-07
-categories: archive
+categories: "2024"
 ---
 
 I received a message from a friend on the other side of the world last night -- somebody I have known for years. I think our story started back when Tumblr first appeared -- or maybe it was before that? I forget.

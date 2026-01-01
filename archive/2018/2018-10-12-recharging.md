@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Recharging"
 date: 2018-10-12
-categories: archive
+categories: "2018"
 ---
 
 While working my way through chores around the house today, a huge wave of tiredness has rolled through me. I think this is just the after-effects of working away from home, and carrying a huge project single-handed. You don't really think about it at the time - it hits you afterwards.

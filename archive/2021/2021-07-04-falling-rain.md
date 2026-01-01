@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Rain"
 date: 2021-07-04
-categories: archive
+categories: "2021"
 ---
 
 I woke at 6am to the steady rhythm of rain on the bedroom window, and remembered leaving washing on the line last night. For a few moments I thought about dashing out into the rain in my underwear to get the washing in. It turns out warm bedclothes are really quite persuasive at 6am.

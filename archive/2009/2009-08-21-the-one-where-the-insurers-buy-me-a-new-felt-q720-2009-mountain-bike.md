@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where The Insurers Buy Me A New Felt Q720 2009 Mountain Bike"
 date: 2009-08-21
-categories: archive
+categories: "2009"
 ---
 
 My faith in the world in general has been repaid somewhat this afternoon, following news that our home insurers are paying out on the mountain bike I had stolen earlier in the week - and following a like-for-like comparison, they are buying me a slightly better bike than I previously had.

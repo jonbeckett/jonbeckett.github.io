@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Avoidance"
 date: 2018-02-22
-categories: archive
+categories: "2018"
 ---
 
 I'm sitting at my desk at work, struggling to find the enthusiasm to drag the thing I'm working on over the finish line. There isn't a finish line as such though - more "the next finish line". Next week there will be another one, and another the follow week. The pattern will continue throughout the year. The clock in the corner of the computer monitor says it's half past two in the afternoon. I'm pretty sure the clock is slowing down to spite me.

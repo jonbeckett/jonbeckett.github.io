@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thinking About Giving The Blog A Title"
 date: 2010-11-14
-categories: archive
+categories: "2010"
 ---
 
 This blog doesn't really have a title, does it. "jonbeckett @ wordpress" kind of states the obvious. Although the URL is deliberately in-line with my twitter, facebook, and tumblr accounts, I'm guessing that the title doesn't have to match, does it ?

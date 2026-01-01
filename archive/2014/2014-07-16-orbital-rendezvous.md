@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Orbital Rendezvous"
 date: 2014-07-16
-categories: archive
+categories: "2014"
 ---
 
 About a month ago I downloaded a "casual" game onto my computer to play at lunchtimes called "Kerbal Space Program". In the game you take charge of the space faring endeavours of a race of little cartoon people as they build rockets, crash them, and scream towards inevitable fiery deaths at your hands. That was fun, you think. I'll have another go tomorrow, you think. Just ten minutes, you think.

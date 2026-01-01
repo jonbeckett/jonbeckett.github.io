@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "My Own Worst Enemy"
 date: 2019-12-28
-categories: archive
+categories: "2019"
 ---
 
 Did I mention that the record player arrived yesterday? The speakers for it arrived today - I re-arranged the lounge slightly, and wired it up before my other half appeared downstairs. While I was busy helping the kids with something, she took a photo of the record player and posted it to Facebook - "look what I got for Christmas!".

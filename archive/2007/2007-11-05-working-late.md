@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working Late"
 date: 2007-11-05
-categories: archive
+categories: "2007"
 ---
 
 Do you ever have days when the world slides off the rails, and no matter what you think or do, nothing really helps and you can't see a way to make everybody happy?

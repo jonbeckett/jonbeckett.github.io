@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Revisionist History"
 date: 2017-06-07
-categories: archive
+categories: "2017"
 ---
 
 We seem to be surrounded by soap-box philosophers at the moment, comparing political ideologies against each other, and comparing current public figures to those from the past.

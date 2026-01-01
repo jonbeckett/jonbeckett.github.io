@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Common Cold"
 date: 2017-01-05
-categories: archive
+categories: "2017"
 ---
 
 For the last few days I have been soldiering on in the way countless other parents do, pretty much ignoring my body's attempts to combat a common cold virus that'sbeen doing the rounds for the last few weeks.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Accidentally Via Oxford"
 date: 2017-01-15
-categories: archive
+categories: "2017"
 ---
 
 While walking to the railway station this afternoon I took a look at tickets the machine at the station printed out, and noticed the overall journey ticket wasn't for a specific service - I could use it throughout the day. Once I arrived at my departing station (High Wycombe), I jumped on the first train going in the same direction I wanted to, secure in the thought that my ticket would be fine. I was wrong.

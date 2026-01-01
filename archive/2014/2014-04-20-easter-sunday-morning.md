@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Easter Sunday Morning"
 date: 2014-04-20
-categories: archive
+categories: "2014"
 ---
 
 We have been up since 7am, when our younger children awoke. The next ten minutes were spent running around the garden like idiots following a treasure trail we set last night. I'll post the video laterwe have been recording a lot of video recently, because we realised we had not done so for a couple of years. If we don't record these moments, we don't get the chance again.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Appreciation Of Friends Pizza Wine And The Stars"
 date: 2012-07-22
-categories: archive
+categories: "2012"
 ---
 
 After wandering into town yesterday afternoon while the rest of the clan were at a "Teddy Bear's Picnic" (best not to ask), I picked up some food for dinner from the supermarket. It's probably worth noting that during my brief interlude in the giant supermarket in town I got walked into by strangers several times - enough times in fact to make me consider exploding at the next person to do it. Of course I didn't, because I'm not as ignorant as the old, or morbidly obese person that pretended not to notice me as the shuffled along the supermarket isle, huffing and puffing. Not even a sorry.

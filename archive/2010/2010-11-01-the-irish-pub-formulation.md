@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Irish Pub Formulation"
 date: 2010-11-01
-categories: archive
+categories: "2010"
 ---
 
 My other half takes great delight in making parallels between Sheldon Cooper, one of the principal characters in the TV show "The Big Bang Theory", and me. While this might not sound too bad, if you're familiar with the show, you'll know that being like Sheldon is nothing to be proud of at all...quite the reverse actually...

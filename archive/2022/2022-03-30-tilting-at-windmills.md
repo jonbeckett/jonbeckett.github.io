@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tilting At Windmills"
 date: 2022-03-30
-categories: archive
+categories: "2022"
 ---
 
 I planned to write a blog post late yesterday evening, but somehow it didn't happen. That seems to be the story of my life at the moment.

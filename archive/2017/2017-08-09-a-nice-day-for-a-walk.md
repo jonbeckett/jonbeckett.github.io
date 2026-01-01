@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Nice Day For A Walk"
 date: 2017-08-09
-categories: archive
+categories: "2017"
 ---
 
 For the first few days of our self-imposed "staycation", we have been knocking around the house, or wandering into town for one thing or another. Today we decided to actually do something "holiday worthy". After getting up and getting the chores out of the way this morning we looked at the weather forecast, and figured a walk along the river might be a good idea.

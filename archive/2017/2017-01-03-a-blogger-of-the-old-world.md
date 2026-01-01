@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Blogger Of The Old World"
 date: 2017-01-03
-categories: archive
+categories: "2017"
 ---
 
 I watched a film on Netflix last night by Werner Herzog, about the history of the internet, and the way it has affected life for people in the developed world. It was interesting - starting in the office at CalTech where the first packet switch came online in 1969 - seeing the notepad that recorded the first "computer to computer" conversation over the prototype network.

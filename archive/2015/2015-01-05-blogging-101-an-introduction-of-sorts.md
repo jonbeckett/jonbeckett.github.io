@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blogging 101 An Introduction Of Sorts"
 date: 2015-01-05
-categories: archive
+categories: "2015"
 ---
 
 I'm taking part in the WordPress "Blogging 101" course this year. I saw it advertised on New Years Day, and thought it only really applied to those new to blogging, but then fell down the internet rabbit hole this evening, and read the following on the 101 page; If you've already been blogging for a while, we still encourage you to do a version of this assignment: use it to revisit what you said when you first started blogging, to take stock of what you've accomplished and what more you'd like to do, or to lay out some goals for your next six months. Revisiting the reasons I write a blogsounds like it might be interesting. I can't think that I've really changed over the last ten years or so, but then I've never really thought about it. I don't think about many things I do - I just kind of do them - on autopilot. A blogging automaton... that's a pretty scary thought.

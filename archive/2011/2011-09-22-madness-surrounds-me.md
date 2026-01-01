@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Madness Surrounds Me"
 date: 2011-09-22
-categories: archive
+categories: "2011"
 ---
 
 Working through lunch seems to have become something of a habit recently. It's not something I ever set out to do, but it keeps happening. This entire week has had that feeling; it's been the kind of week where you start full of optimism, plans and ideas, and within minutes you realise that no, it was ridiculous to think you might be doing what you thought you would be doing.

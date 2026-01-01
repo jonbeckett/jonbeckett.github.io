@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Giving In To The Virus"
 date: 2012-11-14
-categories: archive
+categories: "2012"
 ---
 
 I surrendered this morning. Raised the white flag. I worked from home yesterday with an awful fever, snotty nose, and sore throat - racing to get some work done to a deadline. I met the deadline, and then - as so often happens - the deadline moved to next week. I'm not sure what went on in my body following that, but I imagine it went something along the lines of "right then... we've kept going this far - now you don't have to be well, we'll give you a good kicking".

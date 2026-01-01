@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Apocalyptic Rage Of An 8 Year Old"
 date: 2013-09-25
-categories: archive
+categories: "2013"
 ---
 
 While attempting to shepherd our daughters towards their beds at a somewhat acceptable time yesterday evening, the balance of power began an imperceptible shift towards them, and away from me. My first warning came while wandering back downstairs to help our eldest with her homework.

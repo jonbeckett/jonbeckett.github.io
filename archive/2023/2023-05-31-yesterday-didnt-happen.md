@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Yesterday Didnt Happen"
 date: 2023-05-31
-categories: archive
+categories: "2023"
 ---
 
 Yesterday didn't happen. A few drinks with good friends the night before somehow turned into a take-away meal, many more drinks, and the sharing of stories until the early hours.

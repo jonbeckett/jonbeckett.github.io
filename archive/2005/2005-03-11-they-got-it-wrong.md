@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "They Got It Wrong"
 date: 2005-03-11
-categories: archive
+categories: "2005"
 ---
 
 Today I am very happy indeed. I checked the wording of my employment contract, and it turns out the company I work for DOES NOT have a clause claiming ownership of everything I do - therefore the intellectual property rights of the code I write is governed by literary copyright laws; meaning that anything I create in the course of my employment is owned by my employer - but anything I do outside of that is MINE.

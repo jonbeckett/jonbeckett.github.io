@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nothing To Report"
 date: 2016-11-29
-categories: archive
+categories: "2016"
 ---
 
 This is going to be a wonderfully random post about nothing of consequence, because I really do have nothing of significance to report.

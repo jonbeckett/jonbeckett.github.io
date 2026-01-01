@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Taking A Walk"
 date: 2011-03-07
-categories: archive
+categories: "2011"
 ---
 
 While buried in programming code at my desk, I tend to lose myself. Before I know it, I've forgotten to eat lunch, or not even got up from my desk for hours. There have been days when I have got up to go home and suddenly realised it's been raining... all day.

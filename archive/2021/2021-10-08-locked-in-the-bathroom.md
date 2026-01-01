@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Locked In The Bathroom"
 date: 2021-10-08
-categories: archive
+categories: "2021"
 ---
 
 After dinner this evening we walked into town to meet our middle daughter from work. She started waiting tables at a nearby pub a few weeks ago - her first "proper" job. On leaving the house, our youngest daughter raced down the stairs to join us - never one to miss out on a free drink.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Little Miss 7"
 date: 2011-01-14
-categories: archive
+categories: "2011"
 ---
 
 At just gone 6am the silhouette of a slightly bigger girl appeared in our bedroom doorway and woke us with the words "can we go downstairs?"

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting To Know Me"
 date: 2016-09-01
-categories: archive
+categories: "2016"
 ---
 
 It occurred to me this afternoon that while I often recount the story of a day, or express an opinion about something or other, I very rarely describe myself at all. Given that I have a few minutes to spare, I thought it might be an interesting exercise to throw some random observations down in a list.

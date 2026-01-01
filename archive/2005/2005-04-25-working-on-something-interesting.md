@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working On Something Interesting"
 date: 2005-04-25
-categories: archive
+categories: "2005"
 ---
 
 I am finally working on something interesting - the company website. I have a bit of a slack week this week, so have taken the chance to get going on the new version of the website for the company I am employed by. While I say "taken the chance", it actually meant telling various managers that I had the time to do it, then finding out if they approved of me spending the time doing it...

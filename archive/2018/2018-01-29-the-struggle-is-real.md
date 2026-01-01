@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Struggle Is Real"
 date: 2018-01-29
-categories: archive
+categories: "2018"
 ---
 
 You know the whole "slash and burn" drive I've been on just recently? I have expanded it this morning to include the backup of my blog, and all of my work notes and research. I'm not sure if I'm going to call this "simplification", "putting my eggs in one basket", or just plain "stupidity".

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Favourite Photographs"
 date: 2009-02-06
-categories: archive
+categories: "2009"
 ---
 
 With the impending arrival of a new camera at home, and the inevitable avalanche of new photos as I learn with it, I thought it might be timely to post a few of my favourite photographs. Enjoy...

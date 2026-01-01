@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Grown Up Night Out"
 date: 2014-09-28
-categories: archive
+categories: "2014"
 ---
 
 Last night we escaped from the house for a few hours to attend the local radio station's awards eveninga ball held at the big hotel on the edge of town. I wore a new suit and new shoes (kind of a mistakebreaking in shoes on the evening of a function), and my better half grinned like the cheshire cat when she realised she could still fit into the slinky black dress she wore on our honeymoon.

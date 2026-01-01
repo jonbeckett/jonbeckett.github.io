@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Approaches"
 date: 2010-06-27
-categories: archive
+categories: "2010"
 ---
 
 I've been up since about 8, have an ever so slight hangover, and am busy watching Sunday vanish in front of my own eyes - in much the same way as the traffic to this blog. The odd thing is the ambivalence I feel towards the falling numbers.

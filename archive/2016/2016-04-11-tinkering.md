@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tinkering"
 date: 2016-04-11
-categories: archive
+categories: "2016"
 ---
 
 This evening I have been mostly tinkering with a sort-of-secret projectexcept it's not so secret any more because I uploaded it to GitHub (meaningI've immediately given what I did away to the world and it's dog). I guess I still have open source evangelist tendencies even after all these years. Who knew ?There's kind of a back-story here. I own the domain with my name on it. I guess that's kind of like owning the bullet with your own name on itonly slightly less creepy, but just as narcissistic (is that even a word?). You can probably also guess from the tumbling mess of unstructured sentences that I'm tired, and I should have gone to bed hours ago, but an alarm went off in my head that says "YOU DIDN'T POST ON THE BLOG TODAY" so here I am.

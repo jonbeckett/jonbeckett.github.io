@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Year With The Girls"
 date: 2009-01-27
-categories: archive
+categories: "2009"
 ---
 
 It's hard to believe a year has passed since we visited the foster carer's house, and met the girls for the first time. A year of fun, stress, hard work, exasperation, elation, laughter, hilarity, tears, tantrums, paint, glitter, glue, and more pink than you can possibly imagine.

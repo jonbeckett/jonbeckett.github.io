@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stepping Back"
 date: 2012-07-08
-categories: archive
+categories: "2012"
 ---
 
 This weekend I finally decided to stop doing freelance web development work in my spare time. I've made my apologies to the client I have been working with recently, and am hoping to hand over the remaining work to a local developer (strangely enough, one I discovered through the girl who co-hosts the breakfast radio show in town).

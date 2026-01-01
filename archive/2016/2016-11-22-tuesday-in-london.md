@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tuesday In London"
 date: 2016-11-22
-categories: archive
+categories: "2016"
 ---
 
 I somehow managed to wake up at 5am this morning, stared at the ceiling for a while, and then fell back asleep. I woke again with the alarm clock at 6am, and scraped myself out of bed, had a shower, got dressed, and wandered around the house organising this and that until it was time to leave for the train station.

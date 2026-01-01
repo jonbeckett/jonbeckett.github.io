@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "News Aggregation Services"
 date: 2006-05-05
-categories: archive
+categories: "2006"
 ---
 
 I have been playing with Rojo this morning - and have come to to conclusion that it's one of the best RSS aggregators I have ever seen.

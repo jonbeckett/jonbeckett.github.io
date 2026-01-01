@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Katy Perry Roar"
 date: 2013-09-08
-categories: archive
+categories: "2013"
 ---
 
 While listening to the radio this evening, I caught the end of the charts, and heard that Katy Perry is number one this week with "Roar". A secret part of me cheered, and jumped up and downfor all sorts of reasons."Part of Me" was one of the first big movies I took our daughters to. I didn't know a lot about Katy Perry before watching the movie, and took a lot of it with a pinch of salt, knowing the magic that good editing, and scripted storytelling can perform right until the moment when Russell Brand ended their relationship over the phone.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Many Faces Of Jonathan Beckett"
 date: 2011-07-29
-categories: archive
+categories: "2011"
 ---
 
 I've been struggling to think of anything to write recently. I've also been struggling to keep up with what others are writing or rather, not reading what they have written at all.

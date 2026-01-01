@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stealing Days"
 date: 2020-12-07
-categories: archive
+categories: "2020"
 ---
 
 I still have a mountain of unused holiday days from my employer stacked in a heap in the corner. I've been chipping away at them now and again - taking the odd day off here and there. While in-between projects at work, I thought it might be prudent to use a few of them.

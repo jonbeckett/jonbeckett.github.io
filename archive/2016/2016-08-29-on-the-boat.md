@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Boat"
 date: 2016-08-29
-categories: archive
+categories: "2016"
 ---
 
 This afternoon we visited the marina where my Dad's yacht is moored to help him do some maintenance tasks - replacing a rope on the mast, and replacing the dock ropes.

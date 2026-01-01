@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mr Cranky Pants Goes On Tour"
 date: 2017-11-12
-categories: archive
+categories: "2017"
 ---
 
 My body performed it's usual magic trick of waking up a few moments before the pre-programmed alarm clock this morning. I silently switched it off, and crept down-stairs. All clean underwear was on the folded washing mountain downstairs (which may fall on somebody one day, and necessitate a caving team to dig them out of the underwear, sock, and bra landslide), so I crept downstairs half-naked, hoping the children would not magically wake up and catch me running past with my hands over my bits and pieces.

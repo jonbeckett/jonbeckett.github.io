@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Memories Of The Matrix"
 date: 2021-10-12
-categories: archive
+categories: "2021"
 ---
 
 You find me sitting in the dark of the junk room, listening to an 80s playlist while quietly tapping away on the computer keyboard. My happy place. Maybe happy is an exaggeration. My place feels somehow more accurate.

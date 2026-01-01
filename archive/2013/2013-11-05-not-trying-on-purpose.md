@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Trying On Purpose"
 date: 2013-11-05
-categories: archive
+categories: "2013"
 ---
 
 While cycling to work this morning through rain that was worse than I thought it was going to be, I started thinking about bloggingas I usually doand why I might have accidentally slipped back into WordPress yesterday.

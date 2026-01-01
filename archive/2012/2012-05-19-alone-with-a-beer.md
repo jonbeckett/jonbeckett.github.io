@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Alone With A Beer"
 date: 2012-05-19
-categories: archive
+categories: "2012"
 ---
 
 Our eldest is away at a Guide camp, the younger kids are asleep on their bedroom floor (don't asktheir version of "camping" I think), and W is at her friend's house. Tonight was supposed to be a "guys night" at oursone of the three of us dropped out, and the other could only stay for an hour or so.

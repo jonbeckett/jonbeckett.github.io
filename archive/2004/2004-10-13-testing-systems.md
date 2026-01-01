@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Testing Systems"
 date: 2004-10-13
-categories: archive
+categories: "2004"
 ---
 
 I'm kind of lost this evening... I keep starting things and then deciding to do something else instead. I wonder why?

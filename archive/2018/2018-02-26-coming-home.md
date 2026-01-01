@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coming Home"
 date: 2018-02-26
-categories: archive
+categories: "2018"
 ---
 
 I came home from work mid-morning. I've most probably picked a virus up of the kids. While I don't feel that dreadful, it was causing me to have trouble concentrating, which inevitably leads to all manner of creative and wonderful mistakes. Better not to make them in the first place than return tomorrow and try to pick apart what I might have done.

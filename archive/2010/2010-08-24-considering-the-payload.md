@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Considering The Payload"
 date: 2010-08-24
-categories: archive
+categories: "2010"
 ---
 
 I watched "Up in the Air" recently (the George Clooney movie), and loved it. For those who haven't seen it, it describes the life of a businessman who has lived a life in airports, aeroplanes, and hotels so much that he has almost become divorced from the conventional world.

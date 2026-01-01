@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Arthur Europa Report Omd And The 1982 Top 40"
 date: 2016-07-02
-categories: archive
+categories: "2016"
 ---
 
 It's 11:20pm on Saturday night, and I suppose a small part of me is writing this to placate a voice in my head that's busy whispering "if you don't write something in the next 40 minutes, you will not have posted anything today" - which you might presume is dictated by an audience eager to read the words I might contribute the internet each day - whereas the truth is more aligned with an obsessive compulsive mania to "not miss a day".

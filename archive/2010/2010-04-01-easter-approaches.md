@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Easter Approaches"
 date: 2010-04-01
-categories: archive
+categories: "2010"
 ---
 
 What is Easter to you ? To me it's a time to eat enough chocolate to render a large Rhinoceros very poorly indeed. To others it's a time to go and sit in a cold, damp building and be preached at endlessly about some political dissident being strung up by the Romans two thousand years ago.

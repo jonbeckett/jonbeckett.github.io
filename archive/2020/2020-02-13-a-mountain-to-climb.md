@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Mountain To Climb"
 date: 2020-02-13
-categories: archive
+categories: "2020"
 ---
 
 I'm working from home for the next few Fridays - with a break in the middle of the day to accompany my eldest daughter to a regular appointment to help with her anxiety. On top of that it's Valentines Day - so I'll be expected to acquire flowers from somewhere - and we also have a guy booked to service our heating.

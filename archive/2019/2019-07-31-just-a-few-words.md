@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Just A Few Words"
 date: 2019-07-31
-categories: archive
+categories: "2019"
 ---
 
 I can't help feeling the title of this post is lifted from somewhere - perhaps Immortal Beloved? I'm not entirely sure. Anyway - just a few words this evening. No exciting adventures with gnashing lunatic dogs to relate.

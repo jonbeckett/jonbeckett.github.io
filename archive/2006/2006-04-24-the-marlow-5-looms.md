@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Marlow 5 Looms"
 date: 2006-04-24
-categories: archive
+categories: "2006"
 ---
 
 The weekend after next I am going to run in our local running race - the "Marlow 5". I say "run" in something of a creative sense. I don't think you can describe the speed at which I will devour the course as "running"... more "jogging".

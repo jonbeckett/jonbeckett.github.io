@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Monday Daa Naa Naa Na Naa Naa"
 date: 2005-01-31
-categories: archive
+categories: "2005"
 ---
 
 It was the Mammas and the Pappas wasn't it? (the title of this entry).

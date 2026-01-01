@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Return Of Thoughtcafe"
 date: 2008-10-04
-categories: archive
+categories: "2008"
 ---
 
 It's coming back, and returning to it's roots.

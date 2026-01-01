@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Sisterhood Of The Travelling Pants"
 date: 2013-04-26
-categories: archive
+categories: "2013"
 ---
 
 Our eldest has been going through a tough time recently, so last night while her sisters were at Brownies I pushed everything else to one side, and gave her my entire evening.

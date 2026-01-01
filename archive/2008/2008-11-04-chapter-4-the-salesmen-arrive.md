@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Chapter 4 The Salesmen Arrive"
 date: 2008-11-04
-categories: archive
+categories: "2008"
 ---
 
 A little after ten oclock, while feeding the third stack of floppy disks into my tremendously exciting new computer, I heard Captain Hook's laugh drift up the office.

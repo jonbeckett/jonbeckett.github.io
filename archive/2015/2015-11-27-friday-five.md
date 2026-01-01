@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday Five"
 date: 2015-11-27
-categories: archive
+categories: "2015"
 ---
 
 It's been a while since I've done a post like this. I'm actually sitting at work, trying to kill the last half an hour while waiting for a server to sort it's life out. There isn't enough time to really start anything else, so this seems as good a thing to get on with as any.

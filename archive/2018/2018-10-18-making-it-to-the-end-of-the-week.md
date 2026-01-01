@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Making It To The End Of The Week"
 date: 2018-10-18
-categories: archive
+categories: "2018"
 ---
 
 So much could have been written about this week. So much. Of course none of it would have been useful, insightful, or interesting. It would have been cathartic though.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In The Grounds Of Hogwarts"
 date: 2016-09-18
-categories: archive
+categories: "2016"
 ---
 
 Our eldest daughter was 16 years old today. Because there are only 24 hours in a day, we went out for dinner last night for her birthday to the local pub. I wondered if the entire event was going to descend into farce when we arrived - discovering the table we had booked had people sitting at it. It transpired the pub was hosting a 21st birthday party. While waiting for the table to be cleared the son of an acquaintance started stealing chairs from our table. I turned to my other half and said "I really don't want to have this argument", but thankfully the bar manager strode in and recovered the chairs before leading us to the table.

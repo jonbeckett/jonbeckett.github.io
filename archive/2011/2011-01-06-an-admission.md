@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Admission"
 date: 2011-01-06
-categories: archive
+categories: "2011"
 ---
 
 I have no excuses with drawing, and should perhaps do it far more. I did art at college years ago. It's the one thing I've always been able to just do - much to the annoyance of anybody I've ever known that aspired to be able to draw or paint.

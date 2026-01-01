@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Week Without Words"
 date: 2021-06-12
-categories: archive
+categories: "2021"
 ---
 
 I'm struggling to remember the last time this blog saw my absence for as many consecutive days. I would love to say "I've been busy having all manner of adventures in order to regale you with them", but that wouldn't be true at all. For the last week I've been existing. Getting up. Working. Making meals. Washing clothes. Doing chores. It's difficult to make daily life sound exciting when so many have been enduring a similar existence for the last year and a half.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slowing To A Crawl"
 date: 2005-07-20
-categories: archive
+categories: "2005"
 ---
 
 The World Crawls

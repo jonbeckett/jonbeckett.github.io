@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Camping With Friends"
 date: 2013-09-01
-categories: archive
+categories: "2013"
 ---
 
 The remains of the school holidays were burned up this year with a group camping expedition organised by my better half, and several close friends. If the holidays had been a slow burning firework, this was the bright burning at the end, and the dying of the light.

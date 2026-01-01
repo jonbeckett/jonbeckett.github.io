@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Day Away"
 date: 2003-07-14
-categories: archive
+categories: "2003"
 ---
 
 It's Tuesday morning in sunny Manchester and I'm sitting in the BUPA building at Anchorage one, having just dealt with my first Kofax Ascent question. It's hardly what you would call the most taxing assignment in the world.

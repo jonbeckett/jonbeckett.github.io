@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Beans And Cheese On Toast"
 date: 2018-02-02
-categories: archive
+categories: "2018"
 ---
 
 After the relentless questioning from Miss 12 grew almost continuous, I caved and made lunch for everybody - well, everybody except my other half who has gone out for the day.

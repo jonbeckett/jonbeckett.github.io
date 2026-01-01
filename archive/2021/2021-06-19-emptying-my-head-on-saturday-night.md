@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Emptying My Head On Saturday Night"
 date: 2021-06-19
-categories: archive
+categories: "2021"
 ---
 
 I've been staring at Evernote for the last several minutes, wondering how to begin this post.

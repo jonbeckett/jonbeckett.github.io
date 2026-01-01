@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Unhappy Man And His Bicycle"
 date: 2016-08-15
-categories: archive
+categories: "2016"
 ---
 
 Before launching into a riveting account of my journey north this morning (I'm living it up in a hotel all week - go me), I must share a moment from earlier this evening.

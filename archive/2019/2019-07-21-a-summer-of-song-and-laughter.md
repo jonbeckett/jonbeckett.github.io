@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Summer Of Song And Laughter"
 date: 2019-07-21
-categories: archive
+categories: "2019"
 ---
 
 There was a moment this afternoon, while our house was filled with fourteen year old girls, that I couldn't help smiling - even though they were thundering up and down the stairs like a herd of elephants, shouting conversations to each other, and had taken over the living room for the better part of the afternoon.

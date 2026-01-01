@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts On A Saturday Night"
 date: 2006-09-30
-categories: archive
+categories: "2006"
 ---
 
 This evening W's brother came over and we went out for dinner together in town (as I write this, we are home, it's nearly midnight, and we've hit the columbian coffee... well, apart from W who is drinking tea).

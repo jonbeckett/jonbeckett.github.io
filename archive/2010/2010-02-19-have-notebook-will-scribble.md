@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Have Notebook Will Scribble"
 date: 2010-02-19
-categories: archive
+categories: "2010"
 ---
 
 My once mighty notebook - a "Moleskine" no less - seems to have been reduced to a container of drivel. A real-world twitter account. Notes in passing. There was a time when it - or its ancestors - carried deep thoughts, observations, drawings, and various other brain dumpage.

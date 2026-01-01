@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Darth Tater Invades My Desk"
 date: 2005-05-31
-categories: archive
+categories: "2005"
 ---
 
 I got in to work this morning and discovered a Firebox package on my desk - to me, and I had no recollection of buying anything. Following a phonecall home I was informed by W that she had bought me a present one night because I got home and seemed a bit glum... here's what I found in the parcel;

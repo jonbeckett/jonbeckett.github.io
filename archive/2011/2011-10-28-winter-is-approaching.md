@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Winter Is Approaching"
 date: 2011-10-28
-categories: archive
+categories: "2011"
 ---
 
 En-route to work this morning on the mountain bike, I came stopped, pulled the phone from my pocket, and took the following photo.It looked a lot more impressive in reality, and I was kicking myself that I didn't have the point and shoot camera with me.

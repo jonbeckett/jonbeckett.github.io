@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Bicycle Of Invisibility"
 date: 2009-02-04
-categories: archive
+categories: "2009"
 ---
 
 Before explaining about the two traffic incidents that occurred today - neither of which are out of the normal at all - it's worth explaining that when I ride my mountain bike to work, I wear a high visibility yellow cycling waterproof, and am huge - I stand about 6ft 4inches tall.

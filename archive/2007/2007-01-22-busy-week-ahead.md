@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Week Ahead"
 date: 2007-01-22
-categories: archive
+categories: "2007"
 ---
 
 It's Monday morning, and I am preparing for a busy week ahead. At least I find myself in the office this morning - unlike the last few months where I seem to have been running between pillar and post without a chance to take stock.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Distracted"
 date: 2022-02-24
-categories: archive
+categories: "2022"
 ---
 
 It's been difficult to concentrate today given the unfolding story in the Ukraine. Don't worry - I'm not going to write about it. I'm not qualified or knowledgeable enough to really have an opinion. It's just so sad, frustrating, and worrying - for all sorts of reasons.

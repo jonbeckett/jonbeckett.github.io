@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Internet Returns"
 date: 2016-03-10
-categories: archive
+categories: "2016"
 ---
 
 Before we get started, it's probably worth mentioning the origin of the picture accompanying this post.It's a still from the Studio Ghibli movie "The Cat Returns". If you've never heard of Studio Ghibli, you can't be my friend (or at least you need to go watch several of their movies, and then I might consider talking to you again. You'll learnwho Totoro is, why the Cat Bus is awesome, and where Laputa was).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cycling On Canvas"
 date: 2019-10-07
-categories: archive
+categories: "2019"
 ---
 
 I had a decision to make this morning - either walk to work again, or repair the punctures on my bicycle. Given that the walk takes perhaps three quarters of an hour, and that it was spitting with rain, I fished my bicycle tools from their hiding place in the junk room, and dragged my rather sad and dejected looking bicycle from the shed.

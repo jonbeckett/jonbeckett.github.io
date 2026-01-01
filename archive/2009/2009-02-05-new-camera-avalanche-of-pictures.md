@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "New Camera Avalanche Of Pictures"
 date: 2009-02-05
-categories: archive
+categories: "2009"
 ---
 
 I am retiring our huge, battery hungry Fuji S9500 with it's little successor - a Fuji Finepix S1000fd. It has all manner of cleverness wrapped up in it apparently, but most importantly it is smaller, and DAMN CHEAP.

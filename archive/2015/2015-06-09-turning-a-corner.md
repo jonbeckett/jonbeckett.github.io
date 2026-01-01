@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Turning A Corner"
 date: 2015-06-09
-categories: archive
+categories: "2015"
 ---
 
 Those of you that have followed our story over the last decade will know all about our children, the start they had in life, and the struggles they continue to face on a daily basis. They try so hard in so many ways, and find all sorts of things more difficult than most. It is entirely to their credit that most people have no idea.

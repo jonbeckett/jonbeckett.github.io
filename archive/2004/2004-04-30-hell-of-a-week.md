@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hell Of A Week"
 date: 2004-04-30
-categories: archive
+categories: "2004"
 ---
 
 Message Me 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apparently Im A Born Teacher"
 date: 2011-02-03
-categories: archive
+categories: "2011"
 ---
 
 Astronomy night with the brownies went well. So well in fact that our 7 year old said this on the way home;

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Strange Dreams and Jam Doughnuts"
 date: 2023-07-24
-categories: archive
+categories: "2023"
 ---
 
 I had the strangest dream last night. I only remember the last few moments. I was at some kind of conference with work, and had made friends with a couple of people during the day. We were all busting to go to the bathroom, and one of the attendees said he knew where the bathrooms were.

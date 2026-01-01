@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stopping At Two Glasses"
 date: 2015-10-26
-categories: archive
+categories: "2015"
 ---
 
 After getting in from work and eating dinner I asked the kids if they might like to wash upseeing as they had been home all day (it's half term), and I had been at work. They reluctantly agreed, and I started picking up plates from the dinner table to take into the kitchenand walked into a scene from a biblical epic. I don't know how my other half does it. When I walked in from work and began clearing up behind her, the kitchen was half-way decent. Between then and sitting down for dinner it looked like a tropical storm had passed through. I had been absent for a few minutessorting out stuff on the computers for the kidsthat must have been when the storm passed through the kitchen. I felt sorry for the kids, so did the washing and clearing up myself.

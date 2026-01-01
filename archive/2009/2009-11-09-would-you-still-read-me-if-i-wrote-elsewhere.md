@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Would You Still Read Me If I Wrote Elsewhere "
 date: 2009-11-09
-categories: archive
+categories: "2009"
 ---
 
 Those who have read my various writing online will know I have had blogs at pretty much all of the more noteable hosts - WordPress, Blogger, Tumblr, Posterous, etc - and of course I have hosted my own blog - most recently here at Cheese and Beans.

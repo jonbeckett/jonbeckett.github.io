@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The London Odyssey Comes To An End"
 date: 2008-12-08
-categories: archive
+categories: "2008"
 ---
 
 Two years ago I visited a client of my employer in central London for five days to hand over the codebase of a huge project myself and two colleagues had worked on night and day for several months.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Considering Doing This Whole Blogging Lark Properly"
 date: 2010-01-25
-categories: archive
+categories: "2010"
 ---
 
 The next sentence is going to cause a number of people to slap their own foreheads with their hands - perhaps the entire readership - you know, all six of you. I'm just warning you in advance so you don't try and blame me for personal injury.

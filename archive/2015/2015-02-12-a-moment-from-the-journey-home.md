@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Moment From The Journey Home"
 date: 2015-02-12
-categories: archive
+categories: "2015"
 ---
 
 While travelling home on the train last night, I found myself sitting adjacent to two gentlemen of a certain age - perhaps 60 - dressed in suits, and sensible coats. They both carried briefcases, both obviously knew each other, and relaxed into their various de-stressing activities after getting comfortable - one played a card game on his phone, while the other did the crossword in the free newspaper.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Archbishop Of Caterbury Attacks Atheism"
 date: 2007-10-15
-categories: archive
+categories: "2007"
 ---
 
 While reading the newspaper this weekend, I happened upon the story involving the Archbishop of Caterbury - Dr. Rowan Williams - attacking Richard Dawkins, his book "The God Delusion", and his ideas about "Memes". I settled back in my chair, and started rubbing my hands. This was going to be good.

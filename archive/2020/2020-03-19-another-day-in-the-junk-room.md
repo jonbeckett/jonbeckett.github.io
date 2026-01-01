@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Day In The Junk Room"
 date: 2020-03-19
-categories: archive
+categories: "2020"
 ---
 
 At lunchtime today I walked up to the local pharmacy with my eldest daughter to pick up a prescription - and joined the remarkably patient queue of people standing in the rain outside. So this was social distancing and safeguarding in action. It's shame some people completely disregarded it.

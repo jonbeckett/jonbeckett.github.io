@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday Afternoon"
 date: 2014-09-19
-categories: archive
+categories: "2014"
 ---
 
 I didn't really take a lunch break earlier, so I'm taking a late break and emptying my head into the keyboard. I'm trying out a text editor thing called "Draft" on the interwebs, with the idea that it saves stuff as you writeso having something like Tumblr or WordPress fall over won't happen. I guess I could use Microsoft Word Online or something too. I never thought of that.(twenty seconds later, Microsoft Word Online is in another browser tab, and copy/paste has done it's magic).

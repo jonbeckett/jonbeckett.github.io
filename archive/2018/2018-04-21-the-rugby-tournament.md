@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Rugby Tournament"
 date: 2018-04-21
-categories: archive
+categories: "2018"
 ---
 
 After scraping ourselves out of bed this morning, we all set about filling the car with boot-bags, mouth-guards, and collosal quantities of food before setting off towards a rugby tournament in London.

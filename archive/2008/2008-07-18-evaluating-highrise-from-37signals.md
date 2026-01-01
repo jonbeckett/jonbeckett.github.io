@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Evaluating Highrise From 37Signals"
 date: 2008-07-18
-categories: archive
+categories: "2008"
 ---
 
 In the middle of ordering funky business cards from Moo, and visiting my first client this evening, I have been looking around at "Client Relationship Management" (CRM) solutions. I know I have a hopeless memory, so the idea would be to pump messages, tasks, and contacts into some system that could help organise them for me, and shout reminders out from time to time.

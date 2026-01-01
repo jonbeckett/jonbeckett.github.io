@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Apart"
 date: 2020-01-23
-categories: archive
+categories: "2020"
 ---
 
 I saw a quote on Facebook a few days ago, commenting that once you get past a certain age, finding out what aches or pains you might have each day is something of a lottery. I laughed at the time, and scrolled past.

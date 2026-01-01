@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heard While Christmas Shopping"
 date: 2017-12-15
-categories: archive
+categories: "2017"
 ---
 
 In-between chores, and delivering children to birthday parties, we managed to get some Christmas shopping done today. While browsing the books in our local branch of Waterstones, I heard the following conversation:

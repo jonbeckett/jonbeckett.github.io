@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Moo Minicards"
 date: 2011-07-08
-categories: archive
+categories: "2011"
 ---
 
 The new Minicards arrived this morning in the post - for those who have never heard of them before, they are half-size business cards made by a great company calleed "Moo" that do all kinds of short-run printed materials.

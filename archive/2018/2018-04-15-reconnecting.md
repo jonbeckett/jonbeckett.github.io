@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Reconnecting"
 date: 2018-04-15
-categories: archive
+categories: "2018"
 ---
 
 After surviving a fit of bravery at the weekend, and connecting Twitter, Instagram, WordPress, and Tumblr together, it occurred to me this evening that I should perhaps put a little more effort into finding the acquaintances I used to follow on the various social networks. Yes, I know - I should never have unfollowed everybody in the first place - I needed to do it though. I needed to step away for a while. I needed to calm the chaos for a while.

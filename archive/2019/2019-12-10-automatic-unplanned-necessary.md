@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Automatic Unplanned Necessary"
 date: 2019-12-10
-categories: archive
+categories: "2019"
 ---
 
 While scrolling through Twitter earlier this evening, I stumbled upon a random question - "Write three words that describe your style of writing". Almost without hesitation, I wrote "Automatic, Idiotic, Necessary". Then I started writing this post about it, and realised I should have written "unplanned" instead of "idiotic" - partly because I know people will jump on me for claiming my writing is "idiotic", but also because I tend to think of it being idiotic in the same light as unplanned - or rather, I don't plan, and you might argue that not planning is idiotic. Maybe. I'm probably not making much sense.

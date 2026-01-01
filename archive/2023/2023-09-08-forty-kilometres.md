@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Forty Kilometres"
 date: 2023-09-08
-categories: archive
+categories: "2023"
 ---
 
 I made it to forty kilometres this morning. It hasn't been without cost - my body is slowly falling to pieces around me. With no recovery days in-between, each run is becoming more difficult. The weather hasn't helped either.

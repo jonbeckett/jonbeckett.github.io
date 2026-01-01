@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Filming For Gmtv"
 date: 2004-03-12
-categories: archive
+categories: "2004"
 ---
 
 I am absolutely shattered this morning.

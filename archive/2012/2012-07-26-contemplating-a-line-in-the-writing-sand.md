@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Contemplating A Line In The Writing Sand"
 date: 2012-07-26
-categories: archive
+categories: "2012"
 ---
 
 Before returning to WordPress recently, I lived almost exclusively among the intrepid community of lifestreaming idiots at Tumblr. I use the word "idiot" in a friendly manner; we were all as bad as one another.

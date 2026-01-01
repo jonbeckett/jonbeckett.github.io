@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Didnt Take Photos Of The Moon"
 date: 2015-09-28
-categories: archive
+categories: "2015"
 ---
 
 After the mayhem abated last night, I got into bed and fell asleep - waking this morning at 7am when the radio alarm clock erupted into the local radio breakfast show. The first thing they talked about was the photos of the moon everybody was posting on Facebook.

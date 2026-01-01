@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ghost In The Shell"
 date: 2006-12-03
-categories: archive
+categories: "2006"
 ---
 
 While out Christmas shopping yesterday, I picked up a couple of things for myself - one of which was the first part of "Ghost in the Shell" on DVD. I'm trying to figure out how best to describe it. If you have not seen an anime movie before, it's basically a cartoon with an adult storyline (that's not to say it's full of smut - just that it has quite an involved story, and the occasional adult theme).

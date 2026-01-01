@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Friendship River"
 date: 2016-04-07
-categories: archive
+categories: "2016"
 ---
 
 Imagine your life is a river. It starts quietly, calmly, and slowly, but as time passes it travels, grows, experiences turbulence, droughts, floods, good times, bad times, happy times and sad times. Sometimes you're paddling to get somewhere, sometimes you're drifting. Sometimes the current sweeps you towards unanticipated happiness, sometimes to unimaginable despair.

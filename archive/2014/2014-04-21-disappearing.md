@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Disappearing"
 date: 2014-04-21
-categories: archive
+categories: "2014"
 ---
 
 For the past several days a little thought has niggled at the back of my brain, labelled "should write a blog post at some point". I used to write nearly every dayand the words would come as easily as turning a tap, but in recent months it has become a conscious effort.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tinkering With Wordpress Templates"
 date: 2009-01-08
-categories: archive
+categories: "2009"
 ---
 
 As the first step into a much longer journey, I have been teaching myself the nuts and bolts of WordPress theme creation tonight - and in doing so have re-imagined the Beckett Web Design website. I've fiddled with pre-built themes in the past, but never created one from the ground up.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas Shopping"
 date: 2012-12-23
-categories: archive
+categories: "2012"
 ---
 
 After W finally arrived home from getting her hair cut this morning (it somehow took 4 hours), I raced out of the house with our eldest to go Christmas shopping. Caught between running for the bus, or running for the train, we chose the former in the knowledge that if we didn't make it, we would also miss the train. We made it with seconds to spare.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Forgettable Day"
 date: 2018-02-05
-categories: archive
+categories: "2018"
 ---
 
 It all started at breakfast time this morning. After sliding out of bed, waking the children up, having a shower, brushing my teeth, getting dressed, feeding the cats - who were trying to trip me up at every turn - and feeding the fish, I found myself standing in the middle of the kitchen trying to decide what to do next.

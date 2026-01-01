@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Oasis In The City"
 date: 2007-06-06
-categories: archive
+categories: "2007"
 ---
 
 While trundling towards Liverpool Street on the London Underground this morning the driver crackled over the public address system "This train will be terminating at Moorgate due to a passenger being taken ill on the train".

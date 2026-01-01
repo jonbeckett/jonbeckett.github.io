@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nablopomo And Lisa"
 date: 2012-11-15
-categories: archive
+categories: "2012"
 ---
 
 One of the great benefits of having taken part in this curious online world for so long, is you know the back-story behind things. While reading a press-release on WordPress about NaBloPoMo (National Blog Posting Month) just now, I found myself shaking my head - not believing what I was reading.

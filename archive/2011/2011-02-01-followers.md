@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Followers"
 date: 2011-02-01
-categories: archive
+categories: "2011"
 ---
 
 Somebody asked me the other day how to get the list of followers out of Tumblr - and I shook my head. It's one of the things that's missing from the API, meaning it's more difficult than it should be to achieve.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Post At A Time"
 date: 2013-08-28
-categories: archive
+categories: "2013"
 ---
 
 Once upon a time I could conjure words onto the screen as readily as water comes from a tap. They would flow, splashing across the page, dripping from one idea to the next, finding their way without direction or purpose.

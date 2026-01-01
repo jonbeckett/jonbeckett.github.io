@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Little Children And The Human Condition"
 date: 2010-02-08
-categories: archive
+categories: "2010"
 ---
 
 I'm off work with a cold. I can't quite figure out how it crept up on me - yesterday evening I was fine; this morning I felt like my brain had been put in backwards.

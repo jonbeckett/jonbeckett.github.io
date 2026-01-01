@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Life Of Pi"
 date: 2015-01-18
-categories: archive
+categories: "2015"
 ---
 
 While our younger daughters had friends for sleepovers last night - yes, that's right, two sleepovers, because we're stupid - we let our eldest daughter stay up late to watch a movie with us. After flicking through seemingly endless options on the Amazon Fire TV, I ended up making a random choice - "The Life of Pi".

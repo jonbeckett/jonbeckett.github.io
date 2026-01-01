@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Partly Vaccinated"
 date: 2021-04-18
-categories: archive
+categories: "2021"
 ---
 
 I received my first COVID vaccination shot today. My age group became available to apply last week - I left it a few hours before looking at the website, then booked the appointments. The nearest dispensing station was about ten minutes walk from home, which made the choice largely academic. I received the Oxford AstraZeneca vaccine.

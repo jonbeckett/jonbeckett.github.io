@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Calm Before The Storm"
 date: 2019-03-23
-categories: archive
+categories: "2019"
 ---
 
 Nearly everything is now in-place. The hall is ready - tables covered - table decorations done - balloons filled - stage set - sound system in-place - lights ready to go.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Am Invisible"
 date: 2010-05-08
-categories: archive
+categories: "2010"
 ---
 
 We went to the garden center earlier to buy food for the chicken - my attendance was required because my other half is not strong enough to lift the sack of feed.

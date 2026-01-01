@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Going Postal"
 date: 2018-12-03
-categories: archive
+categories: "2018"
 ---
 
 Those that have followed my recent adventures on the internet will have seen both my retro-mac inspired run at NaNoWriMo, and the experiment with "Tiny Letter" - both ideas running against the tide somewhat in an eccentric attempt to get back to where we all started.

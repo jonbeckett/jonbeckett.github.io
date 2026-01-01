@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Off Sick Again"
 date: 2011-03-22
-categories: archive
+categories: "2011"
 ---
 
 Lunchtime

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Into The Netherworld"
 date: 2019-09-26
-categories: archive
+categories: "2019"
 ---
 
 Just as I thought I might be hitting my stride with this whole "blogging nearly every day" thing, work took a colossal dump on my life.

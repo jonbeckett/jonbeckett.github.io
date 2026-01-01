@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One day at a time"
 date: 2023-02-21
-categories: archive
+categories: "2023"
 ---
 
 At the moment life seems to primarily cosist of a concerted effort to reach tomorrow. I'm sure that's a colossal generalisation, and will no doubt attract concern from various quarters - but I'm fairly certain that more than are willing to admit are persisting through similar journeys.

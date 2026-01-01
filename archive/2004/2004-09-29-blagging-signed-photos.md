@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blagging Signed Photos"
 date: 2004-09-29
-categories: archive
+categories: "2004"
 ---
 
 While looking around on the net for anywhere I can get records of Sissel from (she's this amazing singer - you will have heard her voice without realising it - Titanic, Lord of the Rings etc...), I came across her official website on the internet and spent all of 30 seconds emailing with our appreciation of the concert we went to see at the Royal Albert Hall a week or so ago (actually, I haven't mentioned that yet either, have I - we went to see the Lord of the Rings Symphony at the Royal Albert Hall, conducted by Howard Shore and starring Sissel for the lead vocals).

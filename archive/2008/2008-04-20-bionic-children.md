@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bionic Children"
 date: 2008-04-20
-categories: archive
+categories: "2008"
 ---
 
 It's Sunday morning and I find myself surrounded by seemingly bionic children. They powered up at about 7:30am, and have not let up all morning so far. We are several hours into the marathon that each day has become, and I am filtering out the mayhem to write a blog post.

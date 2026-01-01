@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Morning"
 date: 2015-04-11
-categories: archive
+categories: "2015"
 ---
 
 I'm sitting in the middle of the lounge, which was tidy yesterday until my other half started "making stuff" for our youngest daughter's birthday party. Tidy in this house is always relative - it often resembles "The Burrow" from Harry Potter - stacked with piles of miscellaneous stuff that either the children, or my other half have dumped from room to room.

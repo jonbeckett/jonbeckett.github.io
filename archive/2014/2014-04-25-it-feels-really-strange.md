@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "It Feels Really Strange"
 date: 2014-04-25
-categories: archive
+categories: "2014"
 ---
 
 I have been back in the office this weekwellsince Wednesday, when I returned after having time off at Easter. Even being back here a few days feels really, really strange. I have spent the entire year so far either commuting into London (2 hours each way on trains), or living in hotels hundreds of miles from home.

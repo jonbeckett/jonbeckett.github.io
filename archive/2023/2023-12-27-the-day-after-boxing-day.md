@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The day after Boxing Day"
 date: 2023-12-27
-categories: archive
+categories: "2023"
 ---
 
 We're heading out of the door in an hour to the yearly "Christmas surprise", organised by my other half - only it's not so much of a surprise any more after she deleted the tickets from her email by accident and had a meltdown about it last night. In the middle of the meltdown my middle daughter borrowed her laptop, and saw the emails going back and forth - so the secret was out.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "No Seriously I Have No Friends"
 date: 2006-12-12
-categories: archive
+categories: "2006"
 ---
 
 I have one friend on Twitter. This is embarrassing. Please help me solve this problem...

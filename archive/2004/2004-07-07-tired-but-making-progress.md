@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tired But Making Progress"
 date: 2004-07-07
-categories: archive
+categories: "2004"
 ---
 
 I was at work until 18:45 this evening, cycled home through howling wind and driving rain, and have been sat here ever since working on CMS once more. I suppose I stopped for tea (home made steak and kidney pie made by my wonderful wife), but otherwise it's been one long coding stretch from the moment I got in.

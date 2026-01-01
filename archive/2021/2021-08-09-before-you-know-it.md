@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Before You Know It"
 date: 2021-08-09
-categories: archive
+categories: "2021"
 ---
 
 I meant to write something on Friday. And then I didn't. I meant to write something over the weekend. And then I didn't. A pattern is forming. I suppose in the past I would have written something about falling off a bike, or a horse, or some other vaguely workable idiom.

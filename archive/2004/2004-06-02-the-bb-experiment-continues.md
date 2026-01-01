@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Bb Experiment Continues"
 date: 2004-06-02
-categories: archive
+categories: "2004"
 ---
 
 With little or no advertising on the internet (basically, a couple of newsgroup postings), people seem to be finding their way into the forum I built for Big Brother... except of course nobody is bothering to take part.

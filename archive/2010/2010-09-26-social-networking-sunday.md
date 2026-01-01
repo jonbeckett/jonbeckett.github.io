@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Social Networking Sunday"
 date: 2010-09-26
-categories: archive
+categories: "2010"
 ---
 
 It's time to reach out once more across the blogosphere / tumblrsphere / twittersphere, and take note of others.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monkeybars And Pants"
 date: 2011-10-09
-categories: archive
+categories: "2011"
 ---
 
 We saw the girls for perhaps an hour all dayspread across breakfast, lunch, and dinner time. We seem to have won the battle in terms of encouraging "outside" over video games or television. I'm guessing at some point it will come back to bite us in the backside when we want them to do their homework, but for the moment I suspect they are learning far more out there than they would watching TV.

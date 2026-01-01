@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Morning Feeling Groovy"
 date: 2005-05-14
-categories: archive
+categories: "2005"
 ---
 
 Hmmm... "Saturday Morning - Feeling Groovy". Reminds me of the Simon and Garfunkel tune. I guess it sums up my mood this morning though.

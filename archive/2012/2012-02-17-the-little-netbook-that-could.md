@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Little Netbook That Could"
 date: 2012-02-17
-categories: archive
+categories: "2012"
 ---
 
 I never imagined a little, underpowered computer would be so useful. It was bought with some "spare" cash about 2 years ago, as a travelling companion for the work I was doing at the time.

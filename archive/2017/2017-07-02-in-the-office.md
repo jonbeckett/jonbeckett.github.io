@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In The Office"
 date: 2017-07-02
-categories: archive
+categories: "2017"
 ---
 
 I'm back in the office today. Currently taking a break, writing things into the Filofax, and comparing calendars between home, and work - figuring out what I'm going to miss over the next few weeks if everything happens as planned in a meeting this morning. Who am I kidding? Things never work out as planned, but I'll make a mess of the calendar section of my Filofax with it all anyway. Maybe I should start writing in pencil?

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wednesday In Frankfurt"
 date: 2017-09-12
-categories: archive
+categories: "2017"
 ---
 
 This morning began with the wail of a fire alarm in the hotel at 6am. Given that I only fell asleep at 2am following a snap decision to listen to "Chess in Concert" at midnight, I imagine today will be sponsored by caffeine, coffee shops, and tall cups of cappuccino. I'm sitting in Starbucks opposite the main railway station in central Frankfurt typing this.

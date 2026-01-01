@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apple Prepares The Uk Iphone"
 date: 2007-11-04
-categories: archive
+categories: "2007"
 ---
 
 News is starting to appear this weekend that the Apple iPhone is arriving at stores throughout the UK in readiness for sales to begin on November 9th.

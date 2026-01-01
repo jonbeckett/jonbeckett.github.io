@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pizza And Beer Rule"
 date: 2003-02-25
-categories: archive
+categories: "2003"
 ---
 
 Today is a good day.

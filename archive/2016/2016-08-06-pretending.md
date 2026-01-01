@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pretending"
 date: 2016-08-06
-categories: archive
+categories: "2016"
 ---
 
 Sometimes it's nicehaving a secret band of friends half a world away. You are an escape. A distraction from the drudgery of every day life. Sometimes it can be lonely though - realising how few friends you have in the "real" world.

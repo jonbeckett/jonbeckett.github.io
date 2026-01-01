@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "After Midnight"
 date: 2023-08-17
-categories: archive
+categories: "2023"
 ---
 
 The clock ticked past midnight a few minutes ago. Everybody else has gone to bed. I'm sitting here in the dark, turning thoughts over in my head.

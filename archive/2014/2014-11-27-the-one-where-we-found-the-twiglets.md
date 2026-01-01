@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where We Found The Twiglets"
 date: 2014-11-27
-categories: archive
+categories: "2014"
 ---
 
 In the UK there is this mysterious snack called "Twiglets". The only way I can describe it is "Marmite sticks"but then of course hardly anybody outside of the UK knows what "Marmite" is (if you're really curious, it's this black gloopy stuff that comes in little jars, and that you might spread on toastit's officially titled "yeast extract", and people either love it, or hate it with every fibre of their being).

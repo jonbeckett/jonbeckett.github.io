@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Off The Blogging Bike"
 date: 2021-01-27
-categories: archive
+categories: "2021"
 ---
 
 It's not so much a case of "falling off the blogging bike" any more - more a case of "has anybody seen the damn bike?". Or maybe "can I even remember how to ride it?". It's not like I'm pushing away for any particular reason, or even that I'm "pushing away". Life is just happening.

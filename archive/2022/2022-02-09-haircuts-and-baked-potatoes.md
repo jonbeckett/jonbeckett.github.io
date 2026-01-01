@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Haircuts And Baked Potatoes"
 date: 2022-02-09
-categories: archive
+categories: "2022"
 ---
 
 I cut my Dad's hair this morning. He sat in a chair in the middle of the lounge while I figured out how to use his hair clippers. He received the same all-purpose haircut I give myself - although not quite as short as I go. My Mum stood over me throughout, expecting me to decapitate him or something. At the end she remarked how much more quickly I did it than when she does - I'm not quite sure how anybody could take more than a few minutes to clipper somebody's hair off.

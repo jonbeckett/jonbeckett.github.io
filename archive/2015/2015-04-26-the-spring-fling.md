@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Spring Fling"
 date: 2015-04-26
-categories: archive
+categories: "2015"
 ---
 
 Last night we combed our hair, put on smart clothes, and wandered down to the local primary school for the annual "Spring Fling" fundraising evening. The evening has been run for the past several years by some good friends of ours - and to be honest, I have no idea how they do it.

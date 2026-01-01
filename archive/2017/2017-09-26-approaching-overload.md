@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Approaching Overload"
 date: 2017-09-26
-categories: archive
+categories: "2017"
 ---
 
 Do you ever feel the online world is becoming overloaded? Thoughts have been rattling around my admittedly tiny little brain for the last few months - that too many social platforms are now thought of as essential in some way or another, and that their content has become either insidious, irrelevant, or toxic.

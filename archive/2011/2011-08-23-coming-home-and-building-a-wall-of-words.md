@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coming Home And Building A Wall Of Words"
 date: 2011-08-23
-categories: archive
+categories: "2011"
 ---
 
 That's what it feels likebeing back on my own domain name, on my own hosted installation of WordPress.

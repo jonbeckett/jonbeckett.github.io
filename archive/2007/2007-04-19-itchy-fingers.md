@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Itchy Fingers"
 date: 2007-04-19
-categories: archive
+categories: "2007"
 ---
 
 It's been several months since I built anything on the web, and I'm starting to get itchy fingers. I want to build something.

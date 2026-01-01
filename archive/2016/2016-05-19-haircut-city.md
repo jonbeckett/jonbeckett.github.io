@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Haircut City"
 date: 2016-05-19
-categories: archive
+categories: "2016"
 ---
 
 Tomorrow night the great and the good at the company I work for are getting on a river boat filled to the gunnels with food and alcohol in order to celebrate the 30th anniversary of the company. We are all invited, along with our significant others. It thought it might be appropriate then this morning to go and get my hair hacked off so I at least look somewhere near presentable.

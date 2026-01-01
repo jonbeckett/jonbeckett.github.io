@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Olympians And Porn Stars"
 date: 2012-12-20
-categories: archive
+categories: "2012"
 ---
 
 I noticed something rather odd recently. I'm not sure if I noticed it because we have rapidly growing children, or because I was in a more observant mood than usual.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Am A Wii Bowling God"
 date: 2008-12-30
-categories: archive
+categories: "2008"
 ---
 
 I just scored 240-something on Wii Bowling. Such is my delirium that I don't know the exact score.

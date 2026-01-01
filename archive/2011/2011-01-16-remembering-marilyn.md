@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Remembering Marilyn"
 date: 2011-01-16
-categories: archive
+categories: "2011"
 ---
 
 While digging through some old emails earlier, I stumbled across this one; written to a blog that doesn't exist any more about 18 months ago (I think).

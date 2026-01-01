@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Preparing To Travel"
 date: 2019-03-31
-categories: archive
+categories: "2019"
 ---
 
 It's just gone 2pm. My other half is at a rugby tournament with Miss 15, Miss 18 is in her room filling out various health and safety assessments for her new job, Miss 13 is in the lounge playing monopoly with a friend that has stayed with us the entire weekend, and I'm packing a bag to travel to the other end of the country for the better part of the week. Oh - and the clocks went forwards this morning, so getting up at 8am wasn't really sleeping in after all.

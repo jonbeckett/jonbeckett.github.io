@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Small World Problems"
 date: 2016-01-16
-categories: archive
+categories: "2016"
 ---
 
 I've been writing blog posts, posting in forums, and taking part in social networks for yearssince beforethe beginning of the world wide web.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Miss Fifteen"
 date: 2020-04-13
-categories: archive
+categories: "2020"
 ---
 
 Today Miss Fourteen became Miss Fifteen. After wandering downstairs at about half past seven this morning, I found the younger children sitting on the couch, waiting for my arrival. After cups of tea had been made, and my other half arrived, presents and cards were opened, and we all settled into the day.

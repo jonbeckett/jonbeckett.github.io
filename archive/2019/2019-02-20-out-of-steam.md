@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Out Of Steam"
 date: 2019-02-20
-categories: archive
+categories: "2019"
 ---
 
 I have the day off work tomorrow. I'm almost giddy with excitement. Ok, maybe that's a bit of an exaggeration. In all likelihood I'll be taking the kids down to Starbucks in the morning, and then to the park in town. We have a "plus one" - our youngest has a friend over for a sleepover. At the moment they are looking forward to Starbucks, but I imagine feeding the ducks and swans will rapidly turn into the highlight of the morning.

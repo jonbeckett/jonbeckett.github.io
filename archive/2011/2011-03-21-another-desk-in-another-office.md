@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Desk In Another Office"
 date: 2011-03-21
-categories: archive
+categories: "2011"
 ---
 
 It's all change in software developerville for the next few weeks. In order to help collaboration with colleagues I'm working closely with over the next few weeks, I've upped sticks, and moved desks.

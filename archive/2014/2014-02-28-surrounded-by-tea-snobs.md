@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Surrounded By Tea Snobs"
 date: 2014-02-28
-categories: archive
+categories: "2014"
 ---
 
 I like a cup of tea as much as the next personand it turns out that's quite a lot more than most, given that I'm English, and was brought up with the cultural knowledge that tea solves pretty much anything and everything. Broken window? Make a cup of tea. Death of a friend? Make a cup of tea.

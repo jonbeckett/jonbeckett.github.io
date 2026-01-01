@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "To Strive To Seek To Find And Not To Yield"
 date: 2013-01-16
-categories: archive
+categories: "2013"
 ---
 
 While reading the posts of far flung friends this evening, I found myself drawn into their lives, their hopes, their happiness, and their sadness. It struck me that so many of us feel alone from time to time - despite the sea of thousands surrounding us.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rain Rain And More Rain"
 date: 2019-11-22
-categories: archive
+categories: "2019"
 ---
 
 The heavens opened on me during my cycle to work this morning. Despite wearing waterproof over-trousers, and a supposedly waterproof top, I got soaked through to my underwear. I've been sitting in it all day, feeling pretty wonderful about myself (sarcasm fully intended). I imagine a second soaking session will happen a little later when I return home.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Big Thoughts"
 date: 2018-07-25
-categories: archive
+categories: "2018"
 ---
 
 Several years ago - before children, when time was a thing to be toyed with and spent frivolously, I would write long, rambling blog posts about life, the universe, and everything inbetween. I would empty my head through the keyboard as easily as turning on a tap - churning out 750 words with relative ease. Granted, I wrote 750 words in order to post to the website "750words", but that's besides the point.

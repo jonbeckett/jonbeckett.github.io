@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "How To Seo Optimize Tumblr"
 date: 2011-01-12
-categories: archive
+categories: "2011"
 ---
 
 I was looking at my Tumblr stats in Google Analytics the other evening, and wondered why they are so poor - why very little traffic finds it's way to my tumblog from web searches (in comparison to wordpress, for example).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back To Work And Thoughts About London"
 date: 2014-01-06
-categories: archive
+categories: "2014"
 ---
 
 Given that today was the first day back in the office after a couple of weeks away to gorge on food, and drink ourselves into oblivion, it hasn't been too bad at all. A couple of meetings, some buggy code, a few awful cups of coffee, and a curtailed walk at lunchtime due to the greater part of England vanishing underwater.

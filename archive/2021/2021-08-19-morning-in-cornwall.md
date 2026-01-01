@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Morning In Cornwall"
 date: 2021-08-19
-categories: archive
+categories: "2021"
 ---
 
 We left home a little after 10am yesterday morning, waving goodbye to our eldest daughter who is looking after the house, and set off towards the south west and my parents house. After stopping at a picnic area to stretch our legs, we finally arrived late in the afternoon.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Oh Freddy Im Doomed"
 date: 2015-03-08
-categories: archive
+categories: "2015"
 ---
 
 Today started well. The children were up first, and after a quick shower, were discovered watching cartoons in the living room. A thirty minute warning was issued for "leaving the house for Rugby", met by incredulous stares from Miss 11.

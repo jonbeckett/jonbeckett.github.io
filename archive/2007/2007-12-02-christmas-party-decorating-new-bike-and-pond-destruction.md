@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas Party Decorating New Bike And Pond Destruction"
 date: 2007-12-02
-categories: archive
+categories: "2007"
 ---
 
 The weekend for us started on Friday evening with the work Christmas party, held at the house of the managing director.

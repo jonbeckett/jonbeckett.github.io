@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Snacks Through The Mail With Graze"
 date: 2009-10-08
-categories: archive
+categories: "2009"
 ---
 
 One of my oldest friends online (she has a blog here) messaged me this morning, asking if I had heard of "Graze" - and I had to admit I had not. The photo above appeared in my email shortly afterwards from her.

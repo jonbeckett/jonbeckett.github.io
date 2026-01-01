@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Brain Dump"
 date: 2014-04-04
-categories: archive
+categories: "2014"
 ---
 
 It's Friday evening, and the weekend is upon us. The kids are watching a movie in the lounge on "Amazon Prime Instant", whatever the hell that isI just downloaded the app for the XBox, and they are all glued to it. All except Miss 8 who is making a cardboard dinosaur from a kit somebody bought for her birthday.

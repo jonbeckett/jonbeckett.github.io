@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Deciding On A Smaller Messenger Bag"
 date: 2007-09-27
-categories: archive
+categories: "2007"
 ---
 
 After carrying my Macbook across London in it's Messenger bag during the London Underground strike last month for several days, I somehow managed to injure myself (you can see what I had been carrying in my post "The Macbook Gets a Bag").

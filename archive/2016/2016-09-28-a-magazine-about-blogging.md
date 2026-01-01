@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Magazine About Blogging"
 date: 2016-09-28
-categories: archive
+categories: "2016"
 ---
 
 While perusing the various techie magazines in a high street shop this afternoon, waiting for Miss 16 to buy whatever it is that 16 year old's take half an hour to agonise over in chemists, I stumbled upon a magazine about blogging.

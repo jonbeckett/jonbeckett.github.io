@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Combatting The Lurgy"
 date: 2016-01-15
-categories: archive
+categories: "2016"
 ---
 
 Today finds me holed up at home, making worryingly regular visits to the downstairs bathroom. Let's just say my insides seem to want to become my outsides. Not fun.

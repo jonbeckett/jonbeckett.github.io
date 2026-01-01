@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wrestling With Privacy Concerns"
 date: 2009-01-06
-categories: archive
+categories: "2009"
 ---
 
 I have wondered increasingly frequently over the last year or two if to write a blog at all any more - or at least if to write a "personal" blog. Thoughts surrounding this have been magnified recently with the completion of the adoption order on the children - meaning they are now ours. Their names have changed. We are finally a real, "proper" family.

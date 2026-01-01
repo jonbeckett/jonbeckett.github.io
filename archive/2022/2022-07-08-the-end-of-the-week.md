@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The End Of The Week"
 date: 2022-07-08
-categories: archive
+categories: "2022"
 ---
 
 It's Friday morning - or at least I think it's still Friday morning - and I'm taking a break from work for a few minutes. I'm actually thinking about abandoning work for the rest of the day - COVID seems to be taking a second bite out of me. It might be better to admit defeat, have a quiet weekend, and give my body a chance to repair itself.

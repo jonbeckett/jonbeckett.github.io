@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Football Shopping Beer And Video Games"
 date: 2016-11-20
-categories: archive
+categories: "2016"
 ---
 
 Yesterday was the kind of day that keeps kicking you to the floor, every time you get up. It started with a room-to-room battle with our two younger children after we discovered that the promises that their football kit was ready for the morning were actually not entire true - or more accurately, not true at all.

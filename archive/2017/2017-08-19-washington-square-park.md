@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Washington Square Park"
 date: 2017-08-19
-categories: archive
+categories: "2017"
 ---
 
 While skimming updates posted to the social internet by far flung friends earlier this evening, I got sucked into reading a post recalling somebody's formative years - and how many of their favourite memories were attached to Washington Square Park. I stopped in my tracks, opened a chat window, and asked the author directly:

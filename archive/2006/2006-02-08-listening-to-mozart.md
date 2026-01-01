@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Listening To Mozart"
 date: 2006-02-08
-categories: archive
+categories: "2006"
 ---
 
 I'm sat here in our lounge on my own, tapping away at the laptop, and I have a Mozart CD in the player.

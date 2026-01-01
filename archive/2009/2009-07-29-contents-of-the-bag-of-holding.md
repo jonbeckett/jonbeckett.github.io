@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Contents Of The Bag Of Holding"
 date: 2009-07-29
-categories: archive
+categories: "2009"
 ---
 
 If you have ever wondered what I might be carrying around in the bag slung over my shoulder, wonder no more;

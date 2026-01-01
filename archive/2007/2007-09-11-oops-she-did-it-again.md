@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Oops She Did It Again"
 date: 2007-09-11
-categories: archive
+categories: "2007"
 ---
 
 I was checking the visitor statistics for "Life and Times" this morning, and was rather shocked to see a significant spike in hits over the last two days. It was enough to make me trawl through the search keywords.

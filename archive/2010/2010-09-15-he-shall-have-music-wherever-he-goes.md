@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "He Shall Have Music Wherever He Goes"
 date: 2010-09-15
-categories: archive
+categories: "2010"
 ---
 
 After much digging around, listening, sorting, and choosing, I have settled on the first few albums to make their way onto the MP3 player that travels with me every day (I just bought a Sandisk Sansa Clip+ for myself).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Every Day Seems Like An Achievement"
 date: 2008-03-04
-categories: archive
+categories: "2008"
 ---
 
 At the moment, every single day seems to be an achievement to be earned. We have still not survived a single day without a tantrum from one of the children; and while we were expecting the boundaries to be tested, we didn't think it would happen over such petty things.

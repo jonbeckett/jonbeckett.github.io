@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning"
 date: 2014-11-16
-categories: archive
+categories: "2014"
 ---
 
 It's heading towards 11am. The younger children have gone to a rugby tournament. I am staying home to keep an eye on Miss 14, who went spectacularly nuclear yesterday. She is up, sat behind me in the study, and still not talking to me (or anybody else).

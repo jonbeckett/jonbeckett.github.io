@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Forgotten Just Misplaced"
 date: 2012-03-17
-categories: archive
+categories: "2012"
 ---
 
 It's Friday evening, after an unremarkable week. The children are fast asleep upstairs, and "Water for Elephants" is playing on the television. The clock just ticked past eleven, I'm the last person up in the house, and a busy weekend is stretched out ahead of us.

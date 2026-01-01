@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blue Skies"
 date: 2015-04-21
-categories: archive
+categories: "2015"
 ---
 
 It's gorgeous outside this morning - blue skies as far as the eye can see. In the distance you can see the A380s and 747s in the pattern on approach to London Heathrow, the birds are singing, and there's hardly any wind. I notice the wind, because I cycle to work - headwinds are the recurring nightmare of the cyclist.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Watching From Afar"
 date: 2020-11-04
-categories: archive
+categories: "2020"
 ---
 
 I have been distracted throughout the day watching the American election results roll in. I tried to explain what was happening and why to my children earlier this evening, and found myself playing devils advocate - trying to explain in terms they might understand why anybody in their right mind would vote for either Trump or the Republican party.

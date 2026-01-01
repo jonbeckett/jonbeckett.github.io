@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where The Children Remind Me How To Smile"
 date: 2013-06-13
-categories: archive
+categories: "2013"
 ---
 
 After enduring yet another horrible day at work where I figuratively bit my tongue, and buried all manner of bile and spite, I was kind of looking forward to going home. A few minutes before the end of the day the phone rang, I picked it up, and it was my other half."Have you remembered it's Father's Day at Brownies tonight?""Nope"My immediate thought was one of dread. After a succession of horrible days, here was yet another thing. Another evening gone. More "me" time erased from under my nose. I cycled home from workpassing Captain Slow along the way in hilarious road-runner styleand fell into the house in a cloud of sweat and stress.

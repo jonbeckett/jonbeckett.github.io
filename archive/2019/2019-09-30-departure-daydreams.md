@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Departure Daydreams"
 date: 2019-09-30
-categories: archive
+categories: "2019"
 ---
 
 It's been an interesting day - not least because the huge project that has devoured my life over the course of the last few months has gone live, and is suddenly becalmed - with thousands of people interacting with it, and hundreds more overseeing it. The world doesn't stand still however - I'm already working on another project - facing another mountain.

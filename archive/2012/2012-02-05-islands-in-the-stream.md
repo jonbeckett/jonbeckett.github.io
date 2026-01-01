@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Islands In The Stream"
 date: 2012-02-05
-categories: archive
+categories: "2012"
 ---
 
 Over the course of the last few hours I have been searching out old haunts on the internet - in pursuit of original, interesting, and well written personal blogs. I'm coming up with very little, and while it would be easy to become disillusioned, quite the reverse seems to have occurred - the search is becoming more determined.

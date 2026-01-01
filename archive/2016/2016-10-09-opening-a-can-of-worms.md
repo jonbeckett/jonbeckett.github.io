@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Opening A Can Of Worms"
 date: 2016-10-09
-categories: archive
+categories: "2016"
 ---
 
 Somebody I have known for quite some time, and respect enormously has requested repeatedly over the last few months for me to expand on some of the subjects I typically try to avoid in the blog.

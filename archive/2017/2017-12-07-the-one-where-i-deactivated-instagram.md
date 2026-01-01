@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Deactivated Instagram"
 date: 2017-12-07
-categories: archive
+categories: "2017"
 ---
 
 I suppose this has been coming for quite some time. While waiting for a virtual server to spin up at work this morning, I logged into Instagram (where I had shared nearly four thousand little square photos), and deactivated the account.

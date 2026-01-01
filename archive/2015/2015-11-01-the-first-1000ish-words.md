@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The First 1000Ish Words"
 date: 2015-11-01
-categories: archive
+categories: "2015"
 ---
 
 It all began with the unwrapping of a medium to large box on Christmas morning in 1983.

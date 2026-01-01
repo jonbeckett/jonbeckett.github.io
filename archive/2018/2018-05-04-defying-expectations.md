@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Defying Expectations"
 date: 2018-05-04
-categories: archive
+categories: "2018"
 ---
 
 I asked a friend recently if they could recall any "sliding door" moments during their life - moments where a decision was made that took them in one direction rather than another.

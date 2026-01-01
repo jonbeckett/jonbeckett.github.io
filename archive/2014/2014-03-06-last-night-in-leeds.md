@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Last Night In Leeds"
 date: 2014-03-06
-categories: archive
+categories: "2014"
 ---
 
 The last few days have turned into a blur of complexity, frustration, elation, and software development done in full view of a room full of clients.

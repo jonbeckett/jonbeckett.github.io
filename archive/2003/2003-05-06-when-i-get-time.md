@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "When I Get Time"
 date: 2003-05-06
-categories: archive
+categories: "2003"
 ---
 
 The last week or so has been manic, but in the midst of working on-site, having a never ending stream of visitors and helping do work on the garden, I have somehow managed to keep up the regular visits to the gym.

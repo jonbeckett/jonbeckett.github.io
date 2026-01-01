@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The End Of The Beginning"
 date: 2017-10-16
-categories: archive
+categories: "2017"
 ---
 
 I woke several times during the early hours of the morning and checked my phone for messages in the aftermath of yesterday's awful news. I buried my head in the bedclothes, and ignored the world until I absolutely had to leave. I did get up eventually, and wandered down the road to a nearby supermarket to buy lunch.

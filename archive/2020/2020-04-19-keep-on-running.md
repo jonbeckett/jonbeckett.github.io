@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Keep On Running"
 date: 2020-04-19
-categories: archive
+categories: "2020"
 ---
 
 I slid out of bed early this morning, pulled on some old shorts and running shoes, and looked in on the children. There had been plans at dinner last night for myself, and all three of my daughters to run together - with promises of cooked breakfasts on our return from my other half by way of a bribe. None of it happened.

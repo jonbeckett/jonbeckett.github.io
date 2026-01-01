@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Walk to the Beach"
 date: 2023-10-14
-categories: archive
+categories: "2023"
 ---
 
 A few minutes after my mobile woke me this morning there was a knock on the bedroom door, and my Dad shouted "time to get up". I squinted at the clock, and wondered what was going on - we weren't supposed to be going anywhere today. He then knocked on the door again, and shouted "Doesn't matter - I forgot what day it was".

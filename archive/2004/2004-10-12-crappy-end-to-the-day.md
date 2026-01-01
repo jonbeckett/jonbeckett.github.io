@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Crappy End To The Day"
 date: 2004-10-12
-categories: archive
+categories: "2004"
 ---
 
 Today has been a good day.

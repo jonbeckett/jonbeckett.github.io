@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Day Is It Today"
 date: 2009-12-01
-categories: archive
+categories: "2009"
 ---
 
 Do you ever lose track of which day of the week it is? I have this evening. While staying away from home, I have begun counting the days by the number of sets of underwear I have left.

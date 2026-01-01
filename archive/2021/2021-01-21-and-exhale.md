@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And Exhale"
 date: 2021-01-21
-categories: archive
+categories: "2021"
 ---
 
 I watched the inauguration of Joe Biden as the new President of the United States yesterday evening, and then fell down an internet rabbit hole this morning watching Angela Gorman and Katy Perry on YouTube.

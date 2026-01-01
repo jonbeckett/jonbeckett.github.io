@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "When Will The Hysteria Surrounding The Apple Ipad Subside"
 date: 2010-04-29
-categories: archive
+categories: "2010"
 ---
 
 Forgive me for being a cynical old curmudgeon, but I'm getting pretty sick and tired of people going on about the Apple iPad. Yes, it's nice - a wonderful piece of industrial design, and another victory for Mr Ive. It has two show-stopping problems though;

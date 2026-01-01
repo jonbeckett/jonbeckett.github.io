@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Above Top Secret"
 date: 2017-03-21
-categories: archive
+categories: "2017"
 ---
 
 I went somewhere rather special with work today. I would love to tell you the story of my day, but can't. I'm not even going to give hints about where, or what I was doing, because I'll make a mistake, and "the man" will inevitably find out - probably many years from now after I've forgotten all about this blog.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blagging It With King Of Shaves"
 date: 2007-03-28
-categories: archive
+categories: "2007"
 ---
 
 Those who read my blog regularly will know that I recently posted the start of a series entitled "A Day In My Life", which described my typical morning routine in a rather literary light.

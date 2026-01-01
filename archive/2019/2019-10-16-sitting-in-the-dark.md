@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sitting In The Dark"
 date: 2019-10-16
-categories: archive
+categories: "2019"
 ---
 
 I have been sitting in the dark of the junk room in front of the keyboard for an hour. Nothing seems to be making it through my fingers and into the keyboard. I'm not entirely sure why - I don't think I have a lot on my mind.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apparently We All Suck"
 date: 2013-06-18
-categories: archive
+categories: "2013"
 ---
 
 Last night our eldest daughter couldn't find her socks for school. The same socks she had been running around the house flicking her younger sister with, and that her younger sister had hidden.

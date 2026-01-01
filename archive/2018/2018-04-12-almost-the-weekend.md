@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Almost The Weekend"
 date: 2018-04-12
-categories: archive
+categories: "2018"
 ---
 
 It's almost the weekend. I'm watching the last few minutes of Friday tick down. I need this weekend - but of course I'm not going to get this weekend. Far from it.

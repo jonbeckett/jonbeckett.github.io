@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Very Cold Indeed"
 date: 2006-12-19
-categories: archive
+categories: "2006"
 ---
 
 (Photo is courtesy of lizvang on Flickr - I forgot the camera again)

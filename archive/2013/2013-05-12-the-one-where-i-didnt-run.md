@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Didnt Run"
 date: 2013-05-12
-categories: archive
+categories: "2013"
 ---
 
 The local running race took place this morning in town - the same race that I half-heartedly began training for several months ago (if you can count going running twice as training). Since then the world pretty much dumped on me from a great height, and I ended up not running again.

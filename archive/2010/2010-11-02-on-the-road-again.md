@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Road Again"
 date: 2010-11-02
-categories: archive
+categories: "2010"
 ---
 
 Tiredness. That's the overriding feeling. It's been a while since I've done a 6am start, and a day pretending to know what I'm on about in front of professional clients. Two more similarly brain crushing days to go (in truth, it's been a good day - the hours flew by).

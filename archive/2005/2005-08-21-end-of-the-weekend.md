@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "End Of The Weekend"
 date: 2005-08-21
-categories: archive
+categories: "2005"
 ---
 
 It's late on Sunday night and I guess it's the end of the weekend.

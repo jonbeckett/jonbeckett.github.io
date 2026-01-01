@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monkeys And Music"
 date: 2020-08-07
-categories: archive
+categories: "2020"
 ---
 
 I was going to go for a run this morning, but after realising the temperature was already nearly 30C at 8am, thought 'maybe not'. Any thoughts of running this evening went out of the window when the humidity cranked itself up.

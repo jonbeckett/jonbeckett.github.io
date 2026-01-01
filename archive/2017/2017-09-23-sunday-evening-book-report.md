@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Evening Book Report"
 date: 2017-09-23
-categories: archive
+categories: "2017"
 ---
 
 The clock is ticking inexorably towards the end of Sunday evening, and my mind is trying to avoid thinking about work tomorrow. Something didn't work as well as we might have liked on Friday, and it's been at the back of my mind all weekend.

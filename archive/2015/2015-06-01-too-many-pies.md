@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Too Many Pies"
 date: 2015-06-01
-categories: archive
+categories: "2015"
 ---
 
 I know I go back over this again, and again. I'm wondering about choosing one place to blog again. Don't take any notice of this post - it's just me "thinking out loud".

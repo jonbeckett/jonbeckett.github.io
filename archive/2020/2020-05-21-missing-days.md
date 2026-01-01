@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Missing Days"
 date: 2020-05-21
-categories: archive
+categories: "2020"
 ---
 
 I think it's fair to say I've well and truly fallen off the blogging horse. After several years posting almost every day, I've dropped back to posting every few days, and it feels strangely fine. Nobody has come after me with a pitchfork (yet).

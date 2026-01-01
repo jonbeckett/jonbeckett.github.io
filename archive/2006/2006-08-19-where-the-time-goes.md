@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where The Time Goes"
 date: 2006-08-19
-categories: archive
+categories: "2006"
 ---
 
 With the absence of anything significant going on in what I laughably call "my life" this weekend, I find myself working once again.

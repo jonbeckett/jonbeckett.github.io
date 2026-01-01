@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Your Chance To Get A Drawing By Me"
 date: 2009-01-20
-categories: archive
+categories: "2009"
 ---
 
 The first seven people to send me an email with a photo of themselves in it will get a drawing of the photo. If nothing else, it will force me to start drawing again.

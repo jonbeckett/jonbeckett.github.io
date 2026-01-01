@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Potter Arrives"
 date: 2005-07-21
-categories: archive
+categories: "2005"
 ---
 
 I'm in something of a quandary. My better half arrived home tonight with a present for me - the new Harry Potter book.

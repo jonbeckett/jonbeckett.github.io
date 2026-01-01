@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts About Blogging"
 date: 2016-02-21
-categories: archive
+categories: "2016"
 ---
 
 While reading various posts from a number of different corners of the internet recentlyand no, I'm not going to name anybody, or anywhere, because I'm not that kind of horrible persona truism of sorts occurred to me. Some people dig their own holesand they're good at it.

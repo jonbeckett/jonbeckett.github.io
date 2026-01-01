@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Elementary"
 date: 2018-03-06
-categories: archive
+categories: "2018"
 ---
 
 I just finished installing "Elementary OS" on the old desktop computer at home - the one in the junk room that I tend to sit at while writing blog posts. On the off-chance that anybody else needs to use it, they can still re-start it and boot into Windows 7 - the hard-drive is partitioned, and has a boot-loader (meaning, it asks if you want Windows or Linux when you start the machine).

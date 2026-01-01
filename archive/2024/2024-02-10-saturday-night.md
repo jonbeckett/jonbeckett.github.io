@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Night"
 date: 2024-02-10
-categories: archive
+categories: "2024"
 ---
 
 I canceled my Amazon music subscription this evening, and re-signed with Spotify. While pulling pizza from the oven at dinner time I explained to our middle daughter what I had done - and she asked why.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back To Work"
 date: 2004-04-13
-categories: archive
+categories: "2004"
 ---
 
 It's the Tuesday after easter and I am back at work (sat here with a cup of coffee as I write this - probably my last coffee for a while, because I think it might have been giving me headaches).

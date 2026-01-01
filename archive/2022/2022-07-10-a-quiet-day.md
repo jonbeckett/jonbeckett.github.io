@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Quiet Day"
 date: 2022-07-10
-categories: archive
+categories: "2022"
 ---
 
 Today has been a quiet day. A quiet day was needed. A day to rest and collect thoughts.

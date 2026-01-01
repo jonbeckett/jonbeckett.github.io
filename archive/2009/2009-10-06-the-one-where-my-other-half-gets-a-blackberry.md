@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where My Other Half Gets A Blackberry"
 date: 2009-10-06
-categories: archive
+categories: "2009"
 ---
 
 W took delivery of her first "smartphone" earlier today - a Blackberry 8520 "Curve". To say she is happy is something of an understatement; she's been living with my old Nokia K800 for the last few months - putting up with it's crashing, dropping of calls, and general crankiness.

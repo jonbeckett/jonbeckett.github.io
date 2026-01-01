@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Have A Stationary Problem"
 date: 2016-03-05
-categories: archive
+categories: "2016"
 ---
 
 In-between helping our youngest daughter choose presents and a card for mothers day (which is tomorrow on this side of the world), Ijust happened to be passing the stationers in town, so said "why don't we look in here to see if they might have anything Mum might like". Har har.

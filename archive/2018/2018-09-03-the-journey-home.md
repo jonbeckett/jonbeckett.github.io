@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey Home"
 date: 2018-09-03
-categories: archive
+categories: "2018"
 ---
 
 Sound filled the room at 3am this morning, rousing me from fitful dreams and causing me to stumble across the room to reach the phone it was coming from. After squinting at the words and fumbling with the screen for a few moments, silence reigned again, and I rubbed my eyes. Half an hour later I had woken the children, had a shower, gathered our things together, and sat along with everybody else, wondering what to do until the airport transfer coach arrived a little after 4am.

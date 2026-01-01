@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Neverending"
 date: 2021-11-24
-categories: archive
+categories: "2021"
 ---
 
 As the clock ticks past 11pm I've cracked open the programming text editor I've been using for the last several months to write blog posts. I guess when it comes to emptying my head, my brain works best when distractions are removed. If all I can do is type, I don't get distracted by typefaces, line spacing, or anything else. It's just me and the words.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day Out At The Museums"
 date: 2010-10-10
-categories: archive
+categories: "2010"
 ---
 
 At 7am yesterday morning I turfed our eldest out of bed, threw her in the shower, and set about packing our backpacks for her first trip into London - to visitthe British Museum, theNatural History Museum, and theScience Museum. I guess ordinarily this would be the "motor racing" day out for many Dads, but for me this kind of thing is so much more interesting.

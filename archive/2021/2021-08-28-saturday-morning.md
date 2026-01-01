@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Morning"
 date: 2021-08-28
-categories: archive
+categories: "2021"
 ---
 
 Saturday is slowly unfurling in front of me, aided by two cups of coffee and a slice of marmite on toast. I'm sitting in "the junk room" accompanied by the radio. Most weekday mornings I listen to Magic Radio, and at the weekend, Absolute Radio. I'm a creature of habit.

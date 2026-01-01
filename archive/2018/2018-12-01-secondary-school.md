@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Secondary School"
 date: 2018-12-01
-categories: archive
+categories: "2018"
 ---
 
 Another excerpt from this year's NaNoWriMo - Enjoy!

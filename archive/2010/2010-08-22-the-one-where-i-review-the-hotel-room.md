@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Review The Hotel Room"
 date: 2010-08-22
-categories: archive
+categories: "2010"
 ---
 
 Some might consider this post a surrender to boredom, and I would agree with them completely. Enjoy.

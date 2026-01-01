@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Year Of Living Dangerously"
 date: 2010-01-26
-categories: archive
+categories: "2010"
 ---
 
 Today marks both the end of something, and the beginning of something new.

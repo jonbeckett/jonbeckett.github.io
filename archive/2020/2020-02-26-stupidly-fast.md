@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stupidly Fast"
 date: 2020-02-26
-categories: archive
+categories: "2020"
 ---
 
 I've been sitting in the junk room staring at the screen for the last ten minutes, wondering what to write. I'm in the slightly curious situation of trying to switch off after a busy day, but not being able to share any of it, because it's all work stuff.

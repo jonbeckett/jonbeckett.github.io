@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lake District Here We Come"
 date: 2007-05-04
-categories: archive
+categories: "2007"
 ---
 
 Early tomorrow morning we will leave home with a car packed full of tents, sleeping bags, waterproofs, warm clothes, walking boots, camping stove, and various other bits and pieces to travel to the Lake District for the week.

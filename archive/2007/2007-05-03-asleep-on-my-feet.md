@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Asleep On My Feet"
 date: 2007-05-03
-categories: archive
+categories: "2007"
 ---
 
 My grand plans to use the day more productively haven't got off to a very good start - I am therefore drinking a huge cappucino in the cafe above the concorse at Paddington Station.

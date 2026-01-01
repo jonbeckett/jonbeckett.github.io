@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Welcome To Thursday"
 date: 2016-11-17
-categories: archive
+categories: "2016"
 ---
 
 For some reason Thursdays have been ridiculous ever since we first had children. Every after-school-club in the known universe happens on Thursday nights. It's like everybody that runs anything colluded with each other, just to run everybody into the ground.

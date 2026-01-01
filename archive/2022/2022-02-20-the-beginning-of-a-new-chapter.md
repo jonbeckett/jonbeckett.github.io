@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Beginning Of A New Chapter"
 date: 2022-02-20
-categories: archive
+categories: "2022"
 ---
 
 My middle daughter played moved up to the "senior" rugby team today. She turned 18 back in January virtually unnoticed until the ladies team were missing several regular members, and a coach turned her gaze toward my other half a few days ago.

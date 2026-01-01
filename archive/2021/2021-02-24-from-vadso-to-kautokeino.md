@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "From Vadso To Kautokeino"
 date: 2021-02-24
-categories: archive
+categories: "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0f5bb3a0-53a5-45a2-b4c5-513014900afb_1920x1080.png" />

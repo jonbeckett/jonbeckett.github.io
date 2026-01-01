@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Weekend Filled With Football And Dance"
 date: 2016-05-08
-categories: archive
+categories: "2016"
 ---
 
 I'm sitting in the dark of the study on my own, a little after 9pm on Sunday night, contemplating the remaining few hours of the weekend. It's tempting to say "we had no weekend again", but of course that's not entirely true. Our weekend just didn't stop.

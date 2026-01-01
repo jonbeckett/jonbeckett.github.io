@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Afternoon"
 date: 2019-01-05
-categories: archive
+categories: "2019"
 ---
 
 After a Sunday morning standing in the cold on the touchline of a rugby pitch for two hours, stamping my feet and making conversation with other parents, I'm now home, sipping tea, and half-listening to the rather random playlist Alexa has decided I like. Miss 18 and Miss 13 have gone to watch a football match, and Miss 14 is upstairs somewhere pretending to play video games, but actually watching a stready stream of YouTube videos we would much rather she did not.

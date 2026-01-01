@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Birthday"
 date: 2012-03-03
-categories: archive
+categories: "2012"
 ---
 
 In truth, I had completely forgotten about my birthday until a couple of days ago when W mentioned about her parents coming over today to come out for lunch with us.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Look At Microsoft Windows Vista"
 date: 2006-03-15
-categories: archive
+categories: "2006"
 ---
 
 I've just been looking at Windows Vista with a colleague. He installed it on a virtual machine to play with (virtual machines allow you to create "pretend" computers - kind of like a computer inside your computer - so you can play with software with no risk of wrecking your computer - check out VMWare to see what I mean).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Winning And Losing"
 date: 2018-07-18
-categories: archive
+categories: "2018"
 ---
 
 We spent the greater part of yesterday evening sitting in a packed auditorium at the big school in town - watching a local celebrity hand out awards to students throughout the school. Of course our main reason for being there was to watch Miss 14 receive an award for her cooking exploits. A local celebrity spent his evening handing over awards, before making a speech to the children present about hard work, and perseverance.

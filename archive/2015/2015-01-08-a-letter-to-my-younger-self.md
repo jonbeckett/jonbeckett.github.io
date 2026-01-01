@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Letter To My Younger Self"
 date: 2015-01-08
-categories: archive
+categories: "2015"
 ---
 
 Today's exercise for the WordPress Blogging 101 course is to write a post for a dream reader - real or imaginary. I have decided to write a letter to my younger self. Enjoy!

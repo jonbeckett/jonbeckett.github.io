@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Music And Coffee"
 date: 2021-09-28
-categories: archive
+categories: "2021"
 ---
 
 The radio is filling the room with "Black Velvet" by Alanah Miles. I remember when it first appeared, and VH1 played it to death. Who remember VH1? I'm guessing it arose in Europe after MTV went past the curious tipping point where their schedule was filled with reality TV shows rather than music videos. I've written about the era when their "VJs" became famous - the likes of Ray Cokes, and Marijne van der Vlugt. I remember getting in from college and decompressing in front of their shows.

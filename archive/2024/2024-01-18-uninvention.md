@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Uninvention"
 date: 2024-01-18
-categories: archive
+categories: "2024"
 ---
 
 Today's writing prompt asks "if you could un-invent something, what would it be?". 

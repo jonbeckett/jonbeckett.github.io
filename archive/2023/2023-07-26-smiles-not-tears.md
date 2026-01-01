@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Smiles Not Tears"
 date: 2023-07-26
-categories: archive
+categories: "2023"
 ---
 
 One day after another. Rinse and repeat.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Two Fish Become Four"
 date: 2015-10-23
-categories: archive
+categories: "2015"
 ---
 
 I had the day off work today. A normal person would have awoken late, got up sensibly late, and had a relaxed breakfast. I'm not sensible. I got up at the normal time, made breakfast and lunch for my other half and youngest (who had one day of school left before half-term), washed up, and filled the washing machine and dryer with clothes.

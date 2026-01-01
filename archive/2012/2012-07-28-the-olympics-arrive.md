@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Olympics Arrive"
 date: 2012-07-28
-categories: archive
+categories: "2012"
 ---
 
 I stayed up with our eldest daughter last night to watch the opening ceremony of the Olympics. I had tried to impress upon her earlier in the week that the coming of the Olympics to London really was a "once in a lifetime" thing, but I think sitting and watching the show last night was far more powerful.

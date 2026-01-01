@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Englishmans Home Is His Homepage"
 date: 2012-02-15
-categories: archive
+categories: "2012"
 ---
 
 After a number of people chased me with prospective freelance webdesign projects in recent weeks, I thought it might be a good idea to have a homepage.

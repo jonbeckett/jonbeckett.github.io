@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day On The Beach"
 date: 2021-08-23
-categories: archive
+categories: "2021"
 ---
 
 On the final day of our visit with my parents on the coast, the sun arrived. After looking out of the kitchen window at breakfast time with my youngest daughter, she plaintively wondered what we might be doing today.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Doing Nothing On Purpose"
 date: 2016-05-06
-categories: archive
+categories: "2016"
 ---
 
 It's Friday night, and I've been kicking around the house doing nothing on purposewhich sounds tremendously lazy, but given the week I've had, hopefully nobody will think too badly of me. While I can't share too much, lets just say I've been head down, writing code for much of the week. I forgot how draining it isand how much of a fault I have in my make-up.

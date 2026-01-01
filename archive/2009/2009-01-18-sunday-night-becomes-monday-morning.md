@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Night Becomes Monday Morning"
 date: 2009-01-18
-categories: archive
+categories: "2009"
 ---
 
 We're sat here trying to make best use of the remainder of our Sunday evening - well, perhaps "evening" is a little wrong. It's 10:56pm at the time of writing.

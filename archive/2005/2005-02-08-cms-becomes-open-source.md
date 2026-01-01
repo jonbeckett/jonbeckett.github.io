@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cms Becomes Open Source"
 date: 2005-02-08
-categories: archive
+categories: "2005"
 ---
 
 Following all kinds of deliberation at work, it turns out they cannot license my CMS software after all - the law more or less prevents them from doing it.

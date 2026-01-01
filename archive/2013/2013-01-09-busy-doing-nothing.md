@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Doing Nothing"
 date: 2013-01-09
-categories: archive
+categories: "2013"
 ---
 
 I have been sitting here since tucking the younger children into bed an hour or so ago, and have achieved absolutely nothing.

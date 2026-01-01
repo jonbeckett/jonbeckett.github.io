@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Internet Theorem Resurfaces"
 date: 2015-03-19
-categories: archive
+categories: "2015"
 ---
 
 I signed up for LiveJournal a few days ago. It's not the first time I have been a member - in the days before Facebook, Twitter, WordPress and Tumblr swept all before them - hell, before MySpace lumbered across the world wide web - I regularly emptied my head into LiveJournal's cavernous black hole of words and pictures.

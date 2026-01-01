@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Alone In An Infinite Crowd"
 date: 2014-08-08
-categories: archive
+categories: "2014"
 ---
 
 One of the most difficult things about becoming friends with people on the internet is that you only really know them through the photos and words they shareyou don't really know them at all.

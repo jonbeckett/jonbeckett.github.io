@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Welcome To Cardiff"
 date: 2017-06-11
-categories: archive
+categories: "2017"
 ---
 
 Greetings from a Travelodge hotel in the centre of Cardiff, Wales. I left home early this afternoon, jumped on a train, and began a journey that took me across the west of England, through a tunnel (or over a bridge - I didn't notice), and into Wales. Thankfully Cardiff is just over the border, so it doesn't take long at all. I amused myself with the dysfunctional antics of the family in the TV show "Casual" along the way. Thank the maker for Amazon Fire Tablets.

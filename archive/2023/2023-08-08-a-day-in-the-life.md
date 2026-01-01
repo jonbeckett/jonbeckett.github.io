@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day in the Life"
 date: 2023-08-08
-categories: archive
+categories: "2023"
 ---
 
 For some reason I woke up at 6am this morning. I'm not entirely sure how or why. I then fell asleep until the Amazon Echo filled the bedroom with commercial radio an hour later - and somehow had several hours of dream in that time. It's curious how that happens.

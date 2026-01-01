@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What if it's made out of cheese"
 date: 2024-09-01
-categories: archive
+categories: "2024"
 ---
 
 Why is it the moment I sit down to write a blog post, my body decides it's time to visit the bathroom? It's almost like my body is better at procrastinating than I am. When conscious that I'm about to get on with something, it pulls a joker from it's back pocket and whispers "you might want to think about doing this first".

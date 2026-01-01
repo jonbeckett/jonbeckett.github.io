@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Crash And Burn"
 date: 2019-05-15
-categories: archive
+categories: "2019"
 ---
 
 You know that whole idea I had about using Scrivener for writing projects? Yeah. That's not going to happen any more, after it decided not to like the graphics driver on the new laptop. I figured out - quite by chance - a way of making Scrivener not only crash itself, but also bork Windows 10 pretty badly.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Things I Carry Rebooting And Recycling"
 date: 2010-09-11
-categories: archive
+categories: "2010"
 ---
 
 I seem to be going through a process of off-loading the various gadgets I have been carrying around to others recently. I thought it might be interesting to go through a few of the things I no longer carry around...

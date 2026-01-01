@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Why Did It Have To Suddenly Get So Complicated"
 date: 2011-02-11
-categories: archive
+categories: "2011"
 ---
 
 Until this week it was all so simple. I was going to wait until my mobile phone contract ends in October, and get a Google Nexus S.

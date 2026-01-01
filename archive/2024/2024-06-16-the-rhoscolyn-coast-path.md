@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Rhoscolyn Coast Path"
 date: 2024-06-16
-categories: archive
+categories: "2024"
 ---
 
 I finally fell asleep a little after 1am last night -- after lying in bed listening to noises in the roof-space of the ancient cottage we're staying in. A furious guest had written a review on the agent's website complaining about a mouse infestation that nobody else seemed to have experienced, or found. I figured it out.

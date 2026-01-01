@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Through The Cracks"
 date: 2016-05-26
-categories: archive
+categories: "2016"
 ---
 
 This week has seemed to be all about getting on the treadmill, and running as fast as you can to get nowhere. I've been head down writing Javascript and Powershell at work, and running here, there and everywhere in the evenings too. Tonight I didn't sit down until nearly 10pm.

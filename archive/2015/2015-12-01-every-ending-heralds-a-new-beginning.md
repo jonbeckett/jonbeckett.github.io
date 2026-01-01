@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Every Ending Heralds A New Beginning"
 date: 2015-12-01
-categories: archive
+categories: "2015"
 ---
 
 The last 12 hours have been interesting. What started as a single post to Tumblr inviting people to try out WordPress turned into a quiet murmurof sortspeople resurrectinglong dormant WordPress accounts, and beginning to explore. For some it was their first experience of WordPress, while for others it was a trip down memory lane.

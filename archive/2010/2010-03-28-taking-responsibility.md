@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Taking Responsibility"
 date: 2010-03-28
-categories: archive
+categories: "2010"
 ---
 
 I got up at 5am (6am after moving the clocks forward an hour) this morning to watch the Formula One race in Melbourne, Australia. I'm not going to bore you with a potted review of the race - that's what the news networks are for - but I will pass comment on Lewis Hamilton's behaviour.

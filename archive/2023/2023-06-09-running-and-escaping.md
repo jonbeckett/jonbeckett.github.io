@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running and Escaping"
 date: 2023-06-09
-categories: archive
+categories: "2023"
 ---
 
 I finally went for a run after work yesterday evening. My daughter - full of optimism and enthusiasm in the morning - returned from school claiming hayfever, pollen count, no breath, no energy, and more. I ran on my own.

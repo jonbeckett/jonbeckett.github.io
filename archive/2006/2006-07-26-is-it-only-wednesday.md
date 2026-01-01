@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Is It Only Wednesday"
 date: 2006-07-26
-categories: archive
+categories: "2006"
 ---
 
 It's Wednesday morning, and I feel like it's the end of the week already. So far I have logged over 24 hours work for the week so far. That's in two days. If things keep on like this, I'll have done my normally weekly hours in 3 days, and will be looking at 80 hours for the week.

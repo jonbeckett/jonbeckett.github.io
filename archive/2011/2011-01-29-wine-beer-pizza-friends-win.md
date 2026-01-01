@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wine Beer Pizza Friends Win"
 date: 2011-01-29
-categories: archive
+categories: "2011"
 ---
 
 I just returned from a supplies gathering mission at the local store. We have friends coming later armed with pizzas for a movie night. We've been doing this off and on since we had the kids, following cessation of our attempts to win the local pub quiz each week.

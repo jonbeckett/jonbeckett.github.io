@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Final Fantasy Xii"
 date: 2007-02-24
-categories: archive
+categories: "2007"
 ---
 
 While out shopping this morning (buying some goodies to cheer W up), I bought something for myself - Final Fantasy XII...

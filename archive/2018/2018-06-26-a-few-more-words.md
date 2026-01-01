@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Few More Words"
 date: 2018-06-26
-categories: archive
+categories: "2018"
 ---
 
 Very few words this evening, because it feels like I'm running out at the moment (of words, I mean). Perhaps an early night, a good book, and a long sleep will change my mood somewhat.

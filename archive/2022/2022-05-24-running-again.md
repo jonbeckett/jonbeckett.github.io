@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running Again"
 date: 2022-05-24
-categories: archive
+categories: "2022"
 ---
 
 I went running first thing this morning - back to the "Couch to 5K" programme after a few days off after my right knee started to hurt. Fingers crossed if I just go slow at this whole running thing, my body will stop complaining.

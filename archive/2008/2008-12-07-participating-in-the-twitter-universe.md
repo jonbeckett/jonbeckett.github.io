@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Participating In The Twitter Universe"
 date: 2008-12-07
-categories: archive
+categories: "2008"
 ---
 
 Since Twitter first appeared on the internet, I have been a somewhat reluctant participant. I've somehow amassed over 200 followers, who probably don't take any notice of my "tweets", let alone log in and even see them.

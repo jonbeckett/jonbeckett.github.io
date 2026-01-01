@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day In London"
 date: 2022-06-13
-categories: archive
+categories: "2022"
 ---
 
 Early yesterday morning I left the house with my youngest and eldest daughters, and travelled into London for the first time in over a year. A day of wandering, exploring, and lots and lots of walking.

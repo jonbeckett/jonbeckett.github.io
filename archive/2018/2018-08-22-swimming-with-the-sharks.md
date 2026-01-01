@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Swimming With The Sharks"
 date: 2018-08-22
-categories: archive
+categories: "2018"
 ---
 
 Miss 17 received her exam results this morning. The good news? She's on the design course next year that she failed to quality for this year. The bad news? She will have to repeat another year of English and Maths to improve her exam grades. Again.

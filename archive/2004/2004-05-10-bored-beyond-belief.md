@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bored Beyond Belief"
 date: 2004-05-10
-categories: archive
+categories: "2004"
 ---
 
 If you are online and want to have a very stupid conversation with a very bored person (who has his webcam switched on), give me a shout.

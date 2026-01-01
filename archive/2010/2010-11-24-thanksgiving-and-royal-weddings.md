@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thanksgiving And Royal Weddings"
 date: 2010-11-24
-categories: archive
+categories: "2010"
 ---
 
 For many of my friends on the other side of the ball of mud we inhabit, Thursday is "Thanksgiving". Due to my geographical displacement, which leads to an entirely different history, culture, and customs, I will not be eating Turkey (well, I might, but it will be ready sliced in sandwiches).

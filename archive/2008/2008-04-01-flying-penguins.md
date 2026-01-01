@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Flying Penguins"
 date: 2008-04-01
-categories: archive
+categories: "2008"
 ---
 
 While making various packed lunches this morning, this news story caught my eye on the BBC breakfast news broadcast...

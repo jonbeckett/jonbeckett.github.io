@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting Back On The Bike"
 date: 2006-10-31
-categories: archive
+categories: "2006"
 ---
 
 After a week spent twiddling my thumbs, and "evaluating" various pieces of software at work, I had to "get back on the bike" today - and start crunching out code. Quite surprisingly it has lifted my spirits, and I have no idea why.

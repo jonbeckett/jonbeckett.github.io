@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Windows 10 On A Sunday Morning"
 date: 2015-10-11
-categories: archive
+categories: "2015"
 ---
 
 Since scraping myself out of bed at 8am, I've been caught up in an endless round of "stuff". I just sat down for the first time with a cup of tea, and it's somehow 11am. How does that even happen ?

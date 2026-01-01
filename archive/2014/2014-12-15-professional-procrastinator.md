@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Professional Procrastinator"
 date: 2014-12-15
-categories: archive
+categories: "2014"
 ---
 
 If there is ever an olympic event for getting nothing done, I'm pretty sure I could be a contender. It's not that I don't want to get something doneit's just that there are fare more interesting other things that I would rather be doing than the thing I'm supposed to be doing. Granted, I didn't realise just how interesting those other things were going to be until I needed to be doing something else, but that's besides the point.

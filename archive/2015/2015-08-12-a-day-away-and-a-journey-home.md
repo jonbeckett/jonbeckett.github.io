@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day Away And A Journey Home"
 date: 2015-08-12
-categories: archive
+categories: "2015"
 ---
 
 I woke up yesterday morning in yet another hotel bed, several hundred miles from home. I only took a change of shirt and underwear with me, so getting up, showered, dressed, and ready to check-out took literally minutes.

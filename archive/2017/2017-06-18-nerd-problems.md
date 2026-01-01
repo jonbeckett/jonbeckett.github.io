@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nerd Problems"
 date: 2017-06-18
-categories: archive
+categories: "2017"
 ---
 
 My "go to" computer at home is a Google Chromebook, because it's fast, it lasts for ages on a battery charge, and it "just works". Here's the thing though - if I had a choice, I would run full-fat Linux rather than ChromeOS - for all sorts of reasons I won't bother going into here.

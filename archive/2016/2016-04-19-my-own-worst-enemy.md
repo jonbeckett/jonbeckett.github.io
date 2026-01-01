@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "My Own Worst Enemy"
 date: 2016-04-19
-categories: archive
+categories: "2016"
 ---
 
 You wouldn't believe what I have been doing since the moment I got back to the hotel if I told you. I'm going to tell you anyway, because that's the special kind of idiot I am, but then you kind of figured that would happen, right?Last night I began tinkering with the archives of my blog. After several hours, a virtual machine, a WordPress installation, some custom PHP programming, and many trawls through both filenames and text for "special" characters, I am now fairly confident that I have every blog post I have written since 2003 neatly organised into month folders, converted into markdown syntax, and cleared of all spurious junk.

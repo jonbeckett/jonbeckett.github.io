@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where The Hell Are The Brakes On This Thing"
 date: 2011-06-22
-categories: archive
+categories: "2011"
 ---
 
 You'll excuse me if I sound a little hassled, or a little breathless. It's approaching 5pm, and it's the first opportunity I've had to stop all day. I've drunk coffee while frowning at piles of errant source code, held bread rolls in my mouth while typing furiously, and spent at least an hour trying to solve a problem that didn't even exist.

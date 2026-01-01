@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Accidents Will Happen"
 date: 2019-09-21
-categories: archive
+categories: "2019"
 ---
 
 My other half left early this morning to begin dressing a truck to carry children from the school she works at in the town carnival. While she did that I wandered down to the post office to pick up some parcels. After delivering one of the parcels to her, I wandered home and put the kettle on - expecting to have perhaps an hour before wandering back towards town to watch the carnival parade.

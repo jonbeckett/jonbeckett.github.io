@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hannah Montana The Movie"
 date: 2009-05-10
-categories: archive
+categories: "2009"
 ---
 
 This afternoon, while playing the part of "Dad", I took our eldest daughter to see "Hannah Montana - The Movie".

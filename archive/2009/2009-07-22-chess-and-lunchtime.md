@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Chess And Lunchtime"
 date: 2009-07-22
-categories: archive
+categories: "2009"
 ---
 
 I played chess on the internet at lunchtime against some anonymous person somewhere else in the world. I would love to tell you who they were, and where they were from, but alas I cannot - I will never know more about them than their username. I requested a game, the board came to life, and my clock started ticking down.

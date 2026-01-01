@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Rather Busy Day"
 date: 2003-02-19
-categories: archive
+categories: "2003"
 ---
 
 Today was one of those days that started out quite quietly and got faster as the day went on.

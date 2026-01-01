@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Secret Loneliness"
 date: 2016-03-26
-categories: archive
+categories: "2016"
 ---
 
 While swimming against the tide for months or years on end, struggling to keep your head above waterto keep your boat pointing in vaguely the right direction, or at least a direction that won't cause too many stares from strangers, you lose sight of yourself.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rabbit Holes"
 date: 2018-05-20
-categories: archive
+categories: "2018"
 ---
 
 I have spent the greater part of this evening tinkering with a pretend computer that hasn't existed for thirty years. That's right - not even the real thing. I discovered a project some time ago on the internet called "Amibian", that turns a Raspberry Pi into a Commodore Amiga - a computer that went out of production over twenty years ago, and out of favour a good few years before that.

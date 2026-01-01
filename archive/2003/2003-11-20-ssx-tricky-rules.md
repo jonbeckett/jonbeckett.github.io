@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ssx Tricky Rules"
 date: 2003-11-20
-categories: archive
+categories: "2003"
 ---
 
 I have spent the last few evenings taking it in turns with W to play SSX Tricky on the PS2. I had never bought an extreme sport game before, and only really bought this one because W hasn't been well and I thought it would cheer her up a bit. What an amazing game it is!!

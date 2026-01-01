@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ready For Checkout"
 date: 2008-06-20
-categories: archive
+categories: "2008"
 ---
 
 It's Friday morning, my bags are packed, and I'm ready to get out of here. Just the small matter of the rest of the day sat in a classroom before heading home.

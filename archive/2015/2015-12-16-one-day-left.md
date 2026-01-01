@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Day Left"
 date: 2015-12-16
-categories: archive
+categories: "2015"
 ---
 
 On the occasion of spending my last evening away for the year, I went out for a meal at the pub next door to the hotel. The following is more-or-less a direct transcription of the rubbish I scribbled into my paper journal while sitting on my own at a little round table in the corner of the bar.

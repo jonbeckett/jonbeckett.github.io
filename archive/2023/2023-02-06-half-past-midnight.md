@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Half past midnight"
 date: 2023-02-06
-categories: archive
+categories: "2023"
 ---
 
 The weekend has almost gone. The clock ticked past midnight some time ago. The clothes dryer is still running in the kitchen. The dishwasher finished a few minutes ago. The washing machine still needs emptying. It never ends.

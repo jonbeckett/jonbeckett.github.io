@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Little by Little"
 date: 2023-06-10
-categories: archive
+categories: "2023"
 ---
 
 I woke up at 5am this morning. I fell out of a dream where I was worrying about running a software development course at a far flung location - but for some reason I had to take several concrete blocks with me. My dreams are spectacularly unhinged at the best of times.

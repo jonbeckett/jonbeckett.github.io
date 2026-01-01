@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Catching Up"
 date: 2019-01-26
-categories: archive
+categories: "2019"
 ---
 
 It's Sunday morning. Actually, it's nearer to Sunday lunchtime than Sunday morning, but we'll try not to think about that too much. The washing machine is rumbling away in the background, the clothes dryer thing (that looks like a giant cheeto) is filling the lounge with warm air, and I've spent the last half an hour reading blog posts, commenting, and remembering why I decided to leave WordPress.

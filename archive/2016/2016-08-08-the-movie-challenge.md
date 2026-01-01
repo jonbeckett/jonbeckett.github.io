@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Movie Challenge"
 date: 2016-08-08
-categories: archive
+categories: "2016"
 ---
 
 While talking about movies that various actors had been in last night, our eldest daughter roller her eyes and stated as dramatically as possible that all"old" movies - particularly musicals, which she holds a special place in her version of hell for - wererubbish.

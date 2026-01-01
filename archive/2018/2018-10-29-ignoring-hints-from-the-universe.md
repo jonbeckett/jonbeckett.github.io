@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ignoring Hints From The Universe"
 date: 2018-10-29
-categories: archive
+categories: "2018"
 ---
 
 I should really be taking the hint from the universe about attempting to complete NaNoWriMo this year. Life and work seem to be conspiring to warn me off it before it even starts. Take this evening for instance - I've only just sat down at the computer in the study to write anything, and it's already gone 10pm. If this keeps happening, I have no idea how I'll make it past sixteen hundred words each night.

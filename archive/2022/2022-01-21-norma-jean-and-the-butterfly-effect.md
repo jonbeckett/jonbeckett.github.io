@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Norma Jean And The Butterfly Effect"
 date: 2022-01-21
-categories: archive
+categories: "2022"
 ---
 
 *This year I'm taking part in "[Bloganuary](https://bloganuary.wordpress.com/)" - a series of writing prompts published throughout the month by [Mindy Postoff](https://bloganuary.wordpress.com/author/mindywoothemes/). Today's writing prompt is "If you could, what year would you time travel to, and why?"*

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Preparing For Departure"
 date: 2018-01-16
-categories: archive
+categories: "2018"
 ---
 
 My work in Germany has come to an end - for now. The only clothes left out in the hotel room are clean clothes for the morning. After breakfast in the hotel I will walk to the railway station, and catch the train to the airport. I'm half watching weather reports to find out if the elements might scupper my carefully prepared plans.

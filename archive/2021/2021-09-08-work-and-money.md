@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Work And Money"
 date: 2021-09-08
-categories: archive
+categories: "2021"
 ---
 
 As of this evening, my younger daughters have both entered the world of work. If you had told me this even a month ago, I wouldn't have believed you.

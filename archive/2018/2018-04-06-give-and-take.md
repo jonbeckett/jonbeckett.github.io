@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Give And Take"
 date: 2018-04-06
-categories: archive
+categories: "2018"
 ---
 
 This morning I gave my Chromebook to my other half, leaving me without a laptop. She had been soldiering on with a second-hand laptop from the place I work for the last couple of years, and it has slowly been falling to pieces. I don't think the hilariously bad battery life, or variously broken keys were the deciding factor - it was more a case of Windows taking several months to boot up, and churning ridiculously all the time - usually while trying to look something up quickly for the children. Faced with a Chromebook that just works, lasts all day away from a plug socket, and that boots from cold in seconds, it wasn't much of a decision to make.

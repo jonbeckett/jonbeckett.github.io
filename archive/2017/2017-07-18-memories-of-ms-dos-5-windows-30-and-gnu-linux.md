@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Memories Of Ms Dos 5 Windows 30 And Gnu Linux"
 date: 2017-07-18
-categories: archive
+categories: "2017"
 ---
 
 In early 1992 I saw Windows 3.0 for the first time. I had asked to use the laser printer of the IT department at West Oxfordshire College to print out a poem by Marilyn Monroe for an art project I was working on (yes, I studied art at college as well as computer science). The computer science lecturer I had come to know over previous two years ushered me excitedly into a supply room to show off the thing he and the other engineering lecturers had been playing with on the quiet. Sitting on an untidy desk with it's innards exposed was a large beige metal box - an IBM PC clone. Illuminating the room on it's hulking monitor was a brightly coloured screen with a number of icons listed across the bottom. One of them opened a word processor called "Write", which I used to type my poem.

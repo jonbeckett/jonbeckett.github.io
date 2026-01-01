@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nsfw Sony Releases New Stupid Piece Of Xtz"
 date: 2009-09-14
-categories: archive
+categories: "2009"
 ---
 
 You have been warnedthis is NOT SAFE FOR WORK. It is laden with expletives, and is completely and utterly unsuitable for minors to watch.

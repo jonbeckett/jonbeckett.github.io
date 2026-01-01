@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sixteen Thousand Steps"
 date: 2018-08-18
-categories: archive
+categories: "2018"
 ---
 
 Sixteen thousand steps. That's what the Apple Health app tells me, on the shiny new iPhone that's been in my pocket all day long. Nearly thirteen kilometres. That's about the size of a day out and about with my younger children. And you wonder why I'm not overweight, given that I typically sit at a desk all day long.

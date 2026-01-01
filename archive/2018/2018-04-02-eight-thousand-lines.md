@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Eight Thousand Lines"
 date: 2018-04-02
-categories: archive
+categories: "2018"
 ---
 
 I wrote code from the moment I sat down this morning, straight through until the moment I got up to come home. I stopped for a few minutes to make a coffee, but other than that - just pushed on through. I can't tell you what the code does, and even if I did, you might fall asleep mid-sentence. Don't worry - I get that a lot.

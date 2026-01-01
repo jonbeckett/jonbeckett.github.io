@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "From Brain To Internet The Blogging Journey"
 date: 2011-06-20
-categories: archive
+categories: "2011"
 ---
 
 I just posted this to Tumblr. I had thought about cross-posting the exact same words into here, but then thought that might be a bit lazy. I think too much.

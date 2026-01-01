@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Absence Explained"
 date: 2008-08-24
-categories: archive
+categories: "2008"
 ---
 
 If you have been wondering about my absence from the internet at large, wonder no longer. Last week we were on holiday at my parents in Cornwall, and this week our entire household has been struck by bad colds. I have been the last person to catch it, and am busy coping with huge temperatures as I type this.

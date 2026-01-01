@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running The Marlow 5"
 date: 2008-05-11
-categories: archive
+categories: "2008"
 ---
 
 I did ithad promised each other - half jokingly - that neither of us would train for the race this year. We bumped into each other a couple of weeks ago at our youngest's birthday party, and were both quite relieved that neither of us had still trained.

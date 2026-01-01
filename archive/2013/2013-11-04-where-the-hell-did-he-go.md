@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where The Hell Did He Go"
 date: 2013-11-04
-categories: archive
+categories: "2013"
 ---
 
 It occurred to me this morning (when somebody kindly let me know about the nuclear spam bomb I inadvertently set of off on Saturday afternoon) that I didn't really give any kind of explanation for my departure from WordPress. Given that I should at present be doing something far more important than writing this, but infinitely more boring, I thought it might be useful to spend a few minutes explaining.

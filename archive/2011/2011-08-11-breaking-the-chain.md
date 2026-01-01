@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Breaking The Chain"
 date: 2011-08-11
-categories: archive
+categories: "2011"
 ---
 
 Have you ever heard of the term "six degrees of seperation"? It postulates that everybody on earth is connected somehow or other through no more than six "connections" through other people.

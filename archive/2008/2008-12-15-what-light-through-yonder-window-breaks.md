@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Light Through Yonder Window Breaks"
 date: 2008-12-15
-categories: archive
+categories: "2008"
 ---
 
 What light through yonder window breaks ?

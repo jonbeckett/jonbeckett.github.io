@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Forgot Nablopomo Nanowrimo And Movember"
 date: 2013-11-06
-categories: archive
+categories: "2013"
 ---
 
 I completely forgot NaBloPoMo ("National Blog Posting Month") was happening. I'm SUCH an idiot, it's untrue. I just checked back through the last few posts here to see if I have something at least posted each day, but of course I have notbecause I was "off the radar" for much of last week. So this year I not only wimped out of NaNoWriMo, but NaBloPoMo too. Go me!I suppose technically speaking, I could still take part in NaNoWriMoI would just have to write more than 1500 words each day to catch up. It's easily do-able, but I just don't get enough free time to play silly games like that (for those who have no idea, NaNoWriMo is the annual challenge to write a 50,000 word novel in the calendar month of November). The last time I had a crack at it was about four years ago, and I got about a third of the way in before life, work, and the universe in general decided to end my challenge.

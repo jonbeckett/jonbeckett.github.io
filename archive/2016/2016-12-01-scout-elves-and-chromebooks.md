@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Scout Elves And Chromebooks"
 date: 2016-12-01
-categories: archive
+categories: "2016"
 ---
 
 When the children wake up tomorrow morning they will discover we have a visitor perched in the upstairs landing window. Our scout elf, "Grace", has arrived via hot air balloon from the North Pole. She has attached a grappling hook made from candy canes to the dirty washing basket, and is balanced precariously in the gondola, waving towards the children's bedrooms.

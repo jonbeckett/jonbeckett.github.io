@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Busy Busy"
 date: 2004-10-22
-categories: archive
+categories: "2004"
 ---
 
 It's the end of another week and I don't appear to have written anything in my blog for several days... I guess that gives an indication to how hectic the last few days have been.

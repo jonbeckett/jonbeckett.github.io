@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Find Me Some Christmas Spirit"
 date: 2007-12-16
-categories: archive
+categories: "2007"
 ---
 
 For some reason, Christmas isn't happening in our house. Neither of us have any will to do anything remotely connected with Christmas. We're wondering if it's because all of our attention, effort, money and thought has been directed into the adoption journey over the last few months - which will all happen of course after Christmas.

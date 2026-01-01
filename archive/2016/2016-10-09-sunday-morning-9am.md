@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning 9Am"
 date: 2016-10-09
-categories: archive
+categories: "2016"
 ---
 
 The clock has just ticked past 9am on Sunday morning. I have been up for about an hour. I've had a shower, got dressed, had some breakfast, a coffee, loaded the washing machine and dryer with their first loads of the day, and cleared the washing up.

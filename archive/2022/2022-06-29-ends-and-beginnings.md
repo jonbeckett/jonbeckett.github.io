@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ends And Beginnings"
 date: 2022-06-29
-categories: archive
+categories: "2022"
 ---
 
 My middle daughter officially finished college yesterday.

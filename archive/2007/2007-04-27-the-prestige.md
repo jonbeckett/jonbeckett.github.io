@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Prestige"
 date: 2007-04-27
-categories: archive
+categories: "2007"
 ---
 
 A few evenings ago, W and I sat down to watch a movie I bought several weeks ago - "The Prestige".

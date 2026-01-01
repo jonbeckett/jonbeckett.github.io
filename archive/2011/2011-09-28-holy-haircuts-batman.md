@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Holy Haircuts Batman"
 date: 2011-09-28
-categories: archive
+categories: "2011"
 ---
 
 After the usual struggle to get the children up and out of the house this morning, and histrionics from Little Miss Seven about her having a cold (you would have thought she was the only person that has ever had a cold in the history of humanity), we set out to their respective schools.

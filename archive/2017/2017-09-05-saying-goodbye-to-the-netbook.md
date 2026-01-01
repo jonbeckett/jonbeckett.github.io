@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saying Goodbye To The Netbook"
 date: 2017-09-05
-categories: archive
+categories: "2017"
 ---
 
 This evening I erased the hard hard-drive on the old netbook computer that's been kicking around the house for the last few years, and gave it to my other half to donate to charity. She works at a school, and a charity regularly visits to take hardware away with them for various projects.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Escaping The Slings And Arrows"
 date: 2014-09-22
-categories: archive
+categories: "2014"
 ---
 
 Today was a day to forget. A day where you run like mad, and get nowhere. A day where you turn every corner, chase down every dark alleyand you always end up at the place you starteda waking nightmare of sorts. Therefore the blog becomes an escape this evening. Not a place to dissect the daymore a place to daydreamto divert.

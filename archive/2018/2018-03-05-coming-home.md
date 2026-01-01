@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coming Home"
 date: 2018-03-05
-categories: archive
+categories: "2018"
 ---
 
 After falling into bed a little after 10am last night, I woke with a start at 3am this morning. I'm not sure what woke me up, but I was unceremoniously yanked from perhaps the most lucid dream I have had in years. I was in America, walking around town with a group of strangers - well, all except one, who I know through her blog. We wandered between houses and bars, laughing and joking throughout an evening. Somehow we both knew we were more than just friends, but nothing was said - and nobody else seemed to know. It was odd. And then I was awake, looking at the clock, and wishing I could go back to the dream again.

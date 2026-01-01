@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Out Of The Loop"
 date: 2012-04-28
-categories: archive
+categories: "2012"
 ---
 
 I never thought I would say this, but I've kind of fallen off the blogging horse. I know it will be temporary, transitory, or any of those other long words people use to navel gaze over their own behaviour, but I don't mind admitting that it feels tremendously unfamiliar.

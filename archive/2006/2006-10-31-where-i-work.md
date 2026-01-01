@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where I Work"
 date: 2006-10-31
-categories: archive
+categories: "2006"
 ---
 
 On the way to work this morning I took my camera, and stitched several photos together. Here's the view of the estate (I have no idea if this will work or not - you should get a scrollable box if I get the HTML right...)

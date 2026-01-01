@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Annual Wardrobe Renewal"
 date: 2007-04-24
-categories: archive
+categories: "2007"
 ---
 
 After talking to W this afternoon it looks very much like I will be heading out over the next couple of weeks to do my spectacular wardobe renewal. Although I have titled this post "The Annual", this is probable more accurately bi or tri annual... where I throw out a lot of worn out clothes, and buy a whole stack of new clothes - usually with a style change on the way.

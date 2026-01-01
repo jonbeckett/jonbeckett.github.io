@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Kung Fu Panda"
 date: 2008-08-02
-categories: archive
+categories: "2008"
 ---
 
 I took the elder two kids to see "Kung Fu Panda" this morning at the cinema. For our 4 year old, it was her first ever visit. Never has such a big grin been seen for so long plastered all over her face.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Trains Trains And More Trains"
 date: 2016-12-09
-categories: archive
+categories: "2016"
 ---
 
 I boarded the train from Barnsley to Sheffield at 12:40pm, and watched the grey and gloomy world pass by outside the window as we trundled between railway stations along the way. The railway car bumped it's way along, rocking this way and that as it hit bumps in the track - and not without reason. It turns out parts of the northern rail network are still using old rolling stock from the days of British Rail - these particular cars were converted from coach bodies many years ago, and pressed into service as trains. Although England is famous for the industrial revolution, it should also be famous for cutting corners, and lashing things together to "make do".

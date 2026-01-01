@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Celebrity Weakest Link"
 date: 2006-06-10
-categories: archive
+categories: "2006"
 ---
 
 We have just been watching "Celebrity Weakest Link" on the television, and laughing our socks off at the lack of knowledge they seem to have.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pretend Computers And Holidays"
 date: 2018-02-07
-categories: archive
+categories: "2018"
 ---
 
 I suppose technically this is being written on Friday morning. I thought I should write something, given that I didn't post anything yesterday - breaking a streak that probably goes back to some point in November or December last year. I'm absolutely fine - just busy, and distracted by the ongoing backup saga at home.

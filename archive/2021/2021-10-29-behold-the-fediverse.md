@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Behold The Fediverse"
 date: 2021-10-29
-categories: archive
+categories: "2021"
 ---
 
 I'm trying to think of something clever to write about diversification. I'm not coming up with much. Perhaps if I take a looked at a definition of fediverse it might help.

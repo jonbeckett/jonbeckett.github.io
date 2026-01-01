@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Addicted To The World"
 date: 2008-05-12
-categories: archive
+categories: "2008"
 ---
 
 If you, like me, find yourself reading blogs in [insert RSS reader here], looking at friend's photos on Flickr, following Facebook, and messing around with Twitter and Pownce inbetween doing things you should be doing, you might be interested in FriendFeed.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Much To Say"
 date: 2017-05-15
-categories: archive
+categories: "2017"
 ---
 
 I don't seem to have much to volunteer to the internet at the moment. There are only so many ways you can tell the story "cycled to work, worked, cycled home, did chores".

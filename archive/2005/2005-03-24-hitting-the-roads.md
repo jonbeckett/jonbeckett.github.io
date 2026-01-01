@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hitting The Roads"
 date: 2005-03-24
-categories: archive
+categories: "2005"
 ---
 
 Myself and a good friend started our training in earnest for the Marlow 5 running race in May last night - we went out for a gentle run around town just to figure out how unfit we are.

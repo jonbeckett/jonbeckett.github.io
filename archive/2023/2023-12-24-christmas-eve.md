@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas Eve"
 date: 2023-12-24
-categories: archive
+categories: "2023"
 ---
 
 The clock is ticking towards 11pm on Christmas Eve. It feels weird this year. Christmas is changing. I guess all families go through this - as your children grow up. For years you are their world - and Christmas revolves around them - but then they grow up, and your little family is no longer the center of their universe.

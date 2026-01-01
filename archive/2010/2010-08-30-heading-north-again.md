@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heading North Again"
 date: 2010-08-30
-categories: archive
+categories: "2010"
 ---
 
 It seems like a long time since I last wrote anything here. Time for a catchup perhaps?

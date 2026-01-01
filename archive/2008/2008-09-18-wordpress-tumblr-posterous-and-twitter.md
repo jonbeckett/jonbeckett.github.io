@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wordpress Tumblr Posterous And Twitter"
 date: 2008-09-18
-categories: archive
+categories: "2008"
 ---
 
 Being the inquisitive sort of chap that I am, I often find myself trying out new things on the internet, and wondering how I might make use of them. While this blog, the "Enormous Waste of Webspace" might be termed my "blog", I have recently been toying with both Tumblr and Posterous.

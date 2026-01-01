@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Week Of Hotel Life Beckons"
 date: 2009-11-22
-categories: archive
+categories: "2009"
 ---
 
 Sunday night is ticking down, my bag is packed, and I'm more or less ready to head out again. Following a late night of coding on Friday when I was seemingly able to solve anything and everything, I am actually looking forward to the work this week. I'm still not looking forward to being away though.

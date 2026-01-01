@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Picture Paints A Thousand Words"
 date: 2014-11-04
-categories: archive
+categories: "2014"
 ---
 
 I've been wondering about including photos in my written posts. I swore them off for some time, because once you start including photos in posts, it sets a precedent (or at least, it does in my mind). It's probably my own insanity - wanting things to be "just so". I'm thinking that once I start attaching photos to posts, I will want to continue doing so, and then I'll have random posts about nothing in particular, and won't be able to decide on a photo to go with it.

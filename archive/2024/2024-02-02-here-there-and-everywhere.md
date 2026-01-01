@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Here, There and Everywhere"
 date: 2024-02-02
-categories: archive
+categories: "2024"
 ---
 
 I logged into Wordpress at lunchtime, expecting a writing prompt to appear - only it didn't, because it's not January any more. That didn't stop a piece of the interface from sitting there and not populating with content though - because obviously Automattic suffer from the same problems every other organisation in the world does - one hand not having a clue what the other is doing.

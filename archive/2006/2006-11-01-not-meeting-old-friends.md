@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Meeting Old Friends"
 date: 2006-11-01
-categories: archive
+categories: "2006"
 ---
 
 Today was the first day of three commuting into London to work on-site on a client project. That might not seem like such a big deal at first glance, but when it requires over a two hour journey to get there, and longer on the way home, you get some idea why I might call it a big deal.

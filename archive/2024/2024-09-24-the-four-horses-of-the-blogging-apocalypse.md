@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The four horses of the blogging apocalypse"
 date: 2024-09-24
-categories: archive
+categories: "2024"
 ---
 
 After experimenting with cross-posting to various platforms over the last few weeks, I thought it might not be amiss to scribble down a few thoughts about the platforms I've been cross-posting to, should anybody else consider doing something similar.

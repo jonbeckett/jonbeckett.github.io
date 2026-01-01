@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "From Ubuntu To Debian And Back Again"
 date: 2014-03-10
-categories: archive
+categories: "2014"
 ---
 
 I'm sure the title of this post on it's own will dissuade most people from immediately skipping past it (sarcasm fully intended)and given the stupendous numbers that regularly stop by my blog, at least we're giving the WordPress servers a rest from the immense strain my posts cause.

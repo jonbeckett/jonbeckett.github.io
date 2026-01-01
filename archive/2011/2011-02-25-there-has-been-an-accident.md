@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "There Has Been An Accident"
 date: 2011-02-25
-categories: archive
+categories: "2011"
 ---
 
 This morning started quietly. The clock radio cranked itself into life at 7am, the sun filled the bedroom with soft light, and the silhouette of a little person appeared in the doorway.

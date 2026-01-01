@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Taking A Stand"
 date: 2013-07-27
-categories: archive
+categories: "2013"
 ---
 
 I keep reading postsnearly one a day at the momentfrom someone or other stating their "rules" for participation in either a particular social network, or an instant messaging application.

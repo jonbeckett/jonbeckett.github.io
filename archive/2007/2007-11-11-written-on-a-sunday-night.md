@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Written On A Sunday Night"
 date: 2007-11-11
-categories: archive
+categories: "2007"
 ---
 
 Winter has announced it's imminent approach in recent days. Leaves have now fallen from trees, and a silent cold darkness races through late afternoon to blanket the evenings.

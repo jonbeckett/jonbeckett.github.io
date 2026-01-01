@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Living On The Edge"
 date: 2017-11-17
-categories: archive
+categories: "2017"
 ---
 
 You might say the title of this post is every so slightly sarcastic. We just spent the greater part of the evening sitting in the gymnasium of a school playing bingo. A fundraiser to help purchase books, stationary, and whatever else the profit margin from pens, chocolate bars, and fizzy drinks might raise.

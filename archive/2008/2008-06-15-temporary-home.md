@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Temporary Home"
 date: 2008-06-15
-categories: archive
+categories: "2008"
 ---
 
 This is my home for the next several nights. It comes complete with a bed, a window looking out over a greenhouse full of flowers, a nice bath, a wardrobe, a television, and a tray hidden in the desk with cups and a kettle - which also has a sewing kit on it (just to add to the bizarre arrangement of the room).

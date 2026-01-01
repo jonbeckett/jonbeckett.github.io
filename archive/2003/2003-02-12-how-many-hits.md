@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "How Many Hits"
 date: 2003-02-12
-categories: archive
+categories: "2003"
 ---
 
 Since opening the source code for this noddy little bunch of scripts last night, I've been somewhat taken aback by the number of apparent visitors into the page.

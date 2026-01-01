@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Rugby"
 date: 2016-01-31
-categories: archive
+categories: "2016"
 ---
 
 Today I will be mostly sitting in a car with a stranger, to get a lift to a far-flung rugby match that our middle daughter is playing in. Three quarters of an hour each way to stand in the rain, watching two teams scraped together across two counties from girls that used to play with boys teams, but are not allowed to any more.

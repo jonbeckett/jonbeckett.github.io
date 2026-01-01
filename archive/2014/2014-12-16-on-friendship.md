@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On Friendship"
 date: 2014-12-16
-categories: archive
+categories: "2014"
 ---
 
 Through many times in my life I have struggled to find the place where being a good person ends, and friendship begins - and where friendship ends and love begins.

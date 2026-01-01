@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Showing The Children The Stars"
 date: 2009-11-03
-categories: archive
+categories: "2009"
 ---
 
 While cycling home from work this evening it struck me how clear the sky was; signalling not only the coming of winter, but also of opportunities to get the telescope out once more (or at least, to get the telescope out at a sensible hour).

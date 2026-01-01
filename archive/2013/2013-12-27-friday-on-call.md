@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday On Call"
 date: 2013-12-27
-categories: archive
+categories: "2013"
 ---
 
 Today I am "on call" for work. I can't complain, because I requested the entire Christmas period offtwo weeksand have only ended up having to cover support calls for one day from home. I brought my work laptop home with me, but have so far not had to power it up. Having said that, I'm now expecting a serious "system down" to appear in my in-box at any moment.

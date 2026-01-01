@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Surviving The Webinar"
 date: 2014-11-24
-categories: archive
+categories: "2014"
 ---
 
 Today was the day. The day of the webinar. The day where I stayed homefor the half-decent internet connectiondonned a ridiculous looking headset with microphone boom, and presented to an unknown audience for an hour.

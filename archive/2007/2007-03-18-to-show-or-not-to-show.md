@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "To Show Or Not To Show"
 date: 2007-03-18
-categories: archive
+categories: "2007"
 ---
 
 Simple question. What works for you? Seeing more, or seeing less?

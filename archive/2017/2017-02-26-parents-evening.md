@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Parents Evening"
 date: 2017-02-26
-categories: archive
+categories: "2017"
 ---
 
 At 2:45pm this afternoon an alarm went off in Microsoft Outlook on my work computer, and reminded me that I needed to race home soon to meet my other half, and attend our the first parents evening at the school our youngest attends. Woah - that's was a sentence and a half.

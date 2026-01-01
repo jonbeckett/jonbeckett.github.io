@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Post"
 date: 2012-12-29
-categories: archive
+categories: "2012"
 ---
 
 This is going to be interesting... my first post from the Chromebook. It arrived at 6pm this afternoon just as I was giving up hope of seeing it today. The parcel tracking within the Amazon website reported nothing past midnight last night when it arrived at the local delivery hub (about 30 miles away). Just as I resigned myself to a repeat of the missing XBox 360 debacle and began helping with dinner, it arrived at the door.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mornings Arent Supposed To Happen Like This"
 date: 2010-09-16
-categories: archive
+categories: "2010"
 ---
 
 At 5:45am the younger children woke up, and decided it was a fine time to get up and switch their bedroom light on - this despite the fact that we recently installed a children's alarm clock that shows a sleeping rabbit - you're not supposed to get up until the rabbit wakes up (signalled by birds singing, a cockerel crowing, etc).

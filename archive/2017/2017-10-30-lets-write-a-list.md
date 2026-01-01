@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lets Write A List"
 date: 2017-10-30
-categories: archive
+categories: "2017"
 ---
 
 Today's writing exercise from the totally fabricated faculty of Blogging University is a list. It could be any list, but I'm guessing a list of goals, inspirations, or past fails is going to be far more interesting than a shopping list (although posting something that meta is kind of enticing).

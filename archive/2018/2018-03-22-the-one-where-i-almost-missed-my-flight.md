@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Almost Missed My Flight"
 date: 2018-03-22
-categories: archive
+categories: "2018"
 ---
 
 After waking up at 5am, 6am, and 7am this morning, I finally scraped myself out of the hotel bed, stumbled into the shower, and then set about folding clothes into my bag. Going home at last. After wandering across the room in search of underwear, I realised the crane on the construction site across the way was pointing directly at the window - no doubt gifting the driver a rather unexpected view of a very naked, very sleepy englishman.

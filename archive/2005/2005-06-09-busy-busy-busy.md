@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Busy Busy"
 date: 2005-06-09
-categories: archive
+categories: "2005"
 ---
 
 I have finally hit a patch of calm at work, after several days working on all kinds of thingsmost of them not involving development.

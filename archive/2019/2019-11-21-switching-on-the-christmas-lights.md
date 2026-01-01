@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Switching On The Christmas Lights"
 date: 2019-11-21
-categories: archive
+categories: "2019"
 ---
 
 After finishing work early this evening I wandered into town with Miss 19, met up with my other half, and joined the growing crowd in the high street awaiting the annual "switching on of the Christmas lights".

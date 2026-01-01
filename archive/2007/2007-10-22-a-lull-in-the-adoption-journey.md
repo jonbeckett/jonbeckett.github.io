@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Lull In The Adoption Journey"
 date: 2007-10-22
-categories: archive
+categories: "2007"
 ---
 
 We find ourselves becalmed at the moment.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Quiet Sunday"
 date: 2005-08-14
-categories: archive
+categories: "2005"
 ---
 
 It's coming up to lunchtime on Sunday and we're having a quiet day at home (isn't it great sometimes when you get to just have a chilled out day at the weekend to mess around and do what you want).

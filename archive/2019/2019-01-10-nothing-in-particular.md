@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nothing In Particular"
 date: 2019-01-10
-categories: archive
+categories: "2019"
 ---
 
 We made it to Friday again! Do we get cake, or party poppers or something? It feels like we should.

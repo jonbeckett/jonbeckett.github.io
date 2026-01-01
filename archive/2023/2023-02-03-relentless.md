@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Relentless"
 date: 2023-02-03
-categories: archive
+categories: "2023"
 ---
 
 This week has been utterly relentless so far. No one thing has stood out - each day has just felt like an endless train of one thing after another. It doesn't help that I'm still recovering from whatever walloped me a couple of weeks ago (I suspect covid, but haven't tested). Afternoons are the worst - there appears to be an energy cliff-face of sorts that I unfailingly blunder over every day.

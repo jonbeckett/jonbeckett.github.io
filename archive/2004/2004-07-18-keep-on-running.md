@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Keep On Running"
 date: 2004-07-18
-categories: archive
+categories: "2004"
 ---
 
 I went for my second training run of the week this morning - another 5K under my belt in preparation for the race I'm running on Thursday night.

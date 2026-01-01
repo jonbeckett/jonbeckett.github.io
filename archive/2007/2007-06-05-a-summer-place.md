@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Summer Place"
 date: 2007-06-05
-categories: archive
+categories: "2007"
 ---
 
 While out having a wander in the nearby streets at lunchtime, I happened upon perhaps the only green area for miles in central London, and while sat eating my lunch decided it might be an idea to take photos for your interest and amusement (click on them to see the originals in Flickr)

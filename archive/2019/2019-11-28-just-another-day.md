@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Just Another Day"
 date: 2019-11-28
-categories: archive
+categories: "2019"
 ---
 
 While many people I know on the other side of the planet have the day off today - to celebrate "Thanksgiving", it's just another day on this side of the planet. Business as usual. More of the same.

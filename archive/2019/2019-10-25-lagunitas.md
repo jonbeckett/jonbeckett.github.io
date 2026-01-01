@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lagunitas"
 date: 2019-10-25
-categories: archive
+categories: "2019"
 ---
 
 We went out for a few drinks with co-workers last night - to a bar in town that was refurbished some months ago. It's worth noting how rarely we make it out with friends any more - mostly because we can't afford it.

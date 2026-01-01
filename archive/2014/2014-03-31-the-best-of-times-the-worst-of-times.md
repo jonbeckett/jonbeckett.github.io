@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Best Of Times The Worst Of Times"
 date: 2014-03-31
-categories: archive
+categories: "2014"
 ---
 
 The saga that this weekend became began late on Friday night when I arrived home from a 5 hour train journey to find the kitchen trashed, and almost every room in the house strewn with all manner of detritus. I dumped my bags, and began clearing the decks immediatelykitchen first, then bathroom, living room, and so on. At first I was furious, but as time passed the act of re-establishing order became quite therapeutic.

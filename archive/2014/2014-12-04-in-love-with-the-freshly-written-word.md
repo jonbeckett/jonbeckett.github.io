@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Love With The Freshly Written Word"
 date: 2014-12-04
-categories: archive
+categories: "2014"
 ---
 
 There's something about blogging. When I say that, I'm not talking about the niche lunatics recycling content through their fashion, food, or travel blogsI'm talking about those of us who empty our head into the keyboard every few days. We share snapshots of daily lifeour memories, thoughts, dreams, hopes, and ideasand invite the unknown passing crowd to know us perhaps better than those that surround us in the "real world".

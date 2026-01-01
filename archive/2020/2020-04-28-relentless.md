@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Relentless"
 date: 2020-04-28
-categories: archive
+categories: "2020"
 ---
 
 The rest of the household have gone to bed, and I find myself alone for a little while. Alone in the dark with my thoughts. A little while to untangle and unload.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Making Decisions"
 date: 2004-07-05
-categories: archive
+categories: "2004"
 ---
 
 While driving back from W's parents last night I decided that my "further involvement" in the web might take the form of posting more often to my Blog... maybe more than once a day for a while. See if it generates a decent level of traffic or not.

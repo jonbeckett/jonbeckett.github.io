@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saying Hello To The Neighbours"
 date: 2015-01-07
-categories: archive
+categories: "2015"
 ---
 
 Rather than follow today's instructions for the Blogging 101 course to the letter, I'm going to ramble on a bit about some of the people I have followed over the years - some of whom still write, and some who are no longer with us. As soon as I decided to take part in the 101 event, I tracked the 101 tag and started stalking following lots of fellow idiotsanyway.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Giving The Game Away"
 date: 2016-12-31
-categories: archive
+categories: "2016"
 ---
 
 Yesterday afternoon I found myself talking to a distant friend on the internet about the manga doodles in my notebook (see yesterday's post if you have not already seen it), and flippantly suggested that I should draw a comic version of her - the continuation of a long standing joke between us that she is actually Superman's cousin, "Powergirl".

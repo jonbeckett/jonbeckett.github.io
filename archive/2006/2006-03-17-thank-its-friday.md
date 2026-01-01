@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thank Its Friday"
 date: 2006-03-17
-categories: archive
+categories: "2006"
 ---
 
 I'm just having a break from my work for a few minutes, so thought I would spend some time posting an entry to my somewhat neglected (of late) blog.

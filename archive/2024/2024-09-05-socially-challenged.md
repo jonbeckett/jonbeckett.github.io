@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Socially challenged"
 date: 2024-09-05
-categories: archive
+categories: "2024"
 ---
 
 Rather than trudge through the rain this lunchtime to a nearby store that sells marvellous sausage rolls, I warmed up leftovers from the fridge, and plan to spend the rest of lunchtime emptying my head into the keyboard. A rare treat.

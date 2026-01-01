@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Remains Of The Weekend"
 date: 2018-11-24
-categories: archive
+categories: "2018"
 ---
 
 It's 4:30pm on Sunday afternoon, and you find me sitting in the junk room, emptying my head into the keyboard of the old computer. It's been making strange noises recently - I'm half-expecting it to stop working entirely soon. It's already dark and cold outside - the nights are drawing in quickly.

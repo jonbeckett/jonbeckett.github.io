@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Anarchic Thoughts On Sunday Night"
 date: 2011-09-11
-categories: archive
+categories: "2011"
 ---
 
 The clock is racing towards midnight once again, and I find myself hidden in the study, half working on freelance projects, and half distracted by the continual stream of detritus flowing from those I know, and those I don't from all corners of the world.The soundtrack from "The Social Network" is gently filling the room.

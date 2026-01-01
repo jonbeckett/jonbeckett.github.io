@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Somebody Stop The World"
 date: 2009-01-03
-categories: archive
+categories: "2009"
 ---
 
 It's Saturday morning, and I'm knackered. I've been up since 7:30, and all I did so far was wash up, and clean the kitchen up.

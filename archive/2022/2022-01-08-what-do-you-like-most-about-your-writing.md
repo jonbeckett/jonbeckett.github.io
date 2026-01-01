@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Do You Like Most About Your Writing "
 date: 2022-01-08
-categories: archive
+categories: "2022"
 ---
 
 *This year I'm taking part in "[Bloganuary](https://bloganuary.wordpress.com/)" - a series of writing prompts published throughout the month by [Mindy Postoff](https://bloganuary.wordpress.com/author/mindywoothemes/). Today's writing prompt is "What do you like most about your writing ?".*

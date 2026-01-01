@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "End Over End"
 date: 2019-08-09
-categories: archive
+categories: "2019"
 ---
 
 I'm sitting in the dark of the junk room in front of the old PC, tapping away at the keyboard in a text editor. It's Friday night. While the imagined rest of the world are heading out for a night of drinks, food and fun, I haven't shaved since Wednesday. I don't even know where any clean clothes might be.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Day Closer"
 date: 2021-12-22
-categories: archive
+categories: "2021"
 ---
 
 One more day down. One day closer to Christmas. Things are starting to slow down at work, although a continual stream of meetings has succeeded in filling each day so far. More by luck than judgement my bullet journal has perhaps 10 pages left empty.

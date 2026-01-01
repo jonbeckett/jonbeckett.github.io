@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its Been A Long Week"
 date: 2015-04-24
-categories: archive
+categories: "2015"
 ---
 
 Super tired. Heading to bed in a few minutes unless the internet materialises a rabbit hole in front of me, and I look up and discover it's 2am. I've done that twice this week already.

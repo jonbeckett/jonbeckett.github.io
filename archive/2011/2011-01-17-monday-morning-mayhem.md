@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Morning Mayhem"
 date: 2011-01-17
-categories: archive
+categories: "2011"
 ---
 
 Waking up and dragging myself out of bed this morning was hard. I suspect it might have had somethingto do with yesterday - where the greater part of the day was spent either sat in the playpark, washing up, tidying up, putting kids through the bath, or listening to bedtime stories.

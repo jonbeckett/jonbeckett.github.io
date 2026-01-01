@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "New Beginnings"
 date: 2023-09-06
-categories: archive
+categories: "2023"
 ---
 
 I ran again this morning. The sixth "5K" in a row. Thirty kilometres down. Seventy to go. This morning was pretty tough. Every morning seems to be tough at the moment - I guess that's what happens when you run *every day*.

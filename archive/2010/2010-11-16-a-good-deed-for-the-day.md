@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Good Deed For The Day"
 date: 2010-11-16
-categories: archive
+categories: "2010"
 ---
 
 Quite by chance this morning I decided to get my hair cut. Knowing that the place I normally go wouldn't be open until at least 9am, I completed the school run with W. Normally I would have made my exit at the eldest's school, but today I continued on to the younger children's school.

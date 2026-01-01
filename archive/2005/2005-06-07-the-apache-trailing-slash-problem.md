@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Apache Trailing Slash Problem"
 date: 2005-06-07
-categories: archive
+categories: "2005"
 ---
 
 I just spent the best part of an hour trying to solve the infamous "Apache Trailing Slash Problem", and then found salvation in an O'Reilly Book excert that I turned up on Google...

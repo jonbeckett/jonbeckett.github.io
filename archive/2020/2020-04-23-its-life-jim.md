@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its Life Jim"
 date: 2020-04-23
-categories: archive
+categories: "2020"
 ---
 
 It's been a day. After pulling the design together for a future project this morning, I wandered into the garden to find my other half sitting in a camping chair outside, hiding from the children, who were arguing about chores.

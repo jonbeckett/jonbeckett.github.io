@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Ignorati"
 date: 2008-10-29
-categories: archive
+categories: "2008"
 ---
 
 I mentioned the term "Ignorati" in a post a few days ago - an inspired term to describe the nutters I typically have to put up with while commuting into and out of London.

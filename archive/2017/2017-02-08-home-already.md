@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Home Already "
 date: 2017-02-08
-categories: archive
+categories: "2017"
 ---
 
 I was supposed to be at the far end of the country all week. Given that I have been sick for the last two weeks, and was gradually getting worse, leaving in the first place was probably amistake.

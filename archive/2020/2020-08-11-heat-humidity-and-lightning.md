@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heat Humidity And Lightning"
 date: 2020-08-11
-categories: archive
+categories: "2020"
 ---
 
 I just looked on the weather app built into Windows 10 - because of course I can't just look out the window. In the interests of accuracy, it's 11pm and the temperature is still nearly 30C. Humidity is above 50%. Lightning keeps rolling across the sky, but no thunder yet. I have a fan blowing into the room, but all it's really doing is replicating a fan oven - making sure I cook evenly. I also have an incense burner filling the room with smoke, mostly to try and persuade flies that they will die if they come anywhere near me - the smell is really a secondary requirement.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wondering About Nablopomo 2007"
 date: 2007-09-23
-categories: archive
+categories: "2007"
 ---
 
 During November last year I took part in "National Blog Posting Month" (NaBloPoMo), and had great fun doing so. For those wondering what on earth I am on about, the basic challenge of NaBloPoMo was to write at least one blog post each day throughout the calendar month of November.

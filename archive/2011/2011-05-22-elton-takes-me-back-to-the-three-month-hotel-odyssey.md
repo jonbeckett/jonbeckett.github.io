@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Elton Takes Me Back To The Three Month Hotel Odyssey"
 date: 2011-05-22
-categories: archive
+categories: "2011"
 ---
 
 [youtube=https://www.youtube.com/watch?v=KsC3g3N_qUQ&w=425&h=349]In late 2009 I spent the best part of three months living in a variety of hotels in central Englandalthough chiefly in the Hilton, all expenses paid by a commercial contract.

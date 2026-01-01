@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I'm still here"
 date: 2024-08-04
-categories: archive
+categories: "2024"
 ---
 
 Somehow a week has passed since I last wrote in the blog. I'm not sure how or why. I used to write almost every day -- sharing thoughts, ideas and whatever else. These days there always seems to be something more important first -- and then something else, and something else.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Girls Like Kylie Thank The Maker"
 date: 2008-02-29
-categories: archive
+categories: "2008"
 ---
 
 While scratching around for some music to put on for the girls to dance to earlier, I had a brainwave. They had never seen Kylie Minogue before. They have now. The cheer of the audience at the start of the concert caused very excitable squeals and clapping from our youngest - followed by a good hour of frenetic dancing around the room to each of Kylie's records.

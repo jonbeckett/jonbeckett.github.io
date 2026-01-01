@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Long Time Ago In A Galaxy Far Far Away"
 date: 2016-12-23
-categories: archive
+categories: "2016"
 ---
 
 For the past several years my other half has organised a "Christmas Surprise" for the entire family - a day out somewhere once we all finish school and work, to mark the beginning of the Christmas holidays.

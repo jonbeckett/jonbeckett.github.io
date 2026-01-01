@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The National Museum and Chimney Cake"
 date: 2024-03-23
-categories: archive
+categories: "2024"
 ---
 
 After taking quite some time to scrape ourselves out of bed this morning (or rather, after it took my other half quite some time to scrape herself out of bed this morning), we walked across the centre of Prague -- through Wencleslas Square -- to the National Museum.

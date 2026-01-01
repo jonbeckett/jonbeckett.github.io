@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Start Of Something Marvellously Idiotic"
 date: 2013-06-27
-categories: archive
+categories: "2013"
 ---
 
 After posting a scruffy cartoon of myself on Tumblr the other day, a couple of friends around the internet banded together into an army of two or three, and eagerly asked if this might be the beginning of an online comic strip.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Late Oclock"
 date: 2022-04-01
-categories: archive
+categories: "2022"
 ---
 
 I cooked dinner for the rest of the family this evening. Spaghetti Bolognese - one of the "make something quick that everybody will eat" meals that most families have up their sleeve at the end of a long week.

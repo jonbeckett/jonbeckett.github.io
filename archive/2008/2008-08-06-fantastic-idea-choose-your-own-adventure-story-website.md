@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fantastic Idea Choose Your Own Adventure Story Website"
 date: 2008-08-06
-categories: archive
+categories: "2008"
 ---
 
 While sitting down eating dinner at a chinese restaurant a couple of years ago with friends, everybody was trying to talk me into making a web based version of the old "Choose Your Own Adventure" story books.

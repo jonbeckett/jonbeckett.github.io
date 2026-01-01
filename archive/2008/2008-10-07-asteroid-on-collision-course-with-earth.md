@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Asteroid On Collision Course With Earth"
 date: 2008-10-07
-categories: archive
+categories: "2008"
 ---
 
 Just read over at Slashdot...

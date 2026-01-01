@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Build A Better Blogroll"
 date: 2015-01-20
-categories: archive
+categories: "2015"
 ---
 
 Today's exercise for the WordPress Blogging 101 course asks us to share a few links to the sites we love. As is usual, I couldn't bring myself to do the exercise in anything like a conventional manner - I have created a Blogroll page, listingall of the people I am following at WordPress so far.

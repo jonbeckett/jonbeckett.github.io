@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Almost Midnight"
 date: 2020-05-13
-categories: archive
+categories: "2020"
 ---
 
 It's been a day. Somehow it's already heading towards midnight, and I've only just sat down to write something. I know, I know - I could scratch today, and write something later in the week - but then I started thinking "it migh tbe nice to write every other day"... and that's my slippery slope, right there. Within days I'll be writing every day again.

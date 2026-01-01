@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Home With A Cold"
 date: 2003-08-28
-categories: archive
+categories: "2003"
 ---
 
 Today I am sat at home with a pretty horrid cold... one of the people I work with brought it in, and somehow I managed to catch it. I must hold the world record at the moment for catching bad colds - I've probably had about ten in the last year!

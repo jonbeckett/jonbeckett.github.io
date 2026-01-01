@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hacked Off"
 date: 2005-04-05
-categories: archive
+categories: "2005"
 ---
 
 I'm sat here at work this afternoon, and I really don't want to be here. I've got a dreadul cold that I've had since Thursday last week. It's really getting me down now.

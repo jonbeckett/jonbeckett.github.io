@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its Not You Its Me"
 date: 2016-07-28
-categories: archive
+categories: "2016"
 ---
 
 I've been resisting the temptation to walk from Tumblr for several months now. I have many friends within it's labyrinthine tunnels, but their number has been declining for a long time. Compared to perhaps 5 years ago it's become an internet version of Radiator Springs. Go and listen to "Our Town" by James Taylor, and think about it in terms of how Tumblr once was, and what it has become. I suppose in many ways the same story has played out at lots of other social platforms on the web - LiveJournal, Vox, MySpace and now Tumblr each have their time in the sun, but eventually they seem to wane.

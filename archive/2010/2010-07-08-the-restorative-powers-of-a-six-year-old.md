@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Restorative Powers Of A Six Year Old"
 date: 2010-07-08
-categories: archive
+categories: "2010"
 ---
 
 "Where are the kids?""Outside somewhere"I then realised that if you cocked your head to one side and listened, you could hear the childrens version of world war three going on at the far end of the garden. Several years before children landed on us, we dug a border across the garden. Without the border, we would probably have room for some kind of ball game courtsomebody's infinite wisdom dictated that noyou will not have an easy job cutting the grasswe will have borders, and trees absolutely bloody everywhere. After affording the shrubs and trees enough time (eight or nine years), they have fortuitously provided a natural wall against the din three little people create while hanging, leaping, and garotting each other on the swings and climbing frame. While listening to my instructions about the holiday days I was about to use up, there was a strange whoosh, snapping noise, and thump in the kitchen. Then silence.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Replenishing The Washbag"
 date: 2011-11-20
-categories: archive
+categories: "2011"
 ---
 
 This is itmy entirewash bag contents, after a trip to the shops to replenish everything this morningToothbrushes I have an electric toothbrush somewhere, but am always forgetting to charge it. I love the feel of a new toothbrush. I don't buy the idiotic battery powered ones because they are just thatidiotic.Toothpaste I buy Colgate out of habit. As long as it makes my breath taste nice, I don't really mind which toothpaste I use.

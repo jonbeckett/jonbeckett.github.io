@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning With Sonic"
 date: 2013-08-25
-categories: archive
+categories: "2013"
 ---
 
 The morning has gone something like this so far; get out of bed, shower, brush teeth, get dressed, wander down the road to buy milk, make coffee and toast, make kids breakfasts (they wandered down while I was out), make more coffee, wash up, persuade the kids to get dressed, and then find something for them to do (it's raining outside).

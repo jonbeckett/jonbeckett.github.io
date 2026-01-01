@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Strange Thing This Internet"
 date: 2007-07-15
-categories: archive
+categories: "2007"
 ---
 
 Following the decision not to go and see the new Harry Potter movie earlier this evening, I thought it might be fun to fill the time I would otherwise have spent watching Harry, Ron, Hermione, and Hagrid, thinking aloudfreewheeling my mind.

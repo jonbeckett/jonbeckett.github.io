@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To The Office"
 date: 2008-02-21
-categories: archive
+categories: "2008"
 ---
 
 I will be going to visit work tomorrow for an hour - the first time I have been back since leaving in late February to begin our adoption journey. It's going to be strange leaving the kids behind for the morning.

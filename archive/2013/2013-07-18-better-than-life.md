@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Better Than Life"
 date: 2013-07-18
-categories: archive
+categories: "2013"
 ---
 
 It appears the incredibly lazy "journalists" at the Huffington Post just caught up with the series of photos that have been floating around the internet for at least the last 3 years. They were taken in a sex doll factory in California by a photo journalist calledZackary Canepari.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Casting a Beautiful Net"
 date: 2023-05-26
-categories: archive
+categories: "2023"
 ---
 
 Many moons ago I watched a television series called "The OA". Without ruining it any more than I might (it's a wonderful series, and you should definitely binge-watch it if you have not), I'm going to share a quote from it:

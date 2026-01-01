@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Unexpected Education"
 date: 2020-03-06
-categories: archive
+categories: "2020"
 ---
 
 I'm not entirely sure how I'm still awake - or how I'm going to make it through the evening. We're taking part in a charity quiz tonight, along with a team of friends and neighbours - but I was up until 2am last night editing the most recent episode of the podcast and releasing it to the internet. We didn't start recording until 11pm, because life has a habit of unravelling on me at the moment. What an episode though.

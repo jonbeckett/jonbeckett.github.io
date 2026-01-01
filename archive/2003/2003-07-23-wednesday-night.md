@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wednesday Night"
 date: 2003-07-23
-categories: archive
+categories: "2003"
 ---
 
 It's wednesday night, and I'm sat here fiddling around with the code that makes up the page you are reading right now. I'm worried that the whole thing is a bit boring and "corporate" looking - hence the sudden appearance of pictures.

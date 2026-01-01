@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Week That Never Was"
 date: 2019-11-15
-categories: archive
+categories: "2019"
 ---
 
 I returned home from work on Wednesday lunchtime, and went straight to bed. Actually, that's not entirely true - I cleared the kitchen, tidied the lounge and hallway, put washing in the machine, and hung damp washing out to dry before going to bed.

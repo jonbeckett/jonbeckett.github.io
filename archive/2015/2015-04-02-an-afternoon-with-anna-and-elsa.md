@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Afternoon With Anna And Elsa"
 date: 2015-04-02
-categories: archive
+categories: "2015"
 ---
 
 I considered titling this post "An Afternoon with Anna, Elsa, and a Thousand Screaming Children", but it seemed a little long. Accurate, but long.

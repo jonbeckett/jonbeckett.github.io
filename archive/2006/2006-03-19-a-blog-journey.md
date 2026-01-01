@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Blog Journey"
 date: 2006-03-19
-categories: archive
+categories: "2006"
 ---
 
 I just had a rather wonderful idea for a blogging activity when you're bored. I'm going to call it a "Blog Journey". Here's how it works - you go to a random blog that you regularly read, and write your perspective on an entry that has comments. You then pick a comment that has a link to another blog, and repeat - and you just keep going for as long as you want... documenting your views as you go.

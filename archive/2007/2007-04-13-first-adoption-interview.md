@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Adoption Interview"
 date: 2007-04-13
-categories: archive
+categories: "2007"
 ---
 
 Yesterday I had the first interview with an adoption services representative at home - taking us a little closer to the review panel later in the year that will decide if we can adopt, how many children we can adopt, and what age range we can adopt.

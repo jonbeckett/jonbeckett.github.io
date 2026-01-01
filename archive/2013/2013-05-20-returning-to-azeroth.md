@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To Azeroth"
 date: 2013-05-20
-categories: archive
+categories: "2013"
 ---
 
 I'm installing World of Warcraft on the desktop machines at home. I played it under a free account last year for a while, and although I liked it, didn't have the time, or the long term interest to continue playing it - mainly because I had nobody to play it with, and couldn't be bothered with building friendships inside the game.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Short History Of Computers In The Beckett Household"
 date: 2007-01-10
-categories: archive
+categories: "2007"
 ---
 
 Following a post to the "Community of Bloggers" forum, it struck me that it might be appropriate to cover my entire computer history in the form of a blog post - so here it is.

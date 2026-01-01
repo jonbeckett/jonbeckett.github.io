@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Need Of Repair"
 date: 2012-04-20
-categories: archive
+categories: "2012"
 ---
 
 I'm starting to wonder if I've been cheating old father time for the last few years, and he's just discovered the discrepency while doing an audit.

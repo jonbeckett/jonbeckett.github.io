@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Cathedral And The Bazaar"
 date: 2008-10-04
-categories: archive
+categories: "2008"
 ---
 
 Next on my commuting reading list while taking a break from fiction is "The Cathedral and the Bazaar".

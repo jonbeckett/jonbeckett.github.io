@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bookshops and Jigsaw Pieces"
 date: 2024-10-06
-categories: archive
+categories: "2024"
 ---
 
 We were supposed to go for breakfast in town this morning -- just the two of us. A quiet breakfast together, and a wander around town while the new car charged up on one of the quick charging stations in the car-park near the river.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "From Blackberry To Android"
 date: 2011-02-14
-categories: archive
+categories: "2011"
 ---
 
 Following my Blackberry going missing at the swimming pool this weekend, I did some mental arithmetic and figured out the cost of a new contract was less than the cost of a new handset - so jumped handset, network provider, and contract to an HTC Desire, running Android 2.2 (soon to be 2.3), on O2.

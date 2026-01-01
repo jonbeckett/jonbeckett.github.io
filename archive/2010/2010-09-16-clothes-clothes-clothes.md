@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Clothes Clothes Clothes"
 date: 2010-09-16
-categories: archive
+categories: "2010"
 ---
 
 Speaking as somebody that refreshes his wardrobe perhaps once every three years (much to the chagrin of my better half), I've been scouting out new websites to buy some clothes from.

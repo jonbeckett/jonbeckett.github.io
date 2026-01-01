@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Third Night In The Hotel"
 date: 2016-06-30
-categories: archive
+categories: "2016"
 ---
 
 Tonight is my third night on my own in the hotel. There is no bar in the hotel (which is probably a very good thing, given past experiences of the kind of people that frequent hotel bars), so I'm hanging out in my room, tinkering with stuff on the laptop, and drinking a cheap bottle of wine I bought in the supermarket across the road earlier.

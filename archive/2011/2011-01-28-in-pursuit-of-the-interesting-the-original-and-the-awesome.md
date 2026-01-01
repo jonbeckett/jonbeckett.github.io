@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Pursuit Of The Interesting The Original And The Awesome"
 date: 2011-01-28
-categories: archive
+categories: "2011"
 ---
 
 While holed up at home today with whatever it is I've caught from the children, I've been on another voyage of discovery across the tumblrsphere. I was aided and abetted this time by the Tumblweeds website, and not helped at all by the outage Tumblr suffered for a couple of hours earlier.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend In Photographs"
 date: 2010-04-19
-categories: archive
+categories: "2010"
 ---
 
 I just found time at work to stop for something to eat, and to splurge something into here.

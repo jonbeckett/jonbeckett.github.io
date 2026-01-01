@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Custard Powered Nuclear Kitten Boots"
 date: 2010-10-22
-categories: archive
+categories: "2010"
 ---
 
 I've been thinking more about participation in NaNoWriMo.

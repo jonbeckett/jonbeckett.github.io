@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Macbook Survives The Apple Osx Leopard Upgrade"
 date: 2007-11-03
-categories: archive
+categories: "2007"
 ---
 
 While out supposedly buying something for lunch on Friday I got sucked into the local Apple store in London, and walked back out with a copy of Leopard. For those who have no idea, Leopard is the latest version of the operating system on the Apple Mac. Think "Windows" for the PC crowd.

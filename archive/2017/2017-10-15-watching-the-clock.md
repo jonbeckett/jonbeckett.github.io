@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Watching The Clock"
 date: 2017-10-15
-categories: archive
+categories: "2017"
 ---
 
 When I woke at 6am this morning, I instinctively checked my phone for messages, and discovered my flight to Germany had been cancelled. Ten minutes later, while squinting at a computer screen in the dark of the study downstairs, I had re-scheduled to a later flight, and called the taxi company too.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fixed The Woo Themes Generate Disqus Comments Layout Bug"
 date: 2010-09-20
-categories: archive
+categories: "2010"
 ---
 
 Not sure if anybody else has seen this, but if you use the Woo Themes "Generate" theme, the Disqus comments don't work properly in Google Chrome - it wraps the number of comments for a post when the javascript callback from Disqus injects into the page.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unfathomable"
 date: 2019-04-29
-categories: archive
+categories: "2019"
 ---
 
 After a self-imposed seclusion from the internet for the majority of today - while attempting to shield myself from any and all spoilers about Game of Thrones - it's finally safe to re-appear. We just finished watching it. I'm not going to write anything about it though, because the internet seems to be awash with it.

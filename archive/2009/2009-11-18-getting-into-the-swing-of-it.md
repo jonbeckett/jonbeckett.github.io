@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting Into The Swing Of It"
 date: 2009-11-18
-categories: archive
+categories: "2009"
 ---
 
 It's Wednesday evening - the third night in the hotel - and I'm slowly getting used to it. If the old saying about not missing what you never had is true, I'm starting to forget what I once had. Perhaps that explains my acquiescence ?

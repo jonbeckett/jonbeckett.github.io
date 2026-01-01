@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "New Blog Version"
 date: 2003-07-08
-categories: archive
+categories: "2003"
 ---
 
 Hi all,

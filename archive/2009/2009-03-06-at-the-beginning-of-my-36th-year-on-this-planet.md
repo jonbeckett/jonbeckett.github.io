@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "At The Beginning Of My 36Th Year On This Planet"
 date: 2009-03-06
-categories: archive
+categories: "2009"
 ---
 
 With the advent of my 36th birthday earlier this week, I have been wondering how much I have changed over the years - how I am different than I was before.

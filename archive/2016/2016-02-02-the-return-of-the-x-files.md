@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Return Of The X Files"
 date: 2016-02-02
-categories: archive
+categories: "2016"
 ---
 
 I remember when The X-Files first started. People think of television series as "hits" now, but they really pale in comparison. I guess you have to remember that back in 1993 when the X-Files first appeared,broadcast television still dominated. People would plan their week around watching particular showsinternet access for most was still very much the domain of Compuserve, and AOL. The World Wide Web didn't really gain traction until several years later.

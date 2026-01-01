@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bang Goes Sunday"
 date: 2015-02-22
-categories: archive
+categories: "2015"
 ---
 
 I had booked two days off work to spend time with the children ahead of the weekend, and then the trip to Scotland with work. We are into Sunday - the fourth and final day - and so far I have spent no time with the children at all. I have sat in the house, babysitting our eldest daughter, who has thrown tantrum, after tantrum, after tantrum about the most insignificant issues you can possibly imagine.

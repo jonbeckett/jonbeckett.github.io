@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sausage Rolls and Cappuccino"
 date: 2023-10-06
-categories: archive
+categories: "2023"
 ---
 
 Friday morning finds me sitting in the middle of a busy cafe - the one my middle daughter works at. She's not here today - I finally got around to visiting on the one day she doesn't work. She would have been with me, but instead is waiting at home for a succession of people to arrive at the front door - to be handed all manner of junk we're getting rid of.

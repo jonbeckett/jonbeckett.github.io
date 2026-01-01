@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Star Wars Day"
 date: 2021-05-04
-categories: archive
+categories: "2021"
 ---
 
 May the fourth be with you. Apparently today is "Star Wars Day". It's all a bit thtupid really, ithn't it. Thee what I did there?

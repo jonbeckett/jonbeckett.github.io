@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Invitation To Ask Questions"
 date: 2011-01-05
-categories: archive
+categories: "2011"
 ---
 
 I did this once before, a very long time ago, and it proved remarkably entertaining (if a little foolhardy).

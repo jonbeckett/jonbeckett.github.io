@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hippo Remote"
 date: 2010-10-18
-categories: archive
+categories: "2010"
 ---
 
 One of my colleagues just informed me he purchased an app for his iPhone called "Hippo Remote".

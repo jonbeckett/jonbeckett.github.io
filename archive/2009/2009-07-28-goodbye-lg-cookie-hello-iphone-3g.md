@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Goodbye Lg Cookie Hello Iphone 3G"
 date: 2009-07-28
-categories: archive
+categories: "2009"
 ---
 
 For the last several weeks I have been using an LG Cookie mobile phone - the one I bought to use for freelance use - in place of the iPhone which had developed an intelligence all of it's own, and required a brain scan back at Apple's secret underground facility (I believe most phone shops have a secret hatch in the floor that leads to the Apple mono-rail).

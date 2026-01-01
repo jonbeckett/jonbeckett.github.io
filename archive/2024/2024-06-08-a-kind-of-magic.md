@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A kind of magic"
 date: 2024-06-08
-categories: archive
+categories: "2024"
 ---
 
 I'm running on empty. Again.

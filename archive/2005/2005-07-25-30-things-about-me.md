@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "30 Things About Me"
 date: 2005-07-25
-categories: archive
+categories: "2005"
 ---
 
 This post is an attempt to write 30 things that people might not know about me. Hopefully it will be interesting to somebody somewhere. Here goes.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nine Minutes At A Time"
 date: 2019-10-22
-categories: archive
+categories: "2019"
 ---
 
 I went to the running club with Miss 19 again tonight - we're now half-way through the "Couch to 5K" programme. We ran three lots of nine minutes, with one minute walking in-between, which added up to a little under four kilometres. Next week we move on to twelve minutes running at a time, which I imagine will take us over the ultimate finish line - then it's a case of slowly taking away the intervals and turning it into one long run.

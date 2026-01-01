@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And So It Starts"
 date: 2008-12-06
-categories: archive
+categories: "2008"
 ---
 
 We retrieved our Christmas decorations from the attic tonight - with predictably violent hyperventilation, gasps, and vomit inducing excitement from the children.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Words After Midnight"
 date: 2023-01-14
-categories: archive
+categories: "2023"
 ---
 
 While walking through reflections in puddles, and through ink filled streets late this evening to escort my middle daughter home from work, the machinery of the universe turned it's gaze on me.

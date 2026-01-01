@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Idiot"
 date: 2015-05-08
-categories: archive
+categories: "2015"
 ---
 
 I should have known how today was going to play out as soon as I got up this morning.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts About The Social Internet"
 date: 2016-07-10
-categories: archive
+categories: "2016"
 ---
 
 I wrote a few days that I had fallen off the internet bike this week - that life, the universe, and everything had conspired to drop me out of the whirling hurricane of tweets, instant messages, photos, blog posts, comments, likes, hearts, shares, re-blogs, and whatever else constitutes the "social internet".

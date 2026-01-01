@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Early Mornings"
 date: 2016-02-08
-categories: archive
+categories: "2016"
 ---
 
 I'm back in London this weekwhich means getting up at 6am to catch the 7am trainor, as happened this morning, getting up at 6:15am to stumble around the house comatose after sitting up until 2am watching the first half of the Superbowl.

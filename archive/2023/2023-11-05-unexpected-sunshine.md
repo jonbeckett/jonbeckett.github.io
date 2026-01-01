@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Sunshine"
 date: 2023-11-05
-categories: archive
+categories: "2023"
 ---
 
 We left Braithwaite in unexpected sunshine this morning, and set off on the gentle climb along Stile End and Outerside, towards the disused mine at Coledale.

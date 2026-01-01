@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Making Resolutions"
 date: 2018-12-30
-categories: archive
+categories: "2018"
 ---
 
 So. Here you are. You made it to the end of another year, and so did I. I seem to have made it by the rather unoriginal method of putting one foot in front of the other - and continuing to do so. Others seem to have had all manner of adventures, drama, and disaster along the way - I didn't really notice, because I was busy concentrating on where my next footstep was landing. Because this rather eccentric method - lets call it "plodding" - has served me so well this year, I see no need to change it any time soon.

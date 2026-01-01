@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Girl I Used To Work With"
 date: 2013-07-25
-categories: archive
+categories: "2013"
 ---
 
 We sat across from each other for the best part of three years. In some ways she reminded me of my younger selfher ability to remember everything, and to work endlessly at problems. Of course I was never pretty, or a girl, for that matter.

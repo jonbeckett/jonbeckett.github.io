@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Writing The Anti Blog"
 date: 2014-08-23
-categories: archive
+categories: "2014"
 ---
 
 Blogging used to be about sharing your thoughts, the story of your day, your hopes, your dreams, and so on. If you pay any attention to the "professional bloggers" out there, you would be fooled into thinking it is now all about statistics, a list of recent posts, comments, keywords, tags, social, photos, a niche, categories, connections, and all sorts of other things. Well that's total and utter bollocks.

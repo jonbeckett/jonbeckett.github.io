@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Retro Gaming Jak And Daxter Style"
 date: 2009-10-13
-categories: archive
+categories: "2009"
 ---
 
 It's strange to think that the previous generation of games machines is now thought of as "Retro", but apparently it is (ask any ten year old).

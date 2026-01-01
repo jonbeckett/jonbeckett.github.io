@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Surrounded By Self Absorbed Ignorance"
 date: 2010-03-23
-categories: archive
+categories: "2010"
 ---
 
 While cycling to work this morning I stood at a junction for nearly five minutes astride my mountain bike, waiting for a break in the traffic. The entire road behind me became filled with angry motorists variously beeping their horns and/or blaming me for all manner of injustices in their own sad little worlds.

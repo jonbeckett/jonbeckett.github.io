@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Poetry For Burns Night Supper"
 date: 2007-01-27
-categories: archive
+categories: "2007"
 ---
 
 I finally decided on a poem for the Burns night supper we have been invited to this evening...

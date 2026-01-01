@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Happy Birthday To Me"
 date: 2007-03-03
-categories: archive
+categories: "2007"
 ---
 
 Happy birthday to me, happy birthday to me, happy birthday dear Jonathan, happy birthday to me. In continuation of my immersion into the "Apple Lifestyle", W got me an iPod Shuffle, which I am trying not to be too smug about.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Grateful For The Little Things"
 date: 2022-01-10
-categories: archive
+categories: "2022"
 ---
 
 *This year I'm taking part in "*[*Bloganuary*](https://bloganuary.wordpress.com/)*" - a series of writing prompts published throughout the month by* [*Mindy Postoff*](https://bloganuary.wordpress.com/author/mindywoothemes/)*. Today's writing prompt is "What are 5 things you are grateful for today ?".*

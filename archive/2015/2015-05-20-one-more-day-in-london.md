@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One More Day In London"
 date: 2015-05-20
-categories: archive
+categories: "2015"
 ---
 
 My three day stint as a teacher is over for this week. That doesn't mean the early starts have quite finished though - I'll be returning to London once more in the morning for a conference - sitting in the audience this time, instead of standing in front pretending to be clever.

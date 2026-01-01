@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dinner With Friends"
 date: 2010-02-07
-categories: archive
+categories: "2010"
 ---
 
 This weekend has served to remind me about the value of friendship, and of having a life. It's easy to let work consume your life - in my case so much that I approached this weekend with a creeping dread that the time we were investing in social activities were taking away from time I might otherwise have spent working.

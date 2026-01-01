@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its Late And Im Tired"
 date: 2005-08-09
-categories: archive
+categories: "2005"
 ---
 
 It's nearly midnight as I write this, and I'm getting tired. The X-Files movies is on the television though, so I guess I'll stay up and watch through to the end of it; I haven't seen it in ages.

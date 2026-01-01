@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dangerously Addictive"
 date: 2021-11-08
-categories: archive
+categories: "2021"
 ---
 
 It's been five days since the last blog post. How does that even happen?

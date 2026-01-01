@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running Again"
 date: 2007-07-08
-categories: archive
+categories: "2007"
 ---
 
 I just got back from a 2 mile run.

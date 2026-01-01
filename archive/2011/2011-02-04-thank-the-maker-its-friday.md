@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thank The Maker Its Friday"
 date: 2011-02-04
-categories: archive
+categories: "2011"
 ---
 
 Do you ever have days where you can't really concentrate on anything? Where everything seems just a bit too much like hard work to make any progress - or even to begin making progress?

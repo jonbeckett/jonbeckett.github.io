@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Overdue Rant"
 date: 2005-07-04
-categories: archive
+categories: "2005"
 ---
 
 While sat here drinking my coffee, I realised there have been quite a few things over the last week or so that I have been distinctly unhappy about - and in the most part they have nothing to do with me, and everything to do with society in general. I also realised that I haven't had a rant for ages.

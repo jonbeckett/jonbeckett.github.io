@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Escaping For The Night"
 date: 2008-12-06
-categories: archive
+categories: "2008"
 ---
 
 Following military style preparation and planning, we escaped our "family of five" status for a few hours last night, and went out to dinner with some friends who live a few miles away.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Signing Up With Bloglovin"
 date: 2016-12-29
-categories: archive
+categories: "2016"
 ---
 
 I have no idea if BlogLovin is still a thing, or if it is any better or worse than any of the other aggregators such as Feedly, but what the hell.

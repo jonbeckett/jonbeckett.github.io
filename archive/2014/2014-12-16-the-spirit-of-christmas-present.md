@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Spirit Of Christmas Present"
 date: 2014-12-16
-categories: archive
+categories: "2014"
 ---
 
 While cycling to work through the frost laden air this morning, I couldn't help but be reminded of perhaps my favorite book at this time of year"A Christmas Carol", by Charles Dickens. It's only a small booka short story reallyand yet it has survived the last hundred and fifty years or so through a multitude of adaptations. Many of Dickens characters are larger than life, and that's perhaps why his writing endureswe either see ourselves, or people we know in the characters and situations he wrote about all those years ago.

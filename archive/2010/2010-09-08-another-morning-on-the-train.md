@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Morning On The Train"
 date: 2010-09-08
-categories: archive
+categories: "2010"
 ---
 
 Back on the early train out of town, racing towards another client site. At least I'm not staying over this time

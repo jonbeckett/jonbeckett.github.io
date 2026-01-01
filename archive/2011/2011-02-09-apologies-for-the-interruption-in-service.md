@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apologies For The Interruption In Service"
 date: 2011-02-09
-categories: archive
+categories: "2011"
 ---
 
 If you head to the public facing side of my tumblog, there's all manner of domain jiggery pokery going on today (out of my hands) while the URL blog.jonbeckett.compropogates it's way around the world. Until it happens, you're going to see weirdness.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Long Time No Write"
 date: 2010-10-25
-categories: archive
+categories: "2010"
 ---
 
 Yes, yes, I know I post random crap here almost every day at the moment, but I haven't really written anything of substance for quite some time.

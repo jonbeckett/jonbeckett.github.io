@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Trains Hotels Pizzas And Numpties"
 date: 2015-01-26
-categories: archive
+categories: "2015"
 ---
 
 Everything was going so well. I got up, had a shower, made packed lunches, dropped the children off at school, went into the office for a few hours, came home, packed my bag, got on the first train, and was first to be seen by the person selling tickets.

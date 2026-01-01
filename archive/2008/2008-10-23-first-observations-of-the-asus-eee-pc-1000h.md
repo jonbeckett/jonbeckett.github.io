@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Observations Of The Asus Eee Pc 1000H"
 date: 2008-10-23
-categories: archive
+categories: "2008"
 ---
 
 Okay - 24 hours into owning an ASUS EEE PC 1000H, and I have a few observations worth recording.

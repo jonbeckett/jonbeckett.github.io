@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Reasons To Ban Dihydrogen Monoxide"
 date: 2010-08-21
-categories: archive
+categories: "2010"
 ---
 
 it can cause excessive sweating and vomiting

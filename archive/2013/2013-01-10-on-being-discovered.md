@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On Being Discovered"
 date: 2013-01-10
-categories: archive
+categories: "2013"
 ---
 
 I swapped war stories recently with a great friend online who had their blog "discovered" by their family. I have been there, done that, got the t-shirt.

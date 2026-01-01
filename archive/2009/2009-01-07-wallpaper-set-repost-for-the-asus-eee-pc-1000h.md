@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wallpaper Set Repost For The Asus Eee Pc 1000H"
 date: 2009-01-07
-categories: archive
+categories: "2009"
 ---
 
 For the benefit of those hosting their blogs at WordPress who may have missed these first time around, here is the complete collection of wallpapers I tailored for my ASUS EEE 1000H.

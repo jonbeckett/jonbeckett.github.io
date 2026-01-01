@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sometimes predictable is good"
 date: 2024-05-10
-categories: archive
+categories: "2024"
 ---
 
 It's Friday morning, and you find us sitting on the train, whistling across the countryside towards the south-west of England. By "us", I mean my youngest daughter and I. After some hasty planning and approvals - both from work and my parents - earlier in the week, we're parachuting her away from everything or a long weekend. A few days to process, get perspective, and put herself back together.

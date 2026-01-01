@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Koninklijk Paleis"
 date: 2023-03-03
-categories: archive
+categories: "2023"
 ---
 
 After yesterday's epic treck around Amsterdam, we slowed down a little, and only booked one destination for the day - the Koninklijk Paleis - the Royal Palace.

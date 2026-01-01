@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Winter Arrives With A Vengeance"
 date: 2010-12-18
-categories: archive
+categories: "2010"
 ---
 
 It started yesterday afternoon, with a cloud burst that covered the ground for miles around with perhaps an inch of snow. That inch was then deep frozen, and compacted by the evening traffic.

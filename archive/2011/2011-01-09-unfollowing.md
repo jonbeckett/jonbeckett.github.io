@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unfollowing"
 date: 2011-01-09
-categories: archive
+categories: "2011"
 ---
 
 I had to unfollow somebody today. I didn't do it lightly, and I'm still wondering about it now.

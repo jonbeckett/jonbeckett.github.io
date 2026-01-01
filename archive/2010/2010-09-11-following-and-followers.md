@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Following And Followers"
 date: 2010-09-11
-categories: archive
+categories: "2010"
 ---
 
 Over the past several months I have been experimenting, playing, exploring, and basically screwing around with all manner of social networking and blogging solutions. Along the way, I've pretty much nailed down the four services that really matter;

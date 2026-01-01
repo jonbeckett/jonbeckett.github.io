@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Conjuring Audrey Hepburn"
 date: 2021-05-08
-categories: archive
+categories: "2021"
 ---
 
 I'm sitting in the study (read: the junk room). Rain is gently falling outside, and I have jazz playing in the background once again. Through the wonders of Spotify and bluetooth, I have discovered how to choose music on the computer, and have it automagically burst from the boombox. I'm sure the neighbours are not happy about this, given the New York jazz band now causing the walls to gently vibrate to a bossa nova rhythm.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fantastic Weekend"
 date: 2005-05-23
-categories: archive
+categories: "2005"
 ---
 
 This weekend marked the start of my immersion into the world of XBox Live, and quite possibly the end of my social life for a while. To paraphrase Winston Churchill; "never has so much fun been had by one person in so few days".

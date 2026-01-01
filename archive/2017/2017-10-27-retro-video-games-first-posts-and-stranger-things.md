@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Retro Video Games First Posts And Stranger Things"
 date: 2017-10-27
-categories: archive
+categories: "2017"
 ---
 
 After escorting Miss 17 to a famous fashion retail establishment this afternoon, I left her to peruse their wares and crossed the road to see what the second hand video game store might have on display. I wasn't planning on buying anything - I just wanted to look.

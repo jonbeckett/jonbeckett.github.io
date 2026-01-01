@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To Work"
 date: 2015-09-01
-categories: archive
+categories: "2015"
 ---
 
 The radio alarm clock burst into song at 7am this morning, and got switched off perhaps one bar into a forgettable pop music track who's name escapes me now. I did the quick mental calculation required around "what time could I possibly get up, and still get to work on time", before eventually scraping myself out of bed, and hobbling down stairs, re-teaching my knees how to bend on the way.

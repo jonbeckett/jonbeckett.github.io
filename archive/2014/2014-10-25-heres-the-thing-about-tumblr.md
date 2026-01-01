@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heres The Thing About Tumblr"
 date: 2014-10-25
-categories: archive
+categories: "2014"
 ---
 
 You scroll through the feed, thousands of miles away from hundreds of people you will never meet, and see people you might become friends with - but they are swamped with hundreds of responses to anything they post.

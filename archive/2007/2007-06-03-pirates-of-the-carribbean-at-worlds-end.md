@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pirates Of The Carribbean At Worlds End"
 date: 2007-06-03
-categories: archive
+categories: "2007"
 ---
 
 Arriving at the cinema a week after it opened, we finally went to see the final "Pirates of the Carribbean" movie last night - "At World's End".

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Decorating And Curry"
 date: 2007-04-08
-categories: archive
+categories: "2007"
 ---
 
 While spending 90% of the weekend transforming our two spare bedrooms into liveable (and safe) future bedrooms for children, the other 10% was spent taking time out to spend with family who came to visit en-route across the country...

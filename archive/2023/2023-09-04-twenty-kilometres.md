@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Twenty Kilometres"
 date: 2023-09-04
-categories: archive
+categories: "2023"
 ---
 
 After scraping myself out of bed at 7am this morning, I made it through another five kilometres before starting the working day. I've run twenty kilometres in the last four days. That sounds a bit mad, doesn't it.

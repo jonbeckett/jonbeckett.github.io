@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Aspiring To Mediocrity"
 date: 2011-01-16
-categories: archive
+categories: "2011"
 ---
 
 I caught myself looking at the visitor statistics on this tumblr account earlier. It occurred to me that it would be all too easy to become obsessed with gaining followers, visitors, or faux "friends".

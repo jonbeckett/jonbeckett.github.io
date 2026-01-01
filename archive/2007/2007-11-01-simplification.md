@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Simplification"
 date: 2007-11-01
-categories: archive
+categories: "2007"
 ---
 
 While sat here becoming frustrated with having a cold, feeling rubbish, and wishing the world could simplify itself a little, I spent the last hour deleting things.

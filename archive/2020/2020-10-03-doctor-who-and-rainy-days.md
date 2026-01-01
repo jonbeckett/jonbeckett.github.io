@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Doctor Who And Rainy Days"
 date: 2020-10-03
-categories: archive
+categories: "2020"
 ---
 
 You know how when you meet acquaintances in passing, you ask each other "how are you?", without really caring how each other really are? And how you typically answer "fine!", regardless of how you really feel - because nobody wants to sit and listen while you unload like Chunk about all the annoyances, injustices and maladies that have been plaguing you recently? That.

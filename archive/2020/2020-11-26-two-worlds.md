@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Two Worlds"
 date: 2020-11-26
-categories: archive
+categories: "2020"
 ---
 
 A few days ago I was approached at work - along with everybody else - about writing occasional blog posts for the company website. The posts will be shared with the wider world through LinkedIn - I'm guessing the company is going to start playing the social game.

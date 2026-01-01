@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nothing In Particular"
 date: 2020-01-05
-categories: archive
+categories: "2020"
 ---
 
 I have been waiting most of the day for something sizeable to download from the internet. If our internet connection was behaving itself, I imagine it would have finished downloading quite some time ago (an engineer from the telephone company is visiting our house tomorrow morning to find out why).

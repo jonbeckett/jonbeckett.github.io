@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Why Are Fridays So Slow"
 date: 2003-04-25
-categories: archive
+categories: "2003"
 ---
 
 I really should try and update this Blog more often. It looks better when there are more entries 

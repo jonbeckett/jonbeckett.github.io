@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Girls In London Are Pretty"
 date: 2007-03-21
-categories: archive
+categories: "2007"
 ---
 
 I am busy building a line of sandbags to hide behind in response to the title of this post. It all dawned on me while walking back towards the office from Pret a Manger at lunchtime.

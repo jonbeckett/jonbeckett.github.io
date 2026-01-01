@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Banished From The Kitchen"
 date: 2005-03-01
-categories: archive
+categories: "2005"
 ---
 
 It's Tuesday night and I find myself banished from the Kitchen.

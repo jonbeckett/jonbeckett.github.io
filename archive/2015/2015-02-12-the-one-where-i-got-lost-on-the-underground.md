@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Got Lost On The Underground"
 date: 2015-02-12
-categories: archive
+categories: "2015"
 ---
 
 While travelling home from a distant work location last night, I had to traverse London via the vast network of underground trains. I've done it countless times before - either for work, at weekends with the children to visit the museums, or with friends to show them the sights. I have travelled early in the morning, during the day, and late at night - and I never got lost before.

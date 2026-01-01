@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tea Solves Everything"
 date: 2019-06-10
-categories: archive
+categories: "2019"
 ---
 
 After a quite beautiful weekend, the sky decided that enough was enough today, and not content with rolling dark clouds across the hereabouts, it dumped several billion gallons of water across the country. Obviously unconvinced that we might get the message (if there is one), the sky is apparently going to repeat the deluge throughout the week.

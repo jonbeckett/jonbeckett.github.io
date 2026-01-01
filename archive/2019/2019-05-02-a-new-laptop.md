@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A New Laptop"
 date: 2019-05-02
-categories: archive
+categories: "2019"
 ---
 
 Well... when i say "new", I really mean "new to me". For the last couple of years I have been carrying around a hand-me-down laptop that used to belong to one of our children. I ended up running Linux on it, because it's not really capable of running anything more than that.

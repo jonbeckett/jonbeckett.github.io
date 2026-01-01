@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The 5 Real Reasons To Use Firefox 3"
 date: 2008-06-18
-categories: archive
+categories: "2008"
 ---
 
 Unless you have been living (a) under a stone, or (b) on a desert island for the last 6 months, you will be aware that Firefox 3 has slowly churned it's way through a number of beta cycles, and was released unto the interwebs yesterday.

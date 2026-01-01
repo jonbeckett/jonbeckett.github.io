@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Decompression"
 date: 2022-08-12
-categories: archive
+categories: "2022"
 ---
 
 Two weeks to think about as little as possible.

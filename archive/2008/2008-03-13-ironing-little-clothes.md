@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ironing Little Clothes"
 date: 2008-03-13
-categories: archive
+categories: "2008"
 ---
 
 We went shopping this morning with a store card filled by the people I work with (thankyou everybody - the girls will write a suitably embarrassing thank you card). We came home with a toy ironing board, iron, kettle, and various fake grocery boxes for the play kitchen we were given a couple of weeks ago.

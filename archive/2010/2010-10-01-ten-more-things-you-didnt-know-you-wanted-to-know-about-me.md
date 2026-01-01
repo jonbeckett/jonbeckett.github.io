@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ten More Things You Didnt Know You Wanted To Know About Me"
 date: 2010-10-01
-categories: archive
+categories: "2010"
 ---
 
 Continuing on with the recent theme of answering random questions, here's another ten things you never realised you wanted (or didn't want) to know about me, but will if you read to the end.

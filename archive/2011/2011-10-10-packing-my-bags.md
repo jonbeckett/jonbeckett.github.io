@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Packing My Bags"
 date: 2011-10-10
-categories: archive
+categories: "2011"
 ---
 
 This evening I'm packing my bags to head away for a few days with work. I'll be back on Thursday night. Although this sounds ridiculous, I can't say on a public forum where I'm going or what I'm going to be doing because of the various professional restrictions surrounding it.

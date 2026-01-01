@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Meet The Chickens"
 date: 2008-01-20
-categories: archive
+categories: "2008"
 ---
 
 Sunday morning in a mud filled garden - meet Teagan and Morwenna. There is another chicken (Demelza) somewhere in the garden - probably following W in the hope of corn falling from the sky.

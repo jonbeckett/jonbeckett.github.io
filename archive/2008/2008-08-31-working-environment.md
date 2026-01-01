@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working Environment"
 date: 2008-08-31
-categories: archive
+categories: "2008"
 ---
 
 I'm spending more time than ever in our study - both doing freelance work of an evening, and often working from home in the daytime. Carving a half sensible working environment out of our otherwise chaotic house has not been easy - but has been necessary to engender any kind of working atmosphere at all.

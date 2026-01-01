@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Whole World In His Pants"
 date: 2008-12-03
-categories: archive
+categories: "2008"
 ---
 
 While little miss 4 years old was wandering around the house the other day, W overheard her singing

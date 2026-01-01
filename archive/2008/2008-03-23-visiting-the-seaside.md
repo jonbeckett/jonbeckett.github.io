@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Visiting The Seaside"
 date: 2008-03-23
-categories: archive
+categories: "2008"
 ---
 
 We left the house at 6:30am on Friday morning. After waking up following repeated bouts of car sickness over the course of our 5 hour car marathon on Friday morning, our four year old announced loudly to anybody who would listen "we are going to the seaside, and I am SO excitedwonderfully. Their discovery of a bedroom filled with toys, dolls, and dressing up clothes was greeted with surprise and awe. Unfortunately their first encounter with two 170lb Newfoundlands didn't go anywhere near as well... well, it went well right up until one of them licked the youngest's entire face in one swipe and caused hysterical screams and tears.

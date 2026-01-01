@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Mind Of An 80 Year Old"
 date: 2006-07-11
-categories: archive
+categories: "2006"
 ---
 
 I recently bought W "Dr Kawashima's Brain Training" for her Nintendo DS. I had a go on it, and am regretting it now.

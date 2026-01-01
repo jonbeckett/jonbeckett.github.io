@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas Day"
 date: 2013-12-26
-categories: archive
+categories: "2013"
 ---
 
 I woke suddenly this morning, and took a few moments to gather my senses. I could hear Lady Gaga coming from the children's bedroom, singing "Bad Romance". After a few moments pieces of the puzzle fell into placethe alarm clock.My other half rolled towards me and mumbled something about expecting the children to have woken earlier, and something about forcing them to stay in bed at least until the alarm went off.

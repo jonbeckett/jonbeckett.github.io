@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On Getting Up In The Middle Of The Night"
 date: 2010-09-01
-categories: archive
+categories: "2010"
 ---
 
 I woke to the wailing of an electrical alarm - a throbbing, screaming noise that caused confusion at first. I threw back the bed covers, and looked at the time - 2:30am.

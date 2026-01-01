@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "My Daughter The Blogger"
 date: 2016-07-23
-categories: archive
+categories: "2016"
 ---
 
 Miss 15 has signed up for a blog on the internet. I'm resisting the temptation to cheer out loud, and do cartwheels around the house. It's her first blog. After books and movies, this is really the first opportunity I have had as a parent to share something with her that is "our thing" - something we do, that nobody else does. Something to bond over.

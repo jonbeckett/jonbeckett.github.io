@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working From Home"
 date: 2018-02-20
-categories: archive
+categories: "2018"
 ---
 
 Today has been a day to forget so far.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Buying Books"
 date: 2006-02-19
-categories: archive
+categories: "2006"
 ---
 
 For the past several years I have read an awful lot of non-fiction - books about chess, science, astronomy, mathematics... you name it. I've continually told people that I need to get back to reading some "proper" books, and have just done something about it.

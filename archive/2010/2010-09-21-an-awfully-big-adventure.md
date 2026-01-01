@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Awfully Big Adventure"
 date: 2010-09-21
-categories: archive
+categories: "2010"
 ---
 
 Our eldest daughter is away this week on her first residential trip with school - four days away from home, with her entire year group and many teachers.

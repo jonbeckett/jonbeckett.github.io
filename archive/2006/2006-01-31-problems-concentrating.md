@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Problems Concentrating"
 date: 2006-01-31
-categories: archive
+categories: "2006"
 ---
 
 I'm back in the office this morning and having real problems concentrating.

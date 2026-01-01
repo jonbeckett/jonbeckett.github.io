@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Professional Theme Keeps Getting Rejected By Tumblr"
 date: 2011-01-04
-categories: archive
+categories: "2011"
 ---
 
 I have a horrible feeling the reason my "Professional" theme for Tumblr is not clearing the hurdle for the theme garden is because of the social links.

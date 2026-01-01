@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Morning In Leeds"
 date: 2015-09-21
-categories: archive
+categories: "2015"
 ---
 
 It's heading towards 9:30am, and I'm sitting in a new coffee shop in Leeds called "Caffeine & Co" - it's setup for local businesses to hold meetings - I'm sitting at a long black table with powerpoints all the way along it. There are couches and tables everywere - a web designer type is sitting across the way with a Macbook and an iPad. He's been on the phone ever since I walked in.

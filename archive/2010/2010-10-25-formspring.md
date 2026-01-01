@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Formspring"
 date: 2010-10-25
-categories: archive
+categories: "2010"
 ---
 
 Just joined FormSpring after receiving an invite from a friend. I've seen it around for ages on the web, and pretty much ignored it.

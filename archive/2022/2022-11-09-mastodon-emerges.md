@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mastodon Emerges"
 date: 2022-11-09
-categories: archive
+categories: "2022"
 ---
 
 Watching the slow exodus of users bleed away from Twitter over the last several days has been interesting. Who would have thought that an eccentric billionaire hijacking one of the great tent-pole social internet platforms would cause such visceral reactions?

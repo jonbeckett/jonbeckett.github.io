@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Astronaut Duran Duran"
 date: 2007-05-26
-categories: archive
+categories: "2007"
 ---
 
 While reading various news stories recently, I learned that Duran Duran had fallen apart once more. While this isn't exactly earth shattering news in and of itself, it did serve to remind me that I still hadn't got hold of the album they made after re-forming.

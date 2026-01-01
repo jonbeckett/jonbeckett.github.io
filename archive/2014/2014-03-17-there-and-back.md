@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "There And Back"
 date: 2014-03-17
-categories: archive
+categories: "2014"
 ---
 
 Another Monday, and another journey into London before most people have scraped themselves out of bed. I'm not entirely sure how I made it through today without falling asleepas each day passes working this ridiculous schedule, I become increasingly tired.

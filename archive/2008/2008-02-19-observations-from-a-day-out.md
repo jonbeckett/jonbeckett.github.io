@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Observations From A Day Out"
 date: 2008-02-19
-categories: archive
+categories: "2008"
 ---
 
 We took the children to the farm again today - to see (and feed) the animals, and to play on the adventure playground. We didn't really give much thought to it being a school holiday this week.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "We Are Now Wireless"
 date: 2004-03-14
-categories: archive
+categories: "2004"
 ---
 
 After a bit of a spending spree today in PC World, our house now has wireless networkingis the speed of the thing. Event printing full page graphics, it still kicks off within a second or two and throws the page out.

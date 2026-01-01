@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Weekend Stories"
 date: 2023-05-27
-categories: archive
+categories: "2023"
 ---
 
 Here we go again.

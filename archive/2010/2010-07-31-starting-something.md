@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Starting Something"
 date: 2010-07-31
-categories: archive
+categories: "2010"
 ---
 
 While monkeying with stuff online earlier, it occurred to me that I haven't been sharing things quite as well as I might, as thoughtfully as I might, or as carefully as I might.

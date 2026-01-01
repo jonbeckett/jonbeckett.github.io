@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Just Lost Again"
 date: 2003-11-26
-categories: archive
+categories: "2003"
 ---
 
 I just setup an account on ICC (Internet Chess Club) and subjected myself to a number of wipeouts playing chess... admittedly I was only playing 5 or 6 minute games, but my chess playing abilities seem to be far less than they were five or so years ago when I used to play regularly.

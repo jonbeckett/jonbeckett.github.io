@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cafe Society"
 date: 2023-07-20
-categories: archive
+categories: "2023"
 ---
 
 After working on programming all morning, I've upped sticks and moved to a nearby cafe for the afternoon. Rather than amuse myself in the junk room at home, I can now try to ignore everybody around me while pretending to get on with some work. I'm telling myself this is good for my mental health.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Foaming Invective"
 date: 2009-10-16
-categories: archive
+categories: "2009"
 ---
 
 What is it about Fridays? Where does our energy and enthusiasm go?

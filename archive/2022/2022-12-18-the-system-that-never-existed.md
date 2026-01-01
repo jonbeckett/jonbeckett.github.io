@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The system that never existed"
 date: 2022-12-18
-categories: archive
+categories: "2022"
 ---
 
 Have you ever invented something without inventing it? Have you ever designed a hugely complex solution to something, without designing a huge complicated solution for something? I have. I did it last night. And I can't remember anything about it.

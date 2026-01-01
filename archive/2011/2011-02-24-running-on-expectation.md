@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running On Expectation"
 date: 2011-02-24
-categories: archive
+categories: "2011"
 ---
 
 At 7am this morning I really wasn't looking forward to the idea of scraping myself out of bed. Having already missed a day of work, and not feeling quite so bad, some kind of internal autopilot kicked in - before I really knew what was happening, I was halfway down the stairs, heading for a shower.

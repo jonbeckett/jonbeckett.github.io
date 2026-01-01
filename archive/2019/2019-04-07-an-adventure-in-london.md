@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Adventure In London"
 date: 2019-04-07
-categories: archive
+categories: "2019"
 ---
 
 I woke with a start at 7am this morning. I don't remember the content of the dream I was having, but remember a sense of loss when I came to my senses and realised that there would be no returning to it. Ten minutes later I was in the kitchen sipping a first coffee of the day and watching the clock while waiting for my eldest - Miss 18 - to finish in the shower. If she managed to wash and dry her hair inside half an hour, I would have time for a shower and shave too, and we would have half a chance of making it to the train station in time for the next London bound train.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its About Being There"
 date: 2020-04-24
-categories: archive
+categories: "2020"
 ---
 
 I watched an old episode of "Halt and Catch Fire" this evening. If you've not seen it, the show ran for four seasons, and broadly told the story of the 1980s computer revolution, the birth of the internet, and latterly the world wide web. The story was told through the lives of a small group of people that cross through many of the defining moments of those decades - sometimes by luck, sometimes by foresight.

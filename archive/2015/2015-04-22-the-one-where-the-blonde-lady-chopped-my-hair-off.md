@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where The Blonde Lady Chopped My Hair Off"
 date: 2015-04-22
-categories: archive
+categories: "2015"
 ---
 
 Over the last few days my hair had crossed the line from "vaguely presentable" to "that man looks a bit weird", so I drew a rectangle between 9 and 10am on the Outlook calendar at work, and titled it "Hair Cut".

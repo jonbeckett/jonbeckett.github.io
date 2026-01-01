@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Back In Love With Blogging"
 date: 2009-10-29
-categories: archive
+categories: "2009"
 ---
 
 For the past few weeks I have been investing a little more effort into the words and pictures I contribute to the world you and I know as the blogosphere. It has reminded me why I love blogging - and indeed writing.

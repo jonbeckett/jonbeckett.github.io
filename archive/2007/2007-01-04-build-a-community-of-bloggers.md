@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Build A Community Of Bloggers"
 date: 2007-01-04
-categories: archive
+categories: "2007"
 ---
 
 I have been thinking. About community stuff.

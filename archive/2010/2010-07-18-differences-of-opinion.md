@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Differences Of Opinion"
 date: 2010-07-18
-categories: archive
+categories: "2010"
 ---
 
 What do you do, when you're reading a blog post that expresses a strong opinion, and you find yourself at odds with it? Do you respond?It's been ticking away at the back of my mind for a few days after reading a few different posts recently. I'm guessing it became of interest to me because of a "fanboyism" article I read a while agoputting forward the hypothesis that those who argue over the latest toy in forums are defending their "self"because they have invested in something with a cost attached that others know aboutso feel they have to prove the validity of their investment. I'm guessing this works for opinions too.

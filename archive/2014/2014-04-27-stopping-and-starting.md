@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stopping And Starting"
 date: 2014-04-27
-categories: archive
+categories: "2014"
 ---
 
 Following months of travelling to distant destinations with work this year, and scrambled days at home washing clothes and re-packing cases, I began to question my part in the "blogosphere" (I hate the word, but cannot think of an alternative at the moment). I looked back at posts from the past, and realised how poorly recent posts reflected on them. Where once the writing had been engaging, interesting, and at times thought provoking, it had become an exercise in "saying something", rather than "having something to say".

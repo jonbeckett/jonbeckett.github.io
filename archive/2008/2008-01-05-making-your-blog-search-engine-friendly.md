@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Making Your Blog Search Engine Friendly"
 date: 2008-01-05
-categories: archive
+categories: "2008"
 ---
 
 I have cross posted this from it's original place at the "Community of Bloggers" - an open forum for discussion of all things related to writing and running blogs.

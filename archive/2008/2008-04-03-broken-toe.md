@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Broken Toe"
 date: 2008-04-03
-categories: archive
+categories: "2008"
 ---
 
 I somehow managed to break one of my toes last night while wandering around the house in my socks. I wasn't sure if it was broken at the time because I could still walk on it - I had however just drunk three rather large glasses of wine.

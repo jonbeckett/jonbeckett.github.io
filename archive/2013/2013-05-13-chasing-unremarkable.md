@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Chasing Unremarkable"
 date: 2013-05-13
-categories: archive
+categories: "2013"
 ---
 
 Since arriving back at WordPress I have been trying to get away from deep, thoughtful blog posts. Instead, I have endeavoured to record the mudane, the inconsequential, and the unremarkable. I want this blog to become a stream of consciousness that reflects a more truthful version of myself than an otherwise carefully crafted and curated collection of writing might.

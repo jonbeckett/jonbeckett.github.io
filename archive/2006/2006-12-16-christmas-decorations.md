@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas Decorations"
 date: 2006-12-16
-categories: archive
+categories: "2006"
 ---
 
 Today was spent on a madcap dash into town for presents, to the supermarket for christmas meal ingredients, and to the garden center for a Christmas Tree and decorations. Following that I climbed into the attic and retrieved the various bits and bobs we have collected over our years together.

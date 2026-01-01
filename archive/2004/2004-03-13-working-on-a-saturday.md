@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working On A Saturday"
 date: 2004-03-13
-categories: archive
+categories: "2004"
 ---
 
 It's 9:37 on a Saturday morning as I start writing this, and I am in the office at work. In return for having the day to go filming at GMTV, I am working through Saturday. Bang went this weekend...

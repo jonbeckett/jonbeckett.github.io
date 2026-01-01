@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Without Touching The Ground"
 date: 2014-10-16
-categories: archive
+categories: "2014"
 ---
 
 I'm aware that I haven't written anything for a few days, and I'm not entirely sure I have anything worth sharingI'm not about to let that stop me. I'm a bit stupid like that.

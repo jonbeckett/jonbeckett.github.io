@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Disconnected"
 date: 2015-04-20
-categories: archive
+categories: "2015"
 ---
 
 Somebody has disconnected the virtual machine I use to work on a remote client system, meaning I'm pretty much dead in the water for the next phase of some pretty important work. I guess this is their problem, so I'm not going to get too wound up about it - but it will end up biting me in the ass in a few weeks time.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Learning Something New"
 date: 2006-06-13
-categories: archive
+categories: "2006"
 ---
 
 I am on a course for the first few days this week (or "taking a class" as the American's among you might better understand).

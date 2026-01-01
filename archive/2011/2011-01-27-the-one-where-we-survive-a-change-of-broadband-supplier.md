@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where We Survive A Change Of Broadband Supplier"
 date: 2011-01-27
-categories: archive
+categories: "2011"
 ---
 
 When I arrived home from work yesterday evening, a parcel had arrived from Orange - a new Netgear broadband router. As part of our continuing efforts to save money, we are switching from British Telecom to Orange.

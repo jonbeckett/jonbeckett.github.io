@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "This Beautiful Fantastic"
 date: 2019-09-22
-categories: archive
+categories: "2019"
 ---
 
 Late yesterday evening, while looking for a movie to watch with my temporarily incapacitated better half, I stumbled upon perhaps the most wonderful movie I have seen in quite some time. A quiet movie about broken people called "This Beautiful Fantastic".

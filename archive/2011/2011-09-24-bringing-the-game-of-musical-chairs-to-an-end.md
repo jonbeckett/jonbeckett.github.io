@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bringing The Game Of Musical Chairs To An End"
 date: 2011-09-24
-categories: archive
+categories: "2011"
 ---
 
 Over the past few months my blogging antics would probably have qualified me for a padded cell in an asylum. I've written here, at Tumblr, at Posterous, at Blogger, back at Tumblr again, and finally back here again.

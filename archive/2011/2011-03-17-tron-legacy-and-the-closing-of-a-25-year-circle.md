@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tron Legacy And The Closing Of A 25 Year Circle"
 date: 2011-03-17
-categories: archive
+categories: "2011"
 ---
 
 I finally got around to watching Tron Legacy last night. All I can say is wow. It's probably worth explaining that I was always going to be biased towards it - I was part of the generation that grew up with the original movie.

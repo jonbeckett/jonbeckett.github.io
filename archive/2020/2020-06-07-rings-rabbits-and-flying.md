@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rings Rabbits And Flying"
 date: 2020-06-07
-categories: archive
+categories: "2020"
 ---
 
 I'm not entirely sure where this post is going to go. It's three minutes until midnight on Sunday night, and you find me sitting in the dark of the junk room, typing like mad at the desktop computer, because I should really be in bed already.

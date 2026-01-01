@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And So It Startsgolden Compass Condemned By The Church"
 date: 2007-11-27
-categories: archive
+categories: "2007"
 ---
 
 I guessed this would happen some time ago, and today the headlines appeared on the BBC News website. A group called "The Catholic League" has condemned the new movie "The Golden Compass" (based on the book "Northern Lights" by Philip Pullman).

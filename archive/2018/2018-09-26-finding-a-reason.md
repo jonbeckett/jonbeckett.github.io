@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Finding A Reason"
 date: 2018-09-26
-categories: archive
+categories: "2018"
 ---
 
 My writing used to be so much better than it is now. Well crafted posts. Explorations of thoughts and experiences, wrapped in a literary style that I've lost somewhere along the way.

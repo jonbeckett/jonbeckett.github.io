@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Halfway There"
 date: 2018-11-09
-categories: archive
+categories: "2018"
 ---
 
 It feels like I've broken the blogging or journaling habit. While writing upwards of two thousand words a day for "National Novel Writing Month", it hasn't even occurred to me to write about daily life.

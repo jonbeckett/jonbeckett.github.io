@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Going Out"
 date: 2019-01-23
-categories: archive
+categories: "2019"
 ---
 
 As hinted at in the title of the post, I'm not going out tonight. The temperature on the streets of Frankfurt hasn't got above zero all day. A few hours this afternoon were accompanied by worried glances from the windows of the office I have been working from - watching snow fall on the surrounding streets. Thoughts of my flight home in the morning started to pull at loose threads in the back of my mind - or rather, thoughts of a cancelled or re-scheduled flight.

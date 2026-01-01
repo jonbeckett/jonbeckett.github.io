@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Desk Of Holding"
 date: 2016-12-01
-categories: archive
+categories: "2016"
 ---
 
 Given that I have little or nothing to report on today (yet again), I thought it might be fun to pull one of the "amusing to the author" exercises out of my ass. I'm going to describe the contents of the desk I'm sitting at in the junk room, sweeping from left to right.

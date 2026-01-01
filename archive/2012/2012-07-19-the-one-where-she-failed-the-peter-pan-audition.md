@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where She Failed The Peter Pan Audition"
 date: 2012-07-19
-categories: archive
+categories: "2012"
 ---
 
 In an effort to get the younger children into bed a little faster this evening I proposed a race, where the last one with teeth brushed, pyjamas on, and into bed would be bestowed the title of "stinkiest, most bogey ridden bog monster of the week". I have never seen them move so quickly; particularly Miss Eight, who thundered up the stairs in the same manner one might if trying to flatten them to the floor in the process. Lots of stamping, lots of noise, and not much acceleration.

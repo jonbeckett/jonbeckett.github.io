@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dealing With Bad News"
 date: 2017-10-15
-categories: archive
+categories: "2017"
 ---
 
 I just discovered a guy I worked with for several years was killed in a road traffic accident on Sunday morning. His wife is 7 months pregnant. They were good friends.

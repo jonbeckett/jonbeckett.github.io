@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Early Hours Of The Morning"
 date: 2021-05-20
-categories: archive
+categories: "2021"
 ---
 
 The clock ticked past 1am some time ago. It's already Thursday morning. I'm playing the age old game of avoiding tomorrow while music quietly plays in the dark of the junk room. There is an empty wine glass alongside the keyboard - it held the remains of a bottle we opened several nights ago.

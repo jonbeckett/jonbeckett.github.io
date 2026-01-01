@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Morning"
 date: 2017-05-19
-categories: archive
+categories: "2017"
 ---
 
 I woke a little after 7am this morning, and stared at the ceiling for a while, listening to the clock radio. I have no idea how to re-program it not to kick in on weekend mornings - we lost the instruction book quite some time ago. You probably have to do something simple like hold three buttons down simultaneously for five seconds, and then cycle through twenty five different options on the display that only shows the time. Kind of similar to the Apollo guidance computer really. How could you forget something like that ?

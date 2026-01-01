@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "72 Hours Offline"
 date: 2009-03-14
-categories: archive
+categories: "2009"
 ---
 
 The wheels fell off our broadband connection at home a couple of days ago in spectacular style, and it's starting to feel like somebody has cut my air supply off.

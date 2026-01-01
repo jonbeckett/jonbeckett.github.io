@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Following On Twitter"
 date: 2009-12-12
-categories: archive
+categories: "2009"
 ---
 
 While tinkering with some Javascript earlier, it occurred to me that it would be easy to rip the various users I follow from Twitter, and display a rogue's gallery of sorts. Each picture links through to the Twitter page. Enjoy<img src="http://a1.twimg.c

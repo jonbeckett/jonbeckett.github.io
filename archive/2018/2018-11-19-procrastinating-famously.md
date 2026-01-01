@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Procrastinating Famously"
 date: 2018-11-19
-categories: archive
+categories: "2018"
 ---
 
 I'm sitting at work, in the middle of the afternoon, procrastinating famously. It feels like I've been living in a bubble recently - apart from the co-workers I share an office with, and my immediate family, I haven't really interacted with anybody. Actually - that's a lie - I made conversation with several parents at the side of the rugby pitch on Sunday morning.

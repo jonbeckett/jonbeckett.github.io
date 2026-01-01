@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Out Of Control"
 date: 2006-11-30
-categories: archive
+categories: "2006"
 ---
 
 It seems like so long since I last wrote what I might regard as a "proper" post. Everyday happenings don't seem to qualify. "I did this, then I did that" doesn't stack up in the grand scheme of how I might be feeling, what might be on my mind, and where I think I'm going.

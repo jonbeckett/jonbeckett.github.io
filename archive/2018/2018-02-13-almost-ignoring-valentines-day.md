@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Almost Ignoring Valentines Day"
 date: 2018-02-13
-categories: archive
+categories: "2018"
 ---
 
 If the marketing people would have you believe it, millions of people will be making all sorts of extra effort to woo, appease, or apologise to their existing or soon-to-be significant others today. All because convention and expectation pressures them into it. If they don't do something, they will be seen as lazy - if they do, they may even be seen as wasting money.

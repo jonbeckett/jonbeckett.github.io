@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running Ragged"
 date: 2015-04-26
-categories: archive
+categories: "2015"
 ---
 
 Today didn't really happen.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Looking Back A Meme I Just Invented"
 date: 2008-09-04
-categories: archive
+categories: "2008"
 ---
 
 It's time for a coffee break from the endless streams of source code I am spewing out at the moment, so I decided to invent a meme. It has no real title yet - feel free to suggest one, and copy/modify for yourself.

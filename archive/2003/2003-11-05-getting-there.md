@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting There"
 date: 2003-11-05
-categories: archive
+categories: "2003"
 ---
 
 I'm spending my lunchtime at work changing the layout of the PluggedOut website a bit - making a "Projects" page.

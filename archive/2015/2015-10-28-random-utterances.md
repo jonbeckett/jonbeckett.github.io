@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Random Utterances"
 date: 2015-10-28
-categories: archive
+categories: "2015"
 ---
 
 The last few days have seemed like I'm a part of a big machinea machine that has some impenetrably mysterious reason for being. I get up, have a shower, get dressed, cycle to work, curse at myself for a few hours, cycle home, eat dinner, wash up, tidy up, mess around on the internet for a while, and finally fall into bed. Along the way there are innumerable distractions, struggles, and opportunities to procrastinate, but on the whole each week day recently has followed the same path.

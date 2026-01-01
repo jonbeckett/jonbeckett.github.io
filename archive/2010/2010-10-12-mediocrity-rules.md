@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mediocrity Rules"
 date: 2010-10-12
-categories: archive
+categories: "2010"
 ---
 
 I took a look at the visitor stats for this blog last night - hardly inspiring.

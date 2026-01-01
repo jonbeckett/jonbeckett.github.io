@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Crap Day Gets Better"
 date: 2005-08-02
-categories: archive
+categories: "2005"
 ---
 
 Today started out as a remarkably crap day, then got even worse, but ended on something of a high.

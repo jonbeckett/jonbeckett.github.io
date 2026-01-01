@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Disconnecting"
 date: 2019-04-12
-categories: archive
+categories: "2019"
 ---
 
 We leave in a few hours, and won't be back until Monday afternoon. After posting so frequently to the blog for so long, it's going to feel strange storing the thoughts and memories away for a few days instead of posting them to the internet.

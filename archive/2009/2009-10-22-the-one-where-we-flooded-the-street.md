@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where We Flooded The Street"
 date: 2009-10-22
-categories: archive
+categories: "2009"
 ---
 
 Before I recount this story, I need to make it clear that - technically - it wasn't us that flooded the street.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Is It Tuesday Already"
 date: 2005-02-22
-categories: archive
+categories: "2005"
 ---
 
 This week seems to be going past even faster than last week (if that makes any sense at all).

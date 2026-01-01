@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Achieved Today"
 date: 2011-01-09
-categories: archive
+categories: "2011"
 ---
 
 Installed Drupal on jonbeckett.com

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Evening Off"
 date: 2010-04-25
-categories: archive
+categories: "2010"
 ---
 
 Finally taking a night off from development work. Listening to podcasts, scribbling in my notebook. Life is good.

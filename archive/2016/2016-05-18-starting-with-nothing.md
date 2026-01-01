@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Starting With Nothing"
 date: 2016-05-18
-categories: archive
+categories: "2016"
 ---
 
 The past couple of days have been an endless slog - either helping other people with their code at work, or trying to uncover the nature of the horrors clients have visited upon their computer systems. I'm way behind with the work I was scheduled on over the last week. Oh well. There's only one of me I guess.

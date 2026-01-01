@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Long Road"
 date: 2014-02-20
-categories: archive
+categories: "2014"
 ---
 
 The endless travelling has come to an end for a few days. I've been wondering how best to organise the avalanche of stories, thoughts, and recollections about the past few weeks, but a mixture of tiredness and fatigue is causing any kind of organisation to remain hopelessly elusive.

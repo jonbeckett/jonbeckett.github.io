@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Learning About Rss"
 date: 2004-05-18
-categories: archive
+categories: "2004"
 ---
 
 Yesterday afternoon my better half W called in where I work to give me my house keys - it turns out I had left them on the side when I left for work. She was going to her reading group, so wasn't going to be in all evening - meaning (I'll get to the point of this eventually...) I was going to be on my own all evening so could do what I wanted!

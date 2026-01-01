@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Awaiting The Adoption Interview"
 date: 2007-06-08
-categories: archive
+categories: "2007"
 ---
 
 I am working from home this morning while waiting for the lady from the adoption services team to arrive. Normally these meetings have happened first thing on a morning, but today the schedule is different. It's meant cancelling an eye test I had scheduled for lunchtime, but other than that the wonders of virtual private networking allow me to work from home.

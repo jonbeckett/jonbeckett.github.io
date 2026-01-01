@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Losing Interest In A Book"
 date: 2015-05-29
-categories: archive
+categories: "2015"
 ---
 
 For my birthday this year my family bought me a new Kindle. I had forgotten all about putting it on my Amazon wish-list, so the surprise was wonderful when the parcel arrived. It is not my first Kindle. It probably won't be the last. Flying in the face of book snobs everywhere, I see no problem with buying books in digital form - all the authors want is you to read their words - they don't care how you do that.

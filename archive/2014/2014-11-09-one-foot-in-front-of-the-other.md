@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Foot In Front Of The Other"
 date: 2014-11-09
-categories: archive
+categories: "2014"
 ---
 
 Every day at the moment seems like a struggle just to get to the next day - an endless round of washing up, tidying up, settling arguments, and so on. It sometimes feels like life is continually chewing us up, and spitting us out. You look forward to the weekend, and then spend the entire weekend running from one thing to the next, without a chance to really slow down.

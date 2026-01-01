@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Old Friends In Dreams"
 date: 2008-11-24
-categories: archive
+categories: "2008"
 ---
 
 I had a spectacular dream last night - the kind of dream where you wake up wondering just how powerful your brain is.

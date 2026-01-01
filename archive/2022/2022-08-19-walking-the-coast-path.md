@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Walking The Coast Path"
 date: 2022-08-19
-categories: archive
+categories: "2022"
 ---
 
 After a slow start yesterday morning we set off to walk the coast path towards a nearby fishing village together - with the promise of lunch in a pub dangling like a carrot ahead of us.

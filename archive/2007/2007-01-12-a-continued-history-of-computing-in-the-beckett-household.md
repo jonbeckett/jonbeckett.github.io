@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Continued History Of Computing In The Beckett Household"
 date: 2007-01-12
-categories: archive
+categories: "2007"
 ---
 
 In early 1992 I saw Windows 3.0 for the first time. I had asked to use the laser printer of the IT department at West Oxfordshire College to print out a poem by Marilyn Monroe for an art project I was working on (yes, I studied art at college as well as computer science).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back On Dry Land"
 date: 2006-07-01
-categories: archive
+categories: "2006"
 ---
 
 We are finally back on dry land after our adventure on the high seas.

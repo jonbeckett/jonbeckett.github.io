@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being Lonesome George"
 date: 2013-10-12
-categories: archive
+categories: "2013"
 ---
 
 The rest of this post is going to make little sense if you don't know who "Lonesome George" was, so I'm going to give you the background first."Lonesome George" was the last known Pinta Island Tortoise. In his last years he wandered the Galapagos Islands alone, and was widely regarded as the rarest creature in the world.

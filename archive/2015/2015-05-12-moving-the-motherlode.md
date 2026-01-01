@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Moving The Motherlode"
 date: 2015-05-12
-categories: archive
+categories: "2015"
 ---
 
 This is going to be a very nerdy post. Just warning you in advance.

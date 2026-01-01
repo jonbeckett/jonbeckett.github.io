@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Burning The Candle At Both Ends"
 date: 2019-04-26
-categories: archive
+categories: "2019"
 ---
 
 I'm sitting in the dark of the study, surrounded by half-filled boxes of material, sewing, knitting, and the various bits and bobs associated with those activities. My other half is up to her ears in half-sewn costumes for an impending dance show in town. She gets arm twisted each year by the local dance teacher to make various dresses, shirts, cloaks, and whatever else for a small army of children to wear for their one night of fame. Fame in our little town, anyway.

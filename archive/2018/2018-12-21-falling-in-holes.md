@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling In Holes"
 date: 2018-12-21
-categories: archive
+categories: "2018"
 ---
 
 The days are ticking down rapidly towards Christmas. I'm working through the holidays for the first time since having children. They are a little more grown up now, so my presence isn't required as much as it once was - but saying that, I'll be working from home, so never more than a couple of doorways away from them.

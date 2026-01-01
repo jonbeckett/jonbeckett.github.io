@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its The Weekend"
 date: 2005-09-10
-categories: archive
+categories: "2005"
 ---
 
 It's finally the weekend, and I feel better than I have in days.

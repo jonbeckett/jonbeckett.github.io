@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Im Not Dead Yet"
 date: 2009-04-08
-categories: archive
+categories: "2009"
 ---
 
 The title is of course a reference to a rather famous scene from Monty Python and the Holy Grail. It also refers to the lack of wordage pouring forth from my fingers in recent days.

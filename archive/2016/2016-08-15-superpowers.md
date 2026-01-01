@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Superpowers"
 date: 2016-08-15
-categories: archive
+categories: "2016"
 ---
 
 As you may have read a few days ago, I setup a Minecraft server on the internet for our kids and their friends to login to and share. As the administrator of the server, I naturally have"superpowers" - I can smite anybody at a moment's notice (which makes a laughing stock of Batman ever taking down Superman, but we'll ignore badly imagined comics that became laborious movies).

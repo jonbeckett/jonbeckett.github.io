@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fathers Day Funfairs And Goats"
 date: 2019-06-16
-categories: archive
+categories: "2019"
 ---
 
 I woke with a start at 4am, and blundered my way through my phone while trying to find the radio app - to listen to the Tyson Fury boxing match. The fight finally began at 5am, and lasted approximately 5 minutes. It didn't go well for the other guy. I fell back asleep moments later, and woke up wondering if the headphones I had been wearing would have left huge ring patterns on the sides of my head.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Resurrecting the Pandemic Podcast"
 date: 2024-11-03
-categories: archive
+categories: "2024"
 ---
 
 Four years ago - during one of the periods of isolation in the depths of the pandemic - I recorded a podcast talking to family, friends, writers, and bloggers about life, the universe and everything. Ever since, the podcast has sat almost forgotten in a dusty corner of the Spotify, Apple, and Google servers.

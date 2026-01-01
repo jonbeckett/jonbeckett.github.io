@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "31 Days To Build A Better Blog"
 date: 2010-09-30
-categories: archive
+categories: "2010"
 ---
 
 I'm taking it upon myself to follow the instructions advocated by Darren Rowse in his book "31 Days to Build a Better Blog". At this point in time I'm not entirely sure why, but it seems like it might be a fun diversion, and if it makes for better reading, that can't be a bad thing. I doubt I will be running through the days in anything like a consistent manner - for me, the title may as well read "31 days happening some time soon". Rather than waffle on about the act of blogging itself (which has to be the most boring subject in the known universe - almost as bad as amateur poetry), I'm just going to get on with the first exercise;

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tiredness Becomes Me"
 date: 2015-05-03
-categories: archive
+categories: "2015"
 ---
 
 I woke a little after 5am, groped around at the foot of the bed for the headphones I had attached to the Kindle Fire last night, and blinked my eyes into focus while attempting to enter the BBC website address into the browser. For the next twenty minutes I listened to the free BBC live commentary of the boxing match between Pacquaio and Mayweather, and a number of things went through my mind.

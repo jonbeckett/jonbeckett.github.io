@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Four gatherings in four days"
 date: 2024-12-08
-categories: archive
+categories: "2024"
 ---
 
 Rather that spread the celebration of Christmas with friends and co-workers throughout a number of weeks, this year we have compressed it all into one never-ending weekend of insanity.

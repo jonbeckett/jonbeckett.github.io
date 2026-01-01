@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Almost Getting Run Over"
 date: 2019-07-02
-categories: archive
+categories: "2019"
 ---
 
 While cycling to work this morning I was almost hit by a car. I was busy cycling along, minding my own business, and about to pass a junction. A car approaching me on the opposite side of the road decided that his need to turn into the junction was far more important than my continued existence, so started out by driving across the road directly at me - causing me to skid to a halt - before turning violently into the side-road on the wrong side of the road. The best bit? As he did so, he made a hand signal to me that I'm not entirely sure about - showing me the back of his hand, and pointing his fingers in the direction he was going. He stared at me as he swept past my front wheel.

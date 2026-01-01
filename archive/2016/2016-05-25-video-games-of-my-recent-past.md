@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Video Games Of My Recent Past"
 date: 2016-05-25
-categories: archive
+categories: "2016"
 ---
 
 It's rare that I play video games these days, despite the fact that I've been buying up the XBox 360 games from the bargain bins for months. I thought it might be fun to go through the various games I've had a chance to play.

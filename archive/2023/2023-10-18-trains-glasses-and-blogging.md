@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Trains Glasses and Blogging"
 date: 2023-10-18
-categories: archive
+categories: "2023"
 ---
 
 After going to bed at midnight last night, I woke at 3am, then 4am this morning, and turned thoughts over in my head until the alarm went off at 5am. An hour later I boarded a train in the middle of town towards London, and set off towards a really rather large and important sounding conference. I'm not saying any more about it, because that's "work", and I don't write about work. I will say thousands of people were there.

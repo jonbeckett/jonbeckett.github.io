@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Grown Up Meme"
 date: 2011-08-15
-categories: archive
+categories: "2011"
 ---
 
 Apparently the idea of this meme is to write about what you wanted to be when you were growing upor what you want to be when you grow up (I might count myself in that group from time to time).

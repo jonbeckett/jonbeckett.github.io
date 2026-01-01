@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unsuccessfully Unblogging"
 date: 2013-09-12
-categories: archive
+categories: "2013"
 ---
 
 A little while ago I wrote a post called "Unblogging"a call to arms against the seemingly endless army of SEO experts, "professional" bloggers, and "social mavens" -whatever the hell they might be.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting Nowhere Fast"
 date: 2008-11-18
-categories: archive
+categories: "2008"
 ---
 
 I was in the office this morning for a couple of hours. Today's task was to extend the functionality of a pre-existing chunk of code - make it do something new. That meant getting the latest build of the software from the version control system.

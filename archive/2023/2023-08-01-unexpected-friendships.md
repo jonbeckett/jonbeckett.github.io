@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Friendships"
 date: 2023-08-01
-categories: archive
+categories: "2023"
 ---
 
 Some time ago I wrote about the curious paradox of feeling loneliness when surrounded by others. I wonder if it's to do with fitting in - or rather, not fitting in. I often walk to my own drum-beat - invested in my own interests, thoughts, and daydreams - and don't typically share them with many.

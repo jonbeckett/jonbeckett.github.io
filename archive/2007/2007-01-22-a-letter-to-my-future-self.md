@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Letter To My Future Self"
 date: 2007-01-22
-categories: archive
+categories: "2007"
 ---
 
 I thought of doing this while daydreaming earlier this morning (I often daydream - it's a Pisces thing apparently) - what follows below is a letter to myself in the future...

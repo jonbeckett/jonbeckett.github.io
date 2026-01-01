@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Changing The Look"
 date: 2008-04-18
-categories: archive
+categories: "2008"
 ---
 
 Yes, I have changed the look and feel of this blog yet again, and yes, I am expecting some people to say "ooh, I like this", and others to say "I was just a little bit sick in my mouth".

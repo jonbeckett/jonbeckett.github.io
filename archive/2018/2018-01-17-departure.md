@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Departure"
 date: 2018-01-17
-categories: archive
+categories: "2018"
 ---
 
 This is a story about cost cutting gone mad. I arrived at Frankfurt Airport this morning, expecting to follow the usual routine of baggage check-in, and security. Nope. Not going to happen. Instead of quietly wandering up to a desk and having a staff member check my bags in I joined a huge crowd of people in the departure hall, fighting with new "self check-in" machines.

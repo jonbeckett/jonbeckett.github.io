@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pressure Eases"
 date: 2006-10-03
-categories: archive
+categories: "2006"
 ---
 
 I had been contemplating the idea of bringing my laptop home from work throughout the evenings this week and doing unpaid overtime to (hopefully) deliver the final round of changes to the project I am working on before the end of the week.

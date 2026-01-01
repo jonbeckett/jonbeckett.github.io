@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Budget Computer Games"
 date: 2015-11-07
-categories: archive
+categories: "2015"
 ---
 
 When I was 11 years old, I subsisted on "pocket money". From when I had been old enough to go into town on my own, I had been given money each week on a Saturday morning to do what I wanted with. It seems like such a simple idea to an adult, and a very minor amount of money, but to a child having those two pound coins burning a hole in your pocket was a tremendous feeling.

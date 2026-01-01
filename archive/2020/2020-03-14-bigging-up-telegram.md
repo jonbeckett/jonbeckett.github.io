@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bigging Up Telegram"
 date: 2020-03-14
-categories: archive
+categories: "2020"
 ---
 
 It was only while standing in the shower this morning that I realised I had completely missed posting to the blog yesterday. A small voice in the OCD part of my brain really lost it's shit about that.

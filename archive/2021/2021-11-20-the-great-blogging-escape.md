@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Great Blogging Escape"
 date: 2021-11-20
-categories: archive
+categories: "2021"
 ---
 
 I'm sitting in the junk room listening to the radio, typing into a text editor. The clock is ticking towards 9pm and I'm wondering where Saturday went.

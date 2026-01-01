@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tuesday Evening"
 date: 2017-07-24
-categories: archive
+categories: "2017"
 ---
 
 The clock is ticking towards 9pm, and I have done nothing all evening. Actually, that's not entirely true. After returning from work I hung a load of washing on the line, put another load in the machine, cooked a pizza for dinner, ate the pizza, walked to the garage, bought ice cream for a planned late night movie marathon, then sat on the couch watching a forgettable TV show on Amazon called "Awkward" for an hour. After so many years living in a house filled with mayhem, I don't deal with the absence of others very well any more. I guess there is a correlation of sorts with my much storied struggles sitting at tables for one in restaurants when travelling with work. Being home alone is somehow different though - I'm not sure I can describe how it's different.

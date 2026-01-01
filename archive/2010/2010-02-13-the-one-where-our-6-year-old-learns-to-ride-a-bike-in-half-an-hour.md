@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where Our 6 Year Old Learns To Ride A Bike In Half An Hour"
 date: 2010-02-13
-categories: archive
+categories: "2010"
 ---
 
 I promised during the week that we would spend as much of the weekend as possible out on the bikes. During my childhood this would have meant all weekend. As far as our kids are concerned, it turns out this means an hour. It was trying to snow, so I'll give them the benefit of the doubt.

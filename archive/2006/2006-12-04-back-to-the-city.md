@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back To The City"
 date: 2006-12-04
-categories: archive
+categories: "2006"
 ---
 
 The alarm crackled into life at 5:55 this morning, and reminded me that I will be working in London for the week. After trying to stumble around the bedroom in the inky darkness for a minute or two, a muffled voice escaped the duvet - "turn the light on".

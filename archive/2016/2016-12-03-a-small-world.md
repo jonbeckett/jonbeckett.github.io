@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Small World"
 date: 2016-12-03
-categories: archive
+categories: "2016"
 ---
 
 While standing at the touchline of the football pitch watching our youngest daughter warm up with her team-mates for a match this morning, I got talking to one of the Dads. Turns out he's a project manager at a client of the company I've worked for in the past. I immediately went into "walking on egg-shells" mode (not that I generally share anything anyway - our girls have been playing for the same team for the last 18 months - this is the first time I've spoken to him).

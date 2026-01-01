@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Five More Kilometres"
 date: 2020-09-30
-categories: archive
+categories: "2020"
 ---
 
 After staying up half the night to watch the morbidly hilarious US presidential debate take place in the US - mostly waiting for Biden to ask Trump to grow up - I finally fell asleep at about 3am. Four hours later the alarm clock woke me up, and some idiot impulse in the depths of my stupid brain told me "you need to go for a run".

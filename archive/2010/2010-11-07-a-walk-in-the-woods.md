@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Walk In The Woods"
 date: 2010-11-07
-categories: archive
+categories: "2010"
 ---
 
 Given that friends are always telling me that I should post more photos, our trip to the local woods this morning handed just such an opportunity.

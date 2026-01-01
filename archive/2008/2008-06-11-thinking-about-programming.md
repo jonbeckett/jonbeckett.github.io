@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thinking About Programming"
 date: 2008-06-11
-categories: archive
+categories: "2008"
 ---
 
 At 6:30am this morning I found myself sat at a computer with an instant messaging window open, debugging PHP code for a friend on the west coast of America. After whoops and cheers on the other end of the connection, we reminisced that I had been "quite good at this stuff" once upon a time.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heading North Yet Again"
 date: 2016-09-19
-categories: archive
+categories: "2016"
 ---
 
 Sitting on the train once again, heading north. Watching TV shows downloaded from Amazon Prime, and reading bits and pieces of books on the Kindle.

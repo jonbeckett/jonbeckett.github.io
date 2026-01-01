@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Time To Change Heads"
 date: 2012-01-27
-categories: archive
+categories: "2012"
 ---
 
 After three days chained to the desk at home listening to a far flung educator, and getting far too used to wandering into the kitchen to make coffee and raid the fridge, I'll be heading back to the office tomorrow. It's going to feel strange.

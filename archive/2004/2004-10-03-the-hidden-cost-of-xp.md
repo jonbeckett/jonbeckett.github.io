@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Hidden Cost Of Xp"
 date: 2004-10-03
-categories: archive
+categories: "2004"
 ---
 
 I went to my in-law's house yesterday and won the fight against the collection of trojans and viruses that had infested their computer.

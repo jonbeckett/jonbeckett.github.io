@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sleeping Under The Stars"
 date: 2015-08-09
-categories: archive
+categories: "2015"
 ---
 
 Our younger children slept out under the stars last night (my idea). I checked the weather forecast and suggested it. I think the deciding factor was the suggestion that they could sleep on the trampoline.

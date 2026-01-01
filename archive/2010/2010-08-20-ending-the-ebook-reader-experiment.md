@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ending The Ebook Reader Experiment"
 date: 2010-08-20
-categories: archive
+categories: "2010"
 ---
 
 We put the Sony eBook reader up for sale this week on eBay. It brings to an end a year long experiment; or at least a year of trying it out. During that year we both continued to pick up paper books, and invariably did so out of preference.

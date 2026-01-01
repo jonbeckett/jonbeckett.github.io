@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Snowing On Sunday"
 date: 2017-12-09
-categories: archive
+categories: "2017"
 ---
 
 After spending the greater part of last night stood in a good friend's kitchen drinking beer and telling stories, we arrived home a little before midnight, and checked through the children's rugby kit in preparation for this morning - a long trip across the county to play a far flung team.

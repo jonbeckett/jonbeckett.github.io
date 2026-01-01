@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slogging Away"
 date: 2006-04-19
-categories: archive
+categories: "2006"
 ---
 
 I feel like I'm shackled to a treadmill at the moment - with no obvious way of getting off.

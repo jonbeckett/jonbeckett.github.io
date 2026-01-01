@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Why Cant Wordpress Leave It Alone"
 date: 2010-09-12
-categories: archive
+categories: "2010"
 ---
 
 I've been using WordPress.com for something like 5 years now. During that time I've often tried other blogging solutions out, and always returned. It's getting just a bit bloody silly though...

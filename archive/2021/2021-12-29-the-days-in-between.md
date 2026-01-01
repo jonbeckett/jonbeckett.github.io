@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Days In Between"
 date: 2021-12-29
-categories: archive
+categories: "2021"
 ---
 
 If you're not working - which I'm not this year - the days between Christmas and New Year seem like a kind of vacuum - especially the last couple of years. With COVID rampaging around the community, nobody is going anywhere or doing anything. Days out have been put on hold, and visits to friends curtailed.

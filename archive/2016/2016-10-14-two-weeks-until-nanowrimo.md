@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Two Weeks Until Nanowrimo"
 date: 2016-10-14
-categories: archive
+categories: "2016"
 ---
 
 I realised today that NaNoWriMo (National Novel Writing Month) starts in two weeks. I'm already wondering if I can get away with doing it purely by writing 1700 words a day in the blog for a month ? I could title the book "Nothing Worth Writing About".

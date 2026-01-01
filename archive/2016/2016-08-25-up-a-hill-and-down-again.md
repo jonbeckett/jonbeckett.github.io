@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Up A Hill And Down Again"
 date: 2016-08-25
-categories: archive
+categories: "2016"
 ---
 
 After waking up this morning to a steady drizzle running down the windows of my parents house, any plans to repeat our trip to the beach went out of the window. Instead we made packed lunches, filled day bags with waterproofs and snacks, and set off across the headland to the nearby fishing village.

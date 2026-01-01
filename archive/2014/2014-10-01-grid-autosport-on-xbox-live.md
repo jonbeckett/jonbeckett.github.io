@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Grid Autosport On Xbox Live"
 date: 2014-10-01
-categories: archive
+categories: "2014"
 ---
 
 I played Grid Autosport (car racing game on the XBox 360) online for the first time last night.I hardly ever play games onlineor games at all, really. Earlier in the year I got into a pattern of staying up into the early hours to play a Formula One gamemainly because it was the only time I could guarantee exclusive use of the TV, and the only time I wouldn't be huffed or glared at for not doing chores.

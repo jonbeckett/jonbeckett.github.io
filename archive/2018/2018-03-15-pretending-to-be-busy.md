@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pretending To Be Busy"
 date: 2018-03-15
-categories: archive
+categories: "2018"
 ---
 
 I finished writing technical documentation for the project I'm working on a little after 11am this morning, and have been scratching around for anything to do ever since. There seems little point in starting development work, given that I'm only here for a few hours - next week I'm off to Germany again.

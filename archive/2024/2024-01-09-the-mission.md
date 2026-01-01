@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Mission"
 date: 2024-01-09
-categories: archive
+categories: "2024"
 ---
 
 Today's Bloganuary writing prompt asks "what is your mission?". Sometimes it feels like my mission is no more than making it through the day unscathed. There are times where the mission is more about avoiding the arrival of tomorrow for as long as possible.

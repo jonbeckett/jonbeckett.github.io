@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bringing The Life Streaming Experiment To A Close"
 date: 2010-06-09
-categories: archive
+categories: "2010"
 ---
 
 Last night I closed the book on the life stream experiment in tumblr. I have kept the tumblr account, but sanitised it, renamed it, and filed it away for a rainy day.

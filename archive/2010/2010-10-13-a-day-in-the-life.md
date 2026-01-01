@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Day In The Life"
 date: 2010-10-13
-categories: archive
+categories: "2010"
 ---
 
 Partly in order to force myself to take a lunch break, and partly to answer a recent question posed here, I'm going to run through a typical "day in my life".

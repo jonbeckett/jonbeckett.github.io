@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Crossing The Streams"
 date: 2017-06-02
-categories: archive
+categories: "2017"
 ---
 
 About a year ago I reduced the number of people I call a friend on Facebook down to just those I know in the "real world" - old school friends, the parents of my childrens friends, co-workers, and so on. It wasn't a complete cull, but it was pretty significant.

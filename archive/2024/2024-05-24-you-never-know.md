@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "You never know"
 date: 2024-05-24
-categories: archive
+categories: "2024"
 ---
 
 I often wonder if we are leaves floating along a river - travelling together for a time, finding our way, sometimes drifting apart, sometimes returning, sometimes not - but always changed by the journey.

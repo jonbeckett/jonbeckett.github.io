@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mammoth Coding Stretch"
 date: 2004-03-17
-categories: archive
+categories: "2004"
 ---
 
 I have just completed a mammoth coding stretch on a project that's having a milestone meeting tomorrow. For those who have no idea what I'm talking about, when you embark on a huge software development project, you agree with the client to have meetings every so often to check progress, details and so on.

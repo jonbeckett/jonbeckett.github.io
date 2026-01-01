@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rainy Days And Sundays"
 date: 2009-10-11
-categories: archive
+categories: "2009"
 ---
 
 If you arrived here expecting a post about The Carpenters, I should probably apologise. It's Sunday afternoon, the rain is falling outside, and I just sat down with a cup of tea. Not quite as exciting as Karen Carpenter, but at least it's the truth.

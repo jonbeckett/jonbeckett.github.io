@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Scrivener"
 date: 2014-06-04
-categories: archive
+categories: "2014"
 ---
 
 I caved this evening and bought Scrivener for the Macbook. I've heard about it for years on the internetAndy Ihnatko has mentioned it on various podcastsand I've read numerous reviews where journalists and novelists have expounded at length about the transformative powers it bestows on the writer.

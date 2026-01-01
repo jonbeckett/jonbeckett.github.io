@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In A Strange Mood"
 date: 2005-07-04
-categories: archive
+categories: "2005"
 ---
 
 I'm in a pretty strange mood today - the helpdesk at work was pretty busy this morning (Monday morning - nothing unusual there), but things have quietened down now. It leaves me sat here wondering what to get on with. I can't do any serious development work because if anything does come in, I have to drop it.

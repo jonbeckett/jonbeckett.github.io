@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Never Thought Of That Before"
 date: 2022-10-08
-categories: archive
+categories: "2022"
 ---
 
 It's been a strange few days.

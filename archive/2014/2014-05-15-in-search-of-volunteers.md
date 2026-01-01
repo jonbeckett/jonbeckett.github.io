@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Search Of Volunteers"
 date: 2014-05-15
-categories: archive
+categories: "2014"
 ---
 
 I have been tinkering withwetheusers.netover the last few daysfixing bugs, and polishing rough edges. If you have no idea what I'm talking about, "We The Users" is a prototype social blogging platform that I builtkind of a mashup of Twitter and Tumblr.

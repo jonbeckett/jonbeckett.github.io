@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Visitors French Cafe Playlists And A Week Of Running Ahead"
 date: 2021-05-31
-categories: archive
+categories: "2021"
 ---
 
 The sun is setting on a busy day. I'm sitting in the junk room, trying to gather my thoughts while sipping a cup of black coffee, and listening to a "Paris Cafe" playlist on Spotify. I've just pulled on a zipped hoodie - combating the after-effects of having caught the sun earlier in the day.

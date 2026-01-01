@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bedtime Stories"
 date: 2012-12-12
-categories: archive
+categories: "2012"
 ---
 
 After returning from work yesterday evening, I arrived home just in time to tuck the children in bed, and read their bedtime story. Given their inability to agree on any books I proposed, I made a fateful suggestion...

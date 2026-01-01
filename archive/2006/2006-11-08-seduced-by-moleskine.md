@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Seduced By Moleskine"
 date: 2006-11-08
-categories: archive
+categories: "2006"
 ---
 
 I have a secret.

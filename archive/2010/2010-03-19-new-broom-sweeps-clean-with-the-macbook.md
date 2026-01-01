@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "New Broom Sweeps Clean With The Macbook"
 date: 2010-03-19
-categories: archive
+categories: "2010"
 ---
 
 Who remembers the couple of years I spent working in central London ? Who remembers the blog posts written on the train, performing character assassination of fellow commuters? They were invariably authored on the white Macbook pictured above. It's not looking bad for 3 years old, is it.

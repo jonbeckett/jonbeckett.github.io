@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "All Worship The Flying Spaghetti Monster"
 date: 2005-07-21
-categories: archive
+categories: "2005"
 ---
 
 Okay - before I start, I would like to state that this will be the last post in the near future where I attack people with strong religious beliefs. I'm not an athiest, but people with closed minds (most people with any level of faith) make me mad.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Personal History Of Video Games"
 date: 2014-08-31
-categories: archive
+categories: "2014"
 ---
 
 Listed below are the video games I have owned over the years. Feel free to join in and list the ones you have had, and your memories of them.Atari 2600My brother had an Atari 2600 when I was about 7 years old. I remember sitting on the lounge floor, taking turns among him and his friends. I remember playing Space Invaders, Pacman, Combat, Space War, Defender, and Asteroids.

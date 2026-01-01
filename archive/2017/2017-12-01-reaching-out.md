@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Reaching Out"
 date: 2017-12-01
-categories: archive
+categories: "2017"
 ---
 
 I signed up for a Snapchat account yesterday. My third of the last few years. When Snapchat first appeared I didn't have a good enough phone to run it, so carried on with Instagram - posting endless little square photos to the internet for strangers to like and sometimes comment on. The first Snapchat account is still out there somewhere - I fell through some sort of crack in the system, and couldn't log into it again. I signed up again last year with a new account when the various novelty face filters appeared - and then forgot all about it for months.

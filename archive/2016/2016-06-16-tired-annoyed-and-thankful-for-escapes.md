@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tired Annoyed And Thankful For Escapes"
 date: 2016-06-16
-categories: archive
+categories: "2016"
 ---
 
 Today started out like a normal day. I got up, had a shower, shave, made breakfasts, packed lunches, washed up, sorted out medication for our eldest daughter, and got myself ready for work. I even managed to arrive a few minutes early, which I thought pretty miraculous given that every ass-hat in the known universe appeared to have taken to the roads through town during the few minutes I was on them.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend Continues With New Friends"
 date: 2008-01-27
-categories: archive
+categories: "2008"
 ---
 
 Following our marathon week of evenings out, and dinners with friends, we are rolling towards the end of the tracks today with perhaps the most interesting meet-up - but not before we ate so much yesterday we felt sick.

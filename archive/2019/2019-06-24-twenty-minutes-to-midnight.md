@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Twenty Minutes To Midnight"
 date: 2019-06-24
-categories: archive
+categories: "2019"
 ---
 
 I really don't know why I do this to myself. I sat down in the junk room an HOUR ago, with all the intentions in the world of sitting down to write a blog post. I've left it now until twenty minutes to midnight, with the OCD part of my brain screaming "if you don't post this within the next twenty minutes (nineteen now, actually), you'll have missed another day on the damn blog". I don't know why my brain does this to me - it's not like I HAVE to post every day.

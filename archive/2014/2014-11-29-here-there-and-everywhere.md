@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Here There And Everywhere"
 date: 2014-11-29
-categories: archive
+categories: "2014"
 ---
 
 We went out for dinner with friends last nightthe first time we have been out in several weeks, and the first time being "out out" for months. You're probably wondering what I mean by "out out". I mean a proper night outto a bar, with food, drink, and no children.

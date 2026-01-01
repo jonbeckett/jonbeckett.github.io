@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Run Like The Wind Bullseye"
 date: 2022-08-31
-categories: archive
+categories: "2022"
 ---
 
 Alexa, the curious daemon that lives within an electronic gadget on the bedside table burst into life in her metronomic way once again this morning - filling the room with Ronan and Harriet from Magic FM as they wished everybody a wonderful day before playing the same twenty songs they play every day.

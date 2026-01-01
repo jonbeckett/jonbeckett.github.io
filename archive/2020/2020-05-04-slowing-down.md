@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slowing Down"
 date: 2020-05-04
-categories: archive
+categories: "2020"
 ---
 
 While juggling various requests from my daughters, friends, emails, and instant messages today, I realised that I need to take a step back from everything for a while. I need to slow down. It's too easy to find yourself attempting to be everywhere for everybody, all of the time. Or at least, it's too easy for me.

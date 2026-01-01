@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tekken 5 Arrives"
 date: 2006-07-20
-categories: archive
+categories: "2006"
 ---
 
 Just before leaving the house this morning the postman came by, and delivered a jiffy bag. I stood in the hallway clutching it like a small child, almost too excited to inform W what I was holding.

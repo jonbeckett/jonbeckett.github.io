@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Beer Music And Rain"
 date: 2017-08-08
-categories: archive
+categories: "2017"
 ---
 
 Yesterday evening I was invited out to the "members evening" at the local brewery. If you become a member of the brewery - which costs an annual amount - you get discount off beer from the shop on-site, and you get to attend members nights throughout the year. I think they are every few months. Perhaps I should have mentioned that the beer is free and unlimited at members nights.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hooligans Disrupt My Journey Home"
 date: 2007-11-03
-categories: archive
+categories: "2007"
 ---
 
 Once again this evening I was reminded why I don't like football.

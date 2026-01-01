@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lazy Day In Cornwall"
 date: 2003-09-07
-categories: archive
+categories: "2003"
 ---
 
 We have travelled down to visit my parents in Cornwall for the weekend, and are having a very lazy Sunday indeed. I think being away from home kind of forces you into a different pattern - because you physically can't go off tinkering with something that needs to be done, you relax that little bit more.

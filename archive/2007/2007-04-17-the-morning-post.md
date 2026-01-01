@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Morning Post"
 date: 2007-04-17
-categories: archive
+categories: "2007"
 ---
 
 I regularly write an email to a few close friends on the internet, and thought it might be nice to post it both out to those who matter, and to my blog for a change. Enjoy!

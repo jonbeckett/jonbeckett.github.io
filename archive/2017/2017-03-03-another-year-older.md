@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Year Older"
 date: 2017-03-03
-categories: archive
+categories: "2017"
 ---
 
 A few minutes before the end of work yesterday, I heard a familiar sound climbing the stairs through the building towards my office, followed by a co-worker saying "hello!?" in a somewhat surprised fashion. I turned around to be greeted by three teenage girls, and my other half. They stood quietly, grinning, and watched while I checked source code in from the command line.

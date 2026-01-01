@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Weekend In Cornwall"
 date: 2007-04-01
-categories: archive
+categories: "2007"
 ---
 
 It's 8am on Sunday morning, and I have been up since 7 this morning when the dogs asked to go out. We are staying in the south west of England - Cornwall - with my parents who live just above Talland Bay.

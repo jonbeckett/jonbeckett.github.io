@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Development Day"
 date: 2024-11-18
-categories: archive
+categories: "2024"
 ---
 
 I'm back at work today after a week at home - a "staycation". Of course I work from home, so I'm not really "back" - I'm still here - where I was, where I am, where I will be.

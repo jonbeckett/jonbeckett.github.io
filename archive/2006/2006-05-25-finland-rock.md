@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Finland Rock"
 date: 2006-05-25
-categories: archive
+categories: "2006"
 ---
 
 I forgot to mention that last weekend I sat and watched the Eurovision Song Contest, and happily voted for the runaway winner - Lordi, from Finland...

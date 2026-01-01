@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Snotty Laptops And Strange Dreams"
 date: 2008-10-30
-categories: archive
+categories: "2008"
 ---
 
 I'm writing from the train once again. It's 7:37am at the time of writing. I was up just before 6 - a luxury afforded by half term, and the children not requiring clothing, lunches, or breakfast ahead of the school run.

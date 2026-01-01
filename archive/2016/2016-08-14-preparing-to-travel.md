@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Preparing To Travel"
 date: 2016-08-14
-categories: archive
+categories: "2016"
 ---
 
 I'm leaving on the early train in the morning, heading first into central London, and then north towards a hotel on the edge of a business park several hundred miles from home. I'll be there until Friday.

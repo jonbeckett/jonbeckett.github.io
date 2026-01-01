@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ie7 Good But Flawed"
 date: 2006-04-26
-categories: archive
+categories: "2006"
 ---
 
 You may not know that Microsoft released beta 2 of Internet Explorer 7 last month. I've been trying it out and was initially impressed - however I've just had to remove it and revert to IE6. It has at least two major flaws that (for a web developer) mean I cannot use it.

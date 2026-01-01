@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Good Girl"
 date: 2006-06-03
-categories: archive
+categories: "2006"
 ---
 
 Last weekend I bought the movie "The Good Girl" from the bargain bin of the local Blockbuster, thinking it would be a good no-brain-required, typical "Jennifer Aniston" romantic comedy to watch one night when we wanted to chill out.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Turning The Pedals"
 date: 2017-10-22
-categories: archive
+categories: "2017"
 ---
 
 Cycling to work this morning seemed like hard work. It's amazing how sitting in a hotel for a week can take the formerly super-human strength from your legs and hide it somewhere. I guess it doesn't help that I have a few days booked off work this week - which I fully intend to spend sitting on my backside watching movies, and playing board games with the children, who are on half-term.

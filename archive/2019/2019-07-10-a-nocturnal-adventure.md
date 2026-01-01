@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Nocturnal Adventure"
 date: 2019-07-10
-categories: archive
+categories: "2019"
 ---
 
 After making it to bed a little after midnight last night, I had just put my book down, turned the light out, put the phone on charge, and was drifting off to sleep when I heard noises from across the landing. Surely one of the children wasn't still awake ?

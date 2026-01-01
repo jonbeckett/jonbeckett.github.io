@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "End Of A Long Week"
 date: 2005-04-15
-categories: archive
+categories: "2005"
 ---
 
 This week quite a lot happened.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not Being There"
 date: 2009-11-10
-categories: archive
+categories: "2009"
 ---
 
 I haven't said anything about this on my blog yet - but half the reason for me spending so much time with the children recently has been because I knew what was on the horizon at work.

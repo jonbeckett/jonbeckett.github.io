@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Written Hints From The Universe"
 date: 2019-05-30
-categories: archive
+categories: "2019"
 ---
 
 Even though every logical part of my being tends to support the idea that the world is random, chaotic, and therefore the product of our interactions with it, I'm beginning to suspect there might be an insidious plot going on at a much higher level.

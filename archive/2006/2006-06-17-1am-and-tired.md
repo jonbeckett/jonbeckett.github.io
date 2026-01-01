@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "1Am And Tired"
 date: 2006-06-17
-categories: archive
+categories: "2006"
 ---
 
 It's 01:00 on Saturday morning, and I have been programming all night. I am relatively pleased though - I now have a complete database wrapper class that I can use in the rest of the code I'm going to be writing this weekend.

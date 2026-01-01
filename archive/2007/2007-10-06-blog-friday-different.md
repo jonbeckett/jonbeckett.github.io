@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blog Friday Different"
 date: 2007-10-06
-categories: archive
+categories: "2007"
 ---
 
 The word this week at BlogFriday is "Different". While searching through the various junk in the corners of my mind that might fit against "different", I wandered over to dictionary.com - it had the following definition;

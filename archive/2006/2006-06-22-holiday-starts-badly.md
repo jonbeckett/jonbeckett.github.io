@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Holiday Starts Badly"
 date: 2006-06-22
-categories: archive
+categories: "2006"
 ---
 
 We were supposed to have been on the boat by now, sailing out of Plymouth Sound. Instead we are sat at home waiting for my parents to return from Dereford Hospital in Plymouth.

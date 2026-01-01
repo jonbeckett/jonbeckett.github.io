@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Busy Busy"
 date: 2009-04-23
-categories: archive
+categories: "2009"
 ---
 
 You may have noticed the severe lack of posts from me recently. A combination of working on a huge project to a deadline in the daytime, freelance work in the evenings, and the usual stresses and strains of family life have resulted in me not really getting a chance to write for a while.

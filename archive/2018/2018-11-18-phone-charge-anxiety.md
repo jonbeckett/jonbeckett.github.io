@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Phone Charge Anxiety"
 date: 2018-11-18
-categories: archive
+categories: "2018"
 ---
 
 While traveling home from London on Saturday evening, the battery on my mobile phone died - much to the amusement of my eldest daughter, who I had accompanied for the day. I will admit that it was likely all my own fault - since getting an iPhone, I have been installing anything and everything - coffee shop apps, walking apps, voucher apps, health apps - you name it - I had it. Notice I said "had".

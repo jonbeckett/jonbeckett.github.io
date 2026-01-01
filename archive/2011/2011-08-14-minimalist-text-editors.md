@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Minimalist Text Editors"
 date: 2011-08-14
-categories: archive
+categories: "2011"
 ---
 
 A little while ago I discovered a collection of word processing applications for various operating systems that dispense with just about every feature besides changing the display font, and saving your work.

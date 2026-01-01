@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Drained And A Bit Depressed"
 date: 2005-04-25
-categories: archive
+categories: "2005"
 ---
 
 We had to buy a new car this weekend, because W's is dying slowly. We discovered it had a problem the last time we went to visit my parents in cornwall - on the way back we had to be towed for the last 100 miles or so of the journey to save the car from blowing itself to pieces.

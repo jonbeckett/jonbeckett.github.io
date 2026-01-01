@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Missed Vocations"
 date: 2020-03-27
-categories: archive
+categories: "2020"
 ---
 
 I conducted something of an experiment today. While quietly getting on with work in the junk room, I left the children to their own devices - they know they have school work to get on with, so it shouldn't be a problem. Yeah, right.

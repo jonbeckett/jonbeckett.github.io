@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Work Money And Ethics"
 date: 2017-07-18
-categories: archive
+categories: "2017"
 ---
 
 My parents are by most people's standards, "independently wealthy". Our family had a family business when I was growing up - a pretty major quarry that made bricks, slabs, and all sorts of other architectural stone products. Many of the housing developments for the hundred or so miles around Oxford used the stone. I grew up knowing a world of hard work, dirt, limestone, and sweat. I spent every school and college summer working in the noise, dust, and grime. The business sold when I was in my early twenties - my Dad and his siblings retired early, and the family scattered - everybody moved away. I moved away too, but that was because I met a girl.

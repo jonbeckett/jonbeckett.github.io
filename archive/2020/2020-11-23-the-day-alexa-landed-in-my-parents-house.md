@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Day Alexa Landed In My Parents House"
 date: 2020-11-23
-categories: archive
+categories: "2020"
 ---
 
 The day has been never ending. At one point I was on a conference call with work, the home phone rang, my mobile rang, somebody came to the door, and then my Dad called on the Amazon Echo in the kitchen - all within two or three minutes.

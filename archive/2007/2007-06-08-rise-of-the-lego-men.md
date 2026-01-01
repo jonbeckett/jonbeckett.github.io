@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rise Of The Lego Men"
 date: 2007-06-08
-categories: archive
+categories: "2007"
 ---
 
 I just created the most ridiculous wallpaper ever 

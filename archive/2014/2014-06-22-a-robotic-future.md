@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Robotic Future"
 date: 2014-06-22
-categories: archive
+categories: "2014"
 ---
 
 Over the years I have owned and used just about every major mobile phone operating systemvarious versions of Android, iOS, Blackberry OS, and Windows Phone. I started out on candybar phones back with a succession of Nokias (including the fabled 6310i that I refuse to sell), and the incredible Sony Ericsson K800, that still has perhaps the best camera I've ever seen in a mobile phone.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Wisdom Of Children"
 date: 2010-03-15
-categories: archive
+categories: "2010"
 ---
 
 In between various work requests and support calls from customers, I sat at work this morning watching the clock - watching for 11am to arrive; knowing it would mark the end of a little life in a vet's surgery a few miles away.

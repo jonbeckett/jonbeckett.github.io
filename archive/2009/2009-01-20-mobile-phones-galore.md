@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mobile Phones Galore"
 date: 2009-01-20
-categories: archive
+categories: "2009"
 ---
 
 With the impending trip my iPhone is going to make back to Apple (it's borked), I will have to survive with an alternative mobile phone for a couple of weeks.

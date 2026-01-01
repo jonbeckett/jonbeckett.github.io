@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The best and the worst"
 date: 2024-12-09
-categories: archive
+categories: "2024"
 ---
 
 I'm a little bit sad today. A little bit disappointed. It's hard to describe why without breaking any confidences, but I'll try.

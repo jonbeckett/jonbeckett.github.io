@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To The Grind"
 date: 2019-12-09
-categories: archive
+categories: "2019"
 ---
 
 I'm back in the office today, and determinedly taking a break over lunch rather than work straight though. It's a terrible habit - working straight through - but something that has been borne out of necessity over the last two or three years. One project after another has landed on my desk - usually with unrealistic timescales and expectations. It doesn't help that I repeatedly bust my arse to give people what they want, rather than draw a line.

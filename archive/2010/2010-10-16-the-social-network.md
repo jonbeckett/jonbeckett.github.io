@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Social Network"
 date: 2010-10-16
-categories: archive
+categories: "2010"
 ---
 
 Mostly thanks to our wonderful friends Emma and Andrew who babysat for us this evening, we escaped to the cinema for the first time in three years tonight, in order to watch The Social Network - the movie about the origin of Facebook.

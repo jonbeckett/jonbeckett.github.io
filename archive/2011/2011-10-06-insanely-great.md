@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Insanely Great"
 date: 2011-10-06
-categories: archive
+categories: "2011"
 ---
 
 At some time after midnight last night I was checking twitter, and saw a post from Pete Cashmore at Mashable appear at the top of the stream"Steve Jobs has died". It was quickly followed by just about every major news network, and then signalled to the world via the Apple website.

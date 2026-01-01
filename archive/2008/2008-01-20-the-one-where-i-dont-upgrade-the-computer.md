@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Dont Upgrade The Computer"
 date: 2008-01-20
-categories: archive
+categories: "2008"
 ---
 
 Our computer (the Windows XP desktop) at home started to disintegrate this morning in noisy fashion. Following the school of thought that says "you should never switch a computer off", I haven't done so for many months. Then last night, in order to provide a peaceful night's sleep to my brother in law, it was switched off.

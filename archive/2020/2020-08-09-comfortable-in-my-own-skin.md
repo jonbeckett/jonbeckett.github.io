@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Comfortable In My Own Skin"
 date: 2020-08-09
-categories: archive
+categories: "2020"
 ---
 
 I decided about an hour ago that it might be a good idea to update my profile photo everywhere - to better reflect what I have looked like for the last six months or so. It struck me while posting it that something unexpected has happened in recent times - I have become more-or-less comfortable in my own skin. In my thoughts too. Things haven't always been this way.

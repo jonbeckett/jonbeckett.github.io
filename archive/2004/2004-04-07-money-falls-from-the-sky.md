@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Money Falls From The Sky"
 date: 2004-04-07
-categories: archive
+categories: "2004"
 ---
 
 Those that read this blog regularly will know that once upon a time I used to run a writing website called ThoughtCafe, and that it closed down at the end of March. (ThoughtCafe was a website for writers where they could post their writings and others could comment - for feedback and such like).

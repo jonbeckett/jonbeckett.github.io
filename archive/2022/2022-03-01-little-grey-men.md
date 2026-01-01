@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Little Grey Men"
 date: 2022-03-01
-categories: archive
+categories: "2022"
 ---
 
 It's the last day of February today. Where in the world did February go? I'm sure it was only Christmas last weekend. Is this how life works? A slow acceleration until you're not sure how old you are, or how long it's been since you last saw so-and-so?

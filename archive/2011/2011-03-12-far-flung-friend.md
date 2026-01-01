@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Far Flung Friend"
 date: 2011-03-12
-categories: archive
+categories: "2011"
 ---
 
 After doing a little re-wiring of the internet firmament yesterday lunchtime ahead of this post, I received a somewhat puzzled email from a long time internet friend...

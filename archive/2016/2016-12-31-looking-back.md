@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Looking Back"
 date: 2016-12-31
-categories: archive
+categories: "2016"
 ---
 
 It seems somehow appropriate, given that we are spending New Years Eve on our own at home, to look back over the last 12 months and write a few well considered words about how well or badly I think the year went. Here's the thing though - I don't think anybody is remotely interested in reading recycled recollections. Can we just say that all sorts of crap went on this year, and move on?

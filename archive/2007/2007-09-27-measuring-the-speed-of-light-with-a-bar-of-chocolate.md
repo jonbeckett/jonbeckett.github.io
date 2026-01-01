@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Measuring The Speed Of Light With A Bar Of Chocolate"
 date: 2007-09-27
-categories: archive
+categories: "2007"
 ---
 
 The following "back yard" science experiment was copied from the "Times Online" website - I hope they don't mind me re-publishing an excerpt of their article, but I thought it was so good it had to be shared.

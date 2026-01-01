@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Livejournal Endures"
 date: 2015-06-10
-categories: archive
+categories: "2015"
 ---
 
 Over the past couple of weeks I have reverted my "username" on all of the big social internet platforms to my real name. I had experimented with a pseudonym for some time, and while the anonymity was an escape of sorts, it always felt false, shallow, and ultimately empty.

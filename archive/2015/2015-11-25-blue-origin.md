@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blue Origin"
 date: 2015-11-25
-categories: archive
+categories: "2015"
 ---
 
 It seems to have escaped the main-stream news because it's obviously far more important for every news organisation on the planet to cover doom and gloom stories rather than anything exciting, or hopeful.

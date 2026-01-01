@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "When 2 Hours Take 5"
 date: 2013-07-23
-categories: archive
+categories: "2013"
 ---
 
 We left a distant client site in searing temperatures at 5pm last night, and set out on the journey homea journey that should have taken 2 hours only it didn't. It took 5 hours.

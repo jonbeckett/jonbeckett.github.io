@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Writing And Not Writing"
 date: 2017-11-06
-categories: archive
+categories: "2017"
 ---
 
 Today's WordPress Blogging University writing exercise is asking me to consider what I might write if I had more time to write:

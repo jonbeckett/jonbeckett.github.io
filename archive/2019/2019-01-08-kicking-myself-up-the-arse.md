@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Kicking Myself Up The Arse"
 date: 2019-01-08
-categories: archive
+categories: "2019"
 ---
 
 This blog has been unspeakably rubbish recently. There. I said it. I've been churning out posts like some sort of cheap sausage machine - more because I thought I should than because I had anything to say. It's a slippery slope, and I have no idea how to halt the slide.

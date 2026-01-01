@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "November Nablopomo"
 date: 2014-10-29
-categories: archive
+categories: "2014"
 ---
 
 "National Blog Posting Month" was invented by Eden Kennedy in 2006 for those of us that were never going to have a chance at "National Novel Writing Month" (where the truly insane try to write a 50,000 word novel during November).The challenge is simply to post something on each day of November.

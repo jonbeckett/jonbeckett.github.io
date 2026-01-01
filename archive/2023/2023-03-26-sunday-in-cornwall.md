@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "sunday in cornwall"
 date: 2023-03-26
-categories: archive
+categories: "2023"
 ---
 
 If youave not been reading in recent days, Iam in the south-west of England at the moment a visiting my parents for a long weekend.

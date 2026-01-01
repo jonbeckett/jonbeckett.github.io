@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Hummy Sort Of Day"
 date: 2022-07-15
-categories: archive
+categories: "2022"
 ---
 
 In the book "The House at Pooh Corner", Christopher Robin asks Winnie the Pooh what he likes best in the whole world. Pooh answers:

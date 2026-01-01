@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Has Anybody Seen The Weekend"
 date: 2011-01-24
-categories: archive
+categories: "2011"
 ---
 
 Seriously... has anybody seen my weekend anywhere? I'm sure it was due to arrive at the end of Friday. I checked the doormat. I even checked down the side of the house - to see if it had been left anywhere. I wonder if any of the neighbours has it?

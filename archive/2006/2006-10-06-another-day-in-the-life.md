@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Day In The Life"
 date: 2006-10-06
-categories: archive
+categories: "2006"
 ---
 
 While running around doing ten things at once since getting in from work this evening I thought it might be worth recording "just another day in my life" for the interest and amusement of others.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "If You Could Have A Superpower What Would You Choose"
 date: 2010-11-03
-categories: archive
+categories: "2010"
 ---
 
 While talking to a fellow blogging friend earlier about the dearth of bloggable things happening in my life at the moment (not the best situation to find yourself in during a month when you're supposed to be posting every day), she suggested the title of this post...

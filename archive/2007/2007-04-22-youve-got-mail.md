@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Youve Got Mail"
 date: 2007-04-22
-categories: archive
+categories: "2007"
 ---
 
 We are just sat here watching one of the many "100 best" programmes on television. This particular programme is the 100 most romantic movies. At number 30 they had "You've Got Mail" - the movie starring Tom Hanks and Meg Ryan.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Recuperating"
 date: 2004-10-06
-categories: archive
+categories: "2004"
 ---
 
 It would appear that I am actually getting better today... thank god!

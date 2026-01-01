@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "This Week In Tech"
 date: 2010-10-18
-categories: archive
+categories: "2010"
 ---
 
 Listening to "This Week In Tech" while tidying up the study. They're talking about the lifestyle choice of the blogger, versus journalists of yore - and the requirement (particularly for tech bloggers) to report the news as it happens.

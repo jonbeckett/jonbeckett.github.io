@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apparently We Have A New Car"
 date: 2009-02-10
-categories: archive
+categories: "2009"
 ---
 
 I called home earlier today, knowing that W went looking at replacement cars.

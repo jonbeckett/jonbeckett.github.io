@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "For A Friend"
 date: 2018-03-30
-categories: archive
+categories: "2018"
 ---
 
 There is a laptop on the desk in the junk room - it's been there since yesterday evening. It belongs to a teaching assistant at the school where my other half works, and arrived at our house after spending two weeks at PC World, where all they achieved was locking him out of his own computer, and then giving him a refund. Needless to say, within half an hour I had broken into it, and set about undoing everything they had done to it.

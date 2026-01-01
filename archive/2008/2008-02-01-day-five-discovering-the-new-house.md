@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Day Five Discovering The New House"
 date: 2008-02-01
-categories: archive
+categories: "2008"
 ---
 
 At about 10:30 this morning there was a knock on our front door, which opened to show several smiling little faces, followed by their foster carer who also had a baby in tow that she's caring for.

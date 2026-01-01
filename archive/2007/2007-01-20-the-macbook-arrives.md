@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Macbook Arrives"
 date: 2007-01-20
-categories: archive
+categories: "2007"
 ---
 
 I finally have a MacBook. My prediction nearly came true too about various disasters occuring to prevent it's arrival. Last night the heating packed up in our house, and then this morning while travelling to the store to purchase the MacBook, the right rear shock of our car dumped it's damper fluid onto the road - making the suspension sound like Ringo Starr on a bad day.

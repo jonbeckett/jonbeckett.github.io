@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Awkward Much "
 date: 2016-09-09
-categories: archive
+categories: "2016"
 ---
 
 When I arrived at a client site with work recently, the woman that greeted me in reception shook my hand, and then the following conversation happened :

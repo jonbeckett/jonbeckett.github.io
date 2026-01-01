@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where Did This Week Go"
 date: 2014-10-09
-categories: archive
+categories: "2014"
 ---
 
 I seem to remember stopping at some point towards the tail end of last week, and wondering where on earth the week had gone. It's happening again. It's only Thursday, and yet here I amshaking my head. It feels like my feet haven't touched the ground for days.

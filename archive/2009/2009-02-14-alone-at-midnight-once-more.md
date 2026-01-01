@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Alone At Midnight Once More"
 date: 2009-02-14
-categories: archive
+categories: "2009"
 ---
 
 Once again I'm sat here in the early minutes of the morning, alone downstairs, bathed in the light of the monitor, fingers tapping away at inconceivably complicated garbage in the pursuit of a second string career.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Gardening Pratfalls And Explosive Laughter"
 date: 2012-05-24
-categories: archive
+categories: "2012"
 ---
 
 While cutting the grass in the back garden last night, the children made their way out into the garden to accompany me - to watch, to get in the way, and to shout "watch this Dad" as they dangled upside down in the climbing frame.

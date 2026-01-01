@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bill Bryson Rugby Sevens And Late Night Running"
 date: 2019-10-13
-categories: archive
+categories: "2019"
 ---
 
 On Saturday night we visited Oxford - the city I think of as my real home - to see Bill Bryson present a show at the New Theatre in George Street. I had no pre-conceptions going in, other than it might follow the format of so many other "an audience with" type productions - and I was more or less right.

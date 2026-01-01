@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Boxing Day Morning"
 date: 2021-12-26
-categories: archive
+categories: "2021"
 ---
 
 It's the morning after the day before. A very different Christmas than those that have come before - certainly when compared against the last decade at least. The children are no longer children.

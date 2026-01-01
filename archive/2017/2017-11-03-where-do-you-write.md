@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where Do You Write "
 date: 2017-11-03
-categories: archive
+categories: "2017"
 ---
 
 Today's writing prompt from the WordPress Blogging University "Every Day Inspiration" course asks me to describe the place I write. I think I've described this place before, but I'll go again, because I have nothing better to be doing right now.

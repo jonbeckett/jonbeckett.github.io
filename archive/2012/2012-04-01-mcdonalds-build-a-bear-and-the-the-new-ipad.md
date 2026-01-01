@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mcdonalds Build A Bear And The The New Ipad"
 date: 2012-04-01
-categories: archive
+categories: "2012"
 ---
 
 After standing in a freezing cold field for a couple of hours yesterday morning watching our eldest's football team get walloped by a team of bigger, stronger, faster girls (most of which appeared to be at least a year older), I finally escaped with Miss Eight in tow, and jumped on the train to Reading.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Entertainment From Cupertino"
 date: 2011-02-24
-categories: archive
+categories: "2011"
 ---
 
 When the first tweets rang out across the twitterverse this morning about the online Apple Store closing it's doors for a few hours, I informed my colleagues - any colleagues interested at all in the ensuing idiocy - what was about to happen.

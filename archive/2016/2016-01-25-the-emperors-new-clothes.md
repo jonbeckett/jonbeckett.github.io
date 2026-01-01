@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Emperors New Clothes"
 date: 2016-01-25
-categories: archive
+categories: "2016"
 ---
 
 At 5:40am this morning, my body performed it's remarkable trick of waking up ahead of the alarm clock programmed for 6am. I rolled over, felt for a mobile phone shape on the bedside table, and disabled the alarm. I don't know why I botheredtwo minutes later my other half's iPad erupted in Farmville notifications in the darknessmooing spectacularly. She slept straight through it.

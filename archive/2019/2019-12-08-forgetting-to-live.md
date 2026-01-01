@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Forgetting To Live"
 date: 2019-12-08
-categories: archive
+categories: "2019"
 ---
 
 While off work over the last several days, I've been quietly watching, reading, commenting, and liking posts across the various social platforms on the internet.

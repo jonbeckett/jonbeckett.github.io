@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tiredness Abounds"
 date: 2015-05-05
-categories: archive
+categories: "2015"
 ---
 
 After fitful sleep last night I finally woke with the radio alarm clock at 7, and blearily checked my phone. Looking for emails, or messages as soon as I wake has become a habit - before getting out of bed - before having a wash. Check the phone - then contemplate the horror of the coming day.

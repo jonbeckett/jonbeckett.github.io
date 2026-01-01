@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Seeking Solitude"
 date: 2021-10-24
-categories: archive
+categories: "2021"
 ---
 
 I'm becoming increasingly fed up with being called upon to help others with stuff (outside of my direct family, obviously). While it feels good to be able to help, there comes a point where you just wish you had a little time to yourself, and wished others would take a bit of responsibility in learning how to do things for themselves.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hello World"
 date: 2013-05-07
-categories: archive
+categories: "2013"
 ---
 
 Writing some kind of "hello world" post would appear to be the "done thing" at this juncture - the beginning of a breadcrumb trail leading on to all manner of adventure and intelligent debate. Who am I kidding? This is a blog. It's going to be full of navel gazing, ranting, and procrastinatory garbage.

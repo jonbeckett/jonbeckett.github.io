@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Night Pizza Club"
 date: 2016-11-07
-categories: archive
+categories: "2016"
 ---
 
 I have perhaps twenty minutes to write this before my other half returns home, and the house descends into chaos once more. Since returning home from work on Friday night I have been single handed with the younger children. Washing their clothes, picking up after them, feeding them, reading to them, watching movies with them, playing board games with them, and simply hanging out with them.

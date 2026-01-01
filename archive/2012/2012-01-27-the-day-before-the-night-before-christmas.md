@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Day Before The Night Before Christmas"
 date: 2012-01-27
-categories: archive
+categories: "2012"
 ---
 
 It's the final day of work before Christmas, and I find myself at something of a loose end. I'm attempting a little "housekeeping" with the work computer (which really means zipping up tens of gigabytes of virtual machines, and moving them to network storage - but you don't really want to know about that, because it will cause you to fall asleep standing up - which is probably quite dangerous).

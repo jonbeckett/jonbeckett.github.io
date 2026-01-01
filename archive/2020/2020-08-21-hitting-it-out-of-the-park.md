@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hitting It Out Of The Park"
 date: 2020-08-21
-categories: archive
+categories: "2020"
 ---
 
 Miss 16 received her exam results yesterday morning - passing eight of the nine exams she took with flying colours. While it's easy for me to write it, it wasn't easy for her to achieve at all - she worked her backside off for the last two years - going to early morning study sessions, weekend workshops, and more.

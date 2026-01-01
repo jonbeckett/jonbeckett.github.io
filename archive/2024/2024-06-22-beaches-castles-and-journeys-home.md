@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Beaches, Castles and Journeys Home"
 date: 2024-06-22
-categories: archive
+categories: "2024"
 ---
 
 The weather turned during our final full day in the holiday cottage on Anglesey. While my other half holed up in the lounge for the better part of the day, I braved the elements for at least a little while and walked down to the nearby beach to watch waves breaking on the shore, and to sort through the shells, driftwood and pebbles that had washed ashore.

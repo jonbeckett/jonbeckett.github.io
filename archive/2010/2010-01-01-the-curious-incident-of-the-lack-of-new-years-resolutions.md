@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Curious Incident Of The Lack Of New Years Resolutions"
 date: 2010-01-01
-categories: archive
+categories: "2010"
 ---
 
 While wrestling with the idea of giving up the blog altogether earlier, conversation around me turned to resolutionsor rather "New Year Resolutions". I thought for a few moments and could not think of much worth achieving within the next year. For a while it seemed sad that I could not think of anything, and then it dawned on me that it was a good thing.

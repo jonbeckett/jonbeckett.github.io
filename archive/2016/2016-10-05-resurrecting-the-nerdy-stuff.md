@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Resurrecting The Nerdy Stuff"
 date: 2016-10-05
-categories: archive
+categories: "2016"
 ---
 
 I resurrected my personal homepage on the internet today - the site filled with techie stuff - programming snippets - nerdy stuff. I'm resisting the temptation to tell you where it is, because I would rather keep my personal and professional lives entirely separate from each other. It's not that I don't want co-workers reading these streams of consciousness (I don't mind who reads) - it's just that a little separation frees me to write about more subjects, if that makes sense.

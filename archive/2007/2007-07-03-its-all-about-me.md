@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its All About Me"
 date: 2007-07-03
-categories: archive
+categories: "2007"
 ---
 
 Following my struggle to find anything of interest to write about in recent times, friends and acquaintances have provided a gentle nudge in the ribs, and the advice that they really want to hear about me - not the books, the games, the movies, and the other incidental trappings of living my life.

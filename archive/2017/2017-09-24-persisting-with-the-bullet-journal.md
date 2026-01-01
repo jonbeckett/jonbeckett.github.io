@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Persisting With The Bullet Journal"
 date: 2017-09-24
-categories: archive
+categories: "2017"
 ---
 
 It's been a few weeks since starting out on the Bullet Journal adventure, so I thought it might be worth recording a few thoughts.

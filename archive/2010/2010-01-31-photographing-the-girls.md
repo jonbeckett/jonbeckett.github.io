@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Photographing The Girls"
 date: 2010-01-31
-categories: archive
+categories: "2010"
 ---
 
 While wandering around the house this morning making breakfast, I happened upon three little girls watching Sunday morning cartoons on the television, and playing various Nintendo handheld games. The bit of my brain that switches on when obvious photographs appear in front of me shouted "go and fetch the camera!", so I did.

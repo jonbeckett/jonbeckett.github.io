@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tinkering"
 date: 2018-03-10
-categories: archive
+categories: "2018"
 ---
 
 It's just gone 10pm on Sunday evening, and I'm in my usual bolt-hole - hiding out in the junk room, listening to music, and emptying my head into the keyboard while the younger children sleep, and my other half watches TV shows in the lounge. Miss 17 is chatting with friends on her phone in her room - I can faintly hear her voice over the music from time to time.

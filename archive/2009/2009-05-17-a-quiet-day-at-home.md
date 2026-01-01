@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Quiet Day At Home"
 date: 2009-05-17
-categories: archive
+categories: "2009"
 ---
 
 I had planned to stay at home today and bury myself in a couple of freelance projects that have been hitting the skids recently (due to the crazy schedules I've mentioned in the past). I didn't exactly count on feeling like crap. The family have been out all day visiting the in-laws, and I am sat here huddled in my biggest, thickest jumper, with the heating turned up, shivering like an idiot.

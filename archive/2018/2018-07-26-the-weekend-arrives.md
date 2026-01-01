@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend Arrives"
 date: 2018-07-26
-categories: archive
+categories: "2018"
 ---
 
 I've started writing this post several times over the last hour. I'm still not entirely sure where I'm going with it. Rather than actually write anything, I have procrastinated famously - installing two different text editors to try out, and vanishing down an internet rabbit hole in the process.

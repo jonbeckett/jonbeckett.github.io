@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ranking Bloggers At Livejournal"
 date: 2015-10-09
-categories: archive
+categories: "2015"
 ---
 
 For the past few months I've been playing with LiveJournal - cross posting stuff into it, and doing my best to read and comment on a few other people's stuff. I walked away once, and then wandered back again a few weeks later.

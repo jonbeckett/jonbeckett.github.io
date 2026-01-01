@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mexican Cheese Sandwiches"
 date: 2003-03-26
-categories: archive
+categories: "2003"
 ---
 
 We now have only two days before we go on holiday, and I'm really looking forward to it. We're off to the "Firth of Fourth" in Scotland - we will be staying in a little fishing village called St. Monans. I have never been to Scotland before so it's something of an adventure - and I've made a mental promise to myself not to take any kind of computer equipment with me.

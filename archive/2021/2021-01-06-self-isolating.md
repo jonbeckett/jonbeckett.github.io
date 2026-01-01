@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Self Isolating"
 date: 2021-01-06
-categories: archive
+categories: "2021"
 ---
 
 Our youngest daughter started coughing yesterday afternoon. Even though we suspected a run around town with her sister was the cause (it's bitterly cold outside), we waited for a couple of hours before making any decisions.

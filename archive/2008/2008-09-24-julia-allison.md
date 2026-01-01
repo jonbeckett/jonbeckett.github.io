@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Julia Allison"
 date: 2008-09-24
-categories: archive
+categories: "2008"
 ---
 
 Until I picked up the August 2008 edition of Wired Magazine while commuting home from London, I had no idea who Julia Allison was. It would appear that within the internet microcosm that is New York, with a little help from the Gawker celeb blog, Miss Allison has become quite the internet celebrity.

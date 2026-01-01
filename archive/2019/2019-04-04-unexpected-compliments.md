@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Compliments"
 date: 2019-04-04
-categories: archive
+categories: "2019"
 ---
 
 While winding down a series of meetings yesterday afternoon, I received an unexpected compliment. One of the ladies I had been working with all week noted that I "wasn't your typical nerd" - that I was "actually really intelligent". Just to give her observation some context, I had been working on the design of a fairly major system, and had a lightbulb moment of sorts - stopping everybody in the room, and drawing on the flipchart while saying "I think we've all been thinking about this wrong" (and of course by "we", I meant "you"). I grinned, and did that thing most people do when faced with a compliment - I dismissed it quietly, and tried to find something to compliment her on in return.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Final Day At The Coast"
 date: 2022-08-23
-categories: archive
+categories: "2022"
 ---
 
 After booking a restaurant table last night, we visited Fowey today (pronounced "Foy") - across the estuary from the small village we visited so often in my youth. We caught the local ferry, and somewhat remarkably found a parking space in the local car-park.

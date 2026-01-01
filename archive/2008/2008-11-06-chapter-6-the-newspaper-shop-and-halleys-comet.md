@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Chapter 6 The Newspaper Shop And Halleys Comet"
 date: 2008-11-06
-categories: archive
+categories: "2008"
 ---
 
 One morning while wandering through the streets of Witney on my way to the office, something in my head told me to stop off at the newsagent in Corn Street.

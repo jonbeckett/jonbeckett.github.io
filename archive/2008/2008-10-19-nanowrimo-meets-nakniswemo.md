@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nanowrimo Meets Nakniswemo"
 date: 2008-10-19
-categories: archive
+categories: "2008"
 ---
 
 No, I have not invented a new language.

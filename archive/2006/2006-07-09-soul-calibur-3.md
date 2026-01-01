@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Soul Calibur 3"
 date: 2006-07-09
-categories: archive
+categories: "2006"
 ---
 
 After a trip late yesterday afternoon to our local Blockbusters, I raided the bargain bin of second-hand games, and came away with Soul Calibur 3.

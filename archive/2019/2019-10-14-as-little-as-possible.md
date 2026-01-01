@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "As Little As Possible"
 date: 2019-10-14
-categories: archive
+categories: "2019"
 ---
 
 When I went out for the regular training run last night, I knew there was some tightness in my chest, but dismissed it as a virus of some kind - all sorts have been doing the rounds at work, so it would be no suprise if I had caught something or other.

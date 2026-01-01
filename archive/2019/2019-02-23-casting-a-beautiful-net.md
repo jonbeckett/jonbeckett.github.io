@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Casting A Beautiful Net"
 date: 2019-02-23
-categories: archive
+categories: "2019"
 ---
 
 It's 7pm on Sunday evening. The weekend is almost over. I'm just trying to take stock - trying to fit together where the day went. One of our friend's children stayed over last night, so the morning was spent trying to keep on top of where the kids were - what they were doing - who's house they were visiting, and so on. With my own children I'm a bit more relaxed, but when somebody else's child is involved I start to worry. I can pretty much predict where my kids will go, and what they might do in a given situation - I can't really say that for anybody else's children.

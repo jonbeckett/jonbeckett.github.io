@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Search Of Distraction"
 date: 2020-11-09
-categories: archive
+categories: "2020"
 ---
 
 It's been a strange sort of day - proof reading documents, checking, modifying, reading again. Hopefully I'm nearing the end of the journey I've been on in recent weeks, and will soon begin looking for the next.

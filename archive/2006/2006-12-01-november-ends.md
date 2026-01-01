@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "November Ends"
 date: 2006-12-01
-categories: archive
+categories: "2006"
 ---
 
 I have completed "National Blog Posting Month" (NaBloPoMo) successfully. For those who have no idea what on earth I am talking about, it was a challenge to write one or more posts for every day during November.

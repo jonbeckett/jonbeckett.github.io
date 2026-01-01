@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Old Friends"
 date: 2017-09-29
-categories: archive
+categories: "2017"
 ---
 
 After getting the usual Saturday morning madness of standing on the touchline of football matches out of the way, and tipping colossal quantities of noxious substances down drains to melt clogged hair, we played host to some of my other half's school friends today.

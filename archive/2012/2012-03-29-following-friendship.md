@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Following Friendship"
 date: 2012-03-29
-categories: archive
+categories: "2012"
 ---
 
 Something occurred to me today. I have to admit I had not really thought about it before, which probably says a lot about me as a person (or at least, it will after I explain what on earth I'm on about).

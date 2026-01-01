@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Washing Up"
 date: 2008-02-18
-categories: archive
+categories: "2008"
 ---
 
 Today I have been mostly washing up. Usually I switch off while washing things up, but this evening while drying the fourth sink full in a row, I became aware that all I did between eating dinner and bedtime was wash up dishes and pots.

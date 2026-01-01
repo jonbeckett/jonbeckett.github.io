@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Wanderer Returns"
 date: 2012-07-15
-categories: archive
+categories: "2012"
 ---
 
 J.

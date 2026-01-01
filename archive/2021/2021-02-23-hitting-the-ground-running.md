@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hitting The Ground Running"
 date: 2021-02-23
-categories: archive
+categories: "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe4b2741-0c5b-4614-96ab-1f5381b3c972_1920x1635.jpeg" />

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Spotify On Saturday Evening"
 date: 2015-02-21
-categories: archive
+categories: "2015"
 ---
 
 I just finished washing up after dinner - it feels like the day has been an endless sprint from start to finish, and the race hasn't finished yet. I'm growing increasingly tired. Maybe the Scotland trip will recharge my batteries.

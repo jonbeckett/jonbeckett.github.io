@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Theres Always Something"
 date: 2017-11-15
-categories: archive
+categories: "2017"
 ---
 
 This morning was... interesting. By "interesting", I probably mean lots of other words, but I'm unsure if I should write them down or not. Some of them will be swear words, some of them will by hyperbole, and some of them will be expressions of disbelief.

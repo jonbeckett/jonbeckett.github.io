@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pizza Popcorn Fizzy Drinks Movie Happy Children"
 date: 2011-06-16
-categories: archive
+categories: "2011"
 ---
 
 We were supposed to be at Brownies tonight for a special "Father's Day" evening filled with idiotic father/daughter races, competitions and activities. Rain, sickness, and a huge collision of too many things happening at once put an end to itmeaning we had to think of something on the spot to placate the children. Ten minutes after picking them up from school, I found myself fighting the ignorant hordes in the supermarket, buying pizza, popcorn, and fizzy drinks for a movie night. Their excitement was through the roofmainly because we have invented "movie night" ourselves as this huge junk food bonanza. They ask for a movie night every week, but we rarely let it happen. The next problem of course is "which movie?".

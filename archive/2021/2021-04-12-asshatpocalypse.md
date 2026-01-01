@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Asshatpocalypse"
 date: 2021-04-12
-categories: archive
+categories: "2021"
 ---
 
 Lockdown has partly come to an end in the UK - not that some people took any notice of it what-so-ever. Pubs, restaurants, and shops re-open today, albeit with all manner of social distancing and safeguarding rules.

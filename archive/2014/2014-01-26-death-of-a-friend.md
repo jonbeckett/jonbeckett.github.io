@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Death Of A Friend"
 date: 2014-01-26
-categories: archive
+categories: "2014"
 ---
 
 While reading through the recent posts of friends on the internet a little earlier today, I tripped over a cryptic reference to somebody I knew, and began a frantic scramble to hopefully disprove my fears.

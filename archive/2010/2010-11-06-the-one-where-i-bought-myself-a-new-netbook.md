@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Bought Myself A New Netbook"
 date: 2010-11-06
-categories: archive
+categories: "2010"
 ---
 
 Since the old netbook vanished into our eldest daughter's room, I have been without a mobile computer of my own. I had been using the Dell laptop we bought as a shared computer for the younger children, but it became obvious last week that we couldn't keep doing that. As much as the idea of sharing a computer is a good one, when your Dad is a software developer, you never quite know what operating system is going to appear on the screen when you boot it up (or boot loader, but I'm not going to get into that here...).

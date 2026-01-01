@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Early Train To London"
 date: 2017-11-22
-categories: archive
+categories: "2017"
 ---
 
 It's 6:31am, and I'm sitting on the train to London Paddington railway station. One of the advantages of travelling so early is the train is almost empty. I'm wondering if getting up this early is a sign of getting older? I keep hearing stories about old people getting up at ridiculous times in the morning - which no doubt explains how they manage to out shopping when everybody else is trying to get to work.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rebuilding Miss 17"
 date: 2017-11-28
-categories: archive
+categories: "2017"
 ---
 
 Last night was a perfect example of the challenges faced by two parents attempting to parent three children. The eldest - often thought of as the most level headed, sensible, and placid - had fallen through the cracks while we juggled football, rugby, dance, and schoolwork with her younger sisters. When she needed us most, we were not there, and I feel awful about it.

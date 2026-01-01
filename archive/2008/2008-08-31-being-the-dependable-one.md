@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being The Dependable One"
 date: 2008-08-31
-categories: archive
+categories: "2008"
 ---
 
 The problem with being the predictable, dependable person that everybody knows, that everybody expects to remain the same, and that everybody expects a smile and help from is that the dependable person doesn't always feel the way he looks.

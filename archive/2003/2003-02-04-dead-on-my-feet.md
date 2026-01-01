@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dead On My Feet"
 date: 2003-02-04
-categories: archive
+categories: "2003"
 ---
 
 After pulling a late nighter working on my website last night, finally getting to bed at about 2:30, the tiredness has really hit me this afternoon.

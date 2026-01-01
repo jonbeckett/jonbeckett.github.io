@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Challenges Westworld And Spaghetti Bolognese"
 date: 2022-08-02
-categories: archive
+categories: "2022"
 ---
 
 Today has been a difficult day. A work project suffered a setback, and while nobody in particular did anything "wrong", you can't help wondering if there was something you could have done that might have resulted in a different outcome. Hindsight is a wonderful thing.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Catching Up On Lost Time"
 date: 2022-02-22
-categories: archive
+categories: "2022"
 ---
 
 I'm sitting in front of the computer at the end of the working day, listening to a random playlist on a free spotify account. How is it only Tuesday?

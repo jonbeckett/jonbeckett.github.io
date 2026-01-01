@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "5 Javascript Libraries For Common Web Design Tasks"
 date: 2010-09-21
-categories: archive
+categories: "2010"
 ---
 
 Cufon

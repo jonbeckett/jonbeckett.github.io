@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Everything Changes"
 date: 2006-10-21
-categories: archive
+categories: "2006"
 ---
 
 Some of the people that read my blog were surprised earlier this week by my decision to start winding down the "development" area of the website. There were somewhat disgruntled murmurings of "that's the end of the blog script then", and other such accusations. At the time I responded with a rather cryptic message about my spare time becoming more strained, and mentioned that I would write about it in my personal blog soon.

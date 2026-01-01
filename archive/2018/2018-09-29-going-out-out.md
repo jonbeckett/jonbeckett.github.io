@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Going Out Out"
 date: 2018-09-29
-categories: archive
+categories: "2018"
 ---
 
 I'm sitting in the study at home (a rather grand title for the junk room, but it sounds sophisticated), at the old desktop computer, trying to think of where to start. We have been at a rugby match all day - watching our younger children play their first competitive game of the season.

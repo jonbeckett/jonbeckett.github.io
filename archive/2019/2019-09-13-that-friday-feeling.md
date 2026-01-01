@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "That Friday Feeling"
 date: 2019-09-13
-categories: archive
+categories: "2019"
 ---
 
 I was late for work today. I took a detour through town to get my mobile phone battery replaced, and to get a haircut. My hair had reached the curious "starting to look like a yeti" stage. I'm not sure if it's an age thing, but at some point in your life, the hair starts to grow out of the sides of your head faster than the top - it's pretty funny.

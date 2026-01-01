@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Unexpected Avalanche"
 date: 2020-12-05
-categories: archive
+categories: "2020"
 ---
 
 You know how I wrote yesterday that a publication on Medium had syndicated a few of my posts ? After the initial surprise and excitement, reality kind of set in - the posts got read by a few hundred people, and then everything seemed to go quiet. I sat here and imagined a tumbleweed rolling past.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Finding Balance In The Force"
 date: 2008-04-28
-categories: archive
+categories: "2008"
 ---
 
 It's hard. I'm sat here, trying to concentrate while writing this blog post. W is watching "Waking the Dead" on the television, and my good headphones are at work - meaning my ability to block out external stimulus is being tested to the extreme.

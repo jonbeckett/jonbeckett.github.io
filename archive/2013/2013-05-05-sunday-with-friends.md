@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday With Friends"
 date: 2013-05-05
-categories: archive
+categories: "2013"
 ---
 
 After a slightly crazy morning running here there and everywhere, the remains of Sunday were spent with good friendslaughing, telling stories, eating badly barbecued food in the garden, drinking hot chocolate in the dark, and playing the most unlikely game of soccer with the children imaginable.

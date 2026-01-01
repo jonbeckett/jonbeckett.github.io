@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fantastic Sunday"
 date: 2005-07-24
-categories: archive
+categories: "2005"
 ---
 
 Fantastic Sunday

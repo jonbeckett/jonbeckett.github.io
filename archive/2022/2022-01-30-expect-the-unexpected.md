@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Expect The Unexpected"
 date: 2022-01-30
-categories: archive
+categories: "2022"
 ---
 
 It's funny how life throws curve-balls at you from time to time, isn't it. Just as everything seems to be plodding along in a fairly straight line for a while, wallop - a pizza delivery truck slams into your daily routine.

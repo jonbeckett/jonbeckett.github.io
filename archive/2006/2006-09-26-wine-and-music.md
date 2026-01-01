@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wine And Music"
 date: 2006-09-26
-categories: archive
+categories: "2006"
 ---
 
 This evening finds me re-discovering free time, wine, and most importantly music. I haven't done this in ages - there is a value to be had from relaxing in a dark room with good music. There is another value to be had from discovering new musicians.

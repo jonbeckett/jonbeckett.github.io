@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Trying Harder"
 date: 2006-07-09
-categories: archive
+categories: "2006"
 ---
 
 I have had what feels like the first chance in weeks to catch up with some of my friends blogs this afternoon - and almost feel like an outsider, which is weird because I've been reading them for a long time now.

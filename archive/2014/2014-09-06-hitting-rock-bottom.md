@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hitting Rock Bottom"
 date: 2014-09-06
-categories: archive
+categories: "2014"
 ---
 
 The title of this post is a little disingenuous reallybecause in this case "Rock Bottom" was the title ofa music festival happening in a neighbouring village. I was informed (I am never asked) that we were going a few days ago, so pretty much scratched doing anything this weekend to make way for it.

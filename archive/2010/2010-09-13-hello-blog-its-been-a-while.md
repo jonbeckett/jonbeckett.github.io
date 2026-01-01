@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hello Blog Its Been A While"
 date: 2010-09-13
-categories: archive
+categories: "2010"
 ---
 
 Hello blog - it's been a while.

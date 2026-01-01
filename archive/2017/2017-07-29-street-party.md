@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Street Party"
 date: 2017-07-29
-categories: archive
+categories: "2017"
 ---
 
 We live in the corner of a green, which is surrounded by houses filled with many families we have never met. That all changed today after a number of the local residents organised a street party - or "party on the green" in this case.

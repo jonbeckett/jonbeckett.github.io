@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rest In Peace"
 date: 2017-06-30
-categories: archive
+categories: "2017"
 ---
 
 It started like any other Saturday. I woke at about 7:30, gazed at the ceiling for a while, checked my phone, then eventually wandered downstairs to have a shower at about 8. After the shower I made a cup of tea, and smiled at Miss 12 who was already up, and had been for some time. She has been invited to a movie night with a friend tonight, so got up at 7, had a shower, washed her hair, and already had her favourite clothes on - before breakfast time.

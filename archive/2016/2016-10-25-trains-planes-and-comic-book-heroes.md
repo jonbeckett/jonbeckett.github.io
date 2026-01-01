@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Trains Planes And Comic Book Heroes"
 date: 2016-10-25
-categories: archive
+categories: "2016"
 ---
 
 After the disaster that Monday became, I summoned Miss 12 from bed at 7am yesterday morning for a repeat performance. By 8am we were waiting patiently at the local railway station, watching the minutes tick down, and listening to the robotic voice of the public address system as it announced the approaching train.

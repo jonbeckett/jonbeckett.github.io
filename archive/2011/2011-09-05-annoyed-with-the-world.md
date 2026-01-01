@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Annoyed With The World"
 date: 2011-09-05
-categories: archive
+categories: "2011"
 ---
 
 I've had enough with the world today. I'm not quite sure if it's because my holiday is coming to an end, or because I've only had a few minutes to myself since I got up this morning.

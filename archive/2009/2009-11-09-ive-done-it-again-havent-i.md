@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ive Done It Again Havent I"
 date: 2009-11-09
-categories: archive
+categories: "2009"
 ---
 
 My blog is back at WordPress - hosted by their good selves rather than me. I haven't so much gone "full circle", as started another lap. Hopefully this will be the last.

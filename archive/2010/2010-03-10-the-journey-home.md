@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey Home"
 date: 2010-03-10
-categories: archive
+categories: "2010"
 ---
 
 1st Mile

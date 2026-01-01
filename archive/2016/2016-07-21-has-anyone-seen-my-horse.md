@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Has Anyone Seen My Horse"
 date: 2016-07-21
-categories: archive
+categories: "2016"
 ---
 
 It's been three days since the last blog post. That's probably a record of sorts. I have no idea what my longest streak of "every day" posts has been in the past, because I'm not enough of a nerd to track things to that extent. It feels like I've not so much fallen off the social horse, as lost the horse entirely.

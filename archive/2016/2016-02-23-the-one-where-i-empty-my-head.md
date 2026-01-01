@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Empty My Head"
 date: 2016-02-23
-categories: archive
+categories: "2016"
 ---
 
 I've had so many random thoughts churning around my head recentlyif I don't get them out of my head and onto a page, it feels like they will just drift awaylike i never had them, and then nobody will know just how crazy the internal workings of my idiotic brain are, which would be a shame. Maybe.

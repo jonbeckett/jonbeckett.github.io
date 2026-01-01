@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Case Of The Mondays"
 date: 2018-07-22
-categories: archive
+categories: "2018"
 ---
 
 I'm back drinking coffee again. Or at least, I am this morning. I had a cup yesterday too. Before you roll your eyes, and say "I knew you wouldn't last", it's been over a month. I'm not returning to four or five cups a day, because that's ridiculous (and was ridiculous). Maybe just a cup now and again, because I like coffee.

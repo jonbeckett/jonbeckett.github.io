@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts About Friendship"
 date: 2016-07-24
-categories: archive
+categories: "2016"
 ---
 
 One of the nice things about clearing the decks of the blog is that I can pick and choose old posts from time to time - to make them new again. A version of the following post first appeared in 2007.

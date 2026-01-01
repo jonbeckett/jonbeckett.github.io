@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Perks Of Being A Wallflower"
 date: 2016-02-25
-categories: archive
+categories: "2016"
 ---
 
 I have a guilty secret. I like reading young adult fiction. Don't get me wrongI still love reading "books for grown-ups", but sometimes I just want to switch offtake my brain outnot think too hard.

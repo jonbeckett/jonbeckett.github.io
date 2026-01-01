@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Burning The Candle At Both Ends"
 date: 2013-11-22
-categories: archive
+categories: "2013"
 ---
 
 Its 1:18am, and I'm sitting in a hotel bed a hundred miles or so away from home. My days have been filled with teaching people clever stuff, and my evenings have been filled with kicking a freelance web development project around the hotel room.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Went Back With A Hacksaw And Bolt Cutters"
 date: 2010-12-14
-categories: archive
+categories: "2010"
 ---
 
 If you either don't follow me on Facebook (you totally should), or you didn't see my status update the day before yesterday, let me relate a little story to you.

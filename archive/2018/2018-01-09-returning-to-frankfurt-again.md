@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To Frankfurt Again"
 date: 2018-01-09
-categories: archive
+categories: "2018"
 ---
 
 A taxi will arrive at my house early on Monday morning, and take me to Heathrow Airport, just outside London. I'm returning to Frankfurt in Germany once more - the first of many trips this year. Through until August, I will be spending one week of every four in Germany.

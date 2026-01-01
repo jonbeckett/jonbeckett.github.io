@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Burning the Candle"
 date: 2023-04-26
-categories: archive
+categories: "2023"
 ---
 
 We're heading towards the final half-hour of the working day, and I'm not entirely sure how I'm staying awake. After going "out out" last night - on a work night - I then stayed up until 2am when we got home - fooling around with the YouTube channel.

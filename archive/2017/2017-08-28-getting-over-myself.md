@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Getting Over Myself"
 date: 2017-08-28
-categories: archive
+categories: "2017"
 ---
 
 I woke with a start at 6am this morning - from an apparently thrilling dream that I cannot remember. While contemplating the bedroom ceiling, and watching a spider attempting to kill a shield bug, something made me compare my wrist watch against the bedroom alarm clock. One was wrong. I smiled while remembering the story my Dad told me when I was young - that having two clocks in no good at all, because if one is wrong, you don't know which to trust.

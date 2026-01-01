@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Petite Anglaise On Bbc Breakfast"
 date: 2008-03-05
-categories: archive
+categories: "2008"
 ---
 
 In between packing lunchboxes, getting dressed, and fielding "can we..." requests from our younger children this morning, W shouted from the kitchen "Catherine's going to be on the telly!"

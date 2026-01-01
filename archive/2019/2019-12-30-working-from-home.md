@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working From Home"
 date: 2019-12-30
-categories: archive
+categories: "2019"
 ---
 
 While preparing to bring my Christmas vacation to a screeching halt last night, and thinking through what I might need to prepare in terms of bike helmet, waterproofs, backpack, and so on, a thought occurred to me. After logging into my work email account, and working backwards through the last two weeks, I found the spreadsheet that had been copied around detailing who was working on which days. The notes accompanying the table of days and names made me smile - "the office will be closed until the 2nd January". So here I am - working from home.

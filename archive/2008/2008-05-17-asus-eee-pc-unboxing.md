@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Asus Eee Pc Unboxing"
 date: 2008-05-17
-categories: archive
+categories: "2008"
 ---
 
 The postman arrived at about 10:30am this morning with the package I ordered on Thursday night - an ASUS EEE PC. In the grand tradition of being a total geek, I photographed the unboxing process for the benefit of those who might be thinking about getting one, and wanted to have a look.

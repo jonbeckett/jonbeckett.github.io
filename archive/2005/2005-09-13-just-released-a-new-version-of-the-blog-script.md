@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Just Released A New Version Of The Blog Script"
 date: 2005-09-13
-categories: archive
+categories: "2005"
 ---
 
 After a bit of a slog, I have released a new version of the Blog script for people to download.

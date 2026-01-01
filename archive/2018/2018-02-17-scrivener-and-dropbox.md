@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Scrivener And Dropbox"
 date: 2018-02-17
-categories: archive
+categories: "2018"
 ---
 
 Sunday has been remarkably quiet so far. The girls went to rugby practice first thing while I got on with chores around the house. They arrived home early this afternoon, accompanied by a car full of groceries. We have food again!

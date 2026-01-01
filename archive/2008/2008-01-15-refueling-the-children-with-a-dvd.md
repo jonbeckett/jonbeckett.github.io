@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Refueling The Children With A Dvd"
 date: 2008-01-15
-categories: archive
+categories: "2008"
 ---
 
 Over the past several days we have been carrying a video camera around with us and recording as many normal activities as possible, in preparation to make a DVD for our future children to watch.

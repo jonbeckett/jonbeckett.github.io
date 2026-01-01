@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Absolutely Knackered"
 date: 2006-02-02
-categories: archive
+categories: "2006"
 ---
 
 I think I might be experiencing what some people call "burnout".

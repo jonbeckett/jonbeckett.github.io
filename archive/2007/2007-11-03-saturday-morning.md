@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Morning"
 date: 2007-11-03
-categories: archive
+categories: "2007"
 ---
 
 The soft light from the desk lamp paints the keyboard. It is 11am, Saturday morning. For the first time in days I have no plans.

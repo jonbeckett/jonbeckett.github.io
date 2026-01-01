@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Home Schooling Begins"
 date: 2020-03-23
-categories: archive
+categories: "2020"
 ---
 
 Today was our first "proper" day at home as a family - or rather, we thought it was going to be. My other half got called into work, but really just to put plans in place - she works at an infant school. Schools are running on skeleton staff to cater for "key occupations" - looking after the children of healthcare and service staff. From tomorrow onwards she will visit once a week, and work from home on a reduced schedule.

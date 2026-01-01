@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Took The Brainiac Test"
 date: 2005-08-11
-categories: archive
+categories: "2005"
 ---
 
 I just did the "Brainiac" test at www.tickle.com - I got 28 out of the 30 questions right - here's the result summary (and I'm not gloating, honest)...

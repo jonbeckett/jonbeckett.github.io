@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back To Work"
 date: 2004-10-07
-categories: archive
+categories: "2004"
 ---
 
 I'm back in the office this morning after several days spent at home suffering and/or recuperating from a pretty nasty virus. It was kind of everything associated with a cold without the snotty nose.

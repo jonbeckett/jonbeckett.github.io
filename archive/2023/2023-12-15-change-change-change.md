@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Change change change"
 date: 2023-12-15
-categories: archive
+categories: "2023"
 ---
 
 If you receive my blog via the wonders of email, you'll have no idea of the seismic changes that have taken place in recent hours.

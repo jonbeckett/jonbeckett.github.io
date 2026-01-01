@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "History, people, dinner and music"
 date: 2024-05-19
-categories: archive
+categories: "2024"
 ---
 
 I watched the boxing this evening - the fight between Oleksandr Usyk and Tyson Fury. Although I know very little about boxing, the result went the way I thought it might. After not quite believing the post-fight comments from Fury - setting a new low for bad sportsmanship - I went straight to Twitter to read the torrent of hate pouring from all the keyboard warriors.

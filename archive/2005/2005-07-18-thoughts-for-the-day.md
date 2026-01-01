@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts For The Day"
 date: 2005-07-18
-categories: archive
+categories: "2005"
 ---
 
 Today was a strange day.

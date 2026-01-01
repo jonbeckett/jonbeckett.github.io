@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Quiet Dream"
 date: 2022-12-07
-categories: archive
+categories: "2022"
 ---
 
 I had one long, continuous dream last night. When I woke this morning I played through it in my head - recounting the various twists and turns of the story my brain conjured up. For once it all made sense - there was no crazy - no disjointed plot twists, location changes, or characters bursting in from stage left.

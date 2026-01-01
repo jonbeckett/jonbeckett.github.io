@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cancel Culture"
 date: 2021-03-01
-categories: archive
+categories: "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99100962-a576-4f8b-ae0c-b445261133a8_1920x1280.jpeg" />

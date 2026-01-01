@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Morning In London"
 date: 2014-10-03
-categories: archive
+categories: "2014"
 ---
 
 After falling out of bed, having a shower, and making breakfasts and lunches for the children yesterday morning, I slipped my suit on, and jumped on a train towards London with work for the first time in ages. I like the journey to Londonor rather, I like the time it give me "to myself". Time to read.

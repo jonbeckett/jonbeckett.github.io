@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Normal Service Resumed"
 date: 2016-02-01
-categories: archive
+categories: "2016"
 ---
 
 I've written quite enough about blogging, writing, the internet, technology, and various other geeky crap recently. It's time I got back to the head emptying festivals of mundanity that made this blog famous in the first place. Okmaybe not famous, but mildly notable. Ok, ok. Not notable, but certainly more interesting than the snooze-fests that I've been posting lately.

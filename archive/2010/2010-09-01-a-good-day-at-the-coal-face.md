@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Good Day At The Coal Face"
 date: 2010-09-01
-categories: archive
+categories: "2010"
 ---
 
 Today has been a remarkably good day. It began at 7am, jumping into a worryingly flexible shower, before donning work clothes and calling for a taxi to take me to the "coal face" (as mentioned previously, I can't talk with too much detail about work...)

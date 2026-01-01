@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend Arrives"
 date: 2022-07-09
-categories: archive
+categories: "2022"
 ---
 
 You find me sitting in the study at home with a cup of coffee between my arms while I write this post. The only sound in the room is the clickety-clack of the keyboard.

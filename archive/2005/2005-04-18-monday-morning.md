@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Morning"
 date: 2005-04-18
-categories: archive
+categories: "2005"
 ---
 
 It's Monday morning, and I'm back at work.

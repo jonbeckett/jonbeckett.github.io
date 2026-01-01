@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Every Other Day"
 date: 2020-11-18
-categories: archive
+categories: "2020"
 ---
 
 I seem to have fallen into a pattern of sorts - posting every other day. I'm not quite sure how it happened - it certainly wasn't intentional. Today's post is brought to you from Evernote by the way. I used to keep all of my notes, drafts, ideas, and thoughts in Evernote. I'm not really sure why I stopped using it - it's very good.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rediscovering Half Life 2"
 date: 2016-05-02
-categories: archive
+categories: "2016"
 ---
 
 While searching through GoG ("Good Old Games"a wonderful retro games website) last night for something to play, I suddenly remembered that there is still an X-Box 360 hidden away under the desk. After a quick search in the drawer under the TV in the living room, I returned with a sizeable stack of games I have bought "on offer" over the yearsgames I have never played.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Alone In The Dark"
 date: 2020-11-16
-categories: archive
+categories: "2020"
 ---
 
 I'm sitting alone in the living room lit only by a lamp in the far corner, throwing long shadows across the room. A classical music radio station is quietly filling the room with a rather sombre cello.

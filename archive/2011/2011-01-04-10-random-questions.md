@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "10 Random Questions"
 date: 2011-01-04
-categories: archive
+categories: "2011"
 ---
 
 10 random questions, garnered from the vast stockpile that I once discovered online, and answered for your interest and amusement

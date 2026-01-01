@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Amazing Evening A Strange Day And An Even More Strange Week Ahead"
 date: 2011-01-04
-categories: archive
+categories: "2011"
 ---
 
 Yesterday evening I went to the local theatre with our children and the leader of Rainbows (young brownies/guides) to see the pantomime production of "Peter Pan" we should have seen before Christmas, and that snow put an end to.

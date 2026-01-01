@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Half Chocolate Spread And Half Chocolate Spread"
 date: 2010-05-02
-categories: archive
+categories: "2010"
 ---
 
 The bedroom door cracked open at 7am with a little voice asking "go downstairs?". I heard a muffled "yes", and the door closed once more.

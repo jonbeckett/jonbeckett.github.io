@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Inventing Internet Spaghetti"
 date: 2015-09-26
-categories: archive
+categories: "2015"
 ---
 
 If this works, I will high five myself to celebrate my own stupidity. I have wired WordPress, Tumblr, Blogger, Instagram, Flickr, and Twitter together with "If This Then That", such that whenever I post anything to WordPress, it gets cross-posted all over the place instamagically for me.

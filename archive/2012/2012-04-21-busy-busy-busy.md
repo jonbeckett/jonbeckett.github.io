@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Busy Busy"
 date: 2012-04-21
-categories: archive
+categories: "2012"
 ---
 
 It's been one of those days - up early, single handed the entire day, take all the kids to football (eldest plays for the town - they got thrashed), drag the kids around the supermarket food shopping, buy a world of crap to eat, home, cook, eat, tidy up, wash clothes, wash dishes, wrangle children, make dinner, washup, and finally other half arrives home.

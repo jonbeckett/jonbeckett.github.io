@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Going Nowhere"
 date: 2015-01-23
-categories: archive
+categories: "2015"
 ---
 
 I've been twiddling my thumbs through much of this week - wondering what to do with myself. I over-estimated a piece of work that I'm scheduled on, so have had the chance - for the first time in years - to actually take my time, and not rush like a lunatic. Who knew that thinking about what you're doing would help at all?

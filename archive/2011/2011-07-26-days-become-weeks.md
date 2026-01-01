@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Days Become Weeks"
 date: 2011-07-26
-categories: archive
+categories: "2011"
 ---
 
 It feels like I haven't written much in here for daysor when I have written something, it's just been captions to go with a few photos. Am I losing the will to write a blog? Hard to say.

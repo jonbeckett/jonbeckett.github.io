@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey Home"
 date: 2022-08-25
-categories: archive
+categories: "2022"
 ---
 
 We left my parents house in Cornwall mid-morning. The final hour was a huge game of backwards Jenga, where our belongings (and various acquisitions) were re-assembled into the car.

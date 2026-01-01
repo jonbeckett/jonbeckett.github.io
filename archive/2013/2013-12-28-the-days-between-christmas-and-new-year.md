@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Days Between Christmas And New Year"
 date: 2013-12-28
-categories: archive
+categories: "2013"
 ---
 
 I always feel the few days between Christmas and New Year are a little disconnected from the rest of the year. Perhaps this year that sense is heightened because I am not workingat all. Apart from being on-call yesterday, the days are my own.

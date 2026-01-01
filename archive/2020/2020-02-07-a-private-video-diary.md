@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Private Video Diary"
 date: 2020-02-07
-categories: archive
+categories: "2020"
 ---
 
 I never quite know from one day to the next what damn fool escapade I'll be involved in next. Tonight has been all about recording a private video diary - my eldest daughter's idea - a means of recording her thoughts about struggles with daily life - a way to empty her head, I suppose.

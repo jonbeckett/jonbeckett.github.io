@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Office"
 date: 2011-02-16
-categories: archive
+categories: "2011"
 ---
 
 The Office

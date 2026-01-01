@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Artwork And Censorship"
 date: 2008-12-13
-categories: archive
+categories: "2008"
 ---
 
 While surfing around the various communities on LiveJournal earlier today, I kept tripping over various art or photographic post labelled "NSFW" - "Not Safe for Work". It got me thinking about the artwork and photography I did while at college - the hours I spent drawing or photographing people with very little covering themselves.

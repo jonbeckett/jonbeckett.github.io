@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "This Is A Journey Into Sound"
 date: 2006-11-04
-categories: archive
+categories: "2006"
 ---
 
 I just logged into emusic and discovered I have 118 credits in the bank - that's 118 tracks of music I can download for free (except of course it's not free, because I pay them every month for those credits).

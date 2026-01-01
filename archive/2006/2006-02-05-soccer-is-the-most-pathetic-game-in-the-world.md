@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Soccer Is The Most Pathetic Game In The World"
 date: 2006-02-05
-categories: archive
+categories: "2006"
 ---
 
 Yes, you heard right. I am English, and I think Soccer is the most pathetic game in the world - or at least the people who play it at the top level are the most pathetic people in the world.

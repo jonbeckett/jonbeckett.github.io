@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Tuesday Morning Story"
 date: 2015-06-30
-categories: archive
+categories: "2015"
 ---
 
 My body woke me this morning moments before the radio alarm clock burst into life - perhaps in a show of superiority - "He doesn't need an alarm clock - he can wake up more accurately than your atomic clock thingy can manage". At the same moment the radio bust into life, the new mobile phone started playing tinkly noises - I really must change the alarm sound. At least the button to shut it up was front and centre on the screen.

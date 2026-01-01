@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Too Tired To Think"
 date: 2022-09-02
-categories: archive
+categories: "2022"
 ---
 
 I'm not entirely sure where the last few days have gone. In-between chores, work, running, writing, more chores, more running, more work, more writing, and endlessly putting things away, two entire days have vanished.

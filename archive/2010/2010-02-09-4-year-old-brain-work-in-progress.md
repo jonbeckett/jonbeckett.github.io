@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "4 Year Old Brain Work In Progress"
 date: 2010-02-09
-categories: archive
+categories: "2010"
 ---
 
 Our youngest daughter developed an unexpected speech impediment several weeks ago; she became unable to say her sister's name without stuttering on the first latter.

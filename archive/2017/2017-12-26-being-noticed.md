@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being Noticed"
 date: 2017-12-26
-categories: archive
+categories: "2017"
 ---
 
 I've never really felt like I "fitted in" anywhere. Throughout college I was not one of the popular crowd that hung out together, and through my twenty-something years I never had the circle of friends that went to bars and clubs.

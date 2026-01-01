@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blowing My Own Trumpet"
 date: 2011-08-12
-categories: archive
+categories: "2011"
 ---
 
 Apparently the point of this meme is to think of things you like about yourself. This is going to be difficult, but I'll tryI've been told I'm a good listenerI am generous (some might say "to a fault")I will always go without so my family can have thingsI work hard, and have learned a lotwhich is notthe same thing as being clever. I know some very clever people.

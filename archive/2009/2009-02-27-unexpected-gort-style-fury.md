@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Gort Style Fury"
 date: 2009-02-27
-categories: archive
+categories: "2009"
 ---
 
 The other day somebody posted a comment on a photo of one of our kids that nearly caused me to go nuclear on the spot.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where The Hell Did Saturday Go"
 date: 2011-01-08
-categories: archive
+categories: "2011"
 ---
 
 How on earth is it nearly midnight already?

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Should A Blogger Do "
 date: 2010-09-12
-categories: archive
+categories: "2010"
 ---
 
 It's 10am on Sunday morning, and it feels like I've been up for hours already (in reality, I HAVE been up for hours). I have weighty contemplations on my mind - ones concerning blogging platforms.

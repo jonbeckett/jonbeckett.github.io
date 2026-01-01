@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Memories Of The Game Of Kings"
 date: 2012-02-26
-categories: archive
+categories: "2012"
 ---
 
 It's late on Sunday evening, and I'm wondering what to do with the last hours of the weekend. I've setup camp in the living room - sat at the dining table with the netbook. W is somehow knitting, and watching television simultaneously. I have no idea how she does that.

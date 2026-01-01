@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Even More New Hardware"
 date: 2008-11-10
-categories: archive
+categories: "2008"
 ---
 
 Late last night I purchased more new hardware to assist in talking to freelance clients. A couple of my colleagues will start laughing when they find out what I bought...

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Leaving Evernote"
 date: 2015-10-12
-categories: archive
+categories: "2015"
 ---
 
 I've been trying to figure out a good way of exporting my notes away from Evernote this evening, and am slowly coming to terms with the fact that there is no easy way. Ideally, I would like to store all my notes as plain-text mark-down formatted files, but Evernote will only export HTML, and the HTML it exports is a colossal mess. I've tried running the HTML through "tidy" (a fantastic Linux command line tool) which did a fairly good job, and then through panadoc (another fantastic Linux command line tool) to turn it into Markdown, but the result is a mess - almost totally because of Evernote.

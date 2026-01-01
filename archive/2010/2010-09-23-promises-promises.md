@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Promises Promises"
 date: 2010-09-23
-categories: archive
+categories: "2010"
 ---
 
 After working on freelance stuff into the early hours for the last three nights in a row, I vowed not to this evening. It's rapidly heading towards 1:30am, and here I am again... just downing tools for the night. I can't really complain about it though; I'm doing it out of my own choice, and there is a definite reason for doing it; money!

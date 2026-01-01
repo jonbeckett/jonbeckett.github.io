@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Asus Eee Pc 1000H Unboxing"
 date: 2008-10-22
-categories: archive
+categories: "2008"
 ---
 
 The ASUS EEE PC 1000H arrived today from Amazon (via Pixmania), so this evening I set about unboxing it and installing all the software I will typically be using on it.

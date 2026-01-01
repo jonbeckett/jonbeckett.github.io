@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where My Blog Got Featured On The Front Page Of Wordpresscom"
 date: 2010-10-27
-categories: archive
+categories: "2010"
 ---
 
 While making drinks for my colleagues at lunchtime today, I was gazing out of the window (waiting for the kettle to boil) when a rather marvellous and totally random thought occurred to me.

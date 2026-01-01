@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Creative Failure Abounds"
 date: 2010-05-01
-categories: archive
+categories: "2010"
 ---
 
 While approving and replying to comments on recent posts earlier, I noticed the links that WordPress sometimes throws into the footer of blog posts pointing out related posts - and followed one or two (in truth, I wondered what on earth some of the post titles related to).

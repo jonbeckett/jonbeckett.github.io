@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Compliments At The Swimming Pool"
 date: 2010-07-03
-categories: archive
+categories: "2010"
 ---
 
 While Little Miss 6 was in a dance show earlier today, we took the other children swimming for the afternoon. It's perhaps the second time we have gone as a family, and made us realise that we need to do it far more often - you know, like every other week often.

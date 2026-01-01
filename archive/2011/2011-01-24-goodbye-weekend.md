@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Goodbye Weekend"
 date: 2011-01-24
-categories: archive
+categories: "2011"
 ---
 
 This entire weekend has vanished up it's own ass so fast it's almost unfathomable. It hasn't been all bad though. I just finished putting the kids to bed after organising a "movie night" for them.

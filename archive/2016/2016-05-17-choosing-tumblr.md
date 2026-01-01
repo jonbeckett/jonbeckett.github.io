@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Choosing Tumblr"
 date: 2016-05-17
-categories: archive
+categories: "2016"
 ---
 
 After thinking quietly about this for the last few weeks - about the madness of cross-posting all over the place, or playing off one blogging platform against another - I am throwing everything else away, and will just have Tumblr for a while.

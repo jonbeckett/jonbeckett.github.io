@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Ever So Slightly Tired"
 date: 2015-11-15
-categories: archive
+categories: "2015"
 ---
 
 My other half returned home after her week away yesterday eveningjust in time to immediately change clothes, and head out to the local community radio station awards evening. Neither of us had any idea why we had been told we must attendwe imagined it would be to pick up an award on behalf of the infant school where my other half works.

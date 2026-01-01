@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Midnight Not A Sound From The Pavement"
 date: 2010-08-23
-categories: archive
+categories: "2010"
 ---
 
 Okay - enough Elaine bloody Paige. We always seem to be on the road on a Sunday when she blights Radio 2 with her mummsy garbage.

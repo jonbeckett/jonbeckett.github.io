@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Filling the days with good"
 date: 2024-05-04
-categories: archive
+categories: "2024"
 ---
 
 When our daughters were young, friends with grown children confidently remarked that while boys were hard work while young, girls would provide an entirely different challenge in the years ahead.

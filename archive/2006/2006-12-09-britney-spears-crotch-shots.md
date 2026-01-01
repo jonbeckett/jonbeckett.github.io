@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Britney Spears Crotch Shots"
 date: 2006-12-09
-categories: archive
+categories: "2006"
 ---
 
 Forgive the title. This post is an experiment. I am going to let this run for a few days, then post the Google Analytics results of how many people came to read this blog as a result of the post.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where The Children Filled The Bath With Green Goo"
 date: 2014-04-22
-categories: archive
+categories: "2014"
 ---
 
 I interrupted a game of Mario Party on the Wii this morning to ask our younger children (who are on their last day off school) to get dressed. After a few minutes they trudged off upstairs, and I thought no more of it. A few minutes later I heard the bath filling, and thought "oh goodthey're having a bath" (they need to for school tomorrow anyway). I then hear an almighty crash, so go and investigate.

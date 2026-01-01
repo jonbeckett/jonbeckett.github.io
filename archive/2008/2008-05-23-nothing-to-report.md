@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nothing To Report"
 date: 2008-05-23
-categories: archive
+categories: "2008"
 ---
 
 If you are wondering why there have been few blog posts from Beckett Towers over the last few days, it will be because of a lack of news. Rather than following the grand BBC tradition of reporting the same news again and again until everybody resorts to watching reality television shows, I'm not going to report anything.

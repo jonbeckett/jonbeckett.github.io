@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "From A Distance"
 date: 2017-01-20
-categories: archive
+categories: "2017"
 ---
 
 While reading the blogs I follow at lunchtime, I spotted a post from a friend that has been absent for some time. They have been rattling around the back of my mind - causing me to wonder aboutasking after them or not. Seeing their words again lifted me enormously.

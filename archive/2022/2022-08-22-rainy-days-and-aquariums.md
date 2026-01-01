@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rainy Days And Aquariums"
 date: 2022-08-22
-categories: archive
+categories: "2022"
 ---
 
 The weather has taken a turn for the worst over the last few days - so we've been rattling around my parents house. This afternoon we're escaping for a few hours to visit the national aquarium in Plymouth. Our younger children visited when they were young - we doubt they will remember much about it. My main memory is of the main tank and coral reef, where sharks and turtles swim above a glass tunnel.

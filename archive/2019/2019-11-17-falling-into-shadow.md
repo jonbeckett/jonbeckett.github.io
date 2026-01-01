@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Into Shadow"
 date: 2019-11-17
-categories: archive
+categories: "2019"
 ---
 
 It feels like I'm slowly falling away from the moving crowd. I find myself sitting, lost in my own thoughts, rather than reading and contributing to the online communities I have played a small part in for so long.

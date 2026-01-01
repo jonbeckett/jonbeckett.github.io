@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Christmas Shopping"
 date: 2006-12-02
-categories: archive
+categories: "2006"
 ---
 
 I took my Moleskine Notebook out Christmas Shopping today. I am perhaps a little worried that I am referring to it as you might a character in a story, but perhaps this is the correct method. Perhaps it should be regarded as you might a bard, riding a donkey and documenting your adventures. Perhaps on the other hand I am going mad. Anyway - there it is.

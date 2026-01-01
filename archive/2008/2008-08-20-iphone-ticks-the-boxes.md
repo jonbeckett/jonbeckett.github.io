@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Iphone Ticks The Boxes"
 date: 2008-08-20
-categories: archive
+categories: "2008"
 ---
 
 I went out yesterday afternoon and bought an iPhone at last. I walked into the store, told them that I knew all about it, and all about the tarrifs, and please could I just buy one please on the tarrif I instructed.

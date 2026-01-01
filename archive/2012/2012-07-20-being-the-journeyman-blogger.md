@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being The Journeyman Blogger"
 date: 2012-07-20
-categories: archive
+categories: "2012"
 ---
 
 For the past several years I have lived a curious online existencefloating between the various social networks and blog platforms. I've been searching for an appropriate term to describe my behaviour for the last few minutes, and the only one that comes to mind is "journeyman".

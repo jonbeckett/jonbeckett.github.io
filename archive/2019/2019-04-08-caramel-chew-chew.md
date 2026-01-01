@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Caramel Chew Chew"
 date: 2019-04-08
-categories: archive
+categories: "2019"
 ---
 
 There is a tub of caramel ice cream sitting in the freezer - waiting for me to finish writing this blog post, stream a movie from the internet, and hole myself up in the junk room while I eat it.

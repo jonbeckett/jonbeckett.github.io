@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey To The Middle"
 date: 2021-10-14
-categories: archive
+categories: "2021"
 ---
 
 For the last several months I have been experimenting with Substack, Wordpress, Tumblr, and Medium - trying to figure out what works best for me.

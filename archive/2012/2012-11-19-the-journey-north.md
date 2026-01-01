@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey North"
 date: 2012-11-19
-categories: archive
+categories: "2012"
 ---
 
 Monday night finds me sat in a hotel in the far north of England, after close to 6 hours doing battle with the railways. I would like to say the journey was fairly uneventful, but that wouldn't exactly be the truth.

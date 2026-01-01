@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Week In London"
 date: 2016-01-29
-categories: archive
+categories: "2016"
 ---
 
 I was back in the office todaymadly scrambling through email, timesheets, filing expenses, and attempting to finish work that had been slotted into my calendar in my absence. Among the pages of emails was a message asking me to confirm yet another stint in London.

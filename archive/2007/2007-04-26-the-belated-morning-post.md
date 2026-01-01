@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Belated Morning Post"
 date: 2007-04-26
-categories: archive
+categories: "2007"
 ---
 
 It's 7:15, and the train will be leaving the station in a few minutes.

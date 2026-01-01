@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Searching For Deep Sky Objects"
 date: 2005-08-31
-categories: archive
+categories: "2005"
 ---
 
 I had the telescope out in the garden last night (mainly because it was warm). Although the visibility was appalling - you could hardly see any stars due to the summer sky - I persevered and after an hour of searching found my prize; a huge cluster of stars in the far distance, first found by Charles Messier in 1779, and designated "Messier Object 56", or "M56" in his catalogue of celestial "deep sky" objects that is still used today.

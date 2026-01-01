@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Fragment of a Dream"
 date: 2023-08-28
-categories: archive
+categories: "2023"
 ---
 
 A few days ago it occurred to me that I hadn't been sick for quite some time. Of course I was tempting fate. I woke up yesterday with a completely blocked nose and got worse throughout the day.

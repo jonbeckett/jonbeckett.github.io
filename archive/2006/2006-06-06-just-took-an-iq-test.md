@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Just Took An Iq Test"
 date: 2006-06-06
-categories: archive
+categories: "2006"
 ---
 
 I just took an IQ test at the Tickle website, and have no idea what the results mean. Apparently unless you pay, they give you an abridged version of the score.

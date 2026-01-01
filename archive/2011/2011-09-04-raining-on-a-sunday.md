@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Raining On A Sunday"
 date: 2011-09-04
-categories: archive
+categories: "2011"
 ---
 
 The rain is steadily falling outside, our eldest is playing on the Gamecube with a friend, and the younger children have gone shopping with my better half. I find myself with an almost unheard of second afternoon in a rowto myself.

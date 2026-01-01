@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Falling Off The Edge Of The World"
 date: 2013-05-22
-categories: archive
+categories: "2013"
 ---
 
 For the last few days my balance has been all over the place. At first I thought it might have had something to do with going on crazy fairground rides with our eldest on Saturday evening, but I was fine on Sunday. All I know is that I got up on Monday, and my head was swimming.

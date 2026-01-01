@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend"
 date: 2006-02-18
-categories: archive
+categories: "2006"
 ---
 
 It's Saturday morning, I've been up since 8am, and I feel great - which is surprising as I was off work yesterday feeling very rough indeed.

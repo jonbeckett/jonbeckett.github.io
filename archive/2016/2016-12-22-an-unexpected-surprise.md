@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Unexpected Surprise"
 date: 2016-12-22
-categories: archive
+categories: "2016"
 ---
 
 After getting in from work last night, I dropped my bag, and wandered past my other half to the kitchen sink to begin washing up - picking up cups, plates and glasses as I made my way towards the kitchen sink.

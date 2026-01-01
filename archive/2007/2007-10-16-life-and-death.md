@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Life And Death"
 date: 2007-10-16
-categories: archive
+categories: "2007"
 ---
 
 While stopping for a cup of coffee earlier today I checked in to a writing group I have been fostering and was dismayed to find that somebody I thought of as experienced and wise role model had torn somebody's writing to shreds in the most calculated, cruel, and tactless display of snobbery I had ever seen on the internet.

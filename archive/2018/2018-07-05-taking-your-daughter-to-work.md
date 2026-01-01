@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Taking Your Daughter To Work"
 date: 2018-07-05
-categories: archive
+categories: "2018"
 ---
 
 Late yesterday evening - while sitting outside watching kindling burn in the old chiminea that sits on our patio, Miss 17 appeared in the doorway of the house, looking a bit lost. She finished college a week ago, and bouncing around the house on her own has started to get very old indeed.

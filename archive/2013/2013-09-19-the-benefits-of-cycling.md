@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Benefits Of Cycling"
 date: 2013-09-19
-categories: archive
+categories: "2013"
 ---
 
 I just came across this list of "benefits" of regular cycling while looking at another website, so thought I would go through them, and comment.1. Cycling gives you a healthier heart and immune systemCycling is associated with improved cardiovascular fitness, as well as a decrease in the risk of heart disease. Studies also show that moderate activity, such as cycling, can strengthen the immune system and contributes to fighting of illness.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slowing Down Is Difficult"
 date: 2016-02-15
-categories: archive
+categories: "2016"
 ---
 
 I woke up at 6am this morning, when the alarm clock on my phone eruptedI had forgotten to disable it. After falling asleep for a while, and then staring at the ceiling for a while longer, I finally scraped myself out of bed and stumbled off in the direction of the shower. By the time I arrived in the kitchen to put the kettle on, it was still only 8am.

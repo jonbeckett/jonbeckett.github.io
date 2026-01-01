@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Uk Crime Statistics"
 date: 2011-02-02
-categories: archive
+categories: "2011"
 ---
 
 The police in the UK launched a website yesterday showing up-to-date instances of crime right down to street level. Interesting to see that there's one hotspot in the town; a road with 15 "crimes" in December alone - I pass by the road every evening on the way home from work it's no surprise at all.

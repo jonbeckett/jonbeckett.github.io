@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its The Weekend"
 date: 2005-04-09
-categories: archive
+categories: "2005"
 ---
 
 It's the weekend, and finally we are getting some quality time to ourselves.

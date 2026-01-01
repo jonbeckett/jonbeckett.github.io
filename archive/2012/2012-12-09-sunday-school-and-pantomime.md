@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday School And Pantomime"
 date: 2012-12-09
-categories: archive
+categories: "2012"
 ---
 
 Murmurings escaped the children's bedrooms a little after eight this morning. While gazing at the repetitive strobing of the alarm clock second marker, an unseen hand slowly increased the volume. Whispers became talking, then shouting, then laughter, accusations, threats, tempter, the crashing of toys, complaints, recriminations, and finally the stomping of feet.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Heading West"
 date: 2006-12-29
-categories: archive
+categories: "2006"
 ---
 
 We'll be leaving the house mid-morning tomorrow, firstly to Heathrow to pick up family from San Francisco, and then heading west across southern England to my parents in Cornwall for New Year.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "How Many Faces Is Too Many"
 date: 2009-04-11
-categories: archive
+categories: "2009"
 ---
 
 While running back and forth tugging children along a zip-line at a theme park this afternoon, I started wondering about my work colleagues - about those who do not have a family yet.

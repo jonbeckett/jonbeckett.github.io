@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Selkirk Melrose And The Eildon Hills"
 date: 2015-02-28
-categories: archive
+categories: "2015"
 ---
 
 Ever since I knew I was coming to Scotland with work for two weeks, I knew I wouldn't be going home on the middle weekend, because the travel time required would make it impractical - I would spend all day travelling home, only to turn around after one night's sleep, and come straight back. Therefore the question became "what to do at the weekend?". My other half suggested I pack my walking boots - in the end I wore them for the journey because they would take up so much room in my case.

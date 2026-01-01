@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Library Fines"
 date: 2008-03-29
-categories: archive
+categories: "2008"
 ---
 
 I am about to walk into town with the kids to return their library books and DVDs... and pay fines again.

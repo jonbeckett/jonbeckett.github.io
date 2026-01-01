@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Strange Week"
 date: 2006-04-28
-categories: archive
+categories: "2006"
 ---
 
 In the absense of regular blog posts recently perhaps a quick review of the week is in order.

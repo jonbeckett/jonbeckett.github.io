@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Days Like These"
 date: 2020-10-05
-categories: archive
+categories: "2020"
 ---
 
 I make promises to myself sometimes - simple things - easy promises to make. "I'll start forcing myself to take lunchbreaks", for example. And then I look up - like I did today - and realise it's the middle of the afternoon, and that lunchtime happened for everbody else some time ago.

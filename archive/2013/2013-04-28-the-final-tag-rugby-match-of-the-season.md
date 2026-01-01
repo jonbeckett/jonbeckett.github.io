@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Final Tag Rugby Match Of The Season"
 date: 2013-04-28
-categories: archive
+categories: "2013"
 ---
 
 Our middle daughter has played tag rugby for the past year - not the typical sport for a girl to be involved in, but then her little sister does Judo, and her older sister used to play soccer (and has been asking about Karate) - so I guess we shouldn't have been surprised.

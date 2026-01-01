@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Writing code"
 date: 2024-05-23
-categories: archive
+categories: "2024"
 ---
 
 I'm not really sure where the last few days have gone. Actually - that's not entirely true.

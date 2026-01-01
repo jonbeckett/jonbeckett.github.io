@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Lunchtime Reunion"
 date: 2021-10-14
-categories: archive
+categories: "2021"
 ---
 
 For the first time in two years I met up with some of my co-workers at lunchtime for something to eat. It seemed very strange being in each other's company rather than on the end of a video conference call, but after a few minutes we all relaxed, caught up with each other, and grinned while reminiscing about working in an office.

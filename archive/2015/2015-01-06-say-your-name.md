@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Say Your Name"
 date: 2015-01-06
-categories: archive
+categories: "2015"
 ---
 
 My blog wasn't always called "Recursive Words". It hasn't always lived at WordPress either. Over the years I've probably written at just about every popular platform - from my own hand-written script (back before WordPress was a glint in Matt Mullenweg's eye), through to Vox, Yahoo 360, LiveJournal, Blogger, Squarespace, TypePad, Posterous, Ghost, and more.

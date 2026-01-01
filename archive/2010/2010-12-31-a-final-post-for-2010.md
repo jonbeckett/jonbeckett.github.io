@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Final Post For 2010"
 date: 2010-12-31
-categories: archive
+categories: "2010"
 ---
 
 One hour remains of 2010 at the time of writing. We're sat watching Return of the Jedi with our ten your old daughter. The younger children are fast asleep in bed.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nuclear Meltdowns"
 date: 2015-05-06
-categories: archive
+categories: "2015"
 ---
 
 It all began yesterday evening, when I offered Miss 14 half a glass of cider with her dinner. She had been really great for the previous few days, I was pouring some cider out for myself, so I let her have some too - we do this kind of thing from time to time, so alcohol doesn't have some mysterious hoodoo surrounding it.

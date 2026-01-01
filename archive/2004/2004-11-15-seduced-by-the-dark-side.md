@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Seduced By The Dark Side"
 date: 2004-11-15
-categories: archive
+categories: "2004"
 ---
 
 On Sunday morning I went shopping in town, and WHSmiths wasn't open until 11am, so I had half an hour to kill...

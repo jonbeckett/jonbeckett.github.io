@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Laughing Uproariously With The Most Annoying Man In The World"
 date: 2014-03-04
-categories: archive
+categories: "2014"
 ---
 
 I'm sitting in the lobby of the hotel with a glass of cider. The same pretty businesswoman is holding court in the center of the lobby with her co-workers as last night. Propped on a stool on the corner of the bar sits the most annoying man in the known universe.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Morning And I Feel Fine"
 date: 2003-01-06
-categories: archive
+categories: "2003"
 ---
 
 It's monday afternoon and I'm sat here after having read a number of comments on my own blog from a rather colourful character who seems to have rather too much time on his hands 

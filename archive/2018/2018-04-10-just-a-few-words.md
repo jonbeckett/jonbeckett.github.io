@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Just A Few Words"
 date: 2018-04-10
-categories: archive
+categories: "2018"
 ---
 
 For the last few weeks I have been working on a colossal project. I turn up at the office, sit at my desk, and work straight through until I get up to leave. Sometimes I make a coffee for my co-workers, and in doing so realise I haven't gotten up for two or three hours.

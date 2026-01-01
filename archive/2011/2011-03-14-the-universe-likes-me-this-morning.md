@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Universe Likes Me This Morning"
 date: 2011-03-14
-categories: archive
+categories: "2011"
 ---
 
 Somebody, somewhere atop mount Olympushas flicked a switch this morning(insert appropriate godly location for your belief system - Olympus presented itself to me because we watched "Clash of the Titans" late last night). The switch is labelled "like Jonathan", or something similar... you know, like a giant imaginary Facebook "like" button.

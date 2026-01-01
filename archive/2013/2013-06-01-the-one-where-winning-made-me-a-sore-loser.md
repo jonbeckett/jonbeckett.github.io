@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where Winning Made Me A Sore Loser"
 date: 2013-06-01
-categories: archive
+categories: "2013"
 ---
 
 We have had an XBox 360 at home for the last year or so, with an online account so we can access movies and so on. During that time I've also played games, but never online. I used to years ago, but not since the 360.

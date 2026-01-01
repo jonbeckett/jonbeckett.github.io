@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hacked Wifi Networks"
 date: 2016-06-16
-categories: archive
+categories: "2016"
 ---
 
 One of my co-workers noticed this yesterday. The Wireless network of one of the buildings nearby has been changed to "Tim's Gay But Fuck House". I'm not sure what's funnier - that this has been done, or that the person that did it can't spell.

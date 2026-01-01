@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hilarity On The Underground Again"
 date: 2008-10-03
-categories: archive
+categories: "2008"
 ---
 
 While stood on the underground train this morning travelling east beneath London, we arrived at one of the stations and a young guy with a beard and headphones scampered past me to claim the last empty seat in the carriage.

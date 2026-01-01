@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Monday Night Hotel Club"
 date: 2011-12-12
-categories: archive
+categories: "2011"
 ---
 
 Yes, the title of this blog post is a blatant rip-off of "Tuesday Night Music Club" (the Sheryl Crow album that catapulted her to MTV fame, and bedroom walls the world over).

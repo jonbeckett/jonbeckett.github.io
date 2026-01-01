@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Media Player Rules"
 date: 2006-07-29
-categories: archive
+categories: "2006"
 ---
 
 I never thought I would end up saying this, but the latest version of Microsoft's "Windows Media Player" (currently in beta) really does rule.

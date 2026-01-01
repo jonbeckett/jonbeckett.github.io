@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Lets Play A Game"
 date: 2016-01-28
-categories: archive
+categories: "2016"
 ---
 
 Let's arrive at Paddington railway station, needing to go to the toilet. Let's pretend we have no money in our pockets at all, due to the wonders of bank cards. Let's then suppose the only way you can access the toilets at Paddington railway station are if you have 30 pence upon your person.How best to acquire 30 pence without begging?My chosen solution was to go off in search of the cash machines, which are in a dark corridor next to a building site in the back of the stationa perfect place for muggings to happen. After acquiring money (the hole in the wall spat out two 20 notes), I realised that was more than you can put in the machine outside the toilets to acquire the requisite coins to enter said toilets, so thought "I'll go and buy something!"It's a very strange thinggoing shopping in a railway stationwhen the ultimate aim of going shopping is to break a bank note into suitable coinage to gain access to toilets.

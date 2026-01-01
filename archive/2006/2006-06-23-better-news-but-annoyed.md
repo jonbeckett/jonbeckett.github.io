@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Better News But Annoyed"
 date: 2006-06-23
-categories: archive
+categories: "2006"
 ---
 
 Okay - Jim survived and is okay - he's still in hospital while they figure out why his heart stopped, but he's sat up, is talking to people and is otherwise fine.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Boot Eskdale And Hardknott"
 date: 2007-05-09
-categories: archive
+categories: "2007"
 ---
 
 We are back! On Saturday morning we left the south of England, and headed to the "Lake District" - a national park in the north west of England. It's the most rugged terrain in the country, and a fantastic terrain for camping, hiking and various other outdoor pursuits.

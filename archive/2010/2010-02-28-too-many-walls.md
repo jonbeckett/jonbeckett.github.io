@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Too Many Walls"
 date: 2010-02-28
-categories: archive
+categories: "2010"
 ---
 
 Just discovered this acoustic version of "Too Many Walls" on YouTube, and had to share it;

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend That Wasnt"
 date: 2008-10-13
-categories: archive
+categories: "2008"
 ---
 
 I've just had one of those weekends that didn't really happen - and now find myself back at work on Monday morning, tired, and preparing to juggle complexity once again.

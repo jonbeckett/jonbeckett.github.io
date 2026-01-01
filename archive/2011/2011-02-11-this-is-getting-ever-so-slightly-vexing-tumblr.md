@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "This Is Getting Ever So Slightly Vexing Tumblr"
 date: 2011-02-11
-categories: archive
+categories: "2011"
 ---
 
 I edited the HTML of my tumblr theme earlier (to add site verification for the Bing Webmaster Tools), and it completely scrambled the contents of the custom property fields again.

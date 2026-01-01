@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Our Words Will Live On After We Are Gone"
 date: 2011-02-16
-categories: archive
+categories: "2011"
 ---
 
 It's been too long since I last emptied my head into the blog. Work, life, chores, and children seem to have been chewing me up and spitting me out in small pieces recently.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Late Night In Monaco"
 date: 2012-05-15
-categories: archive
+categories: "2012"
 ---
 
 After washing the dinner things, tidying the kitchen up, putting the kids to bed (W was out), and checking email last night, I finally made it into the lounge by about 10pm. After watching a few eipsodes of "Community" - my latest television addiction - I switched the XBox on, and escaped to Monte Carlo for an hour.

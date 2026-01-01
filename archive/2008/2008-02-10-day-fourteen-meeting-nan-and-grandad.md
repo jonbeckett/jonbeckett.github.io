@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Day Fourteen Meeting Nan And Grandad"
 date: 2008-02-10
-categories: archive
+categories: "2008"
 ---
 
 Today started at 7am with the sounds of laughter and little people shouting instructions to each other across the landing. I got up and made my way down for a shower before releasing them all from prison (we have a stair gate on the top landing).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Unexpected Movie Night"
 date: 2018-10-02
-categories: archive
+categories: "2018"
 ---
 
 When I leave work on an evening, I call home. Invariably Miss 13 picks the phone up - she has been trained by my other half as an evil receptionist - this began when she was very young, and would talk to cold-callers for quite some time before they realised there was no hope of getting any further. I've given up asking to speak to my other half, and just talk to Miss 13 these days - she relays information about things I might need to get on the way home - bread, milk, cat food - you name it. Sometimes she tries to sneak things she wants onto the list - you know - M&Ms for example.

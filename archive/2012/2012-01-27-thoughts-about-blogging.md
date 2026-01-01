@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thoughts About Blogging"
 date: 2012-01-27
-categories: archive
+categories: "2012"
 ---
 
 I began blogging before the word had become part of the common vernacular. In the early days, people wrote about their day - their life. Online journals formed the basis of LiveJournal, DiaryLand, and Blogger. Any thoughts of blogs covering a niche or subject were years away.

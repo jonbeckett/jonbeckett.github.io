@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Organising The Mayhem"
 date: 2015-06-25
-categories: archive
+categories: "2015"
 ---
 
 I have decided to try and do something about improving my natural propensity to continue putting one foot in front of the other - after much thought and deliberation, I'm going to attempt to start using task lists. I say "attempt", because it's not altogether clear how best to use them, which sounds like a ridiculous thing to say, so perhaps I should explain further.

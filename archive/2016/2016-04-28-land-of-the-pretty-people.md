@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Land Of The Pretty People"
 date: 2016-04-28
-categories: archive
+categories: "2016"
 ---
 
 From the moment I packed the children off to school this morning, I sat down at the computer in the junk room, and raced to help one of my co-workers prepare a demo for a client he will be visiting tomorrow. After clearing the decks with that, I threw my suit back on, shut the laptop and dropped in it the backpack, and set off for the railway station. London againcentral London this time, for a product demonstration I hadn't prepared for at all. I guess I was the token techiereally there in case any awkward questions were asked.

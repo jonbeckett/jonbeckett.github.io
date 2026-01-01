@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "What Can Happen Will Happen"
 date: 2013-05-14
-categories: archive
+categories: "2013"
 ---
 
 I got up early this morning, with hopes of an easier morning routine - time to spare - time to sit down - time to eat breakfast with the children. Apparently the universe wasn't listening to any of those hopes.

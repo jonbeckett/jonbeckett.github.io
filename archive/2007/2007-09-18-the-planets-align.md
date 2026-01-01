@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Planets Align"
 date: 2007-09-18
-categories: archive
+categories: "2007"
 ---
 
 Since the weekend I have felt there is some kind of long term change in the air. I'm not sure what it might be, or how it might manifest itself, but something seems to be happening.

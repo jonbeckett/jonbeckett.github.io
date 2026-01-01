@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back In The Office Again"
 date: 2003-04-16
-categories: archive
+categories: "2003"
 ---
 
 It's lunchtime, and I am back in the office at work once more.

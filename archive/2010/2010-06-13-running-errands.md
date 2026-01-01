@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running Errands"
 date: 2010-06-13
-categories: archive
+categories: "2010"
 ---
 
 The house is remarkably quiet this morning - two of the children have gone out for the day, leaving me with Little Miss 6 - essentially as her chaperone to and from a dance rehearsal.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpected Friendship"
 date: 2006-05-29
-categories: archive
+categories: "2006"
 ---
 
 After the low ebb that the weekend started on, my faith in life, the universe and everything in general has been somewhat restored.

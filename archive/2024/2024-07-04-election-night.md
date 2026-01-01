@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Election Night"
 date: 2024-07-04
-categories: archive
+categories: "2024"
 ---
 
 In the United Kingdom we exercised our right this evening to vote for who we wish to form a government to lead the country over the next several years. I'm probably going to stay up all night watching the results roll in -- not because I'm any kind of political zealot -- more because history is unfolding.

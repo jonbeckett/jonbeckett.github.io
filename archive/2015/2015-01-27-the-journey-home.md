@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey Home"
 date: 2015-01-27
-categories: archive
+categories: "2015"
 ---
 
 When I woke this morning a thought occurred to me - a rather important thought. Where and when was I supposed to be meeting with the client ? I slid out of the hotel bed with a huge headache, and fired up the netbook computer. Good - it was still connected to the hotel wireless network. I sent an email, and stumbled off towards the shower.

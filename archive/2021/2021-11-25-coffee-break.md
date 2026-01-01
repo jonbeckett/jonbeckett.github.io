@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coffee Break"
 date: 2021-11-25
-categories: archive
+categories: "2021"
 ---
 
 The clock is ticking past four in the afternoon and I'm taking my first break of the day. I have a pretty bad habit of not stopping - I tend to work straight through lunch every day - eating over the keyboard in a madcap pursuit of seeing how much I can get done each day.

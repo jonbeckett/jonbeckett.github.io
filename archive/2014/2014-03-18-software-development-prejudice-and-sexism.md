@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Software Development Prejudice And Sexism"
 date: 2014-03-18
-categories: archive
+categories: "2014"
 ---
 
 I happened to read the story at TechCrunch last night about Julie Ann Horvath leaving GitHub amid a (media inflated) storm of controversy. Lots of potentially damaging words are flying aroundsexism, prejudice, victimisation, and so on. As much as I am horrified about the story, the argumentative part of me wants to say "hang on a momentwe've only heard one side of the story so far".

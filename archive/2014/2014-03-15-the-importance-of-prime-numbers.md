@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Importance Of Prime Numbers"
 date: 2014-03-15
-categories: archive
+categories: "2014"
 ---
 
 I completely forgot about "Pi Day". It's all a load of numerology rubbish anywaythe date coincided with the sequence of numbers in the decimal presentation of Pi3.1415 only if you put parts of the year, month, and day in a specific order.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Full Day With The Kittens"
 date: 2010-08-21
-categories: archive
+categories: "2010"
 ---
 
 Their confidence is increasing, they are investigating every nook and cranny of the house, and they are startled by every noise.

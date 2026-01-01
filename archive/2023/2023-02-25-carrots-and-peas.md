@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Carrots and Peas"
 date: 2023-02-25
-categories: archive
+categories: "2023"
 ---
 
 Isn't it funny how we look forward to the arrival of the weekend, but then spend most of the weekend watching it vanish before our eyes? The clock just ticked past 10pm, and saw me re-filling the washing machine as it did so. Is that the fourth or fifth load today? I've lost count. Before that I washed up the dinner things.

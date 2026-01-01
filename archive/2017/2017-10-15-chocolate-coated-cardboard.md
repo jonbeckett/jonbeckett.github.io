@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Chocolate Coated Cardboard"
 date: 2017-10-15
-categories: archive
+categories: "2017"
 ---
 
 It's 8pm, and I'm sitting in a hotel less than 100 yards from the place I will be working tomorrow, munching on chocolate coated cardboard. At least I think it's chocolate - I don't know the German word for Chocolate, so it could really be anything.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Stepping Back"
 date: 2022-05-18
-categories: archive
+categories: "2022"
 ---
 
 I've decided to step back from the internet for a while. Slow down.

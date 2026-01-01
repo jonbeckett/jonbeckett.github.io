@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where nobody knows your name"
 date: 2024-04-26
-categories: archive
+categories: "2024"
 ---
 
 The clock is ticking towards 1am again. I'm not entirely sure how this keeps happening. I'm sitting in bed listening to a strangely relaxing ambient jazz café playlist on Spotify.

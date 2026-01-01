@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Implementation Of Gtd Or Getting Things Done"
 date: 2008-10-26
-categories: archive
+categories: "2008"
 ---
 
 For the last several months I have been trying out various tools and techniques to help manage the various requirements placed upon me in the various roles my life consists of at the moment. While doing so I read about the "Getting Things Done" methodology, and took on board various opinions for and against it.

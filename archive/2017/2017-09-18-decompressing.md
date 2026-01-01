@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Decompressing"
 date: 2017-09-18
-categories: archive
+categories: "2017"
 ---
 
 Tonight you find me sitting in the dark of the junk room, listening to the "Favourite Coffeehouse" playlist on Spotify, with an incense stick burning on the corner of the desk. I guess you could call it "decompression".

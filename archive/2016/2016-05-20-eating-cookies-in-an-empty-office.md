@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Eating Cookies In An Empty Office"
 date: 2016-05-20
-categories: archive
+categories: "2016"
 ---
 
 It's Friday morning, and I find myself sitting alone in the office. Alone on the entire floor of the building. I bought cookies on the way in for the few people in the building today to share - we are thin on the ground because most have been given permission to work from home today, ahead of a company river boat cruise this evening. The company is celebrating it's 30th anniversary - I've been here for 15 of them - so we are going to eat and get drunk together on the river.

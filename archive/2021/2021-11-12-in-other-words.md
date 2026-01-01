@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "In Other Words"
 date: 2021-11-12
-categories: archive
+categories: "2021"
 ---
 
 It's Friday. The end of another week. I'm sitting in the junk room in front of my work laptop, picking through source code of a recent project written by a co-worker in a language I have little experience of. In some ways it's easier to learn from existing code than a text-book or a tutorial video.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Review Of The Year"
 date: 2006-12-21
-categories: archive
+categories: "2006"
 ---
 
 The idea to do this "review of the year" came from W, who has done a similar thing.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Weekend Vanishes Up Its Own Ass"
 date: 2012-01-29
-categories: archive
+categories: "2012"
 ---
 
 I'm not entirely sure what happened to this weekend (well, I am, but I'm not impressed that it whistled past as quickly as it did).

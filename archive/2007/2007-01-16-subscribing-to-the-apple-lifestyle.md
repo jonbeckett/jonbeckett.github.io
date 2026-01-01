@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Subscribing To The Apple Lifestyle"
 date: 2007-01-16
-categories: archive
+categories: "2007"
 ---
 
 While talking about my imminent purchase of a MacBook last night, W commented that I cannot be seen with a MacBook unless I subscribe to the "Apple Lifestyle".

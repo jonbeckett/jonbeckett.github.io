@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Quiet Day"
 date: 2021-09-16
-categories: archive
+categories: "2021"
 ---
 
 After what seems like weeks chasing my own tail, the world is slowing down a little - affording the chance to take stock and work out how to move forwards, rather than continually stumble and scramble.

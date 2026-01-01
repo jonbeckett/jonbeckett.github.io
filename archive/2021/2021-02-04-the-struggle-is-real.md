@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Struggle Is Real"
 date: 2021-02-04
-categories: archive
+categories: "2021"
 ---
 
 I stopped drinking coffee yesterday morning (or the night before, in the interests of accuracy). I've had a headache all day - which I suppose is somewhat predictable after drinking coffee like a funnel for the last twenty something years.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nothing To Report"
 date: 2011-03-30
-categories: archive
+categories: "2011"
 ---
 
 I wish I had something more interesting to report than "life is going on". Close friends have probably gathered as much by my absence from the social networks. Work is pretty consuming at the moment, and following being sick for weeks, I'm wiped out when I get home.

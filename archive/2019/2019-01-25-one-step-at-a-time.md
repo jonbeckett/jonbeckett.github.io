@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Step At A Time"
 date: 2019-01-25
-categories: archive
+categories: "2019"
 ---
 
 I thought it might be a good time to re-visit progress with the rescue kitten we took delivery of a few weeks ago - that the children named Kaspar. I'm not sure "kitten" is really an appropriate term - more "young cat" - he's about a year old as far as we know.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Bought Coffee For A Machine We Do Not Own"
 date: 2011-09-07
-categories: archive
+categories: "2011"
 ---
 
 This must be some kind of prize winning effort on my part. While travelling home from work this evening I called in at the supermarket to buy cat food. Given that the route to the cat food was blocked by idiots (read: normal people, but they were in my way), I walked down the next aisle.

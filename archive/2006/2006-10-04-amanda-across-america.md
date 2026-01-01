@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Amanda Across America"
 date: 2006-10-04
-categories: archive
+categories: "2006"
 ---
 
 I was watching one of my favourite video "netcasts" earlier - Amanda Across America, and just had to share today's post... click on the image to view it :

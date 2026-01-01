@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Taking The Eee Pc On The Train"
 date: 2008-10-24
-categories: archive
+categories: "2008"
 ---
 
 Today marks the first day the new EEE PC has journeyed with me into London, and therefore resumption of the "Morning Post" that I sent so regularly last year to close friends, and "The Enormous Waste of Webspace". I'm not quite sure how regular it will be this year - that very much depends on how many fat and/or ignorant (delete as appropriate) people I get sat next to me on the train.

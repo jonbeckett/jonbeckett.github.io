@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Boromirs Bookshop Conundrum"
 date: 2019-12-13
-categories: archive
+categories: "2019"
 ---
 
 The rest of the family are sitting in the lounge, watching "The Polar Express". I'm sitting in the study (read:junk room) writing this. I've just finished the cheap bottle of Sherry I bought from the supermarket last weekend, and eaten two rows off the gargantuan bar of Dairy Milk that the garage was selling a few days ago. I'm not quite sure how their "offers" happen - occasionally they have a box full of massive chocolate bars by the counter, at half price or less. I've never bought one before - which also explains why I still have some teeth.

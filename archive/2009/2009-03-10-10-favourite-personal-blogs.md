@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "10 Favourite Personal Blogs"
 date: 2009-03-10
-categories: archive
+categories: "2009"
 ---
 
 In the spirit of sharing, here is a list of ten personal blogs I like. If you're not on the list, and you know I read your blog, worry not - I'll do another one of these lists soon. The selection list wasn't terrifically scientific either - pretty much a case of waving my finger in the air and saying that one, and that one, and that one... now how many is that?

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Finding A Minute Or Two"
 date: 2020-01-29
-categories: archive
+categories: "2020"
 ---
 
 After spending the greater part of the day working through changes to the leviathan I have been working on for the last several years, I cycled home through the bitter cold just in time to cross paths with my younger daughters who were heading out to rugby practice with their Mum.

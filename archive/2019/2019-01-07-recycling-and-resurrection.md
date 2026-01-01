@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Recycling And Resurrection"
 date: 2019-01-07
-categories: archive
+categories: "2019"
 ---
 
 A little while after finishing chores last night and sitting down quietly to survey the remains of the evening, my eldest daughter sidled up to me, and carefully volunteered that there might be something not quite right with her computer. I put my hands on my knees, and lifted myself back out of the chair I had just sat in, and followed her back to her bedroom.

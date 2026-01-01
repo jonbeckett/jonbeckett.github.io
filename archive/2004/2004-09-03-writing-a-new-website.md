@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Writing A New Website"
 date: 2004-09-03
-categories: archive
+categories: "2004"
 ---
 
 Hi to anybody who reads this babble.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Buying My Own Coffee"
 date: 2015-04-08
-categories: archive
+categories: "2015"
 ---
 
 After being pretty sick throughout Easter, I went back into the office yesterday morning - and lasted an hour. Trying to work with a head full of ibuprofen, paracetamol, and throat lozenges isn't the best idea in the world, it turns out. Besides - I had to try and get better ahead of a meeting in London today.

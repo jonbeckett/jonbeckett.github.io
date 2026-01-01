@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Going Camping"
 date: 2008-05-27
-categories: archive
+categories: "2008"
 ---
 
 We are off camping tomorrow - taking the children on their first experience of the great outdoors (well... as much of the outdoors as the westcountry can summon).

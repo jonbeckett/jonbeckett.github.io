@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Emptying My Head"
 date: 2012-02-22
-categories: archive
+categories: "2012"
 ---
 
 750 Words is a fantastic website where you can empty your head, and get your thoughts analysed by all manner of psychological profiling techniques. The only requirement is to write - it's supposed to be private, but you can share the statistics that result. Just to give you some idea of the correlation, here's what I just wrote, along with the analysis afterwards...

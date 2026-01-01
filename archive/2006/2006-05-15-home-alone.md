@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Home Alone"
 date: 2006-05-15
-categories: archive
+categories: "2006"
 ---
 
 Did I write a blog yesterday? I don't recall...

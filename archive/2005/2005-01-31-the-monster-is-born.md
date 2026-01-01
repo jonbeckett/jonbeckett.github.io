@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Monster Is Born"
 date: 2005-01-31
-categories: archive
+categories: "2005"
 ---
 
 At about 3pm today a monster was born in the office where I work - a 64bit Linux monster 

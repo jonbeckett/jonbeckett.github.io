@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Eve Of The Cook Out"
 date: 2007-09-14
-categories: archive
+categories: "2007"
 ---
 
 In the style of Captain Oates, I am going to start this weekend with the words "I'm just going outside, I may be some time".

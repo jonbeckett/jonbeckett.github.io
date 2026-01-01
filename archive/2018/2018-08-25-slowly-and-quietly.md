@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slowly And Quietly"
 date: 2018-08-25
-categories: archive
+categories: "2018"
 ---
 
 I'm writing this a few minutes after 9am on Sunday morning. Summer seems to be ebbing away - the mornings are becoming a little colder - a little less inviting. Early next week we will escape the approach of autumn for a few more days - boarding an aeroplane in order to fight over sunloungers with fellow escapees. You may not find me at the hotel though - it's far more likely that I'll be a distant figure wandering the seashore, listening to the crash of waves, and picking up seashells while turning thoughts over and over in my head.

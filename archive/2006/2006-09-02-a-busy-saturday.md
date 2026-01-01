@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Busy Saturday"
 date: 2006-09-02
-categories: archive
+categories: "2006"
 ---
 
 It feels rather strange - entering "normal" life once more after several months working weekends.

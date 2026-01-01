@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Do Soft Toys Have Feelings Too"
 date: 2006-10-29
-categories: archive
+categories: "2006"
 ---
 
 This is going to sound like a very, very strange post to come from a man.

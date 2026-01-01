@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mathematics"
 date: 2013-01-09
-categories: archive
+categories: "2013"
 ---
 
 Although I didn't study mathematics past college, it's always been something of a nerdy secret interest. While it's true that math occasionally crosses paths with my work (software development), the really interesting stuff - the pure maths - lives in an entirely different, but equally abstract world.

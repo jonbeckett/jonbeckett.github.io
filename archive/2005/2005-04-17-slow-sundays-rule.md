@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slow Sundays Rule"
 date: 2005-04-17
-categories: archive
+categories: "2005"
 ---
 
 You know how you reach the end of some weeks, and are really looking forward to the weekend? (yes, I know... that's every week). This week was one of those weeks for me.

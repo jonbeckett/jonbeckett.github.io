@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slow Sunday"
 date: 2015-05-31
-categories: archive
+categories: "2015"
 ---
 
 It's just gone 4pm on Sunday afternoon. I'm holed up in the study with a glass of wine. I got up fairly early this morning - kicking around the house, tidying up, washing up, throwing clothes in the washing machine and dryer, and basically "getting on with stuff" until the kids arrived downstairs. After making breakfasts and washing up again, we sat and watched TV together for a while.

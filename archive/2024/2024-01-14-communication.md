@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Communication"
 date: 2024-01-14
-categories: archive
+categories: "2024"
 ---
 
 Today's writing prompt asks "in what ways do you communicate online?". The quick answer would almost certainly be "not as much as I used to". The real answer is somewhat more complicated.

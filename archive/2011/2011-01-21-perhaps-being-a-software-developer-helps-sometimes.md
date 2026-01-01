@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Perhaps Being A Software Developer Helps Sometimes"
 date: 2011-01-21
-categories: archive
+categories: "2011"
 ---
 
 awwhellnah:

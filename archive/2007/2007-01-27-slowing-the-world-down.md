@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slowing The World Down"
 date: 2007-01-27
-categories: archive
+categories: "2007"
 ---
 
 After several weeks running between counties of England with my work to visit faceless office buildings, the weekend has arrived once more, and half of Saturday has already rolled past.

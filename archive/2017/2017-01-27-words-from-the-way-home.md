@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Words From The Way Home"
 date: 2017-01-27
-categories: archive
+categories: "2017"
 ---
 
 The following words were written yesterday while on the train heading back down the country. I had planned on posting it last night, butnothing ever seems to go as planned in my life.

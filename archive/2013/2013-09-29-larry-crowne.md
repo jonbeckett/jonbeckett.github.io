@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Larry Crowne"
 date: 2013-09-29
-categories: archive
+categories: "2013"
 ---
 
 While flicking channels earlier this evening, and contemplating turning in for the night, I stumbled upon the opening scenes of the movie "Larry Crowne", and got completely sucked inagain.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Boxing Day"
 date: 2014-12-26
-categories: archive
+categories: "2014"
 ---
 
 I had visions of spending the greater part of Boxing Day playing board games with the children, and watching rubbish television shows.

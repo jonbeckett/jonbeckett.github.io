@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Started Running Again"
 date: 2023-11-25
-categories: archive
+categories: "2023"
 ---
 
 After completing the somewhat idiotic running challenge in September, given that my body was falling to bits on me in pretty short order (the last run of the challenge was assisted in no small part by ibuprofen gel), I decided to take some time off from running.

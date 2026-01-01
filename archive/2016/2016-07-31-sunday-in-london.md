@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday In London"
 date: 2016-07-31
-categories: archive
+categories: "2016"
 ---
 
 What started as a random conversation with our eldest daughter yesterday afternoon turned into my waking with a start at 7:30 this morning - a Sunday morning I might add - and ejecting myself out of bed in the blundering, clumsy, half awake way that I seem to be particularly good at.

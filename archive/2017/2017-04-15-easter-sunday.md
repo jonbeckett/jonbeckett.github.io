@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Easter Sunday"
 date: 2017-04-15
-categories: archive
+categories: "2017"
 ---
 
 It's been a slightly crazy day. Miss 13 woke us at 6am this morning, asking if she could get up yet. All she had on her mind was the Easter Bunny, and the prospect of chocolate eggs having been delivered downstairs. This is all my other half's fault, who has perpetuated the myth since the children were little. We have always had an Easter Egg hunt on Easter Sunday morning, with clues left all over the house and a treasure map to help find the hidden caches of chocolate eggs.

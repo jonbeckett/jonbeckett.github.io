@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Day Four Rainy Day Indoors"
 date: 2008-01-31
-categories: archive
+categories: "2008"
 ---
 
 Today had originally been planned as our first day out with the children - but due to our already having done that, and torrential rain throughout the day, we ended up staying at the foster carers with them from the moment they woke to the moment their heads hit the pillow.

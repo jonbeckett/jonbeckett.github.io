@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The way the web once was"
 date: 2024-09-22
-categories: archive
+categories: "2024"
 ---
 
 For the last several weeks I've been perpetuating perhaps the most ridiculous escapade in quite some time - cross-posting blog entries to Wordpress, Tumblr, Substack and Medium at the same time. I've also been experimenting with both Threads and Bluesky - the hopeful pretenders to the pile of ashes where Twitter once stood.

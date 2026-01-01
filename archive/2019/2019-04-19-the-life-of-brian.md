@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Life Of Brian"
 date: 2019-04-19
-categories: archive
+categories: "2019"
 ---
 
 We went out to a local cinema last night for a "night out" (read: couple of hours out). My other half saw an advert online for a 40th anniversary showing of "Monty Python's The Life of Brian", and despite our perilous financial situation at the moment, she took a chance. I'm glad she did.

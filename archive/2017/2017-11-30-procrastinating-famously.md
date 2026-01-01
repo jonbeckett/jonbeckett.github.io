@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Procrastinating Famously"
 date: 2017-11-30
-categories: archive
+categories: "2017"
 ---
 
 To be perfectly honest, I'm not getting an awful lot done today. It comes to something when the only accomplishment you can really think of for the morning has been re-installing KIK on your mobile phone. I'm "strangecodex", if you have it installed on your phone.

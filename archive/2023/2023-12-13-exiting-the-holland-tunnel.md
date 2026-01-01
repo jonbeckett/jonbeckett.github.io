@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Exiting the Holland Tunnel"
 date: 2023-12-13
-categories: archive
+categories: "2023"
 ---
 
 The clock ticked past midnight half an hour ago.

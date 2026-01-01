@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Consistent Speed"
 date: 2015-03-30
-categories: archive
+categories: "2015"
 ---
 
 After leaving the supermarket laden with grocery bags yesterday morning, I stood patiently at a road crossing, waiting for the lights to change. As they changed, and I started making my way across the road, an old man barged in front of me - he seemed to be in a huge hurry to get somewhere. What he did next annoyed me - he slowed down.

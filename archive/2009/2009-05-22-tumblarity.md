@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tumblarity"
 date: 2009-05-22
-categories: archive
+categories: "2009"
 ---
 
 I thought it might be interesting to share the results of my week long assault on Tumblr, and it's ranking system - "Tumblarity"...

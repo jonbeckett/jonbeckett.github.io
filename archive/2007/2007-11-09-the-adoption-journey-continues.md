@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Adoption Journey Continues"
 date: 2007-11-09
-categories: archive
+categories: "2007"
 ---
 
 This morning we were visited by our social worker, the social worker acting on behalf of our prospective children, and the social worker who took them from their birth family.

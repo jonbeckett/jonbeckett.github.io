@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A First Job Interview For Miss 17"
 date: 2018-01-12
-categories: archive
+categories: "2018"
 ---
 
 I walked into town with our eldest this morning - moral support for her first job interview - at a local coffee shop. I coached her with the kinds of question an employer would typically ask on our way into town - and pre-armed her with the kinds of things they would be expecting to hear in response.

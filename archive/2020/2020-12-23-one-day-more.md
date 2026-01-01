@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Day More"
 date: 2020-12-23
-categories: archive
+categories: "2020"
 ---
 
 No, this is not the beginning of a certain Broadway song involving all manner of catawailing (disclaimer - I love Les Miserables, before anybody starts on me). I'm just reflecting that we're only a day away from Christmas now - or more accurately, one day away from ten minutes of unwrapping things before it's all over for another year.

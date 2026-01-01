@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Note To Those Following Me"
 date: 2011-01-24
-categories: archive
+categories: "2011"
 ---
 
 Over the past few weeks - since I started dumping my ever inconsequential thoughts into Tumblr - a strange thing has happened. People have started following me - not in the real world - in Tumblr.

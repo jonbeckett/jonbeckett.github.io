@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "It's late again"
 date: 2024-03-01
-categories: archive
+categories: "2024"
 ---
 
 How on earth is it the 1st of March already? Also, it's been almost a week since the last post on the blog. Again. What is happening? I can't remember posting this infrequently for years. Ever, really.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Through Different Eyes"
 date: 2013-01-18
-categories: archive
+categories: "2013"
 ---
 
 I was talking to a wonderful friend on the other side of the world earlier, and the question of perception came up - how we see the world, and perhaps how the world sees us. It's interesting because it's often been remarked that I am - how best to put this? - different than most people in this regard.

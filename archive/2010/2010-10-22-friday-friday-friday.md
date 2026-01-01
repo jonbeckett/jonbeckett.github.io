@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday Friday Friday"
 date: 2010-10-22
-categories: archive
+categories: "2010"
 ---
 
 What is it that's so good about Fridays? Actually I take that back. The weekend is coming, and my other half is going away - leaving me to look after the children, cats and chickens single handed.

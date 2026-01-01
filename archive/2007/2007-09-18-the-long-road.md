@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Long Road"
 date: 2007-09-18
-categories: archive
+categories: "2007"
 ---
 
 Something has been on my mind recently. An annoyance, if you will.

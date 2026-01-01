@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Last Day Of School"
 date: 2014-07-18
-categories: archive
+categories: "2014"
 ---
 
 Our eldest daughter went to the end of year school party last night. She doesn't typically "do" parties, and had a pretty comical anxiety attack before leaving the houseturning back more than once before finally setting off on her way (wearing a dress for the first time in living memory!).

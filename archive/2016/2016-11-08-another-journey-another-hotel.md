@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Journey Another Hotel"
 date: 2016-11-08
-categories: archive
+categories: "2016"
 ---
 
 I should perhaps volunteer before writing any more that I have consumed two pints of cider this evening. If past experience is anything to go by, the alcohol will either unlock the Hemingway chunk of my brain that rarely even turns in it's chair, let alone writes anything, or it will reduce me to a rambling incoherent imbecile. Maybe the three bars of chocolate I just ate will assist in avoiding the latter.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Saturday Rain And Unwritten Plans"
 date: 2011-07-16
-categories: archive
+categories: "2011"
 ---
 
 It's Saturday morning, and it's raining cats and dogs. Great big ones. Ones that go woof (well, not the cats obviously). We are busy revising what on earth we had planned to do today - not much if truth be told, but whatever ideas had been planned to throw at me, they just got screwed up and thrown in the dustbin.

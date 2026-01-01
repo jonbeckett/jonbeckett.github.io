@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Barefoot In The Office"
 date: 2016-06-20
-categories: archive
+categories: "2016"
 ---
 
 I didn't notice it was raining this morning until I looked out of the window while finally gathering my own things together. This typically happens after making breakfasts, lunches, washing up, and (at the moment) making sure our eldest daughter is up, and has taken her medication. Given the unpredictability of children - who may get up at 6am on a weekend, and two hours later on a weekend - after placing several sticks of dynamite under their bed - I tend to get ready to leave the house with minutes to spare. Often the speed I cycle to work is entirely dependent on how late I am.

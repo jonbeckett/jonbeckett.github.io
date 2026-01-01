@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Ancient Heavenly Connection To The Starry Dynamo In The Machineryof The Night"
 date: 2011-11-09
-categories: archive
+categories: "2011"
 ---
 
 Late last night I read a post by a good friend that brought something to mind; I hardly ever tell people how much I value them on the Internet. I have done from time to time in the past, but it's pretty rare.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Wanderer Returns"
 date: 2006-01-18
-categories: archive
+categories: "2006"
 ---
 
 Over the last few days I have been juggling with the thought of stopping blogging all together - thinking of maybe going back to a paper diary.

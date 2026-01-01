@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Grew Sick And Tired Of Commuting"
 date: 2014-03-18
-categories: archive
+categories: "2014"
 ---
 
 You would think, after spending the best part of two years working in London through 2007 and 2008, that I would fit back into the world of the commutera world filled with busy railway stations, underground trains, chaotic early morning streets, andsleepy journeys home. You would be wrong.

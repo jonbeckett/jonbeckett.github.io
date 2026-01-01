@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Doctor Who Time Crash"
 date: 2007-11-17
-categories: archive
+categories: "2007"
 ---
 
 During BBC's Children In Need programming last night, in between showcasing the Spice Girls, Boyzone, and the wonderful Kylie Minogue, they aired a specially made short of Doctor Who, called "Time Crash".

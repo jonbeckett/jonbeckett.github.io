@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Many And Varied Facets Of My Idiocy"
 date: 2010-03-01
-categories: archive
+categories: "2010"
 ---
 
 Since deciding to continue with a personal blog a month or so ago, I have been wondering just how stupid I am. Of course there are many different ways somebody can be stupid, but I think I have a fair chance of nailing quite a few of them.

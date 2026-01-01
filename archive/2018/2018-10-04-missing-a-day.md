@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Missing A Day"
 date: 2018-10-04
-categories: archive
+categories: "2018"
 ---
 
 Somehow, missing a day in the blog has become a "thing". As I was getting ready for bed yesterday evening, it occurred to me that I hadn't posted anything. I quickly reasoned that it was far too late, and I was far too tired. The truth was more along the lines of I couldn't be bothered, and I didn't have much of a story to tell. The lack of a story hasn't really changed today either.

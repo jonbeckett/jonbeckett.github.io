@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coffee Solves Everything"
 date: 2016-07-29
-categories: archive
+categories: "2016"
 ---
 
 I woke a little after 3am this morning after being elbowed by my other half. I woke with a start to be informed that I had been snoring like a demented diesel engine. I rolled over and promptly fell asleep - waking up for the second time a little after 7:30am.

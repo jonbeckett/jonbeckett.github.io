@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Two Weeks Off"
 date: 2017-08-03
-categories: archive
+categories: "2017"
 ---
 
 Watching the clock tick down this afternoon at work was interminable. It reminded of countless begging sessions with grandparents when I was little, when they would promise to take me somewhere, get something, or do something "presently". Presently was this undetermined, and seeminly infinite quantity of time that only grandparents used or understood.

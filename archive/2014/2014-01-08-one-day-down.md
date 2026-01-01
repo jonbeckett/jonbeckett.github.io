@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Day Down"
 date: 2014-01-08
-categories: archive
+categories: "2014"
 ---
 
 My phone erupted into life at 6am, and was met by an incredibly badly coordinated hand. After a few minutes of watching the seconds tick by and thinking about nothing in particular in true Mickey Flagan "f*ck all" style, I dragged myself out of bed and headed towards the shower.

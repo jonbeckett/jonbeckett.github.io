@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Frustrated"
 date: 2020-08-31
-categories: archive
+categories: "2020"
 ---
 
 I'm stepping away from the social internet for a while.

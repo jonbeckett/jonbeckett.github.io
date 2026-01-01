@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Have Bike Will Cycle"
 date: 2017-03-29
-categories: archive
+categories: "2017"
 ---
 
 Not a lot of people know that I cycle to work every day. I don't actually own or drive a car. It means we save a small fortune every year, and it also means I don't end up with a backside the size of a small planet.

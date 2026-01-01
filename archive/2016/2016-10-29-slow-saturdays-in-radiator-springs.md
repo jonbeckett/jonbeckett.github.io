@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Slow Saturdays In Radiator Springs"
 date: 2016-10-29
-categories: archive
+categories: "2016"
 ---
 
 I'm not entirely sure that I've woken up yet, which feels like a ridiculous thing to write, because it's after 4pm. It doesn't help that I was up until 2am messing around with an old computer.

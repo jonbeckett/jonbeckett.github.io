@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "All Good Things"
 date: 2019-05-20
-categories: archive
+categories: "2019"
 ---
 
 The Game of Thrones has finally finished. It's over. Done. Eight years of television has come to an end. The actors involved can all move on to other projects now, and try to escape a small army of people who hate the script-writers of the final season of the TV show that made them all household names around the world.

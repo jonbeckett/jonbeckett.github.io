@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working Late"
 date: 2009-02-11
-categories: archive
+categories: "2009"
 ---
 
 Another night down, another night closer to paying for our new car, and another night of churning out illustrations that will eventually grace a corporate website.

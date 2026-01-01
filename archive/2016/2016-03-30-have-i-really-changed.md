@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Have I Really Changed "
 date: 2016-03-30
-categories: archive
+categories: "2016"
 ---
 
 I received a nice message from somebody thismorning somebody who used to be "somebody" on Tumblr. As far as I was concerned,she was one of the "Tumblr A-List"placed on a pedestal in the version of the internet that exists in my head. She was wonderfulto everybody, shared carefully curated moments from her life, and set an example I still chase today in terms of "how to be" on the internet. And then she vanished. Gone. One day she just upped sticks and walked away from the social internet.

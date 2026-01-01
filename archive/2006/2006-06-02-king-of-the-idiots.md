@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "King Of The Idiots"
 date: 2006-06-02
-categories: archive
+categories: "2006"
 ---
 
 Nobody will be interested in this post apart from the geeks among you. Actually, it's a bit of a misnomer addressing an "audience" to this blog - as far as I know, only two or three people read it. I shall carry on anyway...

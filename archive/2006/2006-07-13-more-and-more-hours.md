@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "More And More Hours"
 date: 2006-07-13
-categories: archive
+categories: "2006"
 ---
 
 It's starting to feel like my life has dissappeared, and been replaced by endless hours of work. Today I crossed through 40 hours for the week so far - and we're not even at Friday yet. It's looking like another 60 hour week in prospect.

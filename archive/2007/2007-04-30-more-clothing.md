@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "More Clothing"
 date: 2007-04-30
-categories: archive
+categories: "2007"
 ---
 
 While crashed out on the couch (I am off work with a virus today), it turns out W (who is also off work) was buying things on the internet.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Evil Empire Attacks Study"
 date: 2006-10-28
-categories: archive
+categories: "2006"
 ---
 
 In events occurring entirely within Jonathan's head this morning, the Empire launched an assault on the computer desk. They met staunch resistance from a lone software developer sat in his robe, and it is rumoured that his scary hair affected the oppressor's morale considerably.

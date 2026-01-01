@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Is It Really Only Wednesday"
 date: 2013-06-19
-categories: archive
+categories: "2013"
 ---
 
 I don't seem to have anything earth shatteringly interesting to write about today, but I'm not about to let that stop me. I need a break from the stuff I'm doing at work, so bashing a somewhat random collection of words into the keyboard would seem to be a suitable diversion.

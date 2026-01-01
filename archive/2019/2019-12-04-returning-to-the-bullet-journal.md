@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To The Bullet Journal"
 date: 2019-12-04
-categories: archive
+categories: "2019"
 ---
 
 After dithering quite considerably over the past several months, I have returned to using a bullet journal. There was a huge temptation to dick around with a mixture of Google Calendar, Evernote, and whatever else, but at the end of the day it comes down to one thing - if I don't write things down, I don't remember them.

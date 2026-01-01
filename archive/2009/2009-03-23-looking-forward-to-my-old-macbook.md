@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Looking Forward To My Old Macbook"
 date: 2009-03-23
-categories: archive
+categories: "2009"
 ---
 
 After I've booked the old Macbook in for service, it will be mine once more. It is covered by three years Apple Care (which cost a small fortune, but looks like it may pay off), and will hopefully have it's various ills cured.

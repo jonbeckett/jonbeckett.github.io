@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Science And Religion"
 date: 2011-10-31
-categories: archive
+categories: "2011"
 ---
 
 A few years ago we were staying at my parents in Cornwall, and my nephew was there for the entire summer (don't get me started on his Mum and Dad repeatedly doing that to him).

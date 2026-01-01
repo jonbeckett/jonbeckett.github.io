@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working From Home"
 date: 2017-07-20
-categories: archive
+categories: "2017"
 ---
 
 No, the photo accompanying this post is not of my desk - it may as well be though. Why get on with work, when you could quite easily spend all afternoon arranging everything on your desk into neat lines, and take arty photos of the stuff ? Unless you have something specific to get on with, working from home is hard. There is coffee you could be making, washing you could be putting in the machine, dishes you could be unloading from the dishwasher - not to mention a world of daytime television to discover.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Reaching Out"
 date: 2018-04-22
-categories: archive
+categories: "2018"
 ---
 
 If you see a friend request on Facebook from me, I decided to give up on the whole 'cut Facebook back to close family and friends' thing, because I ended up adding a few of you back anyway - which made it all kind of pointless.

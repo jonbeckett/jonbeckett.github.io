@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Another Week Another Hotel"
 date: 2015-02-09
-categories: archive
+categories: "2015"
 ---
 
 Another week, another hotel. This week I'm in the Holiday Inn, a couple of hundred miles from home for a couple of nights. I can't help humming the Elton John track whenever I stay at the Holiday Inn. To be honest, I wouldn't normally stay at the "big" hotels - I try and get the smaller ones to save a bit of money (they are all as good as each other), but this was a late call, and other hotels nearby were fully booked.

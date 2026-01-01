@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apple Ipod Nano 5G First Impressions"
 date: 2009-09-15
-categories: archive
+categories: "2009"
 ---
 
 The Nano arrived in the post yesterday, and I finally got a chance to have a play with it late last night.

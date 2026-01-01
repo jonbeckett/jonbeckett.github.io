@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Mexican Night"
 date: 2012-02-26
-categories: archive
+categories: "2012"
 ---
 
 Yesterday morning Mrs Beckett reminded me that we had tickets to attend a charity function at the local primary school - a "Mexican" night. A nearby restaurant was providing the food, the local brewery providing the majority of the beer, and a hundred or so parents providing themselves.

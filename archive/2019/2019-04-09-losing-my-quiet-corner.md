@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Losing My Quiet Corner"
 date: 2019-04-09
-categories: archive
+categories: "2019"
 ---
 
 I've just moved the junk room around - giving up the desk the old iMac used to sit on so my other half can take it over with her sewing machine, in preparation for the local dance company show.

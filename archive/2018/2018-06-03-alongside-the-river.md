@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Alongside The River"
 date: 2018-06-03
-categories: archive
+categories: "2018"
 ---
 
 After arriving at Frankfurt Airport, and picking my way through the various hurdles that have become so familiar, I finally found myself standing in the queue for a train ticket at the railway station beneath the airport. I wondered quite what everybody was doing, taking so long over buying tickrets, until I finally got to the front of the queue, and put my journey details in. Instead of suggesting a reasonably priced ticket to get me from the airport to the city, there was now a full-blown journey planning application with ten screens, all sorts of choices, and tickets that costs three times as much as they used to.

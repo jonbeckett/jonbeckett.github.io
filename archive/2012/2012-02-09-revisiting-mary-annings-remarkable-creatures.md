@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Revisiting Mary Annings Remarkable Creatures"
 date: 2012-02-09
-categories: archive
+categories: "2012"
 ---
 
 In a stroke of genius following a horrendous morning, I booked two days off work next week to coincide with half term. You might be wondering why the term "genius" might be applied to such an unremarkable event. I have managed to book Monday and Friday - meaning three day weekends - two of them - in a row.

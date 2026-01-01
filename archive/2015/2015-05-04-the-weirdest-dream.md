@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weirdest Dream"
 date: 2015-05-04
-categories: archive
+categories: "2015"
 ---
 
 I woke early this morning when our middle daughter thumped across the landing, creaked open our bedroom door, and asked if we were going to the French Market in town (a twinned town in France sends over a number of stall holders each year selling fresh fruit, vegetables, clothes and various assorted bric-a-brac). I blinked my eyes open and struggled to bring the alarm clock into focus.

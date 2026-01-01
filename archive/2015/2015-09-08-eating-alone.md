@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Eating Alone"
 date: 2015-09-08
-categories: archive
+categories: "2015"
 ---
 
 After work this evening I walked the tremendous distance - about 100 yards - to the pub adjoining the hotel for something hot to eat. I wondered in, walked straight to the bar, ordered a pint of cider to drink, beef and merlot pie to eat, and then found a quiet corner to sit in. It struck me that I asked "please may I have a pint of cider", the girl behind the bar replied "of course you can" in a musical, girlish tone that Marilyn Monroe would have been proud of.

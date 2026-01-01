@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Musical Horoscope Meme"
 date: 2008-01-05
-categories: archive
+categories: "2008"
 ---
 
 I saw this first here, and then here, and thought "I have to try that"here are the rules, and the results

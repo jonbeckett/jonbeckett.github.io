@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Strange Dreams"
 date: 2014-08-27
-categories: archive
+categories: "2014"
 ---
 
 I was in a field similar to the playing fields of the primary school I went to, and people were kicking footballs aroundkicking them high in the air. I remember worrying that somebody was going to get hurt, when "thump", a group of people sitting on the grass did get hit by a lofted ball.

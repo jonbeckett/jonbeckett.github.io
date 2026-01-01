@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Random Five For Friday"
 date: 2014-01-05
-categories: archive
+categories: "2014"
 ---
 
 It's been a while since I did a "random thought" post, so this seems like as good a chance as any.

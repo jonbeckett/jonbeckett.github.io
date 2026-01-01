@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Close Encounters Of The Scissored Kind"
 date: 2013-01-09
-categories: archive
+categories: "2013"
 ---
 
 This morning I survived a close encounter with a pretty lady brandishing scissors. I had planned to go to the usual place where a disgruntled guy cuts my hair as fast as possible while complaining about whatever is on the radio, but they were late opening. In a remarkable display of no loyalty whatsoever, I immediately headed to the shop around the corner, and was greeted by one of our children's friend's Mums.

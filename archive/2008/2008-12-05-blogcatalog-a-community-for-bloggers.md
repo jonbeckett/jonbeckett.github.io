@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blogcatalog A Community For Bloggers"
 date: 2008-12-05
-categories: archive
+categories: "2008"
 ---
 
 After looking around for a blogging community for some time, I came across BlogCatalog a while ago - and have been impressed with it.

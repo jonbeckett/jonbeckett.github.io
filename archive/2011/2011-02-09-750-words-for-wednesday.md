@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "750 Words For Wednesday"
 date: 2011-02-09
-categories: archive
+categories: "2011"
 ---
 
 It's been a while since I attempted 750 words, but better late than never, right?

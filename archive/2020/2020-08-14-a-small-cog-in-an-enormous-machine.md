@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Small Cog In An Enormous Machine"
 date: 2020-08-14
-categories: archive
+categories: "2020"
 ---
 
 I feel a bit like a small cog in an enormous machine at the moment - going round and round, slowly becoming worn, and not going anywhere. I'm sure that's a metaphor for something or other, but can't be bothered to connect the dots.

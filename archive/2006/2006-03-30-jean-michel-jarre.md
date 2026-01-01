@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Jean Michel Jarre"
 date: 2006-03-30
-categories: archive
+categories: "2006"
 ---
 
 I've been sat here programming all night, and thought I would take a bit of a break and tell you what I'm listening to.

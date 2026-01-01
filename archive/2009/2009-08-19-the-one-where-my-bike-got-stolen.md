@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where My Bike Got Stolen"
 date: 2009-08-19
-categories: archive
+categories: "2009"
 ---
 
 When I arrived home from work yesterday evening, there were several teenagers hanging around under the trees on the green outside our house. I noticed them because of their propensity to shout and whistle across the green to each other instead of walk and talk. Every other word also began with F, which I will admit caused me to shake my head.

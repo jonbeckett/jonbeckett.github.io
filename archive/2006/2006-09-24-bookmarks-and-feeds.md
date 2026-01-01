@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Bookmarks And Feeds"
 date: 2006-09-24
-categories: archive
+categories: "2006"
 ---
 
 For the first time since last weekend I have what appears to be a Sunday to myself. I'm probably going to fill it with all manner of activities that are on the "would like to do when I have time" list - like creating a good set of bookmarks of the pages I visit regularly, or a good OPML file containing all the feeds that I regularly peruse.

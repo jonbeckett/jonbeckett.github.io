@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rainy Sunday In Maidenhead"
 date: 2006-10-22
-categories: archive
+categories: "2006"
 ---
 
 After getting up late this morning and sitting in my robe for the best part of an hour, I looked out at the constant rain outside and a retail therapy session overcame me. I went to Maidenhead.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Five Things for Fun"
 date: 2024-01-23
-categories: archive
+categories: "2024"
 ---
 
 Yesterday's writing prompt asked what five things we do for fun. I say "yesterday's writing prompt" because life kind of landed on me like a bag of spanners yesterday. You know the one where you can see somebody needs help, and you're the best placed to provide that help, but if you begin helping you can say goodbye to everything you had been planning to do? That. I raised my hand. I couldn't help myself. 

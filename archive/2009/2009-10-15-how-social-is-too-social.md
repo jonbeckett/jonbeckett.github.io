@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "How Social Is Too Social"
 date: 2009-10-15
-categories: archive
+categories: "2009"
 ---
 
 I gained access to the Google Wave beta earlier today, and logged in with quite some excitement. If you've not heard about Google Wave yet, you have either been living under a stone, or you have a life - you know, a real life, like normal people. I burst through the doors, and while not expecting anything in particular, I didn't quite expect what I saw.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Britney On The Edge"
 date: 2007-02-18
-categories: archive
+categories: "2007"
 ---
 
 While spending my Sunday evening catching up on the various news stories doing the rounds, I saw something quite sad. It would appear the media have finally tipped Britney Spears over the edge.

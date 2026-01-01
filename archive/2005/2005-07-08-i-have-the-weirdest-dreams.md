@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Have The Weirdest Dreams"
 date: 2005-07-08
-categories: archive
+categories: "2005"
 ---
 
 It's official. I have the weirdest dreams.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Frustrations"
 date: 2014-06-18
-categories: archive
+categories: "2014"
 ---
 
 A pattern from my personal life seems to be repeating itself in my professional life at the moment, and I'm incredibly annoyed about it.

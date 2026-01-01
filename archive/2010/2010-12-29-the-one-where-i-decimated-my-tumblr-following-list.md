@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Decimated My Tumblr Following List"
 date: 2010-12-29
-categories: archive
+categories: "2010"
 ---
 
 In line with the earlier re-write of my about page here at Tumblr, I took a dispassionate look at the scarily huge list of tumblogs I have followed in the past, and thought "I have the day off work today let's do this".

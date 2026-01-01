@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tired And Bored"
 date: 2003-01-22
-categories: archive
+categories: "2003"
 ---
 
 If anybody that reads this is wondering why there is such a huge gap between entries, it's because I've just been so damn busy!

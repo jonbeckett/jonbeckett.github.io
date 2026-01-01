@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On the inside, looking out"
 date: 2024-08-11
-categories: archive
+categories: "2024"
 ---
 
 It's Sunday evening, and you find me sitting in the dark of the junk room listening to a random chill-out Jazz playlist. It feels like Charlie Brown is going to wander past with Snoopy at any moment.

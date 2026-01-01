@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Child of the Star Wars Generation"
 date: 2024-01-11
-categories: archive
+categories: "2024"
 ---
 
 Today's Bloganuary prompt asks us to "describe an item you were incredibly attached to as a youth", and "what became of it?".

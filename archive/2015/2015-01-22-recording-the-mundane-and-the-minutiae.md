@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Recording The Mundane And The Minutiae"
 date: 2015-01-22
-categories: archive
+categories: "2015"
 ---
 
 Today's exercise for the Blogging 101 course at WordPress challenges us with the following; Build your storyteller's toolbox by publishing a post in another format or a style you've never used before. I rarely post photographs within my posts, but willmake an exception to that rule today, and throw a few photos from Instagram into a gallery for your viewing pleasure (or horror, depending on your photographic skills).

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Shocked Stunned And Amazed"
 date: 2005-09-13
-categories: archive
+categories: "2005"
 ---
 
 A friend of mine asked me how many times my CMS script had been downloaded, and I had to tell her that I didn't know.

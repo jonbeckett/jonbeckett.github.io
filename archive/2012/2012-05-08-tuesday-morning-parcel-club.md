@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tuesday Morning Parcel Club"
 date: 2012-05-08
-categories: archive
+categories: "2012"
 ---
 
 It's Tuesday morning after the bank holiday, and I'm sat at home, watching the minutes tick by. Apparently a parcel is "on the road" en-route to me via the Home Delivery Network. A voice on my shoulder is expecting them not to arrive - in the same way that they didn't arrive on Friday (in spite of reporting they delivered the goods that never arrived).

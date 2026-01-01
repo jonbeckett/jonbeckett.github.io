@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Smurfs In 3D"
 date: 2011-08-21
-categories: archive
+categories: "2011"
 ---
 
 I took our children to see the Smurf movie on Saturday. I was dreading it. I'm not entirely sure why I guess I saw this as yet another Hollywood rape of a perfectly good memory from my childhood.

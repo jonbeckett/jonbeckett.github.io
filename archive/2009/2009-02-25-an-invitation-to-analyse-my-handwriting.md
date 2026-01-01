@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "An Invitation To Analyse My Handwriting"
 date: 2009-02-25
-categories: archive
+categories: "2009"
 ---
 
 After reading Antidamen's blog post, I'm joining in - here's some of my handwriting - analyse away...

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its Nothing Like The Movies"
 date: 2012-01-27
-categories: archive
+categories: "2012"
 ---
 
 For the last several months my entire life has been consumed by work - leaving my family behind for the greater part of each week to live in a hotel far from home. The reality has turned out to be very different than the expectation.

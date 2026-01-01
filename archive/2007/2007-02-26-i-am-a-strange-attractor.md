@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "I Am A Strange Attractor"
 date: 2007-02-26
-categories: archive
+categories: "2007"
 ---
 
 This morning has provided proof (if any was required) that I am indeed a "Strange Attractor". You may be wondering what I'm talking about.

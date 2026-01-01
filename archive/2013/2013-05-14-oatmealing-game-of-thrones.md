@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Oatmealing Game Of Thrones"
 date: 2013-05-14
-categories: archive
+categories: "2013"
 ---
 
 I watched two more episodes of Game of Thrones this evening - almost catching up with the broadcast schedule. We don't have HBO, or Sky, so our only route to watch the show is either to buy box sets of DVDs, or to download from the internet. For the first two seasons, we bought the box sets - for the third season, the internet is our friend.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Halloween"
 date: 2014-11-01
-categories: archive
+categories: "2014"
 ---
 
 Yesterday was Halloween. I'm writing this at 1am the next morning, so it really wasn't very long ago. I guess it would still be correct to write "tonight was Halloween", but I made the mistake of looking at the clock on the computer, and being Dudley Do-right.

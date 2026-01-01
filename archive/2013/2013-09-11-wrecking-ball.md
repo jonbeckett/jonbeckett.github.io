@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Wrecking Ball"
 date: 2013-09-11
-categories: archive
+categories: "2013"
 ---
 
 While searching for something new to listen to last night, I tripped over the biggest elephant in the internet room in recent memory"Wrecking Ball"the next release in Miley Cyrus assault on the YouTube server farm.

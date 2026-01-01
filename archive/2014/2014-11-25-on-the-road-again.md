@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Road Again"
 date: 2014-11-25
-categories: archive
+categories: "2014"
 ---
 
 I woke up five minutes before the alarm went off this morning, leaned across the bedside table, and switched it off. 5:25am. I then fell back asleep, and had an amazing dream where all kinds of things happenedand woke up again with a start, sure that I had overslept10 minutes later.

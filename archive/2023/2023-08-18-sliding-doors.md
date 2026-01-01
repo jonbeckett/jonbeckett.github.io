@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sliding Doors"
 date: 2023-08-18
-categories: archive
+categories: "2023"
 ---
 
 I've had a thought tumbling around my head for the last few days. I'm not quite sure how to put it into words. Perhaps if I just start writing, the words might sort themselves out.

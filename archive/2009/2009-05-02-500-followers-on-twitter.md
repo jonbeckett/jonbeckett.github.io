@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "500 Followers On Twitter"
 date: 2009-05-02
-categories: archive
+categories: "2009"
 ---
 
 This evening I passed the 500 follower mark on Twitter. The lucky (?!) 500th person was @soyleslie - an interesting young woman on the other side of the planet.

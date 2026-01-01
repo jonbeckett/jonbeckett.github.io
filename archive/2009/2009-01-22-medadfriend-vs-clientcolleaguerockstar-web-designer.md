@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Medadfriend Vs Clientcolleaguerockstar Web Designer"
 date: 2009-01-22
-categories: archive
+categories: "2009"
 ---
 
 I have taken the next logical step towards the seperation of "Jonathan/Dad/Friend" and "Colleague/Client/Rockstar Web Designer", and acquired a phone number specifically for my professional self.

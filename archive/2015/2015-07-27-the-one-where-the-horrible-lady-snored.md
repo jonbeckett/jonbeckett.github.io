@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where The Horrible Lady Snored"
 date: 2015-07-27
-categories: archive
+categories: "2015"
 ---
 
 Once again, I find myself sitting in a hotel room on the outskirts of Preston, Lancashire to work at a nearby office throughout the week. Once again I have survived the train journey, and once again I have a story to tell - quite a good one this time.

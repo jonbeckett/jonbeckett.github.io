@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "If Not Now When"
 date: 2022-09-16
-categories: archive
+categories: "2022"
 ---
 
 Tonight (or this morning) I'm taking a leaf from a good friend's book - and asking myself "if not now, when?". I'm talking about the blog of course, and writing a blog post.

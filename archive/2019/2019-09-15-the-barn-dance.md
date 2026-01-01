@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Barn Dance"
 date: 2019-09-15
-categories: archive
+categories: "2019"
 ---
 
 Last night I attended my first ever "barn dance". I think it was arranged by a group of local churches as a fund-raiser for two charities - one providing aid in Africa, and the other runs the summer camp my other half helps run in town each year.

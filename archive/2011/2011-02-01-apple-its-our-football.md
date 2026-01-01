@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Apple Its Our Football"
 date: 2011-02-01
-categories: archive
+categories: "2011"
 ---
 
 Has anybody else read the story breaking this morning about Apple changing the terms of the App Store? It looks like iPhone or iPad applications will no longer be able to sell products through the apps unless it comes from the App Store.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Five Hours And Five Days"
 date: 2014-03-02
-categories: archive
+categories: "2014"
 ---
 
 I'm sitting on board the 6:18 departure from Kings Cross to Leeds. I think this train arrives in Leeds at about 9pmI'm not checking because that will drain the mobile phone battery. All would have been well if the power outlets on the train were working, but they are notnot the first time this has happened to me. I suppose I should disconnect the Nexus 7 from the netbookit's stealing the netbook's charge to fill it's own battery.

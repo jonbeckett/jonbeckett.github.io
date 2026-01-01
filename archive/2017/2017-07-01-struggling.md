@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Struggling"
 date: 2017-07-01
-categories: archive
+categories: "2017"
 ---
 
 I have been quietly struggling with "blogging" for months, and resisting the temptation to write about about it, because who wants to read a blog post about blogging? Then I remind myself that I'm not here to write what others want to read - I'm here to empty my head, and if anybody at all finds it even remotely interesting, that's a bonus.

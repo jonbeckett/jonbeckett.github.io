@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Moleskine Comes To An End"
 date: 2009-03-26
-categories: archive
+categories: "2009"
 ---
 
 This is the friendly Moleskine notebook that has travelled with me over the last couple of years, being filled with all manner of idiotic ideas, opinions, thoughts and rants about life, the universe, and everything (although you would be hard pressed to find any investigation towards the question behind the number 42).

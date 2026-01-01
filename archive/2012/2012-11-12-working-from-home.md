@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Working From Home"
 date: 2012-11-12
-categories: archive
+categories: "2012"
 ---
 
 Vague recollection tells me the dream I was having shortly before the radio alarm clock roused me this morning was a good one - it's just a pity that I can't remember what it was about. I do recall being torn from it by the voices of the local radio station. Those voices mean it's 7am.

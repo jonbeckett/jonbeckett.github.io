@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Drinking Tea And Cooking Bolognese"
 date: 2022-02-06
-categories: archive
+categories: "2022"
 ---
 
 After meeting my brother at the railway station yesterday afternoon we immediately detoured to a grocery store so I could pick up the ingredients to make meals over the next few days. Healthy meals.

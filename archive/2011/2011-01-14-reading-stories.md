@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Reading Stories"
 date: 2011-01-14
-categories: archive
+categories: "2011"
 ---
 
 Our seven year old has two friends staying over tonight for their first ever sleepover. We tried really hard to let them burn themselves out - we really did.

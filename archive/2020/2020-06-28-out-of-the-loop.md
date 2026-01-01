@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Out Of The Loop"
 date: 2020-06-28
-categories: archive
+categories: "2020"
 ---
 
 It's Sunday afternoon, and you find me holed up in the junk room at home, forcing myself to empty my head into the keyboard. The broken toe is slowly healing - doing as little as possible throughout the last week has helped a lot. Fingers crossed, I'll be back running again by mid August.

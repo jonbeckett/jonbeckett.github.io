@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On My Way To Replacing Wordpress"
 date: 2005-07-16
-categories: archive
+categories: "2005"
 ---
 
 Hi all,

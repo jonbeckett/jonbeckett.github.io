@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Not knowing"
 date: 2023-12-20
-categories: archive
+categories: "2023"
 ---
 
 Tonight you find me sitting in the darkness of the bedroom, emptying my head into the keyboard on my lap while my other half watches "Van der Valk" in the lounge. I vaguely remember "Van der Valk" the first time around - a dutch detective show from the early 1980s - the theme music became famous for a time - called "Eye Level".

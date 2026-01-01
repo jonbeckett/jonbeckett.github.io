@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Blackout Stupidity"
 date: 2011-09-03
-categories: archive
+categories: "2011"
 ---
 
 Here's where I take issue with the "community" here, and call them out for their stupidity in this entire "blackout" idiocy.(for those that are not aware, lots of people are claiming they will not be posting today, because a widely used browser extension that adds some functionality to Tumblr is in the process of being banned)The "Missing E" extensionhas always knowingly broken the terms of the Tumblr End User License Agreement that everybody signs up to in order to use the service.

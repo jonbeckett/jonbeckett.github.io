@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Contemplating Submersion"
 date: 2019-01-18
-categories: archive
+categories: "2019"
 ---
 
 I'm contemplating submerging my blog once again - disassociating it with the "real world" me - disconnecting my name from it. I'm not sure if it's a good idea or not.

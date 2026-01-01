@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Is This A Blogging Exodus"
 date: 2008-07-15
-categories: archive
+categories: "2008"
 ---
 
 I have been sitting up here, on my fence, watching the blogosphere for the past few months, and I can't help feeling that a change is happening. I can't figure out if the change is in me, or the world surrounding me.

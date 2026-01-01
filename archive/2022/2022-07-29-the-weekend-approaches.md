@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Weekend Approaches"
 date: 2022-07-29
-categories: archive
+categories: "2022"
 ---
 
 The week is finally slowing down - affording me the chance to write a few words.

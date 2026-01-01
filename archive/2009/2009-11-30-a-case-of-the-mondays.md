@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Case Of The Mondays"
 date: 2009-11-30
-categories: archive
+categories: "2009"
 ---
 
 After sitting down at my desk to begin work this morning, I couldn't help thinking about the scene in Office Space;

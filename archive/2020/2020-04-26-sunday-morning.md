@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning"
 date: 2020-04-26
-categories: archive
+categories: "2020"
 ---
 
 After waking up a little after 8am this morning I was very busy daydreaming when my other half rolled over, woken by the cat asking for his breakfast, and murmured:

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The School Reunion"
 date: 2010-02-04
-categories: archive
+categories: "2010"
 ---
 
 A few of the people from my year at school are arranging a reunion this year. Quite why it has to be this year, I'm not sure - we'll all be hitting 37 - surely 40 would have been a better number ? Last year would have been 20 years since we left. It really makes no sense at all.

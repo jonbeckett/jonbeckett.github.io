@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Signs Of Life"
 date: 2019-11-01
-categories: archive
+categories: "2019"
 ---
 
 I feel like I've fallen off the blogging bike again. In a strange sort of way, the longer you don't post anything for, the less you have to say when you return - or rather, the more difficult it becomes to know where to start.

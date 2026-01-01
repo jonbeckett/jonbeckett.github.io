@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Dreams About Street Fighter Nazi Children I Dont Have"
 date: 2009-10-21
-categories: archive
+categories: "2009"
 ---
 
 Yesterday morning I woke at 6am to the sound of our resident air raid siren, otherwise known as "Little Miss Five".

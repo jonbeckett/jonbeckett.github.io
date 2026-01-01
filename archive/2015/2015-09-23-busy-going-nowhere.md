@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Busy Going Nowhere"
 date: 2015-09-23
-categories: archive
+categories: "2015"
 ---
 
 After an epic five hour journey home last night, where two trains ran late, connections were missed, and the penultimate train broke down, I walked in the door and collapsed on the sofa while the children showed me what they had been doing at school.

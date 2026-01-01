@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Morning Disappears"
 date: 2007-10-14
-categories: archive
+categories: "2007"
 ---
 
 At this point in time, I'm not entirely sure where Sunday morning went. I got up, had a cup of tea, had a shower, checked my email, peered out the window at the chickens, had another cup of tea, tidied the kitchen up, tidied the study up (as evidenced by somewhat orderly photo above), checked my blogroll, and now find myself at 12:10pm wondering where the morning went.

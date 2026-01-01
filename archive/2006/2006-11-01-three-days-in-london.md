@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Three Days In London"
 date: 2006-11-01
-categories: archive
+categories: "2006"
 ---
 
 For the next three days I will be commuting into central London to work on-site on a client project. This will mean getting up at 5am, and getting home at 8pm. I'm not looking forward to it, but it has to be done.

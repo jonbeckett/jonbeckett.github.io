@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Late Night Thoughts"
 date: 2020-10-13
-categories: archive
+categories: "2020"
 ---
 
 After sitting in this chair for eight hours already today, wrestling with all manner of complex design problems for a system that only exists in schematics, fake screenshots, and notepad pages at the moment, I'm loathe to spend much further time today sitting in front of a keyboard. And yet something calls to me - knowing that I didn't post any words yesterday.

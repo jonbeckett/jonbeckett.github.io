@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "12 Awesome Tumblrs"
 date: 2011-01-06
-categories: archive
+categories: "2011"
 ---
 
 Following my recent journey of discovery on Tumblr (read: a concerted effort to find real people that share their thoughts), I hit upon a novel idea. Perhaps if Ilike a particular tumblog, others will too - so if I pick a post that got lots of feedback, and track down the people that liked it, there's a good chance they will be great too.

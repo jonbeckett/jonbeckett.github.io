@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Theme Hatred"
 date: 2013-11-06
-categories: archive
+categories: "2013"
 ---
 
 You know the one where you choose a theme for your blog pretty much at random, because you can't find anything you like, and you can't justify spending any money on a nice looking theme? Yeah that.

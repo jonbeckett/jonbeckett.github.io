@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunday Afternoon"
 date: 2010-08-15
-categories: archive
+categories: "2010"
 ---
 
 Watching the remains of Sunday vanish, and wondering what to do with myself. Choices at the moment seem to fall between;

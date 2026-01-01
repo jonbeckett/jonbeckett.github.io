@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Choose your own Adventure"
 date: 2023-05-19
-categories: archive
+categories: "2023"
 ---
 
 It's 1:30am and I've been the last person awake in the house for over an hour. I'm turning something over and over in my head. Not something I can share. Just something.

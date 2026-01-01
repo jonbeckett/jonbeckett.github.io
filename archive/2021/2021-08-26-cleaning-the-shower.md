@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cleaning The Shower"
 date: 2021-08-26
-categories: archive
+categories: "2021"
 ---
 
 After getting up this morning, I got in the shower and discovered what happens when you go away for a week and your eldest daughter "looks after" the house.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Photo Journey From Marlow To Preston"
 date: 2010-09-05
-categories: archive
+categories: "2010"
 ---
 
 While spending the last hour or so of my weekend at home with my family this afternoon, I promised the children I would take photographs during my journey north, and post them up for them to see.

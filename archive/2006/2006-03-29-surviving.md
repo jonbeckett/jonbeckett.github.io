@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Surviving"
 date: 2006-03-29
-categories: archive
+categories: "2006"
 ---
 
 I survived the day (just). After working flat out throughout the day, I finished my work at 5:26 - with 4 minutes to spare inside my normal working day. Hopefully the rest of the week will be a little more relaxed.

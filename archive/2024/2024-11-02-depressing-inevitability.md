@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Depressing inevitability"
 date: 2024-11-02
-categories: archive
+categories: "2024"
 ---
 
 The clock ticked past 10am a little over fifteen minutes ago. I'm sitting barefoot in the junk room in front of the computer, scrolling through blog posts, reading, subscribing, liking, and commenting.

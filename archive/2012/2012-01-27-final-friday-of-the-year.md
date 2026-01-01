@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Final Friday Of The Year"
 date: 2012-01-27
-categories: archive
+categories: "2012"
 ---
 
 I'm sat in the study at home, bathed in the light of a desk lamp, two monitors, and a laptop. I'm officially "on call" for work - which in reality means I logged in this morning, opened Microsoft Outlook, and have half listened for the familiar chime of arriving email all day. It's like a form of paranoia.

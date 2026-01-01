@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Last Jedi"
 date: 2017-12-20
-categories: archive
+categories: "2017"
 ---
 
 I just got home from the cinema. I'm happy, sad, excited, weary, elated, and torn - all at the same time. So many emotions.

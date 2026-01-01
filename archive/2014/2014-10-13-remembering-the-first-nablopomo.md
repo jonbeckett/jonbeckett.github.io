@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Remembering The First Nablopomo"
 date: 2014-10-13
-categories: archive
+categories: "2014"
 ---
 
 At lunchtime today I stumbled upon a photo of a friend that died several years ago. She was driving early in the morning with her son in the back of the car, and left the road. Nobody ever found out what happened. She died at the scene. I remember finding out the next day when it hit the social networks, and scratching through the local news reporting on the internet. I still think about her from time to timeyears later.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Keep Taking The Tablets"
 date: 2018-08-01
-categories: archive
+categories: "2018"
 ---
 
 Our eldest daughter has been in the wars - and that's something of an understatement. For the last two weeks she has been fighting tonsillitis, and losing. She went through one course of antibiotics and appeared to be on the mend - but then the virus returned, and she hasn't eaten all this week.

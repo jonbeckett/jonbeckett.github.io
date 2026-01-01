@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Friday Night And Saturday Morning"
 date: 2011-03-19
-categories: archive
+categories: "2011"
 ---
 
 I sat at work yesterday, thunking my way through a pretty complex pile of javascript, jQuery, webservices, and server side code, and the day vanished in front of my eyes.

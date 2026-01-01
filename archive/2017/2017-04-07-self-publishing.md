@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Self Publishing"
 date: 2017-04-07
-categories: archive
+categories: "2017"
 ---
 
 Ever since I started posting ablog on the internet, I have been quite careful to keep a backup copy of the words I have written - it stretches all the way back to 2003. There are probably posts scattered across the "Wayback Machine" from the previous few years, but I can't even remember which websites they might have been found in.

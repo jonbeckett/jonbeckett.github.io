@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Switching Off"
 date: 2019-09-20
-categories: archive
+categories: "2019"
 ---
 
 After being immersed in source code all day, I sometimes find it difficult to switch off. A huge system I have been working on for the last few weeks is edging towards "go live". Stress isn't quite the word.

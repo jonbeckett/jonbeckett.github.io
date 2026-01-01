@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "On The Road"
 date: 2012-12-20
-categories: archive
+categories: "2012"
 ---
 
 While wandering the streets of San Francisco about ten years ago, we happened upon City Lights Bookstore, the legendary haunt of Allen Ginsberg, Frank O'Hara, and Jack Kerouac. At the time I knew little of the "Beat Generation" - only that they had changed the written word in much the same way that Elvis Presley and The Beatles had changed music.

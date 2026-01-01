@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Few Words This Morning"
 date: 2017-11-07
-categories: archive
+categories: "2017"
 ---
 
 Given that I will be heading south on a succession of trains this evening, I'm taking the chance to write a few words now - at 7:45am.

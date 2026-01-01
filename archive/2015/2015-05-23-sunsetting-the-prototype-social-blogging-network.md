@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Sunsetting The Prototype Social Blogging Network"
 date: 2015-05-23
-categories: archive
+categories: "2015"
 ---
 
 Funding runs out today for the hosting on the prototype social blogging network I built a couple of years ago. It ran under the name "We The Users" for a while, and then "PluggedOut". It took the essential features from the popular social blogging platforms, and rolled them into one lump, along with one feature in particular that seemed to be missing from everywhere except LiveJournal - the ability to publish a particular post "friends only" if you wanted.

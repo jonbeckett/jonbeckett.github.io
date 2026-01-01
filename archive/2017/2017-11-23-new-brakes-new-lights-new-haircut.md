@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "New Brakes New Lights New Haircut"
 date: 2017-11-23
-categories: archive
+categories: "2017"
 ---
 
 A few minutes before leaving the house this morning the telephone rang. My other half.

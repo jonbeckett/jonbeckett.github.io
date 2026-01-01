@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Road Less Travelled"
 date: 2017-09-13
-categories: archive
+categories: "2017"
 ---
 
 It's Thursday evening. I fly home in the morning. I'm sitting in my hotel room once again, listening to the rain pitter patter on the window, and figuring out what time I should leave in the morning to get to the railway station, before heading to the airport. I guess I can worry about that in the morning.

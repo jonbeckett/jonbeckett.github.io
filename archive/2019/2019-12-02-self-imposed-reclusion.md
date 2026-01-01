@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Self Imposed Reclusion"
 date: 2019-12-02
-categories: archive
+categories: "2019"
 ---
 
 Throughout the second half of the Couch to 5K running programme over the last few weeks, I have been battling first a cold, then what appeared to be a second cold, and finally a cough. After churning through the training runs every other day for the first half of the course, I was reduced to running once a week - which seemed to suffice and caused no ill effects.

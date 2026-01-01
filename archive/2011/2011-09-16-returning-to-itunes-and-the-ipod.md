@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To Itunes And The Ipod"
 date: 2011-09-16
-categories: archive
+categories: "2011"
 ---
 
 After a year or so using other solutions, I've re-installed iTunes on the desktop machine at home, and have been re-acquainting myself with it. If you're one of the people that continually bitches and moans about iTunes, I have one thing to say to youshut up.

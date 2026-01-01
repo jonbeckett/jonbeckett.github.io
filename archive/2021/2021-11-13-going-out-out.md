@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Going Out Out"
 date: 2021-11-13
-categories: archive
+categories: "2021"
 ---
 
 We went "out out" last night. We took part in a charity fund-raiser quiz in town - held by the local rotary club. If you're never heard of such a thing before, rotary clubs are run by local people who work together to solve community issues, provide aid, and promote goodwill. They also tend to be skewed heavily towards retired people - perhaps because they have time to devote to it.

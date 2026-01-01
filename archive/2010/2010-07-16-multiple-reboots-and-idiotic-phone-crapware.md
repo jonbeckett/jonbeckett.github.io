@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Multiple Reboots And Idiotic Phone Crapware"
 date: 2010-07-16
-categories: archive
+categories: "2010"
 ---
 
 I'm sat here at work, watching a new product install, and reboot the machine repeatedly (thankfully I have another computer to useotherwise I would go quite, quite mad).

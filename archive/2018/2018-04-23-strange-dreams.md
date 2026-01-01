@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Strange Dreams"
 date: 2018-04-23
-categories: archive
+categories: "2018"
 ---
 
 It's rare that I remember dreams. I sometimes wonder if we only remember them if they happen just before we wake up - that's what happened this morning. Of course the dream makes little sense in retrospect, but at the time it seemed very real - so much so that I'm writing this.

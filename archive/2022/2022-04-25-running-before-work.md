@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running Before Work"
 date: 2022-04-25
-categories: archive
+categories: "2022"
 ---
 
 I went running this morning before work. Finally getting off my backside and doing something about my general level of health and fitness. Over the next couple of months I want to both get fit, and lose some weight.

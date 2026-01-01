@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Regent Street In 11 Hours"
 date: 2016-01-24
-categories: archive
+categories: "2016"
 ---
 
 In 11 hours time I will walk into the office of a client just off Regent Street in London, dressed in a shirt, tie, khaki jeans, and brown shoes. I will have have pretended to know my way around London as I sleepily make my way across the Bakerloo line from Paddington, and will then pretend to be clever for a number of hours while sitting in gargantuan offices that beggar belief. Let's not suppose that I will look at Google Street View in a few minutes to figure out how to find my destination.

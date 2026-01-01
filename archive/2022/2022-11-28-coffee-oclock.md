@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Coffee OClock"
 date: 2022-11-28
-categories: archive
+categories: "2022"
 ---
 
 It's been a day - and that's all I want to say about that. The washing machine has done several loads, the kitchen has been turned into a laundromat, and work is as crazy as you might imagine while trying to work on multiple projects simultaneously.

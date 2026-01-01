@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Being A Busy Idiot"
 date: 2016-02-04
-categories: archive
+categories: "2016"
 ---
 
 The beginning of the day should have been a portent. I don't have to be in the office until 9am most mornings, and I only work 3 miles from homewhich is why I can get away with cycling to work on a mountain bike (and have the legs to show for it). This means I'm usually the last to leave on a morning, and get to chase the kids out of the houseensuring they get to school on time.

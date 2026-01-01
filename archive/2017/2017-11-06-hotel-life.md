@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Hotel Life"
 date: 2017-11-06
-categories: archive
+categories: "2017"
 ---
 
 It's 7:50am, and I'm back from the hotel restaurant after attempting to eat a cooked breakfast big enough to feed most entire families. I don't usually bother with cooked breakfast, on account of very rarely eating breakfast at home. Most mornings are a race to get the kids up, fed, and out of the door.

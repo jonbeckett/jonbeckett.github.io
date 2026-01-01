@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "A Search Party Of Sorts"
 date: 2016-08-05
-categories: archive
+categories: "2016"
 ---
 
 I have decided it's high time I left the front door of my blog and went off in search of new and interesting people to read the exploits of, and to become lifelong friends with. That's not too lofty a goal is it?

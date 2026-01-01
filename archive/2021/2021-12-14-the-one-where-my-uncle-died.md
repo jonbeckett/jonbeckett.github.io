@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where My Uncle Died"
 date: 2021-12-14
-categories: archive
+categories: "2021"
 ---
 
 It's been a day. I heard a few hours ago that my Uncle died last night. The father of the cousin that died of cancer a couple of months ago. I can't imagine what my Aunt is going through right now. I've messaged my Mum - she's been calling over the last week. I imagine over the coming days the family will re-assemble from the far corners of the country once again.

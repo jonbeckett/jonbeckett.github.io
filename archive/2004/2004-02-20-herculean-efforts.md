@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Herculean Efforts"
 date: 2004-02-20
-categories: archive
+categories: "2004"
 ---
 
 I was up until 1am programming again last night - the CMS code is now up to version 0.3 in the development area. Although you can't see any difference at all in the user interface, the code behind the administration interface has had a complete overhaul.

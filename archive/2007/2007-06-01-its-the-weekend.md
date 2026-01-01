@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Its The Weekend"
 date: 2007-06-01
-categories: archive
+categories: "2007"
 ---
 
 Finally, it's the weekend. Before starting, I would like to promise to anybody and everybody who knows me that I will make no further mention of "Big Brother". Perhaps I didn't indicate clearly enough that I had no intention of watching any more than the hour I did while stuffing my face with pizza the night before last.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Paying Code Tax"
 date: 2015-10-09
-categories: archive
+categories: "2015"
 ---
 
 A couple of weeks ago I began working on a somewhat sizeable software development project. It started out as a proof of concept - a one file program to see if something was even possible (it was).

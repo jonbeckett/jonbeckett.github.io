@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Running and not dying (yet)"
 date: 2024-04-22
-categories: archive
+categories: "2024"
 ---
 
 Well this is going well. I sat down to write something in the blog about going running after work today, and instead got sucked into watching some guitarist on YouTube that's recorded "shred" cover versions of all manner of famous tracks by other bands. Before I knew it, the better part of an hour had whistled passed, and Monday had become Tuesday.

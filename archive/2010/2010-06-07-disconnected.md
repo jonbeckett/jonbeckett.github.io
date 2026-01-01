@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Disconnected"
 date: 2010-06-07
-categories: archive
+categories: "2010"
 ---
 
 Do you ever get the feeling that the world has carried on quite well without you, thankyou very much, and that you're involvement in it isn't really needed at all ?

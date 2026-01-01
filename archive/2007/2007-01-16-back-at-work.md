@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Back At Work"
 date: 2007-01-16
-categories: archive
+categories: "2007"
 ---
 
 For the first time in what feels like weeks, I am back in the office at work - writing up notes from the various site visits I have been taking part in, and trying to "catch up" with the goings-on here.

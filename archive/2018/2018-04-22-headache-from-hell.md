@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Headache From Hell"
 date: 2018-04-22
-categories: archive
+categories: "2018"
 ---
 
 I left work early today, after fighting a headache that kept getting worse. It got to the point where I was squinting at the computer screen in front of me, fighting to think straight. After finally giving in I slowly cycled home, took some ibuprofen, drank a pint of water, and am now sitting in the junk room with a cup of tea. Let's hope tomorrow is better.

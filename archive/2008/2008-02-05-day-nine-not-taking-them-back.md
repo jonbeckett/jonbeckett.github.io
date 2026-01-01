@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Day Nine Not Taking Them Back"
 date: 2008-02-05
-categories: archive
+categories: "2008"
 ---
 
 The alarm clock went off at 7:30am, as it has for the past several weeks. It did not wake us - we had been awake since about 5am, tossing and turning. Although the children have been to visit our house for the last few days consecutively, today had a very different feel about it.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Eating And Drinking"
 date: 2016-09-21
-categories: archive
+categories: "2016"
 ---
 
 People who take any notice at all of the rubbish I post on Instagram probably think I'm some kind of heavy drinker, given that I routinely post pictures of wine glasses, and beer, and whatever else. The truth couldn't be any more different really (which is quite depressing, because it's means most days are incredibly mundane - hence my disappearance from the social interwebs for days or weeks from time to time).

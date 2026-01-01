@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Returning To Civilisation"
 date: 2006-09-17
-categories: archive
+categories: "2006"
 ---
 
 After a week where we seemingly dissappeared off the face of the earth, we are back home and very, very tired.

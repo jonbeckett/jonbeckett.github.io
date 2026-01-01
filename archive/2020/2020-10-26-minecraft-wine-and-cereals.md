@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Minecraft Wine And Cereals"
 date: 2020-10-26
-categories: archive
+categories: "2020"
 ---
 
 My daughters are busy working in a mine this evening - in the "Minecraft" video game. After our middle girl asked about paying for a Minecraft server from her own bank account, we failed to get anywhere with it because of parental controls, so I ended up forking out for it. A negotiation happened - Miss 16 and 15 are receiving less pocket money while the Minecraft server exists. Given the shouts and hilarity cascading across the house this evening, it's more than worth the little it cost just to hear their laughter.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Re Writing Blog"
 date: 2004-03-24
-categories: archive
+categories: "2004"
 ---
 
 Okay - before I start, I should perhaps re-iterate that this diary is based on code that I wrote, and I give away as "open source" to whoever wants a copy.

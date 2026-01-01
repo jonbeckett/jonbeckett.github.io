@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Newspapers And Overtime"
 date: 2021-09-06
-categories: archive
+categories: "2021"
 ---
 
 While talking to friends on the green outside our house yesterday evening one of them mentioned that the local newsagent was looking for paperboys and girls to deliver newspapers nearby. A few minutes later I arrived with my youngest daughter. A few minutes after that she had agreed to deliver papers every weekday morning, starting at 6:15am. Ouch.

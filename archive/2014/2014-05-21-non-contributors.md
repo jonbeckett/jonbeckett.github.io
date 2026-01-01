@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Non Contributors"
 date: 2014-05-21
-categories: archive
+categories: "2014"
 ---
 
 I've noticed something that is becoming more prevalent on the internet, and I'm finally writing about it.

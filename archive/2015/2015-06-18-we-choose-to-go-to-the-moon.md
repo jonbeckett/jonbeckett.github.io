@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "We Choose To Go To The Moon"
 date: 2015-06-18
-categories: archive
+categories: "2015"
 ---
 
 Whenever I play Kerbal Space Program at lunchtime, I can't help but think of the John F Kennedy speech in the early 1960sexcept I change the words somewhat."We choose to go to the Moon, and do the other things, not because they are easy, but because it is lunchtime"If you ever want to get anything done, ever again, avoid Kerbal Space Programme like the plague. I may have mentioned a few days ago that I had been up until 2am the night before. It was all this game's fault. While watching TV late that night an idea popped into my head for a new rocket design, and before too long I found myself sitting in the study at the kids computer, building the mother of all pretend rockets.

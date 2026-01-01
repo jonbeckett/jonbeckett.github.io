@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Day Three A Trip To The Farm"
 date: 2008-01-30
-categories: archive
+categories: "2008"
 ---
 
 We were thrown in at the deep end today. What had been planned as a day with the foster carer turned into us taking the children out for the first time on our own - several days ahead of schedule. The change-around was caused by a call from the social services asking the foster carer to pick up a newborn baby from the nearby hospital.

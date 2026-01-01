@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Seventeen"
 date: 2017-09-17
-categories: archive
+categories: "2017"
 ---
 
 She was always the least sure of herself, the one who worried the most - the one that watched others from a distance. Now she is seventeen, and I'm wondering where the years have gone.

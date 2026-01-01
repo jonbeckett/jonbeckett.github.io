@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "London Heathrow Terminal 2"
 date: 2019-01-20
-categories: archive
+categories: "2019"
 ---
 
 It's just gone 9am, and I'm sitting in the departure hall of Terminal 2 at London Heathrow. The gate has just been called for the flight, which is scheduled to leave in about an hour. I say "scheduled" because I've never known it leave exactly on time - I can only imagine the fines that happen when aircraft arrive and depart airports outside of their originally scheduled slots.

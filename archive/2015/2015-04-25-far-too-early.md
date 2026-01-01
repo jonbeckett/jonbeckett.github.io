@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Far Too Early"
 date: 2015-04-25
-categories: archive
+categories: "2015"
 ---
 
 I woke up at 6:30am, and instead of rolling over and falling back asleep, stared at the ceiling for a while. That's what you get for going to bed at a sensible time - usually I'm still wandering the dark corners of the internet into the early hours - last night I was asleep by 11pm.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where Sunday Ran Me Over Twice"
 date: 2013-07-08
-categories: archive
+categories: "2013"
 ---
 
 Sunday could have turned out very differently. While my other half went out for the morning with our youngest, I tidied up, washed up, and made lunches for a picnic that had been mentioned earlier in the weekall in the hopes of getting a chance to sit and watch the Grand Prix from Germany. I don't really watch much television, so thisone thing that I do tend to watch becomes amplified.

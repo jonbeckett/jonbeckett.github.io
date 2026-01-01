@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Pedalling Like Mad Going Nowhere"
 date: 2011-01-20
-categories: archive
+categories: "2011"
 ---
 
 While cycling home from work this evening, a flash of paranoia made me hop the front wheel of the bike in the air. It hit the ground softly. Shit.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Philanthropic Thoughts"
 date: 2013-06-20
-categories: archive
+categories: "2013"
 ---
 
 This morning I have been reading about an organisation called "Code Club". They back volunteer driven after-school clubs to teach children how to program computers. Given the recent efforts of Eben Upton and David Braben with the Raspberry Pi, I'm wondering if I should get involved "pay it forward", so to speak.

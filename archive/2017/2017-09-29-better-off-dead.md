@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Better Off Dead"
 date: 2017-09-29
-categories: archive
+categories: "2017"
 ---
 
 Our middle girl screamed a great many nasty things at us this morning. She claimed she was sick, and couldn't possibly go to school. We countered that if she was not well enough to go to school, she wouldn't be well enough to play football with her team on Saturday, or go to country rugby trials on Sunday.

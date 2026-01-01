@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "How Busy Am I"
 date: 2005-06-30
-categories: archive
+categories: "2005"
 ---
 
 Today has been one of those days. It is now just gone 4pm, and I have hardly had time to think all day. I have been covering helpdesk for the last few weeks (luckily, I think I finish my stint on 1st line support at the end of next week, and go back to being a full-time developer).

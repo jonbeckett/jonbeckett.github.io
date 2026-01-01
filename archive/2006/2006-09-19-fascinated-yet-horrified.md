@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fascinated Yet Horrified"
 date: 2006-09-19
-categories: archive
+categories: "2006"
 ---
 
 We just witnessed a sparrow hawk rip a dove to shreds in our back garden...

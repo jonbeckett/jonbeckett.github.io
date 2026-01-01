@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Cycling To Work"
 date: 2013-01-03
-categories: archive
+categories: "2013"
 ---
 
 I live close enough to the office to ride a mountain bike to work, and do so through sunshine, rain and snow.

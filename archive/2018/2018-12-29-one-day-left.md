@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "One Day Left"
 date: 2018-12-29
-categories: archive
+categories: "2018"
 ---
 
 At midnight tomorrow night the ball of mud we live on will spin a little further around the vast nuclear reactor it orbits. The day that follows will be pretty much like the one that came before - much like the thousands - millions even - that came before that, and that will continue to happen far into the future - long after we are a distant memory.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Rude Old Hags On Trains"
 date: 2008-07-30
-categories: archive
+categories: "2008"
 ---
 
 The annoying old bag did it again. She got on the train at Cookham, sat opposite me, and kicked my feet deliberately. I moved, and she said something about needing room. I looked down, and while I was pushed back with my bag now wedged between my shins, she had all the room in the world. She also took up the entire seat next to her with the most gaudy gold handbag in the known universe.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Unexpectedly Ascending The Nerd Ranks"
 date: 2015-05-02
-categories: archive
+categories: "2015"
 ---
 
 I'm not sure if this is anything to crow about, but a new follower at LiveJournal informed me that they found me via the "User Ratings". I'll admit that I had no idea such a thing existed until they told me, but after a little wander around the LiveJournal site, I discovered that I really am listed there, and only a few hundred from the top.

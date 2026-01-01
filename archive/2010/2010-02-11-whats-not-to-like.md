@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Whats Not To Like "
 date: 2010-02-11
-categories: archive
+categories: "2010"
 ---
 
 We were invited to the local school parents and teachers social this evening, held at our local pub (within walking distance!). Apparently W set about organising babysitters a couple of weeks ago - which was mentioned to me, but I have no recollection of.

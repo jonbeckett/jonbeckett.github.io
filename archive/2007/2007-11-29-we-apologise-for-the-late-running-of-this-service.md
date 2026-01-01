@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "We Apologise For The Late Running Of This Service"
 date: 2007-11-29
-categories: archive
+categories: "2007"
 ---
 
 After nearly coughing my lungs up during the night, I awoke this morning with a curiously clear throat, and thought perhaps the day ahead might be a good one. For the first couple of hours it was a good day.

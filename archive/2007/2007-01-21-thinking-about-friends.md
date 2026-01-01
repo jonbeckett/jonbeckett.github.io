@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Thinking About Friends"
 date: 2007-01-21
-categories: archive
+categories: "2007"
 ---
 
 While reading quite a number of blog posts this morning and issuing forth comments like confetti, I started wondering why I do it - why I write a blog.

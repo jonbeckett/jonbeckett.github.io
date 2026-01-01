@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Nanowrimo Starts"
 date: 2008-11-01
-categories: archive
+categories: "2008"
 ---
 
 It's officially the 1st November. Over the next month, if all goes well, I will write my first novel.

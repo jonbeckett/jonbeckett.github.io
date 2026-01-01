@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Playing With The Camera"
 date: 2006-01-22
-categories: archive
+categories: "2006"
 ---
 
 Okay... I've been playing with the new camera (at last)

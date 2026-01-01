@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "And Exhale"
 date: 2015-09-11
-categories: archive
+categories: "2015"
 ---
 
 I have nothing of consequence to share with the internet this fine Friday evening, but I'm not going to let that stop me writingsomethingat least. Once upon a time I would have been able to fill a page at the drop of a hat, but these days life seems to run me over given half a chance.

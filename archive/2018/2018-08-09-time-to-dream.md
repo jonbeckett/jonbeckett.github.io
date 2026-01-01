@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Time To Dream"
 date: 2018-08-09
-categories: archive
+categories: "2018"
 ---
 
 I'm not entirely sure where today went. A conference call with Germany first thing this morning uncovered some strange behaviour within the system I have been working on for the last several months.

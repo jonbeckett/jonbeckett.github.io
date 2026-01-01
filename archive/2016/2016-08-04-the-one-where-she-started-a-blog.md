@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where She Started A Blog"
 date: 2016-08-04
-categories: archive
+categories: "2016"
 ---
 
 My eldest daughter now has a blog over at Tumblr. I spent the better part of yesterday evening helping her join the dots between Twitter, Tumblr, and Instagram. It feels a lot like building Frankenstein's Monster - only this isn't a story in a book where you can disassociate yourself from the mayhem that unfolds - this is real. As much as my rational mind trusts her, and trusts the judgement we have instilled in her, there is a small part of me that is crapping it's pants at the prospect of launching her into the internet.

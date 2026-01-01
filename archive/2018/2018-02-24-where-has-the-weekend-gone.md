@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Where Has The Weekend Gone "
 date: 2018-02-24
-categories: archive
+categories: "2018"
 ---
 
 How do you go about writing a blog post when utter mayhem surrounds you ? While writing this Miss 12 is playing "Bomberman" next to me at full volume, the radio is blaring away in the kitchen, my other half is watching some forgettable detective series on TV in the lounge, and the other children are in their rooms, no doubt watching YouTube videos until their eyes fall out.

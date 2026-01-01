@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Poking Your Friends"
 date: 2007-06-13
-categories: archive
+categories: "2007"
 ---
 
 Does nobody else think it's a little weird to "poke" your friends on Facebook?

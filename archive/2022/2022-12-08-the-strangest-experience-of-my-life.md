@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Strangest Experience of my Life"
 date: 2022-12-08
-categories: archive
+categories: "2022"
 ---
 
 On Wednesday I travelled to a restaurant for the work Christmas meal. A relaxed lunch with co-workers I rarely see. It was quite the experience.

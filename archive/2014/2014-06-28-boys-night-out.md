@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Boys Night Out"
 date: 2014-06-28
-categories: archive
+categories: "2014"
 ---
 
 A few weeks ago I received an invitation from a good friend on Facebook to do exactly what my other half has been suggesting for some timehave a "boys night out". She quite often goes out with her co-workers, or school Mums for dinner or a drinkwhich proves in some ways that women are more social than men (or maybe they are just more likely to get off their backside and organise things).

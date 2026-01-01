@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The most beautiful sound I ever heard"
 date: 2022-11-23
-categories: archive
+categories: "2022"
 ---
 
 After battling my way to the end of an unexpectedly lengthy day at work, my other half wandered into the dark of the junk room and suggested "shall we go out for dinner? I have a voucher for the pub..."

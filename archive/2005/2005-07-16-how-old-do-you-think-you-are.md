@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "How Old Do You Think You Are"
 date: 2005-07-16
-categories: archive
+categories: "2005"
 ---
 
 I just did the BBC "How Old Do You Think You Are?" test, and am quietly pleased with myself.

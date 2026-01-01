@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The Journey To Scotland"
 date: 2015-02-23
-categories: archive
+categories: "2015"
 ---
 
 After getting up, making breakfasts and lunches, and hugging goodbye this morning as each of the children left the house for school, I zipped up my bag, and began clock watching for the time I would need to leave for the station.

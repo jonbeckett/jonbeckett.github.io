@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Weird Dreams"
 date: 2016-03-08
-categories: archive
+categories: "2016"
 ---
 
 I went to bed ridiculously early last night, and then slept straight through. I guess "straight through" is relative thoughafter sleeping for 8 hours I woke at 6am, and thought about getting up immediately. Of course I didn'tI stared at the ceiling for a while, listened to the kids fidgeting in their beds, and to the cats sneaking around the house. I also thought about the dream I awoke from.

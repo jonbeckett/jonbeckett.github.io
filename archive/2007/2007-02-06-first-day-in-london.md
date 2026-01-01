@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Day In London"
 date: 2007-02-06
-categories: archive
+categories: "2007"
 ---
 
 Strictly speaking, the title of this post isn't accurate - I have been working in London for ages - but only for the odd day or week from time to time. Today marked the first day of three months working in central London though; a day which I will mark with excerpts from my trusty Moleskine notebook.

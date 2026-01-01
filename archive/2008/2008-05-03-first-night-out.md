@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "First Night Out"
 date: 2008-05-03
-categories: archive
+categories: "2008"
 ---
 
 One of our good friends arrived after dinner last night to babysit - allowing us our first night out together since the girls arrived. It felt very odd indeed - heading out without them.

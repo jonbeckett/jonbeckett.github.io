@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "The One Where I Think About Leaving Wordpresscom"
 date: 2010-09-28
-categories: archive
+categories: "2010"
 ---
 
 I've been in an email exchange with the support staff at WordPress all evening about changing my username. I want my username at wordpress.com to match my blog name. You would think this would be straightforward.

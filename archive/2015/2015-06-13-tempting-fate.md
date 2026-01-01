@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Tempting Fate"
 date: 2015-06-13
-categories: archive
+categories: "2015"
 ---
 
 An hour after writing a post listing the various stuff that usually resides in my bag last night, my other half's laptop finally decided to reach the technology tipping point that invariably ends up at the bottom of the rubbish bin.

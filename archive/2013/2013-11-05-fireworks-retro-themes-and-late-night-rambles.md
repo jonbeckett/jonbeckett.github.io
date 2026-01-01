@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Fireworks Retro Themes And Late Night Rambles"
 date: 2013-11-05
-categories: archive
+categories: "2013"
 ---
 
 We took the kids out to see a firework display tonightour part in celebrating either the capture, or the hubris (depending on your thoughts about it) of Guy Fawkes attempting to blow up the Houses of Parliament several hundred years ago.

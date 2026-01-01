@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Needful Things That I Wont Be Getting Any Time Soon"
 date: 2008-01-16
-categories: archive
+categories: "2008"
 ---
 
 As we roll ever faster into 2008, and huge changes in our home and family life approach, I somehow feel compelled to make a list of the things I would very much like, but will never get - or at least I will never think of a reason plausible enough to warrant purchasing. Somehow I don't think robbing a bank or winning the lottery would change the viability of the contents of this list either...

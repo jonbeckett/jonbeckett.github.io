@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Midnight Messaging"
 date: 2020-09-22
-categories: archive
+categories: "2020"
 ---
 
 I'm tired - properly tired - and it's all my own fault.
