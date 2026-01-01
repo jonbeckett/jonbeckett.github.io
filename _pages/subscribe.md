@@ -4,8 +4,6 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-# Subscribe
-
 Stay updated with the latest posts by subscribing to email notifications. You'll receive new posts directly in your inbox.
 
 <style>
