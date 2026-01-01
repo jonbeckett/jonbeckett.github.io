@@ -27,6 +27,10 @@ logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x8
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
+
+# Custom head content
+head_scripts:
+  - '<meta name="follow.it-verification-code" content="46JJqqLrzpNsmCFk3FRQ"/>'
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
