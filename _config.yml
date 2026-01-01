@@ -19,7 +19,7 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jonathan Beckett"
 description: "Welcome to my homepage on the internet."
-url: "https://jonbeckett.github.io"
+url: "https://jonbeckett.com"
 baseurl: ""
 repository: "jonbeckett/jonbeckett.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
