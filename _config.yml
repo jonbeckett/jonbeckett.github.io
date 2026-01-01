@@ -54,6 +54,7 @@ reCaptcha:
 atom_feed:
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
+  excerpt_only: false # show full content instead of excerpts in feed
 search: false # true, false (default)
 
 # Analytics
