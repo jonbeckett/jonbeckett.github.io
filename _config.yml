@@ -67,8 +67,8 @@ analytics:
 author:
   name: "Jonathan Beckett"
   avatar: "/assets/images/jonbeckett.jpg"
-  bio: "Welcome to my homepage on the internet."
-  location:
+  bio: "The life and times of a work-from-home software and web developer as he fights a house, four women, two cats, idiocy, apathy and procrastination on an almost daily basis."
+  location: "UK"
   email: "jonathan.beckett@gmail.com"
   links:
     - label: "Email"
