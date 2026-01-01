@@ -71,9 +71,6 @@ author:
   location: "UK"
   email: "jonathan.beckett@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jonathan.beckett@gmail.com"
     - label: "Blog"
       icon: "fas fa-fw fa-book"
       url: "https://jonbeckett.com"
