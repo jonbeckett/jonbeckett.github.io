@@ -2,7 +2,7 @@
 layout: post
 title: "Pondering Exams"
 date: 2008-11-18
-categories: blog archive
+categories: archive
 ---
 
 I am thinking about doing some Microsoft certification exams to attempt to stay current while commuting to and from my current employment in London. The idea occurred to me when I noticed a Prometric testing centre just around the corner from the London offices.

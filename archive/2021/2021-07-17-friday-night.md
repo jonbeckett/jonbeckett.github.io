@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Night"
 date: 2021-07-17
-categories: blog archive
+categories: archive
 ---
 
 It's nearly midnight on Friday night as I begin writing this post. I'm sitting in the dark of the junk room, typing this into the desktop computer. My other half is watching television in the lounge, and the kids are fast asleep.

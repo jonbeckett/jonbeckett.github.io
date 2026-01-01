@@ -2,7 +2,7 @@
 layout: post
 title: "Nowhere On Purpose"
 date: 2020-11-28
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting in front of the computer all afternoon, reading, tinkering, playing chess, and falling down internet rabbit holes. While sitting here, there's been an uneasy sense that I should be doing something more constructive with my time. Something worthy.

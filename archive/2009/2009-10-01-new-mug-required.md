@@ -2,7 +2,7 @@
 layout: post
 title: "New Mug Required"
 date: 2009-10-01
-categories: blog archive
+categories: archive
 ---
 
 Like most workplaces, we each draw from a collective pool of mugs in the kitchen. The various drinkingreceptaclesare emblazoned with an assortment of long dead or defunct company and product logos. I can't help feeling that I should somehow be striving to be more individual - to have my own mug.

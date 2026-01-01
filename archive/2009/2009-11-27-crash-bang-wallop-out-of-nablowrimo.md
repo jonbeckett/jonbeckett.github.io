@@ -2,7 +2,7 @@
 layout: post
 title: "Crash Bang Wallop Out Of Nablowrimo"
 date: 2009-11-27
-categories: blog archive
+categories: archive
 ---
 
 With days left to go, I didn't post anything yesterday. Crash bang wallop indeed.

@@ -2,7 +2,7 @@
 layout: post
 title: "Drifting Along"
 date: 2003-02-18
-categories: blog archive
+categories: archive
 ---
 
 I'm bored and trying to think of what to write.

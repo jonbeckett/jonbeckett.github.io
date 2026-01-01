@@ -2,7 +2,7 @@
 layout: post
 title: "Losing Track Of Time"
 date: 2009-09-22
-categories: blog archive
+categories: archive
 ---
 
 This evening I have been implementing a new theme on a WordPress blog for a friendand as anything of this nature would naturally dictate, I completely lost track of time. I looked up and it was 2am. It's now 2:30 and I'm sat in bed with the Macbook, listening to a podcast.

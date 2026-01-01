@@ -2,7 +2,7 @@
 layout: post
 title: "Photography"
 date: 2017-12-29
-categories: blog archive
+categories: archive
 ---
 
 Giving up the smartphone may end up being a blessing in disguise - because I've become incredibly lazy over the last few years - just allowing Google to upload every photo I take into the cloud, and sharing one or two via Instagram to an army of acquaintances - heavily tagged for no apparent reason other than to attract enough likes to annoy people that chase traffic.

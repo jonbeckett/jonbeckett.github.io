@@ -2,7 +2,7 @@
 layout: post
 title: "Am I In A Minority"
 date: 2005-05-03
-categories: blog archive
+categories: archive
 ---
 
 We sat and started watching the movie "Meet the Parents" last night - and after about an hour of it I switched the television off. I'm not sure if it's just me, but I didn't find any of it funny. I just felt more and more sorry for the guy played by Ben Stiller, and more and more antagonistic towards every other character in the damn film.

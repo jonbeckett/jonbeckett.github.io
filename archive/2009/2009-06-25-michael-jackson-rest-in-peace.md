@@ -2,7 +2,7 @@
 layout: post
 title: "Michael Jackson Rest In Peace"
 date: 2009-06-25
-categories: blog archive
+categories: archive
 ---
 
 It has just been reported on the news that Michael Jackson died earlier today. Twitter beat the news networks to the news by about a minute.

@@ -2,7 +2,7 @@
 layout: post
 title: "An Introduction Of Sorts"
 date: 2014-02-22
-categories: blog archive
+categories: archive
 ---
 
 It would seem appropriate to tell new readers a bit about myself. Of course this is easier to say than do (you suddenly become very introspective, and start filtering all sorts of things out, then writing them in, then filtering them back out again), but I'll have a go;I live in England (yes, I have the English accent too). I grew up near Oxford.

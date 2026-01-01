@@ -2,7 +2,7 @@
 layout: post
 title: "When Sysadmins Ruled The Earth"
 date: 2009-03-30
-categories: blog archive
+categories: archive
 ---
 
 I discovered "When SysAdmins Ruled the Earth" while looking at the ePub digital document format last year. I was commuting into and out of London each day, and found myself dipping my toe into the ebook waters.

@@ -2,7 +2,7 @@
 layout: post
 title: "Melancholy"
 date: 2006-07-16
-categories: blog archive
+categories: archive
 ---
 
 After discovering that we had very little in the cupboards to make a meal out of this evening, I jumped on my bike and cycled into town in search of food and perhaps a DVD or three from the Blockbusters bargain bin.

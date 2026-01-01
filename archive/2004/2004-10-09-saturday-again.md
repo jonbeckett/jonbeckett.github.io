@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Again"
 date: 2004-10-09
-categories: blog archive
+categories: archive
 ---
 
 It's finally the weekend and I feel better than I have done in quite a while - although still not really well enough to get out running (I think if I did try and run any distance I'd end up coughing my lungs up).

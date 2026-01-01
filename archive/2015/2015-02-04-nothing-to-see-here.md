@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing To See Here"
 date: 2015-02-04
-categories: blog archive
+categories: archive
 ---
 
 While writing this, the time is marching inexorably towards 11pm. I have no idea where the evening went. Actually, that's a lie. I know exactly where the evening went - to ten different hells.

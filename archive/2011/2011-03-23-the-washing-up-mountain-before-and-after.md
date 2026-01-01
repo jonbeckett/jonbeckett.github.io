@@ -2,7 +2,7 @@
 layout: post
 title: "The Washing Up Mountain Before And After"
 date: 2011-03-23
-categories: blog archive
+categories: archive
 ---
 
 While I often write about my hatred of washing up, while stood contemplating the task at hand this evening, it occurred to me that my phone was in my pocket, and it has a pretty good camera on it...

@@ -2,7 +2,7 @@
 layout: post
 title: "The Trolley Bag Morons"
 date: 2007-11-07
-categories: blog archive
+categories: archive
 ---
 
 From small acorns might oak trees grow - and so do annoyances that could eventually end up with me kicking somebody to the ground in the middle of a busy railway station.

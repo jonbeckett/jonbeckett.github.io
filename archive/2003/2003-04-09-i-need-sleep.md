@@ -2,7 +2,7 @@
 layout: post
 title: "I Need Sleep"
 date: 2003-04-09
-categories: blog archive
+categories: archive
 ---
 
 Last night I got in from work, tidied up a bit, then spent most of the evening installing a computer for a friend (well - an hour or so). I think the computer may have fallen off the back of a lorry, so was a bit worried about what I might find installed on it. In the end my fears were unfounded - it had been wiped completely clean - no structure on C drive even.

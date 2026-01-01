@@ -2,7 +2,7 @@
 layout: post
 title: "Autumn Fire Necklace Arrives"
 date: 2005-09-14
-categories: blog archive
+categories: archive
 ---
 
 A couple of weeks ago I contracted a friend of mine in the states to make a necklace for W as a present for our anniversary this year. The necklace is a "one of a kind" design, hand made to my design brief which basically said "autumn colours".

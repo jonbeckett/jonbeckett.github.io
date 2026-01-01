@@ -2,7 +2,7 @@
 layout: post
 title: "The Map That Changed The World"
 date: 2007-11-14
-categories: blog archive
+categories: archive
 ---
 
 Over the past several days I have been reading a book my better half bought for me at the Natural History Museum in London - "The Map That Changed the World". It's the story of William "Strata" Smith, who you might now term the first professional geologist. Wikipedia has the following to say about him;

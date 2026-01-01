@@ -2,7 +2,7 @@
 layout: post
 title: "Working And Writing"
 date: 2018-04-24
-categories: blog archive
+categories: archive
 ---
 
 I realised today that the mountain I'm climbing at work is steeper than I thought. I'm tempted to dig in and work nights to get ahead of the game, but I'm not being paid to do that, and I doubt anybody will thank me for it. It's a trap I've fallen into before, and I have no doubt I will again - busting my ass to meet other people's requirements or expectations. We'll ignore that those expectations were pulled out of thin air with no regard for reality, past experience, or any sort of judgement.

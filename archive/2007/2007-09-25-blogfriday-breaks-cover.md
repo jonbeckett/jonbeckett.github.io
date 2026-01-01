@@ -2,7 +2,7 @@
 layout: post
 title: "Blogfriday Breaks Cover"
 date: 2007-09-25
-categories: blog archive
+categories: archive
 ---
 
 I travelled home on the train tonight with an idea in my head. An idea for a blogging website.

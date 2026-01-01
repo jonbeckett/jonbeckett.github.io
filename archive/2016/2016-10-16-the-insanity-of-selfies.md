@@ -2,7 +2,7 @@
 layout: post
 title: "The Insanity Of Selfies"
 date: 2016-10-16
-categories: blog archive
+categories: archive
 ---
 
 While somepeople pepper Instagram, Flickr, Facebook and Tumblr with their smiling face, I seem to have avoided the self-directed spotlight in recent years. I'm not really sure why. Maybe it's to do with narcissism, or maybe it's to do with the focal point of a photo? If you aresharing a photo of a place, the only reason I can think of to include yourself is to trumpet "look where I am" - to provide proof that you can indeed piss higher than your peers. I hate the pissing game.

@@ -2,7 +2,7 @@
 layout: post
 title: "Last Day Of Work Before Christmas"
 date: 2006-12-22
-categories: blog archive
+categories: archive
 ---
 
 Today is the last day of work before Christmas. The office has reduced down to a skeleton staff, of which I am one.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Real Life Of A Software Developer"
 date: 2013-06-07
-categories: blog archive
+categories: archive
 ---
 
 While most think we sit in darkened rooms, surrounded by junk, typing gibberish into screens full of gobbledegookwe do, sometimesthe reality is somewhat different.

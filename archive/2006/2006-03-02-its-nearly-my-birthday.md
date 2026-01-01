@@ -2,7 +2,7 @@
 layout: post
 title: "Its Nearly My Birthday"
 date: 2006-03-02
-categories: blog archive
+categories: archive
 ---
 
 I am going to be 33 years old tomorrow. I am officially becoming a grumpy old man, one year at a time.

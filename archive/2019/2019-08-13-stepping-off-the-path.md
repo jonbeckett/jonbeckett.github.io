@@ -2,7 +2,7 @@
 layout: post
 title: "Stepping Off The Path"
 date: 2019-08-13
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards midnight. Yet again I find myself wondering where the last several days have gone - every day seems to have become the day before. Things aren't perhaps as bleak as I might portray them though - the world surrounding me is slowly calming down - the hamster wheel is slowing.

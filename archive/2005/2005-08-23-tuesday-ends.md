@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Ends"
 date: 2005-08-23
-categories: blog archive
+categories: archive
 ---
 
 I'm sat in the lounge, tapping away on my laptop, downloading music from e-music, and feeling pretty tired. I guess the computer clock says it's nearly midnight though...

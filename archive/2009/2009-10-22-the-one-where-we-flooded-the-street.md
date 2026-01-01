@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where We Flooded The Street"
 date: 2009-10-22
-categories: blog archive
+categories: archive
 ---
 
 Before I recount this story, I need to make it clear that - technically - it wasn't us that flooded the street.

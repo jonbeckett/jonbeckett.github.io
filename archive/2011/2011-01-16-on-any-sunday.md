@@ -2,7 +2,7 @@
 layout: post
 title: "On Any Sunday"
 date: 2011-01-16
-categories: blog archive
+categories: archive
 ---
 
 7:00am

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where All The Wheels Fell Off The Wagon"
 date: 2012-05-24
-categories: blog archive
+categories: archive
 ---
 
 Today started with me going nuclear in the kitchen, and ended with me defeatedly reading a stream of emails from work... at 10pm.

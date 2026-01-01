@@ -2,7 +2,7 @@
 layout: post
 title: "Five New Blogs To Follow"
 date: 2009-07-29
-categories: blog archive
+categories: archive
 ---
 
 While re-acquainting myself over the last few days with the various online communities I used to call home, I stumbled upon some excellent personal blogs that I had either forgotten about, or not seen before. In the spirit of sharing such discoveries, here they are;

@@ -2,7 +2,7 @@
 layout: post
 title: "Holy Storage Batman"
 date: 2006-07-20
-categories: blog archive
+categories: archive
 ---
 
 I think this might have to be a geeky post.

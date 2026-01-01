@@ -2,7 +2,7 @@
 layout: post
 title: "First Day in Amsterdam"
 date: 2023-03-01
-categories: blog archive
+categories: archive
 ---
 
 A car quietly arrived outside our house at 5:30am this morning. We quietly gathered our bags and tip-toed out to meet the driver - worrying over everything the children might need, might forget, or might have to deal with in our absence.

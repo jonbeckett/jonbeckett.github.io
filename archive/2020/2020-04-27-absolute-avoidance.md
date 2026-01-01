@@ -2,7 +2,7 @@
 layout: post
 title: "Absolute Avoidance"
 date: 2020-04-27
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting in front of the laptop for the majority of the day, with a text editor open - ready to receive the usual stream of idiotic thoughts that invariably pour from my brain. For one reason or another, I've written nothing. All day. Nothing at all.

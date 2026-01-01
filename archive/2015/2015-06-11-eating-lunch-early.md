@@ -2,7 +2,7 @@
 layout: post
 title: "Eating Lunch Early"
 date: 2015-06-11
-categories: blog archive
+categories: archive
 ---
 
 After finishing dealing with some work this morning (read: headbutting my desk repeatedly and swearing profusely under my breath), I suddenly realised that it might in fact be lunchtime, and I could down-tools and eat the disappointing lunch I made for myself before leaving the house this morning.

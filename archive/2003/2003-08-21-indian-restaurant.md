@@ -2,7 +2,7 @@
 layout: post
 title: "Indian Restaurant"
 date: 2003-08-21
-categories: blog archive
+categories: archive
 ---
 
 We went to the "Tiger Garden" indian restaurant in town last night - my Aunt from America was staying over before flying home, so took us out for something to eat 

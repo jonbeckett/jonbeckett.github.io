@@ -2,7 +2,7 @@
 layout: post
 title: "Lego Star Wars Takes Over"
 date: 2006-12-27
-categories: blog archive
+categories: archive
 ---
 
 Has anybody seen W? I used to be married to this lady who knitted things, and wrote in her knitting blog. Now I live with this person who enthusiastically recounts stories of dressing Chewbacca up as a Storm Trooper, and how she "got Lando Calrissian to kiss Princess Leia", and other such tales of daring do.

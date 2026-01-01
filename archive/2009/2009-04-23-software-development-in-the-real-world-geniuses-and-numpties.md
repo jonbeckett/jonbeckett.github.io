@@ -2,7 +2,7 @@
 layout: post
 title: "Software Development In The Real World Geniuses And Numpties"
 date: 2009-04-23
-categories: blog archive
+categories: archive
 ---
 
 Although I am officially a "Technical Specialist" on paper for Microsoft technologies, the ability to pass an exam is pretty much useless when faced with real world development decisions.

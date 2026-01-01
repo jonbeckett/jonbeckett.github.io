@@ -2,7 +2,7 @@
 layout: post
 title: "All Quiet On The Western Front"
 date: 2021-01-23
-categories: blog archive
+categories: archive
 ---
 
 It's been a remarkably quiet week in the Beckett household. I suppose the one stand-out achievement of the week has been gaining sight of the bottom of the clothes basket. It took two determined days of running the washing machine non-stop, but at least now I know there is an end to the clothes washing nightmare. I also know that the end does not last.

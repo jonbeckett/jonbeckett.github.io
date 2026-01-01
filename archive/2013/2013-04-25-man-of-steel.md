@@ -2,7 +2,7 @@
 layout: post
 title: "Man Of Steel"
 date: 2013-04-25
-categories: blog archive
+categories: archive
 ---
 
 I'm wonderfully contradictory when it comes to comic books - I love the idea of them, and I love the artwork, but I've never sought them out - never bought them, or read any great number of them.

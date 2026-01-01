@@ -2,7 +2,7 @@
 layout: post
 title: "Working On The Blog Script"
 date: 2006-04-02
-categories: blog archive
+categories: archive
 ---
 
 Over the last few days I have been working on my blogging script, and finally released an update for it. It's now up to version 1.9.9d (I wish I had kept some kind of record of what each version did, but unfortunately I haven't).

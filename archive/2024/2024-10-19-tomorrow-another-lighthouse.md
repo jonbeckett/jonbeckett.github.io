@@ -2,7 +2,7 @@
 layout: post
 title: "Tomorrow, another lighthouse"
 date: 2024-10-19
-categories: blog archive
+categories: archive
 ---
 
 Yesterday marked our first full day in Brixham, and a concerted effort to not run here, there and everywhere - to not chase our own tail.

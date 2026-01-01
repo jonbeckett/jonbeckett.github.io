@@ -3,7 +3,6 @@ layout: single
 title: "The Midnight Writing Club"
 date: 2025-05-04
 categories:
-  - blog
   - "2025"
 ---
 

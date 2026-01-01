@@ -2,7 +2,7 @@
 layout: post
 title: "This Life Ends"
 date: 2007-01-03
-categories: blog archive
+categories: archive
 ---
 
 I feel a bit sad tonight - "This Life" sort of officially came to an end.

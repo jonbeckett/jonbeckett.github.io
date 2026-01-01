@@ -2,7 +2,7 @@
 layout: post
 title: "Gardening On Good Friday"
 date: 2006-04-14
-categories: blog archive
+categories: archive
 ---
 
 It's "Good Friday" in the UK today. We're off work, and have been working on the garden. W is still out there, digging the far end over.

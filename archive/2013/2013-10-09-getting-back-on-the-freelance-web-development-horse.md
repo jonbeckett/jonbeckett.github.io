@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Back On The Freelance Web Development Horse"
 date: 2013-10-09
-categories: blog archive
+categories: archive
 ---
 
 I've decided to throw my hat back into the freelance web development ring. Just a few projects in my spare time. While the money will be nice, the real purpose it to keep my skills and experience current.

@@ -2,7 +2,7 @@
 layout: post
 title: "Read Write And Engage"
 date: 2011-01-01
-categories: blog archive
+categories: archive
 ---
 
 While playing with Tumblr over the last few days, I have been reminded how great the community is, how much creativity is going on, and how much more people share here compared to just about anywhere else online;

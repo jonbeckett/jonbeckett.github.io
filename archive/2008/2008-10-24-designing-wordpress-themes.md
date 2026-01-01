@@ -2,7 +2,7 @@
 layout: post
 title: "Designing Wordpress Themes"
 date: 2008-10-24
-categories: blog archive
+categories: archive
 ---
 
 Several things occurred to me recently;

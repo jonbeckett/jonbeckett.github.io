@@ -2,7 +2,7 @@
 layout: post
 title: "Silence Descends"
 date: 2018-06-17
-categories: blog archive
+categories: archive
 ---
 
 The younger children are in bed already, put to sleep by watching the England team play their opening game in the World Cup. They had such high hopes, but completely lost interest by half time. Of course England scraped a win, but within a week or two the entire team will probably be splashed across the tabloid newspapers, labeled turnips, or something similar. The manager will be fired. Again.

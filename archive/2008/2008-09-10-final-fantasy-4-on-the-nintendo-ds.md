@@ -2,7 +2,7 @@
 layout: post
 title: "Final Fantasy 4 On The Nintendo Ds"
 date: 2008-09-10
-categories: blog archive
+categories: archive
 ---
 
 I picked up a copy of Final Fantasy 4 for the Nintendo DS at the weekend - it will be my travelling companion on the train over the next few weeks, and likely late night insomnia partner.

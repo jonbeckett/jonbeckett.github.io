@@ -2,7 +2,7 @@
 layout: post
 title: "Friends And Followers Everywhere"
 date: 2010-09-29
-categories: blog archive
+categories: archive
 ---
 
 When I started taking a more pro-active part in the Tumblr community a few months ago, I had no idea what I was going to use it for, or there it might lead. I knew very few people on Tumblr, and had no idea how to engage with others - given that there is no commenting system built in.

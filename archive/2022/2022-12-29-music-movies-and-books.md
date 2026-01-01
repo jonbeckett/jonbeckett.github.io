@@ -2,7 +2,7 @@
 layout: post
 title: "Music Movies and Books"
 date: 2022-12-29
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in the quiet of the junk room at home, listening to "On Green Dolphin Street" by Miles Davis. I'm going to blame a good friend on the internet that once suggested listening to "Cafe Jazz" while working from home. I never really listened to Jazz when I was young - I suppose I associated it with music snobs in black polo-neck sweaters, propped on bar stools in basement music venues.

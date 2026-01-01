@@ -2,7 +2,7 @@
 layout: post
 title: "Going Round In Circles"
 date: 2021-09-13
-categories: blog archive
+categories: archive
 ---
 
 In-between juggling work, chores, and all manner of distractions earlier, I decided to go back to what I had planned to do in the first place, and just have a blog at Tumblr. Tumblr is easy. Tumblr is simple. Tumblr just lets you post stuff without really worrying about it too much.

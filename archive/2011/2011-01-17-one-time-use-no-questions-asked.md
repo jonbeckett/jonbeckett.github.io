@@ -2,7 +2,7 @@
 layout: post
 title: "One Time Use No Questions Asked"
 date: 2011-01-17
-categories: blog archive
+categories: archive
 ---
 
 A friend of mine on the other side of the planet introduced me to a novel idea some years ago. Let me explain:

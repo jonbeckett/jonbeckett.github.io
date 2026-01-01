@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Night Working Again"
 date: 2009-11-24
-categories: blog archive
+categories: archive
 ---
 
 It's Tuesday night. I'm sat in the hotel working again. I just stopped to bash out a quick post in order to keep going with NaBloWriMo.

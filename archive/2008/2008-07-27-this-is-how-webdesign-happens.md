@@ -2,7 +2,7 @@
 layout: post
 title: "This Is How Webdesign Happens"
 date: 2008-07-27
-categories: blog archive
+categories: archive
 ---
 
 For those not involved in web design, I thought it might be interesting for you to see how a site "comes about" - the first steps, if you will.

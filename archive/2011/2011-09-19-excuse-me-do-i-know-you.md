@@ -2,7 +2,7 @@
 layout: post
 title: "Excuse Me Do I Know You"
 date: 2011-09-19
-categories: blog archive
+categories: archive
 ---
 
 It feels like such a long time since I have written anything of substance in the blog. I'm also aware that I've not "been around" either; not read many of my friends posts, not commented on their thoughts, answered their questions, or "liked" their photos.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Blogging Journey"
 date: 2012-02-03
-categories: blog archive
+categories: archive
 ---
 
 For the last several months I've been re-treading a familiar path between blogging platforms - one I have walked before. From self-hosted WordPress, through Posterous, across Tumblr, and finally landing at Blogger. If anybody described a "journeyman", or "wanderer" in the blogging community, they would surely be describing me.

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where We Watched Paul Again"
 date: 2016-03-20
-categories: blog archive
+categories: archive
 ---
 
 After flicking through the channels last night looking for something to watch after the kids had gone to bed, I noticed that "Paul" was just starting, sosuddenly a tedious choice became very easy indeed.

@@ -2,7 +2,7 @@
 layout: post
 title: "And Thats Why We Dont Ask Dad What He Did Today"
 date: 2010-04-09
-categories: blog archive
+categories: archive
 ---
 
 When I get in from work on an evening, the first few minutes are usually filled with a mad scramble around the house to clear the decks ready for dinner - to impose some kind of order on what would otherwise descend into outright mayhem. Shouts of "tidy up time" are reacted to by the children with varying amounts of enthusiasm - with contributing factors including the current cartoon on the television, whichever jigsaw is half finished, or how much fun is being had outside.

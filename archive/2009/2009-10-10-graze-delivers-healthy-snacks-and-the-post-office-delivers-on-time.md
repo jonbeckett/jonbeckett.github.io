@@ -2,7 +2,7 @@
 layout: post
 title: "Graze Delivers Healthy Snacks And The Post Office Delivers On Time"
 date: 2009-10-10
-categories: blog archive
+categories: archive
 ---
 
 Graze (www.graze.com) and the british postal service combined overnight to deliver snacks to me, so I thought it only right that I should do an "unboxing" post to show you what they sent.

@@ -2,7 +2,7 @@
 layout: post
 title: "Evolution Of Delivery Services"
 date: 2008-09-06
-categories: blog archive
+categories: archive
 ---
 
 You may recall that I bought a new computer for home the other day - who would have thought even ten years ago that the following information would be available one day for customers to keep track of;

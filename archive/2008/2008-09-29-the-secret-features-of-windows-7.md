@@ -2,7 +2,7 @@
 layout: post
 title: "The Secret Features Of Windows 7"
 date: 2008-09-29
-categories: blog archive
+categories: archive
 ---
 
 While skimming Ars Technica earlier this evening, I read with interest their piece about Microsoft going public with Windows 7 (read: successor to Vista) at the Professional Developers Conference next month, and it's development being "secretive".

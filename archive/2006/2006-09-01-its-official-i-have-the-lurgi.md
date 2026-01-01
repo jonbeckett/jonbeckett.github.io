@@ -2,7 +2,7 @@
 layout: post
 title: "Its Official I Have The Lurgi"
 date: 2006-09-01
-categories: blog archive
+categories: archive
 ---
 
 While stood in the bathroom brushing my teeth this morning, I noticed red weilds around my neck and thought "hmmm... that's not right".

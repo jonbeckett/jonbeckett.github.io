@@ -3,7 +3,6 @@ layout: single
 title: "A Day in the City"
 date: 2025-09-08
 categories:
-  - blog
   - "2025"
 ---
 

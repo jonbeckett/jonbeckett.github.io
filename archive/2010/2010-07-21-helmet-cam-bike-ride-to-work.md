@@ -2,7 +2,7 @@
 layout: post
 title: "Helmet Cam Bike Ride To Work"
 date: 2010-07-21
-categories: blog archive
+categories: archive
 ---
 
 This will be interestingI tried out the tiny camera I bought last week this morningstrapped it to the top of my bike helmet, and recorded the journey.

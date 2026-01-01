@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where 2 Hours Became 5"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 The children made dinner for me today. A special "going away" dinner - to mark my final day with them for a week. As six oclock neared, I pulled the bags I had been filling throughout the day from the study, and shouted "are you coming to the station then?"

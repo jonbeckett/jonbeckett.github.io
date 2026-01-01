@@ -2,7 +2,7 @@
 layout: post
 title: "Cadbury World"
 date: 2016-01-30
-categories: blog archive
+categories: archive
 ---
 
 Our middle girl had two friends stay for a sleepover last night. They all retreated upstairs at about 10pm, with rules put in place that they could stay up as late as they wanted within their bedroom, and as long as they were quiet.My other half went to bed at about 11pm. I followed her (after watching yet another episode of the X-Files) at about midnight. While sitting in bed, reading emails and messages on my phone, the bedroom door suddenly burst open. Miss 12 stage whispered "what time is it?"Miraculously, all the kids got up before 8am, and were already eating breakfast when I arrived downstairs a few minutes later. For some reason my other half likes to pretend we're a hotel when we have guests at breakfast time, so she gets every box of cereal, every type of syrup, honey, or other gloopy stuff, and every damn bowl, plate, spoon, fork, and whatever the hell else out, and stacks it all on the dining room table. Guess who has to put it all away again? It's also worth pointing out that we still don't have a dishwasher (2 years after ours broke), so I had to wash up for an hour while everybody else did whatever everbody elses did while I washed up for an hour.

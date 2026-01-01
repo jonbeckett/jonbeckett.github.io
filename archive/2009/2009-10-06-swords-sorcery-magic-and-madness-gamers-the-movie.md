@@ -2,7 +2,7 @@
 layout: post
 title: "Swords Sorcery Magic And Madness Gamers The Movie"
 date: 2009-10-06
-categories: blog archive
+categories: archive
 ---
 
 In a repeat of their earlier generosity with "Clerks", Amazon again sent me two movies for twice the price yesterday. This time the movie was "Gamers", which I heard about on a podcast some time ago...

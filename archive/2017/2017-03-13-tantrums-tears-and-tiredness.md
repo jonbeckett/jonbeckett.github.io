@@ -2,7 +2,7 @@
 layout: post
 title: "Tantrums Tears And Tiredness"
 date: 2017-03-13
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in the dark of the junk room, listening to a James Taylor album. I've tried to write this post about six times so far. Each time I write half a sentence, somebody wanders in to interrupt me about sometime tremendously important.

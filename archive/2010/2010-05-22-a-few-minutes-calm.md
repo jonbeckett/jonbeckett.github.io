@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Minutes Calm"
 date: 2010-05-22
-categories: blog archive
+categories: archive
 ---
 
 It's Saturday morning, and I'm enjoying a few minutes of calm before the rest of the weekend chews me up and spits me out. After today, I'm not expecting to get another chance to relax until we arrive on a campsite next weekend (I guess even then, it will be after we've put the tent up).

@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon Fire Tv"
 date: 2014-11-05
-categories: blog archive
+categories: archive
 ---
 
 We finally plugged in the Amazon Fire TV this evening, and decommissioned the XBox 360 from the lounge. Of course now I have nothing to plug the X-Box into, but it didn't really matter. Rather than go on and on, boring you to death, I'll condense the review of Fire TV down to a few words - Seriously impressive.

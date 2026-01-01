@@ -2,7 +2,7 @@
 layout: post
 title: "I Want One Of Them New Macs"
 date: 2005-01-12
-categories: blog archive
+categories: archive
 ---
 
 Apple are releasing a new Mac.

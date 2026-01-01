@@ -2,7 +2,7 @@
 layout: post
 title: "Not Feeling It"
 date: 2020-07-26
-categories: blog archive
+categories: archive
 ---
 
 I got up this morning and went for a run, after not running for the last two days. I got up half an hour later than I should have, both my knees hurt when I started out, one of my feet went dead after a couple of miles, a tendon started to hurt a mile after that.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Challenge Faced"
 date: 2022-01-14
-categories: blog archive
+categories: archive
 ---
 
 *This year I'm taking part in "*[*Bloganuary*](https://bloganuary.wordpress.com/)*" - a series of writing prompts published throughout the month by* [*Mindy Postoff*](https://bloganuary.wordpress.com/author/mindywoothemes/)*. Today's writing prompt is "Write about a challenge you faced and overcame.".*

@@ -2,7 +2,7 @@
 layout: post
 title: "I Just Discovered Skype"
 date: 2004-12-04
-categories: blog archive
+categories: archive
 ---
 
 I had heard a guy at work talking about an internet telephony package called "Skype", but didn't look at it until earlier on today - and am amazed to say that even I was impressed with it.

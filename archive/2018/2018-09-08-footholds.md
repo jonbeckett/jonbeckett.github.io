@@ -2,7 +2,7 @@
 layout: post
 title: "Footholds"
 date: 2018-09-08
-categories: blog archive
+categories: archive
 ---
 
 I have somehow ended up with almost identical blogs at WordPress, Tumblr, and LiveJournal. Yes, LiveJournal still exists - stop laughing. Anyway - cutting a very long, introspective, and boring story short, I'm going to limit the almost-daily head emptying posts to just WordPress. I find myself being drawn into all three communities and trying to keep a foot-hold in each - which it turns out is quite difficult when you only have two feet.

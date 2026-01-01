@@ -2,7 +2,7 @@
 layout: post
 title: "Frustrated"
 date: 2020-08-31
-categories: blog archive
+categories: archive
 ---
 
 I'm stepping away from the social internet for a while.

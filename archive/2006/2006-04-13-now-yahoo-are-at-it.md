@@ -2,7 +2,7 @@
 layout: post
 title: "Now Yahoo Are At It"
 date: 2006-04-13
-categories: blog archive
+categories: archive
 ---
 
 When I arrived at work this morning, I was browsing the "latest news" on Yahoo, and came across the story about Tom Cruise's baby being born... the second paragraph goes as follows...

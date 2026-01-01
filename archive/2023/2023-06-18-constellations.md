@@ -2,7 +2,7 @@
 layout: post
 title: "Constellations"
 date: 2023-06-18
-categories: blog archive
+categories: archive
 ---
 
 Many years ago, when I started writing a blog on the internet, the "blogosphere" was filled with larger than life characters, breathless stories, and exuberant explosions of life in every direction you looked.

@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2017-12-10
-categories: blog archive
+categories: archive
 ---
 
 Following the blanket of snow that fell on the surrounding area throughout yesterday, most of the local schools announced their closure, along with the office where I work. Therefore this morning I am holed up in the junk room at home, fielding work emails, and trying to stop our younger children decapitating each other.

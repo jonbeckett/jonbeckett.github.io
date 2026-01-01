@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Doors And Motorbikes"
 date: 2020-06-09
-categories: blog archive
+categories: archive
 ---
 
 The builders arrived at 8am this morning with a van full of windows and doors for our house. We have lived here for 20 years. The house is something like 80 years old. Many of the windows were original - steel framed single-glazed windows, with He-Man handles that require a ridiculous degree of brute force to lock shut.

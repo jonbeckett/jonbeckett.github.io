@@ -2,7 +2,7 @@
 layout: post
 title: "Coasting To A Halt"
 date: 2005-01-30
-categories: blog archive
+categories: archive
 ---
 
 After what seems like a marathon, my CMS project is finally becoming feature complete, and just needs some user interface work before it can leap towards something nearer to a version "1".

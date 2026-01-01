@@ -2,7 +2,7 @@
 layout: post
 title: "Running Out Of Words"
 date: 2011-11-02
-categories: blog archive
+categories: archive
 ---
 
 I've been sat here in the hotel for the last hour in front of the laptop, staring into space, reading junk on the internet, and basically wasting time. When I first sat down I planned on writing somethingin the blogI just had no idea what.

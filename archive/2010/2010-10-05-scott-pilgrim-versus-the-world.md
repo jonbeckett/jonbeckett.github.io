@@ -2,7 +2,7 @@
 layout: post
 title: "Scott Pilgrim Versus The World"
 date: 2010-10-05
-categories: blog archive
+categories: archive
 ---
 
 I started reading "Scott Pilgrim" this evening - not sure what to make of it so far - I'm not really a comic book kind of person. More into the artwork - Adam Hughes, Alex Ross, Jamie Hewlett, etc...

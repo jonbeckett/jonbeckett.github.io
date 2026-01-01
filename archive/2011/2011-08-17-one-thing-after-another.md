@@ -2,7 +2,7 @@
 layout: post
 title: "One Thing After Another"
 date: 2011-08-17
-categories: blog archive
+categories: archive
 ---
 
 I woke at 7 this morning when the radio alarm crackled into life and started pumping our local radio station into the air for whoever wanted to listen to it. After a few moments of fumbling in my "went to bed at 1am again" state, I shut it up, and fell back asleep.

@@ -2,7 +2,7 @@
 layout: post
 title: "Rebooting My Music Collection"
 date: 2017-06-25
-categories: blog archive
+categories: archive
 ---
 
 Late one night over the weekend I decided to delete everything I had uploaded to Google Music, and start over. I guess it was a "nuclear" option of sorts. A chance to start again.

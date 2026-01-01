@@ -2,7 +2,7 @@
 layout: post
 title: "Relentless"
 date: 2018-03-07
-categories: blog archive
+categories: archive
 ---
 
 This week seems to be going on indefinitely. I'm sure there's an end to it somewhere, but I'm not entirely sure where that might be. It probably doesn't help that I've been head-down on development this week - making changes to perhaps the biggest code-base I ever worked on, and for a huge client. It's the project I worked on a couple of years ago - the one with tens of thousands of lines of code. Working on it scares me. I have one more day scheduled on it - tomorrow - and need to get the changes into production. It's going to be a "fun" (read:stressful) day.

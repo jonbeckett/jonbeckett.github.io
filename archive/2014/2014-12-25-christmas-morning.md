@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Morning"
 date: 2014-12-25
-categories: blog archive
+categories: archive
 ---
 
 We woke with the alarm clock at 7am, when we would normally fall out of bed to begin the weekday routine of getting the children ready for school, making breakfasts, packed lunches, and fighting a running battle through the house. Except today was Christmas Day. We expected the children to have either woken us several hours previously, or to have erupted on the first sound from the alarm.

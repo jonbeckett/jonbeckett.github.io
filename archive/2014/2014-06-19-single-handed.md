@@ -2,7 +2,7 @@
 layout: post
 title: "Single Handed"
 date: 2014-06-19
-categories: blog archive
+categories: archive
 ---
 
 I was going to write a rather dull post titled "Nothing to Report", and drone on endlessly about the mundanity (is that a real word?) of my life at the moment, but then inspiration struck while writing the opening paragraph.

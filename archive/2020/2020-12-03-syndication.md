@@ -2,7 +2,7 @@
 layout: post
 title: "Syndication"
 date: 2020-12-03
-categories: blog archive
+categories: archive
 ---
 
 For the last few days I have been tidying up some old "think pieces", and re-posting them to a shiny new blog at [jonbeckett.com](https://jonbeckett.com). I'm not posting them here, because I think of this more as a diary - a journal. The new place just has essays.

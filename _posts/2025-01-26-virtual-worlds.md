@@ -3,7 +3,6 @@ layout: single
 title: "Virtual Worlds"
 date: 2025-01-26
 categories:
-  - blog
   - "2025"
 ---
 

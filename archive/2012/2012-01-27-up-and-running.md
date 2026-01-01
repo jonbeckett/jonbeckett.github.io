@@ -2,7 +2,7 @@
 layout: post
 title: "Up And Running"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 I woke up a little after 6 this morning when our youngest charges decided it was time to get up, get out of bed, and start playing some kind of game in their room that seemed to involve seeing who could shout louder than the next person. It all came to an abrupt end when a sleep giant dressed in boxer shorts (me) appeared in the doorway and told them to shut up.

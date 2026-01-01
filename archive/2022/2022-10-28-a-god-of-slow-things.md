@@ -2,7 +2,7 @@
 layout: post
 title: "A God Of Slow Things"
 date: 2022-10-28
-categories: blog archive
+categories: archive
 ---
 
 I spoke to a friend on the internet this morning - the first contact with anybody outside my family for a couple of weeks, and we both found ourselves wondering where each day goes. How is it suddenly Friday already? I suppose in a way I'm glad it's not just me that's feeling it. But still... an the universe not just slow down a BIT?

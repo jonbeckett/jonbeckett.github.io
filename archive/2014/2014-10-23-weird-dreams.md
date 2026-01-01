@@ -2,7 +2,7 @@
 layout: post
 title: "Weird Dreams"
 date: 2014-10-23
-categories: blog archive
+categories: archive
 ---
 
 I had the by far the strangest dream in quite some time last night - and it's content was controversial enough that I can't easily share any of it. Let's just say it involved somebody I know in the real world, and that I woke with a start, wishing I could fall back into the same dream.

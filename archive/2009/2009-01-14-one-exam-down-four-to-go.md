@@ -2,7 +2,7 @@
 layout: post
 title: "One Exam Down Four To Go"
 date: 2009-01-14
-categories: blog archive
+categories: archive
 ---
 
 I passed the first of my Microsoft exams this morning. The full title was "Microsoft .

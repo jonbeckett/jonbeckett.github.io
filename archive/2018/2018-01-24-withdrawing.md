@@ -2,7 +2,7 @@
 layout: post
 title: "Withdrawing"
 date: 2018-01-24
-categories: blog archive
+categories: archive
 ---
 
 I walked away from Tumblr yesterday. Perhaps permanently this time. After posting to a Tumblr account more or less consistently since the platform launched back in 2007, I walked away for a while in the late summer of last year. Within days, a number of those I had become friends with expressed sadness at my departure, essentially leaving the door open for a return at some point. In the late autumn I returned, began posting again, and began following, reading, liking, and commenting on the posts published by the community I had known for years.

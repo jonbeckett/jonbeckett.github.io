@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing To Report"
 date: 2017-12-16
-categories: blog archive
+categories: archive
 ---
 
 It's been a very quiet weekend from my point of view. In the past I've managed to fashion a blog post out of little or nothing, but today I just don't seem to be feeling it. I go through these peaks and troughs from time to time with the blog.

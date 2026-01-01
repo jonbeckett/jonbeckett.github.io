@@ -2,7 +2,7 @@
 layout: post
 title: "The End Of Community"
 date: 2010-02-01
-categories: blog archive
+categories: archive
 ---
 
 I grew up in small town England in the 1970s. I can still remember moving house when I was five years old, and spending the first nights on bare floorboards. I remember the sound of footsteps on the landing, and the novelty of stairs. I also remember being turfed out into the neighbourhood - probably on the first night - to make friends with the neighbouring children.

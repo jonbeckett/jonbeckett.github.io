@@ -3,7 +3,6 @@ layout: single
 title: "Has anyone seen my bicycle?"
 date: 2025-07-11
 categories:
-  - blog
   - "2025"
 ---
 

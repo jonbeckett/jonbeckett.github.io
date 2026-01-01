@@ -3,7 +3,6 @@ layout: single
 title: "Almost daily"
 date: 2025-01-08
 categories:
-  - blog
   - "2025"
 ---
 

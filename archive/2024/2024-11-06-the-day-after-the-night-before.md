@@ -2,7 +2,7 @@
 layout: post
 title: "The day after the night before"
 date: 2024-11-06
-categories: blog archive
+categories: archive
 ---
 
 I woke up this morning to a number of messages and emails from distant friends - apologising for the news I hadn't read yet.

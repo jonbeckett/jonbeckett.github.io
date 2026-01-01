@@ -2,7 +2,7 @@
 layout: post
 title: "Tilting At Blogging Windmills"
 date: 2017-11-11
-categories: blog archive
+categories: archive
 ---
 
 I bought a magazine yesterday morning - a magazine all about blogging. Within it's pages there are interviews with "bloggers of note", lots of explanatory articles about what to write about, how to write it, when to write it, where to write it, and all sorts of other rubbish. And that's just it - it'srubbish.

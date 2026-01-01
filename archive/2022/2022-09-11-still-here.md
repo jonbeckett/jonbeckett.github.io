@@ -2,7 +2,7 @@
 layout: post
 title: "Still Here"
 date: 2022-09-11
-categories: blog archive
+categories: archive
 ---
 
 Rumours of my demise have been greatly exaggerated (if indeed there were any). I can't remember the last time I let so many days go between blog posts. It's all slightly surreal really. It's not like I even missed writing - I just didn't think about writing at all - which is even more odd really, given that I've been writing pretty consistently for the last twenty-something years.

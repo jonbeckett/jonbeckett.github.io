@@ -2,7 +2,7 @@
 layout: post
 title: "Final Night In Frankfurt"
 date: 2017-10-18
-categories: blog archive
+categories: archive
 ---
 
 I fly home tomorrow morning.

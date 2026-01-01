@@ -2,7 +2,7 @@
 layout: post
 title: "Another Train Another Hotel"
 date: 2018-03-04
-categories: blog archive
+categories: archive
 ---
 
 Greetings from a hotel room several hundred miles from home. I'm in Leeds for the night, ahead of a day spent in quite the most imposing building I visit among the various client sites I travel to - I gather locally it's known as "The Kremlin". The journey here was entirely unremarkable - the trains connected and ran mostly on time, and my seat reservation landed me next to somebody much like myself - busying himself with reading books, or watching TV shows on a tablet for the majority of the journey north. It's a shame the same cannot be said for the man that stood staring at me over the back of the seat in front as we waited to leave Kings Cross station.

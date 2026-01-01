@@ -2,7 +2,7 @@
 layout: post
 title: "Ready Player One"
 date: 2017-07-22
-categories: blog archive
+categories: archive
 ---
 
 The first teaser trailer of the "Ready Player One" movie was released yesterday, and although I'm looking forward to it, I'll already admit to being downhearted in lots of ways. While the trailer has lots of things going for it - the obvious quality of the special effects, the music, and so on - it also immediately confirms something that Stephen Spielberg said early on in an interview - that a lot of the pop culture references from the book would be replaced due to licensing and/or narrative issues.

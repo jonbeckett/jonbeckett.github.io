@@ -2,7 +2,7 @@
 layout: post
 title: "Not Playing The Personalisation Game"
 date: 2015-01-13
-categories: blog archive
+categories: archive
 ---
 
 Today's assignment for the Blogging 101 course asks us to create and upload a simple header, and/or background, and to try a custom widget. I'm not doing it, and I'm beginning to wonder about the direction the exercises are going in.

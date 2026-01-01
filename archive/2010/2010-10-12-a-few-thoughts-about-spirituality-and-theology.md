@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Thoughts About Spirituality And Theology"
 date: 2010-10-12
-categories: blog archive
+categories: archive
 ---
 
 A few days ago I invited the readership of this blog (both of them) to suggest topics, or fire questions at me as a basis for subjects I might cover in the near future. The suggestions received so far have been pretty predictable; "How are the kids doing?", and "How are the cats doing?".One subject stands out - my spirituality, or theology.

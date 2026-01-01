@@ -2,7 +2,7 @@
 layout: post
 title: "How Old Do You Think You Are"
 date: 2005-07-16
-categories: blog archive
+categories: archive
 ---
 
 I just did the BBC "How Old Do You Think You Are?" test, and am quietly pleased with myself.

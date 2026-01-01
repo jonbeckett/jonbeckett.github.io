@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday Starring Kent The Banjo Cat"
 date: 2011-01-18
-categories: blog archive
+categories: archive
 ---
 
 I have been reading some wonderfully candid posts from those I follow as part of the "Truthful Tuesday" meme, so thought it might be interesting for new followers to find out some more about me.

@@ -2,7 +2,7 @@
 layout: post
 title: "Running Late"
 date: 2018-01-10
-categories: blog archive
+categories: archive
 ---
 
 Before arriving in the office this morning I paid a visit to the local barbers, and sat quietly while a nice lady called Mary, from Tipperary in Ireland cut my hair. After the requisite conversation about what might happen to my head in the next twenty minutes, we talked about cross channel ferries, airports, flights, visiting family, and all sorts of other things you end up talking about with anybody from Ireland. We also talked about how nice Dublin is, and how I really should go back and spend some proper time there.

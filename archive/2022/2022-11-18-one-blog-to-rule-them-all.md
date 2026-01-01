@@ -2,7 +2,7 @@
 layout: post
 title: "One blog to rule them all"
 date: 2022-11-18
-categories: blog archive
+categories: archive
 ---
 
 [![Free Black Typewriter Machine Typing on White Printer Paper Stock Photo](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7e1d68c-eb7f-4a5e-a2bd-a79e06b8a88a_1260x709.jpeg "Free Black Typewriter Machine Typing on White Printer Paper Stock Photo")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7e1d68c-eb7f-4a5e-a2bd-a79e06b8a88a_1260x709.jpeg)After drinking the kool-aid, and spending several weeks trying to convince myself that running my own blogging castle on my own blogging island was a great idea, I  ve retreated back to the relative safety of substack (again).

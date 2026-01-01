@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Regatta Is Inflicted On The Town Once More"
 date: 2016-06-11
-categories: blog archive
+categories: archive
 ---
 
 While I knew the regatta was happening this weekend, I had kind of filed it away in a dark corner of my brain - I noticed the fairground setting up throughout the week, but didn't take much notice. Then this morning I had to walk into town to get groceries.

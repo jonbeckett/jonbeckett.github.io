@@ -2,7 +2,7 @@
 layout: post
 title: "Pizza And Beer Rule"
 date: 2003-02-25
-categories: blog archive
+categories: archive
 ---
 
 Today is a good day.

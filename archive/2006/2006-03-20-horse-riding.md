@@ -2,7 +2,7 @@
 layout: post
 title: "Horse Riding"
 date: 2006-03-20
-categories: blog archive
+categories: archive
 ---
 
 I've just been reading a blog entry written by my aunt, and it brought back quite a few memories.

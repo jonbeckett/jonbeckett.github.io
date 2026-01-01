@@ -2,7 +2,7 @@
 layout: post
 title: "Rest In Peace"
 date: 2015-08-03
-categories: blog archive
+categories: archive
 ---
 
 My father-in-law passed away last night. We knew it was coming, but it didn't make it any easier. The first warning came while at a friend's barbecue the night before last - my brother in law sent word, asking for my other half to go the hospice first thing in the morning. She took a change of clothes and a wash-bag with her.

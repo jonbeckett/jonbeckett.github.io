@@ -2,7 +2,7 @@
 layout: post
 title: "Tilt Shift Photography"
 date: 2010-11-04
-categories: blog archive
+categories: archive
 ---
 
 A little while ago I saw a photographic trick on the internet called "Tilt Shift" - a subtle change you can make to photographs to fool your brain into thinking the subject is far smaller than it really is.

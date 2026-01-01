@@ -2,7 +2,7 @@
 layout: post
 title: "Half Successful Mobile Phone Hackery"
 date: 2011-09-08
-categories: blog archive
+categories: archive
 ---
 
 The great idea about monkeying with my phone to try and free some memory up was half successful. It worked, but it didn't do what I hoped it would.

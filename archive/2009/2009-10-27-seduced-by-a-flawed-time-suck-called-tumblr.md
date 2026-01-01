@@ -2,7 +2,7 @@
 layout: post
 title: "Seduced By A Flawed Time Suck Called Tumblr"
 date: 2009-10-27
-categories: blog archive
+categories: archive
 ---
 
 I have been playing with Tumblr again (my page lives at jonbeckett.tumblr.com). I know I shouldn't but I can't leave it alone. It's addictive. Imagine Twitter with images, videos, sound, quotes, and full blog posts. Imagine Facebook without family, and no walls - no borders.

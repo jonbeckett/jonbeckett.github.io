@@ -2,7 +2,7 @@
 layout: post
 title: "Emptying My Head On Saturday Night"
 date: 2021-06-19
-categories: blog archive
+categories: archive
 ---
 
 I've been staring at Evernote for the last several minutes, wondering how to begin this post.

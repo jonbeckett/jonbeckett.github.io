@@ -2,7 +2,7 @@
 layout: post
 title: "A Chip On My Shoulder"
 date: 2019-05-19
-categories: blog archive
+categories: archive
 ---
 
 I spent the greater part of yesterday working on the garden - cutting the grass, cutting the hedge, chopping back all the dandelions that had taken over the area under the old apple tree, and doing six loads of washing in-between.

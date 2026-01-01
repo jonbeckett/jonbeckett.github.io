@@ -2,7 +2,7 @@
 layout: post
 title: "Weekends Football Rugby And Spitfires"
 date: 2015-10-04
-categories: blog archive
+categories: archive
 ---
 
 People always comment that they are having "one of those days" when they are running here, there, and everywhereholding onto life by their fingertips while trying to be everything for everybody, and to get everything done for everybody else. It strikes me that there comes a point when every day is "one of those days". It's happening to me now.

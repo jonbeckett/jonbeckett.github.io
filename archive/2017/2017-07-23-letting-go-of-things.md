@@ -2,7 +2,7 @@
 layout: post
 title: "Letting Go Of Things"
 date: 2017-07-23
-categories: blog archive
+categories: archive
 ---
 
 It struck me recently that I'm surrounded by a world of things I don't really need. Miscellaneous gadgets, books, pens, pencils, computers, tablets, phones, wires, chargers, memory sticks, hard drives, and so on. I need to have a serious de-clutter.

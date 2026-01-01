@@ -3,7 +3,6 @@ layout: single
 title: "It wasn't always this way"
 date: 2025-11-30
 categories:
-  - blog
   - "2025"
 ---
 

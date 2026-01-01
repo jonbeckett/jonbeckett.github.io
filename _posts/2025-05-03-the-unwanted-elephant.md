@@ -3,7 +3,6 @@ layout: single
 title: "The Unwanted Elephant"
 date: 2025-05-03
 categories:
-  - blog
   - "2025"
 ---
 

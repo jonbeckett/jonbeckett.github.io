@@ -2,7 +2,7 @@
 layout: post
 title: "Slowly And Quietly"
 date: 2019-07-06
-categories: blog archive
+categories: archive
 ---
 
 It's the weekend! Finally a chance to decompress from work, kick back, watch movies, read books, and remember that life still exists away from source code, compilers, databases, and whatever else consumes me during the week.

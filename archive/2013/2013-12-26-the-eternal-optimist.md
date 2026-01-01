@@ -2,7 +2,7 @@
 layout: post
 title: "The Eternal Optimist"
 date: 2013-12-26
-categories: blog archive
+categories: archive
 ---
 
 While talking to my other half over a drink late last night, we joked about my optimistic outlook oneverything. At the time we were only joking, but when I thought about it later, I realised it's kind of true.

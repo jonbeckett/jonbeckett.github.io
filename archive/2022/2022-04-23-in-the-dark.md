@@ -2,7 +2,7 @@
 layout: post
 title: "In The Dark"
 date: 2022-04-23
-categories: blog archive
+categories: archive
 ---
 
 Did you know that if you install the "Dark Reader" extension into your web browser, you can write in "Dark Mode" in the Wordpress editor? Well you do now.

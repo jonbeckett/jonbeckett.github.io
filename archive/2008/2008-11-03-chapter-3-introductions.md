@@ -2,7 +2,7 @@
 layout: post
 title: "Chapter 3 Introductions"
 date: 2008-11-03
-categories: blog archive
+categories: archive
 ---
 
 My arrival at my new employer could be described best as accidentally falling from a moving car, and landing completely unscathed, on your feet.

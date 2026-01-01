@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning"
 date: 2010-08-14
-categories: blog archive
+categories: archive
 ---
 
 It's Saturday morning, and the rain is falling.Hopes of cooking on the barbecue later have vanished.

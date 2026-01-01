@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Morning 1Am"
 date: 2013-05-10
-categories: blog archive
+categories: archive
 ---
 
 I'm playing that game where you avoid the arrival of tomorrow by staying up late tonight. Except it's already tomorrow, so the game doesn't really work at all, and you never learn... or at least I never learn.

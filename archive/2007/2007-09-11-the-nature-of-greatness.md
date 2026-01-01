@@ -2,7 +2,7 @@
 layout: post
 title: "The Nature Of Greatness"
 date: 2007-09-11
-categories: blog archive
+categories: archive
 ---
 
 I missed the train this morningor rather, I forgot to pick my work laptop up when I left the house, and by the time I had remembered and returned for it there was no chance that I would make it back to the station in time.

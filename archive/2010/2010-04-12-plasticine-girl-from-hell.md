@@ -2,7 +2,7 @@
 layout: post
 title: "Plasticine Girl From Hell"
 date: 2010-04-12
-categories: blog archive
+categories: archive
 ---
 
 Shortly before leaving work this evening my other half called my mobile. I noticed it vibrating, and picked it up just in time to hear the following...

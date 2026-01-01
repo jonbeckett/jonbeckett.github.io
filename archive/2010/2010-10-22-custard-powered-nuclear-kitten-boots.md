@@ -2,7 +2,7 @@
 layout: post
 title: "Custard Powered Nuclear Kitten Boots"
 date: 2010-10-22
-categories: blog archive
+categories: archive
 ---
 
 I've been thinking more about participation in NaNoWriMo.

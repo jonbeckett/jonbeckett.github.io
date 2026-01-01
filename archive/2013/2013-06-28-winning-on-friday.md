@@ -2,7 +2,7 @@
 layout: post
 title: "Winning On Friday"
 date: 2013-06-28
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure what happened to this week. It started badly, carried on being bad, and has now kind of fizzled out into the weekend (which will in all likelihood be monumentally rubbish, just to keep the whole downward spiral thing going).

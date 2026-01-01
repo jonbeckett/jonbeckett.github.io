@@ -2,7 +2,7 @@
 layout: post
 title: "Instant Messaging"
 date: 2011-08-16
-categories: blog archive
+categories: archive
 ---
 
 After talking to a friend on Tumblr earlier about the inadequacy of the messaging system, it occurred to both of us that instant messaging is probably a better answer for conversations than anything else.

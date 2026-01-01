@@ -2,7 +2,7 @@
 layout: post
 title: "A Walk Along The River"
 date: 2019-02-22
-categories: blog archive
+categories: archive
 ---
 
 I had the day off work yesterday - a day away from the office, programming, computers - a day away from everything. The children have been on half-term this week, so I thought it might be an idea to try and spend the day with them - to do something together. This plan was of course doomed to failure, because our house has served as nothing more than a temporary boarding house for our children's friends throughout half-term, with sleepover after sleepover.

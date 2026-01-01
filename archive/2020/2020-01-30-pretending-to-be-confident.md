@@ -2,7 +2,7 @@
 layout: post
 title: "Pretending To Be Confident"
 date: 2020-01-30
-categories: blog archive
+categories: archive
 ---
 
 While recording conversations with bloggers for the podcast, a common theme in the hours or minutes before we get started always seems to be:

@@ -2,7 +2,7 @@
 layout: post
 title: "Being The Square Peg"
 date: 2016-02-06
-categories: blog archive
+categories: archive
 ---
 
 While listening to a podcast this morning they talked about the increasingly desperate tactics employed by Apple to sell more iPhones. It turns out the latest version of iOS detects third party repairs to the hardware, and essentially bricks the phone with no re-course. You might think this is reasonable until you discover that the Apple stores are not just going to offer to fix your phonefrom this month they are going to offer you a kick back on broken or damaged iPhones in return for you purchasing a brand new one from them.

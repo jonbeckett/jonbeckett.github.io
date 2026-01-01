@@ -2,7 +2,7 @@
 layout: post
 title: "The Sport Relief Mile"
 date: 2012-03-26
-categories: blog archive
+categories: archive
 ---
 
 The better part of Sunday saw the Beckett household (and W's Mum) turn out en-masse in Higginson Park to take part in the Sport Relief Mile. We were all up bright and early, wearing our branded socks, race numbers, and glitter balls. Arriving in the park I was surprised so few people were taking part, but then my only other experience of running events in town is the annual 5 mile race, that typically attracts several thousand runners from surrounding counties.

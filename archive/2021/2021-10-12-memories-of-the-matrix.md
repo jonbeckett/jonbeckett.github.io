@@ -2,7 +2,7 @@
 layout: post
 title: "Memories Of The Matrix"
 date: 2021-10-12
-categories: blog archive
+categories: archive
 ---
 
 You find me sitting in the dark of the junk room, listening to an 80s playlist while quietly tapping away on the computer keyboard. My happy place. Maybe happy is an exaggeration. My place feels somehow more accurate.

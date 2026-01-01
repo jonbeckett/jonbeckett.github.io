@@ -2,7 +2,7 @@
 layout: post
 title: "The Day After"
 date: 2016-11-09
-categories: blog archive
+categories: archive
 ---
 
 After watching the most recent episode of Westworld late last night I fell fast asleep, and didn't wake up until perhaps 6am. After daydreaming for a while, it suddenly occurred to me that the US election would probably have been called, so fumbled with my phone, and opened the BBC News webpage.

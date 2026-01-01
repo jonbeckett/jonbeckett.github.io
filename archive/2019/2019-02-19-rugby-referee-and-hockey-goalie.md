@@ -2,7 +2,7 @@
 layout: post
 title: "Rugby Referee And Hockey Goalie"
 date: 2019-02-19
-categories: blog archive
+categories: archive
 ---
 
 The children are on half term at the moment - which under normal circumstances would mean the house is relatively peaceful on a morning. Of course normal circumstances rarely occur in our house - this morning Miss 15 was busy causing mayhem while preparing for the final day of a Rugby Union referee training course. Yes, you read that right - my middle daughter is training to be a rugby referee. She's naturally bossy, so it's almost a perfect fit.

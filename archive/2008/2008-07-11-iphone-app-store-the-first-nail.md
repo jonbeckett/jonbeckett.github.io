@@ -2,7 +2,7 @@
 layout: post
 title: "Iphone App Store The First Nail"
 date: 2008-07-11
-categories: blog archive
+categories: archive
 ---
 
 Apple have finally unleashed the iPhone App Store on the world, and it's looking very much like the first nail in the coffin of every other smart phone maker out there.

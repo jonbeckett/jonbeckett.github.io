@@ -2,7 +2,7 @@
 layout: post
 title: "Weekend Stories"
 date: 2023-05-27
-categories: blog archive
+categories: archive
 ---
 
 Here we go again.

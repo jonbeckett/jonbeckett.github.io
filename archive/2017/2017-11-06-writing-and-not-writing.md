@@ -2,7 +2,7 @@
 layout: post
 title: "Writing And Not Writing"
 date: 2017-11-06
-categories: blog archive
+categories: archive
 ---
 
 Today's WordPress Blogging University writing exercise is asking me to consider what I might write if I had more time to write:

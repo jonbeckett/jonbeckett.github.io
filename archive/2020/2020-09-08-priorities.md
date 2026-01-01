@@ -2,7 +2,7 @@
 layout: post
 title: "Priorities"
 date: 2020-09-08
-categories: blog archive
+categories: archive
 ---
 
 I just got back from a walk through the warm evening air to the supermarket and back. It was intended as a mental health walk of sorts - I've been going increasingly stir crazy working from home. Of course then "people" intervened to ruin it, but I'll get back to that.

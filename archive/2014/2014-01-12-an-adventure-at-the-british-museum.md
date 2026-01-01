@@ -2,7 +2,7 @@
 layout: post
 title: "An Adventure At The British Museum"
 date: 2014-01-12
-categories: blog archive
+categories: archive
 ---
 
 Yesterday morning I dragged our middle daughter out of bed, had a quick breakfast, got wrapped up in warm clothes, and set out towards London together to visit the British Museum. She is about to start a project on the Egyptians at school, and we have used this excuse with each of our children to "do the museums".

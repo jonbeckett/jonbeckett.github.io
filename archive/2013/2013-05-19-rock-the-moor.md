@@ -2,7 +2,7 @@
 layout: post
 title: "Rock The Moor"
 date: 2013-05-19
-categories: blog archive
+categories: archive
 ---
 
 Anyone who follows me on the social networks will have seen the stream of photos appearing throughout yesterday of my family and our friends at a music festival - the children's first music festival.

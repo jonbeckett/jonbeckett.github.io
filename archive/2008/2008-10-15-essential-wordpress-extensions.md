@@ -2,7 +2,7 @@
 layout: post
 title: "Essential Wordpress Extensions"
 date: 2008-10-15
-categories: blog archive
+categories: archive
 ---
 
 While talking to one of my colleagues at lunchtime, it occurred to me that I rely on a number of WordPress plugins to extend the basic functionality of WordPress. Rather than wax lyrical about them, here's the list;

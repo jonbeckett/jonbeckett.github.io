@@ -3,7 +3,6 @@ layout: single
 title: "A Moveable Feast"
 date: 2025-12-12
 categories:
-  - blog
   - "2025"
 ---
 

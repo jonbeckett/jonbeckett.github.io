@@ -2,7 +2,7 @@
 layout: post
 title: "Not Playing Well With Others"
 date: 2019-12-18
-categories: blog archive
+categories: archive
 ---
 
 Over the past few days - since discovering a community of writers within Twitter - I have been putting aside a few minutes each day to respond to questions, follow fellow writers, and to contribute to the community in a small way.

@@ -2,7 +2,7 @@
 layout: post
 title: "Apples And Pears"
 date: 2018-09-23
-categories: blog archive
+categories: archive
 ---
 
 I hadn't planned on writing a second post today, but after spectacularly losing several games of chess in a row online against lower rated opponents, I thought it best to walk away and try to remember not to play late at night when my brain is running on fumes.

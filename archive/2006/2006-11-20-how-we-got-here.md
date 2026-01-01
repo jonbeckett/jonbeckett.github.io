@@ -2,7 +2,7 @@
 layout: post
 title: "How We Got Here"
 date: 2006-11-20
-categories: blog archive
+categories: archive
 ---
 
 I thought it might be about time I started to tell the story of why we are adopting children.

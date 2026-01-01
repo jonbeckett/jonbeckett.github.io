@@ -2,7 +2,7 @@
 layout: post
 title: "Putting My Life Back Together"
 date: 2005-06-29
-categories: blog archive
+categories: archive
 ---
 
 After a couple of weeks away from work following our loss of the baby (although it hadn't been born yet, we always thought of it as such), it feels somewhat like I'm piecing my life back together today. Getting up this morning, getting ready for work, arriving at the office and catching up with what has been happening has been strange.

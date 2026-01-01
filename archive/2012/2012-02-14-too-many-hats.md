@@ -2,7 +2,7 @@
 layout: post
 title: "Too Many Hats"
 date: 2012-02-14
-categories: blog archive
+categories: archive
 ---
 
 Over the last few weeks an inescapable truth has become more evident than ever before; I can't be everything - I can't do everything. I can't be all the things that everybody wants me to be.

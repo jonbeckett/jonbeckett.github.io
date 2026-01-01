@@ -2,7 +2,7 @@
 layout: post
 title: "Goodbye Twitter Hello Jaiku"
 date: 2007-04-21
-categories: blog archive
+categories: archive
 ---
 
 After the discovery of Jaiku earlier this week, I have decided to stop using Twitter.

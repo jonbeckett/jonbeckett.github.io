@@ -2,7 +2,7 @@
 layout: post
 title: "Geeky Personality Test"
 date: 2005-01-10
-categories: blog archive
+categories: archive
 ---
 
 I just did this test on the net...

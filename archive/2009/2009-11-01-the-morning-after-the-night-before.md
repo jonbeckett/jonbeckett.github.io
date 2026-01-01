@@ -2,7 +2,7 @@
 layout: post
 title: "The Morning After The Night Before"
 date: 2009-11-01
-categories: blog archive
+categories: archive
 ---
 
 The kids didn't fall into bed until about 9:30 last night, and somehow recharged their batteries sufficiently after a night of mayhem to wake up at 6:30am. How do they do that ?

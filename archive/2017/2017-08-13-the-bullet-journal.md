@@ -2,7 +2,7 @@
 layout: post
 title: "The Bullet Journal"
 date: 2017-08-13
-categories: blog archive
+categories: archive
 ---
 
 At the start of this year I gave serious consideration to ditching the Filofax I have been carrying around for the better part of the last decade, and using a "Bullet Journal" instead. I had been reading about them online for some time, and thought it might even be an alternative to the Moleskine notebook too (yes, I've been carrying a backpack full of paper notebooks around in some shape or form for years - and a smartphone - don't start). After getting as far as buying a new notebook specifically for the task - a new Moleskine - I never got around to actually doing anything with it.

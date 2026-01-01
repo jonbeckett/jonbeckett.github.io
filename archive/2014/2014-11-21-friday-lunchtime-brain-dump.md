@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Lunchtime Brain Dump"
 date: 2014-11-21
-categories: blog archive
+categories: archive
 ---
 
 I'm in the middle of preparing for a "webinar" on Monday - presenting clever stuff to people all over the place to do with my work. I would like to say there was a grand plan behind me becoming one of the most knowledgeable people in the country about a rather narrow field of information technology geekery, but no - it's all been a huge accident really. I am surrounded by pages of scribbled writing, powerpoint slides, and half-built demonstrations in virtual machines.

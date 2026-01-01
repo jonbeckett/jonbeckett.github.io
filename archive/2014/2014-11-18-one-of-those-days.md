@@ -2,7 +2,7 @@
 layout: post
 title: "One Of Those Days"
 date: 2014-11-18
-categories: blog archive
+categories: archive
 ---
 
 You know those days where you do everything you know to make something better for somebody, and they keep coming back with problem, after problem, after problem ?

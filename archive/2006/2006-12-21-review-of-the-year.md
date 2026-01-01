@@ -2,7 +2,7 @@
 layout: post
 title: "Review Of The Year"
 date: 2006-12-21
-categories: blog archive
+categories: archive
 ---
 
 The idea to do this "review of the year" came from W, who has done a similar thing.

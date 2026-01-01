@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To Germany"
 date: 2017-08-21
-categories: blog archive
+categories: archive
 ---
 
 While headbutting my desk spectacularly this afternoon after discovering yet another bug in a major software product sold by the biggest operating system manufacturer in the world (I'm being deliberately vague), a project manager wandered up to my desk and reminded me about the meeting invite that had been blinking on my screen for the last fifteen minutes - that I had taken no notice of what so ever. I had to search an old email out to remind myself what the meeting was about.

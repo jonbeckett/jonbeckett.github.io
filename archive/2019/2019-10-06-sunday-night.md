@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Night"
 date: 2019-10-06
-categories: blog archive
+categories: archive
 ---
 
 I went out running with my eldest daughter again this evening - another ten sets of two minutes running, one minute walking. Our next run will be on Tuesday night at the running club in town - heading out onto the streets with the unlikely band of "Couch to 5K" runners. I still feel a bit like a fraud, given that I can probably run 5K now at quite a clip - I have to keep reminding myself that I'm not doing it for me.

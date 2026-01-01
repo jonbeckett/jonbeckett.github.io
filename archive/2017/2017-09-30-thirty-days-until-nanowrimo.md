@@ -2,7 +2,7 @@
 layout: post
 title: "Thirty Days Until Nanowrimo"
 date: 2017-09-30
-categories: blog archive
+categories: archive
 ---
 
 For the first time in recent memory, I have no plans today. No obligations. No expectations. Of course I have still filled the washing machine and dryer, started folding clothes, and will no doubt trudge to the supermarket in a few minutes to buy lunchbox food for the week ahead, but beyond that - nada. Nothing.

@@ -2,7 +2,7 @@
 layout: post
 title: "Football Football And More Football"
 date: 2016-01-17
-categories: blog archive
+categories: archive
 ---
 
 This weekend was dominated from start to finish by football matches for our youngest daughter. She played with the newly formed under 11 girls team on Saturday for the first time, and then for the under 11 town team today.

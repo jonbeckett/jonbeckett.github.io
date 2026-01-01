@@ -2,7 +2,7 @@
 layout: post
 title: "Bored And Lonesome"
 date: 2006-05-28
-categories: blog archive
+categories: archive
 ---
 
 Do you ever have days when you just run out of cheer and optimism? I seem to be having one today.

@@ -2,7 +2,7 @@
 layout: post
 title: "How Many Screens Is Too Many"
 date: 2008-07-11
-categories: blog archive
+categories: archive
 ---
 
 It's worth pointing out that in reality the only machines I am using are the Dell and Toshiba laptops for work. Everything else is there for the photo call because it happened to be nearby.

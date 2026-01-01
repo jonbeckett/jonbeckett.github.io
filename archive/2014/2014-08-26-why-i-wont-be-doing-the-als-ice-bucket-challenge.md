@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Wont Be Doing The Als Ice Bucket Challenge"
 date: 2014-08-26
-categories: blog archive
+categories: archive
 ---
 
 Lots of high profile celebrities have done it. Lots of Z-list celebrities have done it. Lots of my friends have done it. I won't be doing it, and here's why;Many people doing the ALS challenge are only doing it because it's fashionable, or because it will garner them attention among their peers.

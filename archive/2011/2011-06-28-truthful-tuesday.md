@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday"
 date: 2011-06-28
-categories: blog archive
+categories: archive
 ---
 
 In the spirit of "taking part" rather than continually ploughing my own furrow across the internet, I'm taking part in the "Truthful Tuesday" meme for a change. I can't find a definition of the meme anywhere, but juding from what others do, you basically spill your guts for all to read / enjoy / be horrified by / ridicule you about.

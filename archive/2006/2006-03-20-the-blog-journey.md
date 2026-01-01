@@ -2,7 +2,7 @@
 layout: post
 title: "The Blog Journey"
 date: 2006-03-20
-categories: blog archive
+categories: archive
 ---
 
 While bored last night I came up with a somewhat novel idea for a meme - the "Blog Journey". The idea being to choose a random blog, and follow the path through an entry, to a random comment, to their blog, and so on - recording your first impressions and observations as you go. It serves as a great time filler, and you run across some wonderful blogs while you're at it.

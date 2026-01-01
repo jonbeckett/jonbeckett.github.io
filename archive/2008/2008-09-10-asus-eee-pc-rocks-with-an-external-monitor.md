@@ -2,7 +2,7 @@
 layout: post
 title: "Asus Eee Pc Rocks With An External Monitor"
 date: 2008-09-10
-categories: blog archive
+categories: archive
 ---
 
 It never occurred to me to try this before. The EEE PC has a VGA connector on the side of it. I have a spare flat screen. Lightbulb moment (with "ding" sound effect).

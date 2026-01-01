@@ -2,7 +2,7 @@
 layout: post
 title: "Working Through Lunch"
 date: 2016-06-14
-categories: blog archive
+categories: archive
 ---
 
 I can't really say that I sacrificed anything by working through lunch today, but saying that I did (because I did) gives me the mental validation to spend the last half an hour of the day writing this rather than continuing to channel King Kong in repeated thumps of the desk.

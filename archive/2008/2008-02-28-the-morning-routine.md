@@ -2,7 +2,7 @@
 layout: post
 title: "The Morning Routine"
 date: 2008-02-28
-categories: blog archive
+categories: archive
 ---
 
 I didn't get up until 7:10 this morning... it's funny how those few minutes can cause such a rush later on. Part of the reason was because W banged her head yesterday, and we're both wondering if she has concussion - she was sick this morning - so I carried on with the intention of doing everything this morning if required.

@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Night With Idina Menzel"
 date: 2017-01-30
-categories: blog archive
+categories: archive
 ---
 
 It doesn't feel like Tuesday night. Do you ever get that? When you get to a certain point in the week, and you think "Really? Is it really only Tuesday? Surely it must be Thursday already?".

@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts On The Verizon Iphone"
 date: 2011-02-10
-categories: blog archive
+categories: archive
 ---
 
 I've been reading the news story about the Verizon iPhone with interest over the last few weeks - and wondering why huge swathes of America went down the route of CDMA mobile networks.

@@ -2,7 +2,7 @@
 layout: post
 title: "Finding A Few Minutes"
 date: 2019-01-27
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards midnight, and I find myself sitting in the junk room in the dark, emptying the remains of my thoughts into the keyboard. Claire de Lune is playing on an Amazon Prime playlist, and the house is largely quiet.

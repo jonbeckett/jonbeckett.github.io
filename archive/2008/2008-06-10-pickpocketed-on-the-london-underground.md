@@ -2,7 +2,7 @@
 layout: post
 title: "Pickpocketed On The London Underground"
 date: 2008-06-10
-categories: blog archive
+categories: archive
 ---
 
 It had to happen at some point. This evening while travelling home I was pickpocketed on the London Underground. I didn't realise until I got off the train at Maidenhead - explained further on - so didn't have a chance to report it to the transport police.

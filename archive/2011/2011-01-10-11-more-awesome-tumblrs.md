@@ -2,7 +2,7 @@
 layout: post
 title: "11 More Awesome Tumblrs"
 date: 2011-01-10
-categories: blog archive
+categories: archive
 ---
 
 In the spirit of reaching out a little further (read: extending the desperate death grip), and doing things by the example of the guitarist in Spinal Tap, I've been on another following expedition. Here's tonight's many and varied catch;

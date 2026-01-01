@@ -2,7 +2,7 @@
 layout: post
 title: "Working Through Lunch"
 date: 2013-11-07
-categories: blog archive
+categories: archive
 ---
 
 I've been working on a fairly intractable round of changes and bug fixes to a software development project this morningthe same project that caused me to go home yesterday with a headache the size of Australia.

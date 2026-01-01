@@ -2,7 +2,7 @@
 layout: post
 title: "No News Today"
 date: 2003-12-16
-categories: blog archive
+categories: archive
 ---
 
 Woudln't it be great if you switched the news on one day, and the newsreader said "There is no news today, so we will be showing Will and Grace an hour early."

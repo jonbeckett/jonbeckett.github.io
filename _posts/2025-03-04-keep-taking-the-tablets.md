@@ -3,7 +3,6 @@ layout: single
 title: "Keep taking the tablets"
 date: 2025-03-04
 categories:
-  - blog
   - "2025"
 ---
 

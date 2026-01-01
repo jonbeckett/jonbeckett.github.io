@@ -2,7 +2,7 @@
 layout: post
 title: "Tired And Unsettled"
 date: 2006-06-18
-categories: blog archive
+categories: archive
 ---
 
 I have been working on a project for work all weekend (complex programming geekery), and am finding it difficult to get it out of my head.

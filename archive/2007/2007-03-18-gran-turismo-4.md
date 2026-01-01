@@ -2,7 +2,7 @@
 layout: post
 title: "Gran Turismo 4"
 date: 2007-03-18
-categories: blog archive
+categories: archive
 ---
 
 A good friend of mine has just bought a Playstation 2, and it would appear the entire family have become addicted to Gran Turismo 4 - probably one of the best driving games that has ever been made.

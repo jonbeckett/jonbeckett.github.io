@@ -2,7 +2,7 @@
 layout: post
 title: "On The Road Again"
 date: 2012-02-06
-categories: blog archive
+categories: archive
 ---
 
 It's Monday morning, and I'm sat in a coffee shop hundreds of miles from home. The day began for me at 6 this morning, rolling out of bed moments before the mobile alarm was due to erupt, and silencing it before sneaking downstairs to the clothes and bags prepared last night.

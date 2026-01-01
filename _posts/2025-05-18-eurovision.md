@@ -3,7 +3,6 @@ layout: single
 title: "Eurovision"
 date: 2025-05-18
 categories:
-  - blog
   - "2025"
 ---
 

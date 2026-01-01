@@ -2,7 +2,7 @@
 layout: post
 title: "Foaming Invective"
 date: 2009-10-16
-categories: blog archive
+categories: archive
 ---
 
 What is it about Fridays? Where does our energy and enthusiasm go?

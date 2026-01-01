@@ -2,7 +2,7 @@
 layout: post
 title: "Talking To Laura About Tumblr Wordpress Snapchat And More"
 date: 2020-01-18
-categories: blog archive
+categories: archive
 ---
 
 The first official episode of the podcast is out in the wild. I think it's fair to say that it's been a journey, and that the journey isn't over yet. I'm still learning, there's still a lot to learn, and mistakes have been made along the way. It's been fun so far though. I think.

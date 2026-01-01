@@ -2,7 +2,7 @@
 layout: post
 title: "Back At Work"
 date: 2005-01-05
-categories: blog archive
+categories: archive
 ---
 
 Today is Wednesday, and I am back at work after "missing" a day yesterday. I've had some paracetamol this morning and loads of water, and so far (touch wood), no headache 

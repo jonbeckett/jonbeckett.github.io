@@ -2,7 +2,7 @@
 layout: post
 title: "Tired And Busy"
 date: 2003-07-11
-categories: blog archive
+categories: archive
 ---
 
 This week has been a bit of a nightmare. It's Friday already and I feel like it's about Wednesday... it's just been one of those weeks.

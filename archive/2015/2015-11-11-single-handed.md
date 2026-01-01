@@ -2,7 +2,7 @@
 layout: post
 title: "Single Handed"
 date: 2015-11-11
-categories: blog archive
+categories: archive
 ---
 
 Two days down. Three days to go. My other half is at the other end of the country until Saturday. In the meantime I am doing the job she usually does when I go away with work. It's not really difficultit just means little or no time to yourself until late in the evening.

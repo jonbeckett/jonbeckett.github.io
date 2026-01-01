@@ -2,7 +2,7 @@
 layout: post
 title: "Becoming A Grumpy Old Man"
 date: 2019-09-07
-categories: blog archive
+categories: archive
 ---
 
 Before I start, it's worth noting that my daughters would enthusiastically volunteer that I am already a grumpy old man, and my other half would confirm it without a second thought - while giving me the "you really need to ask me this?" eyebrows.

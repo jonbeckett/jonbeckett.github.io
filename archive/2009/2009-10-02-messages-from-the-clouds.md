@@ -2,7 +2,7 @@
 layout: post
 title: "Messages From The Clouds"
 date: 2009-10-02
-categories: blog archive
+categories: archive
 ---
 
 No, I have not bought a copy of "The Cloud Spotters Guide", neither have I suddenly started reading the collected writings of Billy Meier (I'll let you look him up on Google).

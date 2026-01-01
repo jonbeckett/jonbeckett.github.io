@@ -2,7 +2,7 @@
 layout: post
 title: "A Long Way From Home"
 date: 2013-12-06
-categories: blog archive
+categories: archive
 ---
 
 After surviving a five hour train journey that took me into the bowels of London and back out to head north for two hours, I'm sitting in a hotel room 200 miles from home at midnight, with the gentle rumble of nightclubs thumping the silence.

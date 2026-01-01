@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Of Cat Names"
 date: 2006-04-21
-categories: blog archive
+categories: archive
 ---
 
 One of my friends on the internet is about to become the proud owner of two kittens. I say "owner" in the loose sense, because as any cat "owner" knows, cats don't have ownerscats have staff.

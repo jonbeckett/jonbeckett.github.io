@@ -2,7 +2,7 @@
 layout: post
 title: "One more day"
 date: 2024-06-14
-categories: blog archive
+categories: archive
 ---
 
 Several months ago, after a particularly difficult few weeks at work and home, my other half asked if I might book a few days away somewhere - just the two of us. A break. It didn't have to be anywhere spectacular - just away from here.

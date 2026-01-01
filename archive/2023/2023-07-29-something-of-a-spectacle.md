@@ -2,7 +2,7 @@
 layout: post
 title: "Something of a Spectacle"
 date: 2023-07-29
-categories: blog archive
+categories: archive
 ---
 
 I walked to the optician yesterday lunchtime and picked up my glasses. I thought it might be interesting to record my initial experiences before I forget what the first days were like.

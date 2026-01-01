@@ -2,7 +2,7 @@
 layout: post
 title: "St George And The Dragon"
 date: 2021-04-23
-categories: blog archive
+categories: archive
 ---
 
 Today is "St George's Day" in the UK. It's not a national holiday, and is only marked in-so-much that most calendars have it marked in small-print. Quite how the entire country has entwined the story into the national identity and flag is something of a mystery.

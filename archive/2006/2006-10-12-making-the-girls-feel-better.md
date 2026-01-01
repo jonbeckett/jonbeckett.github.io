@@ -2,7 +2,7 @@
 layout: post
 title: "Making The Girls Feel Better"
 date: 2006-10-12
-categories: blog archive
+categories: archive
 ---
 
 I came across these before and after photos of a girl that appeared in FHM recently on FWDitOn, and thought I should share them to make all the women out there feel a bit better about themselves...

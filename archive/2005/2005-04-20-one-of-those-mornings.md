@@ -2,7 +2,7 @@
 layout: post
 title: "One Of Those Mornings"
 date: 2005-04-20
-categories: blog archive
+categories: archive
 ---
 
 This morning has so far been one of those mornings. One of those mornings where everything you try and do takes twice as long as it should because you keep discovering other things that need doing along the way.

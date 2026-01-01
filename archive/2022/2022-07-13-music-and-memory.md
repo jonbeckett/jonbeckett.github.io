@@ -2,7 +2,7 @@
 layout: post
 title: "Music And Memory"
 date: 2022-07-13
-categories: blog archive
+categories: archive
 ---
 
 I think somebody broke the temperature control knob on the sun this week. We're into day three of temperatures that I can only describe as "hotter than balls". It's a strange description, isn't it - and yet one that people commonly use.

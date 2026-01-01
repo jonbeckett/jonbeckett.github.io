@@ -2,7 +2,7 @@
 layout: post
 title: "Death Of A Friend"
 date: 2014-01-26
-categories: blog archive
+categories: archive
 ---
 
 While reading through the recent posts of friends on the internet a little earlier today, I tripped over a cryptic reference to somebody I knew, and began a frantic scramble to hopefully disprove my fears.

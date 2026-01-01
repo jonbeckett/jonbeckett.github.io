@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Words For A Departed Friend"
 date: 2017-11-13
-categories: blog archive
+categories: archive
 ---
 
 You might recall that during my last visit to Germany I received word about an old friend and co-worker that was killed in a motorcycle accident. I'm attending his funeral tomorrow, representing the company I work for. His other half has asked if anybody that knew him can record their memories, and share them, so she might compile them for both her and their baby in years to come.

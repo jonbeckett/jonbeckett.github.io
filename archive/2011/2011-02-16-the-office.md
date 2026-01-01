@@ -2,7 +2,7 @@
 layout: post
 title: "The Office"
 date: 2011-02-16
-categories: blog archive
+categories: archive
 ---
 
 The Office

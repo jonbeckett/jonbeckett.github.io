@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2008-11-11
-categories: blog archive
+categories: archive
 ---
 
 An eventful day so far (and night).

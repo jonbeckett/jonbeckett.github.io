@@ -2,7 +2,7 @@
 layout: post
 title: "Stop The World"
 date: 2006-05-23
-categories: blog archive
+categories: archive
 ---
 
 (more about the gratuitous Serenity picture further on...)

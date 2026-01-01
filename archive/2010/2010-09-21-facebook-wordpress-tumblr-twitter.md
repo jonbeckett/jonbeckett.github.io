@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook Wordpress Tumblr Twitter"
 date: 2010-09-21
-categories: blog archive
+categories: archive
 ---
 
 In the last year I have been something of an online vagrant - wandering the streets of the various blogging platforms, trying to find a place to like - a place to "fit in". A few things have become apparent to me about the various "platforms" online;

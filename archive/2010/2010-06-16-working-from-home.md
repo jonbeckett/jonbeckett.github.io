@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2010-06-16
-categories: blog archive
+categories: archive
 ---
 
 There must be something about being six years old. Illness doesn't just cause a temperature - it causes hallucinations, nightmares, and a pretty good line in gibberish.

@@ -2,7 +2,7 @@
 layout: post
 title: "Powered By Chocolate"
 date: 2008-12-11
-categories: blog archive
+categories: archive
 ---
 
 I have finally arrived at work this afternoon after attending our youngest child's nativity play this morning, getting in trouble with HR for not updating my work calendar, and struggling against a bad cold.

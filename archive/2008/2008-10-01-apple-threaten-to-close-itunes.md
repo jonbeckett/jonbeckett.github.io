@@ -2,7 +2,7 @@
 layout: post
 title: "Apple Threaten To Close Itunes"
 date: 2008-10-01
-categories: blog archive
+categories: archive
 ---
 
 Yep. You read it right. Apple are threatening to close iTunes.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Cathedral And The Bazaar"
 date: 2008-10-04
-categories: blog archive
+categories: archive
 ---
 
 Next on my commuting reading list while taking a break from fiction is "The Cathedral and the Bazaar".

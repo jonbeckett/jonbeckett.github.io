@@ -2,7 +2,7 @@
 layout: post
 title: "Books I Have Not Read"
 date: 2017-02-15
-categories: blog archive
+categories: archive
 ---
 
 Now there's a title for a blog post. Of course I'm not talking about all books in the published universe that I have not read yet - just the ones on the shelf behind me. I'm not entirely sure why I clarified that either, because you would have figured that out for yourself, right ?

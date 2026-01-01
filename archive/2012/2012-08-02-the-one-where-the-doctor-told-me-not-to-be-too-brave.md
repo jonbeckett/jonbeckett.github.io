@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Doctor Told Me Not To Be Too Brave"
 date: 2012-08-02
-categories: blog archive
+categories: archive
 ---
 
 This morning I found myself sat in the local Doctor's waiting room for the third time since moving here 11 years ago. It was interesting to see how things have moved on; there appears to be a concerted effort to avoid the reception staff having to talk to anybody any more.

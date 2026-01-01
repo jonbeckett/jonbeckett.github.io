@@ -2,7 +2,7 @@
 layout: post
 title: "Pages From My Life"
 date: 2007-01-30
-categories: blog archive
+categories: archive
 ---
 
 While out on the road with work, I have been filling the quiet moments by writing in a notebook. I thought it might be fun to share some excerpts from it with you;

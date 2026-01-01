@@ -2,7 +2,7 @@
 layout: post
 title: "Running Like Mad"
 date: 2013-11-13
-categories: blog archive
+categories: archive
 ---
 
 The days and nights are running into each other at the moment, but it's a situation of my own choosing so I can't really complain. It would help if I didn't have to travel with work tomorrow and stay in a hotel, but that works in a strange way tooI will be able to focus on a freelance project I've been picking away at in the evenings.

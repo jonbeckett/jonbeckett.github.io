@@ -2,7 +2,7 @@
 layout: post
 title: "Looking Good"
 date: 2006-01-26
-categories: blog archive
+categories: archive
 ---
 
 Just a quick update (don't have much time at the moment)... we got the lab results back from the Lister Hospital in London this morning - fantastic news - they collected 8 suitable eggs from W, and all of them have fertilized.

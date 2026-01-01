@@ -2,7 +2,7 @@
 layout: post
 title: "Googling Images"
 date: 2007-01-18
-categories: blog archive
+categories: archive
 ---
 
 I saw this idea on Alex's Vox blogto visit Google Images, search for your name, and post the first picture that comes up.

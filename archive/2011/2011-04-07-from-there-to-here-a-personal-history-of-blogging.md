@@ -2,7 +2,7 @@
 layout: post
 title: "From There To Here A Personal History Of Blogging"
 date: 2011-04-07
-categories: blog archive
+categories: archive
 ---
 
 In the spirit of re-visiting adventures past for the amusement of the masses, I thought it might be interesting to recount a few of the twists and turns of my blogging journey.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Morning Post"
 date: 2007-06-25
-categories: blog archive
+categories: archive
 ---
 
 It's 7:16, it's Monday morning, and the train will be leaving Marlow at any minute. I'm ready to fall asleep right here and now while sat on the train, but better not - I need to arrive somewhere near on-time this morning if I possibly can.

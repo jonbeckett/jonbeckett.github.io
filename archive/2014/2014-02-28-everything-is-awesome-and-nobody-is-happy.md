@@ -2,7 +2,7 @@
 layout: post
 title: "Everything Is Awesome And Nobody Is Happy"
 date: 2014-02-28
-categories: blog archive
+categories: archive
 ---
 
 I showed my co-workers the Louis C K clip on YouTube the other day, where he berates the current generation for expecting everything to be handed to them on a plate.I completely agree with him.

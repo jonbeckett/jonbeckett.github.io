@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Time To Write"
 date: 2011-09-20
-categories: blog archive
+categories: archive
 ---
 
 While attempting to hide from the world for a few minutes at lunchtime today, I found myself reading a few of the blogs I have followed for years. While reading I realised how lazy I have become. It's easy to blame my laziness on microbloggingon Twitter and Tumblron their predilection for short snippets of thought. Indeed; for the past several weeks I had redirected this blog to Tumblr because I didn't have time to write. And there we have the reasontime.

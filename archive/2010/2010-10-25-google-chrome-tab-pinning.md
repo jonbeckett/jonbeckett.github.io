@@ -2,7 +2,7 @@
 layout: post
 title: "Google Chrome Tab Pinning"
 date: 2010-10-25
-categories: blog archive
+categories: archive
 ---
 
 Who knew you can do this with Google Chrome?

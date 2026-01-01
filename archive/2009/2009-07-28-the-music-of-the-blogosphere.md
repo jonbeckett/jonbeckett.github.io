@@ -2,7 +2,7 @@
 layout: post
 title: "The Music Of The Blogosphere"
 date: 2009-07-28
-categories: blog archive
+categories: archive
 ---
 
 I began wondering this evening if there was a piece of music that I could tie to writing - to blogging. Was there a piece of music that encapsulated the sharing of the days of our lives, the experiences, and the emotions.

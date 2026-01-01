@@ -2,7 +2,7 @@
 layout: post
 title: "Very Busy Indeed"
 date: 2006-06-06
-categories: blog archive
+categories: archive
 ---
 
 I'm just taking the chance (while waiting for some software to install) to write a few words in my blog.

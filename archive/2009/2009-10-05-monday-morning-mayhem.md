@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Morning Mayhem"
 date: 2009-10-05
-categories: blog archive
+categories: archive
 ---
 
 I sometimes envy the single guys at work - that can roll out of bed with a finely crafted routine ahead of them to leave the house with seconds to spare beyond which they would be late for work. My morning typically starts an hour before I leave the house, of which ten minutes are spent on myself.

@@ -2,7 +2,7 @@
 layout: post
 title: "Running Out Of Days"
 date: 2017-08-16
-categories: blog archive
+categories: archive
 ---
 
 It's Thursday morning, and the days of my "stay-cation" are slowly ebbing away. Just today, tomorrow, and the weekend left. After that I will be back to the old routine - making myself a packed lunch, dragging the bike from the shed, and doing battle with traffic in town. Thankfully the traffic will be light, because the children are still on summer vacation here for another few weeks, but after that the army of new school parents will appear - many of them with new cars purchased to make the school run (no, I'm not joking - many people around here appear to take the "who can piss the highest" competition to a ridiculous level).

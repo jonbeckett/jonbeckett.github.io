@@ -2,7 +2,7 @@
 layout: post
 title: "Tears At Bedtime"
 date: 2010-12-21
-categories: blog archive
+categories: archive
 ---
 
 While W ran downstairs to heat up the various lavender scented beanies for the younger children's beds this evening, I kept an ear out from the study to make sure they weren't doing anything too ridiculous.

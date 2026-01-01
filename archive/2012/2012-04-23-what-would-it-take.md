@@ -2,7 +2,7 @@
 layout: post
 title: "What Would It Take "
 date: 2012-04-23
-categories: blog archive
+categories: archive
 ---
 
 I had an interesting conversation with an old friend yesterday. He asked what it would take for me to be lured away to work elsewhere. I'm pretty sure he was fishing because he knows how experienced I am, how broad my skillset is, and (perhaps most importantly) my character.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Singer Songwriter"
 date: 2006-12-15
-categories: blog archive
+categories: archive
 ---
 
 While writing a comment on Lauren's blog last night, I thought about an artist I have not listened to for a long time - Billy Joel.

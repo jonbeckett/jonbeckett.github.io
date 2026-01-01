@@ -2,7 +2,7 @@
 layout: post
 title: "Crappy End To The Day"
 date: 2004-10-12
-categories: blog archive
+categories: archive
 ---
 
 Today has been a good day.

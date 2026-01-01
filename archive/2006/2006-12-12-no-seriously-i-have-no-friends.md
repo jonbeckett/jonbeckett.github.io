@@ -2,7 +2,7 @@
 layout: post
 title: "No Seriously I Have No Friends"
 date: 2006-12-12
-categories: blog archive
+categories: archive
 ---
 
 I have one friend on Twitter. This is embarrassing. Please help me solve this problem...

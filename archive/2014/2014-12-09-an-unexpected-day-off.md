@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Day Off"
 date: 2014-12-09
-categories: blog archive
+categories: archive
 ---
 
 Our eldest daughter went nuclear again this morning (on top of being sick)the end result of which was me calling in to work, and staying home for the day with her. I picked the short straw because it would have caused more havoc for my other half to be off work than me. I'm not going to go into the reasons why Miss 14 is off school, because that's her story to tell one day (I'm going to try and get her started with a blog, because I think it will do her good).

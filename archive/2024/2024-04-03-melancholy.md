@@ -2,7 +2,7 @@
 layout: post
 title: "Melancholy"
 date: 2024-04-03
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in the dark of the junk room, lit by the glow of a desk lamp. Taylor Swift is quietly filling the room with wistful songs while I tap away at the keyboard. The clock will tick past midnight in a few moments.

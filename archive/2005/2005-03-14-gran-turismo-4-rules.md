@@ -2,7 +2,7 @@
 layout: post
 title: "Gran Turismo 4 Rules"
 date: 2005-03-14
-categories: blog archive
+categories: archive
 ---
 
 In what appears to be something of a pattern, I went into town to get my hair cut on Saturday morning, and there were loads of people in the barbers, so I ended up wandering around the shops - and went home with a copy of Gran Turismo 4 in my pocket 

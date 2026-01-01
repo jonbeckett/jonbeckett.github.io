@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing A Bag For The New Netbook"
 date: 2010-11-07
-categories: blog archive
+categories: archive
 ---
 
 Following the recent "Dance of the Laptops" (conducted to the music of the Polvotsian Dances by Borodin)throughout various members of our household following yesterday's acquisition, the new netbook finds itself without a bag. I'm guessing the reason netbooks have become so affordable is because they don't give any freebies away any more.

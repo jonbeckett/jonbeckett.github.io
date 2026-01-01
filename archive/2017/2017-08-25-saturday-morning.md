@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning"
 date: 2017-08-25
-categories: blog archive
+categories: archive
 ---
 
 After scraping myself out of bed this morning, jumping in the shower (not literally), having a shave to reverse the very impressive neanderthal impersonation, and clearing the washing up that had mysteriously manifested itself in the kitchen overnight, I wandered out into our jungle of a back garden to see if I might do something about the forest of grass that was threatening to overtake everything.

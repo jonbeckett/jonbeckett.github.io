@@ -2,7 +2,7 @@
 layout: post
 title: "An Adventure In London"
 date: 2015-10-17
-categories: blog archive
+categories: archive
 ---
 
 I scraped myself out of bed at 7am this morning - a Saturday no less - and woke our youngest. An hour later - after having a wash, throwing clothes on, and trying to make our hair look a little less like we had just been dragged through a hedge backwards, we were on a train headed towards London.

@@ -2,7 +2,7 @@
 layout: post
 title: "Please Let Friday Go Well"
 date: 2013-06-14
-categories: blog archive
+categories: archive
 ---
 
 I was kind of hoping that Friday would redeem the week for me. I can't say the signs are great, to be honest.

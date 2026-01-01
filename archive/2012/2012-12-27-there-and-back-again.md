@@ -2,7 +2,7 @@
 layout: post
 title: "There And Back Again"
 date: 2012-12-27
-categories: blog archive
+categories: archive
 ---
 
 I took our eldest daughter to the cinema this afternoon to watch "The Hobbit". Her only knowledge of the story has been through the first few chapters - listened to as I read to her younger sisters a few months ago. She's twelve years old.

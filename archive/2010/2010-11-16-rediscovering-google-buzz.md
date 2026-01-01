@@ -2,7 +2,7 @@
 layout: post
 title: "Rediscovering Google Buzz"
 date: 2010-11-16
-categories: blog archive
+categories: archive
 ---
 
 A relatively new online acquaintance popped up on my screen this morning asking "who is this Jonathan Beckett, and why is he so interesting?" - the ensuing conversation mentioned Google Buzz, that I had largely forgotten since it's launch.

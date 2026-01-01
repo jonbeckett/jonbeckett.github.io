@@ -2,7 +2,7 @@
 layout: post
 title: "More Thoughts On Starting Something"
 date: 2008-10-04
-categories: blog archive
+categories: archive
 ---
 
 You may recall a month or so ago I mentioned about "starting something" once more on the internet, and wondered if anybody else was interested in helping.

@@ -2,7 +2,7 @@
 layout: post
 title: "Remembering Marilyn"
 date: 2009-09-13
-categories: blog archive
+categories: archive
 ---
 
 After dinner this evening I was listening to music with our eight year old daughter. She was taking an interest in "my music" for a changeI'm not quite sure if the interest was genuine, or a ruse to stay up a little later. I decided to run with it anyway, and we worked our way through Howard Jones, Simple Minds, and eventually the Elton John "Live in Australia" album.

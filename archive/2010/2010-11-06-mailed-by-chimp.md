@@ -2,7 +2,7 @@
 layout: post
 title: "Mailed By Chimp"
 date: 2010-11-06
-categories: blog archive
+categories: archive
 ---
 
 I've been writing a blog in one form or another on the internet since about 2003, and have records of posts stretching back to about 2006. Idiotically, I didn't hang on to the first few years worth of posts - they were most likely lost while hopping blog platforms back in the day - you haven't always been able to export and import content as easily as you can these days.

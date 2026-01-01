@@ -2,7 +2,7 @@
 layout: post
 title: "Pretending To Fly"
 date: 2020-05-25
-categories: blog archive
+categories: archive
 ---
 
 I'm not sure that I have written so little for quite some time. Perhaps years. I haven't so much fallen off the blogging horse, as taken the wheels off the wagon, and re-purposed the chassis for some other purpose (firewood springs to mind).

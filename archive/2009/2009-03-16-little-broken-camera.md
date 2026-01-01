@@ -2,7 +2,7 @@
 layout: post
 title: "Little Broken Camera"
 date: 2009-03-16
-categories: blog archive
+categories: archive
 ---
 
 We took the kids to the woods at the weekend, and in the face of continual moon faced complaints about never being allowed to do anything from our eight year old, we let her carry the small point-and-shoot camera.

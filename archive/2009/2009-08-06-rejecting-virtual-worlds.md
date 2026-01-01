@@ -2,7 +2,7 @@
 layout: post
 title: "Rejecting Virtual Worlds"
 date: 2009-08-06
-categories: blog archive
+categories: archive
 ---
 
 I have never played "World of Warcraft". The lure of escaping into a fantasy world where I could be anything I wanted, and behave any way I wanted always seemed dangerous in some way - I always suspected that the game would tap into some deep failing in my character; turn me into a couch potato.

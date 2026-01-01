@@ -2,7 +2,7 @@
 layout: post
 title: "Yay Ferrari Score No Points"
 date: 2005-04-03
-categories: blog archive
+categories: archive
 ---
 
 Fantastic - Ferrari scored no points again in the Formula One grand prix in Bahrain. Absolutely brilliant Words cannot describe how good it is for motor racing in general that a team that behaves in the manner they do is doing as badly as they do.

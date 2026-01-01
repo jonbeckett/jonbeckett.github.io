@@ -2,7 +2,7 @@
 layout: post
 title: "Endings And Beginnings"
 date: 2016-12-31
-categories: blog archive
+categories: archive
 ---
 
 It's the evening of the 1st of January - the first day of the new year - and I'm sitting in the dark of the junk room trying to find a few words to put together. A few worthy words to mark the end of the previous year, and the beginning of the new one. So far I've got nothing.

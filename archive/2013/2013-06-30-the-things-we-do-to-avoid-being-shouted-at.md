@@ -2,7 +2,7 @@
 layout: post
 title: "The Things We Do To Avoid Being Shouted At"
 date: 2013-06-30
-categories: blog archive
+categories: archive
 ---
 
 I don't think it would be entirely innacurate to make the statement "I hate gardening more than anything else in the world". Actually, there are a few other things that trump it, but they tend to be people. These people have no idea about my resentment of their behaviour or existence, because I'm too good an actor, but anywaygetting sidetracked.

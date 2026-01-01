@@ -2,7 +2,7 @@
 layout: post
 title: "Dinner For One"
 date: 2014-03-04
-categories: blog archive
+categories: archive
 ---
 
 Spending your birthday on your own, with nobody else knowing is a very strange experienceperhaps more so if your normal world is a family home, full of chaos and craziness.

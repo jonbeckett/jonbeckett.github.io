@@ -2,7 +2,7 @@
 layout: post
 title: "Parties Sightseeing And Tantrums"
 date: 2015-09-20
-categories: blog archive
+categories: archive
 ---
 
 The weekend I had been dreading is almost over. I'm writing from a hotel in Leeds, after leaving my family at Marylebone station, in Central London. As ever, there are stories to tell.

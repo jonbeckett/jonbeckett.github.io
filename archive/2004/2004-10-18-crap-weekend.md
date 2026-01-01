@@ -2,7 +2,7 @@
 layout: post
 title: "Crap Weekend"
 date: 2004-10-18
-categories: blog archive
+categories: archive
 ---
 
 What a Crap Weekend.

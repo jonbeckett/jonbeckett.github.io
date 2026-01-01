@@ -2,7 +2,7 @@
 layout: post
 title: "Stop the World"
 date: 2023-10-05
-categories: blog archive
+categories: archive
 ---
 
 The clock is ticking relentlessly towards midnight, and you find me sitting in the dark of the junk room once more, bathed in the light of several desk lamps, wondering both where the day went and what I might write about in the blog. Because I have to write *something*, right? It's been a few days. A few days that haven't stopped.

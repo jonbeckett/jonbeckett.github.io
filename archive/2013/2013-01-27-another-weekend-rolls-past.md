@@ -2,7 +2,7 @@
 layout: post
 title: "Another Weekend Rolls Past"
 date: 2013-01-27
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting on the couch for the last ten minutes, wondering what to write that might describe the weekend. I'm struggling to come up with anything worthwhile. Life continued (mostly) as it has for any number of recent weekends.

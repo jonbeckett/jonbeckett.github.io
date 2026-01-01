@@ -2,7 +2,7 @@
 layout: post
 title: "Old World Journalism"
 date: 2010-10-18
-categories: blog archive
+categories: archive
 ---
 
 Inbetween doing other things this evening, I've been listening to "This Week In Tech" - a quite wonderful podcast I discovered while commuting into and out of London a couple of years ago.

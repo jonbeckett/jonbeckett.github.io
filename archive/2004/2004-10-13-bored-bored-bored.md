@@ -2,7 +2,7 @@
 layout: post
 title: "Bored Bored Bored"
 date: 2004-10-13
-categories: blog archive
+categories: archive
 ---
 
 I'm in one of those states of mind today where you cannot concentrate on anything too deep. Nothing has really "grabbed" me yet.

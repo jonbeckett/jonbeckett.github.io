@@ -2,7 +2,7 @@
 layout: post
 title: "Walking In On World War Three"
 date: 2011-11-11
-categories: blog archive
+categories: archive
 ---
 
 I'm not sure what was going on with the traffic today. I left the house 10 minutes later than normal, and was nearly hit by 4 different cars within 200 yards of our house. Everybody had a case of the Fridays except mewho was busy dodging the Friday brigade like a cat on hot coals (or an unshaved web designer on a mountain bike).

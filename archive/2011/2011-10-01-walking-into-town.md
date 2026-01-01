@@ -2,7 +2,7 @@
 layout: post
 title: "Walking Into Town"
 date: 2011-10-01
-categories: blog archive
+categories: archive
 ---
 
 After spending the majority of the day at W's parents, we finally resolved one of those crazy situations that only ever happens in our houseOur eldest daughter's birthday was a couple of weeks ago, and my parents sent her a couple of presents in advanceone of which we later discovered W's brother had also bought her. As is usual around here, rather than tell him in advance, W didn't/wouldn't, and then it fell on me to not give her one of her presents.

@@ -2,7 +2,7 @@
 layout: post
 title: "Drifting Along"
 date: 2008-05-07
-categories: blog archive
+categories: archive
 ---
 
 For the last few days I've felt like I'm drifting along with the rest of the driftwood. Getting up in the morning, doing the morning routine with the kids, wandering off to work, trudging my way through the work day, returning home to dinner, washing up and tidying up, then rinsing and repeating each day.

@@ -2,7 +2,7 @@
 layout: post
 title: "Maybe Dad Dead "
 date: 2011-08-04
-categories: blog archive
+categories: archive
 ---
 
 I arrived home from work to an empty house this evening, and while untangling myself from my backpack, bike helmet and MP3 player in the study, an ambulance turned up outside.

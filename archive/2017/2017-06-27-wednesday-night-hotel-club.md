@@ -2,7 +2,7 @@
 layout: post
 title: "Wednesday Night Hotel Club"
 date: 2017-06-27
-categories: blog archive
+categories: archive
 ---
 
 I have been sitting in my hotel room for the last two hours, mindlessly scrolling through Facebook, Twitter, Tumblr, and a succession of news websites in search of something - anything - to peak my interest. All the while I am resisting the temptation to bust out a code editor and carry on working into the early hours on the commercial project I am here for. They haven't paid me to do it, but I can see what their project could be if I put just a little more work into it.

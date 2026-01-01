@@ -2,7 +2,7 @@
 layout: post
 title: "Relationship Advice From A Machine"
 date: 2017-04-06
-categories: blog archive
+categories: archive
 ---
 
 A little while after arriving at work this morning, I opened my email with the requisite amount of trepidation (I have grown to fear opening my work email every morning), and discovered that everybody really does seem to have sodded off for Easter. I therefore did what any self respecting procrastinator would do - cracked open a web browser, and jumped straight down the rabbit hole.

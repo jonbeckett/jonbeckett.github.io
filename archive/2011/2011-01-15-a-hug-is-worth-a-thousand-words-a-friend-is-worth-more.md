@@ -2,7 +2,7 @@
 layout: post
 title: "A Hug Is Worth A Thousand Words A Friend Is Worth More"
 date: 2011-01-15
-categories: blog archive
+categories: archive
 ---
 
 The anonymous question I received this morning from a far flung admirer got me thinking about friendship in general, and how the modern world seems to have done everything it can to dissuade us from friendship.

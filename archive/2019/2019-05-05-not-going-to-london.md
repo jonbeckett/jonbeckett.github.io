@@ -2,7 +2,7 @@
 layout: post
 title: "Not Going To London"
 date: 2019-05-05
-categories: blog archive
+categories: archive
 ---
 
 I was up at ridiculous o'clock this morning, showered, shaved, dressed, and ready to go. While brushing my teeth a small black cat stood in the doorway of the bathroom staring at me with huge green eyes. He only ever braves human contact when he's hungry.

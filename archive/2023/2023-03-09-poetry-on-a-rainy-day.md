@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry on a rainy day"
 date: 2023-03-09
-categories: blog archive
+categories: archive
 ---
 
 We very nearly had some snow yesterday afternoon. A few flakes fell from the sky, and immediately polarised everybody that noticed - filling them with glee or dread. I might have murmured "it won't settle" - and I was right. While news from the more northerly parts of the UK breathlessly reported an impending ice age, all the sky has delivered in the hereabouts today is a steady stream of depressingly grey drizzle.

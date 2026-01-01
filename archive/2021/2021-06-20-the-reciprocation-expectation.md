@@ -2,7 +2,7 @@
 layout: post
 title: "The Reciprocation Expectation"
 date: 2021-06-20
-categories: blog archive
+categories: archive
 ---
 
 There's something about publishing blog posts on mainstream platforms that I've never liked. It never used to exist, and has only come about because platforms happened. It's the unwritten expectation that if somebody shows interest in your writing, you should show interest in theirs too.

@@ -2,7 +2,7 @@
 layout: post
 title: "Re Appearing On Radar"
 date: 2011-09-03
-categories: blog archive
+categories: archive
 ---
 
 We arrived home late on Thursday night, it's now mid-morning on Saturday, and this is the first time I have really had some time to myselfsome time to hit the interwebs, catch up with friends, read about your adventures, and slow things down a bit.

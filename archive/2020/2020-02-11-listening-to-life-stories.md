@@ -2,7 +2,7 @@
 layout: post
 title: "Listening To Life Stories"
 date: 2020-02-11
-categories: blog archive
+categories: archive
 ---
 
 I would love to write something along the lines of "I stopped in town on the way to work this morning, and got my hair cut" - but that's not quite what happened. Somewhere along the way the pretty girl in the barber shop decided to unload most of her recent life history on me. I'm beginning to wonder if I have some sort of sign suspended above my head that I'm unaware of.

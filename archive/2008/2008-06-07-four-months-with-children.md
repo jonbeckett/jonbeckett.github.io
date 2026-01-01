@@ -2,7 +2,7 @@
 layout: post
 title: "Four Months With Children"
 date: 2008-06-07
-categories: blog archive
+categories: archive
 ---
 
 I just realised - it's now been four months since the end of our two year odyssey through the various hurdles and high jumps of the social services system. Four months since little people invaded our house for the first time. Four months that seems like a very long time ago now.

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Bike Tried To Kill Me Honest"
 date: 2012-07-16
-categories: blog archive
+categories: archive
 ---
 
 While turning the pedals of my mountain bike en-route to work this morning (I hesitate to call what I do "cycling"), an ominous crunching sound escaped my right foot. After a cursory glance down at the cause of the sudden jellified crank arm, the bike that i have so lovinglynotlooked after at allwas disintegrating around methe spindle around which the pedal has spun for it's entire life had sheared off, forming a wonderfully sharp shard of metal.

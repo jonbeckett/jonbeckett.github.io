@@ -2,7 +2,7 @@
 layout: post
 title: "Finishing Last"
 date: 2019-10-19
-categories: blog archive
+categories: archive
 ---
 
 We attended yet another fund-raiser quiz last night - this time for the local hockey team. My other half put a call out on social media for team mates, and we quickly found ourselves with a table of seven - we would have been eight, but our middle daughter was waiting tables - or rather, up-selling bottles of wine and packets of peanuts to the various parents in attendance.

@@ -2,7 +2,7 @@
 layout: post
 title: "George Returns From Hospital"
 date: 2011-07-08
-categories: blog archive
+categories: archive
 ---
 
 George - our cat that was hit by a car last week - returned from hospital last night, and is getting used to his home for the next few weeks - a cage in the lounge. He has a view across the back garden, which will hopefully encourage him to sit up, stand up, and exercise his legs over the coming days.

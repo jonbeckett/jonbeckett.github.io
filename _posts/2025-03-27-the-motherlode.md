@@ -3,7 +3,6 @@ layout: single
 title: "The Motherlode"
 date: 2025-03-27
 categories:
-  - blog
   - "2025"
 ---
 

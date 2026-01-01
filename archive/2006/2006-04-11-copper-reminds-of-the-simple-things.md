@@ -2,7 +2,7 @@
 layout: post
 title: "Copper Reminds Of The Simple Things"
 date: 2006-04-11
-categories: blog archive
+categories: archive
 ---
 
 I just wanted to take the opportunity to direct you over the wonderful online comic strip that is "Copper"...

@@ -2,7 +2,7 @@
 layout: post
 title: "Preparing To Travel"
 date: 2022-08-15
-categories: blog archive
+categories: archive
 ---
 
 The day began with a shower, a shave, washing up, tidying up, and a valiant attempt to pick a few things up in the living room. I'm not quite sure why I bothered, because the kitchen, lounge, and hallway in our house always looks like either an earthquake just happened, or our house was searched by gangsters while we were out. Suffice to say, it now looks the same as it did before I started.

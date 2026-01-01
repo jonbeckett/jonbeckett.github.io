@@ -2,7 +2,7 @@
 layout: post
 title: "Frustrations"
 date: 2014-06-18
-categories: blog archive
+categories: archive
 ---
 
 A pattern from my personal life seems to be repeating itself in my professional life at the moment, and I'm incredibly annoyed about it.

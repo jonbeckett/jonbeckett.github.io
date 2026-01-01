@@ -2,7 +2,7 @@
 layout: post
 title: "Scorched Earth"
 date: 2016-07-24
-categories: blog archive
+categories: archive
 ---
 
 At some point yesterday evening a snowball of an idea started rolling through my brain. By the time I got up this morning it had gained momentum somewhat - culminating in not so much a bout of "tinkering" with the various places I frequent online, as carpet bombing them, and planting new seeds in the freshly scorched earth.

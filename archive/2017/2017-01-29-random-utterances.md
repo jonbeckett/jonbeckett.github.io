@@ -2,7 +2,7 @@
 layout: post
 title: "Random Utterances"
 date: 2017-01-29
-categories: blog archive
+categories: archive
 ---
 
 It's 9pm. I'm hundreds of miles from home again. Holed up in a hotel again. Scheduled to arrive at an office block across the city I'm staying in tomorrow morning to pretend to be a teacher again.

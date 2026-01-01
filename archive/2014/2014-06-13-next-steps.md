@@ -2,7 +2,7 @@
 layout: post
 title: "Next Steps"
 date: 2014-06-13
-categories: blog archive
+categories: archive
 ---
 
 Following on with the plan to turn my involvement in "the social internet" around, and to post when I have something to say, rather than to say something, I have turned my Flickr account inside out.

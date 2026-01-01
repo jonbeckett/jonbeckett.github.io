@@ -2,7 +2,7 @@
 layout: post
 title: "Steve Jobs Geektastic And The Future Of Ideas"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 I received a number of fantastic books for Christmas this year, and can't wait to read them;

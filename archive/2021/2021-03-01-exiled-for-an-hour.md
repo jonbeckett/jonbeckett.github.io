@@ -2,7 +2,7 @@
 layout: post
 title: "Exiled For An Hour"
 date: 2021-03-01
-categories: blog archive
+categories: archive
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67d8518e-05d8-4653-a27e-0ac21b08a4de_1920x1300.jpeg" />

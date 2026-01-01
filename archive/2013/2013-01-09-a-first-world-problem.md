@@ -2,7 +2,7 @@
 layout: post
 title: "A First World Problem"
 date: 2013-01-09
-categories: blog archive
+categories: archive
 ---
 
 Our eldest daughter came home from School yesterday - her first day back after the Christmas break - and murmured something about her school friends getting iPhones, and iPads for Christmas.

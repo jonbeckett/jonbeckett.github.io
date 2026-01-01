@@ -2,7 +2,7 @@
 layout: post
 title: "The Abercrombie And Fitch Paradox"
 date: 2013-05-08
-categories: blog archive
+categories: archive
 ---
 
 A friend posted on Facebook this evening about Abercrombie and Fitch's marketing strategy - the fact that they don't sell clothes beyond a certain size in their stores, that they only hire attractive staff, and that their CEO openly admits to such tactics. Of course this entire subject causes reactions from anybody - particularly women - who are outside of that target demographic. Reactions that cause outpourings of spite, venom, and vitriol.

@@ -2,7 +2,7 @@
 layout: post
 title: "Aligning The Planets"
 date: 2015-04-14
-categories: blog archive
+categories: archive
 ---
 
 A couple of weeks ago I announced to the world (or rather, announced to a random passer-by) that I was shuttering my public blog. Within hours I had of course resurrected the content quietly in a forgotten back-water of the internet, and started posting again - because I'm stupid like that.

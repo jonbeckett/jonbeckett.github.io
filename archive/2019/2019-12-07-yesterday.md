@@ -2,7 +2,7 @@
 layout: post
 title: "Yesterday"
 date: 2019-12-07
-categories: blog archive
+categories: archive
 ---
 
 I just watched the movie "Yesterday" - the romantic comedy about the guy that gets hit by a bus, and wakes up to a world where the Beatles never existed. I'm not going to write a capsule review, because the internet is full of them, but I am going to write about one particular piece of the movie.

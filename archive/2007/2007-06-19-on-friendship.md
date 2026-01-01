@@ -2,7 +2,7 @@
 layout: post
 title: "On Friendship"
 date: 2007-06-19
-categories: blog archive
+categories: archive
 ---
 
 Through many times in my life I have struggled to find the place where being a good person ends, and friendship begins - and where friendship ends and love begins.

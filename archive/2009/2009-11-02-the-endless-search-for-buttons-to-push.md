@@ -2,7 +2,7 @@
 layout: post
 title: "The Endless Search For Buttons To Push"
 date: 2009-11-02
-categories: blog archive
+categories: archive
 ---
 
 I sat down to begin writing this evening with memories of a stereotypically draining and stressful Monday morning running through my head. While contemplating the title "Monday Monday", the Mamas and Papas song burst forth somewhere in my brain, and my mood transformed.

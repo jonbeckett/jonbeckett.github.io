@@ -3,7 +3,6 @@ layout: single
 title: "Life without Computers"
 date: 2025-10-02
 categories:
-  - blog
   - "2025"
 ---
 

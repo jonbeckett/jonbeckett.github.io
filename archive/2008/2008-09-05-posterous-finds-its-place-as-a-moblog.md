@@ -2,7 +2,7 @@
 layout: post
 title: "Posterous Finds Its Place As A Moblog"
 date: 2008-09-05
-categories: blog archive
+categories: archive
 ---
 
 I have finally found a place for the wonderful "Posterous" service that I wrote about several days ago.

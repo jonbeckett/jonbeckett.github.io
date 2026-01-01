@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Myself"
 date: 2019-10-27
-categories: blog archive
+categories: archive
 ---
 
 After a day spent cheering on both of our younger daughters at back-to-back rugby matches this afternoon (literally back-to-back - they were playing on parallel pitches - while I watched our youngest in the under-15s, my other half watched our middle girl in the under-18s), I went out for a training run this evening.

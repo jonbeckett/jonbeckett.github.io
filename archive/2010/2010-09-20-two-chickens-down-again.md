@@ -2,7 +2,7 @@
 layout: post
 title: "Two Chickens Down Again"
 date: 2010-09-20
-categories: blog archive
+categories: archive
 ---
 
 Our spectacularly bad record keeping chickens continued earlier tonight.

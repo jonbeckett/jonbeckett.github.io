@@ -2,7 +2,7 @@
 layout: post
 title: "Drama Queens"
 date: 2020-09-13
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday afternoon, and the sun is shining. I expect the rest of the family will expect me to wander out into the back garden soon and start the barbecue. I'm wondering where the weekend went.

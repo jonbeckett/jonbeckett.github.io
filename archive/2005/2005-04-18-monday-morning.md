@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Morning"
 date: 2005-04-18
-categories: blog archive
+categories: archive
 ---
 
 It's Monday morning, and I'm back at work.

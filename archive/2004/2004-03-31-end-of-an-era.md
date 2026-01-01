@@ -2,7 +2,7 @@
 layout: post
 title: "End Of An Era"
 date: 2004-03-31
-categories: blog archive
+categories: archive
 ---
 
 I have just switched off the ThoughtCafe website.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Busy Saturday"
 date: 2006-09-02
-categories: blog archive
+categories: archive
 ---
 
 It feels rather strange - entering "normal" life once more after several months working weekends.

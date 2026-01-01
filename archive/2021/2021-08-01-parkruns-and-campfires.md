@@ -2,7 +2,7 @@
 layout: post
 title: "Parkruns And Campfires"
 date: 2021-08-01
-categories: blog archive
+categories: archive
 ---
 
 I took part in my first "Parkrun" yesterday morning - a regular weekly 5 kilometre run around the big park in town. Parkrun operates all over the world - you can register for free, and attend any of the runs.

@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Again"
 date: 2004-01-27
-categories: blog archive
+categories: archive
 ---
 
 What is it about Tuesdays? I seem to write in my blog at some point on a Tuesday these days.

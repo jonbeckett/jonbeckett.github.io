@@ -2,7 +2,7 @@
 layout: post
 title: "10 Random Questions"
 date: 2010-09-24
-categories: blog archive
+categories: archive
 ---
 
 While reading the blog of a good friend late last night, it occurred to me that I've written very little about myself for rather a long time. Rather than dream up some atrophy inducing journal of the recent past, I set out across the barren wastes of the internet to find questions - good questions - which I might answer in a random, and hopefully entertaining manner. I should perhaps warn you that I have one hundred of these questions, but will only subject you to ten at a time.

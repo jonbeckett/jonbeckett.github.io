@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2016-12-02
-categories: blog archive
+categories: archive
 ---
 
 It's Friday morning, and I'm working from home. I thought about getting my hair cut this morning, but had a telephone conference mid-morning. Of course that got cancelled, so I'm now free to work on whatever I want - I can't really continue with anything, so it looks like a day of house-keeping - running backups, looking at training materials, that kind of thing.

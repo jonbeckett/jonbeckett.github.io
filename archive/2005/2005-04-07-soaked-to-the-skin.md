@@ -2,7 +2,7 @@
 layout: post
 title: "Soaked To The Skin"
 date: 2005-04-07
-categories: blog archive
+categories: archive
 ---
 
 I just got in from work after a pretty dreadful cycle home. For those that don't know, I cycle to work (about 3 miles) on a mountain bike.

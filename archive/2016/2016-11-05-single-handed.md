@@ -2,7 +2,7 @@
 layout: post
 title: "Single Handed"
 date: 2016-11-05
-categories: blog archive
+categories: archive
 ---
 
 My other half has gone away with her Mum and our eldest daughter to the Lake District this weekend - the hilly bit of England in the top left corner, that borders Scotland. Famous as the home of Beatrix Potter, the inspiration for Wordsworth, and also the place where Donald Campbell met his end in Bluebird all those years ago (I've walked the length of Conniston Water - it's impressively unsettling).

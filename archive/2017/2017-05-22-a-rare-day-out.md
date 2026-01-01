@@ -2,7 +2,7 @@
 layout: post
 title: "A Rare Day Out"
 date: 2017-05-22
-categories: blog archive
+categories: archive
 ---
 
 It's rare that I ever get the chance to attend any kind of event to do with my work - conferences, meetups, that kind of thing. About two weeks ago I received an email at work - not so much asking if I would like to go - more telling me that I was going.

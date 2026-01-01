@@ -2,7 +2,7 @@
 layout: post
 title: "Breakfast And Frasier"
 date: 2011-08-26
-categories: blog archive
+categories: archive
 ---
 
 While running back and forth making breakfasts and packed lunches on a morning, I switch the television on in the corner of the kitchen and half-listen to the breakfast television presenters, the recycled news stories, and dire weather predictions for the day ahead. This morning I hit the power button, finger poised on the channel +/- buttons ready to flip to the news channels, and found the last episode of Frasier showing on some other channel.A happy accident.

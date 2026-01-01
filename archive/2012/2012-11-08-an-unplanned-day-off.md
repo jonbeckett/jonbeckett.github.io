@@ -2,7 +2,7 @@
 layout: post
 title: "An Unplanned Day Off"
 date: 2012-11-08
-categories: blog archive
+categories: archive
 ---
 
 I booked today off months ago, to attend my cousin's wedding. There's one problem - my cousin's wedding isn't until tomorrow. I'm not quite sure how that happened.

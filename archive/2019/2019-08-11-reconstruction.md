@@ -2,7 +2,7 @@
 layout: post
 title: "Reconstruction"
 date: 2019-08-11
-categories: blog archive
+categories: archive
 ---
 
 I began writing this post five hours ago. Somewhere along the way Sunday caught up with me, ran me over, and dragged me along the road for a bit before reversing back over me. Twice. Once again I find myself wondering where the weekend has gone.

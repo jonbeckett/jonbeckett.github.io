@@ -2,7 +2,7 @@
 layout: post
 title: "Contemplating Armageddon"
 date: 2017-12-12
-categories: blog archive
+categories: archive
 ---
 
 I thought about retreating from the internet today. I've done it before. I thought about tearing down this cardboard construction of blog posts, photos, status updates, and messaging accounts, and retreating back under a sturdy looking stone.

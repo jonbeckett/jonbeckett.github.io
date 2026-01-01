@@ -2,7 +2,7 @@
 layout: post
 title: "Sixteen Hundred Words"
 date: 2018-10-20
-categories: blog archive
+categories: archive
 ---
 
 While tidying the study this evening, I looked at the games console and flat-screen television that have been taking up the desk in the corner, and that haven't so much as been powered up for the last several weeks, and decided to do something rather drastic.

@@ -3,7 +3,6 @@ layout: single
 title: "A somewhat accidental Swiftie"
 date: 2025-08-15
 categories:
-  - blog
   - "2025"
 ---
 

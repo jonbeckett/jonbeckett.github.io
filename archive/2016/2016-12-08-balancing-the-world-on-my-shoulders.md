@@ -2,7 +2,7 @@
 layout: post
 title: "Balancing The World On My Shoulders"
 date: 2016-12-08
-categories: blog archive
+categories: archive
 ---
 
 Tonight marked a milestone of sorts for the project I have been working on for the last several weeks. I finally pulled the curtains back, and started letting users in to wreck everything try everything out. To say I'm burned out would be something of an understatement.

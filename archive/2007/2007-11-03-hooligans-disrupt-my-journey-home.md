@@ -2,7 +2,7 @@
 layout: post
 title: "Hooligans Disrupt My Journey Home"
 date: 2007-11-03
-categories: blog archive
+categories: archive
 ---
 
 Once again this evening I was reminded why I don't like football.

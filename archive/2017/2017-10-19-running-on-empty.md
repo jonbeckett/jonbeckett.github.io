@@ -2,7 +2,7 @@
 layout: post
 title: "Running On Empty"
 date: 2017-10-19
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure how I'm going to make it through this blog post. I'm home, I'm sitting at the desk in the junk room, and I'm typing. It's been a long day.

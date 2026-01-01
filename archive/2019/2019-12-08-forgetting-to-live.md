@@ -2,7 +2,7 @@
 layout: post
 title: "Forgetting To Live"
 date: 2019-12-08
-categories: blog archive
+categories: archive
 ---
 
 While off work over the last several days, I've been quietly watching, reading, commenting, and liking posts across the various social platforms on the internet.

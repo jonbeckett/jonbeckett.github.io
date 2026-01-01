@@ -2,7 +2,7 @@
 layout: post
 title: "Mad Week On Site"
 date: 2003-10-09
-categories: blog archive
+categories: archive
 ---
 
 It's been a pretty mad week once again.

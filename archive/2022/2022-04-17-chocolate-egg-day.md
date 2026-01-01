@@ -2,7 +2,7 @@
 layout: post
 title: "Chocolate Egg Day"
 date: 2022-04-17
-categories: blog archive
+categories: archive
 ---
 
 I'm deliberately staying away from the television and social networks today - the insufferable hoard of "He is risen!" folks are busy preaching to the converted. I'm not going to get into the history of the pagan fertility celebrations that have existed in Europe for millennia, and the positioning of religious festivals to disrupt existing gatherings. People tend to cherry pick concordant versions of history and accept as alternate fact anyway.

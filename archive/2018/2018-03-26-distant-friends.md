@@ -2,7 +2,7 @@
 layout: post
 title: "Distant Friends"
 date: 2018-03-26
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure why, but I'm always surprised when anybody notices me - particularly if they have discovered me via this blog. I have been writing online for a long time - recording my sometimes daily stories, thoughts, ideas, and non-adventures. I've come to know a great many people over the years - many are no longer writing - some are no longer with us at all. When I am discovered, it's like being approached by a new friend on the infant school playground all over again.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Rugby Tour"
 date: 2019-04-15
-categories: blog archive
+categories: archive
 ---
 
 After filling the car with bags of clothes, kit, and birthday cake on Friday, we set off late in the morning for a park just outside of Tewkesbury, in Gloucestershire. The girls rugby team our middle daughter plays for were staging their first ever tour - taking the team away for a weekend of rugby, bonding, and any other idiocy that could be summoned at a reasonable price in the middle of nowhere.

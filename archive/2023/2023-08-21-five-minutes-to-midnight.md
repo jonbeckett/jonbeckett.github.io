@@ -2,7 +2,7 @@
 layout: post
 title: "Five Minutes to Midnight"
 date: 2023-08-21
-categories: blog archive
+categories: archive
 ---
 
 No, this post isn't about the domesday clock or the impending end of the world. The clock is quite literally ticking towards midnight. When I wrote the title there were five minutes to go - now there are only two. I had to look up the spelling of "domesday" which ate a minute or two - because rabbit holes.

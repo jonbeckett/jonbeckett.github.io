@@ -2,7 +2,7 @@
 layout: post
 title: "The Long Road"
 date: 2007-09-18
-categories: blog archive
+categories: archive
 ---
 
 Something has been on my mind recently. An annoyance, if you will.

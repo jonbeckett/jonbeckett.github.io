@@ -2,7 +2,7 @@
 layout: post
 title: "Cutting The Hedge"
 date: 2021-06-22
-categories: blog archive
+categories: archive
 ---
 
 I've just sat down after spending the last hour trimming the hedge at the front of our house. Of course I write "trimming", but the real scenes were probably more closely aligned with the jungle hacking antics of the Livingston expedition in the jungle a hundred or so years ago.

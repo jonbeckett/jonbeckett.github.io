@@ -2,7 +2,7 @@
 layout: post
 title: "That Was The Week That Was"
 date: 2012-06-03
-categories: blog archive
+categories: archive
 ---
 
 I can't believe it's been the best part of a week since I last wrote in the blog. There was a time when I wrote every dayrecorded everything that happened. Let's just say that recent times have been "difficult".

@@ -2,7 +2,7 @@
 layout: post
 title: "An Australian Sports Bar In Frankfurt"
 date: 2017-04-25
-categories: blog archive
+categories: archive
 ---
 
 Trying to find authentic places to eat in central Frankfurt is futile, because just like any modern international city, it's filled with every cuisine you could throw a pointy stick at. As I wandered the streets this evening I found Lebanese, Malaysian, Vietnamese, Japanese, Chinese, Italian, and countless other restaurants - and strangely no German ones (well... unless you count the river-side restaurant I've passed several times while here, which seems to be the exclusive domain of stock brokers).

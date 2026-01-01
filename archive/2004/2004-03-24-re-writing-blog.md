@@ -2,7 +2,7 @@
 layout: post
 title: "Re Writing Blog"
 date: 2004-03-24
-categories: blog archive
+categories: archive
 ---
 
 Okay - before I start, I should perhaps re-iterate that this diary is based on code that I wrote, and I give away as "open source" to whoever wants a copy.

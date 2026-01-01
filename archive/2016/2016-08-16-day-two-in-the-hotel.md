@@ -2,7 +2,7 @@
 layout: post
 title: "Day Two In The Hotel"
 date: 2016-08-16
-categories: blog archive
+categories: archive
 ---
 
 For the last few minutes I have been knocking around the hotel room, trying to find somewhere comfortable to sit with the laptop.

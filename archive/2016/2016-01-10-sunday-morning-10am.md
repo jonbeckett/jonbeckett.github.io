@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Morning 10Am"
 date: 2016-01-10
-categories: blog archive
+categories: archive
 ---
 
 Ok, so it's really 10:28am as I begin typing this, but if I wrote the time accurately it would be an even bigger distortion of the Paul Simon song title "Wednesday Morning, 3am". Of course most of the reason for the rubbish title is I have nothing specific to write about this morningI'm not going to let that stop me though.

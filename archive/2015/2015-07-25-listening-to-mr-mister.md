@@ -2,7 +2,7 @@
 layout: post
 title: "Listening To Mr Mister"
 date: 2015-07-25
-categories: blog archive
+categories: archive
 ---
 
 The title of this post could be a tongue twister, couldn't it. In reality I'm listening to a play-list on Spotify called "Great Tunes" that I started compiling for myself. Kyrie is playing at the moment. I was going to include a link, but I never click on anything like that, so I'm guessing nobody else does either. Perhaps that holds true for 90% of the social internet - features invented based on how the designers would like people to behave, as against how they will actually behave (read: take no notice whatsoever).

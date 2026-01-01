@@ -2,7 +2,7 @@
 layout: post
 title: "Terrifically Unfair"
 date: 2018-03-03
-categories: blog archive
+categories: archive
 ---
 
 So much has happened in the last 18 hours. I'm having trouble processing it - struggling to arrange it all into a coherent story. Perhaps I'll start at the beginning.

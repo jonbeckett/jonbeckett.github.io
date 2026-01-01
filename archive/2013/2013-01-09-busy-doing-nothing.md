@@ -2,7 +2,7 @@
 layout: post
 title: "Busy Doing Nothing"
 date: 2013-01-09
-categories: blog archive
+categories: archive
 ---
 
 I have been sitting here since tucking the younger children into bed an hour or so ago, and have achieved absolutely nothing.

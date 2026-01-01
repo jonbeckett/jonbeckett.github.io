@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing Holiday Books"
 date: 2006-09-08
-categories: blog archive
+categories: archive
 ---
 
 We are finally escaping from our life tomorrow, and spending a week holed up in a cabin in the Turkish mountains (click here for a sneaky peek). This of course begs the question - which books do I take away on holiday with me?

@@ -2,7 +2,7 @@
 layout: post
 title: "Time To Dream"
 date: 2018-08-09
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure where today went. A conference call with Germany first thing this morning uncovered some strange behaviour within the system I have been working on for the last several months.

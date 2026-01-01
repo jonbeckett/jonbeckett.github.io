@@ -2,7 +2,7 @@
 layout: post
 title: "Small Moves"
 date: 2020-01-16
-categories: blog archive
+categories: archive
 ---
 
 I chatted briefly with an old friend on the internet today about the various machinations involved in bringing a podcast to life. Just as I started firing questions at him, he reminded me that content counts for far more than sound quality, editing, post-processing, or anything else. He should know - he works for the BBC, and records one of the best podcasts I know.

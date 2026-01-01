@@ -2,7 +2,7 @@
 layout: post
 title: "Slowly But Surely"
 date: 2020-01-19
-categories: blog archive
+categories: archive
 ---
 
 After the craziness of work, home, and idiotic escapades such as the podcast in recent days, I'm finally slowing down. There had been plans to visit a hobby store with Miss 19 this morning - which went out of the window when she didn't emerge until a little before lunchtime. There had also been plans for Miss 16 to take part in a hockey match this afternoon - an email arrived moments ago informing us that the pitch is frozen.

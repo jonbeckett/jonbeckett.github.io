@@ -2,7 +2,7 @@
 layout: post
 title: "Going Back To A Home Grown Script"
 date: 2005-07-16
-categories: blog archive
+categories: archive
 ---
 
 After a couple of months playing around with WordPress, I have gone back to my own blog script because I can do what I like with it - rather than be constrained by what the writers of WordPress would like me to do with it.

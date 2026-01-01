@@ -2,7 +2,7 @@
 layout: post
 title: "The End Of Another Week"
 date: 2004-07-23
-categories: blog archive
+categories: archive
 ---
 
 I know, I know - I haven't been writing much in my blog recently.

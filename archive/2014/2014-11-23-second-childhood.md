@@ -2,7 +2,7 @@
 layout: post
 title: "Second Childhood"
 date: 2014-11-23
-categories: blog archive
+categories: archive
 ---
 
 I never really read any comic books when I was young. I'm not sure why. I remember seeing them around, but they were never a "big thing". I read the odd copy of the "Beano", and "Dandy", but never any of the "real" comicsthe DC, or Marvel comics, filled with Superman, Spiderman, Batman, and Wonderwoman. The only places I can ever remember seeing them were in waiting rooms of places like the dentist, or the barbers.

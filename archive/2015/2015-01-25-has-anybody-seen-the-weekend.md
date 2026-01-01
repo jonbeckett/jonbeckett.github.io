@@ -2,7 +2,7 @@
 layout: post
 title: "Has Anybody Seen The Weekend "
 date: 2015-01-25
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting on the couch with the netbook for the last hour, half watching the television, half wondering what to write about, and half watching the remaining minutes of Sunday evening tick away. That's three halves, which pretty much describes my state of mind at the moment.

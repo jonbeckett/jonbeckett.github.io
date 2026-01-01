@@ -2,7 +2,7 @@
 layout: post
 title: "Random Five For Friday"
 date: 2014-01-05
-categories: blog archive
+categories: archive
 ---
 
 It's been a while since I did a "random thought" post, so this seems like as good a chance as any.

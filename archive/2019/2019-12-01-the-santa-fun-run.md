@@ -2,7 +2,7 @@
 layout: post
 title: "The Santa Fun Run"
 date: 2019-12-01
-categories: blog archive
+categories: archive
 ---
 
 After getting up a little after 7 this morning, jumping in the shower, and having a shave, I pulled on a bright red Santa suit, and joined the rest of the family downstairs. I looked almost exactly like Santa for a couple of minutes - right up until I bent over to tie up my running shoes, and ripped the backside out of the trousers. My youngest daughter instantaneously exploded in laughter.

@@ -2,7 +2,7 @@
 layout: post
 title: "Toy Kitchens"
 date: 2008-02-26
-categories: blog archive
+categories: archive
 ---
 
 No apologies for the 1970s advert from YouTube above. Our younger kids have been given a play kitchen by our friends, and have spent all afternoon engrossed in pretend cooking and poisoning adventures.

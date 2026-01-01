@@ -2,7 +2,7 @@
 layout: post
 title: "Headless Robots"
 date: 2008-07-25
-categories: blog archive
+categories: archive
 ---
 
 You're wondering why this post is titled "Headless Robots". Wonder no more - head on over to "We The Robots" and identify with the message.

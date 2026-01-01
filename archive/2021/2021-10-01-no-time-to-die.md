@@ -2,7 +2,7 @@
 layout: post
 title: "No Time To Die"
 date: 2021-10-01
-categories: blog archive
+categories: archive
 ---
 
 After work this evening I headed out with my other half to the cinema - we saw the new James Bond movie - "No Time to Die".

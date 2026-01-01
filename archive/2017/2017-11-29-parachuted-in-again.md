@@ -2,7 +2,7 @@
 layout: post
 title: "Parachuted In Again"
 date: 2017-11-29
-categories: blog archive
+categories: archive
 ---
 
 I pulled somebody else's code to pieces today, in search of an oversight that a client is calling a bug. It took half the day to build a test environment, and half the day to understand how the code works. I was sorely tempted to start re-writing huge swathes of programming, but thought better of it. The original author hopefully returns tomorrow - I'll show him what I've done, and pick his brains about the re-write.

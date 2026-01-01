@@ -2,7 +2,7 @@
 layout: post
 title: "Day Ten Turning The Schedule Around"
 date: 2008-02-06
-categories: blog archive
+categories: archive
 ---
 
 We turned the children's schedule around today, and made life very much easier for ourselves.

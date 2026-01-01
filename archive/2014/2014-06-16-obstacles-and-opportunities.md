@@ -2,7 +2,7 @@
 layout: post
 title: "Obstacles And Opportunities"
 date: 2014-06-16
-categories: blog archive
+categories: archive
 ---
 
 It occurred to me this evening that the frustrations I often faceboth professionally, and personally, are really frustrations with those who see obstacles, rather than opportunities.

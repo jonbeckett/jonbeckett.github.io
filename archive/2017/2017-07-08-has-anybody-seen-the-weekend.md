@@ -2,7 +2,7 @@
 layout: post
 title: "Has Anybody Seen The Weekend "
 date: 2017-07-08
-categories: blog archive
+categories: archive
 ---
 
 What on earth happened to the weekend? It feels like I only walked out of work an hour ago. Of course that ignores the hours spent washing clothes, washing dishes, grocery shopping, tidying up endlessly, and all the other things that go on every weekend. It also ignores a visit to the local cricket ground this morning to see our youngest daughter receive a trophy from her coach to celebrate the end of another season - and my in-laws arriving this afternoon for roast dinner. Quite why we were eating roast dinner in perhaps the hottest, most humid day of the year is another question.

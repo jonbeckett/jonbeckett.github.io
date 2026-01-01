@@ -2,7 +2,7 @@
 layout: post
 title: "Emma Watson Hayden Panettiere And Gutter Media Culture"
 date: 2008-04-24
-categories: blog archive
+categories: archive
 ---
 
 Now and again, something happens in the media that makes me angry, and I can't keep my mouth shut about it. This is one of those times.

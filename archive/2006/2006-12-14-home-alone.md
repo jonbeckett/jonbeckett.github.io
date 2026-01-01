@@ -2,7 +2,7 @@
 layout: post
 title: "Home Alone"
 date: 2006-12-14
-categories: blog archive
+categories: archive
 ---
 
 Today finds me at home, with coffee, sandwiches, a big thick jumper (sweater for those of you in the US), and the laptop keeping me warm. The cat is keeping me company. Perhaps I'll read a book.

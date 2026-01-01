@@ -2,7 +2,7 @@
 layout: post
 title: "The Night Before"
 date: 2017-12-14
-categories: blog archive
+categories: archive
 ---
 
 Last night I was invited out to the local brewery, which holds "members nights" every so often - for paid members to visit (along with two guests per member), and try out the various beers the brewery produces. They host a live band, a barbecue, and a chance to meet up with friends you might not have seen for some time - hundreds of people from the surrounding area typically descend on the brewery for the evening.

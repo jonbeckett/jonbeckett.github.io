@@ -2,7 +2,7 @@
 layout: post
 title: "Let It Snow Let It Snow Let It Snow"
 date: 2012-02-10
-categories: blog archive
+categories: archive
 ---
 
 The snow began falling as I cycled home last night. Snowflakes are surprisingly painful when your angular momentums coincide at sufficient velocity (that probably makes no sense to a mathematician, but it sounds good).

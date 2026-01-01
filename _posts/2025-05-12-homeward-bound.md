@@ -3,7 +3,6 @@ layout: single
 title: "Homeward Bound"
 date: 2025-05-12
 categories:
-  - blog
   - "2025"
 ---
 

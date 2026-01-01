@@ -2,7 +2,7 @@
 layout: post
 title: "Infested With Viruses"
 date: 2015-12-11
-categories: blog archive
+categories: archive
 ---
 
 We have two desktop computers at homeone that we affectionately refer to as "Trigger's Broom", and the other that was given to us by my Dad when he became a Flight Simulator nut a few years ago (I gather his latest computer is some sort of liquid cooled superconducting mega beast from hell).

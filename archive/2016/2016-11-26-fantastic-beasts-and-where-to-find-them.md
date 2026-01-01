@@ -2,7 +2,7 @@
 layout: post
 title: "Fantastic Beasts And Where To Find Them"
 date: 2016-11-26
-categories: blog archive
+categories: archive
 ---
 
 I took the children to watch "Fantastic Beasts and Where to Find Them" this afternoon. While watching the movie (which was wonderful), my mind wandered back to the news stories from the Native American community during production. Joanne Rowling had released some bits and pieces about the history of magic in the United States according to the fictional world of her books - and an internet storm in a tea-cup ensued about representation, historical accuracy, and whatever-else.

@@ -2,7 +2,7 @@
 layout: post
 title: "Seduced By The Evil White Box"
 date: 2010-09-27
-categories: blog archive
+categories: archive
 ---
 
 It's 9:30pm. I've pushed two websites out the door this evening - freelance projects that I've been kicking around for the last week or so. The tiredness hit me in the last half an hour - the kind of tiredness where some invisible demon stacks increasingly heavy weights on your eyelids.

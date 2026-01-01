@@ -2,7 +2,7 @@
 layout: post
 title: "Too Many Screens"
 date: 2008-06-26
-categories: blog archive
+categories: archive
 ---
 
 How many screens on a desktop would you consider too many?

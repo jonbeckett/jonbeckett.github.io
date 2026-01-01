@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpected Staycation"
 date: 2020-09-23
-categories: blog archive
+categories: archive
 ---
 
 I woke up with a blocked nose and a headache this morning, looked out of the window at a world filled with rain, and decided that running can wait. Running isn't a thing that I do on particular days - just something I do a couple of times a week in order to do *something*.

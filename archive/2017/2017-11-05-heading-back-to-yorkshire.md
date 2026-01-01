@@ -2,7 +2,7 @@
 layout: post
 title: "Heading Back To Yorkshire"
 date: 2017-11-05
-categories: blog archive
+categories: archive
 ---
 
 My backpack and suitcase are packed, my personal phone, work phone, and tablet are charged, and I'm debating on polishing my walking boots, rather than wear shoes. I'm heading to Yorkshire, in the north of England with work for a few days.

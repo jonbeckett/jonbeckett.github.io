@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughtless Travellers Decorating And Adoption"
 date: 2007-06-28
-categories: blog archive
+categories: archive
 ---
 
 The train journey between Marlow and Bourne End (the first leg of my morning commute) lasts about 10 minutes. Because Marlow doesn't have a train station, a man walks through the carriage selling tickets. This is needed because if you get anywhere near London you invariably cannot leave a platform without showing a ticket - and if you don't have one you face a fine.

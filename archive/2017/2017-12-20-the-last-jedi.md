@@ -2,7 +2,7 @@
 layout: post
 title: "The Last Jedi"
 date: 2017-12-20
-categories: blog archive
+categories: archive
 ---
 
 I just got home from the cinema. I'm happy, sad, excited, weary, elated, and torn - all at the same time. So many emotions.

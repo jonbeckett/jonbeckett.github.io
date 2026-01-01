@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Universe Carried Me Along For The Ride"
 date: 2010-01-22
-categories: blog archive
+categories: archive
 ---
 
 If you're wondering what on earth is going on with my WordPress blog, you're not wondering in vain. I'm experimenting with the "P2? template from Automattic (the guys that make WordPress). The main thing about P2 is that all comments are visibleso (as a reader) you can see any conversation. P2 also appeals because it's stripped of anything that's (probably) not needed.

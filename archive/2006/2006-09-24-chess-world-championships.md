@@ -2,7 +2,7 @@
 layout: post
 title: "Chess World Championships"
 date: 2006-09-24
-categories: blog archive
+categories: archive
 ---
 
 Yes, I know... this post is a little "out of the ordinary" even for me. I love playing chess though, so I'm excusing myself from any finger pointing for quite the geekiest post I have probably ever written on this blog.

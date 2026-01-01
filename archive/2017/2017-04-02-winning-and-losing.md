@@ -2,7 +2,7 @@
 layout: post
 title: "Winning And Losing"
 date: 2017-04-02
-categories: blog archive
+categories: archive
 ---
 
 After arriving at work this morning and feeling pretty okabout life, the universe, and almost everything for the first time in ages, I opened my e-mail and discovered a cryptic issue recorded by a client about the leviathan I have been obsessing over the development for the last few months.

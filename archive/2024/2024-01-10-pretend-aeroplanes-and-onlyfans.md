@@ -2,7 +2,7 @@
 layout: post
 title: "Pretend Aeroplanes and OnlyFans"
 date: 2024-01-10
-categories: blog archive
+categories: archive
 ---
 
 Today's Bloganuary writing prompt challenges those taking part to "come up with a crazy business idea". 

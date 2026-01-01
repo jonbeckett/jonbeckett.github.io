@@ -2,7 +2,7 @@
 layout: post
 title: "Paying It Forward Blogs I Read First Five Of Many"
 date: 2010-06-27
-categories: blog archive
+categories: archive
 ---
 
 In the spirit of "paying it forward", I have listed below five of the blogs I regularly read. They are not listed in any particular order, and if you're suddenly thinking "where's my blog?" (in a suitably disgruntled tone), think not - I will repeat this post over the coming weeks with another five, and another five, and so-on until I have covered everybody.

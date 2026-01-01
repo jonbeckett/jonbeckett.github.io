@@ -2,7 +2,7 @@
 layout: post
 title: "Britney On The Edge"
 date: 2007-02-18
-categories: blog archive
+categories: archive
 ---
 
 While spending my Sunday evening catching up on the various news stories doing the rounds, I saw something quite sad. It would appear the media have finally tipped Britney Spears over the edge.

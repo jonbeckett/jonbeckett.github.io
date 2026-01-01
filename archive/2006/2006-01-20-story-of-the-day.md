@@ -2,7 +2,7 @@
 layout: post
 title: "Story Of The Day"
 date: 2006-01-20
-categories: blog archive
+categories: archive
 ---
 
 I have no work to be getting on with at the present moment, so thought it might be entertaining to while away a few minutes telling the story of my day so far.

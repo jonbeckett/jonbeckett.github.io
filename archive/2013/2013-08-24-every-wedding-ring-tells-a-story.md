@@ -2,7 +2,7 @@
 layout: post
 title: "Every Wedding Ring Tells A Story"
 date: 2013-08-24
-categories: blog archive
+categories: archive
 ---
 
 This is my wedding ring. I would like to say it was forged by goblin silversmiths in the fires of Mount Doom, but that wouldn't be entirely true. It was actually forged by a real-life goldsmith in Witney, Oxfordshire, about twelve years ago. When it was new, it had an almost mirror finishnow it has a kind of weary, worn patinaa bit like me reallyIt's the only jewellery I ever wear.

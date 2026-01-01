@@ -2,7 +2,7 @@
 layout: post
 title: "And The World Keeps Turning"
 date: 2009-04-01
-categories: blog archive
+categories: archive
 ---
 
 The last few days have been unrelenting.

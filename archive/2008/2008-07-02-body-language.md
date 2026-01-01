@@ -2,7 +2,7 @@
 layout: post
 title: "Body Language"
 date: 2008-07-02
-categories: blog archive
+categories: archive
 ---
 
 I sat opposite a young couple on the train this morning. She leaned against the window as one might if sat next to somebody invading your personal space. He leaned all over her, and just wouldn't leave her alonethat she had a nice figure, and her suit trousers fitted very well. Stop supressing snorts of laughter.

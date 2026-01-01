@@ -2,7 +2,7 @@
 layout: post
 title: "The Upside Down"
 date: 2024-10-14
-categories: blog archive
+categories: archive
 ---
 
 This week marks the first of my staycations -- a series of "use them or lose them" holidays resulting from a year where I carried on working while others escaped the rat race.

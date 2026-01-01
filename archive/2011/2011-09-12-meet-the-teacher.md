@@ -2,7 +2,7 @@
 layout: post
 title: "Meet The Teacher"
 date: 2011-09-12
-categories: blog archive
+categories: archive
 ---
 
 Late this afternoon at work the phone on my desk rang. I picked it up"Hi" (it was W)"Yeeeees""Umm I completely forgot it's Meet the Teacher at school this eveningcould you leave work a bit early and meet me down there?""I suppose so""What time?""In about half an hour?"I then closed my machine down, packed my bag, and trundled off across town to the junior schooloff to "Meet the Teacher(s)". After minding my own business in the playground for a few moments, a certain little seven year old came tearing round the corner shouting "Hi Dad!", and then continued eating the half a bag of crisps in her hand. You never see marathon runners do that.

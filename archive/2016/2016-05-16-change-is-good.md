@@ -2,7 +2,7 @@
 layout: post
 title: "Change Is Good"
 date: 2016-05-16
-categories: blog archive
+categories: archive
 ---
 
 I had all the intentions in the world of switching the name of this blog in readiness for the new WordPress ".blog" domains becoming available later this year. After sleeping on it, I'm wondering about just leaving it as-is.

@@ -2,7 +2,7 @@
 layout: post
 title: "Night Out With Friends"
 date: 2008-01-23
-categories: blog archive
+categories: archive
 ---
 
 To mark the start of our "farewell tour", we went out for dinner at W's favourite restaurant last night with our friends.

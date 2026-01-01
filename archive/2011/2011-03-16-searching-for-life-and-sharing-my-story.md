@@ -2,7 +2,7 @@
 layout: post
 title: "Searching For Life And Sharing My Story"
 date: 2011-03-16
-categories: blog archive
+categories: archive
 ---
 
 Last week I figuratively drew a chalk line across the road that told my story for seven years on the internet, and started from scratch.

@@ -2,7 +2,7 @@
 layout: post
 title: "The End Of Summer"
 date: 2006-08-17
-categories: blog archive
+categories: archive
 ---
 
 It's raining. The sky is grey, it's colder than it's been in days, and it really feels like summer is coming to an end today.

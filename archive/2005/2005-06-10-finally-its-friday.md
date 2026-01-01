@@ -2,7 +2,7 @@
 layout: post
 title: "Finally Its Friday"
 date: 2005-06-10
-categories: blog archive
+categories: archive
 ---
 
 It's finally friday and I am looking forward to the weekend.

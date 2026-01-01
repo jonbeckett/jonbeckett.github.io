@@ -2,7 +2,7 @@
 layout: post
 title: "Experimentation"
 date: 2020-10-16
-categories: blog archive
+categories: archive
 ---
 
 I think it was Fox Mulder that once said "nothing is ever really gone" - or words to that effect. Of course he was talking about the evidence of a crashed flying saucer. I'm talking about the vast swathe of words I used to pollute the internet with.

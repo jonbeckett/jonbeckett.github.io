@@ -2,7 +2,7 @@
 layout: post
 title: "the journey to the south west"
 date: 2023-03-24
-categories: blog archive
+categories: archive
 ---
 
 It's been a bit of a day.

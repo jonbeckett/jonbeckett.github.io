@@ -2,7 +2,7 @@
 layout: post
 title: "Weird Dream The One About God"
 date: 2007-01-13
-categories: blog archive
+categories: archive
 ---
 
 I had a really weird dream last night. This is what happens when you read "The God Delusion" before going to sleep.

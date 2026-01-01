@@ -2,7 +2,7 @@
 layout: post
 title: "Jubilee Friends Food Drink Fantastic"
 date: 2012-06-04
-categories: blog archive
+categories: archive
 ---
 
 There had been plans to celebrate the Queen's diamond jubilee on the green outside our housegathering friends and neighbours for a communal picnic in much the same manner as spontaneously happened when William and Katherine got married. The steady stream of rain yesterday morning pretty much ended that idea, and continued to end it throughout the day.

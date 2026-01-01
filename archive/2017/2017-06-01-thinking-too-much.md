@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Too Much"
 date: 2017-06-01
-categories: blog archive
+categories: archive
 ---
 
 I resurrected the WordPress blog yesterday - the one connected to my real name. I had been "taking a break" from it for a few weeks - deciding if I really wanted to continue posting this forgettable rubbish out to the internet any more, or if I would slide under the radar and be slowly forgotten by the two or three people that bother reading it.

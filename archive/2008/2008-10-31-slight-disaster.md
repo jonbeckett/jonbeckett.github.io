@@ -2,7 +2,7 @@
 layout: post
 title: "Slight Disaster"
 date: 2008-10-31
-categories: blog archive
+categories: archive
 ---
 
 Guess who was monkeying with his personal webspace at lunchtime and managed to wipe his blog from existence ?

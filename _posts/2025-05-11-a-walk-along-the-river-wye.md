@@ -3,7 +3,6 @@ layout: single
 title: "A walk along the river Wye"
 date: 2025-05-11
 categories:
-  - blog
   - "2025"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Advice From Swiss Tony"
 date: 2005-08-03
-categories: blog archive
+categories: archive
 ---
 
 People outside of the UK may not know who "Swiss Tony" is. He started out as a character on a comedy sketch show called the "Fast Show", and was so popular that he ended up with his own series.

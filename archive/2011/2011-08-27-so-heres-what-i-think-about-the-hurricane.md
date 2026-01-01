@@ -2,7 +2,7 @@
 layout: post
 title: "So Heres What I Think About The Hurricane"
 date: 2011-08-27
-categories: blog archive
+categories: archive
 ---
 
 I've been thinking about the hurricane, because I have a couple of friends who live along the coast that's being hit. While watching the initial reports of land-fall this morning, this occurred to me;If everybody who evacuated is safe, Obama will be blamed for advocating an evacuation that was not needed.

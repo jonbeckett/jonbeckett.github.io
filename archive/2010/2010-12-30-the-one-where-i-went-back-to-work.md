@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Went Back To Work"
 date: 2010-12-30
-categories: blog archive
+categories: archive
 ---
 
 It's the Thursday between Christmas and New Year, and I'm back in the office, with no specific project to work on - the age old tradition of being here "just in case".

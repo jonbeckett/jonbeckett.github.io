@@ -2,7 +2,7 @@
 layout: post
 title: "Remembering Marilyn"
 date: 2011-01-16
-categories: blog archive
+categories: archive
 ---
 
 While digging through some old emails earlier, I stumbled across this one; written to a blog that doesn't exist any more about 18 months ago (I think).

@@ -2,7 +2,7 @@
 layout: post
 title: "Painting The Wendy House"
 date: 2009-07-12
-categories: blog archive
+categories: archive
 ---
 
 A couple of weeks ago, some good friends offered us the W House at the foot of their garden. I nearly bit their hand off.

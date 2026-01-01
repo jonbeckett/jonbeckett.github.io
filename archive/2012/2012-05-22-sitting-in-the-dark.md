@@ -2,7 +2,7 @@
 layout: post
 title: "Sitting In The Dark"
 date: 2012-05-22
-categories: blog archive
+categories: archive
 ---
 
 A few moments ago, after wandering into the kitchen with the intention of making a cup of coffee, I filled the kettle with water, switched it on, and then found myself hanging from the door of the fridge, in search of nothing in particular.I left the kitchen a few moments later with a can of beer.

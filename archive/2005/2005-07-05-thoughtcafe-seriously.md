@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughtcafe Seriously"
 date: 2005-07-05
-categories: blog archive
+categories: archive
 ---
 
 Once upon a time I built a website for amateur writers to post their writing, and get feedback on it. The website became far too successful for it's own good, and in the end started to dominate mine and W's lives.

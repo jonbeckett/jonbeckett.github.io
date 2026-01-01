@@ -2,7 +2,7 @@
 layout: post
 title: "Growing More Distant From The Social Internet"
 date: 2014-05-26
-categories: blog archive
+categories: archive
 ---
 
 Over the past few weeks I have sensed an ever increasing gulf between myself and the "open social internet"by that, I mean the public posts on Facebook, Tumblr, Twitter, and so on.

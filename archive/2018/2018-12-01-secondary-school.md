@@ -2,7 +2,7 @@
 layout: post
 title: "Secondary School"
 date: 2018-12-01
-categories: blog archive
+categories: archive
 ---
 
 Another excerpt from this year's NaNoWriMo - Enjoy!

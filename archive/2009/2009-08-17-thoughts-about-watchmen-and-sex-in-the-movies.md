@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts About Watchmen And Sex In The Movies"
 date: 2009-08-17
-categories: blog archive
+categories: archive
 ---
 
 I finally got around to watching the "Watchmen" movie last night, after completely missing it at the cinema, and repeatedly picking the graphic novel up in book stores over the last few years, based purely on it's reputation as "something great that everybody should experience". It's probably worth mentioning that I'm not a great comic book fan, although I do like some of the more famous artists work - such as Jamie Hewlett, Alex Ross, and Adam Hughes. I've only bought a few comics in my entire life - a mixture of Tank Girl, and GEN-13.

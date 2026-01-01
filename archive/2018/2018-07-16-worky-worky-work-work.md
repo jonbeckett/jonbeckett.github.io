@@ -2,7 +2,7 @@
 layout: post
 title: "Worky Worky Work Work"
 date: 2018-07-16
-categories: blog archive
+categories: archive
 ---
 
 Apologies for the ridiculous title to this post. Or rather, no apologies what so ever. The last two days have been filled from top to bottom by work stuff. I thought it was going to be a slow, careful, methodical week, but no - instead it's been chaotic, and never ending.

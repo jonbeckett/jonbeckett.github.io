@@ -2,7 +2,7 @@
 layout: post
 title: "Achieved Today"
 date: 2011-01-09
-categories: blog archive
+categories: archive
 ---
 
 Installed Drupal on jonbeckett.com

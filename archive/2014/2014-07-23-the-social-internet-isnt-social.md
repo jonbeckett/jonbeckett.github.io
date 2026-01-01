@@ -2,7 +2,7 @@
 layout: post
 title: "The Social Internet Isnt Social"
 date: 2014-07-23
-categories: blog archive
+categories: archive
 ---
 
 I started writing a regular blog perhaps 12 years ago. Back when I started the only real option was to publish it yourselfeither as static HTML pages, or with one of the early Perl, or PHP scripts (I wrote one of the early ones, and unwittingly became internet famous for a short while). Over time hosted blogs slowly appearedprovided by the likes of Blogger, LiveJournal, Moveable Type, Vox, Yahoo 360, and WordPress (most of them came about because Linux, Apache, MySQL and PHP or Perl came to rule the internet, but that's another story for another day). Over time I hosted my inconsequential words at just about every platform out therebut putting your words out there wasn't the main reason for doing it; it was about being a part of something bigger than yourself.

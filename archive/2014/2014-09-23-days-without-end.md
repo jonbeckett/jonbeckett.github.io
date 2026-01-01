@@ -2,7 +2,7 @@
 layout: post
 title: "Days Without End"
 date: 2014-09-23
-categories: blog archive
+categories: archive
 ---
 
 Each day seems to be running into the next at the moment. While occasionally I have long train journey adventures to recount, or distant hotels to document life within, my present predicament more closely resembles a hamster wheel. I get up in the morning, make breakfasts and lunches, chase the children endlessly, trudge to work on the bike, head-butt the desk for seven hours or so, and then trudge home again to begin chasing the children, and washing up once more. I fall in front of the computer or the television as darkness falls, and before I know it the next day arrives, like some enormous ground-hog machine.

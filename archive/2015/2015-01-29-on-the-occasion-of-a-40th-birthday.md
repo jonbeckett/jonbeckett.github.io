@@ -2,7 +2,7 @@
 layout: post
 title: "On The Occasion Of A 40Th Birthday"
 date: 2015-01-29
-categories: blog archive
+categories: archive
 ---
 
 After work yesterday evening we broke all kinds of unwritten rules, and went out for a meal with friends at the pub -on a school night. Consequently this morning my head feels like somebody removed my brain and replaced it with cotton wool. I don't have a hangover - I just have this all pervading fog that seems to be preventing any kind of useful thought processes from going on.

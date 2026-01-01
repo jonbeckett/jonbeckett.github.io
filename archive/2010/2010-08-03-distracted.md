@@ -2,7 +2,7 @@
 layout: post
 title: "Distracted"
 date: 2010-08-03
-categories: blog archive
+categories: archive
 ---
 
 There are too many toys, and not enough time. With Twitter, Tumblr, Facebook, and Posterous competing for my down time, this personal blog has been sadly neglected. Time to write something insightful, adventurous, and thought provoking? Perhaps.

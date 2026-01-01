@@ -2,7 +2,7 @@
 layout: post
 title: "Short Post Is Short"
 date: 2014-11-08
-categories: blog archive
+categories: archive
 ---
 
 We are heading out to a friends for dinner in a few minutes. I'll probably be back before midnight, but just in case (and in order to keep up the NaBloPoMo thing), I'm posting these few words. A few words still counts, right?

@@ -2,7 +2,7 @@
 layout: post
 title: "The Prestige"
 date: 2007-04-27
-categories: blog archive
+categories: archive
 ---
 
 A few evenings ago, W and I sat down to watch a movie I bought several weeks ago - "The Prestige".

@@ -2,7 +2,7 @@
 layout: post
 title: "Nablopomo Beckons"
 date: 2006-10-24
-categories: blog archive
+categories: archive
 ---
 
 While scouting interesting blogs to read earlier this evening, I came across "NaBloPoMo" - National Blog Posting Month.

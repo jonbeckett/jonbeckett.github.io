@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where They Didnt Have Any Cheese"
 date: 2014-10-10
-categories: blog archive
+categories: archive
 ---
 
 Last week we got caught in the classic parent trap, where we ran out of arms, legs, and time. While I finished my work in the study (working from home that day), my other half was busy crashing around in the kitchen making dinner when I heard the fateful shout;"oh Poo!"I dropped what I was doing and wandered in to see what had happened."I'm making cauliflower cheese for dinner, everything else is ready, and I've just discovered we have no cheese!"Given that I couldn't get out of my work commitments (a distant office was waiting on the work I was doing), and the kids had to leave the house fairly promptly for Brownies after dinner, there was no option. We were going to have to send Miss 9 to the shop.

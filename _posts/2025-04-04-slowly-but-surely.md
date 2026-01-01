@@ -3,7 +3,6 @@ layout: single
 title: "Slowly But Surely"
 date: 2025-04-04
 categories:
-  - blog
   - "2025"
 ---
 

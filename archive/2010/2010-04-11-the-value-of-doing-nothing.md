@@ -2,7 +2,7 @@
 layout: post
 title: "The Value Of Doing Nothing"
 date: 2010-04-11
-categories: blog archive
+categories: archive
 ---
 
 "Doing nothing" is a misnomer, isn't it. There's no such thing as "doing nothing". Our hearts keep beating, our lungs keep inflating, and our nails keep growing.

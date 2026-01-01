@@ -2,7 +2,7 @@
 layout: post
 title: "I Want To Believe"
 date: 2015-09-03
-categories: blog archive
+categories: archive
 ---
 
 Anybody who watched the X-Files back in the day will remember this poster on Mulder's office wall. When I was a teenager I wanted to believe too. Then you get older, and increasingly cynical about anything and everything.

@@ -3,7 +3,6 @@ layout: single
 title: "Oats, Harbours, Mermaids and Glogg"
 date: 2025-12-08
 categories:
-  - blog
   - "2025"
 ---
 

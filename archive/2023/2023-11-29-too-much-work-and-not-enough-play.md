@@ -2,7 +2,7 @@
 layout: post
 title: "Too Much Work and Not Enough Play"
 date: 2023-11-29
-categories: blog archive
+categories: archive
 ---
 
 Here we are again.

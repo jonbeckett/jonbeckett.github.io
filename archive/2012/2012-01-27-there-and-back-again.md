@@ -2,7 +2,7 @@
 layout: post
 title: "There And Back Again"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 After being away with work so often recently, I have become first choice among our children for bedtime stories. I'm not sure how long this favoritism will last, but while it exists I get to choose the adventures we embark on at bedtime.

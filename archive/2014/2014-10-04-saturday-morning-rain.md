@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning Rain"
 date: 2014-10-04
-categories: blog archive
+categories: archive
 ---
 
 There is a mist fallingit was forecast, and is no doubt doing it's best to destroy our lofty plans to take the telescope out tonight to look at the moon with the children.

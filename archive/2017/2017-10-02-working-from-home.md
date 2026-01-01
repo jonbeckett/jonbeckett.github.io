@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2017-10-02
-categories: blog archive
+categories: archive
 ---
 
 I am working from home this week. I agreed it with myself yesterday after discovering my other half had booked a plumber to come and rip the upstairs bathroom out. While I got a fair amount done, the majority of the day was spent listening to a racist old man complain about foreigners.

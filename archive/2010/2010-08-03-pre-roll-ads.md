@@ -2,7 +2,7 @@
 layout: post
 title: "Pre Roll Ads"
 date: 2010-08-03
-categories: blog archive
+categories: archive
 ---
 
 Every time I see a video clip online that results in a pre-roll ad, I get no further than 2 or 3 seconds in before moving on.

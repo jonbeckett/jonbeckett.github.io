@@ -2,7 +2,7 @@
 layout: post
 title: "Thursday Thoughts"
 date: 2013-05-30
-categories: blog archive
+categories: archive
 ---
 
 After a week or so playing with Google+ comments, I'm disconnecting them from the personal blog. They make sense for the techie blog, but not for this.

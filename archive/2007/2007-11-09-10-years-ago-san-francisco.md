@@ -2,7 +2,7 @@
 layout: post
 title: "10 Years Ago San Francisco"
 date: 2007-11-09
-categories: blog archive
+categories: archive
 ---
 
 While looking through the attic for an old piece of computer hardware earlier, I came across a shoebox full of photographs - among them the long forgotten photos of a trip to San Francisco 10 years ago to help celebrate my cousin Charlotte's 21st birthday.

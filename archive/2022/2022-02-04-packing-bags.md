@@ -2,7 +2,7 @@
 layout: post
 title: "Packing Bags"
 date: 2022-02-04
-categories: blog archive
+categories: archive
 ---
 
 Tomorrow morning I leave for the coast. After a short walk to the local railway station I will board a succession of trains and buses that will (hopefully) deliver me to deepest, darkest cornwall by mid-afternoon.

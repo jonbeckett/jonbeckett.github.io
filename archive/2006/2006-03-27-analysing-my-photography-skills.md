@@ -2,7 +2,7 @@
 layout: post
 title: "Analysing My Photography Skills"
 date: 2006-03-27
-categories: blog archive
+categories: archive
 ---
 
 I just did a meme over at http://www.tickle.com [http://www.tickle.com/] and answered the question "What do your Photos Say About You?"

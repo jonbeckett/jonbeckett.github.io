@@ -2,7 +2,7 @@
 layout: post
 title: "Being A Teacher For Two Days"
 date: 2010-01-29
-categories: blog archive
+categories: archive
 ---
 
 For the past two days I have commuted towards the southern reaches of London to teach a group of business people how to use a technology product I happen to know more than most about. It has been my first experience of teaching a group, and somewhat unnerving. I am not a teacher.

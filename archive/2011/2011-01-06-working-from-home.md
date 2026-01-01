@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2011-01-06
-categories: blog archive
+categories: archive
 ---
 
 Today finds me sat in the study at home once more, on account of the offices at work undergoing something of a renovation. The office I would normally reside in is "out of bounds" until the builders and decorators have done their work.

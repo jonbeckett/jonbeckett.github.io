@@ -2,7 +2,7 @@
 layout: post
 title: "Tinkering"
 date: 2018-11-20
-categories: blog archive
+categories: archive
 ---
 
 I have spent the evening tinkering with the new "Twenty Nineteen" theme that's in sort-of-secret development at WordPress. It's not generally available yet, but the beta is if you know how to acquire and install such things. Once upon a time I built WordPress themes and plugins to make money on-the-side - so I have to sheepishly admit to knowing far more than I ever let on about such things.

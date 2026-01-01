@@ -2,7 +2,7 @@
 layout: post
 title: "Un Friending"
 date: 2013-07-04
-categories: blog archive
+categories: archive
 ---
 
 I wonder if the term "un-friending" is in the Oxford English Dictionary yet? Perhaps it should be, given that I felt compelled to un-friend somebody today. A "friend" I had followed on Facebook, and via RSS feeds for quite some time.

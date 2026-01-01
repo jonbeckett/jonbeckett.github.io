@@ -2,7 +2,7 @@
 layout: post
 title: "Intentionally Polluting The Twittersphere"
 date: 2014-11-19
-categories: blog archive
+categories: archive
 ---
 
 I've finally done something I should have done a very long time ago. I'm also writing a very long lead in to this post in the same way that people often annoy the crap out of me - prefacing the subject at hand with all manner of comments before letting you know what the hell I am going to say.

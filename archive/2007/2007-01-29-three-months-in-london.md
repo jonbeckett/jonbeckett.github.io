@@ -2,7 +2,7 @@
 layout: post
 title: "Three Months In London"
 date: 2007-01-29
-categories: blog archive
+categories: archive
 ---
 
 Before starting, I should probably explain the photograph. It's the statue of Peter Pan in Kensington Gardens, London. James Barrie, the author of Peter Pan lived in Kensington Gardens, and for some reason it came to mind when I thought "what photo of London could I use" when starting out on this blog post.

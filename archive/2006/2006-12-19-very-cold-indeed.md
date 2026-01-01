@@ -2,7 +2,7 @@
 layout: post
 title: "Very Cold Indeed"
 date: 2006-12-19
-categories: blog archive
+categories: archive
 ---
 
 (Photo is courtesy of lizvang on Flickr - I forgot the camera again)

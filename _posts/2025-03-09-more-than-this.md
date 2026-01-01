@@ -3,7 +3,6 @@ layout: single
 title: "More than this"
 date: 2025-03-09
 categories:
-  - blog
   - "2025"
 ---
 

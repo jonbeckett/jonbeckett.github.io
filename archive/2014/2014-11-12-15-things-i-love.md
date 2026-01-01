@@ -2,7 +2,7 @@
 layout: post
 title: "15 Things I Love"
 date: 2014-11-12
-categories: blog archive
+categories: archive
 ---
 
 Tagged by Lacey over at Tumblr. I have no idea how I'm going to come up with 15 things, but I'll have a go. These are in no particular order, just in case you wanted to waggle a finger at me. My Family -I guess this one is pretty obvious (except if you don't have a family yet). When you get home after a long day, and your children rush up to show you what they made at schoolyou can't beat that.

@@ -2,7 +2,7 @@
 layout: post
 title: "Rebuilding Miss Nineteen"
 date: 2024-05-05
-categories: blog archive
+categories: archive
 ---
 
 Note to self - grammar check blog posts before they go out into the world - then at least there might be a chance that entirely missing words will be picked up - probably caused by offloading unstructured thoughts in the dead of night.

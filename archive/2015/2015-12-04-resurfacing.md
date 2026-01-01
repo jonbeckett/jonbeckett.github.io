@@ -2,7 +2,7 @@
 layout: post
 title: "Resurfacing"
 date: 2015-12-04
-categories: blog archive
+categories: archive
 ---
 
 I'm back at work today. Back for the first time since leaving abruptly on Monday afternoon. It's been an interesting weekthe kind that the parenting instruction book doesn't have a chapter for (what's he talking about, "parenting instruction book" ?). Suffice to say we have at least one wheel back on our wagon today, and things are looking a little better. Apologies if I'm sounding very cryptic.

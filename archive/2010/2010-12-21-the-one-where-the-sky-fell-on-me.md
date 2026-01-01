@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Sky Fell On Me"
 date: 2010-12-21
-categories: blog archive
+categories: archive
 ---
 
 Yesterday evening I looked outside, saw the clear sky, knew I had to go to the local garage for milk and bread, so asked our eldest if she wanted to accompany me. She nodded.

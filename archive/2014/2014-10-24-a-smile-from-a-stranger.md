@@ -2,7 +2,7 @@
 layout: post
 title: "A Smile From A Stranger"
 date: 2014-10-24
-categories: blog archive
+categories: archive
 ---
 
 The office where I work is in the depths of a country estate - the building is "The Old Estate Office" - and my journey to work on the mountain bike takes me through perhaps a mile of winding, tree lined estate roads en-route to the office. Over the past few weeks I have occasionally passed a woman walking a dog along my route through the estate, but hadn't really taken any notice until recently when I noticed she has moved into one of the old cottages across the way from the office.

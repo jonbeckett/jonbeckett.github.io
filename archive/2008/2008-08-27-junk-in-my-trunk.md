@@ -2,7 +2,7 @@
 layout: post
 title: "Junk In My Trunk"
 date: 2008-08-27
-categories: blog archive
+categories: archive
 ---
 
 And low, I did massacre the theme of my personal blog, and pump it so full of sparkle that little girls swooned over it and wished they could help - with stickers on the monitor, and dressing up clothes to run back through the house shouting with glee.

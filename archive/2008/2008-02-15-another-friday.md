@@ -2,7 +2,7 @@
 layout: post
 title: "Another Friday"
 date: 2008-02-15
-categories: blog archive
+categories: archive
 ---
 
 It is 9:35am. I have already been up for nearly 4 hours. That's all I want to say about that.

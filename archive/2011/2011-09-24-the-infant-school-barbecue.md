@@ -2,7 +2,7 @@
 layout: post
 title: "The Infant School Barbecue"
 date: 2011-09-24
-categories: blog archive
+categories: archive
 ---
 
 Our Saturday began with the explosion of an alarm clock from our eldest's bedroom at 6:30am. She has been learning to tell the time properly, so had borrowed the bedside alarm clock. Apparently she now knows what the big button on top of the clock does.

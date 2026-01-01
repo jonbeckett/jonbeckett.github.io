@@ -2,7 +2,7 @@
 layout: post
 title: "Sitting In The Corner Rambling"
 date: 2018-12-12
-categories: blog archive
+categories: archive
 ---
 
 You might think that after publishing somewhere in the region of four and a half thousand posts over the last sixteen years that I would be able to just sit down in front of the computer, and start typing. And you would be wrong. Sometimes it's easy - sometimes I sit down, and the words fly from my fingers as easily as turning on a tap. And sometimes it's not so easy. I sit and stare at an empty text editor, wondering how to start - where to start - what to start writing about. It's odd though - once I've started writing, the rest tends to happen all on it's own.

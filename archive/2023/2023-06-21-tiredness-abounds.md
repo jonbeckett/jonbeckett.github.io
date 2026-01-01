@@ -2,7 +2,7 @@
 layout: post
 title: "Tiredness Abounds"
 date: 2023-06-21
-categories: blog archive
+categories: archive
 ---
 
 You find me sitting in the dark of the bedroom on my own again - with the Chromebook balanced on my lap, the windows wide open, and the sound of traffic in the far distance.

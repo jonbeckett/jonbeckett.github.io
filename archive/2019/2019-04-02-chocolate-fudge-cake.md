@@ -2,7 +2,7 @@
 layout: post
 title: "Chocolate Fudge Cake"
 date: 2019-04-02
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure why I dragged myself out of a very comfortable hotel bed at some unearthly hour this morning in order to make it to breakfast on the stroke of 7am. I will admit to being somewhat deflated after yesterday's idiocy when I discovered four people already sitting in the restaurant. I had quite gotten used to having the place to myself.

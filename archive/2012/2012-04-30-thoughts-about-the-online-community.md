@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts About The Online Community"
 date: 2012-04-30
-categories: blog archive
+categories: archive
 ---
 
 I'm betting there must be some kind of mathematical model that describes the clumping of users within blogging communities such as WordPress and Tumblr, and I bet it works in a similar way to the same phenomenon elsewhere in the natural world.

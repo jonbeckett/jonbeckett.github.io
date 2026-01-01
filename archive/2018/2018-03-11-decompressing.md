@@ -2,7 +2,7 @@
 layout: post
 title: "Decompressing"
 date: 2018-03-11
-categories: blog archive
+categories: archive
 ---
 
 I don't think "Monday from Hell" really covers it. Lets just say that when a teenager stops taking her anxiety medication, the wheels will eventually fall off both of your wagons, and you'll spend the hour before you go to work completely and utterly losing your shit with her, before cycling to work, feeling bad about how you reacted, then returning as soon as you could to work from home from the rest of the day.

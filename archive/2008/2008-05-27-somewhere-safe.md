@@ -2,7 +2,7 @@
 layout: post
 title: "Somewhere Safe"
 date: 2008-05-27
-categories: blog archive
+categories: archive
 ---
 
 While filling various sports bags with clothes in readiness to go camping this afternoon, we glanced from the upstairs window and spied a certain little cat who had discovered a new high place to sit from which to survey his domain and plan retribution against any who might dare to cross it's borders.

@@ -2,7 +2,7 @@
 layout: post
 title: "Midnight In Paris For Valentines"
 date: 2012-02-14
-categories: blog archive
+categories: archive
 ---
 
 This afternoon a good friend asked if I was doing anything special for Valentines. Her bemused reaction to my amusement required an explanation.

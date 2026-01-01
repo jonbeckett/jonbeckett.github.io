@@ -2,7 +2,7 @@
 layout: post
 title: "Adventures with Hugo"
 date: 2022-11-06
-categories: blog archive
+categories: archive
 ---
 
 Sunday morning is rapidly vanishing in a storm of washing up, clothes washing, tidying up, and avoiding block-printing mayhem in the lounge (our youngest daughter has something of a cottage industry going). It  s already half eleven. The washing machine is already on it  s third load - the kitchen looks like a laundromat because OF COURSE it  s raining.

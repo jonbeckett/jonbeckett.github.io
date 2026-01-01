@@ -2,7 +2,7 @@
 layout: post
 title: "Breaking The Streak"
 date: 2016-02-29
-categories: blog archive
+categories: archive
 ---
 
 It just occurred to me that I haven't written a blog post since Saturdaywhich breaks a streak where I posted every day for quite some time (I'm too lazy to actually go and look). Let's just settle on "I post too much crap to this blog".

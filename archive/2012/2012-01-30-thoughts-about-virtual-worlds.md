@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts About Virtual Worlds"
 date: 2012-01-30
-categories: blog archive
+categories: archive
 ---
 
 This evening I installed Second Life, and World of Warcraft - finally taking a look at the virtual worlds I have heard so much about over the last few years.

@@ -2,7 +2,7 @@
 layout: post
 title: "Home Again"
 date: 2009-12-03
-categories: blog archive
+categories: archive
 ---
 
 I'm finally home this evening after four days away with work. After ringing the doorbell, I heard excited shouts from two little girls who had been allowed to stay up late to see me. Our youngest ran back into the house on-sight shouting "Daddys home!", except of course there was nobody to hear her. Perhaps she was telling the house.

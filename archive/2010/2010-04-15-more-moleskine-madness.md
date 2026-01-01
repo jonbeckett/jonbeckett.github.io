@@ -2,7 +2,7 @@
 layout: post
 title: "More Moleskine Madness"
 date: 2010-04-15
-categories: blog archive
+categories: archive
 ---
 
 I lose count of the hours I spend scribbling while listening to things. My notepads at work invariably end up looking like the genius plans of a lunatic while sat on conference calls.

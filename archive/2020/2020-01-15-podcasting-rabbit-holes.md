@@ -2,7 +2,7 @@
 layout: post
 title: "Podcasting Rabbit Holes"
 date: 2020-01-15
-categories: blog archive
+categories: archive
 ---
 
 After taking our middle daughter out for her sixteenth birthday last night, we got home at about 10pm, and three hours later I somehow found myself in the depths of quite possibly the deepest rabbit hole yet.

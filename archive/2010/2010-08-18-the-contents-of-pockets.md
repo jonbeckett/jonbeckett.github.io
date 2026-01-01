@@ -2,7 +2,7 @@
 layout: post
 title: "The Contents Of Pockets"
 date: 2010-08-18
-categories: blog archive
+categories: archive
 ---
 
 While figuring out how much money I had to buy lunch with today (hopefully more than I managed to find yesterday - none), I delved into all the various pockets of the backpack that accompanies me to and from work each day.

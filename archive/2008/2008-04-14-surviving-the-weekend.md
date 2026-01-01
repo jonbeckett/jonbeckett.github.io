@@ -2,7 +2,7 @@
 layout: post
 title: "Surviving The Weekend"
 date: 2008-04-14
-categories: blog archive
+categories: archive
 ---
 
 Our youngest was 3 years old yesterday.

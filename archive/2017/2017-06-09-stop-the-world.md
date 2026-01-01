@@ -2,7 +2,7 @@
 layout: post
 title: "Stop The World"
 date: 2017-06-09
-categories: blog archive
+categories: archive
 ---
 
 Do you ever have days when you wish the world would just slow down for a bit and give you a break ?

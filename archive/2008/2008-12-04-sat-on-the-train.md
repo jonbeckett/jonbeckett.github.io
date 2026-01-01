@@ -2,7 +2,7 @@
 layout: post
 title: "Sat On The Train"
 date: 2008-12-04
-categories: blog archive
+categories: archive
 ---
 
 I'm heading home from work early today in order for my other half to become "Brown Owl" once again.

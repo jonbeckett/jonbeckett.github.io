@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Ends"
 date: 2009-01-11
-categories: blog archive
+categories: archive
 ---
 
 It's the end of Sunday evening, and I'm sat here wondering what to do with myself for the remaining hour or so of the weekend before I crash into bed. I would be chilling out with the Nintendo DS, but my other half has taken it over for the last few evenings (even though she has one too). I'm guessing when her R4 cartridge arrives, I'll get the DS back.

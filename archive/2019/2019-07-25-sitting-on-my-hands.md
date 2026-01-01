@@ -2,7 +2,7 @@
 layout: post
 title: "Sitting On My Hands"
 date: 2019-07-25
-categories: blog archive
+categories: archive
 ---
 
 After drinking several beers last night and announcing a half hearted withdrawal from the internet at large, I've decided today that I might have been a little bit rash. Don't get me wrong - I still believe a lot of what I wrote was true - especially the rant about consumers being lazy, and the algorithmic timeline being their own fault.

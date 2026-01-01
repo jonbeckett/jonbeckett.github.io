@@ -2,7 +2,7 @@
 layout: post
 title: "Behind The Magic Mugshot Curtain"
 date: 2014-12-05
-categories: blog archive
+categories: archive
 ---
 
 I took a photo for the "Freyeday" meme on Tumblr this afternoon, and it got an instant reaction from a few friends. I knew it was going to get an instant reaction, because I've kind of figured out how to hack even the cheapest mobile phone cameras to get half-decent results from them.

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Rescued A Dog And Won A Bottle Of Wine"
 date: 2011-11-29
-categories: blog archive
+categories: archive
 ---
 
 While cycling along the entrance road to the estate where our offices are this morning, I came upon a golden retriever wandering along on it's own. For a few seconds I contemplated carrying on, but by the time I finished thinking about that I had already rolled to a stop, and was getting off the bike.

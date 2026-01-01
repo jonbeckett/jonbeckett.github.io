@@ -3,7 +3,6 @@ layout: single
 title: "Round in Circles"
 date: 2025-10-19
 categories:
-  - blog
   - "2025"
 ---
 

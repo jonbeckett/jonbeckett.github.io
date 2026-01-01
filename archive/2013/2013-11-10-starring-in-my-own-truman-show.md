@@ -2,7 +2,7 @@
 layout: post
 title: "Starring In My Own Truman Show"
 date: 2013-11-10
-categories: blog archive
+categories: archive
 ---
 
 While running errands this morning, and attempting to make my way to rugby with the children, I started to suspect a number of camera crews were hidden on each road junction, and an army of extras scheduled to interact with me as I made my way from place to place.

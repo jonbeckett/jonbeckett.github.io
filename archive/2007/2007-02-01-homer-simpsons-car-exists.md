@@ -2,7 +2,7 @@
 layout: post
 title: "Homer Simpsons Car Exists"
 date: 2007-02-01
-categories: blog archive
+categories: archive
 ---
 
 Am I the only person in the world who can see the similarity between these two cars?

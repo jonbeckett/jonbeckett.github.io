@@ -2,7 +2,7 @@
 layout: post
 title: "Brain Dump"
 date: 2006-02-07
-categories: blog archive
+categories: archive
 ---
 
 It seems like days since I last posted a "proper" entry into my blog, so here is one. I'm not sure quite what I'm going to write about at this point, so we'll just see where it takes us.

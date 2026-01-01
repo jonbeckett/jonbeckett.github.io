@@ -2,7 +2,7 @@
 layout: post
 title: "Mad Weekend"
 date: 2016-04-17
-categories: blog archive
+categories: archive
 ---
 
 Last night we attended the "Spring Fling" social gathering at the local junior school. I don't think we drankthat much, but we both felt the after-effects this morning. I sat with the children in the lounge watching a movie at breakfast time this morning, and fell fast asleep again.

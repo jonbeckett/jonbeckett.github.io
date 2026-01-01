@@ -2,7 +2,7 @@
 layout: post
 title: "Nintendo Wii"
 date: 2006-04-30
-categories: blog archive
+categories: archive
 ---
 
 No - the title of this post is not a typo. Nintendo have released the name of their new baby that will compete with the might of the X-Box 360, and the Playstation 3. "Wii". It means "we", and gives a hint of the direction Nintendo are coming from.

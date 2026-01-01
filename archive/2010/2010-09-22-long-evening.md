@@ -2,7 +2,7 @@
 layout: post
 title: "Long Evening"
 date: 2010-09-22
-categories: blog archive
+categories: archive
 ---
 
 It's been a long evening;

@@ -2,7 +2,7 @@
 layout: post
 title: "Manhattan"
 date: 2016-03-21
-categories: blog archive
+categories: archive
 ---
 
 I've been sittingat the ramshackle desk in the room we laughingly call "the study" for the last half hour, doing everythingexcept write a blog post. It's not that I don't have anything to writemore that I don't have much to share.

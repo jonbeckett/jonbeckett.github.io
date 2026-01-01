@@ -2,7 +2,7 @@
 layout: post
 title: "Blackbird"
 date: 2023-03-12
-categories: blog archive
+categories: archive
 ---
 
 The clock just ticked past 9am on Sunday morning, and I 'm sitting in the  "study" (junk room) admiring my own handiwork. There have always been two desks in here - one never used - or rather, just another flat surface upon which anything might be left (you know - like the kitchen worktops, the coffee table in the lounge, the side of each and every stair tread, every window, and so on.

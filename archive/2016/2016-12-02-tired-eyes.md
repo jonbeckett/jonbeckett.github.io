@@ -2,7 +2,7 @@
 layout: post
 title: "Tired Eyes"
 date: 2016-12-02
-categories: blog archive
+categories: archive
 ---
 
 I didn't really sleep the night before last - my other half kept waking up with a cough. I remember looking at the clock at 4am, and wondering if I could survive on three hours sleep. Somehow I did, but something entirely unexpected happened.

@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Evening Out"
 date: 2014-12-22
-categories: blog archive
+categories: archive
 ---
 
 My other half announced this morning that we were heading out into town tonight as a familya Christmas surprise from her to all of us. We were allowed to know that it would start at a pub in town for a meal, so we had to have a wash, change our clothes, and at least look presentable (because of course we slob around in worn jeans and t-shirts at home, like everybody else does).

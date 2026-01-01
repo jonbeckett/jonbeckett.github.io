@@ -2,7 +2,7 @@
 layout: post
 title: "Happy 4Th July"
 date: 2008-07-04
-categories: blog archive
+categories: archive
 ---
 
 To all of my friends and family in the United States of America, happy 4th July - "Independence Day".

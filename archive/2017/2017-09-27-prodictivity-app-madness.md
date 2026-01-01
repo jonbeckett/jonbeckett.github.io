@@ -2,7 +2,7 @@
 layout: post
 title: "Prodictivity App Madness"
 date: 2017-09-27
-categories: blog archive
+categories: archive
 ---
 
 After yesterday's carpet-bombing of the various social platforms on the internet, I thought I might move on to ripping productivity apps a new one today. It's no secret that I'm a bit of a luddite when it comes to task lists, and notes - I've carried a Filofax round with me for at least the last decade, emptied my head into numerous Moleskine notebooks, and have recently been indoctrinated into the Bullet Journal religion.

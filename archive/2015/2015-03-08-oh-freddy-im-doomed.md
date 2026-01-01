@@ -2,7 +2,7 @@
 layout: post
 title: "Oh Freddy Im Doomed"
 date: 2015-03-08
-categories: blog archive
+categories: archive
 ---
 
 Today started well. The children were up first, and after a quick shower, were discovered watching cartoons in the living room. A thirty minute warning was issued for "leaving the house for Rugby", met by incredulous stares from Miss 11.

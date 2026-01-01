@@ -2,7 +2,7 @@
 layout: post
 title: "Sitting on my hands"
 date: 2022-12-10
-categories: blog archive
+categories: archive
 ---
 
 Over the last few years I've walked away from one blogging platform after another - leaving Wordpress, Medium, Tumblr, and Blogger along the way.

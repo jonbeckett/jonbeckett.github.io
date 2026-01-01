@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 7 Not A Re Write At All"
 date: 2008-11-11
-categories: blog archive
+categories: archive
 ---
 
 And I quote from InfoWorld, who have been picking apart the beta of Windows 7...

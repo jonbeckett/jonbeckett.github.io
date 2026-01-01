@@ -2,7 +2,7 @@
 layout: post
 title: "Magnetic Fridge Poetry"
 date: 2007-02-10
-categories: blog archive
+categories: archive
 ---
 
 A couple of years ago we were given a set of magnetic words to go on the fridge - with the theme of those words being "poetry". Although our fridge is hidden away in a cupboard, we do have a metal-fronted gas boiler in the corner of our kitchen, and the sea of words has lived on it's cover ever since.

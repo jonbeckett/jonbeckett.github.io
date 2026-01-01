@@ -3,7 +3,6 @@ layout: single
 title: "The Journey West"
 date: 2025-10-25
 categories:
-  - blog
   - "2025"
 ---
 

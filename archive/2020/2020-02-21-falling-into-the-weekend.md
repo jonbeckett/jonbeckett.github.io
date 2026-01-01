@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Into The Weekend"
 date: 2020-02-21
-categories: blog archive
+categories: archive
 ---
 
 I'm going to write a novel, where there is a department that gives out certificates for grown-ups who have succeeded in adulting for an entire week. I'm thinking there could be different levels of certificate too - from outstanding and consistent sensibleness, through "not being found out", to some sort of "at least you turned up" trophy.

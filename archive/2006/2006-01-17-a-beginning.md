@@ -2,7 +2,7 @@
 layout: post
 title: "A Beginning"
 date: 2006-01-17
-categories: blog archive
+categories: archive
 ---
 
 All blogs have to start somewhere, and this is the start of this one.

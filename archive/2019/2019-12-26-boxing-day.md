@@ -2,7 +2,7 @@
 layout: post
 title: "Boxing Day"
 date: 2019-12-26
-categories: blog archive
+categories: archive
 ---
 
 The children woke up on Christmas morning a little after 7am. After past performances, we considered this somewhat of a let-off. I got up with them, and wandered downstairs to make a coffee and wake myself up ahead of the mayhem to come. Within half an hour everybody else had gathered in the lounge for the annual mayhem.

@@ -2,7 +2,7 @@
 layout: post
 title: "Peace and Quiet"
 date: 2023-07-01
-categories: blog archive
+categories: archive
 ---
 
 It's early on Saturday afternoon, and the house is curiously quiet. Everybody else left a few minutes ago - heading out to watch England Ladies play against Portugal in their last "friendly" football game before the World Cup starts in a few weeks time.

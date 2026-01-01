@@ -2,7 +2,7 @@
 layout: post
 title: "The Force Awakens Again"
 date: 2016-01-03
-categories: blog archive
+categories: archive
 ---
 
 This evening we took the children, and my mother in law, to see "Star Wars : The Force Awakens" for a second time. This post is going to have spoilers. I'm also going to nerd out. Just warning you.

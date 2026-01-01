@@ -2,7 +2,7 @@
 layout: post
 title: "Another Place"
 date: 2006-11-16
-categories: blog archive
+categories: archive
 ---
 
 The morning started with a stealthy departure from the house at 6:55 - the reason for said stealth being the avoidance of waking W. We are trying to enjoy "not getting up until we need to" in this ever decreasing period before children inhabit the house.

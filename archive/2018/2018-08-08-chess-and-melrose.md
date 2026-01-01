@@ -2,7 +2,7 @@
 layout: post
 title: "Chess And Melrose"
 date: 2018-08-08
-categories: blog archive
+categories: archive
 ---
 
 Welcome to the junk room. I'm one can of cider down, and have just closed the web browser in order to remove distractions. It's just me, Scrivener, and the light from an angle-poise lamp standing guard on the corner of the desk.

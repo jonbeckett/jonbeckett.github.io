@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "2010 Archive"
 permalink: /archive/2010/
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Morning Run"
 date: 2020-09-21
-categories: blog archive
+categories: archive
 ---
 
 The alarm clock went off at 6:45am, and a vague memory re-appeared in my head - something about waking up Miss 16, who had promised to go running with Miss 19. My eldest had found me late last night with just the sort of impossible request she's become famous for:

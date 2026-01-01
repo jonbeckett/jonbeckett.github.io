@@ -2,7 +2,7 @@
 layout: post
 title: "A Slippery Slope"
 date: 2023-01-29
-categories: blog archive
+categories: archive
 ---
 
 I have just installed the free trial of Scrivener. I'm using it to write this. I don't know how long I'm allowed to use it for before I have to pay for it. Let's hope something new and shiny comes along to distract me before the trial period ends.

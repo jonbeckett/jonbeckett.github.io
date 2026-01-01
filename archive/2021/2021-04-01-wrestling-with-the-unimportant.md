@@ -2,7 +2,7 @@
 layout: post
 title: "Wrestling With The Unimportant"
 date: 2021-04-01
-categories: blog archive
+categories: archive
 ---
 
 wp:image {"id":2107009292,"sizeSlug":"large","linkDestination":"none"}  ![](https://jonathanwrotethis.files.wordpress.com/2021/04/pexels-jessica-lewis-606543.jpg?w=1024)  /wp:image  After Wordpress decided to change the way they monkey with text, I'm scampering back to Substack, and thinking "sod you then", while pointing a rolled up newspaper in the general direction of Automattic. It's not the biggest annoyance in the world, but it's annoying all the same. And that's why you're seeing this post as an excerpt, instead of the whole thing. You'll have to click the little link at the bottom to go read the rest of it.

@@ -2,7 +2,7 @@
 layout: post
 title: "Coming Home And Building A Wall Of Words"
 date: 2011-08-23
-categories: blog archive
+categories: archive
 ---
 
 That's what it feels likebeing back on my own domain name, on my own hosted installation of WordPress.

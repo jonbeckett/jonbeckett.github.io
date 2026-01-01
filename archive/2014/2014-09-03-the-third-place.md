@@ -2,7 +2,7 @@
 layout: post
 title: "The Third Place"
 date: 2014-09-03
-categories: blog archive
+categories: archive
 ---
 
 I created a "kind of professional" blog to go alongside this one, which kind of results in having three blogs now (this, Tumblr, and the new one). Yes, I am madbut there is some kind of reasoning behind it all. I empty my head hereit's not always that interestingit's not always about the "wider world" that might be of interest to others. I use Tumblr as a scrap bookfilled with random photos, and sometimes links to what I have written here. The "third place" is really just the stuff I've written that I'm moderately proud of, and that others might actually be interested in reading (who am I kidding).

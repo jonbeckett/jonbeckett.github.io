@@ -2,7 +2,7 @@
 layout: post
 title: "Birthdays And Lego Kits"
 date: 2020-03-22
-categories: blog archive
+categories: archive
 ---
 
 It was both Mother's Day, and my other half's birthday today. After a panicked walk into town yesterday morning, I managed to buy a LEGO kit. This might sound like a terrible idea for a present, but my other half loves building LEGO kits - in recent years she has built the Millenium Falcon, and Poe Dameron's X-Wing. I managed to get her the cafe from the TV show "Friends" - she's been posting photos to Facebook of the kit under construction all evening. She was a HUGE Friends fan back in the day.

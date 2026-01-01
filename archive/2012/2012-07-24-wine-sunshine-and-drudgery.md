@@ -2,7 +2,7 @@
 layout: post
 title: "Wine Sunshine And Drudgery"
 date: 2012-07-24
-categories: blog archive
+categories: archive
 ---
 
 While dissolving into a puddle of sweat in the office yesterday (computers don't make for good refrigeration devices), I texted my better half;

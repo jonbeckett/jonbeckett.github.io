@@ -2,7 +2,7 @@
 layout: post
 title: "Apparently We Have A New Car"
 date: 2009-02-10
-categories: blog archive
+categories: archive
 ---
 
 I called home earlier today, knowing that W went looking at replacement cars.

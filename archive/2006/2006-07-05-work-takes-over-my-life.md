@@ -2,7 +2,7 @@
 layout: post
 title: "Work Takes Over My Life"
 date: 2006-07-05
-categories: blog archive
+categories: archive
 ---
 
 Unfortunately blog posts may be very scarce on the ground over the next few weeks - I am working on a project at work that has had all overtime approved in order to meet a deadline.

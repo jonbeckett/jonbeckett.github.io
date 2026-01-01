@@ -2,7 +2,7 @@
 layout: post
 title: "A Weekend In Photos"
 date: 2007-10-21
-categories: blog archive
+categories: archive
 ---
 
 For one reason or another I have had no time to write a blog over the last few days. A mixture of apathy, real life getting in the way, and fun stuff (such as going to see Ratatoille) conspired to keep me away from the keyboard.

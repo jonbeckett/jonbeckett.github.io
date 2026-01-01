@@ -2,7 +2,7 @@
 layout: post
 title: "Beaverton Oregon Has A Secret"
 date: 2006-08-21
-categories: blog archive
+categories: archive
 ---
 
 In a world filled with people working their nine to five jobs like orwellian automatons, we all sometimes wish that we had pursued a dream, an interest or a talent, and perhaps found an escape from the prison that so many modern lives can become.

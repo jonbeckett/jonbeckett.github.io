@@ -2,7 +2,7 @@
 layout: post
 title: "The First Of Three Days"
 date: 2017-10-23
-categories: blog archive
+categories: archive
 ---
 
 I have three days off work, starting today. I didn't even wake up until 8:30am. How does that work? Usually I'm awake and up at 7am. Maybe I need to add one of those life tracking bar-graphs to my bullet journal, to record the time I get up and go to bed. I tried it for a little while when I first had the bullet journal, but dismissed it as a bit ridiculous - you end up informing your actions each day based on the knowledge that you are recording them (scientists would call it the "Heisenberg Uncertainty Principle") - which is kind of self defeating.

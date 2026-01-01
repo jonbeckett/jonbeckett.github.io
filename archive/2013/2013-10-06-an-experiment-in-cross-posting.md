@@ -2,7 +2,7 @@
 layout: post
 title: "An Experiment In Cross Posting"
 date: 2013-10-06
-categories: blog archive
+categories: archive
 ---
 
 For the next few weeks I am going to cross post to WordPress, Blogger, Tumblr and LiveJournal. I'm not going to do any clever analysis of the platforms, but I am going to take notice of something far more difficult to describe or explainhow much I like each place as a destination for my writing.

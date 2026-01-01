@@ -2,7 +2,7 @@
 layout: post
 title: "Like an exhale"
 date: 2024-08-20
-categories: blog archive
+categories: archive
 ---
 
 Tuesday became Wednesday ten minutes ago - while brushing my teeth alongside my daughter in the downstairs bathroom. We have a weird synchronicity - we often meet at midnight with a toothbrush. We know how to live, obviously.

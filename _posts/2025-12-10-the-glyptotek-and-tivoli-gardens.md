@@ -3,7 +3,6 @@ layout: single
 title: "The Glyptotek and Tivoli Gardens"
 date: 2025-12-10
 categories:
-  - blog
   - "2025"
 ---
 

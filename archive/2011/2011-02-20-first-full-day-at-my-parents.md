@@ -2,7 +2,7 @@
 layout: post
 title: "First Full Day At My Parents"
 date: 2011-02-20
-categories: blog archive
+categories: archive
 ---
 
 We are in the south west of England for a few days (we travel home Tuesday night) visiting my parents. The plan wasto do nothing for a few days. That will be why I went for a really hard run this morning.

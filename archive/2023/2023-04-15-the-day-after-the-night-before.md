@@ -2,7 +2,7 @@
 layout: post
 title: "the day after the night before"
 date: 2023-04-15
-categories: blog archive
+categories: archive
 ---
 
 Itas always interesting - the day after a party - piecing together the memories of the night before. The laughter, the stories, the friends, the music, and the many moments that stay with us.

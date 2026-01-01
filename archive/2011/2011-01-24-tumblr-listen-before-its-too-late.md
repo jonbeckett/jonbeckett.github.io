@@ -2,7 +2,7 @@
 layout: post
 title: "Tumblr Listen Before Its Too Late"
 date: 2011-01-24
-categories: blog archive
+categories: archive
 ---
 
 The web startups on the west coast you seem to like comparing yourself with are significantly different in one regard.They care about what they are doing, and they therefore care about the service they provide to their users.

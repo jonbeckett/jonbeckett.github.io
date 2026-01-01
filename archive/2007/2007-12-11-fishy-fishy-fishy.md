@@ -2,7 +2,7 @@
 layout: post
 title: "Fishy Fishy Fishy"
 date: 2007-12-11
-categories: blog archive
+categories: archive
 ---
 
 I promised to post some photos of our fish, and here they are...

@@ -2,7 +2,7 @@
 layout: post
 title: "Losing My Voice"
 date: 2007-07-01
-categories: blog archive
+categories: archive
 ---
 
 Over the last few days I have struggled to find things to write about - to find my voice.

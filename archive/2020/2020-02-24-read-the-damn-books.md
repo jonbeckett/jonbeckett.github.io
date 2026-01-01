@@ -2,7 +2,7 @@
 layout: post
 title: "Read The Damn Books"
 date: 2020-02-24
-categories: blog archive
+categories: archive
 ---
 
 Given all the news stories being circulated today about Katherine Johnson - one of the women portrayed in the recent movie 'Hidden Figures', I have been wrestling to stop myself writing an enormous rant against the movie industry, and the willingness of the general public to accept the version of stories told in movies as any sort of 'truth'.

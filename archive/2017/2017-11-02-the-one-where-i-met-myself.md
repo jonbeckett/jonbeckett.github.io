@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Met Myself"
 date: 2017-11-02
-categories: blog archive
+categories: archive
 ---
 
 While getting on with my work this morning - yes, it happens sometimes - I noticed a raft of emails arriving in Google Mail, and curiosity got the better of me. This is why I rarely get anything done if there is any chance of procrastination available to me.

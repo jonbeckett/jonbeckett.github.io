@@ -2,7 +2,7 @@
 layout: post
 title: "Moleskines Filofaxes And Pencil Cases"
 date: 2016-12-11
-categories: blog archive
+categories: archive
 ---
 
 While wandering around the stationers in town with our eldest daughter this morning, helping her choose Christmas presents for relatives, I spotted the rack of re-fills for Filofax personal organisers, and remembered that the diary would be running out on mine in the coming days.

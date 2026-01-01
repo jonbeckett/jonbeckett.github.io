@@ -2,7 +2,7 @@
 layout: post
 title: "Graduation"
 date: 2019-11-26
-categories: blog archive
+categories: archive
 ---
 
 I finished the "Couch to 5K" running journey tonight. Apparently running 5 kilometres without walking at all is "graduating".

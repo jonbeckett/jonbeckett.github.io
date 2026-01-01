@@ -2,7 +2,7 @@
 layout: post
 title: "Little To Report"
 date: 2019-10-08
-categories: blog archive
+categories: archive
 ---
 
 I have never let the absence of anything interesting or exciting going on in my life stop me from writing at length about it, and I'm not about to start now. Or maybe I am, because I have no clue what I might write about - just a nagging feeling that I should write something, because that's what I do.

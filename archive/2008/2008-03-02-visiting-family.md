@@ -2,7 +2,7 @@
 layout: post
 title: "Visiting Family"
 date: 2008-03-02
-categories: blog archive
+categories: archive
 ---
 
 Today was the girls first visit to W's parents house. I'm pleased to say it went really well, and I don't think we wrecked the place too much.

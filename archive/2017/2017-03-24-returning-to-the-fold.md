@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To The Fold"
 date: 2017-03-24
-categories: blog archive
+categories: archive
 ---
 
 If you were wondering where I have been for the last month or so, I went on something of a blogging adventure, writing under an assumed name at Blogger. I thought it might be interesting to write under a cloak of anonymity - that it might provide a level of freedom to speak my mind - but the reality was that I became paranoid of being "found out", so never wrote anything even remotely controversial.

@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning 8Am"
 date: 2013-09-07
-categories: blog archive
+categories: archive
 ---
 
 The weekend is here, and the entire family seems to be exhaling, and relaxing into it. The children have only been back at school for a few days, but lurching the house back towards the term-time routine has been a shock to it's system.

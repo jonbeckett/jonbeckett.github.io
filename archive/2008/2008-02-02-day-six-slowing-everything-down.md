@@ -2,7 +2,7 @@
 layout: post
 title: "Day Six Slowing Everything Down"
 date: 2008-02-02
-categories: blog archive
+categories: archive
 ---
 
 After perhaps the most difficult day yesterday we were determined to take a step back today and slow everything down.

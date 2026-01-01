@@ -2,7 +2,7 @@
 layout: post
 title: "Some Numbers"
 date: 2010-03-18
-categories: blog archive
+categories: archive
 ---
 
 For those with an anally retentive statistics streak, here are some numbers fresh out of Google Analytics, charting the return of "Cheese and Beans" on 25th January 2010. I have no idea what the significance of any of these numbers means - I'm just the messenger (and the author, the baker, the candlestick maker...)

@@ -2,7 +2,7 @@
 layout: post
 title: "Long Time No Blog"
 date: 2004-12-02
-categories: blog archive
+categories: archive
 ---
 
 This blog has been sadly lacking new entries just recently, so this is the start of an attempt to put that right.

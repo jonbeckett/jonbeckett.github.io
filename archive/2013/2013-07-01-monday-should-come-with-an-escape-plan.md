@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Should Come With An Escape Plan"
 date: 2013-07-01
-categories: blog archive
+categories: archive
 ---
 
 At about 6am this morning the sun was shining outside, the sky was blue, and that appeared to be all the encouragement the chickens needed to tell the entire neighbourhood they wanted out of the chicken run.Of course, rather than quietly wait for me to wander outside, they started squawking as loud as they could. I'm sure our next door neighbours smiled as they saw me stomp up the garden in a t-shirt, underwear and wellies to shut the damn things up.

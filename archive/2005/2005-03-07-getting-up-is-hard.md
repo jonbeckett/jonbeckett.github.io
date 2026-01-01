@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Up Is Hard"
 date: 2005-03-07
-categories: blog archive
+categories: archive
 ---
 
 Why is getting out of bed on Monday mornings so damn difficult?

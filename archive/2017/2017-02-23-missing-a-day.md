@@ -2,7 +2,7 @@
 layout: post
 title: "Missing A Day"
 date: 2017-02-23
-categories: blog archive
+categories: archive
 ---
 
 Well of course I didn't "miss a day". I didn't lose a day. Thursday happened. I just didn't post anything yesterday - mainly because if you're a software developer, now and again you actually have to do some software developing (who knew?), and that generally entails sitting in front of a computer for many hours consecutively, secretly wishing you had taken up an alternative career.

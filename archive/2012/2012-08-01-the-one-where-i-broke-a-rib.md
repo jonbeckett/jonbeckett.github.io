@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Broke A Rib"
 date: 2012-08-01
-categories: blog archive
+categories: archive
 ---
 
 I haven't really written about this in any great depth - although I have mentioned it. Given that I've been off work today, and have an appointment at the Doctor's first thing tomorrow, I thought it might be worth telling the tale.

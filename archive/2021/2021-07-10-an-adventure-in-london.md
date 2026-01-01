@@ -2,7 +2,7 @@
 layout: post
 title: "An Adventure In London"
 date: 2021-07-10
-categories: blog archive
+categories: archive
 ---
 
 The alarm clock filled the bedroom with one of the national radio stations at 7am this morning. I listened for a few minutes before my other half rolled over and murmured "are getting up then?". A few moments later the bedroom door creaked open, and my sixteen year old daughter stood in the doorway grinning.

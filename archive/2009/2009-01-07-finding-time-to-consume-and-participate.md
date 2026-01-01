@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Time To Consume And Participate"
 date: 2009-01-07
-categories: blog archive
+categories: archive
 ---
 
 While making a coffee in the kitchen this morning, and discussing last night's MacWorld keynote with a colleague, the subject of how we keep up with the latest happenings came up.

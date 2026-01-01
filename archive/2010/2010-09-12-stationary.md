@@ -2,7 +2,7 @@
 layout: post
 title: "Stationary"
 date: 2010-09-12
-categories: blog archive
+categories: archive
 ---
 
 I wonder if there is an official term for somebody who can't walk past a stationary shop without at least having a look ?

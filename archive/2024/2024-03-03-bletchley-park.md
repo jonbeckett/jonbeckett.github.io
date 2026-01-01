@@ -2,7 +2,7 @@
 layout: post
 title: "Bletchley Park"
 date: 2024-03-03
-categories: blog archive
+categories: archive
 ---
 
 After surviving another lap around the local star aboard our collective ball of mud, my other half asked what I might like to do this weekend. I pulled "Bletchley Park?" out of thin air. I had read books about it and watched movies about it, but had never been there. It's only an hour from home.

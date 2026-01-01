@@ -2,7 +2,7 @@
 layout: post
 title: "Jingle Bells Jingle Bells"
 date: 2008-12-21
-categories: blog archive
+categories: archive
 ---
 
 Our house is now on the final run in towards Christmas - our first with children. It's hard work, draining, and exciting all at the same time. While slogging from day to day (trying to get better from the awful cold I've had at the same time), I have a few observations to share;

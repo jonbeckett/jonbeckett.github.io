@@ -2,7 +2,7 @@
 layout: post
 title: "Hilton Wins Me Over With Her Mediocrity"
 date: 2009-11-17
-categories: blog archive
+categories: archive
 ---
 
 Hotel breakfasts rule. You don't have to make them, and you don't have to wash up after yourself either.

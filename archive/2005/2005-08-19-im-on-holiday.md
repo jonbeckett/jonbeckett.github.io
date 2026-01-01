@@ -2,7 +2,7 @@
 layout: post
 title: "Im On Holiday"
 date: 2005-08-19
-categories: blog archive
+categories: archive
 ---
 
 It's the weekend, and I have a week off to look forward to!!

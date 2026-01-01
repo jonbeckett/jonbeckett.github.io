@@ -2,7 +2,7 @@
 layout: post
 title: "Embracing The Quiet"
 date: 2019-04-18
-categories: blog archive
+categories: archive
 ---
 
 While walking into town to get groceries this morning I forgot to take headphones with me so instead of filling my head with a podcast or music, I had only my thoughts for company. All manner of thoughts bounced around my head as I walked the mile or so in each direction. Now I'm home, I'm not so sure than any of it really stands up - or rather, the little that I can now recall.

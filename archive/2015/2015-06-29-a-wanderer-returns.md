@@ -2,7 +2,7 @@
 layout: post
 title: "A Wanderer Returns"
 date: 2015-06-29
-categories: blog archive
+categories: archive
 ---
 
 I've lost count of the number of times I've walked away from WordPress, only to return a few months later. I do it at least once a year on average. This time I turned up first at Ghost, then LiveJournal, and finally Squarespace before returning. There's probably an impressive sounding psychological condition that explains it all. I'll go with "a bit nuts".

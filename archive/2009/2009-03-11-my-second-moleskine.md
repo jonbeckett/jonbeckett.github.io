@@ -2,7 +2,7 @@
 layout: post
 title: "My Second Moleskine"
 date: 2009-03-11
-categories: blog archive
+categories: archive
 ---
 
 A new Moleskine notebook arrived through the post a couple of days ago - my original one is slowly filling up, and I realised I would hate to be without one now.

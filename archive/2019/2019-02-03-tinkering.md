@@ -2,7 +2,7 @@
 layout: post
 title: "Tinkering"
 date: 2019-02-03
-categories: blog archive
+categories: archive
 ---
 
 I jumped down a rabbit hole of my own making today. Before describing the rabbit hole expedition however, it's probably worth filling in some back story.

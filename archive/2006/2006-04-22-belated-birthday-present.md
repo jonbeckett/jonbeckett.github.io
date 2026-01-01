@@ -2,7 +2,7 @@
 layout: post
 title: "Belated Birthday Present"
 date: 2006-04-22
-categories: blog archive
+categories: archive
 ---
 
 As a belated birthday present (because the pyjamas I bought her were the wrong size, and you can't get them in her size), I bought W her replacement present today. A Nintendo DS.

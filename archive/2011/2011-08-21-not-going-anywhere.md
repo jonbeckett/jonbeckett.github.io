@@ -2,7 +2,7 @@
 layout: post
 title: "Not Going Anywhere"
 date: 2011-08-21
-categories: blog archive
+categories: archive
 ---
 
 Somebody asked earlier if the resurrection of jonbeckett.com means I'm going to be blogging elsewhere. I love it when I have easy questions to answer.

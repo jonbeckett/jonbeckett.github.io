@@ -2,7 +2,7 @@
 layout: post
 title: "A Difficult Day"
 date: 2010-05-13
-categories: blog archive
+categories: archive
 ---
 
 Yesterday was one of the most difficult days I have experienced professionally. I obviously can't explain much further than that for all kinds of reasons. At one point in the day I related my experiences to a superior, and received confirmation that "sometimes the world is just like that".

@@ -2,7 +2,7 @@
 layout: post
 title: "Please Excuse Me While I Kick Something"
 date: 2010-03-11
-categories: blog archive
+categories: archive
 ---
 
 For some unknown reason (and remember this is a professional software developer and web designer talking) the web server this installation of wordpress is sat on will no longer let me upload files.

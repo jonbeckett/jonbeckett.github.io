@@ -2,7 +2,7 @@
 layout: post
 title: "Taking The Red Pill"
 date: 2013-05-08
-categories: blog archive
+categories: archive
 ---
 
 A dramatic title for a dramatic act. I just deleted all of the content from my Tumblr account, and posted the rabbit hole quote from The Matrix. After marvelling at my own cleverness, I wandered away, whistling, quite happy that I won't be back any time soon.

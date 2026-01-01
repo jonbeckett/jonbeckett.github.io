@@ -2,7 +2,7 @@
 layout: post
 title: "Twenty To Midnight"
 date: 2022-09-29
-categories: blog archive
+categories: archive
 ---
 
 As the title suggests, the clock is whirling inexorably toward midnight once again. I'm sitting in the dark of the junk room, watching a pretend aeroplane whistle across a pretend sky - headed for Halifax, Nova Scotia. It's relaxing, in a strange sort of way.

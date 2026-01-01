@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Ends With Random Thoughts"
 date: 2013-06-16
-categories: blog archive
+categories: archive
 ---
 
 I've installed a new theme into the WordPress blog, and am wondering how much more minimal I can getthis one gets pretty close to the limit. Given that I only post words these days, it makes sense to remove all other distractionsor at least it makes senseto me.

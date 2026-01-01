@@ -2,7 +2,7 @@
 layout: post
 title: "There And Back Again"
 date: 2016-04-27
-categories: blog archive
+categories: archive
 ---
 
 In time honoured tradition I woke up five minutes before the alarm clock was scheduled to go off. Squinting across the corner of the bed, the numbers slowly came into focus4:55am. After ten minutes watching the time tick by, I silently slid out of bed, and made my way downstairs to the shower, and the clothes I had prepared the night before. A little while later I found myself stumbling through the early morning air towards the station to catch the first train of the day towards London.

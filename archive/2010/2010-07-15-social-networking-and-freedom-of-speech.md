@@ -2,7 +2,7 @@
 layout: post
 title: "Social Networking And Freedom Of Speech"
 date: 2010-07-15
-categories: blog archive
+categories: archive
 ---
 
 What a difference a week makes.

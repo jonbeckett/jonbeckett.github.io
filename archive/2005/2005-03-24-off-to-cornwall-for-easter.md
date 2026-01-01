@@ -2,7 +2,7 @@
 layout: post
 title: "Off To Cornwall For Easter"
 date: 2005-03-24
-categories: blog archive
+categories: archive
 ---
 
 The work week is drawing to a close here in the UK as we prepare for the easter break - Friday and Monday are "Bank Holidays" in the UK, so everybody gets the day off... well - all except those who work in shops, gas stations and so on.

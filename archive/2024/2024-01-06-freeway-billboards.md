@@ -2,7 +2,7 @@
 layout: post
 title: "Freeway Billboards"
 date: 2024-01-06
-categories: blog archive
+categories: archive
 ---
 
 Today's Bloganuary prompt asks "If you had a freeway billboard, what would it say?".

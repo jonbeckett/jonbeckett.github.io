@@ -2,7 +2,7 @@
 layout: post
 title: "Never Say Never"
 date: 2023-02-18
-categories: blog archive
+categories: archive
 ---
 
 Towards the end of last year I retreated somewhat from the wider social internet - untangling myself from the likes of Twitter, Tumblr, Wordpress, and Instagram. During the hiatus, I explored some of the increasingly popular federated platforms a little, but ultimately kept much of the internet at the end of a very long stick.

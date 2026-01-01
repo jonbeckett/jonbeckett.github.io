@@ -2,7 +2,7 @@
 layout: post
 title: "Pathfinding"
 date: 2021-05-17
-categories: blog archive
+categories: archive
 ---
 
 This morning the vast internet machinery heaved the minute hand of an invisible clock forwards another minute, and filled the bedroom with one of the London radio stations. After a few minutes drifting between asleep and awake, my body clock finally gained some traction, and swung legs out of the bedclothes - planting feet on the floor below, ready to begin another day.

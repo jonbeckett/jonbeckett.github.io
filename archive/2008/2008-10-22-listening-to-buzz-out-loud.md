@@ -2,7 +2,7 @@
 layout: post
 title: "Listening To Buzz Out Loud"
 date: 2008-10-22
-categories: blog archive
+categories: archive
 ---
 
 It's been a while since I talked about the stuff I'm listening to while commuting back and forth from London. Regular readers will know that mainstays include the various output of Leo Laporte, Merlin Mann, Kevin Rose and Alex Albrecht. I have been listening to something different recently though, which I think I may actually prefer.

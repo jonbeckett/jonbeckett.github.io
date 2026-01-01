@@ -2,7 +2,7 @@
 layout: post
 title: "Simplification"
 date: 2019-09-18
-categories: blog archive
+categories: archive
 ---
 
 I removed all the stock photos from my blog posts earlier. I intended to write about it when I did it (at lunchtime), but one thing after another happened, and I didn't get around to writing anything about it until this evening. I'm writing this at 8:30pm. I suppose the motivation for removing the photos is to simplify. To stop "playing the game".

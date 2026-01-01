@@ -2,7 +2,7 @@
 layout: post
 title: "Websites For A Rainy Day"
 date: 2009-01-28
-categories: blog archive
+categories: archive
 ---
 
 Given that I spend an inordinate amount of time online, and have therefore amassed a somewhat embarrassing level of knowledge in terms of "what can be found, and where" on the internet, I thought it might be worth listing a few of the websites I find myself visiting during the slower moments of the day.

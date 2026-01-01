@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Night"
 date: 2022-06-26
-categories: blog archive
+categories: archive
 ---
 
 In recent months I have often found myself writing blog posts in the dead of night. Perhaps it's a reflection on the number of things I'm trying to juggle at once.

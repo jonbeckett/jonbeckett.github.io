@@ -2,7 +2,7 @@
 layout: post
 title: "Contemplating An All Nighter"
 date: 2015-05-02
-categories: blog archive
+categories: archive
 ---
 
 I'm wondering if I can be bothered to set the alarm for 4am GMT to listen to the boxing match between Manny Pacquiao and Floyd Mayweather. I will almost certainly wake my other half up. Maybe I should sleep on the couch? Not much fun though - and pretty damn cold at this time of the year (and yes, I have heard of blankets).

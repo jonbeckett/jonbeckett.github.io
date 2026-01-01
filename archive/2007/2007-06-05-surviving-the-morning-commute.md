@@ -2,7 +2,7 @@
 layout: post
 title: "Surviving The Morning Commute"
 date: 2007-06-05
-categories: blog archive
+categories: archive
 ---
 
 It's 7:17am, and the train is just about to leave Marlow station (as I type, the engines roar, and we rumble forth into the bright morning sunshine).

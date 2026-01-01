@@ -2,7 +2,7 @@
 layout: post
 title: "Opening The Source"
 date: 2003-02-12
-categories: blog archive
+categories: archive
 ---
 
 I finally did it - I opened up the Blog script to the community.

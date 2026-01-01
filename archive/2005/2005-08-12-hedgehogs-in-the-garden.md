@@ -2,7 +2,7 @@
 layout: post
 title: "Hedgehogs In The Garden"
 date: 2005-08-12
-categories: blog archive
+categories: archive
 ---
 
 We just heard some huffing and puffing out in the garden, so turned everything off and went out to investigate - and found our resident family of hedgehogs out doing their circuit of the garden - eating bugs, slugs and snails as they go.

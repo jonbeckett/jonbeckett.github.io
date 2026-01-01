@@ -2,7 +2,7 @@
 layout: post
 title: "Leaving A Legacy For Future Generations"
 date: 2010-04-13
-categories: blog archive
+categories: archive
 ---
 
 I just happened to wander into the lounge while W was watching an episode of the BBC genealogy series "Who Do You Think You Are?" - the featured celebrity was poring over census records from the 1860s, looking at the careers of her ancestors.

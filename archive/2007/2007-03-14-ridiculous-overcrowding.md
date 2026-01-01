@@ -2,7 +2,7 @@
 layout: post
 title: "Ridiculous Overcrowding"
 date: 2007-03-14
-categories: blog archive
+categories: archive
 ---
 
 The underground trains were so overcrowded this morning it could have been funny. I have never seen it like it.

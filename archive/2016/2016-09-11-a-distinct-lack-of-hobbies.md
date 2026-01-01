@@ -2,7 +2,7 @@
 layout: post
 title: "A Distinct Lack Of Hobbies"
 date: 2016-09-11
-categories: blog archive
+categories: archive
 ---
 
 While my other half was away taking part in a charity walk this weekend, I found myself repeatedly filling the washing machine, hanging clothes out to dry, folding clean clothes, cooking, washing dishes, picking stuff up after the kids, taking out the rubbish, cleaning the bathrooms, and all the other chores you might associate with family life. While doing so something occurred to me - not that I don't really have a hobby (unless you count writing a blog in the dead of night), but that I really need a hobby. I need something.

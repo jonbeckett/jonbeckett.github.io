@@ -2,7 +2,7 @@
 layout: post
 title: "So Called Day Off"
 date: 2020-09-24
-categories: blog archive
+categories: archive
 ---
 
 After confirming the last few days of the week off work, I hit the ground running this morning at home - pushing two loads of washing through the machine (it's currently on it's third), emptying and re-loading the dishwasher, cycling six miles to go and pick up some paperwork, walking a couple of miles to run some errands in town, and finally I'm back - half listening to load the washing machine again.

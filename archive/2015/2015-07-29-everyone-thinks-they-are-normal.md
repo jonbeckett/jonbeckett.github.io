@@ -2,7 +2,7 @@
 layout: post
 title: "Everyone Thinks They Are Normal"
 date: 2015-07-29
-categories: blog archive
+categories: archive
 ---
 
 I had no clue what I was going to write about this evening, but then read a stream of comments on Tumblr about choices of pizza, and start writing this nonsensical, disjointed post about nothing in particular. I don't even know where to start.

@@ -2,7 +2,7 @@
 layout: post
 title: "Rumours Of My Demise"
 date: 2007-12-10
-categories: blog archive
+categories: archive
 ---
 
 The reason for so few blog posts - and so few comments from me on other's blogs over the last several days - has been the finale in the saga of my body's defences versus every cold and cough type virus in Great Britain trying to attack me.

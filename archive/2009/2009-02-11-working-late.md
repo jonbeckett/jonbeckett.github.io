@@ -2,7 +2,7 @@
 layout: post
 title: "Working Late"
 date: 2009-02-11
-categories: blog archive
+categories: archive
 ---
 
 Another night down, another night closer to paying for our new car, and another night of churning out illustrations that will eventually grace a corporate website.

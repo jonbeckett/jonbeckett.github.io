@@ -2,7 +2,7 @@
 layout: post
 title: "Being Interesting Is Difficult Sometimes"
 date: 2010-12-30
-categories: blog archive
+categories: archive
 ---
 
 Tumblr is great fun, and the community is great, but do you ever feel that your life is just a little bit crappy from time to time, and that it's not going to be of interest to anybody, so why bother sharing anything? Especially if you know damn well that writing anything reallyinteresting will probably result in either your own family not speaking to you, or being hauled in for "a chat" at work

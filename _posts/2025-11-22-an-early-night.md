@@ -3,7 +3,6 @@ layout: single
 title: "An Early Night"
 date: 2025-11-22
 categories:
-  - blog
   - "2025"
 ---
 

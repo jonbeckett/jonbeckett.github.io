@@ -2,7 +2,7 @@
 layout: post
 title: "Casting A Wider Net"
 date: 2013-11-09
-categories: blog archive
+categories: archive
 ---
 
 For the last year or so I have only been following "friends" on Twitterpeople I have come to know over the years that are either real world friends, or that I have come to know on the internet. I have not followed "professionals"those posting to twitter as part of their jobso no journalists, columnists, celebrities, or brands.

@@ -2,7 +2,7 @@
 layout: post
 title: "What Day Is It"
 date: 2020-12-27
-categories: blog archive
+categories: archive
 ---
 
 I just had to double check what day of the week it is. Apparently it's Sunday. I imagine those reading this will divide into two camps - those that know what day it is, and those who haven't thought about it since several days before Christmas. Those that know can go away - we don't need that kind of smugness around here.

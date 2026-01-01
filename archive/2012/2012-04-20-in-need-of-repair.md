@@ -2,7 +2,7 @@
 layout: post
 title: "In Need Of Repair"
 date: 2012-04-20
-categories: blog archive
+categories: archive
 ---
 
 I'm starting to wonder if I've been cheating old father time for the last few years, and he's just discovered the discrepency while doing an audit.

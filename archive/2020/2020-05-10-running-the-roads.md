@@ -2,7 +2,7 @@
 layout: post
 title: "Running The Roads"
 date: 2020-05-10
-categories: blog archive
+categories: archive
 ---
 
 Last autumn I took part in the "Couch to 5K" running programme at the local running club - to support my eldest daughter both with her fitness, and in her battle with anxiety. We joined a small intrepid band of new runners each week, and pounded the streets together every Tuesday evening. Over time the distances increased, and in early December we "graduated" - completing several organised 5K runs around town.

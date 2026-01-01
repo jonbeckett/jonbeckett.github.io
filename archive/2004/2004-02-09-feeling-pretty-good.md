@@ -2,7 +2,7 @@
 layout: post
 title: "Feeling Pretty Good"
 date: 2004-02-09
-categories: blog archive
+categories: archive
 ---
 
 For the first time in a few weeks I'm actually feeling okay. Still not 100%, but getting there 

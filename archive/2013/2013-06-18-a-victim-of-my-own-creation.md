@@ -2,7 +2,7 @@
 layout: post
 title: "A Victim Of My Own Creation"
 date: 2013-06-18
-categories: blog archive
+categories: archive
 ---
 
 For the last year or so I have struggled to find a voice while writing blog posts; struggled to find anything that I perceived to be of interest to write about. Friends and acquaintances occasionally provided a gentle nudgeand the advice that they really want to hear aboutme not books, games, movies, or any other incidental trappings of my life.

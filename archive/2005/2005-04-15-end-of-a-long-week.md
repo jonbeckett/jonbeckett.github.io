@@ -2,7 +2,7 @@
 layout: post
 title: "End Of A Long Week"
 date: 2005-04-15
-categories: blog archive
+categories: archive
 ---
 
 This week quite a lot happened.

@@ -2,7 +2,7 @@
 layout: post
 title: "Tiredness Abounds"
 date: 2018-04-26
-categories: blog archive
+categories: archive
 ---
 
 I'm not sure that I have a blog post in me tonight - and yet here I am, sitting in the junk room, tapping away at the keyboard. I'm grinning - remembering a quote I once saw - 'I have nothing to say, and I'm saying it'.

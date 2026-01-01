@@ -2,7 +2,7 @@
 layout: post
 title: "The Size Of The Photo Storage Problem"
 date: 2008-09-06
-categories: blog archive
+categories: archive
 ---
 
 In preparation for our new computer arriving on Monday, I have been doing a chore that we've been avoiding for years - rationalising and sorting out our digital photos.

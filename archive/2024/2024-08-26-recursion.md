@@ -2,7 +2,7 @@
 layout: post
 title: "Recursion"
 date: 2024-08-26
-categories: blog archive
+categories: archive
 ---
 
 Every time a computer wakes up, it sees the world for the first time. In the first seconds of it's resurrected life it learns "how to be what you expected it to be" all over again. Not long after those moments of blissful ignorance it discovers what you did to it previously, and the hope, optimism and happiness it had moments earlier is snatched away.

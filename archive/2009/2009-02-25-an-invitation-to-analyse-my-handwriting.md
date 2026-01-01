@@ -2,7 +2,7 @@
 layout: post
 title: "An Invitation To Analyse My Handwriting"
 date: 2009-02-25
-categories: blog archive
+categories: archive
 ---
 
 After reading Antidamen's blog post, I'm joining in - here's some of my handwriting - analyse away...

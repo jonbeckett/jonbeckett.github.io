@@ -2,7 +2,7 @@
 layout: post
 title: "Stopping For Breath"
 date: 2014-02-07
-categories: blog archive
+categories: archive
 ---
 
 Another week has passed. Another week without writing. Another week filled with trains, crowds, cities, code, computers, stress, and unimaginable tiredness.

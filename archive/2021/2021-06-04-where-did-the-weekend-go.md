@@ -2,7 +2,7 @@
 layout: post
 title: "Where Did The Weekend Go "
 date: 2021-06-04
-categories: blog archive
+categories: archive
 ---
 
 It's Friday evening, and the "week off" has vanished. I'm wondering where it went. The last few days are a mental jumble of running, working on the garden, doing chores, and jumping down internet rabbit holes.

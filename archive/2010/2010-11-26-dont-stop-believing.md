@@ -2,7 +2,7 @@
 layout: post
 title: "Dont Stop Believing"
 date: 2010-11-26
-categories: blog archive
+categories: archive
 ---
 
 Earlier this evening I heard a wonderful song from a more innocent age, and it got me thinking...

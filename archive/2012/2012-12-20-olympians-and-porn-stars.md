@@ -2,7 +2,7 @@
 layout: post
 title: "Olympians And Porn Stars"
 date: 2012-12-20
-categories: blog archive
+categories: archive
 ---
 
 I noticed something rather odd recently. I'm not sure if I noticed it because we have rapidly growing children, or because I was in a more observant mood than usual.

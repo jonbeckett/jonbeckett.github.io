@@ -2,7 +2,7 @@
 layout: post
 title: "Going Out Out"
 date: 2022-03-22
-categories: blog archive
+categories: archive
 ---
 
 We are heading out this evening for a meal at the local pub with friends - to celebrate my other half's birthday. Escaping for a few hours of sensible conversation with grown-ups. Except we know that's not true, don't we.

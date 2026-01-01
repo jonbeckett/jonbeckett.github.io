@@ -2,7 +2,7 @@
 layout: post
 title: "Cascading Failures"
 date: 2008-11-12
-categories: blog archive
+categories: archive
 ---
 
 As a part of our final run-in towards getting the adoption done and finished, we have to prepare various documents for the courts - in triplicate.

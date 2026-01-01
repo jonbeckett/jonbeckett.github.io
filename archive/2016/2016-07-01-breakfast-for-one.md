@@ -2,7 +2,7 @@
 layout: post
 title: "Breakfast For One"
 date: 2016-07-01
-categories: blog archive
+categories: archive
 ---
 
 After waking up a little after 7am, having a shower, shave, brushing my teeth, and getting dressed, I wandered down for breakfast in the hotel. I had bought cooked breakfasts every day at check-in, and I was damned if I was going to waste them (I rarely eat breakfast at home - I'm usually knee deep in making lunches and breakfasts for others, shouting at little people that haven't done their homework, and washing up before throwing myself down the road on my bike).

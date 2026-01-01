@@ -2,7 +2,7 @@
 layout: post
 title: "Cycling On The Footpath"
 date: 2010-01-27
-categories: blog archive
+categories: archive
 ---
 
 Shortly before leaving work this evening I called home to check if I should stop off in town. As far as I can tell, calling home is similar to playing russian roulette - the tone of the "Hello" usually tells you everything you need to know about the running battle that may have occurred throughout the day.

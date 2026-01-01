@@ -2,7 +2,7 @@
 layout: post
 title: "The World Slows Down"
 date: 2011-06-09
-categories: blog archive
+categories: archive
 ---
 
 It's Thursday, it's lunchtime, and the world is finally slowing down a little for me. Lunchtime is my own once more, and affords the opportunity to write, and to catch up with friends.

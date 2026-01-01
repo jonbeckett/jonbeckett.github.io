@@ -2,7 +2,7 @@
 layout: post
 title: "Sadly Lacking"
 date: 2006-04-11
-categories: blog archive
+categories: archive
 ---
 
 This blog has been sadly lacking "interesting" entries over the last week or so. There are a few reasons for it, but the main one is that I have a very simple brain, and if I'm busy doing one thing, I won't think to do another. Last week I did some work on my blog script, so everything else suffered as a consequence.

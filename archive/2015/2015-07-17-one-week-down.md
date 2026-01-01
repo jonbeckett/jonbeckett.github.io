@@ -2,7 +2,7 @@
 layout: post
 title: "One Week Down"
 date: 2015-07-17
-categories: blog archive
+categories: archive
 ---
 
 The first week of my cross-country adventures is done. Wrapped. In the can. I checked out of the hotel yesterday morning and said goodbye to the predictably attractive girl on reception. She had smiled and greeted me each day - leaving and returning - and if I hadn't stayed in countless hotels in the past I might have imagined she was making a pass at me every time - in the same way a psychotically happy person might.

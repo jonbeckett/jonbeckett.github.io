@@ -2,7 +2,7 @@
 layout: post
 title: "The Fool On The Hill"
 date: 2018-09-24
-categories: blog archive
+categories: archive
 ---
 
 Sometimes it feels like I'm this crazy person, sitting under a tree on a hill-top a little way out of town, typing away furiously on an imaginary typewriter, folding each page up into the shape of a paper airplane, and launching it into the wind to fall somewhere on the town below - where somebody might find it, unfold it, and read it.

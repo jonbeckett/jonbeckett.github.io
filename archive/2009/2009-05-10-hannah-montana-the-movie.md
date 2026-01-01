@@ -2,7 +2,7 @@
 layout: post
 title: "Hannah Montana The Movie"
 date: 2009-05-10
-categories: blog archive
+categories: archive
 ---
 
 This afternoon, while playing the part of "Dad", I took our eldest daughter to see "Hannah Montana - The Movie".

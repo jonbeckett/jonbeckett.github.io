@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning"
 date: 2017-08-18
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards 9:30am on Saturday morning. The washing machine and tumble dryer are rumbling away in the background, the dishwasher has been emptied, the younger children are camped out in the lounge watching cartoons, and the same washing that has been hanging on the line for two days is still out there - hopefully I will be around to bring it in when it gets dry for the third time.

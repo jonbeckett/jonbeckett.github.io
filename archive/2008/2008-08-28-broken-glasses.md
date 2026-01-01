@@ -2,7 +2,7 @@
 layout: post
 title: "Broken Glasses"
 date: 2008-08-28
-categories: blog archive
+categories: archive
 ---
 
 This morning our youngest snapped the eldest's glasses in two. This caused an inevitable derailing of the entire day that had been planned for the children.

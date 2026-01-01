@@ -2,7 +2,7 @@
 layout: post
 title: "Nearly Last"
 date: 2006-11-24
-categories: blog archive
+categories: archive
 ---
 
 The one we got wrong...We just got back from the pub. We performed hilariously badly. 14 out of 30.

@@ -2,7 +2,7 @@
 layout: post
 title: "One More Day In London"
 date: 2014-03-24
-categories: blog archive
+categories: archive
 ---
 
 I have one more day remaining in London. One day left of the current contract. In a bizarre twist of fate, the person I have been both working with, and mentoring for the last few weeks is not going to be in the office, so I'll just be writing documentation, and tying up loose ends.

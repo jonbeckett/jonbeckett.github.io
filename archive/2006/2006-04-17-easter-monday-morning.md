@@ -2,7 +2,7 @@
 layout: post
 title: "Easter Monday Morning"
 date: 2006-04-17
-categories: blog archive
+categories: archive
 ---
 
 It's just gone 9 on Easter Monday morning - I've filled the dishwasher up and am sat here in my housecoat with crazy hair and a cup of tea. I really need to think about having a shower and a shave.

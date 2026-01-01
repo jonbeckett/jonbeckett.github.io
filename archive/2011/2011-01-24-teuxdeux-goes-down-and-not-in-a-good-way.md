@@ -2,7 +2,7 @@
 layout: post
 title: "Teuxdeux Goes Down And Not In A Good Way"
 date: 2011-01-24
-categories: blog archive
+categories: archive
 ---
 
 Over the last week or so, I've been playing with an online task management tool called TeuxDeux. Since I got in to work this morning, their website has been reporting 502 errors. These are not good errors.

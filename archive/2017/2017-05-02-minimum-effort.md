@@ -2,7 +2,7 @@
 layout: post
 title: "Minimum Effort"
 date: 2017-05-02
-categories: blog archive
+categories: archive
 ---
 
 I've been trying to write this blog post for the last three hours. Being honest, writing ranks lower than any other draw on my time - which probably explains the multiple failed attempts at NaNoWriMo over the years. It also explains the awful quality of blog posts unless I'm holed up in a hotel with work.

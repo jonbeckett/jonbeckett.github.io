@@ -2,7 +2,7 @@
 layout: post
 title: "Livejournal"
 date: 2012-04-22
-categories: blog archive
+categories: archive
 ---
 
 I am my own worst enemy. Not content with having a self-hosted wordpress blog that I haven't written anything in for over a week, I have been nosing around LiveJournal again for the last hour.

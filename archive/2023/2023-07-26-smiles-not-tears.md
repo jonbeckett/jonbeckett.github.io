@@ -2,7 +2,7 @@
 layout: post
 title: "Smiles Not Tears"
 date: 2023-07-26
-categories: blog archive
+categories: archive
 ---
 
 One day after another. Rinse and repeat.

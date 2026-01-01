@@ -2,7 +2,7 @@
 layout: post
 title: "Life The Universe And Everything"
 date: 2013-06-02
-categories: blog archive
+categories: archive
 ---
 
 After spending the greater part of the afternoon and evening doing chores, cooking on the barbecue, and resolving numerous children's arguments, I now find myself sitting in the study, in the dark, Calvin Harris pouring from the speakers, while recalling time with good friends, and smiling about a weekend well spent.

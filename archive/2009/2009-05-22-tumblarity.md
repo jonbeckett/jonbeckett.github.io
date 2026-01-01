@@ -2,7 +2,7 @@
 layout: post
 title: "Tumblarity"
 date: 2009-05-22
-categories: blog archive
+categories: archive
 ---
 
 I thought it might be interesting to share the results of my week long assault on Tumblr, and it's ranking system - "Tumblarity"...

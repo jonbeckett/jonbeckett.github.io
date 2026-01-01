@@ -2,7 +2,7 @@
 layout: post
 title: "Waiting For The Cooker"
 date: 2015-10-24
-categories: blog archive
+categories: archive
 ---
 
 I have 45 minutes to write something while waiting for the cooker to do it's thing. My eldest daughter and I have shepherds pie for dinner (minced beef and gravy, topped with mashed potato), and the younger ones have ravioli on toasttheir choice, before you raise an eyebrow.

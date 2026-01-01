@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon Wish List"
 date: 2010-09-29
-categories: blog archive
+categories: archive
 ---
 
 Some of the things on my Amazon Wish List

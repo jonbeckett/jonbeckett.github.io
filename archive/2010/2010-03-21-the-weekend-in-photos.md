@@ -2,7 +2,7 @@
 layout: post
 title: "The Weekend In Photos"
 date: 2010-03-21
-categories: blog archive
+categories: archive
 ---
 
 Saturday was filled with a visit to relatives we should really visit far more often in Oxfordshire.

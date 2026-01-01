@@ -2,7 +2,7 @@
 layout: post
 title: "Very Very Tired"
 date: 2011-02-07
-categories: blog archive
+categories: archive
 ---
 
 Sat up watching the Superbowl until the beginning of the fourth quarter. I guessed when Pittsburgh got intercepted that they had no chance, and was proven right when I woke up this morning.

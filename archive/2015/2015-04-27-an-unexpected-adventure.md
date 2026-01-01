@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Adventure"
 date: 2015-04-27
-categories: blog archive
+categories: archive
 ---
 
 After saying goodbye to my family late this afternoon, I set off for the train station with just the backpack on my back. I'm only away for two nights, so only really need a couple of shirts, underwear, and a wash bag. Experience of travelling with work has taught me all sorts of tricks to do with packing light. You quickly learn the difference between "need", and "would be nice to have".

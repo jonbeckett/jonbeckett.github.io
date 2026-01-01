@@ -2,7 +2,7 @@
 layout: post
 title: "Blocking Calls"
 date: 2016-01-24
-categories: blog archive
+categories: archive
 ---
 
 If I ever work from home, or I'm off work with some life threatening lurgy, or looking after one of the children when they are chundering spectacularly from both ends, I'm always surprised how many times the phone rings. I race through the house to find a phone handset (they are never on the base stations) in case it's an emergency, and breathlessly press the call button.

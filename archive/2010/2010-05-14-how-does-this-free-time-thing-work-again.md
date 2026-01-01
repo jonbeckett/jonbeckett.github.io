@@ -2,7 +2,7 @@
 layout: post
 title: "How Does This Free Time Thing Work Again"
 date: 2010-05-14
-categories: blog archive
+categories: archive
 ---
 
 The work week has finally ground to a halt. The project that sucked the life out of me for the last month ground to a begrudging halt. I will admit to being both mentally and physically drained. At times this week you could have included "emptionally drained" too. It's been hard.

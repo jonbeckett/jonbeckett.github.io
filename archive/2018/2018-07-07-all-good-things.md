@@ -2,7 +2,7 @@
 layout: post
 title: "All Good Things"
 date: 2018-07-07
-categories: blog archive
+categories: archive
 ---
 
 I'm seriously considering drawing a line under this whole blogging adventure again. I nearly did it a couple of months ago, and then returned. I've soldiered on, posting less regularly, and still struggled to find anything worth writing about.

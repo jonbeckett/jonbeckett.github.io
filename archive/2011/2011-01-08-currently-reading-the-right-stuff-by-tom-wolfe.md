@@ -2,7 +2,7 @@
 layout: post
 title: "Currently Reading The Right Stuff By Tom Wolfe"
 date: 2011-01-08
-categories: blog archive
+categories: archive
 ---
 
 One of the books I've always known about, read bits of over the years, but never knuckled down and read cover-to-cover. In the 80s it was turned into the wonderful movie we know with Dennis Quaid, Sam Shepherd, Ed Harris, and many more future A-list movie stars.

@@ -2,7 +2,7 @@
 layout: post
 title: "The world and its dog"
 date: 2023-08-12
-categories: blog archive
+categories: archive
 ---
 
 The clock ticked past midnight half an hour ago. I'm not entirely sure where Saturday went. After going out for breakfast this morning, I returned home, half-watched the football, put a couple of loads of clothes through the washing machine, recorded some more content for YouTube, tidied the kitchen up, answered the door who knows how many times for parcel deliveries, ate dinner, washed up again, and suddenly it's half past midnight.

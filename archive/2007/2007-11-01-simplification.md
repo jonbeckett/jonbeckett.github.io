@@ -2,7 +2,7 @@
 layout: post
 title: "Simplification"
 date: 2007-11-01
-categories: blog archive
+categories: archive
 ---
 
 While sat here becoming frustrated with having a cold, feeling rubbish, and wishing the world could simplify itself a little, I spent the last hour deleting things.

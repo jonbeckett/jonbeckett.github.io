@@ -2,7 +2,7 @@
 layout: post
 title: "Pictures Dont Always Tell The Story"
 date: 2017-04-01
-categories: blog archive
+categories: archive
 ---
 
 Anybody looking at the photographs I posted to the social internet via my phone this afternoon would have thought I had a delightful day wandering in the sunshine with my family, taking pictures of this, that, and the other.

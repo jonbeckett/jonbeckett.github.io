@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Review The Hotel Room"
 date: 2010-08-22
-categories: blog archive
+categories: archive
 ---
 
 Some might consider this post a surrender to boredom, and I would agree with them completely. Enjoy.

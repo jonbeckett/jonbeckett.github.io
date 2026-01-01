@@ -2,7 +2,7 @@
 layout: post
 title: "Revenant Wings And L33T Sk1Llz"
 date: 2008-04-30
-categories: blog archive
+categories: archive
 ---
 
 This evening W came to a complete and utter halt in "Revenant Wings" - otherwise known as "Final Fantasy 12" for the Nintendo DS. After witnessing a complete meltdown, and trying really hard to not laugh (unsuccessfully, which almost caused destruction on a hitherto unknown scale), I retrieved the DS from thence it had been flung, and switched it on.

@@ -2,7 +2,7 @@
 layout: post
 title: "Nightmares"
 date: 2018-04-24
-categories: blog archive
+categories: archive
 ---
 
 When I was young, I sometimes had a recurring nightmare about walking through the subway beneath the road behind our house. The subway lead to the nearest playpark. There was a huge steel door in the side of the tunnel. In the dream, as I entered the tunnel the door would burst open, and a giant crow - identical to a puppet in a children's TV show I didn't like - would burst out and attack me. I would wake up shaking, pouring with sweat.

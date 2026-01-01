@@ -2,7 +2,7 @@
 layout: post
 title: "Hello Midnight Old Friend"
 date: 2022-04-04
-categories: blog archive
+categories: archive
 ---
 
 Here we are again - watching the clock slip effortlessly from one day to the next. Our marking of time is a curious thing, isn't it - we place such significance on yesterday, today, and tomorrow - when in reality we're just specks on a ball of mud floating aimlessly through space on a path it has been repeating for millions of our years.

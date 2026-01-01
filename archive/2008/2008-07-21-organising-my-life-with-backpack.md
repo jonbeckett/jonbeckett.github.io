@@ -2,7 +2,7 @@
 layout: post
 title: "Organising My Life With Backpack"
 date: 2008-07-21
-categories: blog archive
+categories: archive
 ---
 
 For the next month or two, alongside Highrise and Basecamp, I am trying out Backpack for the full "37Signals" effect on my life.

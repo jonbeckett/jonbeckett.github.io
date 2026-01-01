@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Up Schemes"
 date: 2007-01-04
-categories: blog archive
+categories: archive
 ---
 
 I am sat here at work, studying books for an exam, preparing for a site visit next week (I am returning to London), and quietly trying to figure out how to amass enough money to buy an Apple MacBook.

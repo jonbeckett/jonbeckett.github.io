@@ -2,7 +2,7 @@
 layout: post
 title: "The Remains Of The Day"
 date: 2006-07-08
-categories: blog archive
+categories: archive
 ---
 
 It's late afternoon on Saturday, and I am finally having some weekend. I've hit a bump in the programming I am doing for work, and can't be bothered to investigate it at the moment (the problem is deep in the object model called from a web service through a proxy, and I didn't write any of it - I'm tempted to wait until Monday to progress that bit, after talking to the original developer of the web service).

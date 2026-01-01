@@ -2,7 +2,7 @@
 layout: post
 title: "Two Weeks Off"
 date: 2018-08-16
-categories: blog archive
+categories: archive
 ---
 
 I finished work at 5:30pm this evening, and cycled home through quiet roads towards home. The majority of the people that would normally be passive aggressively driving their cars home from work were nowhere to be seen - no doubt they are either sitting on beaches in sunnier climes, posting their toxic highlight reels to the social networks.

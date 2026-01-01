@@ -2,7 +2,7 @@
 layout: post
 title: "Zero Maintenance Haircut Please"
 date: 2011-06-23
-categories: blog archive
+categories: archive
 ---
 
 Before rolling into the office this morning I stopped off in town to get my hair cut. Ten years ago the salon was "the place to go" for men with a roving eyepopulated with toothsome young women armed with all manner of conversation about your next holiday, the contents of "Cosmo", or whichever footballer had been caught kissing the wrong girl.

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Scrapped The Bullet Journal And Returned To A Filofax"
 date: 2017-12-27
-categories: blog archive
+categories: archive
 ---
 
 We all knew this was going to happen, didn't we.

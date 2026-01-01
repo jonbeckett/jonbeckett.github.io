@@ -2,7 +2,7 @@
 layout: post
 title: "Abandonware Rules"
 date: 2003-08-27
-categories: blog archive
+categories: archive
 ---
 
 When I got up this morning I really didn't want to go to work. I was up at 7am, and sat watching breakfast television for a while. Eventually I gave myself a kick up the backside and got ready for work, but only really because I knew I would get into trouble if I stayed home.

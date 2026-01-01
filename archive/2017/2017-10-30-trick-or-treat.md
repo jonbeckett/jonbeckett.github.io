@@ -2,7 +2,7 @@
 layout: post
 title: "Trick Or Treat"
 date: 2017-10-30
-categories: blog archive
+categories: archive
 ---
 
 While cycling home from work this evening, I couldn't help but smile at the young children out with their parents - variously dressed as Witches, Faeries, Batmen, Draculas, Wolverines, Princesses, Spidermen, Hulks, Buzz Lightyears, and every other character that could have been made from a dressing up box.

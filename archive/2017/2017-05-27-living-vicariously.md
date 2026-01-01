@@ -2,7 +2,7 @@
 layout: post
 title: "Living Vicariously"
 date: 2017-05-27
-categories: blog archive
+categories: archive
 ---
 
 I admire so many of the blogging community so much through the photos and thoughts they share. They are all by turns brave, honest, fierce, beautiful, interesting, wise, funny, and beguiling in their own way. They share both happy and sad times with the great unwashed masses of the internet, and I think the world of them for doing so.

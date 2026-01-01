@@ -2,7 +2,7 @@
 layout: post
 title: "Goodbye Weekend"
 date: 2015-04-19
-categories: blog archive
+categories: archive
 ---
 
 I survived the weekend. My other half arrived home about an hour ago (mid-way through the Grand Prix, which I saw no more of), and said a simple "thankyou" when she noticed the skyscrapers of washed clothes, neatly folded on the dining room table. Of course she didn't notice the spotless kitchen, the playroom, the shoes in the hallway, or that you could see across the lounge.

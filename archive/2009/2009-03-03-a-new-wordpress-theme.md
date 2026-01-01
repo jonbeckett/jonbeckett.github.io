@@ -2,7 +2,7 @@
 layout: post
 title: "A New Wordpress Theme"
 date: 2009-03-03
-categories: blog archive
+categories: archive
 ---
 
 It's not actually a "theme" as such yet - just an HTML and CSS file sat on my hard drive that I came up with over lunch. You can click on the image to see the full size one in Flickr...

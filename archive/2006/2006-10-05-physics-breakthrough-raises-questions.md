@@ -2,7 +2,7 @@
 layout: post
 title: "Physics Breakthrough Raises Questions"
 date: 2006-10-05
-categories: blog archive
+categories: archive
 ---
 
 I have just been reading about the physics breakthrough that has enabled scientists to move several billion atoms from one point to another in space (yes, they have figured out the basis for the transporter from Star Trek).

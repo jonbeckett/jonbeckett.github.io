@@ -2,7 +2,7 @@
 layout: post
 title: "Twitter How Much Is Too Much "
 date: 2009-01-30
-categories: blog archive
+categories: archive
 ---
 
 With the recent surge in popularity of Twitter, I have been wondering how much information is too much when sharing thoughts, discoveries and observations with the community.

@@ -3,7 +3,6 @@ layout: single
 title: "The lost weekend"
 date: 2025-02-23
 categories:
-  - blog
   - "2025"
 ---
 

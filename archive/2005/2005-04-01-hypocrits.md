@@ -2,7 +2,7 @@
 layout: post
 title: "Hypocrits"
 date: 2005-04-01
-categories: blog archive
+categories: archive
 ---
 
 Does it not occur to anybody else in the world how hypocritical the church is being about the Pope?

@@ -2,7 +2,7 @@
 layout: post
 title: "Aniston Be Thy Name"
 date: 2008-12-13
-categories: blog archive
+categories: archive
 ---
 
 I know, I know... this post lowers the bar from the usual posts about programming, life, stress, gadgets and so on - but just look at her.

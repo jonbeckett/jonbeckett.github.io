@@ -2,7 +2,7 @@
 layout: post
 title: "An Invitation To Ask Questions"
 date: 2011-01-05
-categories: blog archive
+categories: archive
 ---
 
 I did this once before, a very long time ago, and it proved remarkably entertaining (if a little foolhardy).

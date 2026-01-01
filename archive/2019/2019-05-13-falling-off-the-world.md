@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Off The World"
 date: 2019-05-13
-categories: blog archive
+categories: archive
 ---
 
 I can't quite believe I'm writing this, but it's been a week since the last post to the blog. I can't remember missing so many consecutive days for years, let alone months. I suppose I might have when we have gone on vacation in the past, but certainly not while I've been here.

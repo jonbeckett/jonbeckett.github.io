@@ -2,7 +2,7 @@
 layout: post
 title: "Off The Rails"
 date: 2006-11-13
-categories: blog archive
+categories: archive
 ---
 
 Today started fine. I got up, had a shower, got dressed, made some lunch, packed my bag, and went to work.

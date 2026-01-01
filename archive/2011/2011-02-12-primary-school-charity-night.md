@@ -2,7 +2,7 @@
 layout: post
 title: "Primary School Charity Night"
 date: 2011-02-12
-categories: blog archive
+categories: archive
 ---
 
 I don't get some people. At all.

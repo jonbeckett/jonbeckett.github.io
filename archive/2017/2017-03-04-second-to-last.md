@@ -2,7 +2,7 @@
 layout: post
 title: "Second To Last"
 date: 2017-03-04
-categories: blog archive
+categories: archive
 ---
 
 Before we start, it's probably worth pointing out that the above photo was scraped from a Google search. Any similarity or likeness to our table of reprobates at the football club quiz last night are entirely coincidental.

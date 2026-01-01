@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Day Didnt Stop"
 date: 2012-04-18
-categories: blog archive
+categories: archive
 ---
 
 Yes, yes, I know "the day didn't stop" is a ridiculous statement. Of course days don't stopthat would imply either the earth stopping spinning (whereupon momentum would cause everything to fall over), or some kind of Emmet Brown style time jiggery pokery.

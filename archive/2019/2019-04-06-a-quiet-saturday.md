@@ -2,7 +2,7 @@
 layout: post
 title: "A Quiet Saturday"
 date: 2019-04-06
-categories: blog archive
+categories: archive
 ---
 
 It's mid-way through Saturday afternoon. All I appear to have done all day so far is wash clothes, tidy up, and noodle around on the internet. I had grand plans to write a blog post about something or other, but coming up with something or other has been unexpectedly difficult. Sitting around all morning doesn't really provide any great tales to tell.

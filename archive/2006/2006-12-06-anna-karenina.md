@@ -2,7 +2,7 @@
 layout: post
 title: "Anna Karenina"
 date: 2006-12-06
-categories: blog archive
+categories: archive
 ---
 
 While commuting back and forth from London this week I have been reading "Anna Karenina" by Leo Tolstoy, and thought it might be interesting for some of the people who stumble across my various ramblings on this blog to hear my opinion on it "so far".

@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Morning In The Hotel Room"
 date: 2019-01-21
-categories: blog archive
+categories: archive
 ---
 
 It's 7:30am on Tuesday morning, and I'm back in the hotel room after breakfast. I had been thinking of going for a walk along the river, but it's below zero outside, and still dark. Perhaps not. Oh - I'm in Frankfurt, Germany, by the way - it just occurred to me that if you had not read recent posts, you would have no idea.

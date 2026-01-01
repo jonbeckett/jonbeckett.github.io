@@ -2,7 +2,7 @@
 layout: post
 title: "And The Shallow Fanboy Hordes Go Forth And Multiply"
 date: 2010-02-15
-categories: blog archive
+categories: archive
 ---
 
 In a stunningly transparent example of the hilariously shallow nature of the global geek army spread throughout the internet , I would like to report that whereas I have had a tiny trickle of new Twitter followers in recent days, I have had so many new Google Buzz followers that I don't know what to do with them.

@@ -2,7 +2,7 @@
 layout: post
 title: "Anti Social Media"
 date: 2019-06-29
-categories: blog archive
+categories: archive
 ---
 
 I just checked the temperature on my phone - it's 33 centigrade, at 10pm. Madness. I've been hiding out for most of the day on the shaded side of the house - but as evening has drawn on the house seems to have realised what I was doing, and thought "that's enough of that!".

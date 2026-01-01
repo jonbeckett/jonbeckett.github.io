@@ -2,7 +2,7 @@
 layout: post
 title: "New Enterprise Has Star Trek Nerd Army Mobilized"
 date: 2008-11-12
-categories: blog archive
+categories: archive
 ---
 
 I haven't laughed so hard in ages. Here's the new Star Trek "Enterprise" (from the forthcoming movie);

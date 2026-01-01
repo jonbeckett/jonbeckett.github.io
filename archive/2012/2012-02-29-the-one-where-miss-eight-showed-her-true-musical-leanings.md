@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Miss Eight Showed Her True Musical Leanings"
 date: 2012-02-29
-categories: blog archive
+categories: archive
 ---
 
 It's a funny old world. After the stresses and strains of yesterday, returning home in a foul mood (caused by computers failing to bend themselves to my will), today was remarkably ok.

@@ -2,7 +2,7 @@
 layout: post
 title: "Danger Rocks Messenger Bag"
 date: 2008-03-12
-categories: blog archive
+categories: archive
 ---
 
 cross-posted from PluggedOut

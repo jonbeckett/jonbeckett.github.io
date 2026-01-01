@@ -2,7 +2,7 @@
 layout: post
 title: "Where The Hell Did Saturday Go"
 date: 2011-01-08
-categories: blog archive
+categories: archive
 ---
 
 How on earth is it nearly midnight already?

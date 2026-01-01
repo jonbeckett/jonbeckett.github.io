@@ -2,7 +2,7 @@
 layout: post
 title: "The Day From Hell"
 date: 2006-10-17
-categories: blog archive
+categories: archive
 ---
 
 My body woke me at half hourly intervals between 3 and 6am this morning. So much for the idea of a finely tuned body clock.

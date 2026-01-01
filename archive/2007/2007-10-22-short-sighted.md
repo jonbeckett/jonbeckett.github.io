@@ -2,7 +2,7 @@
 layout: post
 title: "Short Sighted"
 date: 2007-10-22
-categories: blog archive
+categories: archive
 ---
 
 Over the last few days I have become somewhat vexed by the short sighted view that many seem to hold with regard to the internet, the community that inhabits the internet, and the way that community interacts.

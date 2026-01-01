@@ -2,7 +2,7 @@
 layout: post
 title: "As Promised The Eden Project"
 date: 2005-06-30
-categories: blog archive
+categories: archive
 ---
 
 As promised, here are some pictures of the Eden project near St. Austell in Cornwall, UK

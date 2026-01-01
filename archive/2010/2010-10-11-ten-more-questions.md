@@ -2,7 +2,7 @@
 layout: post
 title: "Ten More Questions"
 date: 2010-10-11
-categories: blog archive
+categories: archive
 ---
 
 If you could change something about your home, without worry about expense or mess, what would you do?

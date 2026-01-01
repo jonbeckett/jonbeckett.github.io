@@ -2,7 +2,7 @@
 layout: post
 title: "Threading The Vacation Through The Eye Of A Broken Needle"
 date: 2014-08-01
-categories: blog archive
+categories: archive
 ---
 
 Yes, the title is crypticbut all will become clear if you continue to read. I thought about distilling our adventures down to a list of bullets, but then realise it would curtail the temptation to record endless foaming invective about the most minor of bumps along our vacation road.

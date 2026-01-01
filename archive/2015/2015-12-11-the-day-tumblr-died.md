@@ -2,7 +2,7 @@
 layout: post
 title: "The Day Tumblr Died"
 date: 2015-12-11
-categories: blog archive
+categories: archive
 ---
 
 Perhaps I'm being a little dramatic. Today at a marketing conference, Tumblr staffers on a panel confirmed while answering a question about the potential return of any kind of "reply" functionality thatmessaging was the replacement forreplies.

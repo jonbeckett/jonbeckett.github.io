@@ -2,7 +2,7 @@
 layout: post
 title: "Another Week Another Hotel Room"
 date: 2009-11-30
-categories: blog archive
+categories: archive
 ---
 
 I'm starting to get the hang of this - not living in a hotel - I'm starting to get the hang of expecting failure. Don't get me wrong - this hotel room is nice, but there are little things that could so easily have been right. It's a big Hilton, if that means anything.

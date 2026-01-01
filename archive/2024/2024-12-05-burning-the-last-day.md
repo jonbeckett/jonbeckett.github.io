@@ -2,7 +2,7 @@
 layout: post
 title: "Burning the last day"
 date: 2024-12-05
-categories: blog archive
+categories: archive
 ---
 
 If you work for the same company for long enough, you eventually amass more holiday days than you can possibly use. Add to that a busy year - billable for most of it - and you find yourself in my situation - taking staycation after staycation in a spiral of "use it or lose it" days off.

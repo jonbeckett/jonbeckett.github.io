@@ -2,7 +2,7 @@
 layout: post
 title: "New Mobile"
 date: 2007-03-10
-categories: blog archive
+categories: archive
 ---
 
 I have finally joined the "modern age" of mobile telephony, after purchasing a Sony Ericsson K800i this morning, and signing up for a contract with T-Mobile. For the last few years I have had a pay-as-you-go contract with Orange and a jurassic Nokia 6310i. The one good thing about the Nokia was that it lasted over a week on a charge, and (yes, this is two things) it could connect to the internet through GPRS.

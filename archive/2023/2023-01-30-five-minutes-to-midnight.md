@@ -2,7 +2,7 @@
 layout: post
 title: "Five Minutes to Midnight"
 date: 2023-01-30
-categories: blog archive
+categories: archive
 ---
 
 The Universe seems to be playing games with me at the moment. You know those (completely unrealistic) ideas I had about making time to write early in the morning?

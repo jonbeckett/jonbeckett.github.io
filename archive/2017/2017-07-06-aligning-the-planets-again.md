@@ -2,7 +2,7 @@
 layout: post
 title: "Aligning The Planets Again"
 date: 2017-07-06
-categories: blog archive
+categories: archive
 ---
 
 I guess with this whole re-boot thing going on, I get the chance to re-write my about page - or even not bother with one. Do I write a self-aggrandizing pile of codswallop, or should accidental readers be forced to figure me out through the published posts? I'm tempted not to bother. I'm not bothering with a lot of things these days.

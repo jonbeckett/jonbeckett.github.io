@@ -2,7 +2,7 @@
 layout: post
 title: "Every Other Day"
 date: 2019-05-29
-categories: blog archive
+categories: archive
 ---
 
 While cycling home from work this evening through steady rain, I started thinking about this blog - that after months of posting nearly every day, I seem to be sliding towards a post every few days. It's not something I consciously thought about or decided - it's just sort of happened.

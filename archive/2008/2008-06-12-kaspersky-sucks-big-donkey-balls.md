@@ -2,7 +2,7 @@
 layout: post
 title: "Kaspersky Sucks Big Donkey Balls"
 date: 2008-06-12
-categories: blog archive
+categories: archive
 ---
 
 After AVAST Antivirus announced several weeks ago that it's license was about to run out on the Windows machine at home (which surprised me, because it was supposed to be the free edition), I raised an eyebrow. The other eyebrow was already forming plans to look for a replacement.

@@ -2,7 +2,7 @@
 layout: post
 title: "Exiting the Holland Tunnel"
 date: 2023-12-13
-categories: blog archive
+categories: archive
 ---
 
 The clock ticked past midnight half an hour ago.

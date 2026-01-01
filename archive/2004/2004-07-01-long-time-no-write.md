@@ -2,7 +2,7 @@
 layout: post
 title: "Long Time No Write"
 date: 2004-07-01
-categories: blog archive
+categories: archive
 ---
 
 It seems like so long since I wrote an entry in my online diary - hence this short entry I guess.

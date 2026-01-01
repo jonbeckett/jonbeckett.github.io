@@ -2,7 +2,7 @@
 layout: post
 title: "Not Being There"
 date: 2009-11-10
-categories: blog archive
+categories: archive
 ---
 
 I haven't said anything about this on my blog yet - but half the reason for me spending so much time with the children recently has been because I knew what was on the horizon at work.

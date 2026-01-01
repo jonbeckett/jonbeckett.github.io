@@ -2,7 +2,7 @@
 layout: post
 title: "It All Started With The Notebooks"
 date: 2016-01-12
-categories: blog archive
+categories: archive
 ---
 
 The town I grew up in had an open-air market that took place on Thursdays. You could find everything from electrical goods, to denim jeans, to cuts of meat from a butcher working from the back of a truck. On the way into the market there was always a fish and chip van on the right of the entrance. Deep in the heart of the market was a stall that sold anything for 50 pence.

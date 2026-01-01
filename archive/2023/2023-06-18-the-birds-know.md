@@ -2,7 +2,7 @@
 layout: post
 title: "The Birds Know"
 date: 2023-06-18
-categories: blog archive
+categories: archive
 ---
 
 I just got back from giving a friend's dog his dinner, and taking him for a walk around the green outside our houses. He rewarded me by doing the biggest dump he possibly could - because he loves me, obviously.

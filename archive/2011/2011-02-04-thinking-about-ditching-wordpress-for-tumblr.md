@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking About Ditching Wordpress For Tumblr"
 date: 2011-02-04
-categories: blog archive
+categories: archive
 ---
 
 I've been thinking about doing this for some time. I've been writing a blog online since 2003 - first on my own script, and latterly on whichever blog platform was popular - losing readers each time I switched, but carrying on regardless.

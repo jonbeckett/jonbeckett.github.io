@@ -2,7 +2,7 @@
 layout: post
 title: "Worlds Without End"
 date: 2017-05-05
-categories: blog archive
+categories: archive
 ---
 
 A few days ago I wrote about Second Life - the virtual reality portal that burst onto the internet perhaps 15 years ago, burned hotter than the sun for a few fleeting months, and then vanished from our collective consciousness.

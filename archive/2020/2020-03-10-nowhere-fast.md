@@ -2,7 +2,7 @@
 layout: post
 title: "Nowhere Fast"
 date: 2020-03-10
-categories: blog archive
+categories: archive
 ---
 
 I've had a cold for the last couple of days - nothing too bad - just a bullshit cold that any parent of children will roll their eyes at throughout the winter months. However - after a conversation with the HR manager at lunchtime, we agreed that I should perhaps work from home for the next few days. Let's not call it an "abundance of caution" - let's call it absolute paranoia instead. We'll also ignore that it took me another three hours to finally leave the building.

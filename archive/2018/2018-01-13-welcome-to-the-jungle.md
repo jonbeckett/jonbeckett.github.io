@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome To The Jungle"
 date: 2018-01-13
-categories: blog archive
+categories: archive
 ---
 
 We took the newly crowned (as of this morning) Miss 14 out to the cinema last night to watch "Jumanji : Welcome to the Jungle". She had no clue the tickets were booked - only that we were going out to dinner at the restaurant next-door to the cinema. I sprung the surprise on her halfway through dinner by way of a question:

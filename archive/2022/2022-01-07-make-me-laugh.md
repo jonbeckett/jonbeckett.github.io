@@ -2,7 +2,7 @@
 layout: post
 title: "Make Me Laugh"
 date: 2022-01-07
-categories: blog archive
+categories: archive
 ---
 
 *This year I'm taking part in "[Bloganuary](https://bloganuary.wordpress.com/)" - a series of writing prompts published throughout the month by [Mindy Postoff](https://bloganuary.wordpress.com/author/mindywoothemes/). Today's writing prompt is "What makes you laugh?".*

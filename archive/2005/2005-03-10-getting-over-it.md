@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Over It"
 date: 2005-03-10
-categories: blog archive
+categories: archive
 ---
 
 I'm getting over the shock now of discovering that my contract of employment basically says that the company I work for holds the intellectual property rights of anything I create - either inside or outside work time.

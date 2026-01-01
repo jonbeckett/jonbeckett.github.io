@@ -2,7 +2,7 @@
 layout: post
 title: "South West"
 date: 2023-10-13
-categories: blog archive
+categories: archive
 ---
 
 A few minutes after finding a seat on a train at the local railway station this morning a lady walked through the train checking tickets. She took my ticket in her hand, read the destination, raised her eyebrows, and said "my word - that's quite the trek!".

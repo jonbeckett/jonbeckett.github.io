@@ -2,7 +2,7 @@
 layout: post
 title: "Aspiring To Mediocrity"
 date: 2011-01-16
-categories: blog archive
+categories: archive
 ---
 
 I caught myself looking at the visitor statistics on this tumblr account earlier. It occurred to me that it would be all too easy to become obsessed with gaining followers, visitors, or faux "friends".

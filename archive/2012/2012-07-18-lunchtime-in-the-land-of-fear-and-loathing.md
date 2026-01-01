@@ -2,7 +2,7 @@
 layout: post
 title: "Lunchtime In The Land Of Fear And Loathing"
 date: 2012-07-18
-categories: blog archive
+categories: archive
 ---
 
 Ok, so the title was a bit on the dramatic side. I'm back at work after a day off - wrestling with source code once again, and peering up the side of mount improbable which seems to be defended by legions of infidels throwing unrealistic expectations down at me. I've either caught or dodged their hurled missiles so far, but it's only a matter of time until I lose my footing, and begin a rapid, flailing slide towards disaster.

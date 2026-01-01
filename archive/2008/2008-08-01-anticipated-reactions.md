@@ -2,7 +2,7 @@
 layout: post
 title: "Anticipated Reactions"
 date: 2008-08-01
-categories: blog archive
+categories: archive
 ---
 
 Do you ever disregard a notion to tell somebody they look great because you fear it will be misinterpreted by the unwashed masses as some kind of "pass" ?

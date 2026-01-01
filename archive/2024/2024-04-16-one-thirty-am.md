@@ -2,7 +2,7 @@
 layout: post
 title: "One thirty AM"
 date: 2024-04-16
-categories: blog archive
+categories: archive
 ---
 
 You find me sitting in bed with a Chromebook propped in my lap, bathed in the light of a bedside lamp. Midnight came and went quite some time ago. All I can hear is the tapping of my fingers on the keys, tree branches swaying in the wind outside, and the muffled sounds of the television in the lounge. Now and again the distant rumble of an aircraft passes on approach to Heathrow.

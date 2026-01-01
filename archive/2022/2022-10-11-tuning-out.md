@@ -2,7 +2,7 @@
 layout: post
 title: "Tuning Out"
 date: 2022-10-11
-categories: blog archive
+categories: archive
 ---
 
 I opened the word processor at 8:35 this morning, with every intention of writing a blog post before work started. One thing after another cropped up throughout the day to make sure no writing of any sort happened. Before I knew it, I was up to my ears in source code, meetings, and an endless stream of email.

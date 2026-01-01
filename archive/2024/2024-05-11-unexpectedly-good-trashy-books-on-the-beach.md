@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpectedly good trashy books on the beach"
 date: 2024-05-11
-categories: blog archive
+categories: archive
 ---
 
 You know the one where you visit your parents for a long weekend with your youngest daughter, and then try to fit an entire weekend's worth of activities into each day? That.

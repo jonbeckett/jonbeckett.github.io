@@ -2,7 +2,7 @@
 layout: post
 title: "4 Hours Sleep"
 date: 2008-10-20
-categories: blog archive
+categories: archive
 ---
 
 I'm looking forward to probably 4 hours sleep tonight.

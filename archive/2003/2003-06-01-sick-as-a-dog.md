@@ -2,7 +2,7 @@
 layout: post
 title: "Sick As A Dog"
 date: 2003-06-01
-categories: blog archive
+categories: archive
 ---
 
 We went out to a housewarming party on Friday night. I didn't know if I should go or not, because I had been going downhill all the way through Friday at work, and was coughing more or less every few minutes.

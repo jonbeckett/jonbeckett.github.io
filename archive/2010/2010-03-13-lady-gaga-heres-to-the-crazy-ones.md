@@ -2,7 +2,7 @@
 layout: post
 title: "Lady Gaga Heres To The Crazy Ones"
 date: 2010-03-13
-categories: blog archive
+categories: archive
 ---
 
 This week the video for "Telephone" by Lady Gaga was released. There are not enough adjectives. It's inventive, loud, original, and perhaps most importantly, it's different. The famous quote from the annuls of Apple comments on the crazy ones; that they change things. Love her, or hate her, Lady Gaga is changing pop music as we know it - dragging us with her as she turns the machinery.

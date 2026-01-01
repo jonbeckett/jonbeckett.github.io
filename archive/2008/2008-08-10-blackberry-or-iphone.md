@@ -2,7 +2,7 @@
 layout: post
 title: "Blackberry Or Iphone"
 date: 2008-08-10
-categories: blog archive
+categories: archive
 ---
 
 My mobile phone contract comes up for renewal in a couple of months time - and I'm already looking at the various options open to me. The following devices are at the top of the list;

@@ -2,7 +2,7 @@
 layout: post
 title: "A Day In Dads Life"
 date: 2008-04-10
-categories: blog archive
+categories: archive
 ---
 
 I'm going to write the blog post that you just don't see on the internet.

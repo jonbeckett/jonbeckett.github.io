@@ -2,7 +2,7 @@
 layout: post
 title: "Whole World In His Pants"
 date: 2008-12-03
-categories: blog archive
+categories: archive
 ---
 
 While little miss 4 years old was wandering around the house the other day, W overheard her singing

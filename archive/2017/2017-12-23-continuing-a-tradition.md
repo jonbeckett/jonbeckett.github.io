@@ -2,7 +2,7 @@
 layout: post
 title: "Continuing A Tradition"
 date: 2017-12-23
-categories: blog archive
+categories: archive
 ---
 
 Our youngest just received a phonecall from Santa en-route. He got our postcode wrong. We heard the shouted conversation on the upstairs landing, and the thundering of feet as she rushed to tell us.

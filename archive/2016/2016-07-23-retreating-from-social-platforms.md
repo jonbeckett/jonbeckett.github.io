@@ -2,7 +2,7 @@
 layout: post
 title: "Retreating From Social Platforms"
 date: 2016-07-23
-categories: blog archive
+categories: archive
 ---
 
 It all started a few weeks ago - when I was working on-site, and spent the week of evenings away meddling with server installs, databases, and migrations of old blog posts - rather than hanging out at any of the "social" platforms on the internet. Around the same time I wiped my phone, and thought it might be interesting not to re-install a lot of supposedly social platform apps that had become a mainstay in recent years.

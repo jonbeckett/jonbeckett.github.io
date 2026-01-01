@@ -2,7 +2,7 @@
 layout: post
 title: "The News Finally Breaks"
 date: 2006-07-19
-categories: blog archive
+categories: archive
 ---
 
 I logged into Rojo this lunchtime to catch up with the various blogs I regularly read, and came across a news story that I have been expecting to see for some time.

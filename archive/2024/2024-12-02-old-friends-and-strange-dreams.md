@@ -2,7 +2,7 @@
 layout: post
 title: "Old friends and strange dreams"
 date: 2024-12-02
-categories: blog archive
+categories: archive
 ---
 
 I had the strangest dream in quite some time last night. Or at least I think it was last night. I'm never quite sure when the dream happens - during the night, or in the moments before we wake up?

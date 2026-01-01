@@ -2,7 +2,7 @@
 layout: post
 title: "The Wanderer Returns"
 date: 2012-07-15
-categories: blog archive
+categories: archive
 ---
 
 J.

@@ -2,7 +2,7 @@
 layout: post
 title: "Home Alone"
 date: 2003-11-03
-categories: blog archive
+categories: archive
 ---
 
 I have stayed off work today after losing the battle with an ear infection. I thought about going in at lunchtime, and started to get ready - but bent down to do my shoes up and nearly fell over... so cycling to work (I ride a mountain bike in) wouldn't have been the safest thing in the world to do.

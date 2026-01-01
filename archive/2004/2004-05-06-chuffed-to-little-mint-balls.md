@@ -2,7 +2,7 @@
 layout: post
 title: "Chuffed To Little Mint Balls"
 date: 2004-05-06
-categories: blog archive
+categories: archive
 ---
 
 Where on earth does the phrase "chuffed to little mint balls" come from? All I know is I am extremely pleased because the programming I have been working on for the last three months is actually working.

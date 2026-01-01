@@ -2,7 +2,7 @@
 layout: post
 title: "Working On Cms Again"
 date: 2004-10-14
-categories: blog archive
+categories: archive
 ---
 
 Greetings from a dark, rainy England.

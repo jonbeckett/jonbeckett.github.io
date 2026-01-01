@@ -2,7 +2,7 @@
 layout: post
 title: "Not Working"
 date: 2021-10-21
-categories: blog archive
+categories: archive
 ---
 
 Today was the first day I have called in sick since the pandemic began. That's about two years, isn't it? Both of my younger daughters had gone down with something recently, and today I'm guessing whatever they had caught up with me.

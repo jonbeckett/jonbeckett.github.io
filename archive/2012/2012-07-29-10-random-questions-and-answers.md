@@ -2,7 +2,7 @@
 layout: post
 title: "10 Random Questions And Answers"
 date: 2012-07-29
-categories: blog archive
+categories: archive
 ---
 
 If you could change something about your home, without worry about expense or mess, what would you do?

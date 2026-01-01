@@ -2,7 +2,7 @@
 layout: post
 title: "What tomorrow may bring"
 date: 2023-08-17
-categories: blog archive
+categories: archive
 ---
 
 The clock ticked past midnight a few minutes ago. Everybody else has gone to bed. I'm sitting here in the dark, turning thoughts over in my head.

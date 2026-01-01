@@ -2,7 +2,7 @@
 layout: post
 title: "Writing code"
 date: 2024-05-23
-categories: blog archive
+categories: archive
 ---
 
 I'm not really sure where the last few days have gone. Actually - that's not entirely true.

@@ -2,7 +2,7 @@
 layout: post
 title: "Iphone Lg Cookie Solution Of Sorts"
 date: 2009-01-21
-categories: blog archive
+categories: archive
 ---
 
 At some point over the next few days - possible this evening - I am going to replace my venerable old Nokia pay-as-you-go phone with a more modern handset. After a quick look around on the internet, the LG Cookie looks like the most obvious candidate at the moment.

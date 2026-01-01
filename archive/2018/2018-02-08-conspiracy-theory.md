@@ -2,7 +2,7 @@
 layout: post
 title: "Conspiracy Theory"
 date: 2018-02-08
-categories: blog archive
+categories: archive
 ---
 
 If I didn't know better, I would say the old desktop computer in the study has got it in for me tonight. In the last ten minutes it has crashed twice. Perhaps the computer is trying to drop hints about the wisdom of posting to the blog when I have very little to share. Obviously the computer has no idea how adept I am at continuing to write when I have nothing to write about. Some might call it a skill. Maybe.

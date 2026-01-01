@@ -2,7 +2,7 @@
 layout: post
 title: "Five Little Ladies"
 date: 2014-07-12
-categories: blog archive
+categories: archive
 ---
 
 When I left work yesterday evening a memory flashed through my mind about our middle girl inviting two friends for a sleepover. I guess somewhere in a forgotten corner of my brain I was hiding behind the hope that they would kind of look after themselves, and that I would have fairly quiet evening.

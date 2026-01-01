@@ -2,7 +2,7 @@
 layout: post
 title: "Difficult Post"
 date: 2005-06-19
-categories: blog archive
+categories: archive
 ---
 
 I'm wondering if I should be writing this or not, but thought it's probably best - otherwise people will wonder if I've dissappeared off the face of the world or something.

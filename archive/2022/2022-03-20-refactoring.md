@@ -2,7 +2,7 @@
 layout: post
 title: "Refactoring"
 date: 2022-03-20
-categories: blog archive
+categories: archive
 ---
 
 The two week long internet island building escapade has come to an end. While looking at the collection of supposedly more thoughtful words I had migrated from the year-long descent into partner-programme madness at Medium, I realised something awful.

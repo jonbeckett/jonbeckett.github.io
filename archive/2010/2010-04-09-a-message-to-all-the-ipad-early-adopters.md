@@ -2,7 +2,7 @@
 layout: post
 title: "A Message To All The Ipad Early Adopters"
 date: 2010-04-09
-categories: blog archive
+categories: archive
 ---
 
 Perhaps this post should be more accurately titled - "a message to all the iPad early adopters who are now complaining". My message - It serves you f*cking right.

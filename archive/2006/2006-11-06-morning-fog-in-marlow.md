@@ -2,7 +2,7 @@
 layout: post
 title: "Morning Fog In Marlow"
 date: 2006-11-06
-categories: blog archive
+categories: archive
 ---
 
 It would appear that Winter is finally upon us...

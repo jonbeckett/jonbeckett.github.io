@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee And Spotify"
 date: 2020-11-15
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday afternoon, and you find me tapping a few words into the blog, accompanied by a cup of coffee, and the Starbucks "Global" playlist on Spotify. I tend to drink instant coffee at home - because it's cheap. A lot of my decisions at the moment seem to be based around things being either free, or inexpensive.

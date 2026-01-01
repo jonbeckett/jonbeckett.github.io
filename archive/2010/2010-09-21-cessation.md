@@ -2,7 +2,7 @@
 layout: post
 title: "Cessation"
 date: 2010-09-21
-categories: blog archive
+categories: archive
 ---
 
 I've been sat here this evening, considering closing the doors to my wordpress blog for the time being. I've been struggling to find anything to write about for months, and consequently the readership has fallen through the floor.

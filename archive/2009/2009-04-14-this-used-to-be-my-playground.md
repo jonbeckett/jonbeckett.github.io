@@ -2,7 +2,7 @@
 layout: post
 title: "This Used To Be My Playground"
 date: 2009-04-14
-categories: blog archive
+categories: archive
 ---
 
 There was a time when I would find a quiet hour to sit at the computer and write. The keyboard served as a conduit between mind and computer, translating the days thoughts, experiences and frustrations into something of interest for the wider world.

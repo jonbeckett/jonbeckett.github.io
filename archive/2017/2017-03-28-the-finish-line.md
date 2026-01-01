@@ -2,7 +2,7 @@
 layout: post
 title: "The Finish Line"
 date: 2017-03-28
-categories: blog archive
+categories: archive
 ---
 
 This afternoon I finally dragged the project I have been working on over the finish line.Of course this is only the first finish line. The monstrosity I have been working on will be unleashed on the "End Users" in days to come, who I have no doubt will put it to the sword in the various creative ways that nobody would ever have imagined. I'm trying not to think too much about it.

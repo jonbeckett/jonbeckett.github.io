@@ -2,7 +2,7 @@
 layout: post
 title: "Pausing Between Reboots"
 date: 2003-02-24
-categories: blog archive
+categories: archive
 ---
 
 Today I am at work and I'm not really sure why. I feel like crap (I did all weekend), and can't really concentrate properly.

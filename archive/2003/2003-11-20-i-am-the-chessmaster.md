@@ -2,7 +2,7 @@
 layout: post
 title: "I Am The Chessmaster "
 date: 2003-11-20
-categories: blog archive
+categories: archive
 ---
 
 I am a little enthused at the moment.

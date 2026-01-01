@@ -2,7 +2,7 @@
 layout: post
 title: "Inspirational"
 date: 2022-01-06
-categories: blog archive
+categories: archive
 ---
 
 This year I'm taking part in "[Bloganuary](https://bloganuary.wordpress.com/)" - a series of writing prompts published throughout the month by [Mindy Postoff](https://bloganuary.wordpress.com/author/mindywoothemes/). Today's writing prompt is "Who is someone that inspires you and why?".

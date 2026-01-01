@@ -2,7 +2,7 @@
 layout: post
 title: "Seven Plus One Equals Eight"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 In a repeat of last weekend, which I believe I may have referred to as "not a weekend" during more than one stressed moment, this weekend is careering off under it's own momentum too.

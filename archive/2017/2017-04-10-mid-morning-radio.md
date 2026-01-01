@@ -2,7 +2,7 @@
 layout: post
 title: "Mid Morning Radio"
 date: 2017-04-10
-categories: blog archive
+categories: archive
 ---
 
 There's something they don't tell you about having a "staycation". While you're sitting quitely in the lounge with your laptop mid-morning, and the radio is still playing in the kitchen because you didn't switch it off after the breakfast show, a scheduled show starts that you don't normally hear, because you're at work.

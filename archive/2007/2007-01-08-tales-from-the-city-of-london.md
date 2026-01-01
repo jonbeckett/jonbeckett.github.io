@@ -2,7 +2,7 @@
 layout: post
 title: "Tales From The City Of London"
 date: 2007-01-08
-categories: blog archive
+categories: archive
 ---
 
 Today finds me taking my lunchbreak in an office building just off Bishopsgate in London. They have kindly allowed me to use a workstation with internet access, which I am taking advantage of to send word of my day so far.

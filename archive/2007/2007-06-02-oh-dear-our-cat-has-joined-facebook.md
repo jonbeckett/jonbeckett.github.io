@@ -2,7 +2,7 @@
 layout: post
 title: "Oh Dear Our Cat Has Joined Facebook"
 date: 2007-06-02
-categories: blog archive
+categories: archive
 ---
 
 I don't believe it... our cat is on Facebook...

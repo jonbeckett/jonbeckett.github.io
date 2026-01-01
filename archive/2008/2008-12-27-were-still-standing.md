@@ -2,7 +2,7 @@
 layout: post
 title: "Were Still Standing"
 date: 2008-12-27
-categories: blog archive
+categories: archive
 ---
 
 After spending our first Christmas with children, more toys than most toy shops, a house full of family, and numerous inter-continental webcam calls, we are still here to tell the tale.

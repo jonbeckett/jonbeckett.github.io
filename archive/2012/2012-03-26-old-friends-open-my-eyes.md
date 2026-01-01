@@ -2,7 +2,7 @@
 layout: post
 title: "Old Friends Open My Eyes"
 date: 2012-03-26
-categories: blog archive
+categories: archive
 ---
 
 I quite accidentally got back in touch with an old friend recently. She worked at a web design company in San Francisco back in the dot com boom, and somehow we became friends. The friendship survived the next ten years, although chances to catch up with each other became increasingly infrequent. Life happened to both of us.

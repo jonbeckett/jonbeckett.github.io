@@ -2,7 +2,7 @@
 layout: post
 title: "Winter Hits Marlow"
 date: 2007-02-08
-categories: blog archive
+categories: archive
 ---
 
 I am working from home today following the skies depositing several inches of snow across most of the Thames Valley last night - it's still snowing hard now (9:30am), and doesn't look like letting up.

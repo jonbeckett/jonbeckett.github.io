@@ -2,7 +2,7 @@
 layout: post
 title: "Playing God With The Sims"
 date: 2010-01-03
-categories: blog archive
+categories: archive
 ---
 
 If you have not played it before, "The Sims" is a stupid computer game where you get to play godcontrolling little people who exist within the game. As against games such as World of Warcraft (which I dare not play) where you play marauding maniacs firing magic spells out of your backside, the Sims is rather more pedestrian. Goals vary according to the sort of person you are magically manipulating; they might aspire to make a new friend, to host a party or ahem to chat 3 people up at the same party.

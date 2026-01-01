@@ -2,7 +2,7 @@
 layout: post
 title: "More Than A Few Words About Pluggedout"
 date: 2007-11-28
-categories: blog archive
+categories: archive
 ---
 
 Those who visit the PluggedOut website will perhaps be wondering what on earth has happened - the website has changed considerably once again. I have been tinkering - that's what has happened.

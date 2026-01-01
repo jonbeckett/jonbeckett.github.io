@@ -2,7 +2,7 @@
 layout: post
 title: "Time For A Confession"
 date: 2008-01-21
-categories: blog archive
+categories: archive
 ---
 
 I just bought the components to prolongue the life of the desktop computer at home.

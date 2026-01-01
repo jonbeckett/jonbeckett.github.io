@@ -2,7 +2,7 @@
 layout: post
 title: "The Enduring Appeal Of Britney Spears"
 date: 2008-07-25
-categories: blog archive
+categories: archive
 ---
 
 If you arrived at this blog post expecting to see a fan-boy posting about the enigma that is "Britney", you're going to be disappointed. This post is a cynical exploitation of the crowd to investigate the effect Miss Spears name has on website traffic.

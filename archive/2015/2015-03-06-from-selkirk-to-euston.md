@@ -2,7 +2,7 @@
 layout: post
 title: "From Selkirk To Euston"
 date: 2015-03-06
-categories: blog archive
+categories: archive
 ---
 
 I woke ridiculously early this morning. The phone alarm clock went off, and woke me from the most ridiculous dream I had in quite some time.

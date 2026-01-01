@@ -2,7 +2,7 @@
 layout: post
 title: "Annoyed On A Plane"
 date: 2019-02-10
-categories: blog archive
+categories: archive
 ---
 
  * The card not working in the ticket machine in the railway station  * People walking up to me, starting conversations in German

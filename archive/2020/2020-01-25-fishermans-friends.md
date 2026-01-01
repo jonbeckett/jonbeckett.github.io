@@ -2,7 +2,7 @@
 layout: post
 title: "Fishermans Friends"
 date: 2020-01-25
-categories: blog archive
+categories: archive
 ---
 
 I watched the movie "Fisherman's Friends" this evening - about the group of Cornish fisherman that recorded an album of sea shanties a few years ago, that unexpectedly stormed the charts.

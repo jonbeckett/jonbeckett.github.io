@@ -2,7 +2,7 @@
 layout: post
 title: "Bank Holiday Weekend"
 date: 2016-04-30
-categories: blog archive
+categories: archive
 ---
 
 The house seems strangely quiet this morning. Our younger daughterswho would normally be into the second hour of a Mario Kart marathon by noware not here. They are camping in a field about an hour away with the Girl Guides for the weekendthe preparations for which were evidenced by our kitchen looking like the headquarters of an Everest expedition for much of the week.

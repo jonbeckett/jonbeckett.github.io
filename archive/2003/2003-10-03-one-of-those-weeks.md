@@ -2,7 +2,7 @@
 layout: post
 title: "One Of Those Weeks"
 date: 2003-10-03
-categories: blog archive
+categories: archive
 ---
 
 It's been a strange week really.

@@ -2,7 +2,7 @@
 layout: post
 title: "Happy New Year"
 date: 2009-01-01
-categories: blog archive
+categories: archive
 ---
 
 It's 2009! Just handed the phone over with my parents - now talking to W. Just wanted to wish everybody who reads a happy new year.

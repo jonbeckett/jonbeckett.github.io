@@ -2,7 +2,7 @@
 layout: post
 title: "Tentative"
 date: 2019-03-21
-categories: blog archive
+categories: archive
 ---
 
 Earlier this year I holed myself up on an internet island of my own creation for a while. A respite of sorts from the avalanche of conversation that tends to thunder past no matter where you might stand while navigating Twitter, Tumblr, WordPress, Facebook, or wherever else.

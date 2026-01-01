@@ -2,7 +2,7 @@
 layout: post
 title: "The Post You Have Been Waiting For"
 date: 2008-03-27
-categories: blog archive
+categories: archive
 ---
 
 A close blogging friend remarked earlier that I had not written much about the children recently, and that I should - that she enjoyed reading about our experiences and thoughts so far.

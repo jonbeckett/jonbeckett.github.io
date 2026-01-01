@@ -2,7 +2,7 @@
 layout: post
 title: "I Am An Idiot"
 date: 2005-01-15
-categories: blog archive
+categories: archive
 ---
 
 Yesterday I was working on-site and had to transfer some files from my own development FTP site - so needed the passwords. I have all my passwords on a USB keyring drive in an encrypted file - so hopefully nobody can find them out.

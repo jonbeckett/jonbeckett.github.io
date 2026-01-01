@@ -3,7 +3,6 @@ layout: single
 title: "The Saturday Spoons Ritual Continues"
 date: 2025-08-23
 categories:
-  - blog
   - "2025"
 ---
 

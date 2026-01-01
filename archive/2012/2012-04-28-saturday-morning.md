@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning"
 date: 2012-04-28
-categories: blog archive
+categories: archive
 ---
 
 For the first time in weeks we have nothing planned today. Saying that, it's tipping down with rain outside. The kids have avoided killing each other so far, but there is still time.

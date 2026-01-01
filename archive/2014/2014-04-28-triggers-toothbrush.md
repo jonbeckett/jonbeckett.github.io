@@ -2,7 +2,7 @@
 layout: post
 title: "Triggers Toothbrush"
 date: 2014-04-28
-categories: blog archive
+categories: archive
 ---
 
 I just had perhaps the most bizarre conversation with our eldest daughter in quite some time. We will try to ignore that I met her at the foot of the stairs at 10:30pman hour after she was supposed to be in bed. We will concentrate on her immediate question;"Is my toothbrush down here?""No idea"She wandered off into the bathroom in search of it, and I half listenedwondering if my other half would tip an otherwise quiet evening down the toilet and start ranting at her about not going to bed when asked.

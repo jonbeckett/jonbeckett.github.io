@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Imaginary Aeroplane Escapade"
 date: 2022-05-15
-categories: blog archive
+categories: archive
 ---
 
 It's been a few days since I emptied my head into the keyboard. I'm not quite sure how that happens. It's almost like the universe turns the tap on or off from time to time - sometimes the words pour out of me in a torrent, sometimes in a trickle, and sometimes I turn the tap myself and nothing comes out.

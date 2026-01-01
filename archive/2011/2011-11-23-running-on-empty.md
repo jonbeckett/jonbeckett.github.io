@@ -2,7 +2,7 @@
 layout: post
 title: "Running On Empty"
 date: 2011-11-23
-categories: blog archive
+categories: archive
 ---
 
 It's only tuesday evening, and I feel like I've been run over by a truck.

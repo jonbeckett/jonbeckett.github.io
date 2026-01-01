@@ -2,7 +2,7 @@
 layout: post
 title: "Treat Yo Self"
 date: 2022-11-25
-categories: blog archive
+categories: archive
 ---
 
 For the last several years I have been soldiering on with a little Amazon "Fire Tablet". It's been my go-to device for reading in bed and watching movies and TV shows when the rest of the family are hogging the television in the living room. It's travelled all over the place with me - on trains, planes, and to distant hotels, restaurants and cafes while travelling with work.

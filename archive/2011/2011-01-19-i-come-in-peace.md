@@ -2,7 +2,7 @@
 layout: post
 title: "I Come In Peace"
 date: 2011-01-19
-categories: blog archive
+categories: archive
 ---
 
 Greetings to all those I have begun following over the past few weeks - an odyssey that has opened my eyes to the awesome community that exists at Tumblr is spite of the continualseismic rumbles that seem to afflict the servers. I've been quietly existing withing the massed ranks of the tumblrati for years under various names, and in various guizes, but have only recently ventured forth, nervously introducing myself to far flung strangers.

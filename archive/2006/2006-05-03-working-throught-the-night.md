@@ -2,7 +2,7 @@
 layout: post
 title: "Working Throught The Night"
 date: 2006-05-03
-categories: blog archive
+categories: archive
 ---
 
 I'm working through the night tonight to "try" and get ahead with a work project.

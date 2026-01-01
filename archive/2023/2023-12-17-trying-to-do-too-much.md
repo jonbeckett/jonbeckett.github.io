@@ -2,7 +2,7 @@
 layout: post
 title: "Trying to do too much"
 date: 2023-12-17
-categories: blog archive
+categories: archive
 ---
 
 I finally fell into bed at 2am last night - and then watched a TV show on my laptop until nearly 3am. Perhaps this "trying to fit too much into each day" lark is starting to get a bit out-of-hand?

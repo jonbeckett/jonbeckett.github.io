@@ -2,7 +2,7 @@
 layout: post
 title: "Chapter 2 First Day"
 date: 2008-11-03
-categories: blog archive
+categories: archive
 ---
 
 The digital wail of an alarm clock rips into the remnants of the quite wonderful dream I was having about Jet from Gladiators, and I crack an eye open. A silent black nose is inches front mine - now holding it's breath in the anticipation that I will get up and feed it.

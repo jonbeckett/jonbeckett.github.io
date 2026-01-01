@@ -2,7 +2,7 @@
 layout: post
 title: "The dilemma of knowing"
 date: 2023-05-28
-categories: blog archive
+categories: archive
 ---
 
 We went out today.

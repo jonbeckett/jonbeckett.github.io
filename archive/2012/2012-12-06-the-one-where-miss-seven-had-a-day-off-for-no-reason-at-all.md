@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Miss Seven Had A Day Off For No Reason At All"
 date: 2012-12-06
-categories: blog archive
+categories: archive
 ---
 
 The primary school our children go to has a rule stating that if your child has been sick, they are not allowed to visit school until the have not been sick for 24 hours. My other half took the day off yesterday, and I took the day off today to "keep an eye on her".

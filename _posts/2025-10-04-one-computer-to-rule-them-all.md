@@ -3,7 +3,6 @@ layout: single
 title: "One computer to rule them all"
 date: 2025-10-04
 categories:
-  - blog
   - "2025"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Maybe Im Amazed"
 date: 2021-08-27
-categories: blog archive
+categories: archive
 ---
 
 It's been a strange sort of day so far. The last day of my holiday, which has transmogrified from a vacation to a staycation - knocking around the house for the last few days. Yesterday and today have been mostly about washing clothes, washing dishes, washing more clothes, washing more dishes, hoovering, changing bedding, cutting the lawn, and... there must be something else, but I'm coming up blank at the moment.

@@ -2,7 +2,7 @@
 layout: post
 title: "Quiet Days"
 date: 2020-12-30
-categories: blog archive
+categories: archive
 ---
 
 It feels like we are in a strange sort of limbo at the moment - not allowed to go anwhere, or visit anybody. We spend each day watching movies, playing board games, reading books, doing jigsaws, and noodling around on the internet. It's all very odd.

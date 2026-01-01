@@ -2,7 +2,7 @@
 layout: post
 title: "Build A Community Of Bloggers"
 date: 2007-01-04
-categories: blog archive
+categories: archive
 ---
 
 I have been thinking. About community stuff.

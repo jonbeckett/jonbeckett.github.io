@@ -2,7 +2,7 @@
 layout: post
 title: "Its Turtles All The Way Down"
 date: 2008-03-31
-categories: blog archive
+categories: archive
 ---
 
 Have just been reading the O'Reilly C# book, and came across a story I have seen before, but it always makes me laugh, so I thought I would share it...

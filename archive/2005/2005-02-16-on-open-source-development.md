@@ -2,7 +2,7 @@
 layout: post
 title: "On Open Source Development"
 date: 2005-02-16
-categories: blog archive
+categories: archive
 ---
 
 I have recently been asked by a student in America to help with a college assignment where he will be comparing and contrasting the views of an open source developer with those of a developer at Microsoft. Here's what I wrote in response to his questions...

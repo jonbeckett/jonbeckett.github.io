@@ -2,7 +2,7 @@
 layout: post
 title: "Cutting Most Of My Hair Off"
 date: 2021-10-15
-categories: blog archive
+categories: archive
 ---
 
 I downed tools a few minutes ago for the first time today (read: pushed back away from the work laptop), emptied the washing machine, filled the washing machine again, hung washing on the line, made a sandwich, and then cut most of my hair off. Yes, you read that right - I cut most of my hair off.

@@ -2,7 +2,7 @@
 layout: post
 title: "Playing With Webcams"
 date: 2004-05-10
-categories: blog archive
+categories: archive
 ---
 
 I tried installing my old webcam on my laptop last night. To be honest, I forgot I had a webcam until I was rooting around behind the units in the junk room, and there it was on the floor. After much digging around on the internet I figured out which model it was (a Logitech Quickcam Express - the cheapest one they used to do), and downloaded the Win98 drivers for it... all 40Mb of them.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Dragon Called Jug"
 date: 2010-05-05
-categories: blog archive
+categories: archive
 ---
 
 The journey home from work today was probably unremarkable. I say "probably" because I have quite obviously arrived home, and appear to be in one piece. I do not recall the journey home at all - only my arrival at the back gate of our house. It's amazing how your body can continue to function when your mind is otherwise engaged.

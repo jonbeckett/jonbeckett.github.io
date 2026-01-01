@@ -2,7 +2,7 @@
 layout: post
 title: "Building A Development Community"
 date: 2005-04-20
-categories: blog archive
+categories: archive
 ---
 
 I have spent the last half an hour putting the foundations in place to open my "open source" projects up to the world - to try and build a community of developers to take the project forwards.

@@ -2,7 +2,7 @@
 layout: post
 title: "Asteroid On Collision Course With Earth"
 date: 2008-10-07
-categories: blog archive
+categories: archive
 ---
 
 Just read over at Slashdot...

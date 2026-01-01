@@ -2,7 +2,7 @@
 layout: post
 title: "One Of Those Days"
 date: 2008-09-01
-categories: blog archive
+categories: archive
 ---
 
 Today was one of those days when it doesn't just feel like all you've done is tell the children off all day - you know it's all you've done all day.

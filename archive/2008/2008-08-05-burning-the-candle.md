@@ -2,7 +2,7 @@
 layout: post
 title: "Burning The Candle"
 date: 2008-08-05
-categories: blog archive
+categories: archive
 ---
 
 Have you ever heard the expression "burning the candle at both ends" ? It accurately describes my life at the moment.

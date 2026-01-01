@@ -2,7 +2,7 @@
 layout: post
 title: "Retro Saturday"
 date: 2011-09-10
-categories: blog archive
+categories: archive
 ---
 
 In between tidying up after the kids, feeding pets, and putting things away, I'm tryingto have a relaxed Saturday.

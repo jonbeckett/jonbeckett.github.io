@@ -2,7 +2,7 @@
 layout: post
 title: "Answering Questions"
 date: 2012-04-11
-categories: blog archive
+categories: archive
 ---
 
 My quite wonderful far flung friendAntidamenfrom Norway (we have known each other sincewaybefore Tumblr), requested answers to the following questions - who am I to turn down an invitation from a beautiful girl from the north ? 

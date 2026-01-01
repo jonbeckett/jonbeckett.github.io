@@ -2,7 +2,7 @@
 layout: post
 title: "Home With My Thoughts"
 date: 2004-07-13
-categories: blog archive
+categories: archive
 ---
 
 We've finally arrived home after several days of mayhem.

@@ -2,7 +2,7 @@
 layout: post
 title: "Love And Betrayal"
 date: 2018-05-18
-categories: blog archive
+categories: archive
 ---
 
 How do I describe the events of yesterday ?

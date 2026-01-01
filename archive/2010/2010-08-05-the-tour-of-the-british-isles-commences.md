@@ -2,7 +2,7 @@
 layout: post
 title: "The Tour Of The British Isles Commences"
 date: 2010-08-05
-categories: blog archive
+categories: archive
 ---
 
 Tomorrow morning we depart Beckett Towers, and escape to higher ground and higher latitudes for a week of hill walking fun with W's parents and the children. It will be interesting to see how they cope with tired legs and very long, steep hills (probably better than the adults).

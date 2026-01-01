@@ -2,7 +2,7 @@
 layout: post
 title: "Slowly And Quietly"
 date: 2020-12-12
-categories: blog archive
+categories: archive
 ---
 
 I'm spending a very quiet Saturday hiding out at home, reading all the things, and emptying my head into the keyboard. It feels like the writing mania that overtook me for the last several days is starting to recede. I do this - I go through phases - with most things.

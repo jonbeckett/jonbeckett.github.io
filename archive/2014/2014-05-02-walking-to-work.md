@@ -2,7 +2,7 @@
 layout: post
 title: "Walking To Work"
 date: 2014-05-02
-categories: blog archive
+categories: archive
 ---
 
 For the past several days I have been walking to work, on account of snapping the crank on my bike in half. I would like to think my undiscovered superpowers were the cause (a co-worker somewhat reliably informs me that bicycle cranks are nigh on indestructible), but it's more likely to be related to leaving the bike out in the rain too often, and not oiling it often enough (read:ever).

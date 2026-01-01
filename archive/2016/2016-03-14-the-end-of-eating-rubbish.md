@@ -2,7 +2,7 @@
 layout: post
 title: "The End Of Eating Rubbish"
 date: 2016-03-14
-categories: blog archive
+categories: archive
 ---
 
 In order to help our middle daughter shed a few pounds, we're all going to take part, because we are all a little way from where we should be (hell, who am I kiddingI'm heavier than I've ever been).

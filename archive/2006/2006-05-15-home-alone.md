@@ -2,7 +2,7 @@
 layout: post
 title: "Home Alone"
 date: 2006-05-15
-categories: blog archive
+categories: archive
 ---
 
 Did I write a blog yesterday? I don't recall...

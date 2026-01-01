@@ -2,7 +2,7 @@
 layout: post
 title: "Cautiously Optimistic"
 date: 2020-01-07
-categories: blog archive
+categories: archive
 ---
 
 After dipping toes back into the source code that ruled my life for much of last summer, I appear to be largely unscathed. This is worthy of celebration - or at least, the celebration that might be conjured with a glass of left-over red wine while sitting in the junk room at home.

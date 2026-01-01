@@ -2,7 +2,7 @@
 layout: post
 title: "An Adventure In London"
 date: 2020-02-01
-categories: blog archive
+categories: archive
 ---
 
 This morning I got up bright and early, woke our eldest daughter with a bacon sandwich, and then set off for the railway station with her to spend the day wandering around London together. We had no particular reason to go - no plan as such - just a day out exploring, and following our noses.

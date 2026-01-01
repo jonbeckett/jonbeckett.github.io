@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Monday"
 date: 2010-10-11
-categories: blog archive
+categories: archive
 ---
 
 Ba daaa, baa da daa daa...

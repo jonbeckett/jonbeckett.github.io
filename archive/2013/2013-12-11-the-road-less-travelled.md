@@ -2,7 +2,7 @@
 layout: post
 title: "The Road Less Travelled"
 date: 2013-12-11
-categories: blog archive
+categories: archive
 ---
 
 Sometimes, quite by chance, fueled by just the right amount of wine, just the right amount of stress, and just the right sentiments in a movie or book, we question who we are, where we are going, and what we are doing with our lives.

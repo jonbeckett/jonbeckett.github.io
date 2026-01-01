@@ -2,7 +2,7 @@
 layout: post
 title: "Somebody Press The Stop Button Please"
 date: 2012-06-11
-categories: blog archive
+categories: archive
 ---
 
 As Mondays after the half term holidays go, today was pretty uneventful. Having an "uneventful" day doesn't happen by accident of courseit requires skill, dedication, and a fair amount of idiocy.

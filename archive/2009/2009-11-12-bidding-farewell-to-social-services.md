@@ -2,7 +2,7 @@
 layout: post
 title: "Bidding Farewell To Social Services"
 date: 2009-11-12
-categories: blog archive
+categories: archive
 ---
 
 We had a final "official" meeting with our social worker this morning, and bade warewell to the amazing woman who has accompanied us along the journey from being prospective adopters to somewhat experienced parents.

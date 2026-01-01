@@ -2,7 +2,7 @@
 layout: post
 title: "All Kneel Before Erin Grey"
 date: 2006-03-19
-categories: blog archive
+categories: archive
 ---
 
 You're probably asking yourself "who the hell is Erin Grey?". She came to mind while reading a great blog post about Knight Rider by Sarcomical (a fantastic blog btw).

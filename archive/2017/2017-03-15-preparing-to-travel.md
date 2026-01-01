@@ -2,7 +2,7 @@
 layout: post
 title: "Preparing To Travel"
 date: 2017-03-15
-categories: blog archive
+categories: archive
 ---
 
 Here we go again. At lunchtime today I will walk to the local railway station and begin a journey first towards Kings Cross in London, and then on to Leeds in the north of England. I've done this journey before. Many times. It takes about 5 hours door to door.

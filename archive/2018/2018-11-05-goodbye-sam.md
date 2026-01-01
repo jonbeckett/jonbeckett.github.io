@@ -2,7 +2,7 @@
 layout: post
 title: "Goodbye Sam"
 date: 2018-11-05
-categories: blog archive
+categories: archive
 ---
 
 While running back and forth through the hallway to our front door last Thursday, Sam sat in the way - cleaning himself. He didn't seem too keen to move, and we just thought he was being belligerent.

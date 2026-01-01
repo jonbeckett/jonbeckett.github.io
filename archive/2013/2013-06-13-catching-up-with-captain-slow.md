@@ -2,7 +2,7 @@
 layout: post
 title: "Catching Up With Captain Slow"
 date: 2013-06-13
-categories: blog archive
+categories: archive
 ---
 
 On the cycle into work this morning I managed to catch up with Captain Slow (the new guy) again. I was in the middle of listening to Carly Rae Jepsen on my music player, and didn't really want to talk to anybody, so slowed down to a crawl. I even stopped at one point, and cycled round in circles for a while.

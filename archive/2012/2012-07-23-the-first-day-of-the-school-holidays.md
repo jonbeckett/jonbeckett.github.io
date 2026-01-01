@@ -2,7 +2,7 @@
 layout: post
 title: "The First Day Of The School Holidays"
 date: 2012-07-23
-categories: blog archive
+categories: archive
 ---
 
 The chickens woke me this morning at some ludicrous hour (yes, we have pet chickens). They appeared to be rehearsing their own special version of the Barber of Seville, only in their special one word vocabulary, and without any appreciation of melody. After watching the minutes tick by on the alarm clock for half an hour I finally slid out of bed - not because I was tired; more because I was worried one of the neighbours might visit an equal amount of fury upon the chickens and/or our household that I secretly wanted to.

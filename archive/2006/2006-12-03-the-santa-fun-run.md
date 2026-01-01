@@ -2,7 +2,7 @@
 layout: post
 title: "The Santa Fun Run"
 date: 2006-12-03
-categories: blog archive
+categories: archive
 ---
 
 This morning Glenn, W's Mum, Myself and W took part in the second "Santa's Fun Run" in Marlow.

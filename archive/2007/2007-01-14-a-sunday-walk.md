@@ -2,7 +2,7 @@
 layout: post
 title: "A Sunday Walk"
 date: 2007-01-14
-categories: blog archive
+categories: archive
 ---
 
 After rolling out of bed at nearly 10 this morning, it was decided that we should put our coats and boots on, and venture out into the surrounding countryside to get some fresh air, enjoy the day, and actually do something for a change...

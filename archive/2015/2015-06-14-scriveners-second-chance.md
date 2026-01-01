@@ -2,7 +2,7 @@
 layout: post
 title: "Scriveners Second Chance"
 date: 2015-06-14
-categories: blog archive
+categories: archive
 ---
 
 I woke this morning to the relentless pitter-patter of rain on the bedroom window, and squinted across at my better half, peeking from a gap in the duvet towards me. We lifted our heads, looked out at the steady mist falling across the garden, and hatched plans to scrap all plans for the day ahead. Yes, we had promised to take the children for a walk into townto visit the visiting fairgroundbut the rain had offered us the chance for a rare "day off".

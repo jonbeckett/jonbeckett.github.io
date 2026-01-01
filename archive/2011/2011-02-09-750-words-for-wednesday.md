@@ -2,7 +2,7 @@
 layout: post
 title: "750 Words For Wednesday"
 date: 2011-02-09
-categories: blog archive
+categories: archive
 ---
 
 It's been a while since I attempted 750 words, but better late than never, right?

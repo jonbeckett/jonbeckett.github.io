@@ -2,7 +2,7 @@
 layout: post
 title: "Emptying My Head"
 date: 2014-03-16
-categories: blog archive
+categories: archive
 ---
 
 I need to get back into the habit of writing posts where I just empty my head into the keyboard. I used to do it as naturally as breathing, but as the years have passed it has grown increasingly difficult.

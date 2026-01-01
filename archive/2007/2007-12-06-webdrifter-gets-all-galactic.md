@@ -2,7 +2,7 @@
 layout: post
 title: "Webdrifter Gets All Galactic"
 date: 2007-12-06
-categories: blog archive
+categories: archive
 ---
 
 I discovered a new video podcast this morning - Webdrifter. It's part of the Revision 3 network, which also put out Diggnation and GigaOM.

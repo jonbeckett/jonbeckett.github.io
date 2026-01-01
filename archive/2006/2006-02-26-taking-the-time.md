@@ -2,7 +2,7 @@
 layout: post
 title: "Taking The Time"
 date: 2006-02-26
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here wondering about time - five minutes to be more precise. I've never really thought too deeply about how I spend my time each day before - I tend to just muddle my way through between one day and the next, and behave like some kind of automaton. Get up, go to work, do what I'm told, come home, do what's expected, kick back for a while, go to bed.

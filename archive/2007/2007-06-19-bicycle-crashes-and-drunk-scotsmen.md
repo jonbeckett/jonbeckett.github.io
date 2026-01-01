@@ -2,7 +2,7 @@
 layout: post
 title: "Bicycle Crashes And Drunk Scotsmen"
 date: 2007-06-19
-categories: blog archive
+categories: archive
 ---
 
 While walking round the corner towards the office door this morning I heard a huge crash behind me and the kind of thuddy crunch noise a person makes as they fall off a bike in the road.

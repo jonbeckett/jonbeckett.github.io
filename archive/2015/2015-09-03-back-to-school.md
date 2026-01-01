@@ -2,7 +2,7 @@
 layout: post
 title: "Back To School"
 date: 2015-09-03
-categories: blog archive
+categories: archive
 ---
 
 After a few days going through endless lists, and making seemingly endless trips to stationers, school clothes suppliers, sporting goods stores and so on, the children returned to school this morning.

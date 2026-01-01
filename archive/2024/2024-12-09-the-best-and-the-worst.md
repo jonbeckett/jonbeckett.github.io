@@ -2,7 +2,7 @@
 layout: post
 title: "The best and the worst"
 date: 2024-12-09
-categories: blog archive
+categories: archive
 ---
 
 I'm a little bit sad today. A little bit disappointed. It's hard to describe why without breaking any confidences, but I'll try.

@@ -3,7 +3,6 @@ layout: single
 title: "Not good at being sick"
 date: 2025-02-19
 categories:
-  - blog
   - "2025"
 ---
 

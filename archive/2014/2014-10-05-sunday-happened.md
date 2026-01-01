@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Happened"
 date: 2014-10-05
-categories: blog archive
+categories: archive
 ---
 
 I'm trying hard to write more regularly at the momentto get back to the person that used to write such inventive rubbish a few years ago. I look back at those past words from time to time and invariably find myself thinking "my current stuff is crap compared to this". So yeah I guess I'm in "infinite monkey" mode (you know, where if I write enough, I'll end up writing something as worthy as the entire works of shakespeare). The only failing with this planof courseis that the sun will swallow the earth up before it happens.

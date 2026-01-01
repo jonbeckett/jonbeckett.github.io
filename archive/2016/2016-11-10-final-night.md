@@ -2,7 +2,7 @@
 layout: post
 title: "Final Night"
 date: 2016-11-10
-categories: blog archive
+categories: archive
 ---
 
 You find me sitting at the desk in my hotel room once more, tapping away on the keyboard of a laptop under the light of a desk lamp, wondering what to do with the rest of my evening. I've just returned from the hotel restaurant - the third meal out in a row. I don't normally do this. I don't normally eat in hotel restaurants because sitting alone while everybody has fun around you is horrible. I always fear that trying to strike up conversation with a random stranger will come across as weird in some way, so keep myself to myself.

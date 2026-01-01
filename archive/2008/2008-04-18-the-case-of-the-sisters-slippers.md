@@ -2,7 +2,7 @@
 layout: post
 title: "The Case Of The Sisters Slippers"
 date: 2008-04-18
-categories: blog archive
+categories: archive
 ---
 
 Picture the scene - eldest daughter is watching Superman on DVD (for the first time), younger two fell asleep within a few minutes of the start of the movie, but now the middle child - she of infinite scheming - has woken up, and is bored.

@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Dreams"
 date: 2020-10-04
-categories: blog archive
+categories: archive
 ---
 
 After falling into bed uncharacteristically early last night, I fell into a deep sleep and dreamed. It's rare that I remember dreams - but one of last night's dreams (there were several) burned its way into my memory - fragments of it are still there, several hours later.

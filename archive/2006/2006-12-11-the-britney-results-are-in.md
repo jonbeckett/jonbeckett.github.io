@@ -2,7 +2,7 @@
 layout: post
 title: "The Britney Results Are In"
 date: 2006-12-11
-categories: blog archive
+categories: archive
 ---
 
 You are not going to believe this - you may recall that a couple of days ago I posted on "Life and Times" a spurious post about a certain Mrs Spears, with the aim of finding out how many people are looking for her name on the net. After only 24 hours worth of results from Google Analytics, here's what's happening;

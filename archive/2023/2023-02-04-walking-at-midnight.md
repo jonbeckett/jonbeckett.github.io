@@ -2,7 +2,7 @@
 layout: post
 title: "Walking at Midnight"
 date: 2023-02-04
-categories: blog archive
+categories: archive
 ---
 
 Walking into town to meet my daughter after her shift finishes at the pub has become an unexpectedly wonderful part of the day. There's something about empty streets. No chaos, no noise, no people, no cars - just me, my thoughts, and the sound of my footsteps echoing along the deserted footpaths.

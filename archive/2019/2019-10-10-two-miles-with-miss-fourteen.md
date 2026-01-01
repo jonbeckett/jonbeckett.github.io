@@ -2,7 +2,7 @@
 layout: post
 title: "Two Miles With Miss Fourteen"
 date: 2019-10-10
-categories: blog archive
+categories: archive
 ---
 
 Ever since the children were little, we have tried to eat dinner at the table as a family. I suppose it started as an excuse to talk to the children, and to get them to talk - to tell stories about what we had done during the day. When I say "we", I of course mean "everybody except me", because nobody ever asks what I have done. I complained about it once - and my other half stopped the children:

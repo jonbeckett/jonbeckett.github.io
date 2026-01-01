@@ -2,7 +2,7 @@
 layout: post
 title: "Procrastinating Famously"
 date: 2018-01-11
-categories: blog archive
+categories: archive
 ---
 
 I'm busy clearing the decks at work this morning. I travel to Germany first thing on Monday, so there's not much point getting involved in doing anything of consequence. If you suddenly see a swathe of comments from me on your blog, at least you'll know why it happened 

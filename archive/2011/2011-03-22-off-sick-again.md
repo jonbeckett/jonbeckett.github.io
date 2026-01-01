@@ -2,7 +2,7 @@
 layout: post
 title: "Off Sick Again"
 date: 2011-03-22
-categories: blog archive
+categories: archive
 ---
 
 Lunchtime

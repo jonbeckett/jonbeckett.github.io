@@ -2,7 +2,7 @@
 layout: post
 title: "Late Night Radio"
 date: 2021-12-10
-categories: blog archive
+categories: archive
 ---
 
 I've been learning something new over the last week. A technology, platform, and language that has been around for a few years, but that I've never crossed paths with before. It's been a near vertical learning curve. All consuming. For the last several evenings I've carried on late into the night because I was starting to make progress.

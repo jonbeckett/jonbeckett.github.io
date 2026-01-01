@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing Disappears Without A Trace"
 date: 2020-01-31
-categories: blog archive
+categories: archive
 ---
 
 wp:heading  Blogging

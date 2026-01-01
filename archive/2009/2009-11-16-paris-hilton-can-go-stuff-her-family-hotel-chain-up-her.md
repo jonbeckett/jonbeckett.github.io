@@ -2,7 +2,7 @@
 layout: post
 title: "Paris Hilton Can Go Stuff Her Family Hotel Chain Up Her "
 date: 2009-11-16
-categories: blog archive
+categories: archive
 ---
 
 While away with work over the coming weeks, I am staying at a rather big, rather expensive hotel on the outskirts of a big city in the UK.

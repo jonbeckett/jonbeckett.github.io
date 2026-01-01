@@ -2,7 +2,7 @@
 layout: post
 title: "The Eleventh Hour Of The Eleventh Day Of The Eleventh Month"
 date: 2009-11-11
-categories: blog archive
+categories: archive
 ---
 
 I was sat in a meeting this morning as eleven o'clock ticked by. I wondered if I was the only one who noticed. I lost track of what everbody was talking about for a few minutes, and found myself reciting these words in my head;

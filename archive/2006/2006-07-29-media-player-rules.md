@@ -2,7 +2,7 @@
 layout: post
 title: "Media Player Rules"
 date: 2006-07-29
-categories: blog archive
+categories: archive
 ---
 
 I never thought I would end up saying this, but the latest version of Microsoft's "Windows Media Player" (currently in beta) really does rule.

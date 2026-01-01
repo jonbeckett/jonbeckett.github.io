@@ -2,7 +2,7 @@
 layout: post
 title: "Alone In An Infinite Ocean"
 date: 2016-04-07
-categories: blog archive
+categories: archive
 ---
 
 One of the most difficult things about becoming friends with people on the internet is that you only really know them through the photos and words they shareyou don't really know them at all.

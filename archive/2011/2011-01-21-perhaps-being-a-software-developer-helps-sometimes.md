@@ -2,7 +2,7 @@
 layout: post
 title: "Perhaps Being A Software Developer Helps Sometimes"
 date: 2011-01-21
-categories: blog archive
+categories: archive
 ---
 
 awwhellnah:

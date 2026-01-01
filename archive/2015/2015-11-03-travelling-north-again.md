@@ -2,7 +2,7 @@
 layout: post
 title: "Travelling North Again"
 date: 2015-11-03
-categories: blog archive
+categories: archive
 ---
 
 It's Tuesday night, and I'm sitting in a hotel in the north of England once again, 300 miles from home. I've already bought "dinner" from the local supermarket, already eaten most of it, and am now sitting with the laptop and a cheap bottle of wine that should last at least a couple of nights, but most likely won't.

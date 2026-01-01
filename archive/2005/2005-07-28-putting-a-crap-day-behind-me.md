@@ -2,7 +2,7 @@
 layout: post
 title: "Putting A Crap Day Behind Me"
 date: 2005-07-28
-categories: blog archive
+categories: archive
 ---
 
 It's getting pretty late now, and I'm looking forward to putting a pretty crap day behind me.

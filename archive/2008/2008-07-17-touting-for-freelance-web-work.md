@@ -2,7 +2,7 @@
 layout: post
 title: "Touting For Freelance Web Work"
 date: 2008-07-17
-categories: blog archive
+categories: archive
 ---
 
 I've recently had several people asking me to help them build websites. Given that it's kind of "what I do", and that my employer only pricks their ears up if numbers far in excess of those being suggested are mentioned, I am probably pretty safe earning a few beans here and there.

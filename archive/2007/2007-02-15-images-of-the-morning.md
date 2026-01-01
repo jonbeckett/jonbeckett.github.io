@@ -2,7 +2,7 @@
 layout: post
 title: "Images Of The Morning"
 date: 2007-02-15
-categories: blog archive
+categories: archive
 ---
 
 Probably the last "photo blog" for a while (I need to get back to writing proper blog posts... posting photos seems a bit too easy - a bit shallow. I talked about this a few days ago.

@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Inspiration"
 date: 2020-03-25
-categories: blog archive
+categories: archive
 ---
 
 While scrolling Facebook over the last few days, the mysterious algorithm decided to start sharing the posts of an ex-colleague with me. He has been absent from social media for quite some time, but in recent days - since the beginning of the Corona Virus lock-down, he has been posting humorous journal entries - his daily life and thoughts. And it's been kind of wonderful.

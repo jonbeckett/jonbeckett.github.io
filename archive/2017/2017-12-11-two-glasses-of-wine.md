@@ -2,7 +2,7 @@
 layout: post
 title: "Two Glasses Of Wine"
 date: 2017-12-11
-categories: blog archive
+categories: archive
 ---
 
 For the last year or so, Tuesday nights have seen me break all manner of pretend fitness app step records, trudging around town to pick children up from one activity, and deliver them to another. One by one in the run-up to Christmas, those activities have come to an end. When I checked Google Calendar mid-way through the afternoon at work and realised the entire evening stretching ahead of me was empty, full of promise and opportunity, it felt like a wave of relief washed over me.

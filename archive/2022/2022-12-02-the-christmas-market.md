@@ -2,7 +2,7 @@
 layout: post
 title: "The Christmas Market"
 date: 2022-12-02
-categories: blog archive
+categories: archive
 ---
 
 The annual "Christmas Market" arrived in town this evening. The main route through town was closed off to all traffic, and the road filled with stalls serving hot chocolate, mulled wine, beer, and just about every popular street food imaginable.

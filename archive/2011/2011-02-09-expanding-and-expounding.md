@@ -2,7 +2,7 @@
 layout: post
 title: "Expanding And Expounding"
 date: 2011-02-09
-categories: blog archive
+categories: archive
 ---
 
 Following the shift of my humble tumblog to it's own "proper" domain name - now amusing people at blog.jonbeckett.com - I thought I should perhaps fill in some pages; expand on the cursory about page I previously had.

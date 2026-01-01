@@ -2,7 +2,7 @@
 layout: post
 title: "Shiny New Ipod Fat Wide Nano"
 date: 2008-09-09
-categories: blog archive
+categories: archive
 ---
 
 I'm guessing everybody has now seen the photos leaked onto the internet of the new iPod Nano that Apple will be announcing this afternoon.

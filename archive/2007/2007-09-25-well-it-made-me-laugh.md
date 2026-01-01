@@ -2,7 +2,7 @@
 layout: post
 title: "Well It Made Me Laugh"
 date: 2007-09-25
-categories: blog archive
+categories: archive
 ---
 
 My friend Tracey, who writes at Gwelva Kernewek (very good blog btw) sent me a link to a t-shirt store on the internet today.

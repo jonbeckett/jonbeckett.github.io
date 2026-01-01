@@ -2,7 +2,7 @@
 layout: post
 title: "On The Train"
 date: 2007-02-27
-categories: blog archive
+categories: archive
 ---
 
 I am currently spending 4 hours each day on the train with my MacBook - reading stuff, listening to music, writing inane emails, and fiddling with the odd bit of programming...

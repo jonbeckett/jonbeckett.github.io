@@ -2,7 +2,7 @@
 layout: post
 title: "Ok Now Im Annoyed"
 date: 2011-01-24
-categories: blog archive
+categories: archive
 ---
 
 I posted to the official Tumblr support email address earlier, asking for an estimate on the server scaling they wrote about late last year (they mentioned tripling the capacity of their infrastructure).

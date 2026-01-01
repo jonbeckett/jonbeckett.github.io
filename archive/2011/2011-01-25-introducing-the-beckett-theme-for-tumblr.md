@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing The Beckett Theme For Tumblr"
 date: 2011-01-25
-categories: blog archive
+categories: archive
 ---
 
 Over lunchtime I've been tinkering with the theme my own tumblog is based on, and am making it available to the community as the "Beckett" theme.

@@ -2,7 +2,7 @@
 layout: post
 title: "Shall I Get Naked"
 date: 2009-10-04
-categories: blog archive
+categories: archive
 ---
 
 If you arrived here via a search for something rather questionable, I'm sorry to disappoint you. This does involve nakedness, and showers, and lots of giggling - but it doesn't involve anything naughty at all (well... apart from mine and my other half doubling up with laughter, which could be something to do with the implied meaning in the question our five year old came out with).

@@ -2,7 +2,7 @@
 layout: post
 title: "Early Night"
 date: 2019-01-29
-categories: blog archive
+categories: archive
 ---
 
 You know how you promise yourself an early night, but somehow one thing after another crops up, and before you know it the clock is ticking towards half past ten, and you've only just sat down ? It doesn't help that I'm my own worst enemy - walking from room to room picking things up, and putting things away. Then you start doing chores - putting washing in the machine - hanging more washing out to dry - folding dry clothes into hopefully correct piles on the dining table. It never ends.

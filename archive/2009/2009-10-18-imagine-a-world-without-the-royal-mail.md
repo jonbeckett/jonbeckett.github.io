@@ -2,7 +2,7 @@
 layout: post
 title: "Imagine A World Without The Royal Mail"
 date: 2009-10-18
-categories: blog archive
+categories: archive
 ---
 
 Isn't it interesting that the UK postal service is branded as "The Royal Mail" when it's a commercial service. Isn't it also interesting that they think they can go on strike.

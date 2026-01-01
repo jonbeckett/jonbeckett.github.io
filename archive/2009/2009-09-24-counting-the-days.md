@@ -2,7 +2,7 @@
 layout: post
 title: "Counting The Days"
 date: 2009-09-24
-categories: blog archive
+categories: archive
 ---
 
 It's been a mental week.

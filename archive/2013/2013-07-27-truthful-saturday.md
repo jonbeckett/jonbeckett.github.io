@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Saturday"
 date: 2013-07-27
-categories: blog archive
+categories: archive
 ---
 
 I'm good at mis-titling memes. That's not the "truth" I set out to write about though. I'm also good at thread-drift, but that's not what I was going to write about either.

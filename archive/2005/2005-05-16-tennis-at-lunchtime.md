@@ -2,7 +2,7 @@
 layout: post
 title: "Tennis At Lunchtime"
 date: 2005-05-16
-categories: blog archive
+categories: archive
 ---
 
 Myself and a colleague went and played Tennis at lunchtime today - it's the first time I have played in about 7 or maybe even 8 years, and it was a bit of a shock - just getting the ball back was difficult.

@@ -2,7 +2,7 @@
 layout: post
 title: "New Friends And Deep Thoughts"
 date: 2008-12-27
-categories: blog archive
+categories: archive
 ---
 
 Stepping back into the world of LiveJournal shortly before Christmas has resulted in a number of unexpected new friendships that have renewed my faith somewhat in human nature.

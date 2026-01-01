@@ -2,7 +2,7 @@
 layout: post
 title: "Stairgates And Coffee"
 date: 2008-01-27
-categories: blog archive
+categories: archive
 ---
 
 I have spent the greater part of the day constructing stair gates for the door between the kitchen and the lounge, the base of the stairs, and the upstairs landing. Our house is slowly turning into Castle Colditz - with the intention that no childs movement between rooms will be allowed without full authorised paperwork in triplicate.

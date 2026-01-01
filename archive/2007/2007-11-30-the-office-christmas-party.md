@@ -2,7 +2,7 @@
 layout: post
 title: "The Office Christmas Party"
 date: 2007-11-30
-categories: blog archive
+categories: archive
 ---
 
 Tonight is the night of the office Christmas party, held at the house of our Managing Director this year.

@@ -2,7 +2,7 @@
 layout: post
 title: "Dont Want To Be Here"
 date: 2005-07-26
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here at work this morning, and I really don't want to be here at all. I'm fed up with working here.

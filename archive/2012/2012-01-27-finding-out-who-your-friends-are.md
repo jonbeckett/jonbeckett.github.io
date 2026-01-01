@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Out Who Your Friends Are"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 Earlier this evening I wrote a somewhat abrasive comment about Tumblr exercising their right to slash and burn the "Missing E" browser extension from their infrastructure.

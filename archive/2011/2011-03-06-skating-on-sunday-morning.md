@@ -2,7 +2,7 @@
 layout: post
 title: "Skating On Sunday Morning"
 date: 2011-03-06
-categories: blog archive
+categories: archive
 ---
 
 As I begin hitting the keys, it's just gone 11:30am, and Sunday Morning has almost gone. Simon and Garfunkel are filling the study with sound, sun is streaming through the window, I've just had a cup of tea, and all seems well with the world.

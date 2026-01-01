@@ -2,7 +2,7 @@
 layout: post
 title: "In The Defence Of Great Music"
 date: 2006-11-07
-categories: blog archive
+categories: archive
 ---
 
 After kicking up something of a storm by criticizing the current crop of manufactured "musicians", (and yes, the quotes are deliberate), I thought it only right that I should write about an earlier time, when musicians, songwriters, bands and artists made music because of their love for the music - not because a commercial company hired sound engineers, choreographers and cinematographers to exploit a specific demographic.

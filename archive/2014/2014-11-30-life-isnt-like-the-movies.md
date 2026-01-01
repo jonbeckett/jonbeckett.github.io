@@ -2,7 +2,7 @@
 layout: post
 title: "Life Isnt Like The Movies"
 date: 2014-11-30
-categories: blog archive
+categories: archive
 ---
 
 This evening finds me holed up in the Holiday Inn Express once againseveral hundred miles from home for a couple of nights. During the daytime I will be wrestling with ridiculous complexity in some computer system somewhere, and in the evenings I'll be kicking my heals in a faceless hotel filled with strangers.

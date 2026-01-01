@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To The Bullet Journal"
 date: 2018-01-23
-categories: blog archive
+categories: archive
 ---
 
 Throughout the last few months of last year I tried out using a Bullet Journal for day-to-day tasks, notes, and so on. By the end of the year I convinced myself that Bullet Journals were no better than Filofaxes (which I had been using for years), so switched back to a Filofax at the new year.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Time I Attempted Nanowrimo"
 date: 2011-09-04
-categories: blog archive
+categories: archive
 ---
 
 Once upon a time I attempted the annual lunacy known as "NaNoWriMo" (National Novel Writing Month)where an intrepid band of idiots try to write a 50,000 word novel in one calendar month. I pulled out after a couple of weeks because of work commitments, but I still have everything I wrote.

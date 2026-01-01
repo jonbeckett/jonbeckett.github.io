@@ -2,7 +2,7 @@
 layout: post
 title: "Breakfast At Tiffanys"
 date: 2007-10-01
-categories: blog archive
+categories: archive
 ---
 
 Inbetween perusing the internet (which Leo Laporte quite wonderfully described as a "drinking from the firehose" recently), I have been watching "Breakfast at Tiffanys" on Joost.

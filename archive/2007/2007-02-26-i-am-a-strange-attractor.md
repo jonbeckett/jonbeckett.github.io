@@ -2,7 +2,7 @@
 layout: post
 title: "I Am A Strange Attractor"
 date: 2007-02-26
-categories: blog archive
+categories: archive
 ---
 
 This morning has provided proof (if any was required) that I am indeed a "Strange Attractor". You may be wondering what I'm talking about.

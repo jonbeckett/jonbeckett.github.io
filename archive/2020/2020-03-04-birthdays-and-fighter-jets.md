@@ -2,7 +2,7 @@
 layout: post
 title: "Birthdays And Fighter Jets"
 date: 2020-03-04
-categories: blog archive
+categories: archive
 ---
 
 I made one of the ladies in the office laugh before leaving work - she asked if I was doing anything special - I replied "yes, for a treat, I'm paying for my entire family to have a meal out".

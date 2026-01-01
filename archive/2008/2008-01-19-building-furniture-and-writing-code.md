@@ -2,7 +2,7 @@
 layout: post
 title: "Building Furniture And Writing Code"
 date: 2008-01-19
-categories: blog archive
+categories: archive
 ---
 
 I built two IKEA units today - a huge chest of drawers for our bedroom (to hopefully solve the problem of piles of clothes everywhere), and a full-height shelf unit for the play room - one that big storage boxes slide in and out of.

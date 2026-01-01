@@ -2,7 +2,7 @@
 layout: post
 title: "Photo From Turkey"
 date: 2006-10-07
-categories: blog archive
+categories: archive
 ---
 
 We finally got W's films developed of our trip to Turkey.

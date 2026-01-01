@@ -2,7 +2,7 @@
 layout: post
 title: "Aaaarrgghhh"
 date: 2008-09-29
-categories: blog archive
+categories: archive
 ---
 
 If you haven't read my earlier post about the most simple tasks becoming more complicated, perhaps the last few minutes might be a good example.

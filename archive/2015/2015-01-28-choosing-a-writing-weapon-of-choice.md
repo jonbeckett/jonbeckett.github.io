@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing A Writing Weapon Of Choice"
 date: 2015-01-28
-categories: blog archive
+categories: archive
 ---
 
 While taking part in the Blogging101 course over the last month at WordPress, I have arm-twisted myself into writing more than in quite some time - which has in turn focussed my attention on the tools I use to write. Everything came into focus while travelling across the country yesterday, holed up in a train carriage with the netbook.

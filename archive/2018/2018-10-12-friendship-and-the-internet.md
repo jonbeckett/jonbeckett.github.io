@@ -2,7 +2,7 @@
 layout: post
 title: "Friendship And The Internet"
 date: 2018-10-12
-categories: blog archive
+categories: archive
 ---
 
 Being a distant friend on the internet is incredibly difficult sometimes. When those I have come to know are facing problems, my first instinct is to try and help - to reach out - to be there. I wonder how much a quiet message telling somebody that you read their post, and that you're out here if they want to empty their head is really worth. It's all I really have to give though - some time, and a sympathetic ear.

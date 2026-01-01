@@ -2,7 +2,7 @@
 layout: post
 title: "Splendid Isolation"
 date: 2013-05-09
-categories: blog archive
+categories: archive
 ---
 
 In a perverse way, I'm kind of enjoying the fact that very few people have either found this blog, or are reading it so far. Of course this faux-anonymity will be short lived; the usual suspects will discover it before long, and read every single word. I know who they are through the wonders of web analytics.

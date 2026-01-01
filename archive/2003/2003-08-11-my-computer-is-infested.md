@@ -2,7 +2,7 @@
 layout: post
 title: "My Computer Is Infested"
 date: 2003-08-11
-categories: blog archive
+categories: archive
 ---
 
 After my other half told me that she had some trouble rebooting the computer this morning, I did a search on the internet for some of the suspicious looking service EXEs that were running on the machine.

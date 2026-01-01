@@ -2,7 +2,7 @@
 layout: post
 title: "Alone On Thursday Night"
 date: 2019-01-17
-categories: blog archive
+categories: archive
 ---
 
 I'm home alone this evening while the rest of the family travel a hundred miles or so to watch our youngest daughter in a music concert that her school are taking part in. Given deadlines and timescales at work, I couldn't realistically ask for time off.

@@ -2,7 +2,7 @@
 layout: post
 title: "Halloween"
 date: 2010-10-31
-categories: blog archive
+categories: archive
 ---
 
 Just to clear this up

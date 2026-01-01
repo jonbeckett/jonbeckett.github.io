@@ -3,7 +3,6 @@ layout: single
 title: "The journey to the dark side is complete"
 date: 2025-07-20
 categories:
-  - blog
   - "2025"
 ---
 

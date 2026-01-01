@@ -2,7 +2,7 @@
 layout: post
 title: "The Greatest Gift"
 date: 2024-01-04
-categories: blog archive
+categories: archive
 ---
 
 Today's "Bloganuary" writing prompt asks "what is the greatest gift anybody could give you".

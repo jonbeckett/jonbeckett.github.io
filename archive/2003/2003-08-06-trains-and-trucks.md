@@ -2,7 +2,7 @@
 layout: post
 title: "Trains And Trucks"
 date: 2003-08-06
-categories: blog archive
+categories: archive
 ---
 
 For the last two days I have been working on-site at Swindon - about an hour and a half journey by train.

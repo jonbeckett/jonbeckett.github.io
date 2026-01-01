@@ -2,7 +2,7 @@
 layout: post
 title: "Standing In The Kitchen"
 date: 2010-06-06
-categories: blog archive
+categories: archive
 ---
 
 Sunday morning. Kids are fed and watered, chickens are fed and watered, I'm dressed, I've brushed my teeth, the kids are playing our museum piece electric piano, and the youngest is crying. Typical Sunday morning really.

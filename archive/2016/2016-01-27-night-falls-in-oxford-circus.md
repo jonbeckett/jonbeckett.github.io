@@ -2,7 +2,7 @@
 layout: post
 title: "Night Falls In Oxford Circus"
 date: 2016-01-27
-categories: blog archive
+categories: archive
 ---
 
 While walking along Regent Street towards Oxford Circus this evening, a gap in the traffic exposed the rain soaked roads, and suddenly drab, cold, noisy London was transformed for a few moments. I grabbed my phone and took the above picture before the scene became swamped in buses, motorbikes, and hoards of irritable business people.

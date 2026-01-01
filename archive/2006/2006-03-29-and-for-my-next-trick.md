@@ -2,7 +2,7 @@
 layout: post
 title: "And For My Next Trick"
 date: 2006-03-29
-categories: blog archive
+categories: archive
 ---
 
 I have just spent the morning digging myself out of a development hole.

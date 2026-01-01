@@ -2,7 +2,7 @@
 layout: post
 title: "Clerks 2 And The Great Redemption"
 date: 2009-09-30
-categories: blog archive
+categories: archive
 ---
 
 I like to finish things. I might not finish them immediately, but there is some weird, screwed up part of my head that likes things to be orderly - in the right place - tidy. Perhaps it's the same character fault that makes me put things away, wash up, and become insanely wound up by clutter.

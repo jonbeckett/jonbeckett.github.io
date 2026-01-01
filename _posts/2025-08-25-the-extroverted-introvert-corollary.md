@@ -3,7 +3,6 @@ layout: single
 title: "The Extroverted Introvert Corollary"
 date: 2025-08-25
 categories:
-  - blog
   - "2025"
 ---
 

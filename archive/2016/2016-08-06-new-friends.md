@@ -2,7 +2,7 @@
 layout: post
 title: "New Friends"
 date: 2016-08-06
-categories: blog archive
+categories: archive
 ---
 
 Over the last few weeks I have been inexorably drawn back towards blogging, and in response something quite wonderful has happened.

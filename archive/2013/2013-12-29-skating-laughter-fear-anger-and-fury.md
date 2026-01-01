@@ -2,7 +2,7 @@
 layout: post
 title: "Skating Laughter Fear Anger And Fury"
 date: 2013-12-29
-categories: blog archive
+categories: archive
 ---
 
 Our younger daughters have been going stir crazy hanging around the house following Christmas, so I finally did something about it yesterday morning."Get your skates onlets go to the big park in town""Yay!"In reality, "get your skates on" translates to half an hour of waiting for the girls to find clothesalong with shouts from the upstairs landing of "I GOT NO KNICKERS!"followed by another ten minutes of sending them back to getsensible clothes, and then making sure that those clothes are on round the right way, and not inside out. Finally (after another ten minutes strapping skates to feet), we tumble from the front door, and begin our adventure.

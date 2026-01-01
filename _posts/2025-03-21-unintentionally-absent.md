@@ -3,7 +3,6 @@ layout: single
 title: "Unintentionally Absent"
 date: 2025-03-21
 categories:
-  - blog
   - "2025"
 ---
 

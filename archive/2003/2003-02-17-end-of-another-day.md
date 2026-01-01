@@ -2,7 +2,7 @@
 layout: post
 title: "End Of Another Day"
 date: 2003-02-17
-categories: blog archive
+categories: archive
 ---
 
 It's getting near the end of the first day of the week (and as the HR department helpfully pointed out, a fifth of the way towards the weekend).

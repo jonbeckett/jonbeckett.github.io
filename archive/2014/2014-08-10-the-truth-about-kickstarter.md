@@ -2,7 +2,7 @@
 layout: post
 title: "The Truth About Kickstarter"
 date: 2014-08-10
-categories: blog archive
+categories: archive
 ---
 
 Some time ago I created a social blogging platform on the internetmore as an experiment than anything elseto see how well a mashup of Twitter, Tumblr, LiveJournal, and Facebook might worktaking aspects of all of them, but simplifying at the same time. The site still exists at pluggedout.org if you're interested in playing with it.

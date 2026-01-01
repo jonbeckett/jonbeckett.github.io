@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where My Parents Visit"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 A little after lunchtime today my mobile phone vibrated in my pocket - signalling an answer to the question the children had been asking every half an hour all day. My parents were about 15 minutes from our door. Those fifteen minutes passed in a blur of mayhem - finishing the making of beds, putting things away, and sending children in all directions (curiously, they started obeying orders).

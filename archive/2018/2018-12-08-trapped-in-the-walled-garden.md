@@ -2,7 +2,7 @@
 layout: post
 title: "Trapped In The Walled Garden"
 date: 2018-12-08
-categories: blog archive
+categories: archive
 ---
 
 This evening I have been quietly working out what it would cost to leave the WordPress walled garden, and go it alone - host my own instance on some webspace somewhere else.

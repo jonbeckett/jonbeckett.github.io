@@ -2,7 +2,7 @@
 layout: post
 title: "Chores Cats And Coffee"
 date: 2020-12-29
-categories: blog archive
+categories: archive
 ---
 
 For the first several hours today I was the only person up and about - wandering from room to room, doing this and that. Completing some chores, starting others. By the time anybody else showed their face the washing up was done, the washing machine busy with a second load, the air dryer (a rather fantastic invention that dries clothes) re-filled with freshly washed clothes, the kitchen cleaned, the clothes rails folded up and put away, towels folded and put away. You get the idea - it's pretty much endless around here.

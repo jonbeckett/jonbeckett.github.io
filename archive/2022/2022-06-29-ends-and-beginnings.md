@@ -2,7 +2,7 @@
 layout: post
 title: "Ends And Beginnings"
 date: 2022-06-29
-categories: blog archive
+categories: archive
 ---
 
 My middle daughter officially finished college yesterday.

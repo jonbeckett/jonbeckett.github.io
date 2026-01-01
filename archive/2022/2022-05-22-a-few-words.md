@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Words"
 date: 2022-05-22
-categories: blog archive
+categories: archive
 ---
 
 It's been a few days since I last polluted the internet with any thoughts. I think the biggest surprise to me is that I haven't really missed writing. I thought I would.

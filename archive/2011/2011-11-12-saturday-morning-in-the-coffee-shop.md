@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning In The Coffee Shop"
 date: 2011-11-12
-categories: blog archive
+categories: archive
 ---
 
 Well this is a surprisefor the first time in at least a couple of years, I'm sat in a coffee shop on a saturday with a cappuccino, a slice of granola, and half an hour to do as I please. I've just left our eldest daughter warming up with the rest of her team for a football match.

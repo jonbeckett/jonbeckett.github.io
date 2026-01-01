@@ -3,7 +3,6 @@ layout: single
 title: "A grand day out"
 date: 2025-01-18
 categories:
-  - blog
   - "2025"
 ---
 

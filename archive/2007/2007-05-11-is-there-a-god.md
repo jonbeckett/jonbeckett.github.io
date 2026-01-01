@@ -2,7 +2,7 @@
 layout: post
 title: "Is There A God"
 date: 2007-05-11
-categories: blog archive
+categories: archive
 ---
 
 Something is happening to one of my friends on the other side of the world that is giving me a perfect reason to set out my stand and start arguing to anybody who wishes to have the fight with me that there is no god. No such thing. Or at least I have serious doubts.

@@ -2,7 +2,7 @@
 layout: post
 title: "Brave New World"
 date: 2022-12-12
-categories: blog archive
+categories: archive
 ---
 
 It turns out I can sit on my hands for roughly 48 hours. That's how long it took the thought of building a better blogging castle to ferment, and grow into a crusade of sorts. Probably more escapade than crusade, but crusade sounds more lofty, noble, and suitably eccentric.

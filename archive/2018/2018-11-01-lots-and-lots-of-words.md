@@ -2,7 +2,7 @@
 layout: post
 title: "Lots And Lots Of Words"
 date: 2018-11-01
-categories: blog archive
+categories: archive
 ---
 
 I stayed up until midnight on Wednesday night, and wrote eighteen hundred words before falling into bed a little after 1am. I then wrote during lunchtime yesterday, a little more last night, and a little over lunchtime today - all in an effort to get a little ahead of the curve on this idiotic race towards fifty thousand words by the end of the month.

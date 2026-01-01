@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where You Tell Me What To Write About"
 date: 2010-10-11
-categories: blog archive
+categories: archive
 ---
 
 While struggling to come up with anything informative, candid, or entertaining to share with the loyal readers of this blog earlier (both of them), a rather marvellous idea occurred to me.

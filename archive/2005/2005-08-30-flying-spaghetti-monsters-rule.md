@@ -2,7 +2,7 @@
 layout: post
 title: "Flying Spaghetti Monsters Rule"
 date: 2005-08-30
-categories: blog archive
+categories: archive
 ---
 
 In these days of internet censorship, and legions of Dudley Doorights walking the land preaching their bible-bashing sermons upon the great unwashed (read: don't cares), it comes as something of a breath of fresh air when something like the Flying Spaghetti Monster appears.

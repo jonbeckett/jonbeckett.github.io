@@ -2,7 +2,7 @@
 layout: post
 title: "Well It Made Me Laugh"
 date: 2005-01-26
-categories: blog archive
+categories: archive
 ---
 
 Yes, your eyes are not decieving you - that really is Anna Kournikova in the picture over on the right, and yes, she really did show the cameras everything she has. Okay, so the cameras were probably 500 yards away, and were hidden in trees and stuff, but still... it's a pretty amazing picture.

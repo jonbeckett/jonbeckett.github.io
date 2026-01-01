@@ -2,7 +2,7 @@
 layout: post
 title: "Good Intentions"
 date: 2019-12-15
-categories: blog archive
+categories: archive
 ---
 
 This evening somehow turned into just the sort of recursive rabbit hole I seem to specialise in. It started out on a Linux laptop late in the evening, with all the good intentions of writing something interesting, insightful, and worthy. It ended three hours later having written nothing at all.

@@ -2,7 +2,7 @@
 layout: post
 title: "Making It To The Weekend"
 date: 2019-09-27
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting in the dark of the junk room for last last hour, with every intention of writing something, but instead tinkering with this and that, daydreaming, or just gazing into space. I can't help but remember a stand-up routine by Mickey Flanagan - complaining that getting nothing done is a worthy skill that should be held onto. At least I know I'm good at something though, right ?

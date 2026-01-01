@@ -3,7 +3,6 @@ layout: single
 title: "Fake it till you make it"
 date: 2025-05-30
 categories:
-  - blog
   - "2025"
 ---
 

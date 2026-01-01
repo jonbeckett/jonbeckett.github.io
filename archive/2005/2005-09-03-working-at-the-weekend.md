@@ -2,7 +2,7 @@
 layout: post
 title: "Working At The Weekend"
 date: 2005-09-03
-categories: blog archive
+categories: archive
 ---
 
 It's the weekend at last - except it isn't really for me, because I have to go back into work this afternoon to try and save a project that's gone wrong.

@@ -2,7 +2,7 @@
 layout: post
 title: "Recreate A Single Day"
 date: 2017-11-11
-categories: blog archive
+categories: archive
 ---
 
 Somehow I have made it to day fourteen of the WordPress Blogging University "Every Day Inspiration" series of daily prompts. Yes, I know I haven't doneevery  day - but I've done quite a few of them. Today's prompt appears to be the easiest of the lot, because it's pretty much "what I do" - tell the story of my day (or at least a part of it - I can't imagine many people would be too impressed with a description of brushing my teeth every morning, or emptying the dishwasher for the umpteenth time this week).

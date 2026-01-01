@@ -2,7 +2,7 @@
 layout: post
 title: "Not Much Of Anything"
 date: 2020-07-15
-categories: blog archive
+categories: archive
 ---
 
 You find me sitting in the dark of the junk room, trying to switch off at the end of the day. I'm listening to a Carly Simon album, and typing into a minimalist online editor. I sometimes find it difficult to switch off - it's difficult to stop thinking.

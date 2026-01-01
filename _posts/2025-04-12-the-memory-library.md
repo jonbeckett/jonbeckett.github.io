@@ -3,7 +3,6 @@ layout: single
 title: "The Memory Library"
 date: 2025-04-12
 categories:
-  - blog
   - "2025"
 ---
 

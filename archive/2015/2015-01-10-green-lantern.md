@@ -2,7 +2,7 @@
 layout: post
 title: "Green Lantern"
 date: 2015-01-10
-categories: blog archive
+categories: archive
 ---
 
 Prior to this evening, my only knowledge of the "Green Lantern" was that he was a comic book character, and that Doctor Sheldon Cooper in The Big Bang Theory TV show keeps emergency money up his ass. It's probably worth noting that Sheldon owns a foot tall plastic figurine of the Green Lantern - he obviously doesn't store money up the real Green Lantern's... oh, forget it.

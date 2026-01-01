@@ -2,7 +2,7 @@
 layout: post
 title: "Reality Resum"
 date: 2011-02-02
-categories: blog archive
+categories: archive
 ---
 
 A fantastically stupid idea occurred to me this morning, and would make a pretty good meme. Write yourself a "real" list of skills for yourself.

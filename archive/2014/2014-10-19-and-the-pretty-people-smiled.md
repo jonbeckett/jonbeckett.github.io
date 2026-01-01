@@ -2,7 +2,7 @@
 layout: post
 title: "And The Pretty People Smiled"
 date: 2014-10-19
-categories: blog archive
+categories: archive
 ---
 
 While leaving the supermarket yesterday afternoon, attempting to push a metric ton of groceries towards the car-park while flanked by my other half and several of our tribe of little people, I passed a young couple.

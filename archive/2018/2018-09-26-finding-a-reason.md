@@ -2,7 +2,7 @@
 layout: post
 title: "Finding A Reason"
 date: 2018-09-26
-categories: blog archive
+categories: archive
 ---
 
 My writing used to be so much better than it is now. Well crafted posts. Explorations of thoughts and experiences, wrapped in a literary style that I've lost somewhere along the way.

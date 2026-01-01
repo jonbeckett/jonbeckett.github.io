@@ -2,7 +2,7 @@
 layout: post
 title: "Dark Corners"
 date: 2019-07-01
-categories: blog archive
+categories: archive
 ---
 
 While making a cup of coffee a few minutes ago, it occurred to me that I might write a quick blog post, and perhaps make it into bed by 10pm. While holding the kettle beneath the tap, watching the water gush, I glanced at my watch - 10:15pm. Where do the hours in the day go?

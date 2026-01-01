@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where We Stood In The Car Park At 230Am"
 date: 2010-09-01
-categories: blog archive
+categories: archive
 ---
 
 I woke to the wailing of an electrical alarm - a throbbing, screaming noise that caused confusion at first. I threw back the bed covers, and looked at the time - 2:30am.

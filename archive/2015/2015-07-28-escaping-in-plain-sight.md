@@ -2,7 +2,7 @@
 layout: post
 title: "Escaping In Plain Sight"
 date: 2015-07-28
-categories: blog archive
+categories: archive
 ---
 
 When I started out on this journey, I wrote things like "first day done", "second day done", and so on. I'm just trying to figure out which day this is - eight, perhaps? Even though the days have been spread over several weeks, with journeys the length of the country dispersing them, It's all becoming far too routine.

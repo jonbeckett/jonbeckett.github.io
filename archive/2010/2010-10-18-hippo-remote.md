@@ -2,7 +2,7 @@
 layout: post
 title: "Hippo Remote"
 date: 2010-10-18
-categories: blog archive
+categories: archive
 ---
 
 One of my colleagues just informed me he purchased an app for his iPhone called "Hippo Remote".

@@ -2,7 +2,7 @@
 layout: post
 title: "Crumpler Boomer"
 date: 2008-09-11
-categories: blog archive
+categories: archive
 ---
 
 My new bag arrived through the post from Amazon earlier today - a Crumpler Boomer (apparently it's a "medium" - they appear to make these bags in every dimension possible), finished in Olive and Orange. It will be accompanying me on the train for the forseeable future, or on escapes to the coffee shop. Like that ever happens...

@@ -2,7 +2,7 @@
 layout: post
 title: "But First Another Cup Of Tea"
 date: 2019-05-04
-categories: blog archive
+categories: archive
 ---
 
 I was going to open this post with "it's Saturday morning", but having looked at the clock, it's already 2pm. Where they hell has the day gone already? Oh yes - I walked into town with our youngest, cut the grass, hung washing out to dry, cleared the kitchen, and moved the living room around so my other half has room to make five dresses for next weekend's dance show.

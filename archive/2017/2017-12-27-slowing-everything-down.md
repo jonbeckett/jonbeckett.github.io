@@ -2,7 +2,7 @@
 layout: post
 title: "Slowing Everything Down"
 date: 2017-12-27
-categories: blog archive
+categories: archive
 ---
 
 While browsing Twitter late last night I happened upon an acquaintance wondering how some people generate so many comments on their blogs, and scrolled through her recent "tweets". Nearly every thought that had passed through her head in the previous 48 hours had become a tweet - no wonder people were keeping the hell away from her. The scene formed in my head that we've all witnessed - where you visit a bar or a coffee shop, and somebody across the room likes the sound of their own voice a bit too much.

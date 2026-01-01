@@ -2,7 +2,7 @@
 layout: post
 title: "Being Dudley Do Right"
 date: 2024-07-15
-categories: blog archive
+categories: archive
 ---
 
 My other half spent all afternoon and evening sorting through bank statements and downloads of transactions to prepare my tax return for next year. Once upon a time she was a chartered accountant, so is faster with numbers than my brain can really cope with.

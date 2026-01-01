@@ -2,7 +2,7 @@
 layout: post
 title: "Nightmares"
 date: 2008-08-21
-categories: blog archive
+categories: archive
 ---
 
 All three of our children have been sick for the last few days - with various levels of fever, blocked noses, and sore throats - the product of a visit to a birthday party last weekend.

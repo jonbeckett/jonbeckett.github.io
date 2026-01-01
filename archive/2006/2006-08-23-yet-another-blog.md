@@ -2,7 +2,7 @@
 layout: post
 title: "Yet Another Blog"
 date: 2006-08-23
-categories: blog archive
+categories: archive
 ---
 
 While busy banging my head against a brick wall this morning in a manner only fellow software developers will identify with, one of my colleagues sent me an email invitation to start a new blog over at the WordPress website.

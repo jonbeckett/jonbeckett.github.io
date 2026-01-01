@@ -2,7 +2,7 @@
 layout: post
 title: "Listing Books With Goodreads"
 date: 2008-06-13
-categories: blog archive
+categories: archive
 ---
 
 I just discovered Goodreads while looking at the list of services integrated into FriendFeed.

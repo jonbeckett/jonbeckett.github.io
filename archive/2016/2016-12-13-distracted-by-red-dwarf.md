@@ -2,7 +2,7 @@
 layout: post
 title: "Distracted By Red Dwarf"
 date: 2016-12-13
-categories: blog archive
+categories: archive
 ---
 
 I'm not sure why, but I've struggled to find anything of consequence to write about for the last few days. Normally I can be relied upon to spout hundreds of words each day about nothing in particular, which I suppose proves that nothing is something in a roundabout way.

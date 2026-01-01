@@ -2,7 +2,7 @@
 layout: post
 title: "Working In The City"
 date: 2008-06-04
-categories: blog archive
+categories: archive
 ---
 
 The day started for me at 5:30am, stumbling through the morning routine with a raging headache and creeping out of the house into teaming rain. Four hours later I found myself sat at a desk in the depths of the city of London, twiddling my thumbs while waiting for the support department to configure a laptop for me to use.

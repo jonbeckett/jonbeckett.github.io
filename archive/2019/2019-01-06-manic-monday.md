@@ -2,7 +2,7 @@
 layout: post
 title: "Manic Monday"
 date: 2019-01-06
-categories: blog archive
+categories: archive
 ---
 
 I have "Monday Monday" by the Bangles bouncing around inside my head today. It won't go away. I think "Eternal Flame" by The Bangles may have been the first twelve inch single I ever bought. Oh crikey - it just occurred to me that most people younger than perhaps thirty will have no idea what a "twelve inch single" is. I'm turning into a dinosaur. Hell - they probably have no idea who "The Bangles" are either, let alone Suzannah Hoffs (a name to be whispered reverentially).

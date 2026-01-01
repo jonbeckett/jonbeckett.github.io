@@ -2,7 +2,7 @@
 layout: post
 title: "Removing Facebook From My Phone"
 date: 2016-01-16
-categories: blog archive
+categories: archive
 ---
 
 I removed Facebook and Facebook Messenger from my phone yesterday. I'm not deleting the account entirely, because it's useful to have the account (there are a number of people I can only reach through Facebook), but yeah kind of "over" the brand of social that seems to have evolved at Facebook.

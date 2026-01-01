@@ -2,7 +2,7 @@
 layout: post
 title: "Where Did Saturday Go"
 date: 2011-11-19
-categories: blog archive
+categories: archive
 ---
 
 Between the time I rolled out of bed this morning, and it getting dark this evening, the day has been unrelenting. We've somehow packed in;Football Practice This usually means cycling down to the football pitch with our eldest, freezing your nuts off for a couple of hours, and then cycling home again. This morning it turned into "drop her off in the car while Dad makes packed lunches for the next thing on the list, then pick her up again an hour later (at half time) to race off to the next thing.

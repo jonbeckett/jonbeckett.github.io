@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday With The Children"
 date: 2009-11-07
-categories: blog archive
+categories: archive
 ---
 
 From the moment I woke this morning until the moment they fell asleep this evening, I have spent the day with the children - it's the first time I have done it in months, and it was wonderful.

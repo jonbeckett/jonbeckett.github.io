@@ -2,7 +2,7 @@
 layout: post
 title: "If Nobody Speaks Of Remarkable Things"
 date: 2007-05-26
-categories: blog archive
+categories: archive
 ---
 
 While commuting I seem to be going through fads of either reading RSS feeds and writing emails on the laptop, listening to podcasts and music, or reading books.

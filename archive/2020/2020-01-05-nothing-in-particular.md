@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing In Particular"
 date: 2020-01-05
-categories: blog archive
+categories: archive
 ---
 
 I have been waiting most of the day for something sizeable to download from the internet. If our internet connection was behaving itself, I imagine it would have finished downloading quite some time ago (an engineer from the telephone company is visiting our house tomorrow morning to find out why).

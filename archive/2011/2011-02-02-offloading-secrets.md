@@ -2,7 +2,7 @@
 layout: post
 title: "Offloading Secrets"
 date: 2011-02-02
-categories: blog archive
+categories: archive
 ---
 
 Well not really "secrets" as such - I don't really do "secrets" - I'm pretty much an open book. More a case of "things people don't know, and that don't crop up in general conversation".

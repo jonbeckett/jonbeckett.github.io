@@ -2,7 +2,7 @@
 layout: post
 title: "About Last Night"
 date: 2018-04-20
-categories: blog archive
+categories: archive
 ---
 
 Last night we were invited to spend the evening having a barbecue with old friends. It was needed. If you've been reading these posts for the last few weeks, you'll know how distracted, stressed, tired, and irritable I have been. I don't think I've ever filtered quite so much from the blog.

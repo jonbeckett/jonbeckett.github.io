@@ -2,7 +2,7 @@
 layout: post
 title: "The Twenty Ten Theme Is Here"
 date: 2010-04-26
-categories: blog archive
+categories: archive
 ---
 
 I wasn't expecting this until the release of WordPress 3. Today the mighty powers atop mount WordPress released the "Twenty Ten" theme unto the sweaty masses. I like it. A lot. The lack of a good, simple, readable theme was the main reason I was hosting WordPress myself - now that entire reasoning has gone out of the window at a stroke.

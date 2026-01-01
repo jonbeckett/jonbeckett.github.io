@@ -2,7 +2,7 @@
 layout: post
 title: "10 Websites To Get You Through The Day"
 date: 2008-01-03
-categories: blog archive
+categories: archive
 ---
 
 I thought it might be interesting for others, and maybe helpful to share the websites I frequent on a regular basis. I spent inordinate amounts of time camped in front of a computer, and have therefore discovered many wonderful internet backwaters that most know nothing of. These are deliberately not "utility" websites such as Google Mail, or Facebook. The sites listed below are what you might bookmark as "interesting stuff"...

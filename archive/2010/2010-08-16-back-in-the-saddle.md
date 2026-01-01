@@ -2,7 +2,7 @@
 layout: post
 title: "Back In The Saddle"
 date: 2010-08-16
-categories: blog archive
+categories: archive
 ---
 
 I woke up this morning to the sounds of the breakfast radio show, and peeped out from beneath the bedclothes at the clock on the bedside cabinet.

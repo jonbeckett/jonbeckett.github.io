@@ -2,7 +2,7 @@
 layout: post
 title: "Enough With The Idiocy"
 date: 2021-04-06
-categories: blog archive
+categories: archive
 ---
 
 I disconnected the automagic plumbing between Wordpress, Tumblr, and Substack this morning. No more "read more here" links. You just get to read my idiocy wherever you happen to read. It takes me a few moments to paste my words and hit publish.

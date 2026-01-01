@@ -2,7 +2,7 @@
 layout: post
 title: "Currently Reading"
 date: 2007-03-05
-categories: blog archive
+categories: archive
 ---
 
 This week's book is "Nostromo" by Joseph Conrad. At the time of writing I'm about 5 chapters in, and so far it's very hard going indeed. I'm still trying to figure out why it's regarded as one of the best books of the last century.

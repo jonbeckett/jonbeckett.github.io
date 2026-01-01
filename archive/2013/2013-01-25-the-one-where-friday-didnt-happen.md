@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Friday Didnt Happen"
 date: 2013-01-25
-categories: blog archive
+categories: archive
 ---
 
 I fell out of bed a little after 7 this morning, stumbled down the stairs, jumped in the shower, transformed myself fromNeanderthalto homo sapiens sapiens, and wandered back to the bedroom in search of clothes. Smart clothes, for a lunch out with the managing director, after missing the work Christmas lunch while working on-site.

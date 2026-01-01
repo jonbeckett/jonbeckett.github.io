@@ -2,7 +2,7 @@
 layout: post
 title: "More Running More Coffee"
 date: 2020-09-16
-categories: blog archive
+categories: archive
 ---
 
 Some good friends came over last night and sat outside with us while I cooked food on the barbecue. I somehow managed to drink two thirds of a bottle of wine while talking about everything and nothing with them, and boy did I know about it this morning. It didn't stop me going for a run though.

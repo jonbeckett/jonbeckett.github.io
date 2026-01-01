@@ -2,7 +2,7 @@
 layout: post
 title: "Books Movies And Music"
 date: 2018-08-23
-categories: blog archive
+categories: archive
 ---
 
 This evening finds me filling an Amazon tablet with books, movies, and music ahead of a week spent largely offline. A week away from the internet. A week filled with cheap wine, the beach, sunburn, swimming pools, playing in the surf with the children, Dad dancing in the hotel disco, and otherwise doing as little as possible.

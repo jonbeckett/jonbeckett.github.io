@@ -2,7 +2,7 @@
 layout: post
 title: "Inventing Reindeer Buckets"
 date: 2006-12-20
-categories: blog archive
+categories: archive
 ---
 
 While having a rather silly conversation this morning about the belief children have in "Father Christmas", I remembered something I invented when I was young - the Reindeer Bucket.

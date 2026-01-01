@@ -2,7 +2,7 @@
 layout: post
 title: "Changing Lanes"
 date: 2011-10-15
-categories: blog archive
+categories: archive
 ---
 
 I've been writing a blog on the internet for yearsso many years that if I ever switch platforms (yes, Blogger, Tumblr, and WordPress, I'm looking at you), I invariably end up talking to the support staff for days because my canon of verbiage causes their infrastructure to fall over spectacularly. Who knew that some nobody would turn up with 9 years worth of writingI've written everywhereonline. In the early daysbefore platforms such as WordPress, Blogger, TypePad, Tumblr, and Posterous existedI built my own blogging solution, and released it as open source. It ended up being bundled with Novell web server software as an example application (it would have been nice for them to tell me in advance, but heyit made me famous for five minutes).

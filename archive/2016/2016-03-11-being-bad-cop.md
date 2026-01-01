@@ -2,7 +2,7 @@
 layout: post
 title: "Being Bad Cop"
 date: 2016-03-11
-categories: blog archive
+categories: archive
 ---
 
 This week I have had to turn the tables on our eldest daughteraway from the classic father-daughter relationship. I became the line in the sand. I'm the one that took the phone, laptop, and television away from her. I'm the one that dragged her kicking and screaming from her younger sister's room this evening. I am now the enemy in her eyes.

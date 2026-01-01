@@ -2,7 +2,7 @@
 layout: post
 title: "Embracing The Bazaar Crowdsourcing The Theme"
 date: 2011-01-02
-categories: blog archive
+categories: archive
 ---
 
 After a day tinkering with HTML and CSS, following my nose rather than a carefully evolved design, I have ended up with a half-respectable Tumblr theme. If you're looking at this post via my tumblog, the results of my tinkering are in front of your nose.

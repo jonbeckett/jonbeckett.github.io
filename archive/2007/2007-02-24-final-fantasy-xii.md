@@ -2,7 +2,7 @@
 layout: post
 title: "Final Fantasy Xii"
 date: 2007-02-24
-categories: blog archive
+categories: archive
 ---
 
 While out shopping this morning (buying some goodies to cheer W up), I bought something for myself - Final Fantasy XII...

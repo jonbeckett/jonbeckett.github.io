@@ -2,7 +2,7 @@
 layout: post
 title: "Working On Site"
 date: 2004-10-12
-categories: blog archive
+categories: archive
 ---
 
 This morning finds me in the offices of a client in west London, working on some bespoke changes to their website.

@@ -2,7 +2,7 @@
 layout: post
 title: "Experiences and Growth"
 date: 2024-03-02
-categories: blog archive
+categories: archive
 ---
 
 Today's writing prompt at Wordpress asks "what experiences in life helped you grow the most?". Good question - and one I might answer differently on any given day. Don't you just love cold-reading.

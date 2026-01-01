@@ -2,7 +2,7 @@
 layout: post
 title: "Folk Alley Rules"
 date: 2005-08-07
-categories: blog archive
+categories: archive
 ---
 
 I found a wonderful music feed on the internet this morning called "Folk Alley" (http://www.folkalley.com). As the title would suggest, it's a folk music website. The great thing is they have music feeds in all the major formats.

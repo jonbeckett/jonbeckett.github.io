@@ -2,7 +2,7 @@
 layout: post
 title: "Testing New Features"
 date: 2005-09-14
-categories: blog archive
+categories: archive
 ---
 
 The next feature that will find it's way into the Blog script is smilies.

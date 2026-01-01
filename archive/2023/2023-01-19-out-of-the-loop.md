@@ -2,7 +2,7 @@
 layout: post
 title: "Out of the loop"
 date: 2023-01-19
-categories: blog archive
+categories: archive
 ---
 
 I signed myself off work yesterday, and "stayed at home" today. It feels ridiculous to write the words "stayed at home", because I *work* from home.

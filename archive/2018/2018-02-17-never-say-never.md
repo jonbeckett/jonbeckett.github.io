@@ -2,7 +2,7 @@
 layout: post
 title: "Never Say Never"
 date: 2018-02-17
-categories: blog archive
+categories: archive
 ---
 
 At the beginning of the year I walked away from much of my "presence" on social media. For several years I had been posting into Twitter, Facebook, Tumblr, Instagram, WordPress, Blogger, LiveJournal, Flickr, Snapchat - the slew of popular platforms that exist across the internet. I didn't use them all at the same time - that really would be madness. I wandered from here to there, and often back to here again.

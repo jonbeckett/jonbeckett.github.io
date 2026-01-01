@@ -2,7 +2,7 @@
 layout: post
 title: "Cruelty To Animals On Television"
 date: 2005-07-27
-categories: blog archive
+categories: archive
 ---
 
 I've just read something that has really upset me and made me incredibly angry.

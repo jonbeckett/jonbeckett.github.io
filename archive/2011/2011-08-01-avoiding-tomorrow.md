@@ -2,7 +2,7 @@
 layout: post
 title: "Avoiding Tomorrow"
 date: 2011-08-01
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here, in the dark, practising the age old tradition of avoiding tomorrow. The longer I stay up, the longer I prevent tomorrow from arriving.

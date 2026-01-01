@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To The World Of Apple"
 date: 2009-07-26
-categories: blog archive
+categories: archive
 ---
 
 This evening has been my first real chance to sit with the white Macbook - my Macbook - since it came back from being fixed by the local Applecare service center. I'm not going to get into the remaining problems with it; I'm just glad to have a nice computer back that is tailored towards the creation of content. For the last 18 months this computer more or less became the property of my other half - and when it started to come apart at the seams, I replaced it for her with a shiny new Macbook. This one sat in a bag for 6 months.

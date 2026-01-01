@@ -2,7 +2,7 @@
 layout: post
 title: "Bank Holiday Monday"
 date: 2021-05-03
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards 10am, and I'm still the only person up and about at home. It's a bank holiday in the UK today - many people have the day off work. Of course the weather isn't cooperating - while the sun is trying to break through at the moment, it's forecast to begin raining at lunchtime, and get worse throughout the day. I imagine our house will begin floating away by dinner time. I better start fashioning some oars out of household implements later.

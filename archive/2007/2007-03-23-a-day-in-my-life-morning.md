@@ -2,7 +2,7 @@
 layout: post
 title: "A Day In My Life Morning"
 date: 2007-03-23
-categories: blog archive
+categories: archive
 ---
 
 Simpson, being furious.

@@ -3,7 +3,6 @@ layout: single
 title: "In search of my lost tribe"
 date: 2025-12-14
 categories:
-  - blog
   - "2025"
 ---
 

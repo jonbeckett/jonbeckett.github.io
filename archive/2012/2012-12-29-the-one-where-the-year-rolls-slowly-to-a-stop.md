@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Year Rolls Slowly To A Stop"
 date: 2012-12-29
-categories: blog archive
+categories: archive
 ---
 
 I can't believe the year is almost over. Last New Year is still fresh in my mind, and yet here we are again, buying groceries, and making plans with friends to see it in together again.

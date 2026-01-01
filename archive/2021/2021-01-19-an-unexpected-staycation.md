@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Staycation"
 date: 2021-01-19
-categories: blog archive
+categories: archive
 ---
 
 I have the rest of the week off work!

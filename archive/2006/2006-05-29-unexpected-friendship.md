@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpected Friendship"
 date: 2006-05-29
-categories: blog archive
+categories: archive
 ---
 
 After the low ebb that the weekend started on, my faith in life, the universe and everything in general has been somewhat restored.

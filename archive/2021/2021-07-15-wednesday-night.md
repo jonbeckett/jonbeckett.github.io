@@ -2,7 +2,7 @@
 layout: post
 title: "Wednesday Night"
 date: 2021-07-15
-categories: blog archive
+categories: archive
 ---
 
 It's late on Wednesday night (or early on Thursday morning, if we want to be accurate). I'm sitting in the dark of the study in silence - the rest of the family have already gone to bed. All I can hear is the blood pumping through my ears, and the drumming of my fingers on the keyboard.

@@ -2,7 +2,7 @@
 layout: post
 title: "Consuming Tumblr"
 date: 2010-08-19
-categories: blog archive
+categories: archive
 ---
 
 I've come to realise that I'm more a consumer of Tumblr than a contributor. Sure, I post "stuff" every so often, but invariably I most enjoy looking at what other people are posting.

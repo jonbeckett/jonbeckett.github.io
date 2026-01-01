@@ -2,7 +2,7 @@
 layout: post
 title: "Programming Temper And Trophies"
 date: 2017-07-13
-categories: blog archive
+categories: archive
 ---
 
 I've written somewhere in the region of 1,700 lines of code this week for a client project. I'm doing it single-handed - responsible for design, coding, testing, and eventually deployment. It looked like a vertical cliff face yawning over me at the start of the week - now it feels like I'm a few feet from the top. I have no idea what's up there of course - probably somebody waiting in a deck chair with a scruffy piece of paper detailing a change to the design in their hand. While this is all going on, I keep getting hassled with support calls for a project that was originally built by somebody that left. The entire thing is a colossal mess. I also have a conference call in a little over an hour to talk to a client about a project I wrote the design for so long ago that I've forgotten everything about it.

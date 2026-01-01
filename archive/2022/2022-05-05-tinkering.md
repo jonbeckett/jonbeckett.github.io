@@ -2,7 +2,7 @@
 layout: post
 title: "Tinkering"
 date: 2022-05-05
-categories: blog archive
+categories: archive
 ---
 
 Somebody take the keyboard away from me - I obviously cannot be trusted. While taking a break from research and development on a work project this afternoon I lifted my personal blog in the air, threw it into what can only be described as a cloud-powered infinite improbability drive, and have rather miraculously ended up with a new blog.

@@ -2,7 +2,7 @@
 layout: post
 title: "Boots Of Infinite Striding"
 date: 2016-12-19
-categories: blog archive
+categories: archive
 ---
 
 I have a confession to make. I never played "Dungeons and Dragons" when I was younger. Meeting me as an adult, you might suspect otherwise - I own or have owned nearly every video game system back to about 1984, own a growing collection of comic books and graphic novels, and have always found complicated things interesting. These character traits, facets, or failings probably elevate me to the top of the "geek" tree among my peers.

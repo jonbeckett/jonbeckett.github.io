@@ -2,7 +2,7 @@
 layout: post
 title: "5Th Birthday Party"
 date: 2009-01-10
-categories: blog archive
+categories: archive
 ---
 
 Our middle daughter had her 5th birthday party today. She is mad about Diego, so we dressed the living room up as a jungle, and made all manner of animal themed cakes, games, and activities for her and her little friends to do. Overall it went wonderfully - a couple of hours of absolute mayhem.

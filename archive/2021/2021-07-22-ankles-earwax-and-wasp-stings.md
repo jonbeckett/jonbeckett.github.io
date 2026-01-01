@@ -2,7 +2,7 @@
 layout: post
 title: "Ankles Earwax And Wasp Stings"
 date: 2021-07-22
-categories: blog archive
+categories: archive
 ---
 
 It's been an eventful few days in my little corner of the universe. Where to start?

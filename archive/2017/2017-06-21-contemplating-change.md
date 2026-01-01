@@ -2,7 +2,7 @@
 layout: post
 title: "Contemplating Change"
 date: 2017-06-21
-categories: blog archive
+categories: archive
 ---
 
 For the last week or so I've got in from work, done the chores, then sat outside and watched the cats, hedgehogs, bats, and whatever else go about their business until bedtime. I have hardly touched the computer. The blog posts I have written have been very much "turn the handle on the sausage machine" posts about nothing in particular.

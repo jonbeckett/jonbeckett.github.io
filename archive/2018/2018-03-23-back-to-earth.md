@@ -2,7 +2,7 @@
 layout: post
 title: "Back To Earth"
 date: 2018-03-23
-categories: blog archive
+categories: archive
 ---
 
 After the somewhat epic journey home yesterday, and a pizza and movie night with the children (we watched 'Justice League'), this morning has very much been a case of 'back to earth with a bump'.

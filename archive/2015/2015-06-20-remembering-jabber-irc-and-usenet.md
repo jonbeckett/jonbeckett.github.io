@@ -2,7 +2,7 @@
 layout: post
 title: "Remembering Jabber Irc And Usenet"
 date: 2015-06-20
-categories: blog archive
+categories: archive
 ---
 
 I really miss the days before mobile phones and social networks took overfor three reasons :Instant Messaging applications, Chat Rooms, and Newsgroups. Yes, I know we have apps such as KIK, WhatsApp, Voxer, Facebook Messenger, and so on for our mobile phones, but they are nowhere near as good as their ancestors. Yahoo Messenger, MSN Messenger, ICQ, AOL Instant Messenger. mIRC. Pirch. FreeAgent. The list goes on. The odd thing is, most of the software still existsonly MSN has completely vanished as far as I am aware.

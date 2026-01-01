@@ -2,7 +2,7 @@
 layout: post
 title: "In Search Of Something"
 date: 2016-05-29
-categories: blog archive
+categories: archive
 ---
 
 It's 11pm on Sunday evening, and I'm heading off over the horizon of the nearby internet in my trusty rowing boat (otherwise known as old PC in the junk room - affectionately known as "Trigger's Broom"). I'm off on a damn fool crusade to find interesting people to read - mostly caused by attempting to find anybody worth reading at Tumblr, and failing miserably.

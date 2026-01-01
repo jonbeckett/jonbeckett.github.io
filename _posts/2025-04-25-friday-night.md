@@ -3,7 +3,6 @@ layout: single
 title: "Friday night"
 date: 2025-04-25
 categories:
-  - blog
   - "2025"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Encounter"
 date: 2011-09-03
-categories: blog archive
+categories: archive
 ---
 
 There is this little girl that the kids play with outsidethe prettiest girl in the neighbourhood by a mile. She is slim, leggy, has long dark hair, tanned skin, and a model face. I've often wondered what her Mum looked likewondered if it was the glamorous dark haired lady that I stopped one day a couple of years ago because her Porsche had a tail light out.

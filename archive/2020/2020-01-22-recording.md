@@ -2,7 +2,7 @@
 layout: post
 title: "Recording"
 date: 2020-01-22
-categories: blog archive
+categories: archive
 ---
 
 I spent much of this evening recording and editing the next episode of the podcast. I used "Cakewalk" for the first time, using all the lessons learned so far about mixing tracks, volume levels, fiddling with graphic equalisers, and so on. If I do my job well, you won't notice I've done it.

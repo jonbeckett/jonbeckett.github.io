@@ -2,7 +2,7 @@
 layout: post
 title: "The Bag Of Holding"
 date: 2011-10-05
-categories: blog archive
+categories: archive
 ---
 
 I've been sorting out the contents of the bag I carry aroundthinning it out a bit. I picked it up at the weekend as I left the house to travel to W's parents, and thought some freak gravity field was pulling on it or something.

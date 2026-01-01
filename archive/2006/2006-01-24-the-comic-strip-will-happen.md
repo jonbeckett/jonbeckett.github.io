@@ -2,7 +2,7 @@
 layout: post
 title: "The Comic Strip Will Happen"
 date: 2006-01-24
-categories: blog archive
+categories: archive
 ---
 
 I have just decided that a comic strip will happen.

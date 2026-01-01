@@ -2,7 +2,7 @@
 layout: post
 title: "Life and Death"
 date: 2023-03-23
-categories: blog archive
+categories: archive
 ---
 
 We watched the movie "Living" last night - the one that Bill Nighy was nominated at the Oscars for. Of course I say "we" - within half an hour the audience had reduced to just myself and my other half. Our middle daughter was working, our youngest had "busy plans", and our eldest struggled gamely through that first half hour before giving up - claiming the movie wasn't about anything.

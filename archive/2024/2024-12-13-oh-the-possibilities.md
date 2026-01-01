@@ -2,7 +2,7 @@
 layout: post
 title: "Oh the possibilities"
 date: 2024-12-13
-categories: blog archive
+categories: archive
 ---
 
 When I switch off my work laptop in a few minutes, I won't be switching it back on for a little over a week. Nine days. Two weekends, and the days in-between. Thinking about it, why isn't there a name for that stretch of time.

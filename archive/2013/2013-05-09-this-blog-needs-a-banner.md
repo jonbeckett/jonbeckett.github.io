@@ -2,7 +2,7 @@
 layout: post
 title: "This Blog Needs A Banner"
 date: 2013-05-09
-categories: blog archive
+categories: archive
 ---
 
 I'm working on it. Honest. Stupid really, isn't it - I can write code that would floor most people, I can design websites, create WordPress themes from scratch, deploy Drupal installations, transmogrify Joomla, and yet I can't think of anything to have as a banner for this damn blog.

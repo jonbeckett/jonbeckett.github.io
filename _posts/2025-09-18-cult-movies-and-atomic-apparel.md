@@ -3,7 +3,6 @@ layout: single
 title: "Cult Movies and Atomic Apparel"
 date: 2025-09-18
 categories:
-  - blog
   - "2025"
 ---
 

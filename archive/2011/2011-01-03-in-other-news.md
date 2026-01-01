@@ -2,7 +2,7 @@
 layout: post
 title: "In Other News"
 date: 2011-01-03
-categories: blog archive
+categories: archive
 ---
 
 I will neither confirm or deny that I just created a fork of the theme my own tumblog is based on for the use of fashion, design and/or art blogs.

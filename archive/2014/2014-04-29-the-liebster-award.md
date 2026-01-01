@@ -2,7 +2,7 @@
 layout: post
 title: "The Liebster Award"
 date: 2014-04-29
-categories: blog archive
+categories: archive
 ---
 
 Having resurrected this blog from the halls of anonymity at the weekend, I was shocked, stunned and amazed to discover that somebodyobviously of wonderful judgement and gorgeousness, and obviously bowled over by the two or three forgettable posts I havespat out sincenominated me for an online awardbloggers to attract attention to themselves by spamming the crap out of a strangers, and then hoping the people they spam will link back, and spam more people.

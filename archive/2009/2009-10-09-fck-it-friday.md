@@ -2,7 +2,7 @@
 layout: post
 title: "Fck It Friday"
 date: 2009-10-09
-categories: blog archive
+categories: archive
 ---
 
 While making the very important decision about what to have for a first drink of the day, one of my colleagues (who has been attempting to detox a little) proclaimed "F*ck it! It's Friday!", and chose coffee.

@@ -2,7 +2,7 @@
 layout: post
 title: "Idiocy Abounds"
 date: 2012-03-28
-categories: blog archive
+categories: archive
 ---
 
 I had intended on walking to the gas station to get something to drink and eat - but was met by a traffic jam. At 11pm. All because the union containing the drivers of the trucks that deliver fuel are threatening to go on strike.

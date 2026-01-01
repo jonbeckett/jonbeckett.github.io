@@ -2,7 +2,7 @@
 layout: post
 title: "Waiting And Watching"
 date: 2014-10-07
-categories: blog archive
+categories: archive
 ---
 
 I'm waiting for a server at the other end of the country to finish churning through data, and spit out an "I'm finished" message without barfing it's guts up, or spewing random data in all directions. Waiting, and watching nothing in particular happening on the surface are a pretty good source of paranoia.

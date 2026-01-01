@@ -2,7 +2,7 @@
 layout: post
 title: "The Slow Death Of The Windows Computers"
 date: 2007-01-06
-categories: blog archive
+categories: archive
 ---
 
 Following the enforced replacement of the antivirus software on my computers this weekend, I have decided to withdraw life support from the PCs in the house.

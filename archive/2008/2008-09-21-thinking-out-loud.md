@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Out Loud"
 date: 2008-09-21
-categories: blog archive
+categories: archive
 ---
 
 I have been playing with Tumblr on the internet for the last few days, and it's been liberating.

@@ -2,7 +2,7 @@
 layout: post
 title: "Here There And Everywhere"
 date: 2017-04-17
-categories: blog archive
+categories: archive
 ---
 
 I returned to the office this morning - just long enough to clear email, and start fixing issues discovered on a client site. After a couple of hours working magic over a remote connection, I downed tools, unplugged my laptop, and cycled home again - against the wind.I hate cycling against the wind.

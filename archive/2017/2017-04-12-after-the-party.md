@@ -2,7 +2,7 @@
 layout: post
 title: "After The Party"
 date: 2017-04-12
-categories: blog archive
+categories: archive
 ---
 
 We are still alive - and most credit goes to the staff at the local bowling alley, who seem to have the entire children's birthday party routine figured out. I guess we also have the children to thank - at 11 and 12 years old they are infinitely easier to manage than they were even two or three years earlier.

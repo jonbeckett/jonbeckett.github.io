@@ -2,7 +2,7 @@
 layout: post
 title: "I Take It All Back Britney"
 date: 2006-11-29
-categories: blog archive
+categories: archive
 ---
 
 I sit down, fire up Mozilla Thunderbird to check my email, then over to Google Reader to catch up on news and blogs, and...

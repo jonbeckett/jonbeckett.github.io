@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Morning"
 date: 2006-01-29
-categories: blog archive
+categories: archive
 ---
 
 Do you ever feel guilty about being lazy? It's now just gone 12:00 on Sunday, and all I have managed to do so far is get out of bed at about 10, make a cup of tea, play with the Playstation for a couple of hours (in my housecoat), have a shower, and get dressed.

@@ -2,7 +2,7 @@
 layout: post
 title: "Listen To The Trees"
 date: 2022-09-26
-categories: blog archive
+categories: archive
 ---
 
 A scene from the first Narnia movie has been tumbling around my head all day - where the children are approaching Aslan's camp, and the fallen leaves of nearby trees swirl in the wind to form a figure - waving to Lucy as she passes.

@@ -2,7 +2,7 @@
 layout: post
 title: "How To Begin Valentines Day"
 date: 2008-02-14
-categories: blog archive
+categories: archive
 ---
 
 ... by getting up at 4am to tell the children to go back to bed, and then getting back up at 6:45am to wash one of them after she had another very messy accident in her pyjamas.

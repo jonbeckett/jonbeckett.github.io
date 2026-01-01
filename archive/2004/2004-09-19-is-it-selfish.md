@@ -2,7 +2,7 @@
 layout: post
 title: "Is It Selfish"
 date: 2004-09-19
-categories: blog archive
+categories: archive
 ---
 
 Is it selfish to wonder if you are ever going to get a whole weekend to yourself to do what you want to do? This weekend I only lost the one day (today), but it's still pretty annoying.

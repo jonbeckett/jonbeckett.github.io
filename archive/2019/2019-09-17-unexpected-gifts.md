@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpected Gifts"
 date: 2019-09-17
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in the dark of the junk room at home, typing this on the old computer that I've often written about - the one made up from various spare parts. It has survived about eight years - amazing really. It's days may be numbered though.

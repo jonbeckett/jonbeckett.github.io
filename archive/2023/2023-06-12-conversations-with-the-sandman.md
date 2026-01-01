@@ -2,7 +2,7 @@
 layout: post
 title: "Conversations with the Sandman"
 date: 2023-06-12
-categories: blog archive
+categories: archive
 ---
 
 Monday became Tuesday nearly an hour ago. I'm still counting it as Monday, while I sit in bed with the laptop perched on my lap. It's hotter than hell up here - not that I have much experience of the temperature in a made up place pushed on people from a re-written book for the last few millennia.

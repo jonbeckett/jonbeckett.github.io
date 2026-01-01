@@ -2,7 +2,7 @@
 layout: post
 title: "Anna Nicole Smith"
 date: 2007-02-09
-categories: blog archive
+categories: archive
 ---
 
 When I got in from work this evening I discovered that America's celebrity media had chalked up another casualty.

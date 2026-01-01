@@ -2,7 +2,7 @@
 layout: post
 title: "Tiredness Abounds"
 date: 2022-02-13
-categories: blog archive
+categories: archive
 ---
 
 It's been a long day. A long, cold, windy, wet day.

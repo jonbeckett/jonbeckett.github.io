@@ -2,7 +2,7 @@
 layout: post
 title: "Begin Again"
 date: 2020-03-18
-categories: blog archive
+categories: archive
 ---
 
 Well this is all very exciting. After months experimenting with a variety of blogging platforms, I have retreated back to my own small island in the middle of the internet ocean. A self imposed reclusion from the world at large.

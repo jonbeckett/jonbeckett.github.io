@@ -2,7 +2,7 @@
 layout: post
 title: "Going Nowhere"
 date: 2015-04-10
-categories: blog archive
+categories: archive
 ---
 
 It's Friday morning, and I'm sitting in the study at home, watching the world go by. I'm not going into work today - still suffering with the after-effects of flu, and fed up of writing about it to be honest (I'm sure you're fed up of hearing about it too). I'm hoping a day of doing nothing will help my body recover.

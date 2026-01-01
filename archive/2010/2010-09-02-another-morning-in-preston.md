@@ -2,7 +2,7 @@
 layout: post
 title: "Another Morning In Preston"
 date: 2010-09-02
-categories: blog archive
+categories: archive
 ---
 
 Sat in Cafe Nero in Preston city center once more, just around the corner from the office I will be working today. Watching the world go by, sipping at a cappuccino, and wondering what the day has in store for me.

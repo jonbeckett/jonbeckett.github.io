@@ -2,7 +2,7 @@
 layout: post
 title: "Slowing To A Crawl"
 date: 2005-07-20
-categories: blog archive
+categories: archive
 ---
 
 The World Crawls

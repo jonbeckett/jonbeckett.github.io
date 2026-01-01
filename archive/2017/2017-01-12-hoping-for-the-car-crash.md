@@ -2,7 +2,7 @@
 layout: post
 title: "Hoping For The Car Crash"
 date: 2017-01-12
-categories: blog archive
+categories: archive
 ---
 
 If you listened to the weather reports in the UK yesterday morning, you would have thought the second great ice age was about to begin. A storm was approaching from the North Sea, and a wave of low pressure about to sweep across England, and if you believed the weather forecasts, it was going to freeze everything in it's path before an army of White Walkers killed everybodyor words to that effect.

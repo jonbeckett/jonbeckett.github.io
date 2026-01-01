@@ -2,7 +2,7 @@
 layout: post
 title: "Do not disturb"
 date: 2024-10-26
-categories: blog archive
+categories: archive
 ---
 
 While the rest of the imaginary world (everybody else, in my head) took part in all manner of exciting adventures and escapades over the last few days, I began to wonder if I had fallen through a crack in the universe. The entire world felt like it was passing me by - that I had become an odd sock - discarded to the back of the sock drawer.

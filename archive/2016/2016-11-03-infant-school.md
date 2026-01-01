@@ -2,7 +2,7 @@
 layout: post
 title: "Infant School"
 date: 2016-11-03
-categories: blog archive
+categories: archive
 ---
 
 I never went to nursery school, and I'm pretty sure "reception" didn't exist when I was young - you started school (by law) at 5 years old, and became one of the "infants". It wasn't called "Year 1" back then, either.

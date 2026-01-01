@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday"
 date: 2016-07-26
-categories: blog archive
+categories: archive
 ---
 
 I thought it might be interesting to take part in one of the more popular blogging memes that do the rounds, and write down a truth about myself. Unburden myself a little.

@@ -2,7 +2,7 @@
 layout: post
 title: "Brain Dump"
 date: 2013-08-24
-categories: blog archive
+categories: archive
 ---
 
 I've fallen completely off the blogging wagon in recent months, and I'm not entirely sure why. I'm resisting the temptation to explore the reasons, because it would make for quite possibly the most boring blog post ever seen by the human eye.

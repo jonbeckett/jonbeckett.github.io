@@ -2,7 +2,7 @@
 layout: post
 title: "Backing Up"
 date: 2016-02-23
-categories: blog archive
+categories: archive
 ---
 
 Twenty years ago, I was working in an office where the only form of backup was a tape drive that we ran every month or so to copy the entire contents of the computer onto a small tape that I would take take home with me. Nobody else every did the backupsif I wasn't there, it just flat-out didn't happen.

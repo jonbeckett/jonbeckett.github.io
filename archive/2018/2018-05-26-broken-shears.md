@@ -2,7 +2,7 @@
 layout: post
 title: "Broken Shears"
 date: 2018-05-26
-categories: blog archive
+categories: archive
 ---
 
 I woke a little before 8 this morning, and stared at the bedroom ceiling for a while before a switch of some kind flicked in my head. I hate that switch. Before I knew it I was downstairs with a pair of shorts and a t-shirt in my hand, headed towards the shower. After exiting the shower and downing a coffee, I found myself stood in front of the house, garden shears in hand, contemplating the task ahead.

@@ -2,7 +2,7 @@
 layout: post
 title: "Turning The Pedals"
 date: 2012-04-15
-categories: blog archive
+categories: archive
 ---
 
 This blog was called "Turning the Pedals" for a while, and the name befits this week rather well. At the beginning of the week we were holed up at my parents house in Cornwall, hiding from the world for a few days - it seems like a distant memory now.

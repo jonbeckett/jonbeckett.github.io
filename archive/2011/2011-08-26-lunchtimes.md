@@ -2,7 +2,7 @@
 layout: post
 title: "Lunchtimes"
 date: 2011-08-26
-categories: blog archive
+categories: archive
 ---
 
 I wish I could come up with a more constructive way of spending lunchtimes than messing around with stuff on the internet.

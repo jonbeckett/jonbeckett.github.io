@@ -2,7 +2,7 @@
 layout: post
 title: "The Podcasting Story So Far"
 date: 2020-01-26
-categories: blog archive
+categories: archive
 ---
 
 We are now a little way into the podcasting adventure, and I thought it might be interesting to expand a little on the learning curve I have mentioned a few times. Although I knew how to plug a microphone into the computer, I really had no clue about anything beyond that. It turns out there was quite a lot to learn.

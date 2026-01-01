@@ -3,7 +3,6 @@ layout: single
 title: "The Melting Pot"
 date: 2025-01-11
 categories:
-  - blog
   - "2025"
 ---
 

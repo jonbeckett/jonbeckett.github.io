@@ -2,7 +2,7 @@
 layout: post
 title: "Befuddled"
 date: 2006-10-09
-categories: blog archive
+categories: archive
 ---
 
 I started to feel a little better this afternoon, so dragged the work laptop from my bag, set it down on the desk, and tried to kickstart my head.

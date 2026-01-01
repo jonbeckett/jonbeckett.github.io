@@ -2,7 +2,7 @@
 layout: post
 title: "Bank Holiday Monday"
 date: 2017-08-27
-categories: blog archive
+categories: archive
 ---
 
 I got up a little over an hour ago. After heading to the shower, brushing my teeth, and getting dressed, I wandered into the lounge and discovered the younger children already camped out on the sofa, topping up on cartoons. I remember doing the same when I was their age - some things never change.

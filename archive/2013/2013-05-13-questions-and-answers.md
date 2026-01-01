@@ -2,7 +2,7 @@
 layout: post
 title: "Questions And Answers"
 date: 2013-05-13
-categories: blog archive
+categories: archive
 ---
 
 Compiled from a list of random questions I found on the interwebs for your interest and amusement... What kind of car do you drive?

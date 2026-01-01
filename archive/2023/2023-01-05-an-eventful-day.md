@@ -2,7 +2,7 @@
 layout: post
 title: "An Eventful Day"
 date: 2023-01-05
-categories: blog archive
+categories: archive
 ---
 
 I'm not quite sure that I know where to start. While the rest of the family have been dropping like flies - suffering from various colds, flu, or possibly COVID, I seem to have become bullet-proof. Quite the turn-around after spending the majority of Christmas and New Year running a huge temperature.

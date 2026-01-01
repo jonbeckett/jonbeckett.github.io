@@ -2,7 +2,7 @@
 layout: post
 title: "Reorganising My Life"
 date: 2021-02-13
-categories: blog archive
+categories: archive
 ---
 
 For the last few months I've been experimenting with an online swiss-army-knife called "Notion", that allows you to record notes, compile databases of information, and so on. It has a wonderful interface, and can be transformed to solve most use-cases - a veritable rabbit hole that promises all sorts of productivity games. I started using it for more and more bits and pieces of my life - storing blog blog posts, writing articles, keeping code snippets, and so on.

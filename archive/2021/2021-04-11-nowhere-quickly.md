@@ -2,7 +2,7 @@
 layout: post
 title: "Nowhere Quickly"
 date: 2021-04-11
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday afternoon, I'm sitting in the junk room in front of the computer, the chores are done, my other half is out, and Norah Jones is singing about being Alive on the colossal beat box my cousin from California got me for my birthday.

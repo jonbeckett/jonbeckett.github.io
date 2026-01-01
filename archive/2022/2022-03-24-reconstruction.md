@@ -2,7 +2,7 @@
 layout: post
 title: "Reconstruction"
 date: 2022-03-24
-categories: blog archive
+categories: archive
 ---
 
 After a few days break from the blogging universe - during which time I built myself a rather lovely island on the internet and then quite predictably burned it to the ground - I'm quietly re-connecting a little this evening.

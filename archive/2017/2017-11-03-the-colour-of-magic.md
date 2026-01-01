@@ -2,7 +2,7 @@
 layout: post
 title: "The Colour Of Magic"
 date: 2017-11-03
-categories: blog archive
+categories: archive
 ---
 
 > Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can. Of course, I could be wrong. The above words were written by Terry Pratchett - the late, celebrated author of the Discworld novels.

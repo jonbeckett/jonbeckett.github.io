@@ -3,7 +3,6 @@ layout: single
 title: "One Virtual World"
 date: 2025-10-10
 categories:
-  - blog
   - "2025"
 ---
 

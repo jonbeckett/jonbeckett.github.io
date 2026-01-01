@@ -2,7 +2,7 @@
 layout: post
 title: "Going Against The Flow"
 date: 2015-04-08
-categories: blog archive
+categories: archive
 ---
 
 A little while ago, while wandering the world wide web late one evening, I struck up conversation with an old friend. She commented that it often feels like your voice is lost on the internet - that the deafening roar of the masses will drown yours out - that you will never be heard - that the publication of our thoughts, ideas, and dreams is ultimately futile.

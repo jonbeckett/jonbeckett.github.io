@@ -2,7 +2,7 @@
 layout: post
 title: "When You Work Through Lunch By Accident"
 date: 2011-07-06
-categories: blog archive
+categories: archive
 ---
 
 After meddling with some code that was "nearly finished" for "another five minutes", I just looked up and realised I worked straight through lunch. I do that a lot.

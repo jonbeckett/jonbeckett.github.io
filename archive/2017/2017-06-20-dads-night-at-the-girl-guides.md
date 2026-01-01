@@ -2,7 +2,7 @@
 layout: post
 title: "Dads Night At The Girl Guides"
 date: 2017-06-20
-categories: blog archive
+categories: archive
 ---
 
 After getting home from work this evening, eating dinner, and washing up, we headed straight back out to "Dad's Night" with the local Girl Guides. I guess this happened because it was "Father's Day" in the UK last weekend.

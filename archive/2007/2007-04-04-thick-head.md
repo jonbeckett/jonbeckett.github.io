@@ -2,7 +2,7 @@
 layout: post
 title: "Thick Head"
 date: 2007-04-04
-categories: blog archive
+categories: archive
 ---
 
 I'm not at work today. I'm sure if I appeared in the computer game "Theme Hospital", they would diagnose me with some weird sounding thing called "thick head", or similar. It's probably just a head cold, but has been enough to make me feel awful...

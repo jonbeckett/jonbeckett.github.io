@@ -2,7 +2,7 @@
 layout: post
 title: "Back In The Office"
 date: 2005-02-11
-categories: blog archive
+categories: archive
 ---
 
 After what seems like a marathon week, I am finally back in the office and doing development work on projects once again.

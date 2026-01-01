@@ -2,7 +2,7 @@
 layout: post
 title: "Rain Rain Go Away Come Again Another Day"
 date: 2010-11-08
-categories: blog archive
+categories: archive
 ---
 
 There's a quote about balance in Nature, isn't there. I was reminded of it this morning while peering out of the landing window across the green where we live. Where yesterday the world outside had been filled with sunshine, green grass, blue skies, and birds singing, this morning somebody had turned the colour knob right down, and poured several billion gallons of water over everything.

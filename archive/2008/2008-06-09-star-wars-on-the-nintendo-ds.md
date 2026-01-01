@@ -2,7 +2,7 @@
 layout: post
 title: "Star Wars On The Nintendo Ds"
 date: 2008-06-09
-categories: blog archive
+categories: archive
 ---
 
 I finally have a copy of Star Wars for the Nintendo DS - complete with swishy light sabre noises, and tinny but thunderous music.

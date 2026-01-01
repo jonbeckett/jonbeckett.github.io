@@ -2,7 +2,7 @@
 layout: post
 title: "Unsettled"
 date: 2006-08-24
-categories: blog archive
+categories: archive
 ---
 
 After an evening trying to escape from the reaper that my work has become, I find myself watching a movie about people running from a normal existence - looking for something more.

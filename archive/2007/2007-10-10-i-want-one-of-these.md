@@ -2,7 +2,7 @@
 layout: post
 title: "I Want One Of These"
 date: 2007-10-10
-categories: blog archive
+categories: archive
 ---
 
 I keep wandering into shops in London at lunchtime, and seeing Nintendo DS Lites for sale, and thinking what a great idea they would be to carry with me on the train.

@@ -2,7 +2,7 @@
 layout: post
 title: "Descending Into The Twitterverse"
 date: 2022-08-28
-categories: blog archive
+categories: archive
 ---
 
 This morning I have been dipping a toe into the Twitterverse. It's a strange word, isn't it - "Twitterverse". The Twitter Universe. It really is a universe of sorts though - populated with subject driven worlds, related interests, and with no barriers between them. It's loud, it's cacophonous, it's fast moving, and it somehow seems to embody Norah Ephron's blogging mantra - that whatever you're saying is true for about as long as you're saying it.

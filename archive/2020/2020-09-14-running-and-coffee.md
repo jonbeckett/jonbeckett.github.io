@@ -2,7 +2,7 @@
 layout: post
 title: "Running And Coffee"
 date: 2020-09-14
-categories: blog archive
+categories: archive
 ---
 
 I scraped myself out of bed before 7am this morning and went for a run. I must be mad. Or feeling guilty that I haven't been running (or done any sort of physical exercise) for weeks. I just ran a few miles around town, but it felt good. Good to be out doing something.

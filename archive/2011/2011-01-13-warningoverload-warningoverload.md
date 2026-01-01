@@ -2,7 +2,7 @@
 layout: post
 title: "Warningoverload Warningoverload"
 date: 2011-01-13
-categories: blog archive
+categories: archive
 ---
 
 For the last week or so I have been working on a pretty significant software development project for the future. It didn't start out that complicated - what it's doing isn't that complicated, but what you can do with it is complicated, and it's doing my head in.

@@ -2,7 +2,7 @@
 layout: post
 title: "Currently Readingjpod"
 date: 2007-06-27
-categories: blog archive
+categories: archive
 ---
 
 Over the last couple of days I have been reading "jPod" by Douglas Coupland. My other half read "Microserfs" many years ago and has repeatedly told me I need to read it because it reflects her view of my world - the world of a software developer.

@@ -2,7 +2,7 @@
 layout: post
 title: "Hell Of A Week"
 date: 2004-04-30
-categories: blog archive
+categories: archive
 ---
 
 Message Me 

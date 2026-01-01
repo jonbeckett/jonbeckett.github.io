@@ -2,7 +2,7 @@
 layout: post
 title: "Freelance"
 date: 2009-02-01
-categories: blog archive
+categories: archive
 ---
 
 I've been working away on a freelance project throughout most of Sunday. Where most people think web development is all about making websites look a certain way, today has been far from it. I've been replicating databases and websites to create a "staging" and "live" site - the idea being that people change the staging site, and the whole lot is pushed through now and again to "live".

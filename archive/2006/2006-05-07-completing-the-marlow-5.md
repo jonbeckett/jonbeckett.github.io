@@ -2,7 +2,7 @@
 layout: post
 title: "Completing The Marlow 5"
 date: 2006-05-07
-categories: blog archive
+categories: archive
 ---
 
 I finished the Marlow 5 this morning - amazing considering that I thought about pulling out last weekend. I had only gone out on about 5 training runs in total, so was a bit surprised to make it round.

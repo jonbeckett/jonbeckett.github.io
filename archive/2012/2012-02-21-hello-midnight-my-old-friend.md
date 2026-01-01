@@ -2,7 +2,7 @@
 layout: post
 title: "Hello Midnight My Old Friend"
 date: 2012-02-21
-categories: blog archive
+categories: archive
 ---
 
 Where on earth did the evening go? Where on earth did the entire day go? I remember looking at my watch mid-morning, thinking it was going to be a slow day. That was obviously before the day began to have other ideas.

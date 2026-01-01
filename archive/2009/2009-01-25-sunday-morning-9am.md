@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Morning 9Am"
 date: 2009-01-25
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday morning, it's raining outside, the kids are watching Harry Potter on the television in the playroom, W is sitting quietly sipping Rooibos tea in the living room, and I am holed up in the study.

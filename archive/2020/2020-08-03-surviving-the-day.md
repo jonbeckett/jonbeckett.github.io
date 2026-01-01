@@ -2,7 +2,7 @@
 layout: post
 title: "Surviving The Day"
 date: 2020-08-03
-categories: blog archive
+categories: archive
 ---
 
 I started the day with an empty page in my bullet journal, and filled it with tasks as the day went on - the kinds of things you would expect after being out of the loop for a couple of weeks - timesheets to fill out, documents to read, emails to reply to, calls to make.

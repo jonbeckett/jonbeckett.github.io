@@ -2,7 +2,7 @@
 layout: post
 title: "Winter Wonderland"
 date: 2012-02-05
-categories: blog archive
+categories: archive
 ---
 
 It had been forecast for days. Levels of excitement around the younger members of the household had been escalating dangerously all afternoon. Our promises of "it's going to snow tonight" were starting to sound doubtful - until the moment I looked from the patio doors with Little Miss Eight late in the afternoon, and saw the first flakes.

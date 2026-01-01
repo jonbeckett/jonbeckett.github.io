@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Apart"
 date: 2024-03-28
-categories: blog archive
+categories: archive
 ---
 
 On the last day of our holiday I could feel either the same bug I had before going away making a comeback - doing an encore of sorts - or an entirely new bug caught on the aeroplane making it's presence known.

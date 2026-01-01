@@ -2,7 +2,7 @@
 layout: post
 title: "Quickdraw Mcgraw"
 date: 2003-07-31
-categories: blog archive
+categories: archive
 ---
 
 I had an early start today to go and visit a client on-site. I left the house at about 7:35 to catch the early train. The journey there was as uneventful as ever (from Marlow to Hillingdon).

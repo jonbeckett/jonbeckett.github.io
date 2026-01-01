@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Beautiful Lady Cut All My Hair Off"
 date: 2016-01-08
-categories: blog archive
+categories: archive
 ---
 
 Given that the unruly mop atop my head was verging towards "that bloke that doesn't look after himself", I figured I should get my hair cut this morning.

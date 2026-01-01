@@ -3,7 +3,6 @@ layout: single
 title: "Everything all the time"
 date: 2025-05-16
 categories:
-  - blog
   - "2025"
 ---
 

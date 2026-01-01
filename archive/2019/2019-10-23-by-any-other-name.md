@@ -2,7 +2,7 @@
 layout: post
 title: "By Any Other Name"
 date: 2019-10-23
-categories: blog archive
+categories: archive
 ---
 
 I've been wrestling with the idea of changing the name of this blog over the last few days - away from my name to something vaguely interesting and different. Of course that presumes the content is about to become interesting and different - and that presumption would be incorrect. I've been emptying my head into this thing for the last however many years, and I can't imagine I'm about to change any time soon.

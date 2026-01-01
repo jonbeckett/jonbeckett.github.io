@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To The Fuckwad Theory"
 date: 2006-08-15
-categories: blog archive
+categories: archive
 ---
 
 I spent some time tonight exploring MySpace, and while browsing the forums discovered that nothing has really changed in people's behaviour on the internet since the days I used to run a busy website. We experienced what has perhaps famously become known as the "Penny Arcade Fuckwad Theory"...

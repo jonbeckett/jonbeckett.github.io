@@ -2,7 +2,7 @@
 layout: post
 title: "Switching Off"
 date: 2014-02-25
-categories: blog archive
+categories: archive
 ---
 
 After spending all day with my head buried in hilariously complex programming to force computers to do something dreamed up by managers at some far flung company that their staff will hate, I find it very difficult to switch off.

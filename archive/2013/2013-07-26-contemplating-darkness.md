@@ -2,7 +2,7 @@
 layout: post
 title: "Contemplating Darkness"
 date: 2013-07-26
-categories: blog archive
+categories: archive
 ---
 
 While sorting through the various detritus in the study last night (we laughably refer to it as the studyit has more akin with Monica's junk cupboard in "Friends"), I realised how many books have been sat on the shelf for the last four years, unread.

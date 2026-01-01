@@ -2,7 +2,7 @@
 layout: post
 title: "Catching Fire"
 date: 2014-12-29
-categories: blog archive
+categories: archive
 ---
 
 We finally watched the second Hunger Games movie last night. I haven't read the books yet (despite repeated requests that I do so from a good friend). I'm not sure what to make of it.

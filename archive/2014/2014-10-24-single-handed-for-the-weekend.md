@@ -2,7 +2,7 @@
 layout: post
 title: "Single Handed For The Weekend"
 date: 2014-10-24
-categories: blog archive
+categories: archive
 ---
 
 I got home from work this evening, and while dealing with the firstsink full of washing up, beforedinner, my other half informed me that she's off to the coast with her Mum early tomorrow morning. I looked confused, and she exploded - telling me she had told me repeatedly about this. It was all news to me.

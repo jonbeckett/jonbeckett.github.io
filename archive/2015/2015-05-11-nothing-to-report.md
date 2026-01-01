@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing To Report"
 date: 2015-05-11
-categories: blog archive
+categories: archive
 ---
 
 I woke with a start at 5:30am this morning. After blinking a few times, and opening my eyes wide, I rolled over and reached for the mobile phone. Any messages? Any emails? The next few minutes were spent in the strangely stretched world I inhabit - saying goodnight to friends on the far side of the planet as the day began here.

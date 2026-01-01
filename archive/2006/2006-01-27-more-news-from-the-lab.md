@@ -2,7 +2,7 @@
 layout: post
 title: "More News From The Lab"
 date: 2006-01-27
-categories: blog archive
+categories: archive
 ---
 
 More IVF news 

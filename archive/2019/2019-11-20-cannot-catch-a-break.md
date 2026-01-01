@@ -2,7 +2,7 @@
 layout: post
 title: "Cannot Catch A Break"
 date: 2019-11-20
-categories: blog archive
+categories: archive
 ---
 
 On the way to work yesterday morning a four wheel drive monstrosity driven by a trophy mum forced be into the hedgerow alongside the road. She had just passed a passing place, but I was just a bicycle - so she carried on. I didn't think much of it at the time, so carried on to work. When I came out of work yesterday evening I discovered a bike with very flat tyres.

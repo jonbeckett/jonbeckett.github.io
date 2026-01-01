@@ -2,7 +2,7 @@
 layout: post
 title: "Wordpress Theme Design And Development"
 date: 2009-01-15
-categories: blog archive
+categories: archive
 ---
 
 I've been working away for the last couple of evenings to design and build a new theme for WordPress. It's name thus far is "Subminimal" - I have no real reason for the name - it just sounded good when I thought of it. At the moment, my freelance work site "Beckett Web Design" has the new theme, and it's about time too - it's pretty difficult to convince people you are any good at this stuff unless you can demonstrate it. I think this theme demonstrates it pretty clearly.

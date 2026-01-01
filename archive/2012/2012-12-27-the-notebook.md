@@ -2,7 +2,7 @@
 layout: post
 title: "The Notebook"
 date: 2012-12-27
-categories: blog archive
+categories: archive
 ---
 
 I tend to carry a paper notebook everywhere. Sometimes I go for days on end without writing anything in it, but I still keep it with me. You never know when inspiration might strike.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Blogroll Mountain"
 date: 2007-03-07
-categories: blog archive
+categories: archive
 ---
 
 While talking to a good friend last night on the internet, I realised how little I have been sharing recently via my blog, and how few blogs I have read (the list of unread blog posts is starting to resemble something very large and menacing that could hurt if it fell on you). I'm wondering if it is just a case of life getting in the way, or if blogging suffers peaks and troughs like any other activity I take part in.

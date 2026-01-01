@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Photography To The Mix"
 date: 2017-12-02
-categories: blog archive
+categories: archive
 ---
 
 Many years ago - before the advent of Instagram - I had a Flickr account. Thinking about it, I had a Flickr account before Flickr was owned by Yahoo - a  long time ago now. I used to take photos on my little Fuji digital camera, download them at the end of the day, upload a selection of them, title them, describe them, and arrange them into albums.

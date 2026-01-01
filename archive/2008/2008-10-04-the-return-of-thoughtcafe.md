@@ -2,7 +2,7 @@
 layout: post
 title: "The Return Of Thoughtcafe"
 date: 2008-10-04
-categories: blog archive
+categories: archive
 ---
 
 It's coming back, and returning to it's roots.

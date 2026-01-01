@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Morning"
 date: 2014-02-23
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday Morning, and I'm wondering what the day will bring. Our middle girl has gone to a rugby match, and our youngest is barraging me with requests to visit the playpark in town.

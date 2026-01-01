@@ -2,7 +2,7 @@
 layout: post
 title: "Ip Address Blocking Doesnt Work"
 date: 2007-03-27
-categories: blog archive
+categories: archive
 ---
 
 I just want to flag this up for anybody who happens to read this blog. If you are looking at ways of stopping spam on your blog, do not use IP address blocking. The major culprit for this is the Spamhaus service (who I am not going to gratify with a link).

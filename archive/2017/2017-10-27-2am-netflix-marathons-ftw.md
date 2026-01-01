@@ -2,7 +2,7 @@
 layout: post
 title: "2Am Netflix Marathons Ftw"
 date: 2017-10-27
-categories: blog archive
+categories: archive
 ---
 
 I sat up with our eldest daughter last night watching back to back episodes of "Stranger Things" on Netflix. We watched the first four episodes of season 2 while eating pizza, drinking red wine, and sneaking penny sweets from a huge bucket in the kitchen bought for Halloween.

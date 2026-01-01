@@ -2,7 +2,7 @@
 layout: post
 title: "Back From Holiday"
 date: 2004-06-21
-categories: blog archive
+categories: archive
 ---
 
 I'm back at work this morning, and waiting for a process to complete on a remote server - hence writing an entry in this blog.

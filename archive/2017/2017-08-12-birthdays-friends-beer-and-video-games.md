@@ -2,7 +2,7 @@
 layout: post
 title: "Birthdays Friends Beer And Video Games"
 date: 2017-08-12
-categories: blog archive
+categories: archive
 ---
 
 I'm amazed I don't have a hangover this morning. I visited a friend last night to help celebrate his birthday - he had organised a "boy's night", complete with beer, pizza, a number of current and past co-workers, and video games. I say "games", but it really just came down to taking turns playing a car racing game - driving ridiculous cars at speed around Monaca, Monza, and the Nurburgring Nordschlief (is that how you spell it?).

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Bought My Own Easter Egg"
 date: 2016-03-26
-categories: blog archive
+categories: archive
 ---
 
 I went shopping at 4pm this afternoon for Easter eggsbecause otherwise our kids wouldn't have had any at all. Let's try to ignore that my other half spent the entire day shopping, and didn't think to get any.

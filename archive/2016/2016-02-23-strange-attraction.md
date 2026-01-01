@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Attraction"
 date: 2016-02-23
-categories: blog archive
+categories: archive
 ---
 
 Last night provided further evidence towards the hypothesis I formed some time agothat I am a strange attractor. I've suspected for some time. If you're wondering what on earth I'm talking about, perhaps I should explain what a strange attractor is first.

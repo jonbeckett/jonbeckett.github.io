@@ -2,7 +2,7 @@
 layout: post
 title: "Breaking The Silence"
 date: 2017-02-11
-categories: blog archive
+categories: archive
 ---
 
 It's been four days since I last posted anything to the blog. I'm still sick. I have to make a decision in the morning about either calling the doctor to try and get an appointment, or calling work. I can't remember having more than a day off from work for years. I'm already stressing about the mayhem I'm going to walk back into - which is perhaps an indicator in itself about the circumstances that lead to me getting so sick in the first place (aside from all manner of bugs doing the rounds at the moment).

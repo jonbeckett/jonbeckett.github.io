@@ -2,7 +2,7 @@
 layout: post
 title: "All Kinds Of Awesome"
 date: 2016-02-08
-categories: blog archive
+categories: archive
 ---
 
 I took our youngest daughter into London todayprimarily to do some research for her school project board on volcanoes. Each couple of terms the children are required to produce a presentation board on a topic with a number of required elementsso many written pieces, a glossary, some illustration, some photos, and so on. The aim is to get the children to research, and to put things together on their own.

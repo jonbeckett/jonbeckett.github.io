@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Two Of Our Chickens Got Eaten Again"
 date: 2009-09-04
-categories: blog archive
+categories: archive
 ---
 
 Given the general level of mayhem that exists in our house, nobody else tends to remember to let the chickens out, or shut them back in their run each night. I usually find myself letting them out on a morning and feeding them, and wandering back up the garden in the dead of night to lock them back in their run again. For whatever reason we happened to be up late last night, and while turning lights off it suddenly struck me that I hadn't shut the chickens in.

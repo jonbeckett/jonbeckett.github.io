@@ -2,7 +2,7 @@
 layout: post
 title: "The Beatles And Itunes"
 date: 2008-11-25
-categories: blog archive
+categories: archive
 ---
 
 The news broke today that the deal to put The Beatles catalogue of music onto iTunes has fallen through - after TWO YEARS of negotiations.

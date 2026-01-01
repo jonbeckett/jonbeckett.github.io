@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Swore At Somebody In The Middle Of The Road"
 date: 2014-12-11
-categories: blog archive
+categories: archive
 ---
 
 Cycling to and from work through commuter traffic over the years seemed to have blunted my perception of "what might be considered idiotic, or dangerous"or so I thought. I see so many thoughtless actions, idiotic decisions, and general stupidity on the road that I thought I had pretty much become immune to it. I normally shake my head, and continue on down the road.

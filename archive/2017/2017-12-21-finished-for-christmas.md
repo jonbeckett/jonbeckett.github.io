@@ -2,7 +2,7 @@
 layout: post
 title: "Finished For Christmas"
 date: 2017-12-21
-categories: blog archive
+categories: archive
 ---
 
 At 3pm this afternoon I finished for Christmas. I go back on the 4th January. I don't think it's really hit me yet - it won't until we get Christmas morning out of the way. Until then, everything looks like a huge struggle - getting the house tidy, the washing done, presents wrapped, and so on.

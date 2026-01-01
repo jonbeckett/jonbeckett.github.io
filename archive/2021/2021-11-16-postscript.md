@@ -2,7 +2,7 @@
 layout: post
 title: "Postscript"
 date: 2021-11-16
-categories: blog archive
+categories: archive
 ---
 
 She was scheduled to come out of surgery early this evening. We took a chance and jumped in the car - making the hour-long trek to the hospital. After parking the car and finding our way to the ward she thought she might arrive at, my other half's phone rang.

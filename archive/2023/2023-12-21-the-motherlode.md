@@ -2,7 +2,7 @@
 layout: post
 title: "The motherlode"
 date: 2023-12-21
-categories: blog archive
+categories: archive
 ---
 
 Unlike many people I worked straight through the pandemic. I wasn't furloughed, but I did reduce to a shorter working week for a while - keeping myself busy by persuing interests that I had been studiously avoiding - among them the "Couch to 5K" running escapade, and trying my hand at writing.

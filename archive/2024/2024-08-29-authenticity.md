@@ -2,7 +2,7 @@
 layout: post
 title: "Authenticity"
 date: 2024-08-29
-categories: blog archive
+categories: archive
 ---
 
 Following the quite predictable implosion and subsequent exodus of users from the hellscape that Twitter became once Elon gave free reign to the toxic horde, I "followed the spiders" across the internet in search of somewhere better to procrastinate.

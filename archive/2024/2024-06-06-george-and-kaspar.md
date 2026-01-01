@@ -2,7 +2,7 @@
 layout: post
 title: "George and Kaspar"
 date: 2024-06-06
-categories: blog archive
+categories: archive
 ---
 
 These two idiots are George and Kaspar.

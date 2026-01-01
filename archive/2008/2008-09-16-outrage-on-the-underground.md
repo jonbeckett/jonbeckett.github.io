@@ -2,7 +2,7 @@
 layout: post
 title: "Outrage On The Underground"
 date: 2008-09-16
-categories: blog archive
+categories: archive
 ---
 
 I nearly spoke out on the Underground beneath London today.

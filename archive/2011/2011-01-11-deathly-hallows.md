@@ -2,7 +2,7 @@
 layout: post
 title: "Deathly Hallows"
 date: 2011-01-11
-categories: blog archive
+categories: archive
 ---
 
 I finally escaped this evening to watch the latest Harry Potter movie on the big screen, accompanied by a wonderful friend and fellow fan of the books.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Words"
 date: 2008-03-25
-categories: blog archive
+categories: archive
 ---
 
 I received news today that one of my closest friends is climbing out of perhaps the bleakest time of their life.

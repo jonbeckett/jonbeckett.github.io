@@ -2,7 +2,7 @@
 layout: post
 title: "Bloglines Beta Better Than Google Reader "
 date: 2009-01-21
-categories: blog archive
+categories: archive
 ---
 
 A good friend who just started writing a blog asked me how to subscribe to other blogs that she might want to read - and before giving any kind of definitive answer I decided to re-evaluate the incumbent candidates - Google Reader and Bloglines.

@@ -2,7 +2,7 @@
 layout: post
 title: "Grease Is The Word"
 date: 2016-12-14
-categories: blog archive
+categories: archive
 ---
 
 This evening started as something of a madcap race against time - to get home, eat dinner, wash up, and then head out to our middle daughter's school to watch their production of Grease (which she had a bit-part in). We'll try to forget that I then had to race back home, hook up the work laptop, and put another couple of hours in fire-fighting a live client system that somehow went straight from development to live with no testing in-between.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Weekend Rolls To A Stop"
 date: 2008-07-06
-categories: blog archive
+categories: archive
 ---
 
 I don't really recall what weekends used to be like.

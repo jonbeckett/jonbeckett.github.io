@@ -2,7 +2,7 @@
 layout: post
 title: "The Adoption Process Continues"
 date: 2007-01-15
-categories: blog archive
+categories: archive
 ---
 
 This post is being written in response to my being mentioned on a friend's blog today. I have often agonised over writing about our involvement in the adoption process for fear (quite an irrational fear no doubt) that writing about this subject might reflect unfavorably upon us with the social services team that will be researching us as "adoptive parents".

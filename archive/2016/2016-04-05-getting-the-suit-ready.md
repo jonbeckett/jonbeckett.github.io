@@ -2,7 +2,7 @@
 layout: post
 title: "Getting The Suit Ready"
 date: 2016-04-05
-categories: blog archive
+categories: archive
 ---
 
 Mid-morning tomorrow I board thetrain once more, headed towards central London to visit a prospective client of the company I work for. Instructions are for a suit, shirt, and tie to be worn, so I will be complying. It's months since I last wore a full suit to a meeting.

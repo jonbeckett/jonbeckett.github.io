@@ -2,7 +2,7 @@
 layout: post
 title: "To Potter Or Not To Potter"
 date: 2005-07-16
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here wondering if I should order the new Harry Potter book from Amazon yet, or wait until I've finished reading the book I am currently reading.

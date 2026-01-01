@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday"
 date: 2011-09-20
-categories: blog archive
+categories: archive
 ---
 
 I have been reading a number of blogs around the internet for years, and yet somehow or other I've let it slide now for months.

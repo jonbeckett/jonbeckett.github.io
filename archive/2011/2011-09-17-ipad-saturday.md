@@ -2,7 +2,7 @@
 layout: post
 title: "Ipad Saturday"
 date: 2011-09-17
-categories: blog archive
+categories: archive
 ---
 
 It's approaching 8:30am on Saturday morning. I've been up for an hour alreadyhad a wash, brushed teeth, got dressed, washed up, tidied kitchen, tidied lounge fairly normal start to the day.

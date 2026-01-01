@@ -2,7 +2,7 @@
 layout: post
 title: "Haircut City"
 date: 2013-07-10
-categories: blog archive
+categories: archive
 ---
 
 Before dragging myself into work this morning I stopped in town to get my hair chopped off by the prettiest lady possible. Normally this would mean the chain "gentleman's hairdresser" in the main street that has obvious rules on the appearance of girls they will hire.

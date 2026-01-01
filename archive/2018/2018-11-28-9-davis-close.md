@@ -2,7 +2,7 @@
 layout: post
 title: "9 Davis Close"
 date: 2018-11-28
-categories: blog archive
+categories: archive
 ---
 
 I took part in NaNoWriMo this year, and set about recording a slew of memories from my early life. This is a small excerpt. Enjoy!

@@ -2,7 +2,7 @@
 layout: post
 title: "Dead On My Feet"
 date: 2007-01-17
-categories: blog archive
+categories: archive
 ---
 
 The day started for me at 6am when I got up. I left the house at 7am, and did battle with the rail network for several hours. I then worked like a trojan all day. After several more hours having a rematch with the rail network, I walked back in the door at 9:30pm.

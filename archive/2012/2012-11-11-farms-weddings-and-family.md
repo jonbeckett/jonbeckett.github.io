@@ -2,7 +2,7 @@
 layout: post
 title: "Farms Weddings And Family"
 date: 2012-11-11
-categories: blog archive
+categories: archive
 ---
 
 On Friday morning we threw hastily packed bags into the car, and set out for a farm in Oxfordshire - our home for the weekend while attending my little cousin's wedding. The wedding had always seemed months into the future, and yet here it was.

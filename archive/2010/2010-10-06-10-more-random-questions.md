@@ -2,7 +2,7 @@
 layout: post
 title: "10 More Random Questions"
 date: 2010-10-06
-categories: blog archive
+categories: archive
 ---
 
 In keeping with the recent theme of answering random questions, I thought perhaps it might be time for another ten - enjoywe found ourselves with the dance floor all to ourself, and had such a great laugh. The next morning, while sitting through the briefing for a port visit (Naples, perhaps?), an elderly lady tapped W on the shoulder and remarked "I did enjoy your exotic dancing last night"...

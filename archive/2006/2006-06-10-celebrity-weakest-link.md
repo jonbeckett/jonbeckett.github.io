@@ -2,7 +2,7 @@
 layout: post
 title: "Celebrity Weakest Link"
 date: 2006-06-10
-categories: blog archive
+categories: archive
 ---
 
 We have just been watching "Celebrity Weakest Link" on the television, and laughing our socks off at the lack of knowledge they seem to have.

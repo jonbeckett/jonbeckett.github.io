@@ -2,7 +2,7 @@
 layout: post
 title: "The Twenty Fifteen Theme"
 date: 2014-12-11
-categories: blog archive
+categories: archive
 ---
 
 Last night I noticed a post from WordPress in the dashboard that scrolls towards oblivion (and causes me to get nothing done)a post announcing the availability of the "Twenty Fifteen" theme. If you're looking at this blog from the public-facing side, you're already seeing the new theme.

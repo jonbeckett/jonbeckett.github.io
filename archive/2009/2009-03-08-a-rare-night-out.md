@@ -2,7 +2,7 @@
 layout: post
 title: "A Rare Night Out"
 date: 2009-03-08
-categories: blog archive
+categories: archive
 ---
 
 After much planning and preparation, last night we managed to escape together for a night out in town with W's brother. It was our second night out together since the girls arrived in February last year, and a reminder that we should do it more often (I'm guessing all parents say the same thing).

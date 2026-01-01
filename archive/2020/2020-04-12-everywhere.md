@@ -2,7 +2,7 @@
 layout: post
 title: "Everywhere"
 date: 2020-04-12
-categories: blog archive
+categories: archive
 ---
 
 I suppose there's quite a bit to unpack today - quite apart from it being 'Easter Sunday'. As an aside, if you were wondering why I have referenced 'Easter Sunday' with quote marks, it might have something to do with my lack of belief or faith in anything to do with it. It's a good excuse to buy chocolate though, so it's good in my book.

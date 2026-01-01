@@ -2,7 +2,7 @@
 layout: post
 title: "Something Wicked This Way Comes"
 date: 2017-09-21
-categories: blog archive
+categories: archive
 ---
 
 I suppose technically it's already Saturday morning, but I'm writing this before falling into bed on Friday night, so I'm classing it as Friday still.

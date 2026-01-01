@@ -2,7 +2,7 @@
 layout: post
 title: "Holy Haircuts Batman"
 date: 2012-02-22
-categories: blog archive
+categories: archive
 ---
 
 I will neither confirm or deny that somebody stole most of my hair this morning.

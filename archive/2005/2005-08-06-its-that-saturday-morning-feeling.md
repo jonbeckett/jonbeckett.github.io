@@ -2,7 +2,7 @@
 layout: post
 title: "Its That Saturday Morning Feeling"
 date: 2005-08-06
-categories: blog archive
+categories: archive
 ---
 
 Saturday morning is almost over, and I have got nothing done. I've been messing around with Yahoo 360 all morning (which I knew nothing about until an old friend emailed me a "friend invite" on it). If you are insterested, the URL it http://360.yahoo.com - and for those reading this on Yahoo 360, I cross-post my blog entries to several destinations 

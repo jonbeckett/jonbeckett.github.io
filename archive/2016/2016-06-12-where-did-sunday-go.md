@@ -2,7 +2,7 @@
 layout: post
 title: "Where Did Sunday Go "
 date: 2016-06-12
-categories: blog archive
+categories: archive
 ---
 
 It's just gone 3pm. My other half arrived home from the Brownie camping expedition a little before lunchtime. I made lunch for everybody, then took the children to the carnival in town inbetween rain showers. While wandering back from town I bought groceries, and fell out with our middle girl (she ran off in the supermarket, bought herself a bottle of coke, and drank it as fast as she could before I found out).

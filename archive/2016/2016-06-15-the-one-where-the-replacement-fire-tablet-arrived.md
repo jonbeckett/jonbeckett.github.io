@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Replacement Fire Tablet Arrived"
 date: 2016-06-15
-categories: blog archive
+categories: archive
 ---
 
 When I got home from work yesterday evening, I asked our eldest daughter (who had been in the house all day) if a delivery from Amazon had arrived. She shook her head. Only it had. They had tried to deliver it, she hadn't answered the door, and it had bounced to the local post office depot.

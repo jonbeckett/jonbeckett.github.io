@@ -2,7 +2,7 @@
 layout: post
 title: "A Minute Here A Minute There"
 date: 2022-09-28
-categories: blog archive
+categories: archive
 ---
 
 I continue to struggle finding time to write. A window of opportunity opened at lunchtime, but before I knew it one thing after another conspired to slam it shut.

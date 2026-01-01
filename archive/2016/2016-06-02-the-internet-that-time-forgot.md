@@ -2,7 +2,7 @@
 layout: post
 title: "The Internet That Time Forgot"
 date: 2016-06-02
-categories: blog archive
+categories: archive
 ---
 
 I remember back when blogging was "a thing". It's worse than that though - I'm one of the reasons blogging happened. No. Really.

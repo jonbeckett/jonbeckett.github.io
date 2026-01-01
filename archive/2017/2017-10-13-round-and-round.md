@@ -2,7 +2,7 @@
 layout: post
 title: "Round And Round"
 date: 2017-10-13
-categories: blog archive
+categories: archive
 ---
 
 While writing this post, the washing machine and tumble dryer are rumbling away in the background, I'm half listening to an old playlist on the ancient iMac in the corner of the room, the younger children are playing football with their friends on the green outside the house, our eldest is visiting a friend for the day, and my other half is at the "Knit and Stitch Exhibition" in London.

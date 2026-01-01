@@ -2,7 +2,7 @@
 layout: post
 title: "Flying Penguins"
 date: 2008-04-01
-categories: blog archive
+categories: archive
 ---
 
 While making various packed lunches this morning, this news story caught my eye on the BBC breakfast news broadcast...

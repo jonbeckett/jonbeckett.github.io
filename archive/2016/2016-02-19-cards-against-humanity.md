@@ -2,7 +2,7 @@
 layout: post
 title: "Cards Against Humanity"
 date: 2016-02-19
-categories: blog archive
+categories: archive
 ---
 
 Oh. My. Word. We went for a meal at a friend's house last night, and after eating lots of wonderful food, and drinking lots of wonderful wine, we got out "Cards Against Humanity". None of us had played it before. My cheeks have not hurt from laughing so much in quite some time.

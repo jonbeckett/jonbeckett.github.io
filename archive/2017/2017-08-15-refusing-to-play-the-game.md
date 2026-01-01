@@ -2,7 +2,7 @@
 layout: post
 title: "Refusing To Play The Game"
 date: 2017-08-15
-categories: blog archive
+categories: archive
 ---
 
 I have been writing a personal blog, and publishing it to the internet for somewhere in the region of fifteen years now. Throughout that time I have never "played the game". If you're wondering what I mean by that, I mean the incessant attention seeking, attempts to attract followers, and seeking of approval that seems so prevalent in the "social internet" space from those obsessing over the number of eyeballs they can possibly get their words or pictures in front of.

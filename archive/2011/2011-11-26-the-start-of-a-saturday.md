@@ -2,7 +2,7 @@
 layout: post
 title: "The Start Of A Saturday"
 date: 2011-11-26
-categories: blog archive
+categories: archive
 ---
 
 The alarm clock went off at exactly 7 this morning, as it always doesexcept for Sundays. I say "exactly" because it has this little badge on it that indicates it's using some kind of atomic clock radio signal from somewhere or other to remain accurate. I say "except for Sundays" because when we first had it, the instruction book showed you how to only make the alarm go off on particular days. We lost that instruction book years ago.

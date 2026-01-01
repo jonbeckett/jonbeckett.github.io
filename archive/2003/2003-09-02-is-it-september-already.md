@@ -2,7 +2,7 @@
 layout: post
 title: "Is It September Already"
 date: 2003-09-02
-categories: blog archive
+categories: archive
 ---
 
 I can't believe it's September already... It does seem like it should be for some reason. August didn't seem to happen this year - perhaps this is the kind of thing that happens when you get older?

@@ -2,7 +2,7 @@
 layout: post
 title: "Starting Over"
 date: 2011-07-31
-categories: blog archive
+categories: archive
 ---
 
 In recent weeks my presence here has been deleted, reinstated, recreated, and finally reinvented. I think in some ways I had to walk away in order to realise what I would miss.

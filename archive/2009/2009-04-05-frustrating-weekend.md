@@ -2,7 +2,7 @@
 layout: post
 title: "Frustrating Weekend"
 date: 2009-04-05
-categories: blog archive
+categories: archive
 ---
 
 I had hoped to make progress with a number of freelance projects this weekend. It didn't happen (or at least it hasn't happened yet - I forsee a very late night ahead).

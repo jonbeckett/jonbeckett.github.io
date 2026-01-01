@@ -2,7 +2,7 @@
 layout: post
 title: "Running Around In Circles"
 date: 2012-04-26
-categories: blog archive
+categories: archive
 ---
 
 Another day passes, and once again it feels like my feet have hardly touched the ground all day. From the moment the radio alarm clock burst into life at 7am, through adventures in breakfast and lunch making, through the work day, taking my life in my hands through traffic there and back, and finally through dinner and washing up, it just hasn't stopped.

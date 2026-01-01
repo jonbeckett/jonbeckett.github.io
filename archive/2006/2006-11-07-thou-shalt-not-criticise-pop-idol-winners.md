@@ -2,7 +2,7 @@
 layout: post
 title: "Thou Shalt Not Criticise Pop Idol Winners"
 date: 2006-11-07
-categories: blog archive
+categories: archive
 ---
 
 Wow - what a response... after yesterday's post where I made comments in passing about Will Young and Kelly Clarkson, I was deluged with emails and comments.

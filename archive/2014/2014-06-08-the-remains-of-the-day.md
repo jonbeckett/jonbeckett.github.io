@@ -2,7 +2,7 @@
 layout: post
 title: "The Remains Of The Day"
 date: 2014-06-08
-categories: blog archive
+categories: archive
 ---
 
 After the children had gone to bed last night, I sat in the garden with my other half, enjoying a few minutes peace and quiet with a bottle of wine and our thoughts. Welit the chiminea, pulled our chairs up to keep warm, and listened to the birds finding their places in the treetops around the garden.

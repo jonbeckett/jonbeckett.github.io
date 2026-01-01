@@ -2,7 +2,7 @@
 layout: post
 title: "A Life Online"
 date: 2010-01-17
-categories: blog archive
+categories: archive
 ---
 
 Anybody who has read my personal blog recently will be aware that I have ditched the iPhone in favour of a Blackberry. The Blackberry is somewhat better at one key thing than the iPhone was previously; communication. It's existence about my person this weekend has resulted in several far flung friends finally being able to get in touch with me.

@@ -2,7 +2,7 @@
 layout: post
 title: "Day Thirteen Winning And Losing"
 date: 2008-02-09
-categories: blog archive
+categories: archive
 ---
 
 Today was a very up and down day. Highs and lows.

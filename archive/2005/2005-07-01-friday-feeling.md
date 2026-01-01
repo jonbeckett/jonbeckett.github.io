@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Feeling"
 date: 2005-07-01
-categories: blog archive
+categories: archive
 ---
 
 It's Friday, things are slowing down, and I find myself sorting little details out here and there.

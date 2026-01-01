@@ -2,7 +2,7 @@
 layout: post
 title: "Embarking On A Journey Of Blog Discovery"
 date: 2014-11-03
-categories: blog archive
+categories: archive
 ---
 
 This evening I am heading out across the vast stretches of the internet in search of bloggers taking part in NaBloPoMo. I will follow a collection of them via Feedly, and try to keep up with their writing throughout the month of madness. It feels like I'm bringing 2006 back from the dead - I did a similar thing back during the first run of NaBloPoMo, and made some friends online that have somehow survived the last 8 years. Has it really been 8 years? It seems like such a long time when you write it down, and look at the number - it doesn't seem that long ago at all.

@@ -2,7 +2,7 @@
 layout: post
 title: "10 Random Questions"
 date: 2011-01-04
-categories: blog archive
+categories: archive
 ---
 
 10 random questions, garnered from the vast stockpile that I once discovered online, and answered for your interest and amusement

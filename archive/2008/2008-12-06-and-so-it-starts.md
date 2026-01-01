@@ -2,7 +2,7 @@
 layout: post
 title: "And So It Starts"
 date: 2008-12-06
-categories: blog archive
+categories: archive
 ---
 
 We retrieved our Christmas decorations from the attic tonight - with predictably violent hyperventilation, gasps, and vomit inducing excitement from the children.

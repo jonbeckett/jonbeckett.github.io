@@ -2,7 +2,7 @@
 layout: post
 title: "Standing Behind Mary Berry"
 date: 2018-01-25
-categories: blog archive
+categories: archive
 ---
 
 On our way home from parents evening at our youngest's school yesterday evening, the clock struck "can't be bothered to cook anything" o'clock, so we stopped off at a supermarket en-route to buy ready meals.

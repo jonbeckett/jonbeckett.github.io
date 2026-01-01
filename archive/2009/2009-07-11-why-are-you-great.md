@@ -2,7 +2,7 @@
 layout: post
 title: "Why Are You Great"
 date: 2009-07-11
-categories: blog archive
+categories: archive
 ---
 
 Following an interesting idea invented by Antidamen on her LiveJournal, I'm turning this blog inside out today - and asking why you think you are so great;

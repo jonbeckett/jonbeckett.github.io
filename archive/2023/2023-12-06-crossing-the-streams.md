@@ -2,7 +2,7 @@
 layout: post
 title: "Crossing the Streams"
 date: 2023-12-06
-categories: blog archive
+categories: archive
 ---
 
 In a moment of madness this evening I crossed the blogging streams in a manner that Peter Venkman would have been proud. My personal blog has re-surfaced on both Tumblr and Wordpress, after an absence that stretched on for far too long.

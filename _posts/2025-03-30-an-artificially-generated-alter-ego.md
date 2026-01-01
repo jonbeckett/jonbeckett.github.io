@@ -3,7 +3,6 @@ layout: single
 title: "An artificially generated alter-ego"
 date: 2025-03-30
 categories:
-  - blog
   - "2025"
 ---
 

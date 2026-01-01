@@ -2,7 +2,7 @@
 layout: post
 title: "Endless Amusement"
 date: 2015-04-14
-categories: blog archive
+categories: archive
 ---
 
 The office where I work is nestled in the bottom of a quiet country estate - the final mile of my cycle to work each day is through leafy tree lined roads, alongside the River Thames as it meanders past on it's way to London.

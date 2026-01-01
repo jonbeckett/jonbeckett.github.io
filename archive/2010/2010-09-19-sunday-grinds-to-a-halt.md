@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Grinds To A Halt"
 date: 2010-09-19
-categories: blog archive
+categories: archive
 ---
 
 It's nearing the end of Sunday and I'm still waiting for #newtwitter to arrive. I wouldn't so much call this "impatience", as a burning curiosity to play with a new toy.

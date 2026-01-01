@@ -2,7 +2,7 @@
 layout: post
 title: "Photos In The Garden"
 date: 2005-05-02
-categories: blog archive
+categories: archive
 ---
 
 While kicking around the house looking for something to do this afternoon I ended up wandering around with the digital camera. What follows is the result of a wander around the house and the back garden...

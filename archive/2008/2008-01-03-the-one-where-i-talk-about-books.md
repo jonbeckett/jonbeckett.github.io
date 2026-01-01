@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Talk About Books"
 date: 2008-01-03
-categories: blog archive
+categories: archive
 ---
 
 After reading Quarter Rest earlier, I realised it might be an idea to have a page here at PluggedOut about the books I am either reading, or have recently read - and so I waved my magic wand, and the page was brought into existence (www.pluggedout.com/books).

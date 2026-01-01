@@ -2,7 +2,7 @@
 layout: post
 title: "Seduction By Nintendo"
 date: 2006-11-28
-categories: blog archive
+categories: archive
 ---
 
 I should have known it would happen. I can still remember the afternoon I arrived home with the little blue box from Nintendo, wired it up to the television set and said "W, come and see this - you'll like it".

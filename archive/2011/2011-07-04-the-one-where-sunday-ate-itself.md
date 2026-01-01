@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Sunday Ate Itself"
 date: 2011-07-04
-categories: blog archive
+categories: archive
 ---
 
 I swear, Sunday didn't happen. I have vague recollections of it being talked about, and things might have happened, but I'm not entirely sure any more.

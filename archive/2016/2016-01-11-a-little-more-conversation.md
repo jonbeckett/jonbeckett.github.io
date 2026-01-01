@@ -2,7 +2,7 @@
 layout: post
 title: "A Little More Conversation"
 date: 2016-01-11
-categories: blog archive
+categories: archive
 ---
 
 In the slightly reckless spirit of making it easier for random passers by to comment on the various posts at jonbeckett.com, I have swapped out the default commenting system for "Disqus". What does this mean? Essentially it means it will be easier to comment, and easier to have a conversation in the comments (well that's the plan, anyway).

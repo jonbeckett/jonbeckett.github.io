@@ -2,7 +2,7 @@
 layout: post
 title: "Submerging"
 date: 2019-04-23
-categories: blog archive
+categories: archive
 ---
 
 After spending an hour yesterday cleaning my bike, and replacing the brake blocks (I've been cycling around with no brakes for the last few weeks - don't tell anybody), I got on it this morning and cycled to work.

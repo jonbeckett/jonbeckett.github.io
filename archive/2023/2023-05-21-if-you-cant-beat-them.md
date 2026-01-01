@@ -2,7 +2,7 @@
 layout: post
 title: "If you cant beat them"
 date: 2023-05-21
-categories: blog archive
+categories: archive
 ---
 
 After a year wandering through the internet wilderness, I've returned to Wordpress, paid for an account, sat down heavily in the corner, and let out a huge sigh.

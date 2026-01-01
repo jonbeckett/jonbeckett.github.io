@@ -3,7 +3,6 @@ layout: single
 title: "Not good at switching off"
 date: 2025-08-06
 categories:
-  - blog
   - "2025"
 ---
 

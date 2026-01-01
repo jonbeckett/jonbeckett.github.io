@@ -2,7 +2,7 @@
 layout: post
 title: "Relentless"
 date: 2024-09-08
-categories: blog archive
+categories: archive
 ---
 
 To say the last few days, weeks, or months have been something of a grind would be something of an understatement. A relentless trudge between drama, arguments, and disasters where I instinctively throw myself under the bus to either resolve or support everybody else in whatever endeavour they are failing spectacularly at.

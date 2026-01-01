@@ -2,7 +2,7 @@
 layout: post
 title: "Severing The Many Tentacles Of Cheese And Beans"
 date: 2010-01-22
-categories: blog archive
+categories: archive
 ---
 
 I've been using posterous to throw thoughts into this blog for a while now. It's a clever system that lets you publish to multiple places off the back of one email. I played with it some months ago, and walked away - then in a fit of laziness started using it again late last year. It seemed almost magical that I could send one email, and have my content automagically appear on WordPress, LiveJournal, Tumblr, Facebook, Blogger, Flickr, Delicious, and any number of other sites.

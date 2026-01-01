@@ -2,7 +2,7 @@
 layout: post
 title: "Bullet Journals And Video Games"
 date: 2021-04-30
-categories: blog archive
+categories: archive
 ---
 
 For the last three years I have used a bullet journal to both plan, and record each day. It has sat on the corner of my desk, and served as a duplicate of sorts to my work calendar, my home calendar, and the various productivity apps I have tinkered with along the way.

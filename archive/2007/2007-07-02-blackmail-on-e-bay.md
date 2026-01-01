@@ -2,7 +2,7 @@
 layout: post
 title: "Blackmail On E Bay"
 date: 2007-07-02
-categories: blog archive
+categories: archive
 ---
 
 cross-posted from my other blog, because I feel this is important...

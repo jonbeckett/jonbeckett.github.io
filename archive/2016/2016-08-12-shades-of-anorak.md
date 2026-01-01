@@ -2,7 +2,7 @@
 layout: post
 title: "Shades Of Anorak"
 date: 2016-08-12
-categories: blog archive
+categories: archive
 ---
 
 After repeated requests from both my own children, and various children of friends that realised I might have the skills required to do it, I have installed a Minecraft server on the internet for them all to play on together. It's perhaps worth mentioning that I have only played Minecraft for a few hours, several years ago, so had no idea in advance of how, what, where, or why the "world" inside the game works the way it does.

@@ -2,7 +2,7 @@
 layout: post
 title: "How I Met Your Mother"
 date: 2016-12-14
-categories: blog archive
+categories: archive
 ---
 
 Given that everybody gets a free pass to be as sentimental as they want in a personal blog, and that I have just read a wonderful blog post about meeting people for the first time, I thought I might share how I met my other half.

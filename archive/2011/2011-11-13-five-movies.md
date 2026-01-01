@@ -2,7 +2,7 @@
 layout: post
 title: "Five Movies"
 date: 2011-11-13
-categories: blog archive
+categories: archive
 ---
 
 In response to my last post, I was asked if I could come up with a list of films that I likethat inspire me. For the last hour or so I've sat here, trying to come up with some movies that didn't do so well at the box office, and have somehow been forgotten.

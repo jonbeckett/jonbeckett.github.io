@@ -3,7 +3,6 @@ layout: single
 title: "How is it nearly Thursday already?"
 date: 2025-11-05
 categories:
-  - blog
   - "2025"
 ---
 

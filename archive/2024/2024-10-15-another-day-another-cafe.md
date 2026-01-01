@@ -2,7 +2,7 @@
 layout: post
 title: "Another day, another cafe"
 date: 2024-10-15
-categories: blog archive
+categories: archive
 ---
 
 I'm holed up in the corner of the café where my daughters work -- surrounded by a coffee, half a sausage roll, a chromebook, and a rag-tag band of people from all walks of life -- either stopping by during their day to catch up with each other, or escaping from the rest of their life -- as I am.

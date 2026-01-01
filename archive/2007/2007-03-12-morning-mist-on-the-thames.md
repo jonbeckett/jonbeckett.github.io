@@ -2,7 +2,7 @@
 layout: post
 title: "Morning Mist On The Thames"
 date: 2007-03-12
-categories: blog archive
+categories: archive
 ---
 
 You know how sometimes you take a photo, and the planets seem to line up in your favour? It happened to me this morning...

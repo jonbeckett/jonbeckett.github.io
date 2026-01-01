@@ -2,7 +2,7 @@
 layout: post
 title: "Fantastic Sunday"
 date: 2005-07-24
-categories: blog archive
+categories: archive
 ---
 
 Fantastic Sunday

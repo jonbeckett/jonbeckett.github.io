@@ -3,7 +3,6 @@ layout: single
 title: "The table for one problem"
 date: 2025-08-09
 categories:
-  - blog
   - "2025"
 ---
 

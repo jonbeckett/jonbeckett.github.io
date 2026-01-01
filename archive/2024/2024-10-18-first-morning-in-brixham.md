@@ -2,7 +2,7 @@
 layout: post
 title: "First morning in Brixham"
 date: 2024-10-18
-categories: blog archive
+categories: archive
 ---
 
 A few weeks ago -- after learning when I would be using my remaining work holidays -- my other half arranged her remaining holidays to coincide, and asked an old friend that owns a cottage on the coast if we might use it for a few days.

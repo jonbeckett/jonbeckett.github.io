@@ -2,7 +2,7 @@
 layout: post
 title: "To the pixel mines"
 date: 2024-12-23
-categories: blog archive
+categories: archive
 ---
 
 You know the one where you post the right thing to the wrong blog, or the wrong thing to the right blog? I'll pretend that sentence makes some sense to me (it sort of does).

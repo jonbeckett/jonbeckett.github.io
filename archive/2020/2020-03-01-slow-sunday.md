@@ -2,7 +2,7 @@
 layout: post
 title: "Slow Sunday"
 date: 2020-03-01
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday. I was supposed to be in London today with Miss 19. I got up at 7am, had a shower, brushed my teeth, got dressed, and cleared the kitchen while waiting for her to get up. I tipped my head into her room several times, telling her how many minutes until we would need to catch the train. She didn't get up.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Weekend"
 date: 2018-03-31
-categories: blog archive
+categories: archive
 ---
 
 We invited the in-laws over for lunch today - Easter Sunday - which necessitated a frenzied cleaning of the house such has not been seen for quite some time. It began twenty four hours before when it was suggested to me that I might be able to jet-wash the driveway, to remove the moss that has been threatening to envelop the house for the last several months. Of course it wasn't really a suggestion - it was more an order.

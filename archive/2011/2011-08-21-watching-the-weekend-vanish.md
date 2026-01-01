@@ -2,7 +2,7 @@
 layout: post
 title: "Watching The Weekend Vanish"
 date: 2011-08-21
-categories: blog archive
+categories: archive
 ---
 
 It's been a while since I've written anything of substance in the blog. Perhaps it's time to change that. I seem to have been hanging out at all manner of social networks and micro blogging platforms, but not devoting any time or effort to this placewhere 8 years of my life hide away from the world, ready for discovery by intrepid travellers of the internet.

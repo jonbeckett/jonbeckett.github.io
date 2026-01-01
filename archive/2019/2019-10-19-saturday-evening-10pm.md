@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Evening 10Pm"
 date: 2019-10-19
-categories: blog archive
+categories: archive
 ---
 
 I knocked on Miss 19's bedroom door earlier this evening, and enquired if we were going running. Given that she was still in her pajamas, and that I was struggling to stay awake, I was half-hoping that she would murmur something about leaving it until tomorrow. Except she didn't - of COURSE she didn't, because the universe doesn't work that way. And that's how I found myself stepping out into the cold night air an hour later in running shorts and a reflective waterproof.

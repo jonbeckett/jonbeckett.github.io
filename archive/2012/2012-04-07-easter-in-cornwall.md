@@ -2,7 +2,7 @@
 layout: post
 title: "Easter In Cornwall"
 date: 2012-04-07
-categories: blog archive
+categories: archive
 ---
 
 Leaving the house on Thursday afternoon wasn't so much a planned departure, as a concerted effort to lever everybody from the house. A somewhat calm day rapidly descended into shouting, fighting, tantrums, crying, and retribution - and that was just the grow ups.

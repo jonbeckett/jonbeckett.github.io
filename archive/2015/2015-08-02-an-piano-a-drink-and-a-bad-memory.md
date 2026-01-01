@@ -2,7 +2,7 @@
 layout: post
 title: "An Piano A Drink And A Bad Memory"
 date: 2015-08-02
-categories: blog archive
+categories: archive
 ---
 
 We were invited to a barbecue at a friends house last night, and after eating too much, and drinking too much, I spied an old upright piano in their lounge. Apparently they had managed to get it from "free-cycle" - the local version of Craigslist, where people list stuff for others to take away.

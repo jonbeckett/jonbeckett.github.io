@@ -2,7 +2,7 @@
 layout: post
 title: "Country Music Lyrics"
 date: 2008-07-11
-categories: blog archive
+categories: archive
 ---
 
 While working on some development work at home (a very boring .net web service), I have internet radio on in the background, filling the room with random music/noise.

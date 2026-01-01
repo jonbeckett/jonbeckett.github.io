@@ -2,7 +2,7 @@
 layout: post
 title: "Rekindling My Love Affair With The Internet"
 date: 2010-05-23
-categories: blog archive
+categories: archive
 ---
 
 For the past few days I have been perched atop a precarious knife edge - on the one hand deleting, cancelling, and purging huge swathes of my involvement in social networks, and on the other hand clinging to that which I have chosen to persist.

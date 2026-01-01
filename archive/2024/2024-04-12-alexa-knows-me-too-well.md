@@ -2,7 +2,7 @@
 layout: post
 title: "Alexa knows me too well"
 date: 2024-04-12
-categories: blog archive
+categories: archive
 ---
 
 It's been a bit of a day. A bit of a week really. I'm at the start of a huge project at work, so wearing a succession of hats. Once the project starts rolling properly I'll have time to take stock - at the moment it all seems a bit manic - being pulled in several directions at once all the time.

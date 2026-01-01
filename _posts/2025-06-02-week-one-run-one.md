@@ -3,7 +3,6 @@ layout: single
 title: "Week One Run One"
 date: 2025-06-02
 categories:
-  - blog
   - "2025"
 ---
 

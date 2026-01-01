@@ -2,7 +2,7 @@
 layout: post
 title: "What Part Will You Play"
 date: 2022-07-20
-categories: blog archive
+categories: archive
 ---
 
 It's been a bit of a week.

@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Of Friends"
 date: 2006-10-23
-categories: blog archive
+categories: archive
 ---
 
 After arriving at work this morning, I discovered that one of our friends (the husband of a colleague) collapsed at home yesterday evening and is in hospital unconscious. I know nothing more at the moment.

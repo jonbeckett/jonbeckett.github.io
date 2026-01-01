@@ -2,7 +2,7 @@
 layout: post
 title: "Autumn In Harleyford"
 date: 2007-11-05
-categories: blog archive
+categories: archive
 ---
 
 I walked to work this morning, bedecked in fleece, scarf, woolly hat and backpack (carrying two laptops - I am mad).

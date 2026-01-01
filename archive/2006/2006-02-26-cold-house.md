@@ -2,7 +2,7 @@
 layout: post
 title: "Cold House"
 date: 2006-02-26
-categories: blog archive
+categories: archive
 ---
 
 Our heating has packed up. Again.

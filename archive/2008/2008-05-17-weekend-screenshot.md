@@ -2,7 +2,7 @@
 layout: post
 title: "Weekend Screenshot"
 date: 2008-05-17
-categories: blog archive
+categories: archive
 ---
 
 For the curious - applications are...

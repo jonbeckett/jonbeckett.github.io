@@ -2,7 +2,7 @@
 layout: post
 title: "Unfollowing"
 date: 2011-01-09
-categories: blog archive
+categories: archive
 ---
 
 I had to unfollow somebody today. I didn't do it lightly, and I'm still wondering about it now.

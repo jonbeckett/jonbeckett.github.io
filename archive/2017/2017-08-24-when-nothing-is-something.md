@@ -2,7 +2,7 @@
 layout: post
 title: "When Nothing Is Something"
 date: 2017-08-24
-categories: blog archive
+categories: archive
 ---
 
 I have nothing to write about today, so will prove that nothing is something by writing this. Tada!

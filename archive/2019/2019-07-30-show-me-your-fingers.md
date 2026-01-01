@@ -2,7 +2,7 @@
 layout: post
 title: "Show Me Your Fingers"
 date: 2019-07-30
-categories: blog archive
+categories: archive
 ---
 
 Yet again I find myself asking the universe what it did with the greater part of my day. Each day seems to fall into the next at the moment - a bit like the man that nearly fell into the road right in front of me this evening. I should perhaps re-wind before getting to his near death experience though.

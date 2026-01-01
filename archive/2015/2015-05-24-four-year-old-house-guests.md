@@ -2,7 +2,7 @@
 layout: post
 title: "Four Year Old House Guests"
 date: 2015-05-24
-categories: blog archive
+categories: archive
 ---
 
 We are looking after a little man for a friend this weekend. He arrived in a blizzard of bags, clothes, sticky-up hair, and jumbled converstion yesterday morning. After a night sharing a (huge) bed with our younger daughters, and waking at 7am, they are now upstairs "getting dressed". They have been up there for an hour.

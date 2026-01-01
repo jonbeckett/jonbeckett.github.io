@@ -2,7 +2,7 @@
 layout: post
 title: "Achievement Unlocked"
 date: 2020-03-26
-categories: blog archive
+categories: archive
 ---
 
 At lunchtime today I volunteered for a desperate mission to the corner shop - armed with a hand-written list of groceries, and "lady things" (a term coined by our youngest daughter - figure it out yourself).

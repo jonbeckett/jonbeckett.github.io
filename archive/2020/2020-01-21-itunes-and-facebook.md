@@ -2,7 +2,7 @@
 layout: post
 title: "Itunes And Facebook"
 date: 2020-01-21
-categories: blog archive
+categories: archive
 ---
 
 In-between picking away at change requests for the colossal business automation project I have been working on for the last several years, I have submitted the podcast to iTunes, and created a page at Facebook.

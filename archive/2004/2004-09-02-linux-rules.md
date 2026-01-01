@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Rules"
 date: 2004-09-02
-categories: blog archive
+categories: archive
 ---
 
 I installed Mandrake Linux 10 on my little laptop at home last night - and it has to be said, I'm pretty pleased with it.

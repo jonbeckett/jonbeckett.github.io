@@ -2,7 +2,7 @@
 layout: post
 title: "Carrying Miss 10 Home"
 date: 2015-07-08
-categories: blog archive
+categories: archive
 ---
 
 I picked our younger two daughters up from their dance class yesterday evening while my other half went to the "new starter" evening at the local "big" school. I can't believe our middle girl is going there in September - I can still remember her hanging on to my leg on a morning at infant school, and being reluctantly plied away by her teacher.

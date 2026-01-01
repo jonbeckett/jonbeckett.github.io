@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Cannot End Quickly Enough"
 date: 2013-11-08
-categories: blog archive
+categories: archive
 ---
 
 I can't believe this week is almost over already. It seems like every day has whistled by, and every evening has been chewed up by something or other. Maybe the world will slow down a bit this weekend?I've spent the majority of the dayas with every other day this weekhunched over the computer in the office, swearing profusely, and occasionally threatening it. The more spectacular threats of retribution happen in inside my head "Billy Liar" style (you'll have to look that one up), almost reaching the heights of the chess match in Bottom between Richie Rich, and Eddie Hitler (you'll have to look that one up too).

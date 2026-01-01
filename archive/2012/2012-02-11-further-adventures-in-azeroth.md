@@ -2,7 +2,7 @@
 layout: post
 title: "Further Adventures In Azeroth"
 date: 2012-02-11
-categories: blog archive
+categories: archive
 ---
 
 Who knew that sneaking through the back woods of a fictional world, running errands for inn keeper's daughters, and dealing with infestations of things that go bump in the night would be so much fun?

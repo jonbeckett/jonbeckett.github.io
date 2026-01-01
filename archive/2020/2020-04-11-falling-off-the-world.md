@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Off The World"
 date: 2020-04-11
-categories: blog archive
+categories: archive
 ---
 
 Two factors have contributed to my recent disappearance from the internet at large. The first was the rather foolish decision to celebrate the bank holiday weekend by buying a new game for myself and my eldest daughter to play - an endlessly deep, absorbing game called "No Man's Sky".

@@ -2,7 +2,7 @@
 layout: post
 title: "For One Day Only"
 date: 2017-02-02
-categories: blog archive
+categories: archive
 ---
 
 I'm back in the office today - for one day only - enough time to fileexpenses from the last several weeks, sit in on a few meetings, and then trundle home on my bike again.

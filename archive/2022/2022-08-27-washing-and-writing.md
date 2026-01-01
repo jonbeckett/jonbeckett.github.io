@@ -2,7 +2,7 @@
 layout: post
 title: "Washing And Writing"
 date: 2022-08-27
-categories: blog archive
+categories: archive
 ---
 
 We got home on Wednesday. It's now Saturday. The washing machine is still going. I think we can see the end of the washing mountain now though (thankfully). It's just a case of getting it all dry, folding it, and putting it away - which we know won't happen, don't we. A family home isn't homely unless there are piles of clean washing stacked everywhere.

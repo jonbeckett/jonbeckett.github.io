@@ -2,7 +2,7 @@
 layout: post
 title: "Awkward Much "
 date: 2016-09-09
-categories: blog archive
+categories: archive
 ---
 
 When I arrived at a client site with work recently, the woman that greeted me in reception shook my hand, and then the following conversation happened :

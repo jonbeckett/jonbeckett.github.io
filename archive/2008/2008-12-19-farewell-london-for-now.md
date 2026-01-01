@@ -2,7 +2,7 @@
 layout: post
 title: "Farewell London For Now"
 date: 2008-12-19
-categories: blog archive
+categories: archive
 ---
 
 During my final hour this afternoon in the London office I have commuted to for the last two years, I handed in my security swipe card, my laptop, and shook hands with the IT manager.

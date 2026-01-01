@@ -2,7 +2,7 @@
 layout: post
 title: "Sharing My Wordpress Theme "
 date: 2008-10-19
-categories: blog archive
+categories: archive
 ---
 
 It struck me while looking at the latest version of the "Journalist" theme for WordPress that I actually like my theme (the one I hand crafted, and that you're looking at) better than any of the other minimalist themes around.

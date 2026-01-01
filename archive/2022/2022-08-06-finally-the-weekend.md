@@ -2,7 +2,7 @@
 layout: post
 title: "Finally The Weekend"
 date: 2022-08-06
-categories: blog archive
+categories: archive
 ---
 
 I'm having the quietest of quiet days today, and counting down the days until I stop work for two weeks. In-between all the usual household chores, we will escape to the coast for a few days to visit my parents. There's something about the air at the coast - it feels different than at home. I'm guessing it has something to do with the sea breeze.

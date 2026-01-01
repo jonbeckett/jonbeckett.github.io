@@ -2,7 +2,7 @@
 layout: post
 title: "Tired And A Bit Drunk"
 date: 2004-03-30
-categories: blog archive
+categories: archive
 ---
 
 Well, I'm not really drunk, but I'm not really sober either. Since getting in from work this evening all I've really done is mess around on the internet, play with the new chess program I've got (ChessPartner), and drink beer...

@@ -2,7 +2,7 @@
 layout: post
 title: "Paul And Thoughts About Horseshit"
 date: 2015-09-24
-categories: blog archive
+categories: archive
 ---
 
 We watched the movie "Paul" last night on DVD. I had forgotten how good it was. We spent much of the movie looking out for the Easter Eggs - the numerous references to science fiction movies laced throughout.

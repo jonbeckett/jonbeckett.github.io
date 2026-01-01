@@ -2,7 +2,7 @@
 layout: post
 title: "Following On Twitter"
 date: 2010-08-20
-categories: blog archive
+categories: archive
 ---
 
 <img height="73C/3 width="73C/3 alt="hotdogsladies" src="http://a3.twimg.com

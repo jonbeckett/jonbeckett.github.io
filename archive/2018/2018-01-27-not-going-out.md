@@ -2,7 +2,7 @@
 layout: post
 title: "Not Going Out"
 date: 2018-01-27
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards lunchtime on Sunday. There are some bagels with my name on them on the kitchen counter, waiting for me to fill them with cheese and whatever else I can find in the fridge. I'm home alone with Miss 17, who refused to get up this morning - she asked yesterday if I might take her shopping in a nearby town, but by this morning the enormity of actually getting out of bed defeated her. I on the other half was up by 8am, showered, shaved, dressed, and doing chores.

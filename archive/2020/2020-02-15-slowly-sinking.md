@@ -2,7 +2,7 @@
 layout: post
 title: "Slowly Sinking"
 date: 2020-02-15
-categories: blog archive
+categories: archive
 ---
 
 Brace yourself. This blog post is going to consist mostly of random paragraphs covering each thing going on at the moment - mostly because I can't be bothered to manufacture any kind of structure prose around the chaotic nonsense that tends to surround me.

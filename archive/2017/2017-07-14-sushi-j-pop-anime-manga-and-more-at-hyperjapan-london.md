@@ -2,7 +2,7 @@
 layout: post
 title: "Sushi J Pop Anime Manga And More At Hyperjapan London"
 date: 2017-07-14
-categories: blog archive
+categories: archive
 ---
 
 My body performed the miraculous trick of opening my eyes five minutes before the alarm this morning - at 5:55am. It was a good job it did, because I forgot the alarm is configured not to go off on the weekend. I wandered downstairs, knocking on Miss 16's door en-route to the shower. We had a very long day ahead of us. Three quarters of an hour later we found ourselves walking through the deserted back streets of town towards the railway station, still rubbing sleep from our eyes, and wondering what we might find at HyperJapan. My other half had bought the tickets some time ago, and somehow arranged for me to go with Miss 16 instead of her. I still don't quite know how that happened.

@@ -2,7 +2,7 @@
 layout: post
 title: "Breaking Rhythm"
 date: 2016-03-14
-categories: blog archive
+categories: archive
 ---
 
 For months I have been a blogging automaton of sortsposting something or other each dayrain or shine. And yet, over the last week I have missed day after day. The blog has become the last thing on my mind. No doubt I will write about the reasons one day (and there are very good reasons for my distraction), but for nowlet's just pretend that it's nice to take a break.

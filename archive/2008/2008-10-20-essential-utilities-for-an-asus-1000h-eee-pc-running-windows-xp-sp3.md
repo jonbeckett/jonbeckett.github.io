@@ -2,7 +2,7 @@
 layout: post
 title: "Essential Utilities For An Asus 1000H Eee Pc Running Windows Xp Sp3"
 date: 2008-10-20
-categories: blog archive
+categories: archive
 ---
 
 A shiny new ASUS 1000H EEE PC will arrive at our house at some point over the next few days, and I have been thinking about the list of software to install on it.

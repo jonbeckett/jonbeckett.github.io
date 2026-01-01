@@ -2,7 +2,7 @@
 layout: post
 title: "When Fellow Bloggers Collide"
 date: 2008-01-21
-categories: blog archive
+categories: archive
 ---
 
 Do you ever wonder if somebody will tap you on the shoulder in the street, and whisper "I read your blog" ? I do. I can't really call it a fear as such, more a trepidation.

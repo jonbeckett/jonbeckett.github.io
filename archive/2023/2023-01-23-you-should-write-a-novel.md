@@ -2,7 +2,7 @@
 layout: post
 title: "You should write a novel"
 date: 2023-01-23
-categories: blog archive
+categories: archive
 ---
 
 I went out for a walk in the woods with a good friend at the weekend - a much needed escape from "normal" for an hour - accompanying her dog as he wandered this way and that. Along the way we talked about anything and everything.

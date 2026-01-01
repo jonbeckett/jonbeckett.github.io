@@ -2,7 +2,7 @@
 layout: post
 title: "Another 5K Around Town"
 date: 2021-01-18
-categories: blog archive
+categories: archive
 ---
 
 Following my youngest daughter signing up for the "Couch to 5K" programme through school, she *has* to complete the training runs each week, and her sisters promised to help her with it. We're at week three, and I've already run with her twice after they no-showed on her.

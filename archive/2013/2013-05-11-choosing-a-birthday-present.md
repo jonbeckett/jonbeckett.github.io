@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing A Birthday Present"
 date: 2013-05-11
-categories: blog archive
+categories: archive
 ---
 
 This morning I was tasked with whisking Miss 8 into town aboard the rattliest scooter in the known universe to search out a birthday present for the little boy that lives down the road. While leaving the house, the shopping list suddenly expanded to include enough hair grips and hair bands to kit out several hundred little girls, but that's another story for another day.

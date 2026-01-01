@@ -2,7 +2,7 @@
 layout: post
 title: "Running Movies and Marilyn"
 date: 2023-06-26
-categories: blog archive
+categories: archive
 ---
 
 Another day. Another run. The only window I had to go running today was at lunchtime, which also coincided with the sun coming out. Perhaps the universe is trying to tell me something?

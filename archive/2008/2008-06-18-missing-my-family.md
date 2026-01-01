@@ -2,7 +2,7 @@
 layout: post
 title: "Missing My Family"
 date: 2008-06-18
-categories: blog archive
+categories: archive
 ---
 
 I can't sleep, and I've realised why. I miss my family... a lot.

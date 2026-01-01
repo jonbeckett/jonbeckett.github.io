@@ -2,7 +2,7 @@
 layout: post
 title: "The internet got ruined by the arrival of everybody"
 date: 2023-12-11
-categories: blog archive
+categories: archive
 ---
 
 The clock ticked past midnight half an hour ago. I'm not so much playing the "stay up late to avoid the arrival of tomorrow" game, as much as "trying to fit too much into today". I'm bad at it.

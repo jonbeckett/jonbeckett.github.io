@@ -2,7 +2,7 @@
 layout: post
 title: "All Hail Kylie"
 date: 2007-01-29
-categories: blog archive
+categories: archive
 ---
 
 While listening to the Showgirl Homecoming concert tonight, the idea popped into my head that it might be fun to stick a different icon at the top of the blog each week or month. This all came about because I managed to wipe my blog template earlier, and was thinking "is it time for a change?"

@@ -2,7 +2,7 @@
 layout: post
 title: "Big Brother Series 8 The Housemates"
 date: 2007-05-31
-categories: blog archive
+categories: archive
 ---
 
 Last night I watched the first hour of the 8th series of Big Brother in the UK. I have no idea if the UK series has been in the headlines elsewhere in the world, but it will be interesting to see if the viewing figures fall or rise following the racism that occurred in the last "celebrity" series.

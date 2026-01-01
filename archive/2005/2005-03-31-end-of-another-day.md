@@ -2,7 +2,7 @@
 layout: post
 title: "End Of Another Day"
 date: 2005-03-31
-categories: blog archive
+categories: archive
 ---
 
 Today has been a strange kind of day. For the first time in several days the support calls have not really flooded in, meaning I could get on with development work - except I was unable to really do as much as I wanted because we were instructed not to use the WAN (internet) connection due to an important conference call taking place downstairs with some product demo or other...

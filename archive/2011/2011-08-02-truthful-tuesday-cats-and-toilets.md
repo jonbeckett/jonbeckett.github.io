@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday Cats And Toilets"
 date: 2011-08-02
-categories: blog archive
+categories: archive
 ---
 
 When I was about five years old I tried to flush our cat down the toilet.

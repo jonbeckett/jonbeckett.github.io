@@ -3,7 +3,6 @@ layout: single
 title: "Burning the Candle at Both Ends"
 date: 2025-07-31
 categories:
-  - blog
   - "2025"
 ---
 

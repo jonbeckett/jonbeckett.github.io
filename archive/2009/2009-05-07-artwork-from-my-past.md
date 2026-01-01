@@ -2,7 +2,7 @@
 layout: post
 title: "Artwork From My Past"
 date: 2009-05-07
-categories: blog archive
+categories: archive
 ---
 
 While replying to somebody on Twitter earlier, it occurred to me that I had not posted any of my old artwork on this blog.

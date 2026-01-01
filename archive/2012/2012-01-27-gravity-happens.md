@@ -2,7 +2,7 @@
 layout: post
 title: "Gravity Happens"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 Yesterday began before the sun came up, racing across the country in the dark to reach a far away office in time to begin somebody else's day. From the moment I stepped from my co-worker's car, a sprint ensued - chewing up lunchtime, crashing into the early evening, and finally skidding a halt in the early hours of this morning.

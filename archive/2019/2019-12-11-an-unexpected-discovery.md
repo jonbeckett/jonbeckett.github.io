@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Discovery"
 date: 2019-12-11
-categories: blog archive
+categories: archive
 ---
 
 This rather labyrinthine story begins the night before last, when the children decided - after I had already washed up, and cleared the kitchen - that it would be a good idea to do some "Christmas Baking". It transpired that "Christmas Baking" really translates to "use every damn pot, pan, baking tray, saucepan, spoon, fork, knife, or whatever the hell else, and leave it all out". I ran away and hid - happy in the knowledge that the children were making happy noises in the kitchen, and fearful of what I might discover in the morning.

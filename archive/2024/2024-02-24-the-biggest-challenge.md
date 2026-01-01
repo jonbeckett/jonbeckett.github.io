@@ -2,7 +2,7 @@
 layout: post
 title: "The Biggest Challenge"
 date: 2024-02-24
-categories: blog archive
+categories: archive
 ---
 
 Today's writing prompt asks "what is the biggest challenge you will face in the next six months". Here's where I step back, take a breath, think through if I want to write about this on the blog, and step forwards again.

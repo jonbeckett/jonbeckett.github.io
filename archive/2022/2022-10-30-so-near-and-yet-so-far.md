@@ -2,7 +2,7 @@
 layout: post
 title: "So Near And Yet So Far"
 date: 2022-10-30
-categories: blog archive
+categories: archive
 ---
 
 While tinkering with this and that this morning, I stumbled upon the blog of an old friend. Somebody I really shouldn't have lost touch with, but somehow had. One click led to another, and before I knew it I had spent the better part of an hour reading about her recent days, weeks, and months. Something occurred to me while reading.

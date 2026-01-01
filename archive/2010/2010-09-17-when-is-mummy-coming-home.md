@@ -2,7 +2,7 @@
 layout: post
 title: "When Is Mummy Coming Home"
 date: 2010-09-17
-categories: blog archive
+categories: archive
 ---
 
 At 5:50am, I woke with a start. W was sat upright in bed, shooing the cat away, and cursing volubly.

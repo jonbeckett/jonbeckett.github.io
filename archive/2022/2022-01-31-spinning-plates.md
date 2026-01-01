@@ -2,7 +2,7 @@
 layout: post
 title: "Spinning Plates"
 date: 2022-01-31
-categories: blog archive
+categories: archive
 ---
 
 It transpires that re-arranging your work schedule to fit around an unexpected visit to the coast is more possible than one might have expected. After endless meetings, discussions, and handing off of work it would appear a path has been cleared for me to board a train next weekend and disappear for a few days.

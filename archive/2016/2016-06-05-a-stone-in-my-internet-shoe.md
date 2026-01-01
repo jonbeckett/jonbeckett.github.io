@@ -2,7 +2,7 @@
 layout: post
 title: "A Stone In My Internet Shoe"
 date: 2016-06-05
-categories: blog archive
+categories: archive
 ---
 
 I like the internet. Given the various expectations and obligations placed upon me as somebody that works full time, has a family, and endless rounds of chores to complete each day, the internet affords me an avenue of escape that would otherwise not exist. I get to have friends I would otherwise not have made, and to share stories that would otherwise not have been told.

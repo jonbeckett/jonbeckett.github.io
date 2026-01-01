@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts On Vista"
 date: 2008-09-09
-categories: blog archive
+categories: archive
 ---
 
 While having a break and a cup of coffee, I thought it might be interesting to relate the experience of a Windows Vista machine arriving at home - what I did, the decisions I made - for the benefit of others who might tread a similar path in months to come.

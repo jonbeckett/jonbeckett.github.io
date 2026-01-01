@@ -2,7 +2,7 @@
 layout: post
 title: "Watching From The Sidelines"
 date: 2011-08-11
-categories: blog archive
+categories: archive
 ---
 
 I'm having a day offsat in the dining room of the house my inlaws are renting for the week in Cumbria, while everybody else gets ready to trudge off through the rain on a walk up a hill. Our eldest didn't want to do it, and in a way I'm quite thankfulI need some "me" time.

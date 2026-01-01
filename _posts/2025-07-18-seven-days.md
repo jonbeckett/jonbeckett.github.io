@@ -3,7 +3,6 @@ layout: single
 title: "Seven Days"
 date: 2025-07-18
 categories:
-  - blog
   - "2025"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To Civilisation"
 date: 2006-09-17
-categories: blog archive
+categories: archive
 ---
 
 After a week where we seemingly dissappeared off the face of the earth, we are back home and very, very tired.

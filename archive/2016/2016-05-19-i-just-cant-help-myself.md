@@ -2,7 +2,7 @@
 layout: post
 title: "I Just Cant Help Myself"
 date: 2016-05-19
-categories: blog archive
+categories: archive
 ---
 
 When I renamed my Tumblr account earlier this week, I had all the intentions in the world of just using Tumblr going forwards - of keeping things simple. Then, while setting up the account, and pointing Feedburner at it, I started to have second thoughts - and ended up creating a blog over at Blogger, purely as a backup really. Then I started thinking (always dangerous) about how much I liked Blogger, and how simple it was, and how much easier it was to write something when you didn't have to think about an audience.

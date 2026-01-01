@@ -2,7 +2,7 @@
 layout: post
 title: "Is Livejournal About To Die "
 date: 2009-01-06
-categories: blog archive
+categories: archive
 ---
 
 While reading the tech news this morning, it appears that the team running LiveJournal has made 20 of it's 28 staff redundant. It looks like the beginning of the end for LiveJournal, which is a huge shame.

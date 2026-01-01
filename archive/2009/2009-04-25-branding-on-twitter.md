@@ -2,7 +2,7 @@
 layout: post
 title: "Branding On Twitter"
 date: 2009-04-25
-categories: blog archive
+categories: archive
 ---
 
 Earlier this evening I changed my username on Twitter from jonbeckett73 to jonbeckett - in a feeble attempt to start sorting out my "online brand" (don't laugh). Given the increasing importance of social networks, and the explosive growth of Twitter, I thought it best that I grab my name sooner rather than later.

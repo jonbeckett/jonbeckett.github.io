@@ -2,7 +2,7 @@
 layout: post
 title: "Stepping Away From The Edge"
 date: 2016-11-26
-categories: blog archive
+categories: archive
 ---
 
 I wobbled this week. I looked at this "upside down" I have created, this "horcrux", and I wondered if it was a good idea. And as quickly as I began thinking through a method of throwing everything into the air once more, I talked myself back out of it.

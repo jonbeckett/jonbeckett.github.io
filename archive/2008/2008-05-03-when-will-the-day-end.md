@@ -2,7 +2,7 @@
 layout: post
 title: "When Will The Day End"
 date: 2008-05-03
-categories: blog archive
+categories: archive
 ---
 
 Here's what's happened and/or what I've been up to so far today, in some kind of chronological order.

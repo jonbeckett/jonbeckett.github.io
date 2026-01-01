@@ -2,7 +2,7 @@
 layout: post
 title: "Behold The Archive"
 date: 2013-05-29
-categories: blog archive
+categories: archive
 ---
 
 After a lunchtime spent hacking around with an export from Google Drive, and a pile of disjointed and horrendously written Python code, I have uploaded the missing chunks of the archive into this blog. You will notice the archive widget in the sidebar, filled with a continuous stream of almost entirely pointless blog posts stretching right back to January 2003.

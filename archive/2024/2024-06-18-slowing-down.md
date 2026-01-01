@@ -2,7 +2,7 @@
 layout: post
 title: "Slowing down"
 date: 2024-06-18
-categories: blog archive
+categories: archive
 ---
 
 It turns out slowing down is far more difficult than I imagined.

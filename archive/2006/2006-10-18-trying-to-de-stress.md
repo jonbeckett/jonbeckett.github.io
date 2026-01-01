@@ -2,7 +2,7 @@
 layout: post
 title: "Trying To De Stress"
 date: 2006-10-18
-categories: blog archive
+categories: archive
 ---
 
 For the first time this week, I worked from the normal offices - meaning a chance to rescue at least a couple of hours of sleep. Judging by the difficulty I had scraping myself out of bed at 8am this morning, I have no idea how I have been rising at 6am for the last few days.

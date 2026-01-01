@@ -2,7 +2,7 @@
 layout: post
 title: "Computer Attempts Meltdown"
 date: 2008-06-07
-categories: blog archive
+categories: archive
 ---
 
 We have several computers in our house - "the laptop" (also known as a Macbook), "the desktop" (also known as an ancient Compaq Presario that lives in the incredibly untidy study under the desk), and "Jonathan's toy" (also known as an Asus EEE PC).

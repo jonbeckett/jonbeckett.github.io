@@ -2,7 +2,7 @@
 layout: post
 title: "Retail Therapy"
 date: 2007-04-09
-categories: blog archive
+categories: archive
 ---
 
 After spending the first three days of a 4 day break decorating the house, we finally put down tools, paintbrushes and paint today, and had a day to ourselves.

@@ -3,7 +3,6 @@ layout: single
 title: "Overthinking"
 date: 2025-02-09
 categories:
-  - blog
   - "2025"
 ---
 

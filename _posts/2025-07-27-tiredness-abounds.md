@@ -3,7 +3,6 @@ layout: single
 title: "Tiredness Abounds"
 date: 2025-07-27
 categories:
-  - blog
   - "2025"
 ---
 

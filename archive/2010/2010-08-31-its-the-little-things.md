@@ -2,7 +2,7 @@
 layout: post
 title: "Its The Little Things"
 date: 2010-08-31
-categories: blog archive
+categories: archive
 ---
 
 After setting out late this afternoon from the railway station in town, and having traversed Maidenhead, Paddington, and Euston, and Preston stations, I finally arrived at my destination.

@@ -2,7 +2,7 @@
 layout: post
 title: "Absolutely Knackered"
 date: 2006-02-02
-categories: blog archive
+categories: archive
 ---
 
 I think I might be experiencing what some people call "burnout".

@@ -2,7 +2,7 @@
 layout: post
 title: "Another Thursday"
 date: 2011-11-17
-categories: blog archive
+categories: archive
 ---
 
 We woke at 7 this morning with the radio alarm clock, and rolled towards each other. My better half surfaced from the bedclothes mole like, and smiled that smile that says "if you make me a cup of tea, I'll love you forever".

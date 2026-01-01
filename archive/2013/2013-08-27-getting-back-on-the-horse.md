@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Back On The Horse"
 date: 2013-08-27
-categories: blog archive
+categories: archive
 ---
 
 I'm back in the office todayfor the first time in several weeks. I'm not sure how I feel about it at the moment. On the way in this morning there was a creeping dreada fear of what I would find myself walking back into.

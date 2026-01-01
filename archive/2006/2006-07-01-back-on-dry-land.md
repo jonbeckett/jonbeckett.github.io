@@ -2,7 +2,7 @@
 layout: post
 title: "Back On Dry Land"
 date: 2006-07-01
-categories: blog archive
+categories: archive
 ---
 
 We are finally back on dry land after our adventure on the high seas.

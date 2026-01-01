@@ -2,7 +2,7 @@
 layout: post
 title: "Rainy Wednesday Mornings"
 date: 2008-04-23
-categories: blog archive
+categories: archive
 ---
 
 I got up at 7am, got the kids up, got them washed, dressed, through breakfast (cereal and toast), then myself through the bathroom - shower, shave - then dressed, and back downstairs to get kitted out in full wet weather gear to cycle to work through the rain.

@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Prague"
 date: 2024-03-21
-categories: blog archive
+categories: archive
 ---
 
 You know how you have all the good intentions to do something for day after day, but the moment never seems to present itself? That explains how you don't know why or how I'm writing to you from a hotel room in Prague, Czechia.

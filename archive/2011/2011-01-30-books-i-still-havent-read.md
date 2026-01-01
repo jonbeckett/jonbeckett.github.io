@@ -2,7 +2,7 @@
 layout: post
 title: "Books I Still Havent Read"
 date: 2011-01-30
-categories: blog archive
+categories: archive
 ---
 
 The above books have been sat on the shelf now for well over a year, and are getting no closer to being read. They sit there, looking great, looking interesting, but not finding their way into my hands.

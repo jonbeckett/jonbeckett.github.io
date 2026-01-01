@@ -2,7 +2,7 @@
 layout: post
 title: "Retro Organisers Rule"
 date: 2010-03-22
-categories: blog archive
+categories: archive
 ---
 
 Filofax personal organisers appeal to the productivity maniac part of my brain somehow. Considering that I lived for 2 years with an iPhone in my pocket, now have a Blackberry, and sit in front of a computer pretty much all the time, it's a little crazy.

@@ -2,7 +2,7 @@
 layout: post
 title: "Bookishly"
 date: 2019-03-21
-categories: blog archive
+categories: archive
 ---
 
 It's my other half's "official" birthday tomorrow - the party is on Saturday night. I just bought her "official" birthday present from me - a subscription to "Bookishly".

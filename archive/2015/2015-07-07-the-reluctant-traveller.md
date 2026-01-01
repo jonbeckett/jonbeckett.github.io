@@ -2,7 +2,7 @@
 layout: post
 title: "The Reluctant Traveller"
 date: 2015-07-07
-categories: blog archive
+categories: archive
 ---
 
 On Sunday night I have to get on a train to begin a five hour journey to the other end of the country with work. I will stay in a hotel for 4 nights, a short walk from the office where I will stand in front of a room full of business people, pretending to be wise, knowledgeable, clever, cheerful, and nurturing.

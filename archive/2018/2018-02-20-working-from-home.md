@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2018-02-20
-categories: blog archive
+categories: archive
 ---
 
 Today has been a day to forget so far.

@@ -2,7 +2,7 @@
 layout: post
 title: "Taylor and Tori"
 date: 2024-03-17
-categories: blog archive
+categories: archive
 ---
 
 It's been a week since the last post. How does that even happen? I remember years ago when I would write almost every day. How did I find time? Perhaps I didn't try to juggle quite so many balls at once. Perhaps I didn't used to be quite such a gigantic idiot.

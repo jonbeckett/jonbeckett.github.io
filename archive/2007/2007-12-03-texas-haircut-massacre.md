@@ -2,7 +2,7 @@
 layout: post
 title: "Texas Haircut Massacre"
 date: 2007-12-03
-categories: blog archive
+categories: archive
 ---
 
 The long hair that once adorned my head has now gone. Consigned to history. A footnote in my life story.

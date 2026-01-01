@@ -2,7 +2,7 @@
 layout: post
 title: "Late Night Shopping And Exploding Minecraft Livestock"
 date: 2014-12-10
-categories: blog archive
+categories: archive
 ---
 
 I learned something new tonight. I learned that you really shouldn't laugh when your other half opens a kitchen cupboard door above a mixing bowl full of cocoa powder, and a bottle falls from the cupboard into the mixture, instantly coating both her and everything within a few feet with a perfect coating of dark brown chocolate powder. It worked perfectly in the way that only accidents can."Don't laugh!"And that's how I found myself cycling to the late night supermarket at 9pm in search of a variety of cake making ingredients.

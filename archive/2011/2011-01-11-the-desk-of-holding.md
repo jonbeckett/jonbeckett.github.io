@@ -2,7 +2,7 @@
 layout: post
 title: "The Desk Of Holding"
 date: 2011-01-11
-categories: blog archive
+categories: archive
 ---
 
 I saw the meme "TMI Tuesday" earlier on somebody elses Tumblog, and it neatly solved the question of "what pointless garbage can I share with the tumblr community today".The seemingly easy question then evolved into "what constitutes too much Information?". After a little thought, I discounted anything about the spiderman costume, or the mating habits of tractors, and ended up with the following;

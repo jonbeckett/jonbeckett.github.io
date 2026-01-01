@@ -2,7 +2,7 @@
 layout: post
 title: "Peace And Quiet"
 date: 2017-11-25
-categories: blog archive
+categories: archive
 ---
 
 My younger daughters have walked into town on some sort of secret mission, my other half has gone to visit her mother, and our eldest daughter is holed up in her room with a friend. Silence has descended on the house (well... apart from the constant rumble of the washing machine and tumble dryer in the background).

@@ -2,7 +2,7 @@
 layout: post
 title: "One Thing After Another"
 date: 2008-02-23
-categories: blog archive
+categories: archive
 ---
 
 Yesterday was a nightmare, and today isn't looking any better so far.

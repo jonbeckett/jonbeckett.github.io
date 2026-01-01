@@ -2,7 +2,7 @@
 layout: post
 title: "It Only Takes One Idiot"
 date: 2021-10-15
-categories: blog archive
+categories: archive
 ---
 
 At 9pm this evening we walked into town - to the pub where our middle daughter waits tables, to meet her from work, have a drink, and walk home together. A quiet end to a busy week.

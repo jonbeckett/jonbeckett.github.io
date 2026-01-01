@@ -2,7 +2,7 @@
 layout: post
 title: "Weird Dreams"
 date: 2012-06-16
-categories: blog archive
+categories: archive
 ---
 
 I had the strangest dream last night. I was walking through London, and spotted a girl I grew up across the road from on the other side of the roadstanding by a photographer.

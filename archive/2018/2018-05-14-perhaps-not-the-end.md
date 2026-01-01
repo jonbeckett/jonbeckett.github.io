@@ -2,7 +2,7 @@
 layout: post
 title: "Perhaps Not The End"
 date: 2018-05-14
-categories: blog archive
+categories: archive
 ---
 
 A few years ago I watched a wonderful movie called "The Best Exotic Marigold Hotel", about a young Indian man with a dream to run his own hotel. In the middle of juggling one disaster after another, he told a resident the following:

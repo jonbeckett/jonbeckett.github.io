@@ -2,7 +2,7 @@
 layout: post
 title: "Motivation Reaching A Low Ebb"
 date: 2011-02-17
-categories: blog archive
+categories: archive
 ---
 
 Do you have days when you have no words to share, and very little motivation to share anything anyway?

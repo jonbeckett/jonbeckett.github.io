@@ -2,7 +2,7 @@
 layout: post
 title: "Jackanory"
 date: 2020-05-07
-categories: blog archive
+categories: archive
 ---
 
 You find me sitting at the desk in the junk room - sipping coffee, looking back over the morning in my bullet journal, and half-watching the indicators at the bottom of the computer screen that tell me when emails have arrived, or conversations have started that concern me.

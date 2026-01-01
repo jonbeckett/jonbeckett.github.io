@@ -2,7 +2,7 @@
 layout: post
 title: "I Very Angry With You And Goodbye"
 date: 2011-01-07
-categories: blog archive
+categories: archive
 ---
 
 A couple of evenings ago while washing up the dinner things, I heard the outbreak of war in our living room - or at least the version of war that occurs between a five year old, a six year old, and a ten year old.

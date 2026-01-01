@@ -2,7 +2,7 @@
 layout: post
 title: "So Ends Another Week"
 date: 2004-11-05
-categories: blog archive
+categories: archive
 ---
 
 This week has been rather busy!

@@ -2,7 +2,7 @@
 layout: post
 title: "Social Networking Sunday"
 date: 2010-09-26
-categories: blog archive
+categories: archive
 ---
 
 It's time to reach out once more across the blogosphere / tumblrsphere / twittersphere, and take note of others.

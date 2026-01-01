@@ -2,7 +2,7 @@
 layout: post
 title: "Busy Weekend Ahead"
 date: 2008-11-29
-categories: blog archive
+categories: archive
 ---
 
 After a marathon week working on some of the most complex code I have written in years, the weekend has arrived, and there is going to be no let-up.

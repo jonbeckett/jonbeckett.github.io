@@ -2,7 +2,7 @@
 layout: post
 title: "The Well Of All Souls"
 date: 2020-01-02
-categories: blog archive
+categories: archive
 ---
 
 I just got sucked into watching a YouTuber who's entire career seems to consist of bashing anything and everything anybody does - and they have somehow become internet-famous through doing it (although 'famous' is of course a relative term). I can imagine when they started out it was the typical reactionary bullshit that most kids spout in their mid-to-late teens. Now they are in their mid-to-late 20s? Not so much.

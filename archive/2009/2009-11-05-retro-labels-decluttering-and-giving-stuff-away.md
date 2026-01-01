@@ -2,7 +2,7 @@
 layout: post
 title: "Retro Labels Decluttering And Giving Stuff Away"
 date: 2009-11-05
-categories: blog archive
+categories: archive
 ---
 
 Given that I wrote a rather philosophical post a few days ago about the attachment of labels to people, the irony has not escaped me that I bought a Dymo label machine this morning.

@@ -2,7 +2,7 @@
 layout: post
 title: "Boycott Bali"
 date: 2005-05-27
-categories: blog archive
+categories: archive
 ---
 
 I just read a headline in the news after getting into work that made me just a bit angry...

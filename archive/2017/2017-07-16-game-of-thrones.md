@@ -2,7 +2,7 @@
 layout: post
 title: "Game Of Thrones"
 date: 2017-07-16
-categories: blog archive
+categories: archive
 ---
 
 After getting in from work this evening, eating dinner, washing up, and clearing up the kitchen, I went searching on the internet to find out how much it might be to extend the stuff we can get on our TV to include "Game of Thrones". I had been studiously avoiding spoilers all day at work - it began to seem like a famous episode of "The Likely Lads", where they hid in the church to avoid learning the results of a football match. We finally sat down to watch it at 10pm - but not before watching a ten minute YouTube video doing a re-cap of the six seasons that precluded the latest goings-on. Here's the thing - when you distill sixty-odd episodes of Game of Thrones down to ten minutes, the madness of the incestuous, twisting, bizarre storylines unfold like some kind of fractal madness.

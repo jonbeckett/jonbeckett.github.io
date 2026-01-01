@@ -2,7 +2,7 @@
 layout: post
 title: "An Unusual Day"
 date: 2010-07-01
-categories: blog archive
+categories: archive
 ---
 
 I had the day off work on Tuesday, to attend our eldest daughter's school sports day. For the first time in months - if not years - I had the chance to wander into town after dropping the kids off in the morning, and spend time with W on our own.

@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing To Report"
 date: 2011-06-13
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure why I'm writing anything today. I have nothing much to report, beyond the usual storyGot up, got the kids up, made breakfasts, walked to school with them, went to work, headbanged for a number of hours, returned home, ate dinner, washed up, geeked out. Pretty much the pattern for a normal day around here.

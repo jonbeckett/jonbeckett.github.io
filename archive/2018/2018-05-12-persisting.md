@@ -2,7 +2,7 @@
 layout: post
 title: "Persisting"
 date: 2018-05-12
-categories: blog archive
+categories: archive
 ---
 
 For the past several weeks and months I have been perched atop a precarious knife edge - on the one hand deleting, cancelling, and purging huge swathes of my involvement in social networks, and on the other clinging to that which I have chosen to persist.

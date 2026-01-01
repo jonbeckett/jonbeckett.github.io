@@ -3,7 +3,6 @@ layout: single
 title: "Cautiously Optimistic"
 date: 2025-03-08
 categories:
-  - blog
   - "2025"
 ---
 

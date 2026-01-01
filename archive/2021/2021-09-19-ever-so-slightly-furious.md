@@ -2,7 +2,7 @@
 layout: post
 title: "Ever So Slightly Furious"
 date: 2021-09-19
-categories: blog archive
+categories: archive
 ---
 
 After my youngest daughter returned from rugby practice this morning, I accompanied her to the newspaper shop to hand her notice in.

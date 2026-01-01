@@ -2,7 +2,7 @@
 layout: post
 title: "Midnight Messaging"
 date: 2020-09-22
-categories: blog archive
+categories: archive
 ---
 
 I'm tired - properly tired - and it's all my own fault.

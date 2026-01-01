@@ -2,7 +2,7 @@
 layout: post
 title: "Home again"
 date: 2023-03-05
-categories: blog archive
+categories: archive
 ---
 
 We got home late last night. The train journey home seemed to go on forever, and then the car we had booked to meet us at the station got stuck in traffic. Still - we got to see perhaps my favourite sculpture - the couple at the end of the platforms at St.Pancras. It stands about three stories tall, and is far more impressive up-close than in photographs. The stock image attached to this post doesn't look anything like as dramatic as it looked lit by spotlights last night.

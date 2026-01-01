@@ -2,7 +2,7 @@
 layout: post
 title: "Decluttering The Nuclear Option"
 date: 2010-03-25
-categories: blog archive
+categories: archive
 ---
 
 I wage a continual war in our study at home - with paperwork, junk mail, flyers, magazines, letters, envelopes, food wrappers, boxes, cartons, bags, wires, books, and various other miscellaneous "stuff".

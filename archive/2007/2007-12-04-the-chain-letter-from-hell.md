@@ -2,7 +2,7 @@
 layout: post
 title: "The Chain Letter From Hell"
 date: 2007-12-04
-categories: blog archive
+categories: archive
 ---
 
 I don't normally take part in Memes, but seeing as this was passed on by Ashley, who's blog I like rather a lot, I thought it might serve as a good distraction.

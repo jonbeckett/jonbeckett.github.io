@@ -2,7 +2,7 @@
 layout: post
 title: "Another Monday Another Journey"
 date: 2015-07-20
-categories: blog archive
+categories: archive
 ---
 
 You would think - given the frequency I travel up and down the country that I would be used to the various coincidental adventures that creep up on me. Nope. In a "normal" world I would have arrived at Paddington Station, wandered along the concourse to the underground, and jumped on the first circle line train to Euston Road. While walking towards the tunnel leading to the east-bound circle line platform, that entire plan got torn to shreds.

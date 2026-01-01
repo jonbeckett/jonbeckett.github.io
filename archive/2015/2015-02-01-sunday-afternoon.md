@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Afternoon"
 date: 2015-02-01
-categories: blog archive
+categories: archive
 ---
 
 It's Sunday afternoon. The kids are playing with their friend in the park outside, the Kindle Fire is playing "Halt and Catch Fire" while propped against the lamp in the corner of the desk, and I'm writing this blog post in Focus Writer on a fresh install of Ubuntu on the geriatric desktop PC under the desk.

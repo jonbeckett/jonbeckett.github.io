@@ -2,7 +2,7 @@
 layout: post
 title: "A Hummy Kind Of Week"
 date: 2013-05-17
-categories: blog archive
+categories: archive
 ---
 
 I'm taking the chance to write a few words because I didn't stop at lunchtime. My bizarre mental ethics are telling me to get on with some work regardless.

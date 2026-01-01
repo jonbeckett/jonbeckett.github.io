@@ -2,7 +2,7 @@
 layout: post
 title: "An Overdue Introduction"
 date: 2016-12-07
-categories: blog archive
+categories: archive
 ---
 
 It would seem appropriate to tell new readers a bit about myself. Of course this is easier to say than do, because you suddenly become very introspective, and start filtering all sorts of things out. I'll do my best to leave as much in as possible without gnawing my own fingers off.

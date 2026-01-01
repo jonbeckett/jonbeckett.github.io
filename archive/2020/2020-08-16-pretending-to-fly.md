@@ -2,7 +2,7 @@
 layout: post
 title: "Pretending To Fly"
 date: 2020-08-16
-categories: blog archive
+categories: archive
 ---
 
 When I need to switch off after a week working on software development projects, the flight simulator has become something of a crutch. I suppose in many ways, anything that requires focus and concentration works. You might argue that learning how to operate a commercial airliner is a bit extreme, but somehow it seems to work.

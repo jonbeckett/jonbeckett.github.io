@@ -2,7 +2,7 @@
 layout: post
 title: "Seduced By Facebook"
 date: 2007-05-12
-categories: blog archive
+categories: archive
 ---
 
 I spend a lot of time using the internet. Between the web, instant messaging, email and VOIP, it must add up into the tens of hours every week. While traversing the various pages, people and websites that I commonly wander, one site has become more common recently - Facebook.

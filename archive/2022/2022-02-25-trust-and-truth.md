@@ -2,7 +2,7 @@
 layout: post
 title: "Trust And Truth"
 date: 2022-02-25
-categories: blog archive
+categories: archive
 ---
 
 While taking a break from work this afternoon, I have taken it upon myself to begin ripping the stock photos out of my blog and replacing them with my own. I have good reason.

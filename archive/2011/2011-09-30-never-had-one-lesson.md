@@ -2,7 +2,7 @@
 layout: post
 title: "Never Had One Lesson"
 date: 2011-09-30
-categories: blog archive
+categories: archive
 ---
 
 If you're wondering where the total came from, it's from "Ferris Bueller's Day Off"one of the iconic coming of age movies from the mid 80s. I've got news for Mr Buellerhe's got nothing on our daughterYesterday evening while I was finishing up on some software development work in the study, our youngest wandered into the room, with a recorder attached to her mouth by both hands, fingers-a-blur, playing all manner of random notes.

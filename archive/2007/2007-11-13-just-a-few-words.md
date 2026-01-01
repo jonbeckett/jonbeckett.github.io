@@ -2,7 +2,7 @@
 layout: post
 title: "Just A Few Words"
 date: 2007-11-13
-categories: blog archive
+categories: archive
 ---
 
 Just a few words today before heading out into the rain on the streets of London to find something to eat.

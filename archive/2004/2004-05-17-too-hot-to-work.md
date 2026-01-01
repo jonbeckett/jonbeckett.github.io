@@ -2,7 +2,7 @@
 layout: post
 title: "Too Hot To Work"
 date: 2004-05-17
-categories: blog archive
+categories: archive
 ---
 
 One of my colleagues is busy organising a popular uprising on our floor of the office. He is threatening to throw the health and safety handbook at the HR department. His chances however of getting anywhere are less than a small cat beating an elephant in a "who can eat the most pies" competition.

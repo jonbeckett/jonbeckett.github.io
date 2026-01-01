@@ -2,7 +2,7 @@
 layout: post
 title: "Not shaving"
 date: 2024-12-18
-categories: blog archive
+categories: archive
 ---
 
 Oh the hopes I had, leading into a week off work. The things I was going to do. The universe obviously saw those hopes, raised a considerable boot in the air, paused for dramatic effect, and then dropped it upon me.

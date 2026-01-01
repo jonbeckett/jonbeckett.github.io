@@ -2,7 +2,7 @@
 layout: post
 title: "Experience The Firehose"
 date: 2009-03-01
-categories: blog archive
+categories: archive
 ---
 
 If you have ever wondered just how much crap I spew out onto the internet, wonder no more.

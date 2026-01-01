@@ -2,7 +2,7 @@
 layout: post
 title: "Somebody Stop The World"
 date: 2009-01-03
-categories: blog archive
+categories: archive
 ---
 
 It's Saturday morning, and I'm knackered. I've been up since 7:30, and all I did so far was wash up, and clean the kitchen up.

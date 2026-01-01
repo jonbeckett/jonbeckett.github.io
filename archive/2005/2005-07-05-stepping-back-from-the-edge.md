@@ -2,7 +2,7 @@
 layout: post
 title: "Stepping Back From The Edge"
 date: 2005-07-05
-categories: blog archive
+categories: archive
 ---
 
 After giving it a couple of hours thought, I have decided that if a site like ThoughtCafe does happen again, I am not going to be directly involved in it.

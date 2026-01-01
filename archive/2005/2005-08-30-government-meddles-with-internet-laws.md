@@ -2,7 +2,7 @@
 layout: post
 title: "Government Meddles With Internet Laws"
 date: 2005-08-30
-categories: blog archive
+categories: archive
 ---
 
 It looks very much like a law is going to come into force in the UK to make it illegal to posess any media depicting a violent sexual act. This all came about because of a murder that took place several years ago in the UK, where it transpired the murderer had been viewing pornography showing violent behaviour both before and after killing his victim.

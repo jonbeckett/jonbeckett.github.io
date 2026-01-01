@@ -2,7 +2,7 @@
 layout: post
 title: "The Need For Ownership"
 date: 2021-08-30
-categories: blog archive
+categories: archive
 ---
 
 I've noticed a gradual shift across media and the internet recently that has troubled me greatly - a growing lack of intolerance and acceptance of people's differences. A great many people seem to be triggered by any view that either differs from their own, or that they feel is an attack on their circumstances or choices in any way, shape or form.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Self Imposed Night Off"
 date: 2010-04-29
-categories: blog archive
+categories: archive
 ---
 
 Today I lifted the world onto my shoulders (figuratively speaking), arranged it into a configuration of my choosing, and set it down again.

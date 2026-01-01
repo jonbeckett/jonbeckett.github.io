@@ -3,7 +3,6 @@ layout: single
 title: "Oblivious Idiot"
 date: 2025-01-21
 categories:
-  - blog
   - "2025"
 ---
 

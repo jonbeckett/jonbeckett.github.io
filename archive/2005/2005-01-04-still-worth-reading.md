@@ -2,7 +2,7 @@
 layout: post
 title: "Still Worth Reading"
 date: 2005-01-04
-categories: blog archive
+categories: archive
 ---
 
 I just had a quick look at the "Clix" chart on Diarist.

@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To A Real Camera"
 date: 2015-07-05
-categories: blog archive
+categories: archive
 ---
 
 While sorting through photographs the other evening to upload to our Amazon Fire TV (which provides a wonderful photographic slide-show screen-saver on the television), it occurred to me how much better our early photographs of the children were - and there was a very simple reason why.

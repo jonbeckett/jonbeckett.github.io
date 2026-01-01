@@ -2,7 +2,7 @@
 layout: post
 title: "The Guernsey Literary And Potato Peel Pie Society"
 date: 2019-01-03
-categories: blog archive
+categories: archive
 ---
 
 It's funny how the universe works sometimes. After discovering our eldest daughter in floods of tears last night, I suggested a late night movie on the sofa armed with endless cups of tea might help a little. A distraction. I'm good at distractions.

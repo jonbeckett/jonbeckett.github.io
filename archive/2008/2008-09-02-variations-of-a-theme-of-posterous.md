@@ -2,7 +2,7 @@
 layout: post
 title: "Variations Of A Theme Of Posterous"
 date: 2008-09-02
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here wondering if I might be able to find a use for Posterous. Normally I write here at "The Enormous Waste of Webspace", but Posterous is persuasive... perhaps even more so than Tumblr.

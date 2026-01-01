@@ -3,7 +3,6 @@ layout: single
 title: "When does today become tomorrow?"
 date: 2025-08-14
 categories:
-  - blog
   - "2025"
 ---
 

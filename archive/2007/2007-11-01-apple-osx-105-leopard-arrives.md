@@ -2,7 +2,7 @@
 layout: post
 title: "Apple Osx 105 Leopard Arrives"
 date: 2007-11-01
-categories: blog archive
+categories: archive
 ---
 
 Microsoft's worst nightmare is coming to pass. Apple's new operating system, OSX 10.5 "Leopard" is out, and it's exceeding expectations almost everywhere.

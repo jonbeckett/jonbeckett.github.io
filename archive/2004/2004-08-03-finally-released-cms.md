@@ -2,7 +2,7 @@
 layout: post
 title: "Finally Released Cms"
 date: 2004-08-03
-categories: blog archive
+categories: archive
 ---
 
 I finally released the CMS "Content Managment System" code to the internet this evening - although it's worth pointing out that it's still only at version 0.2.

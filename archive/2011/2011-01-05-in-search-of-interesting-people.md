@@ -2,7 +2,7 @@
 layout: post
 title: "In Search Of Interesting People"
 date: 2011-01-05
-categories: blog archive
+categories: archive
 ---
 
 I have somehow reached the point with Tumblr where I have far more people following me than I am following, and I'm not altogether happy about that. In order to bring balance back to the force, it feels like I should be searching out new people to follow.

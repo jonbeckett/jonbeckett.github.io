@@ -2,7 +2,7 @@
 layout: post
 title: "A Walk In The Woods"
 date: 2010-11-07
-categories: blog archive
+categories: archive
 ---
 
 Given that friends are always telling me that I should post more photos, our trip to the local woods this morning handed just such an opportunity.

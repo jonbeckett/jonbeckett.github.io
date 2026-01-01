@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Better"
 date: 2003-08-29
-categories: blog archive
+categories: archive
 ---
 
 I'm back at work today (and not feeling too clever, it has to be said). My powers of healing seem to be about as good as usual though - I was really bad for about a day, and then have got better really quickly.

@@ -2,7 +2,7 @@
 layout: post
 title: "Weekends Are Those Things That Other People Have"
 date: 2012-05-28
-categories: blog archive
+categories: archive
 ---
 
 Don't get me wrong - the weekend was tremendous fun, but it seemed to be centered around everybody else's fun.

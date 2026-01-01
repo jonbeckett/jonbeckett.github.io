@@ -2,7 +2,7 @@
 layout: post
 title: "To Frankfurt Once More"
 date: 2018-03-18
-categories: blog archive
+categories: archive
 ---
 
 It's 9:27am, and I'm sitting in the middle of Terminal 2 at Heathrow airport, London. The taxi transfer arrived at our house precisely when it should this morning, prompting me to kiss the girls goodbye as they got ready for school, lift my bag onto my back, and carefully make my way out across the ice on the driveway to the waiting car.

@@ -2,7 +2,7 @@
 layout: post
 title: "Weird Dreams Gameshows And The Hogwarts Express"
 date: 2017-08-26
-categories: blog archive
+categories: archive
 ---
 
 After watching the boxing match between Connor McGregor and Floyd Mayweather at 5am this morning, I looked at the clock, and decided to go back to bed for a couple of hours. A little before 7am. A couple of hours more sleep would probably be a good idea.

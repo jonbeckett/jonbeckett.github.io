@@ -2,7 +2,7 @@
 layout: post
 title: "Monday From Hell"
 date: 2011-09-26
-categories: blog archive
+categories: archive
 ---
 
 I don't make a habit of writing about my day job in the blog for pretty obvious professional and ethical reasons, although I have been seriously tempted on occasion. While it would be so easy to set off on entertaining rants about technology, clients, and co-workers, it would also become a smoking gun.

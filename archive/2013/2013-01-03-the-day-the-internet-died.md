@@ -2,7 +2,7 @@
 layout: post
 title: "The Day The Internet Died"
 date: 2013-01-03
-categories: blog archive
+categories: archive
 ---
 
 One afternoon some time ago, a small red cross appeared in the Windows system tray (this was back in the days before the Chromebook, or the Macbook).

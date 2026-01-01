@@ -2,7 +2,7 @@
 layout: post
 title: "It Was All Made Up"
 date: 2006-01-19
-categories: blog archive
+categories: archive
 ---
 
 I wonder if there is a name for the study of conversation subject paths? If you're wondering why I'm thinking that, just read on for a few paragraphs, and you'll either be interested too, or think "yep - he's lost it".

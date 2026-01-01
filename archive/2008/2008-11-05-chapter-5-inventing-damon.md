@@ -2,7 +2,7 @@
 layout: post
 title: "Chapter 5 Inventing Damon"
 date: 2008-11-05
-categories: blog archive
+categories: archive
 ---
 
 Sam neatened the paperwork in his hands by dropping it through his fingers onto the desk.

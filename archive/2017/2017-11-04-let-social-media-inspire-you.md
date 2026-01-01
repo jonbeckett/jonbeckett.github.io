@@ -2,7 +2,7 @@
 layout: post
 title: "Let Social Media Inspire You"
 date: 2017-11-04
-categories: blog archive
+categories: archive
 ---
 
 Today's writing prompt for the WordPress Blogging University "Every Day Inspiration" challenge is to "let social media inspire you" - to go look at social media, and use it to inspire a few well put together words.

@@ -2,7 +2,7 @@
 layout: post
 title: "Missing A Day"
 date: 2015-11-09
-categories: blog archive
+categories: archive
 ---
 
 I didn't post anything here yesterday. This almost certainly means the world is going to end. Either that, or some kind of horrific fate is going to befall it. Probably.

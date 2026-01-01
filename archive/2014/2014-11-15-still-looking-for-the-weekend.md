@@ -2,7 +2,7 @@
 layout: post
 title: "Still Looking For The Weekend"
 date: 2014-11-15
-categories: blog archive
+categories: archive
 ---
 
 Got up before everybody else this morning, made everybody else breakfast, washed up, took youngest to football practice, wandered home, made everybody lunch, washed up, ironed clothes for 4 hours, ate dinner, washed up after everybody, watched a bit of TV with everybody, and am now hiding in the study at 10pm, wondering how other people even think about having weekends, or hobbies, or anything like that really...

@@ -2,7 +2,7 @@
 layout: post
 title: "Virtual Flight"
 date: 2020-06-14
-categories: blog archive
+categories: archive
 ---
 
 This "virtual flight" thing is addictive. While most people have been reading books, and watching TV shows during lockdown, I have been learning how to operate and fly a Boeing 737.

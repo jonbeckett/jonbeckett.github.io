@@ -2,7 +2,7 @@
 layout: post
 title: "Gcse Computer Studies"
 date: 2015-11-04
-categories: blog archive
+categories: archive
 ---
 
 The following is an excerpt from this year's attempt at NaNoWriMothe quest to write a 50,000 word book during November. I am writing a memoir of my history with all things computer related.

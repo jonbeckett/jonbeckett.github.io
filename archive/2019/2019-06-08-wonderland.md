@@ -2,7 +2,7 @@
 layout: post
 title: "Wonderland"
 date: 2019-06-08
-categories: blog archive
+categories: archive
 ---
 
 I woke up with a start at 4:30am this morning to an empty bed and a silent house. After a few moments scrabbling around to find my phone, squinting at the screen and ham-fistedly navigating it's user interface, I found my way to "Where's my iPhone", and discovered my other half about five miles away - headed towards the airport.

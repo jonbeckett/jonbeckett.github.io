@@ -2,7 +2,7 @@
 layout: post
 title: "Random Information"
 date: 2011-01-25
-categories: blog archive
+categories: archive
 ---
 
 Height - 6ft 3C/3

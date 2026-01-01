@@ -2,7 +2,7 @@
 layout: post
 title: "Hectic Weekends"
 date: 2003-06-09
-categories: blog archive
+categories: archive
 ---
 
 We got up early on Saturday to get into London (I had to get a new passport).

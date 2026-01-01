@@ -2,7 +2,7 @@
 layout: post
 title: "Chapter 7 Networking And A History Lesson"
 date: 2008-11-07
-categories: blog archive
+categories: archive
 ---
 
 Networking the computers turned out to be both easier and more difficult than I had imagined. Windows for Workgroups 3.11 made it easier than I had perhaps thought, and cheaper too. Mid 90s networking hardware made it ridiculously error prone, difficult, and liable to fail at the worst moments.

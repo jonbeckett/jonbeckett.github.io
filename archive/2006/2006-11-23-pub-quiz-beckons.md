@@ -2,7 +2,7 @@
 layout: post
 title: "Pub Quiz Beckons"
 date: 2006-11-23
-categories: blog archive
+categories: archive
 ---
 
 We're off to take part in the weekly pub quiz at the Marlow Donkey later. I will write a more complete blog post upon my return - which will almost certainly communicate all the reasons why we should have won but didn't.

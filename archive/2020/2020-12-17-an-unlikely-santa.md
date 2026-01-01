@@ -2,7 +2,7 @@
 layout: post
 title: "An Unlikely Santa"
 date: 2020-12-17
-categories: blog archive
+categories: archive
 ---
 
 I'm going to be Santa at the infant school on Friday morning. Can you imagine a less likely Santa?

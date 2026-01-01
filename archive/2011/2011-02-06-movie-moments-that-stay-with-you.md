@@ -2,7 +2,7 @@
 layout: post
 title: "Movie Moments That Stay With You"
 date: 2011-02-06
-categories: blog archive
+categories: archive
 ---
 
 I was just reading a post by Stephie Hell about Karate Kid, and it got me thinking about "movie moments that stay with you". You know - the scenes that change you, or shape you as a person.

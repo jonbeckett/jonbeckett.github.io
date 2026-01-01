@@ -2,7 +2,7 @@
 layout: post
 title: "Finland Rock"
 date: 2006-05-25
-categories: blog archive
+categories: archive
 ---
 
 I forgot to mention that last weekend I sat and watched the Eurovision Song Contest, and happily voted for the runaway winner - Lordi, from Finland...

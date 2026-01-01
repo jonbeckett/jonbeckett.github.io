@@ -2,7 +2,7 @@
 layout: post
 title: "I Never Thought Of That Before"
 date: 2022-10-08
-categories: blog archive
+categories: archive
 ---
 
 It's been a strange few days.

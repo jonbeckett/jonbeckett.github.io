@@ -2,7 +2,7 @@
 layout: post
 title: "The Pretty People"
 date: 2018-04-13
-categories: blog archive
+categories: archive
 ---
 
 Instead of standing on the touchline of a football pitch for several hours earlier, I found myself stuck at home doing chores once again - filling the washing machine and tumble dryer continually, and thankful that the school Easter break is coming to an end. I have no idea how the girls have managed to wear quite so many clothes in so few days.

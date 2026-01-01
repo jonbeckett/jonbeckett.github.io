@@ -2,7 +2,7 @@
 layout: post
 title: "Panic Stations"
 date: 2019-10-29
-categories: blog archive
+categories: archive
 ---
 
 My parents are coming to visit. Tomorrow. For the first time in ten years. It's worth mentioning that they live down on the coast, and we get on famously - it's just that it's a five hour drive, and they're getting on, so we always tend to visit them, rather than the other way around.

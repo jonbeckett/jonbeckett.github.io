@@ -2,7 +2,7 @@
 layout: post
 title: "Where nobody knows your name"
 date: 2024-04-26
-categories: blog archive
+categories: archive
 ---
 
 The clock is ticking towards 1am again. I'm not entirely sure how this keeps happening. I'm sitting in bed listening to a strangely relaxing ambient jazz café playlist on Spotify.

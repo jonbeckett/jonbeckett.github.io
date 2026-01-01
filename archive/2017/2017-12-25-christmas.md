@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas"
 date: 2017-12-25
-categories: blog archive
+categories: archive
 ---
 
 It is late afternoon on Boxing Day, and the children are still playing a marathon board game called "The Battle for Hogwarts" in the lounge with my other half. It's been going on all day - I played for the first couple of hours - they seem to be in for the long haul. I was worried about buying it as a "family game" because it was quite expensive, but seriously - if they get this many hours fun out of it on a regular basis, it will be money well spent.

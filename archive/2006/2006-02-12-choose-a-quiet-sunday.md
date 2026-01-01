@@ -2,7 +2,7 @@
 layout: post
 title: "Choose A Quiet Sunday"
 date: 2006-02-12
-categories: blog archive
+categories: archive
 ---
 
 For the first time in living memory, I am choosing to stay at home today rather than trudge off across the country to visit W's family (or go on some other escapade that uses up my entire day off). I just want to have Sunday to myself for a change. Of course now I'll feel guilty for not going.

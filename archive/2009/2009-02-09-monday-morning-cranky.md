@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Morning Cranky"
 date: 2009-02-09
-categories: blog archive
+categories: archive
 ---
 
 My weekend consisted of getting up early, making breakfasts, getting the kids dressed, washing up, tidying up, working like a lunatic on freelance stuff, making lunches, washing up, tidying up, working on more freelance stuff, helping make dinner, washing up, tidying up, putting the kids to bed, more freelance work, and then crash into bed.

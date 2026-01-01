@@ -2,7 +2,7 @@
 layout: post
 title: "Reprising A Book Reading Memethe Bbc Big Read"
 date: 2010-11-22
-categories: blog archive
+categories: archive
 ---
 
 A number of memes have been doing the rounds on Facebook recently, inviting people to highlight the books they have read from a long list. Among the variations of the meme, the lists tend to be based on the 100 popular books list crowd-sourced back in 2003 by the BBC. I thought it might be fun to revive the list, and see what I've read. Bold indicates I have read the book. Italic indicates I have started, but not finished the book. Feel free to re-post the list to your own blog, and remember to link back here so I can read what you have read via the backlinks! The Lord of the RingsJ R R Tolkien Pride and PrejudiceJane Austen His Dark MaterialsPhilip Pullman The Hitch Hiker's Guide to the GalaxyDouglas Adams Harry Potter and the Goblet of FireJ K Rowling To Kill a MockingbirdHarper Lee Winnie the PoohA.

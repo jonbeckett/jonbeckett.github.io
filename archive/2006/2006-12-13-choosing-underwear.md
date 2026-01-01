@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing Underwear"
 date: 2006-12-13
-categories: blog archive
+categories: archive
 ---
 
 I am busy perusing the Figleaves website, trying to pick something for my better half for Christmas. Why is it so difficult?

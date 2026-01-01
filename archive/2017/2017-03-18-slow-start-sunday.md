@@ -2,7 +2,7 @@
 layout: post
 title: "Slow Start Sunday"
 date: 2017-03-18
-categories: blog archive
+categories: archive
 ---
 
 I didn't get out of bed until 10am this morning. I can't remember getting up that late in months - maybe even years. I stumbled downstairs and discovered the younger children watching YouTube videos in the junk room, and my other half sitting in the lounge in a nest of old board games we had been sorting out yesterday, with a colouring book, and Sunday morning TV playing in the background. Some chef or other was showing you how to cook something while making conversation with a celebrity.

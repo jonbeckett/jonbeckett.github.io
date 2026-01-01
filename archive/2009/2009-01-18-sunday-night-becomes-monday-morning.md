@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Night Becomes Monday Morning"
 date: 2009-01-18
-categories: blog archive
+categories: archive
 ---
 
 We're sat here trying to make best use of the remainder of our Sunday evening - well, perhaps "evening" is a little wrong. It's 10:56pm at the time of writing.

@@ -2,7 +2,7 @@
 layout: post
 title: "Approaching Journeys End"
 date: 2010-05-27
-categories: blog archive
+categories: archive
 ---
 
 I'm sat in the lounge area of the Pom d'Or hotel in Jersey, just across from the marina. I have a couple of hours to kill before a final meeting, after which we head back to the airport.

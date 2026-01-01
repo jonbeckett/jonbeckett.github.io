@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts About My Impending Life In A Hotel"
 date: 2009-11-12
-categories: blog archive
+categories: archive
 ---
 
 Starting at some point next week, and for the next six weeks or so, I am going to be "living" in a hotel during the week. Thus far I had only considered the impact on the rest of my family, but it occurred to me earlier that I'm going to be living in a hotel! What on earth is it going to be like?

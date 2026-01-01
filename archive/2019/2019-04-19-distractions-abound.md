@@ -2,7 +2,7 @@
 layout: post
 title: "Distractions Abound"
 date: 2019-04-19
-categories: blog archive
+categories: archive
 ---
 
 While noodling around on the internet earlier this evening it occurred to me how many wonderfully distracting destinations there are. It also occurred to me that they are the reason I rarely read any more.

@@ -2,7 +2,7 @@
 layout: post
 title: "Carrot Cake And Walter Mitty"
 date: 2016-05-31
-categories: blog archive
+categories: archive
 ---
 
 It's the last day of May, I'm back in the office, the kids are off school, and I've just eaten a huge piece of carrot cake. I would be lying if I didn't say it's kind of a relief to be back in the office, and back concentrating on work again.

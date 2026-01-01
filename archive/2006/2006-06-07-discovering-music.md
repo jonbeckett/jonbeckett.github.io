@@ -2,7 +2,7 @@
 layout: post
 title: "Discovering Music"
 date: 2006-06-07
-categories: blog archive
+categories: archive
 ---
 
 I have been listening to various internet music feeds tonight, and stumbled across a goldmine.

@@ -2,7 +2,7 @@
 layout: post
 title: "An Alternative Christmas Message"
 date: 2014-12-20
-categories: blog archive
+categories: archive
 ---
 
 Let me preface this by saying I am not religious (implying a belief in some kind of creatorwho's existence cannot be proven), and I am not atheist either (implying a belief in no creatorwho's lack of existence cannot be proven).

@@ -2,7 +2,7 @@
 layout: post
 title: "The People I Follow On Twitter"
 date: 2009-07-30
-categories: blog archive
+categories: archive
 ---
 
 While tinkering with some javascript earlier, I thought it might be fun to scoop out of twitter the various users I follow, and assemble them all in one post - a rogue's gallery of sorts. Initially I planned to make it a static image, but then thought where's the fun in that! - so now it's clickable. If you really want the javascript that did it, email me (details are on the contact page).

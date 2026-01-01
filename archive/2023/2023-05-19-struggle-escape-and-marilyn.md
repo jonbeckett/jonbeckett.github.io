@@ -2,7 +2,7 @@
 layout: post
 title: "Struggle Escape and Marilyn"
 date: 2023-05-19
-categories: blog archive
+categories: archive
 ---
 
 Somehow the entire evening has vanished from beneath me. I'm not quite sure how that happens.

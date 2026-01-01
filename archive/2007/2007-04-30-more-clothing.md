@@ -2,7 +2,7 @@
 layout: post
 title: "More Clothing"
 date: 2007-04-30
-categories: blog archive
+categories: archive
 ---
 
 While crashed out on the couch (I am off work with a virus today), it turns out W (who is also off work) was buying things on the internet.

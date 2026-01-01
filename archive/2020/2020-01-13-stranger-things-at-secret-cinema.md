@@ -2,7 +2,7 @@
 layout: post
 title: "Stranger Things At Secret Cinema"
 date: 2020-01-13
-categories: blog archive
+categories: archive
 ---
 
 It's rare that I'm lost for words, but even two hours after a long journey home, I'm still trying to decompress, and absorb the events of the evening. It's all a bit difficult to explain too - because, you see, this evening I returned to 1985. Not the 1985 I remember either - I returned to 1985 in Hawkins, Indiana - the setting for the TV show "Stranger Things".

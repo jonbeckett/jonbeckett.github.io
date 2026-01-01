@@ -2,7 +2,7 @@
 layout: post
 title: "Taking Tumblr Off Automatic"
 date: 2010-11-04
-categories: blog archive
+categories: archive
 ---
 
 I've stopped piping the wordpress and twitter posts into Tumblr - it's really crap at presenting them properly.

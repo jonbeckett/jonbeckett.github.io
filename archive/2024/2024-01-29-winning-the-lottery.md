@@ -2,7 +2,7 @@
 layout: post
 title: "Winning the Lottery"
 date: 2024-01-29
-categories: blog archive
+categories: archive
 ---
 
 Today's (or rather yesterday's) writing prompt asks what we would do if we won the lottery. I say "or rather yesterday's" because it's already gone midnight, and while a thousand and one things have stacked on top of each other today, I couldn't resist writing something.

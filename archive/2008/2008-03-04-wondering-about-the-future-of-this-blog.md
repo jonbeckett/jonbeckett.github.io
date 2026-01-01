@@ -2,7 +2,7 @@
 layout: post
 title: "Wondering About The Future Of This Blog"
 date: 2008-03-04
-categories: blog archive
+categories: archive
 ---
 
 With the advent of services such as FriendFeed and Pownce, I am wondering if this personal blog may eventually die - or at least become stagnant. With friendfeed, Flickr, and Delicious publishing my comments, photos, and bookmarks, it's difficult to know what huge tracts of textual rumination add to the mix.

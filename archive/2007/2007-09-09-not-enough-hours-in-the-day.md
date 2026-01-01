@@ -2,7 +2,7 @@
 layout: post
 title: "Not Enough Hours In The Day"
 date: 2007-09-09
-categories: blog archive
+categories: archive
 ---
 
 Do you ever wonder where your weekend goes?

@@ -2,7 +2,7 @@
 layout: post
 title: "writing smiles and bravery"
 date: 2023-04-17
-categories: blog archive
+categories: archive
 ---
 
 Writing

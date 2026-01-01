@@ -2,7 +2,7 @@
 layout: post
 title: "Mr Covid Comes To Visit"
 date: 2022-04-12
-categories: blog archive
+categories: archive
 ---
 
 My other half tested positive for COVID19 this evening. She has had cold symptoms for the last several days. How typical is that? She works in a school - she has been testing several times a week for the last several years, we get to a holiday, and bang - first day of the holiday, positive.

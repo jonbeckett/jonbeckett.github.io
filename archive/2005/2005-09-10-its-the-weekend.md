@@ -2,7 +2,7 @@
 layout: post
 title: "Its The Weekend"
 date: 2005-09-10
-categories: blog archive
+categories: archive
 ---
 
 It's finally the weekend, and I feel better than I have in days.

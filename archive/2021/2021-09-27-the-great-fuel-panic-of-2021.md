@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Fuel Panic Of 2021"
 date: 2021-09-27
-categories: blog archive
+categories: archive
 ---
 
 A pretty ridiculous story has been unfolding in the UK this week. One I thought I might write a few words about for the entertainment and amusement of international readers who might want something to read while they sip their coffee.

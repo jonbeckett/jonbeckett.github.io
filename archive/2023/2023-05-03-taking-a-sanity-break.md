@@ -2,7 +2,7 @@
 layout: post
 title: "Taking a sanity break"
 date: 2023-05-03
-categories: blog archive
+categories: archive
 ---
 
 I planned to write a blog post yesterday. I don't know why I plan anything any more - suffice to say, the blog post didn't happen.

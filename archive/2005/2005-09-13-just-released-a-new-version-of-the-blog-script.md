@@ -2,7 +2,7 @@
 layout: post
 title: "Just Released A New Version Of The Blog Script"
 date: 2005-09-13
-categories: blog archive
+categories: archive
 ---
 
 After a bit of a slog, I have released a new version of the Blog script for people to download.

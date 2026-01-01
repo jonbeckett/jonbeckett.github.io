@@ -2,7 +2,7 @@
 layout: post
 title: "The Madness Of Smoking"
 date: 2012-04-16
-categories: blog archive
+categories: archive
 ---
 
 W had a bad day yesterday - I think the Easter Holidays caught up with her - dealing with the children, the decorating, and a birthday party in consecutive days wiped her completely out. I pretty much took over everything while she hid out in the bedroom for the greater part of the day.

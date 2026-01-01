@@ -2,7 +2,7 @@
 layout: post
 title: "I Write Because"
 date: 2017-10-30
-categories: blog archive
+categories: archive
 ---
 
 I'm doing well this week. I signed up for one of the WordPress University [https://dailypost.wordpress.com/blogging-university/] courses yesterday, and then completely missed the first assignment arriving in my in-box. Does that mean I currently hold the record for missing the start of the course, let alone the fifth, sixth, or seventh exercise?

@@ -2,7 +2,7 @@
 layout: post
 title: "Reinstalling"
 date: 2020-11-13
-categories: blog archive
+categories: archive
 ---
 
 Deep breath. This is going to get very nerdy, very quickly. I'll just get it over with, shall I?

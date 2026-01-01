@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Night"
 date: 2010-10-30
-categories: blog archive
+categories: archive
 ---
 
 It's the weekend before "National Blog Posting Month" begins, and I've been picking away at a freelance project throughout most of the day.

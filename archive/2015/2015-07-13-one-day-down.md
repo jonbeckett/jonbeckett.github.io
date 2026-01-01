@@ -2,7 +2,7 @@
 layout: post
 title: "One Day Down"
 date: 2015-07-13
-categories: blog archive
+categories: archive
 ---
 
 Ok. That's the first day of this trip ticked off the list. Working with wonderful people in a wonderful office. The work part of this journey was never going to be a problem. The problem is me - or rather the abject failure of my body.

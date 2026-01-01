@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Time"
 date: 2003-06-17
-categories: blog archive
+categories: archive
 ---
 
 We are going to America!

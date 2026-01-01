@@ -2,7 +2,7 @@
 layout: post
 title: "The First Accident"
 date: 2008-02-12
-categories: blog archive
+categories: archive
 ---
 
 I woke suddenly to the sound of crying this morning, and ran into the bathroom - hastily tying my robe on the way.

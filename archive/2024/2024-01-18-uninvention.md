@@ -2,7 +2,7 @@
 layout: post
 title: "Uninvention"
 date: 2024-01-18
-categories: blog archive
+categories: archive
 ---
 
 Today's writing prompt asks "if you could un-invent something, what would it be?". 

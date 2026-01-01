@@ -2,7 +2,7 @@
 layout: post
 title: "Sysadmin In The Evening"
 date: 2004-09-28
-categories: blog archive
+categories: archive
 ---
 
 This evening I have been performing the necessary evil tasks that most people should probably do when they get a new computer...

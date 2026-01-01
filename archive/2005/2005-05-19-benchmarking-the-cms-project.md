@@ -2,7 +2,7 @@
 layout: post
 title: "Benchmarking The Cms Project"
 date: 2005-05-19
-categories: blog archive
+categories: archive
 ---
 
 I spent some time this afternoon benchmarking the "Content Management System" project I have been working on. For those who have no idea what that is, a "content management system" is basically a website that is made out of text that you have stored in a database.

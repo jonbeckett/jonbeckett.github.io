@@ -2,7 +2,7 @@
 layout: post
 title: "Calendar Feature Added"
 date: 2003-02-13
-categories: blog archive
+categories: archive
 ---
 
 I just spent most of the evening adding a calendar feature to the script.

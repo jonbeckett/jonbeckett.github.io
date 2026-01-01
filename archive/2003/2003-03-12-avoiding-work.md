@@ -2,7 +2,7 @@
 layout: post
 title: "Avoiding Work"
 date: 2003-03-12
-categories: blog archive
+categories: archive
 ---
 
 It's Wednesday morning and I'm avoiding doing too much this morning - even though I have a quite a few things to do. For some strange reason, even though I have ten interesting things to do, they are not quite interesting enough.

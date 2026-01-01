@@ -2,7 +2,7 @@
 layout: post
 title: "Simplification"
 date: 2008-09-24
-categories: blog archive
+categories: archive
 ---
 
 As regular visitors will notice, I have gone back to the drastically simple look/feel that I put together a month or so ago for this blog.

@@ -2,7 +2,7 @@
 layout: post
 title: "North Of The Wall"
 date: 2016-07-23
-categories: blog archive
+categories: archive
 ---
 
 While travelling north on the train today for yet another few days holed up in a distant hotel, I replied to a friend that enquired about my destination - "north of the wall". If you don't watch "Game of Thrones", the quote is going to be lost on you. Let's just say "north of the wall" essentially means going past the "there be dragons" bit on the map.

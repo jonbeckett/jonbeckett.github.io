@@ -3,7 +3,6 @@ layout: single
 title: "One Foot in Front Of The Other"
 date: 2025-10-14
 categories:
-  - blog
   - "2025"
 ---
 

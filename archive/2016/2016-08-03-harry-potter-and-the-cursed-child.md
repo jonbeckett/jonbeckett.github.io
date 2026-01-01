@@ -2,7 +2,7 @@
 layout: post
 title: "Harry Potter And The Cursed Child"
 date: 2016-08-03
-categories: blog archive
+categories: archive
 ---
 
 After the mysterious failed delivery on Monday, I arrived back in the office this morning to discover an Amazon box propped in the crate of milk bottles outside the office door - with my name on the label. There was only one thing it could be.

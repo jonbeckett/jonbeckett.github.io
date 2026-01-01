@@ -2,7 +2,7 @@
 layout: post
 title: "Happy New Year"
 date: 2006-12-31
-categories: blog archive
+categories: archive
 ---
 
 Today's post to the soon to be year-old blog known as "Life and Times" marks the end of 2006, and the beginning of 2007. We have been staying with my parents in Cornwall for the New Year - just over 3 hours away as I write this - and it's been a fantastic break so far.

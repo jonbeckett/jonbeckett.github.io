@@ -3,7 +3,6 @@ layout: single
 title: "Nosferatu"
 date: 2025-01-14
 categories:
-  - blog
   - "2025"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "A Walk In The Woods"
 date: 2008-03-09
-categories: blog archive
+categories: archive
 ---
 
 We spent this afternoon in the local woods, encouraging the girls to run riot. Given their background, it is hardly surprising that they don't know what to do when offered (almost) complete freedom - and such was the case when we got out of the car.

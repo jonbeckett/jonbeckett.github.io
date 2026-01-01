@@ -2,7 +2,7 @@
 layout: post
 title: "Seclusion"
 date: 2006-09-08
-categories: blog archive
+categories: archive
 ---
 
 The photograph above is from the balcony of the house we will be staying at in Turkey for the next week. We fly out from London Heathrow tomorrow afternoon for a week of seclusion and hopefully regain some humour, some spirit, and some much needed rest.

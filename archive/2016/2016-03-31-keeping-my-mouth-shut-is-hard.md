@@ -2,7 +2,7 @@
 layout: post
 title: "Keeping My Mouth Shut Is Hard"
 date: 2016-03-31
-categories: blog archive
+categories: archive
 ---
 
 It struck me this evening just how many thoughts I bury. While reading posts at WordPress, Tumblr, Twitter, or even Facebook (which I try to stay the hell away from), I often start replying to something, but then think better of it.

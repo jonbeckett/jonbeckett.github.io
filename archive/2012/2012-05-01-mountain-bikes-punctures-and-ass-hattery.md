@@ -2,7 +2,7 @@
 layout: post
 title: "Mountain Bikes Punctures And Ass Hattery"
 date: 2012-05-01
-categories: blog archive
+categories: archive
 ---
 
 On the way home from work last night the bike started to feel strange - shifting imperceptibly sideways under me. At first I ignored it, and put it down to the wind, or hitting uneven patches of road. Half a minute later the bike snaked alarmingly, and I stopped ignoring it.

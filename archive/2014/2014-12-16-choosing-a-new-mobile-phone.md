@@ -2,7 +2,7 @@
 layout: post
 title: "Choosing A New Mobile Phone"
 date: 2014-12-16
-categories: blog archive
+categories: archive
 ---
 
 My mobile phone contract comes up on 19th December, meaning I get to upgrade my phone handset. I have no idea which way I'm going to go at the moment. I guess it might be worth looking back at the phones I've had over the last few years to gather my thoughts on them.iPhoneI had two iPhones, and they both broke. They both fried their WiFi chips. We have two iPads around the house, so I'm still familiar with iOS in it's most recent form, but I can't say I particularly like it. Given Apple's track record with their walled-garden services (.mac, MobileMe, and now iCloud), I would rather not go near them with a barge pole. The one redeeming feature of all iPhones has always been the cameraalthough that story has started to change in the last year or so.

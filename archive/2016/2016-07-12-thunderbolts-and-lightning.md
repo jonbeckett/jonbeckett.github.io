@@ -2,7 +2,7 @@
 layout: post
 title: "Thunderbolts And Lightning"
 date: 2016-07-12
-categories: blog archive
+categories: archive
 ---
 
 A couple of evenings ago, somebody I know quite well published a post on Facebook that caused perhaps the most entertaining argument I have seen in quite some time. The argument was happening in public, so I saw no shame in watching the drama unfold from my usual perch, high atop the fence I like to sit on.

@@ -2,7 +2,7 @@
 layout: post
 title: "Not Going Out"
 date: 2017-11-16
-categories: blog archive
+categories: archive
 ---
 
 I had tickets to the England Ladies rugby game against Canada this evening. I left work early so we could set off in time to get there and find our seats in the stadium. I'm not at the England Ladies rugby game - I'm sitting in the study at home, so Miss 17 doesn't come home to an empty house. Thankfully the tickets weren't too expensive. At some point later this evening I will receive a text message, and make my way to the local railway station to walk Miss 17 home.

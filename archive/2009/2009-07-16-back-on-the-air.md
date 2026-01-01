@@ -2,7 +2,7 @@
 layout: post
 title: "Back On The Air"
 date: 2009-07-16
-categories: blog archive
+categories: archive
 ---
 
 The photograph is of astronaut Steve Bowen. His expression pretty much sums up my feelings of being back online.

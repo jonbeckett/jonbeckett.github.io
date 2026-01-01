@@ -2,7 +2,7 @@
 layout: post
 title: "Shhh Its So Damn Quiet"
 date: 2011-01-25
-categories: blog archive
+categories: archive
 ---
 
 Sat here, in the lounge, on my own. Other half is at something to do with the school. Kids are in bed asleep, television is off, and I'm noodling around on the internet (always dangerous).

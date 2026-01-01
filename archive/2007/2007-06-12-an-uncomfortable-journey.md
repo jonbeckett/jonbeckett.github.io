@@ -2,7 +2,7 @@
 layout: post
 title: "An Uncomfortable Journey"
 date: 2007-06-12
-categories: blog archive
+categories: archive
 ---
 
 The journey into work this morning was uncomfortable, but not for a reason you might imagine.

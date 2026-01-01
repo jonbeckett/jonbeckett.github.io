@@ -2,7 +2,7 @@
 layout: post
 title: "Winning And Losing"
 date: 2005-01-30
-categories: blog archive
+categories: archive
 ---
 
 It's been an up and down Sunday evening... I've been playing chess on "PlayChess" - the Chessbase online chess site. I won a game, and lost a game.

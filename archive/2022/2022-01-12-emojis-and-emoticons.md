@@ -2,7 +2,7 @@
 layout: post
 title: "Emojis And Emoticons"
 date: 2022-01-12
-categories: blog archive
+categories: archive
 ---
 
 *This year I'm taking part in "*[*Bloganuary*](https://bloganuary.wordpress.com/)*" - a series of writing prompts published throughout the month by* [*Mindy Postoff*](https://bloganuary.wordpress.com/author/mindywoothemes/)*. Today's writing prompt is "What emoji(s) do you like to use ?".*

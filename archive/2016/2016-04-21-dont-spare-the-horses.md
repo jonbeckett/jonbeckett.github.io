@@ -2,7 +2,7 @@
 layout: post
 title: "Dont Spare The Horses"
 date: 2016-04-21
-categories: blog archive
+categories: archive
 ---
 
 The greater part of the afternoon turned into a clock watching exercise, where I tinkered with a mountain of source code while trying not to get too sucked into it, for fear of losing track of time, missing my train, and adding hours to my journey home.

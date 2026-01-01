@@ -2,7 +2,7 @@
 layout: post
 title: "Blog Receives New Coat Of Paint"
 date: 2008-07-10
-categories: blog archive
+categories: archive
 ---
 
 I thought it about time that "The Enormous Waste of Webspace" received a fresh coat of paint, so have uploaded a new banner graphic. For those who are wondering, it is a cropped copy of the original available that wonderful repository of wallpapers - Interface Lift.

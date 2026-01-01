@@ -2,7 +2,7 @@
 layout: post
 title: "Memories of Madonna"
 date: 2023-02-12
-categories: blog archive
+categories: archive
 ---
 
 The clock is ticking towards midnight, and you find me sitting on the sofa in the lounge, listening and half-watching music videos on the television. Madonna is busy waving her hands around at the moment, in perhaps the most iconic pop video of the 1990s.

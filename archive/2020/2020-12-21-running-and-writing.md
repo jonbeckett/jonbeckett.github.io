@@ -2,7 +2,7 @@
 layout: post
 title: "Running And Writing"
 date: 2020-12-21
-categories: blog archive
+categories: archive
 ---
 
 I'm supposed to get up at 8am tomorrow morning and run around town in a Santa suit, accompanied by my younger daughters. I'm not quite sure how they're going to do it given that they have not taken part in any activities you might describe as helping their fitness for weeks.

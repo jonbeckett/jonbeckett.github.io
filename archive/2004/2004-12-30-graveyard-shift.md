@@ -2,7 +2,7 @@
 layout: post
 title: "Graveyard Shift"
 date: 2004-12-30
-categories: blog archive
+categories: archive
 ---
 
 Today is Thursday 30th December, and I am at work on the "Graveyard Shift" - covering the phones between Christmas and New Year.

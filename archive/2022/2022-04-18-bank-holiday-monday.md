@@ -2,7 +2,7 @@
 layout: post
 title: "Bank Holiday Monday"
 date: 2022-04-18
-categories: blog archive
+categories: archive
 ---
 
 The final day of my staycation started at 7am when I heard Miss 17 leave the house to go feed a neighbours cats (they are on holiday). She returned ten minutes later after not being able to get in the front door - so guess who extracted himself from his sleeping bag (yes, I'm still on the sofa while my other half self-isolates) and accompanied her back to the house is question.

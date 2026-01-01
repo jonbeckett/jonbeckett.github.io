@@ -3,7 +3,6 @@ layout: single
 title: "Mailing it in"
 date: 2025-07-08
 categories:
-  - blog
   - "2025"
 ---
 

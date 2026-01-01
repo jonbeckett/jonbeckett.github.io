@@ -2,7 +2,7 @@
 layout: post
 title: "Growing Like Weeds"
 date: 2010-08-15
-categories: blog archive
+categories: archive
 ---
 
 It occurred to me this morning that I've not posted any photographs of the children recently, and given their continual transformation from meek, scared, and clumsy to noisy, confident, and nosey, I thought some sharing might be in order;

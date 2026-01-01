@@ -2,7 +2,7 @@
 layout: post
 title: "Waking Up Early"
 date: 2008-02-19
-categories: blog archive
+categories: archive
 ---
 
 I have been awake since 5am when the youngest woke and started crying. I had no idea why, and neither did she - as soon as I walked in the bedroom door she was quiet again. There were tears on her cheeks, but apparently no real drama worth crying about. Go figure. After a cuddle, a kiss and "go to sleep", peace reigned once more.

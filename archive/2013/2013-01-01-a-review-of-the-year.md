@@ -2,7 +2,7 @@
 layout: post
 title: "A Review Of The Year"
 date: 2013-01-01
-categories: blog archive
+categories: archive
 ---
 
 2012 began with me working on a long term project that involved staying in hotels for weeks on end - missing most of the run-up to new year, and huge chunks of January. The project was laden with all manner of security which prevented me from even talking about my continual absences from the internet. Eventually the wheels fell of several wagons, skidding the project to a halt, and leaving me sat in the dust wondering what to do next.

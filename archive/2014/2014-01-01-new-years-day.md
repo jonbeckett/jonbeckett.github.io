@@ -2,7 +2,7 @@
 layout: post
 title: "New Years Day"
 date: 2014-01-01
-categories: blog archive
+categories: archive
 ---
 
 At some point yesterday eveningin spite of feeling like hell, and dosing myself up on ibuprofen every few hoursI decided "what the hell", had a wash, got changed, and prepared to head out with the rest of the family to greet the new year with friends.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Internet Detective Agency"
 date: 2024-01-22
-categories: blog archive
+categories: archive
 ---
 
 I got followed by somebody on Tumblr the other day - who then private messaged me and struck up conversation. After a few messages back and forth - "love your blog", "how is your day?" - that kind of thing, they asked if we might switch to an instant messaging application.

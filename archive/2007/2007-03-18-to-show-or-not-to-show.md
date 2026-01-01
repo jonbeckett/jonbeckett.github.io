@@ -2,7 +2,7 @@
 layout: post
 title: "To Show Or Not To Show"
 date: 2007-03-18
-categories: blog archive
+categories: archive
 ---
 
 Simple question. What works for you? Seeing more, or seeing less?

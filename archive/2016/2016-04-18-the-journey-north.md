@@ -2,7 +2,7 @@
 layout: post
 title: "The Journey North"
 date: 2016-04-18
-categories: blog archive
+categories: archive
 ---
 
 "The Journey North" sounds tremendously romanticI'm imagining Svaldbard, and huge armored polar bears. Unfortunately my journey is taking me a few thousands miles short of the frozen wastes. Still a long trek, but not quite as exciting as a rendezvous with Lorek Byrnison.

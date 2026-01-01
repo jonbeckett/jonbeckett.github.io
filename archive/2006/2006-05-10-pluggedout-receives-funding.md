@@ -2,7 +2,7 @@
 layout: post
 title: "Pluggedout Receives Funding"
 date: 2006-05-10
-categories: blog archive
+categories: archive
 ---
 
 I was about to write something along the lines of "readers of my blog may not be aware that I also run a website where I give away and support a number of open source projects" - except of course I then realised that this blog now lives on the PluggedOut domain, so you probably know what's there if you've been nosey.

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday In The Garden"
 date: 2010-05-23
-categories: blog archive
+categories: archive
 ---
 
 It's baking hot outside, so we're holed up on the house, doing homework, playing games, and otherwise hiding. I wandered outside briefly with the camera and snapped a few shots....

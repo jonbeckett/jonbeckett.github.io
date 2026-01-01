@@ -2,7 +2,7 @@
 layout: post
 title: "A Birthday Card Fit For A Software Developer"
 date: 2010-03-03
-categories: blog archive
+categories: archive
 ---
 
 After delivering copious amounts of chocolate biscuits to the kitchen at work, I arrived at my desk to discover this...

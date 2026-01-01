@@ -2,7 +2,7 @@
 layout: post
 title: "Country Hotel"
 date: 2011-10-11
-categories: blog archive
+categories: archive
 ---
 
 I thought I was going to be online a lot over the next few days (while holed up in a country hotel) but the reality couldn't be further from the truth.

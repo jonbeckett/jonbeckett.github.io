@@ -2,7 +2,7 @@
 layout: post
 title: "Nineteen Years"
 date: 2020-09-15
-categories: blog archive
+categories: archive
 ---
 
 Almost exactly nineteen years ago, in about half an hour if memory serves, I stood at the business end of a church in Oxfordshire, waiting for the future Mrs Beckett to arrive. Several aunts stood outside waiting for a Rolls Royce to pull up, and didn't quite know what to tell anybody when it drove straight past. It turned out the driver had just missed the church (it was very small, and my other half talks a lot).

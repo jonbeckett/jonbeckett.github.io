@@ -2,7 +2,7 @@
 layout: post
 title: "The Flu Jab And The Ignorant Army"
 date: 2010-11-10
-categories: blog archive
+categories: archive
 ---
 
 This morning at work a nurse arrived to administer a flu jab to anybody that wanted it. I wandered straight down (even though I wasn't on the list), and after a few questions got stabbed in the shoulder.

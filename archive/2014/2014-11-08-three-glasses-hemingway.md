@@ -2,7 +2,7 @@
 layout: post
 title: "Three Glasses Hemingway"
 date: 2014-11-08
-categories: blog archive
+categories: archive
 ---
 
 After collapsing on the couch late this evening, and sharing a few glasses of leftover wine from the Halloween party with my better half (a wonderful bottle of "prosecco"), it struck me that the words flow far more naturally from me after a few drinks.

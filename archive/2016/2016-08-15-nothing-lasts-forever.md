@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing Lasts Forever"
 date: 2016-08-15
-categories: blog archive
+categories: archive
 ---
 
 Back in 2007I was travelling to London on the train one day, listening to "This Week in Tech" - a podcast run by Leo Laporte from the back room of his house. He was talking to a developer friend called Gina Trapani about interesting things they had discovered on the web that week, and she mentioned a blogging startup that made it really easy for people to start posting stuff to the internet - to curate photos, text, quotes, and conversations in an online scrapbook of sorts. It had been developed by a small group of friends in New York, and was called Tumblr.

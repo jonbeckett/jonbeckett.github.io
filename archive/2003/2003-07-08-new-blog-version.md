@@ -2,7 +2,7 @@
 layout: post
 title: "New Blog Version"
 date: 2003-07-08
-categories: blog archive
+categories: archive
 ---
 
 Hi all,

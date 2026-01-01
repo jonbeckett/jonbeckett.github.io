@@ -2,7 +2,7 @@
 layout: post
 title: "I Have The Weirdest Dreams"
 date: 2005-07-08
-categories: blog archive
+categories: archive
 ---
 
 It's official. I have the weirdest dreams.

@@ -2,7 +2,7 @@
 layout: post
 title: "Reclaiming Sleep"
 date: 2008-10-21
-categories: blog archive
+categories: archive
 ---
 
 I slept for 4 hours last night - dropping into bed at about 1am, and getting up when the alarm went off at 5. Somehow I am able to just "get up" - and always have been able to. This morning's routine involved;

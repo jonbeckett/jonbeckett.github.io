@@ -2,7 +2,7 @@
 layout: post
 title: "Aaarrggghhh"
 date: 2011-02-21
-categories: blog archive
+categories: archive
 ---
 
 The Tumblr theme bugs resurfaced this morning and destroyed the theme I was using.

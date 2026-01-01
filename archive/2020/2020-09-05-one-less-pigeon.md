@@ -2,7 +2,7 @@
 layout: post
 title: "One Less Pigeon"
 date: 2020-09-05
-categories: blog archive
+categories: archive
 ---
 
 While making a cup of coffee earlier, my youngest daughter ran into the kitchen, pointing into the garden as she ran - our little black rescue-cat was stalking two hapless pigeons. He was crouched, flat to the floor behind a bag of garden cuttings, while they pecked around in the undergrowth on the opposite side.

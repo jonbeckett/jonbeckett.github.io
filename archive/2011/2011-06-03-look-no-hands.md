@@ -2,7 +2,7 @@
 layout: post
 title: "Look No Hands"
 date: 2011-06-03
-categories: blog archive
+categories: archive
 ---
 
 Taken while en-route to work this morningit's surprisingly difficult to hold a phone above your head and not look where you're going while travelling at 20 miles an hour.

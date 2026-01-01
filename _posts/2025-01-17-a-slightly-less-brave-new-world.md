@@ -3,7 +3,6 @@ layout: single
 title: "A slightly less brave new world"
 date: 2025-01-17
 categories:
-  - blog
   - "2025"
 ---
 

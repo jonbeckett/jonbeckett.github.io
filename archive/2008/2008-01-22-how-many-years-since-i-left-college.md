@@ -2,7 +2,7 @@
 layout: post
 title: "How Many Years Since I Left College"
 date: 2008-01-22
-categories: blog archive
+categories: archive
 ---
 
 While talking to one of my colleagues earlier, I realised it has been 17 years since I left college - and nearly 20 years since I left school. I am in a state of shock.

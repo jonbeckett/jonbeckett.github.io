@@ -2,7 +2,7 @@
 layout: post
 title: "Running Up That Hill"
 date: 2022-06-07
-categories: blog archive
+categories: archive
 ---
 
 Invariably I try to get to a "good place" with programming before finishing for the day - yesterday that didn't happen. Something wasn't working, and it consumed me all evening. At dinner the rest of my family asked what was going on - catching me staring into space, thinking about it.

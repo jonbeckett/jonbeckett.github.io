@@ -2,7 +2,7 @@
 layout: post
 title: "South Stacks Lighthouse"
 date: 2024-06-19
-categories: blog archive
+categories: archive
 ---
 
 Today's adventure took us to the South Stack Lighthouse, on the north-westerly tip of Holy Island, Anglesey. The lighthouse was built in 1809 by Trinity House, and towers some 300ft over the water below. That doesn't mean winter storm surges don't reach it -- there are photos of waves exploding high above the lighthouse in the past.

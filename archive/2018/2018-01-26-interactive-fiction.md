@@ -2,7 +2,7 @@
 layout: post
 title: "Interactive Fiction"
 date: 2018-01-26
-categories: blog archive
+categories: archive
 ---
 
 You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here.

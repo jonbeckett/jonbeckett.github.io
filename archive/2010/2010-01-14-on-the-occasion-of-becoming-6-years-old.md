@@ -2,7 +2,7 @@
 layout: post
 title: "On The Occasion Of Becoming 6 Years Old"
 date: 2010-01-14
-categories: blog archive
+categories: archive
 ---
 
 This evening my return home from work heralded a banquet your average 6 year might turn inside out for. Hotdogs, chips, dips, potato wedges, and cheese and pineapple on sticks (yes, I really did just write that). It had been provided to mark the beginning of the 6th year on earth for she was previously known as "Little Miss 5".

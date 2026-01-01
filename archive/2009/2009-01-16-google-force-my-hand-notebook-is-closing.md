@@ -2,7 +2,7 @@
 layout: post
 title: "Google Force My Hand Notebook Is Closing"
 date: 2009-01-16
-categories: blog archive
+categories: archive
 ---
 
 I just read a news item that surprised me - there will be no further development of Google Notebook - and services are being taken away from it right now. Google have promised they will maintain existing notebook accounts for the moment...

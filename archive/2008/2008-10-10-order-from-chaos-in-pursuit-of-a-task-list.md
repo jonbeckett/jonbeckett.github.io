@@ -2,7 +2,7 @@
 layout: post
 title: "Order From Chaos In Pursuit Of A Task List"
 date: 2008-10-10
-categories: blog archive
+categories: archive
 ---
 
 I have a lot of stuff going on in my life at the moment. In an effort to somehow organise and structure the various requirements placed upon me from day to day, I have been looking at a number of task list applications.

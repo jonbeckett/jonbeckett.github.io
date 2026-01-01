@@ -2,7 +2,7 @@
 layout: post
 title: "Considering A Switch"
 date: 2011-01-17
-categories: blog archive
+categories: archive
 ---
 
 I began blogging around the same time the term "blog" first become common. Since then my words have lived at Vox, Yahoo 360, Orkut, LiveJournal, Blogger, WordPress, Posterous, MySpace you name it. My blog has gone under several names, and has looked wildly different from year to year. One thing has beenconsistent though - it has endured.

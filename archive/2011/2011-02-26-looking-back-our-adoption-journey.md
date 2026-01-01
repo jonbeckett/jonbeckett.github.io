@@ -2,7 +2,7 @@
 layout: post
 title: "Looking Back Our Adoption Journey"
 date: 2011-02-26
-categories: blog archive
+categories: archive
 ---
 
 The beginning of February marked the third anniversary of our quota of children increasing from zero to three. The anniversary of our life being tipped upside down, shaken violently all over the floor, stamped on a few times, and then scraped back into it's container to admire as one might a bug accidentally trodden on.

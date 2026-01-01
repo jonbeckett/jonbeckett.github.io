@@ -2,7 +2,7 @@
 layout: post
 title: "Home From The Western Front"
 date: 2013-11-15
-categories: blog archive
+categories: archive
 ---
 
 After a couple of days pretending to be a knowledgeable consultant about all manner of clever things, I am home this eveningnot before something of an adventure en-route though.

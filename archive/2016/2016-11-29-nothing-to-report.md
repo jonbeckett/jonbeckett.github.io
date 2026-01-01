@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing To Report"
 date: 2016-11-29
-categories: blog archive
+categories: archive
 ---
 
 This is going to be a wonderfully random post about nothing of consequence, because I really do have nothing of significance to report.

@@ -2,7 +2,7 @@
 layout: post
 title: "One Thousand Lines"
 date: 2017-12-04
-categories: blog archive
+categories: archive
 ---
 
 Today I wrote over a thousand lines of programming. Tomorrow morning I'll try executing them, and hide behind something sturdy while they spew error messages all over the place. Or not. Sometimes my code works first time - it's rare, but it happens.

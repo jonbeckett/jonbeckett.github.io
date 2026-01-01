@@ -2,7 +2,7 @@
 layout: post
 title: "The Journey To Cumbria"
 date: 2012-08-04
-categories: blog archive
+categories: archive
 ---
 
 We finally left the house at about 10:30, and set out for "The Lake District" once more. After six uneventful hours, we finally arrived in Boot, just down the road from Eskdale, with a fantastic chalet to explore. W's parents and brother had arrived a little while before, and wandered round to say hello.

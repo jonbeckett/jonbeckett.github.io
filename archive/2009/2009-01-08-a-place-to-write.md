@@ -2,7 +2,7 @@
 layout: post
 title: "A Place To Write"
 date: 2009-01-08
-categories: blog archive
+categories: archive
 ---
 
 After returning to WordPress a couple of days ago, and writing "Life and Times" after a year long sabbatical writing elsewhere, it feels strangely comforting to be back. It's a place people know as being "mine" on the internet - even if it is hosted by WordPress.

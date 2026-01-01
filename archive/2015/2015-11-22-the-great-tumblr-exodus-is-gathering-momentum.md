@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Tumblr Exodus Is Gathering Momentum"
 date: 2015-11-22
-categories: blog archive
+categories: archive
 ---
 
 Ever since Tumblr appeared on the web back in 2007, people have wondered what to do with it. For many it was a life-streaming scrapbook of sortsa place to quickly record random photos, quotes, conversations, and notes about anything and everything. Before the word "meta" became ubiquitous, the growing community began re-blogging and re-purposing contentoften to share an emotion, a hope, or a dream.

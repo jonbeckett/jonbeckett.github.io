@@ -2,7 +2,7 @@
 layout: post
 title: "Not The End I Promise"
 date: 2012-06-09
-categories: blog archive
+categories: archive
 ---
 
 Once upon a time I would sit down each night and pour the contents of my head into the keyboardtelling tales, relating stories, and finding words to describe the happening of the day. It would appear those days are either coming to an end, or in a state of continued cessation.

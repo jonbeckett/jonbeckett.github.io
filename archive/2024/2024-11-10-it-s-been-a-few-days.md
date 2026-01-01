@@ -2,7 +2,7 @@
 layout: post
 title: "It's been a few days"
 date: 2024-11-10
-categories: blog archive
+categories: archive
 ---
 
 When invited to describe my online journal, I often describe it as "almost daily", but in reality for the last few months it's been "once or twice a week" at best. Quite a step-back from the torrent of rubbish that used to leave my keyboard.

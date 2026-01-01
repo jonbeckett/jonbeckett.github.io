@@ -2,7 +2,7 @@
 layout: post
 title: "Humming in the Kitchen"
 date: 2024-11-30
-categories: blog archive
+categories: archive
 ---
 
 Friday night. Listening to Kate Bush, accompanied by a glass of wine, eating secret cookies that were hidden in the book-case. I forgot all about the cookies - they've been there for weeks.

@@ -2,7 +2,7 @@
 layout: post
 title: "Change Is Good Right"
 date: 2009-02-10
-categories: blog archive
+categories: archive
 ---
 
 I know, I know... I changed the look of this blog again (if you're reading this through an RSS reader, you'll need to click on the title to see the wonderous boringness of the WordPress stock theme I have chosen).

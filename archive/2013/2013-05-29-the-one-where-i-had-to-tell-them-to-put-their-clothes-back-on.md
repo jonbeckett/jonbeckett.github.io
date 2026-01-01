@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Had To Tell Them To Put Their Clothes Back On"
 date: 2013-05-29
-categories: blog archive
+categories: archive
 ---
 
 Our younger daughters had a friend over last night for a sleepover. A boy. Which was fine. Right up to the point where I discovered a scene straight out of Lord of the Flies.

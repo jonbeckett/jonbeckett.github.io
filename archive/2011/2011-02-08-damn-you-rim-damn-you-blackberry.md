@@ -2,7 +2,7 @@
 layout: post
 title: "Damn You Rim Damn You Blackberry"
 date: 2011-02-08
-categories: blog archive
+categories: archive
 ---
 
 My crappy Blackberry crashed this morning after inviting me to update the app store on it. It was the sort of crash that you can't recover from and luckily (due to my own paranoia) I had backed the entire damn thing up a minute before.

@@ -2,7 +2,7 @@
 layout: post
 title: "Boxing Day Morning"
 date: 2021-12-26
-categories: blog archive
+categories: archive
 ---
 
 It's the morning after the day before. A very different Christmas than those that have come before - certainly when compared against the last decade at least. The children are no longer children.

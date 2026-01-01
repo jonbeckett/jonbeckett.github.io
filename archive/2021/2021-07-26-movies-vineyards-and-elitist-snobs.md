@@ -2,7 +2,7 @@
 layout: post
 title: "Movies Vineyards And Elitist Snobs"
 date: 2021-07-26
-categories: blog archive
+categories: archive
 ---
 
 Last night we went out for the first time in 18 months.

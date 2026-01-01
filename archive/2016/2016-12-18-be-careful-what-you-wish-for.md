@@ -2,7 +2,7 @@
 layout: post
 title: "Be Careful What You Wish For"
 date: 2016-12-18
-categories: blog archive
+categories: archive
 ---
 
 You know there's an old saying about being careful what you wish for? I distinctly remember writing a post in the blog about my life becoming increasingly mundane, and having no stories of consequence to tell. I think it's fair to say that situation changed somewhat over the last few days.

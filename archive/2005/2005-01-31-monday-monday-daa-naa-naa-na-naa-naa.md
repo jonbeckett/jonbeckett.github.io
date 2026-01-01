@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Monday Daa Naa Naa Na Naa Naa"
 date: 2005-01-31
-categories: blog archive
+categories: archive
 ---
 
 It was the Mammas and the Pappas wasn't it? (the title of this entry).

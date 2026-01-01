@@ -2,7 +2,7 @@
 layout: post
 title: "Dinner With Friends And Girls Football Tournaments"
 date: 2011-10-08
-categories: blog archive
+categories: archive
 ---
 
 For the first time in at least a couple of years, we went out last night as a "grown up" couplewithout the childrenand had dinner with friends.

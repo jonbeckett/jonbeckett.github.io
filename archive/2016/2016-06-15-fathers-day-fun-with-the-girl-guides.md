@@ -2,7 +2,7 @@
 layout: post
 title: "Fathers Day Fun With The Girl Guides"
 date: 2016-06-15
-categories: blog archive
+categories: archive
 ---
 
 After racing through dinner and washing up this evening, I was whisked off to the playing fields behind the church hall the local Girl Guides meet in to take part in an evening of fun and games. I'll be honest - I really didn't want to go, and hoped the weather might save me (it had bucketed down earlier in the evening). It didn't, and I'm kind of glad - because we did have fun.

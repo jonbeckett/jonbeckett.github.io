@@ -2,7 +2,7 @@
 layout: post
 title: "The Productivity Trap"
 date: 2021-05-26
-categories: blog archive
+categories: archive
 ---
 
 For years I tinkered with all manner of productivity hacks - paper task lists, apps, websites, and so on - I even read some of the more famous books, such as "Getting Things Done", and "The 24 hour work week".

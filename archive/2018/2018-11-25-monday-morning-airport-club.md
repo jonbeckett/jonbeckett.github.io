@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Morning Airport Club"
 date: 2018-11-25
-categories: blog archive
+categories: archive
 ---
 
 The alarm on my phone erupted at 6am this morning, and woke me with a start. I don't remember the dream now, but I remember wanting to return to it. I watched the clock tick through each minute until 6:30am, thinking back through everything I had packed - wondering if I had forgotten anything obvious. Traveling has become so routine, I now worry that I'm not worrying - if that makes any sense.

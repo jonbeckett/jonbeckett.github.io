@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughtcafe Rides Again"
 date: 2008-10-15
-categories: blog archive
+categories: archive
 ---
 
 It's back. Granted, it's not complete (a long way from it actually), but ThoughtCafe exists on the interwebs once more...

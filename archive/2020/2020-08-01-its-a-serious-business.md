@@ -2,7 +2,7 @@
 layout: post
 title: "Its A Serious Business"
 date: 2020-08-01
-categories: blog archive
+categories: archive
 ---
 
 Somehow it's already the first of August. How the hell did that happen? You know how you're about to step in a huge dog turd, and you notice at the last moment, and do an enormous step? It feels like the world did that between February and August.

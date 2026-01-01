@@ -2,7 +2,7 @@
 layout: post
 title: "On The Road Yet Again"
 date: 2012-03-21
-categories: blog archive
+categories: archive
 ---
 
 I woke up at 5:30am this morning, and watched the minutes flicker past on the alarm clock. I reasoned with myself that 6:15 would be the absolute latest I could get out of bed, based on needing a shave, and to check the contents of my work bag. Miss Eight appeared in the bedroom doorway at 5:50am, asking if I was "getting up early yet?".

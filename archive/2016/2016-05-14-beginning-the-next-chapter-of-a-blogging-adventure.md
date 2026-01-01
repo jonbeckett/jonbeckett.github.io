@@ -2,7 +2,7 @@
 layout: post
 title: "Beginning The Next Chapter Of A Blogging Adventure"
 date: 2016-05-14
-categories: blog archive
+categories: archive
 ---
 
 It sometimes feels like this blog has been on an epic journey around the internethosted by all manner of platforms, and migrated between all of the major bloggingservice providers. I'm not quite sure how I've managed to keep it all intact, to be honest. There have been times when I lost great swathes of the posts, but then re-discovered them months later amongold backup data troves.

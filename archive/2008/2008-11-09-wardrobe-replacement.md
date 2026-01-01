@@ -2,7 +2,7 @@
 layout: post
 title: "Wardrobe Replacement"
 date: 2008-11-09
-categories: blog archive
+categories: archive
 ---
 
 I just put a huge order in on the internet for clothes. Part of the wardrobe replacement that I tend to do every year or so.

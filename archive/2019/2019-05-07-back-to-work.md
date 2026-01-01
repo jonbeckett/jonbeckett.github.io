@@ -2,7 +2,7 @@
 layout: post
 title: "Back To Work"
 date: 2019-05-07
-categories: blog archive
+categories: archive
 ---
 
 The clock is ticking towards midnight, and you find me sitting in the dark of the junk room after watching the latest chapter in the Game of Thrones saga. I'm still fighting a chest infection, but that hasn't stopped me putting in a couple more hours of overtime - continuing to quietly construct a software leviathan of sorts. A leviathan that few will ever see, but that may impact more than most would guess.

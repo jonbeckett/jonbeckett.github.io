@@ -2,7 +2,7 @@
 layout: post
 title: "The Dying Of The Light"
 date: 2021-05-10
-categories: blog archive
+categories: archive
 ---
 
 After noticing dusk had fallen a few minutes ago I wandered into the garden to get the washing in, and was met by a wall of cold air. While unpegging clothes and folding them into the basket I listened to the birds singing their twilight song, and smiled at the huffing of a hedgehog somewhere in the undergrowth nearby.

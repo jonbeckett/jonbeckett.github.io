@@ -2,7 +2,7 @@
 layout: post
 title: "The Sun Rises And Heralds A Fightback"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 I worked from home on Wednesday, looking after our seven year old who had started throwing up on Tuesday night. By the end of Wednesday I was throwing up too. Not fun.

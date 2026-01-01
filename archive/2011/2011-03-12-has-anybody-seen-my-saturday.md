@@ -2,7 +2,7 @@
 layout: post
 title: "Has Anybody Seen My Saturday"
 date: 2011-03-12
-categories: blog archive
+categories: archive
 ---
 
 Do you ever have those days where you reach the end, and it seems you've achieved nothing? I'm having one of those days.

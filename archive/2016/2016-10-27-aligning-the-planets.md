@@ -2,7 +2,7 @@
 layout: post
 title: "Aligning The Planets"
 date: 2016-10-27
-categories: blog archive
+categories: archive
 ---
 
 I pulled the trigger on something this morning. Something I have been thinking about for some time. I guess you could call it "aligning the planets", but you could also call it "slipping further under the radar".

@@ -2,7 +2,7 @@
 layout: post
 title: "Just A Few Words Tonight"
 date: 2009-10-14
-categories: blog archive
+categories: archive
 ---
 
 You find me on arrival home from a walk into town - an eleventh hour dash to procure food for dinner - and a hearing of our eldest daughter reading from a book of her teacher's choosing.

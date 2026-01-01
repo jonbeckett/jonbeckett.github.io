@@ -2,7 +2,7 @@
 layout: post
 title: "4 Days Left In London"
 date: 2007-12-17
-categories: blog archive
+categories: archive
 ---
 
 It is Monday morning. I have 4 days left working in London. In a strange sort of way I am going to miss the people I work with - for the last 10 months I have spent more time with them than I have my "real" colleagues. I have come to know them, like them, and value both their experience and friendship.

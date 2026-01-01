@@ -2,7 +2,7 @@
 layout: post
 title: "Jean Michel Jarre"
 date: 2006-03-30
-categories: blog archive
+categories: archive
 ---
 
 I've been sat here programming all night, and thought I would take a bit of a break and tell you what I'm listening to.

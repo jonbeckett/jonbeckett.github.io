@@ -2,7 +2,7 @@
 layout: post
 title: "Single Digits Counting The Days Until We Meet Our Future Children"
 date: 2008-01-24
-categories: blog archive
+categories: archive
 ---
 
 I wanted to clear something up - it would appear many of those who have commented seem to think that we have a few days left until our house is populated with small nuclear devices on legs. Far from it.

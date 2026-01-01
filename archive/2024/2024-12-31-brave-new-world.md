@@ -2,7 +2,7 @@
 layout: post
 title: "Brave new world"
 date: 2024-12-31
-categories: blog archive
+categories: archive
 ---
 
 When the world wide web was shiny and new, causing content to appear within it's rapidly expanding sprawl required a very specific set of skills. Intrepid authors were forced to learn about web servers, databases and arcane scripting languages before announcing their existence to the world. For many it became their first exposure to how computers and the internet really worked.

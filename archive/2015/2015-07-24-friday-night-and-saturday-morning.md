@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Night And Saturday Morning"
 date: 2015-07-24
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards 1am as I sit at the computer. It has rained all day here - from the moment I arrived in the office this morning. It is still raining now, 15 hours later. I'm surprised there is any water left in the sky to fall on us (and before you explain how weather patterns work, I know perfectly well - I'm just being abrasive).

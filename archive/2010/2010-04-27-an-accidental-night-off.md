@@ -2,7 +2,7 @@
 layout: post
 title: "An Accidental Night Off"
 date: 2010-04-27
-categories: blog archive
+categories: archive
 ---
 
 Throughout the recent overtime madness I have been subjecting myself to, I have been working on a laptop with a "virtual machine" running on an external hard drive. The idea behind the external drive is speed - running a pretend computer inside your own requires serious resources, and the hard drive is the thing that gets it worst.

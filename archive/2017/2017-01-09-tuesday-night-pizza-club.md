@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Night Pizza Club"
 date: 2017-01-09
-categories: blog archive
+categories: archive
 ---
 
 After escaping from the office at a little after 6pm this evening, and making the epic journal (about 100 yards) to the hotel, I dropped my backpack, got changed, and set out in search of something to eat for dinner.

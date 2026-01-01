@@ -3,7 +3,6 @@ layout: single
 title: "Bridget Jones"
 date: 2025-03-14
 categories:
-  - blog
   - "2025"
 ---
 

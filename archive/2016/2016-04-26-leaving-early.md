@@ -2,7 +2,7 @@
 layout: post
 title: "Leaving Early"
 date: 2016-04-26
-categories: blog archive
+categories: archive
 ---
 
 It's half past two in the afternoon, and I'm watching my work laptop backup a virtual machine. I'm headed to far flung client sites to demonstrate software tomorrow, and the day afterso am taking the backup as a safeguard of sorts. I'm looking at a 5am alarm tomorrow morningto get to the railway station for 6am, into London, and then north to the other end of the country for 9am in order to meet a co-worker for a quick coffee before reaching the client site at 10, kicking off the first meeting at 10:30. Sometimes you stand back and look at the succession of requirements to "be here at this time", "be there at this time", and start to see your life like a huge inescapable treadmill. Not fun.

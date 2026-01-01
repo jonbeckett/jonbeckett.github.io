@@ -2,7 +2,7 @@
 layout: post
 title: "Stupid Fcking Americans"
 date: 2004-11-03
-categories: blog archive
+categories: archive
 ---
 
 When I woke up this morning and switched the news on, I couldn't quite believe that the American presidential election was so close...

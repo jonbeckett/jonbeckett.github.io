@@ -2,7 +2,7 @@
 layout: post
 title: "Big Blue One"
 date: 2010-04-25
-categories: blog archive
+categories: archive
 ---
 
 Our youngest received money from "Grandad at the Seaside" for her birthday - yesterday was her first chance to spend it. Little did we know that we would be bringing another person into the house.

@@ -2,7 +2,7 @@
 layout: post
 title: "First Training Run"
 date: 2019-10-03
-categories: blog archive
+categories: archive
 ---
 
 After walking nearly 5K to and from work today (thanks Mr Farmer for puncturing my bike tyres with your hedgerow annihilation device), I ate dinner, washed up, and then immediately got changed into my bargain basement running kit to head out with Miss 19.

@@ -2,7 +2,7 @@
 layout: post
 title: "Pulp Fiction"
 date: 2011-10-28
-categories: blog archive
+categories: archive
 ---
 
 I've always been fascinated by "pulp fiction" books, but have never read any.

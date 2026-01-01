@@ -2,7 +2,7 @@
 layout: post
 title: "Nanowrimo"
 date: 2003-10-28
-categories: blog archive
+categories: archive
 ---
 
 For some ridiculous reason, one of my best friends on the internet has talked me into taking part in the nanowrimo competition.

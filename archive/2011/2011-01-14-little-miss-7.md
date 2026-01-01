@@ -2,7 +2,7 @@
 layout: post
 title: "Little Miss 7"
 date: 2011-01-14
-categories: blog archive
+categories: archive
 ---
 
 At just gone 6am the silhouette of a slightly bigger girl appeared in our bedroom doorway and woke us with the words "can we go downstairs?"

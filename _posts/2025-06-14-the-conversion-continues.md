@@ -3,7 +3,6 @@ layout: single
 title: "The conversion continues"
 date: 2025-06-14
 categories:
-  - blog
   - "2025"
 ---
 

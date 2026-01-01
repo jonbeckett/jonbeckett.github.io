@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Weekend Never Happened"
 date: 2014-03-01
-categories: blog archive
+categories: archive
 ---
 
 Before I drift into a nonsensical discussion about reality, causality, parallel universes, and all sorts of other clap-trap, ofcourse the weekend happened. I just didn't have much of a participatory (is that a word?) role in it.

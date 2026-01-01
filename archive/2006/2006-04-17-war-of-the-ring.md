@@ -2,7 +2,7 @@
 layout: post
 title: "War Of The Ring"
 date: 2006-04-17
-categories: blog archive
+categories: archive
 ---
 
 Last year W bought be the "War of the Ring" board game, based on the "Lord of the Rings" books by J.

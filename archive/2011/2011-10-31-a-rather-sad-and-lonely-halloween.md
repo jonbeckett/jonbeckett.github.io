@@ -2,7 +2,7 @@
 layout: post
 title: "A Rather Sad And Lonely Halloween"
 date: 2011-10-31
-categories: blog archive
+categories: archive
 ---
 
 While the children were out having fun this eveningdressed up as various ghouls, caked in face paint, and draped in hilariously camp fancy dress costumes, I sat in a restaurant with my manager, several hours from home after sitting in a far flung office all day. I'm now sat in a pokey guest house room.

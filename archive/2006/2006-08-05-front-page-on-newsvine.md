@@ -2,7 +2,7 @@
 layout: post
 title: "Front Page On Newsvine"
 date: 2006-08-05
-categories: blog archive
+categories: archive
 ---
 
 I don't believe it. I wrote a story on Newsvine and it hit the front page...

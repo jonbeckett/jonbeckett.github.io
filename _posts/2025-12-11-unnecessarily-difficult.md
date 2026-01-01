@@ -3,7 +3,6 @@ layout: single
 title: "Unnecessarily Difficult"
 date: 2025-12-11
 categories:
-  - blog
   - "2025"
 ---
 

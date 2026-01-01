@@ -2,7 +2,7 @@
 layout: post
 title: "Short Form Blogging With Tumblr"
 date: 2010-02-21
-categories: blog archive
+categories: archive
 ---
 
 For the past several days I have been exploring and participating in Tumblr - you might call it a blogging platform, a social network, or a social media site. I'm not sure you can really describe it as any, hence the coining of the term "tumblog" to describe it from within it's own rank and file.

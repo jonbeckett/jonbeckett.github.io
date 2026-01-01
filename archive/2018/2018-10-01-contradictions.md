@@ -2,7 +2,7 @@
 layout: post
 title: "Contradictions"
 date: 2018-10-01
-categories: blog archive
+categories: archive
 ---
 
 It's almost half past seven in the evening, dinner is finished, the washing up is done, the kitchen is clean, the washing machine is on, and I'm in the dark of the study tapping away at the keyboard while the Spotify "Favourite Coffee House" playlist fills the room.

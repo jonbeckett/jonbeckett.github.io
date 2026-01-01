@@ -2,7 +2,7 @@
 layout: post
 title: "Wendys Woolies"
 date: 2006-08-20
-categories: blog archive
+categories: archive
 ---
 
 My better half finally has her own blog on the internet - at present it is hosted at PluggedOut, but it will be getting it's own domain name in the near future. For the moment the URL is www.pluggedout.com/wool.

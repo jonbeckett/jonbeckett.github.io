@@ -2,7 +2,7 @@
 layout: post
 title: "Afflicted"
 date: 2011-02-16
-categories: blog archive
+categories: archive
 ---
 
 The morning at work is rapidly vanishing up its own backside I discovered a virus on my work desktop machine yesterday - which triggered a full scan of the server room, and of any computers that were switched on around the building.

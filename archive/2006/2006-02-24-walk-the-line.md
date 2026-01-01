@@ -2,7 +2,7 @@
 layout: post
 title: "Walk The Line"
 date: 2006-02-24
-categories: blog archive
+categories: archive
 ---
 
 We just got back from watching the movie "Walk the Line". We decided to see it at the last moment when we arrived at the cinema - we had been thinking of going to see "Goodnight, and Good Luck".

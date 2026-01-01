@@ -3,7 +3,6 @@ layout: single
 title: "An Accidental Writer"
 date: 2025-10-24
 categories:
-  - blog
   - "2025"
 ---
 

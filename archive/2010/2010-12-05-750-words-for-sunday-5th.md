@@ -2,7 +2,7 @@
 layout: post
 title: "750 Words For Sunday 5Th"
 date: 2010-12-05
-categories: blog archive
+categories: archive
 ---
 
 The morning started at 8am with the arrival of a certain untidily blonde haired five year old appearing at the foot of our bed, and then climbing up my legs to perch atop my chest with a lunatic grin.

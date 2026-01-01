@@ -3,7 +3,6 @@ layout: single
 title: "The apple doesnt fall far"
 date: 2025-06-03
 categories:
-  - blog
   - "2025"
 ---
 

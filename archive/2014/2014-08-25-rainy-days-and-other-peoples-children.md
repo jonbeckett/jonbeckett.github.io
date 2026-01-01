@@ -2,7 +2,7 @@
 layout: post
 title: "Rainy Days And Other Peoples Children"
 date: 2014-08-25
-categories: blog archive
+categories: archive
 ---
 
 Today is a bank holiday in the UK, so I have the day offwhich is a good job, because it's tipping down with rain, and I feel dreadful. Just to add to the chest infection, I now have a bad head cold. I'm not going to go on and on about feeling awful though (even thought I just did)you don't want to read a "poor is me" post.

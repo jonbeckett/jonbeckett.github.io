@@ -2,7 +2,7 @@
 layout: post
 title: "A Quieter Weekend Than Planned"
 date: 2012-03-12
-categories: blog archive
+categories: archive
 ---
 
 It struck me this afternoon that I haven't written in this blog for whole days. Unheard of.

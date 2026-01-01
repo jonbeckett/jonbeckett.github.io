@@ -2,7 +2,7 @@
 layout: post
 title: "Olympians"
 date: 2012-06-13
-categories: blog archive
+categories: archive
 ---
 
 Our 8 year old is doing a school project on the Olympics, part of which is to prepare a "project board" at homea presentation board covering any aspect of the Olympics she likes.

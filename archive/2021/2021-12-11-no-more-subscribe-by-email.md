@@ -2,7 +2,7 @@
 layout: post
 title: "No More Subscribe By Email"
 date: 2021-12-11
-categories: blog archive
+categories: archive
 ---
 
 If you have been receiving my blog posts via email, I'm afraid your regular updates are about to end. I had been using "Mailchimp" to deliver them recently, and unfortunately it looks like Mailchimp just got acquired by Intuit. I hate this aspect of American culture - the rampaging capitalism that eventually destroyes anything and everything that was once good.

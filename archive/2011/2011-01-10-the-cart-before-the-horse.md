@@ -2,7 +2,7 @@
 layout: post
 title: "The Cart Before The Horse"
 date: 2011-01-10
-categories: blog archive
+categories: archive
 ---
 
 I have been wondering recently how I have managed to write online for 7 years, and - perhaps more amazingly - how I've managed to keep hold of the majority of my writing during that time.

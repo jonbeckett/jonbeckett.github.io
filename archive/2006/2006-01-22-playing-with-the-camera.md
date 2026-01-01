@@ -2,7 +2,7 @@
 layout: post
 title: "Playing With The Camera"
 date: 2006-01-22
-categories: blog archive
+categories: archive
 ---
 
 Okay... I've been playing with the new camera (at last)

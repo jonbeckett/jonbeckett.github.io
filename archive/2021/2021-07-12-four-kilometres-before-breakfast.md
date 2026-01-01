@@ -2,7 +2,7 @@
 layout: post
 title: "Four Kilometres Before Breakfast"
 date: 2021-07-12
-categories: blog archive
+categories: archive
 ---
 
 After watching the alarm clock digits tick over for the better part of half an hour this morning, I eventually slid out of bed and retrieved a pair of running shorts from the bedside drawer.

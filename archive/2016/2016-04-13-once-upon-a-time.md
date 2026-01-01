@@ -2,7 +2,7 @@
 layout: post
 title: "Once Upon A Time"
 date: 2016-04-13
-categories: blog archive
+categories: archive
 ---
 
 Once upon a time I used to write a personal blog. It was filled with candid moments from the day. It was interesting, in a slightly voyeuristic way. It told stories, recorded memories, and wandered from subject to subject like a leaf floating along a river. Somehow, somewhere along the way, it stopped being about life, and started being about nothing in particularand nothing in particular isn't particularly interesting. Something needs to be done about it, and that something is starting now.

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Tumblr Arsed My Theme Up Again"
 date: 2011-02-10
-categories: blog archive
+categories: archive
 ---
 
 I tried to make one change to the theme, and it completely randomized the configuration of the colours and various constants within the theme.

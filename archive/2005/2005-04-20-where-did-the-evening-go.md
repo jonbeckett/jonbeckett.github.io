@@ -2,7 +2,7 @@
 layout: post
 title: "Where Did The Evening Go"
 date: 2005-04-20
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here typing this at 23:06 and wondering where on earth the evening went...

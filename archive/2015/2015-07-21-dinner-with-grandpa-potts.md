@@ -2,7 +2,7 @@
 layout: post
 title: "Dinner With Grandpa Potts"
 date: 2015-07-21
-categories: blog archive
+categories: archive
 ---
 
 After work this evening I decided it was time tovisit the local public house for dinner once again - to have a hot meal if nothing else. The arduous journey - all 100 yards of it - took almost a minute. I was worn out, so thought I better buy a drink.

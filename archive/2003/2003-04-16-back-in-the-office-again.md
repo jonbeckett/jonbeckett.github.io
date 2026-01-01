@@ -2,7 +2,7 @@
 layout: post
 title: "Back In The Office Again"
 date: 2003-04-16
-categories: blog archive
+categories: archive
 ---
 
 It's lunchtime, and I am back in the office at work once more.

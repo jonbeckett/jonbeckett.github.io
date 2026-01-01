@@ -2,7 +2,7 @@
 layout: post
 title: "Running Around In Circles"
 date: 2016-01-21
-categories: blog archive
+categories: archive
 ---
 
 Today has been interesting. From the cycle to work through insane traffic, to the morning conference call where somebody accidentally said more than they should, to the awkwardly hilarious conversation that took place in the office this afternoon (that I obviously can't share), to the eating dinner while stood in the kitchen, to washing up before racing to soccer practice with Miss 10, and then wandering back through the inky dark night to empty my head into the keyboard. The day has just not stopped.

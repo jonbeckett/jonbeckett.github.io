@@ -2,7 +2,7 @@
 layout: post
 title: "Through My Eyes"
 date: 2017-12-03
-categories: blog archive
+categories: archive
 ---
 
 I started uploading photos to Flickr earlier today. Quite when I'll get around to properly labelling, tagging, and curating them is something of a mystery at the moment. I started the long and arduous boring process earlier, but didn't get very far.

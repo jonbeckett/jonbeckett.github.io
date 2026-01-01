@@ -2,7 +2,7 @@
 layout: post
 title: "Home Is Where The Key Fits"
 date: 2012-02-06
-categories: blog archive
+categories: archive
 ---
 
 Welcome to my humble abode for the evening. I'm not going to tell you exactlywhich hotel, owned by exactlywhich chain I am in, for fear of betraying my position to enemy spies. Ahem.

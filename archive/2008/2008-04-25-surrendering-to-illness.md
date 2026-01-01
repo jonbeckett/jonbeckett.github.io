@@ -2,7 +2,7 @@
 layout: post
 title: "Surrendering To Illness"
 date: 2008-04-25
-categories: blog archive
+categories: archive
 ---
 
 I haven't been well for a week or so - but had so far just kept going - got on with things - carried on. This morning I woke with very little voice (but a very good Russel Crowe/Gladiator impersonation), a head filled with snot, and very little energy. Not exactly condusive to going to work and filling my head with Microsoft Office SharePoint Server architecture.

@@ -2,7 +2,7 @@
 layout: post
 title: "New Years Day"
 date: 2020-01-01
-categories: blog archive
+categories: archive
 ---
 
 It's the first day of a new year. The first day of a new decade. You might think I would have invested some considerable effort in a thought provoking stream of consciousness about the direction my life has taken over the past twelve months, and the direction it might take in the future.

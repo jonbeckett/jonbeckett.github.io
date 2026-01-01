@@ -2,7 +2,7 @@
 layout: post
 title: "Way Behind"
 date: 2006-05-18
-categories: blog archive
+categories: archive
 ---
 
 I know - I'm way behind with my blog.

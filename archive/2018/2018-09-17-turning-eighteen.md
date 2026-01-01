@@ -2,7 +2,7 @@
 layout: post
 title: "Turning Eighteen"
 date: 2018-09-17
-categories: blog archive
+categories: archive
 ---
 
 At dinner last night I gently reminded our daughter about the reality of the situation she would face this morning. Yes, she can now buy alcohol, watch adult movies, buy top shelf magazines, and all the other things - but none of those things are really that important.

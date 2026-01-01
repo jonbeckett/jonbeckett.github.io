@@ -2,7 +2,7 @@
 layout: post
 title: "Considering Doing This Whole Blogging Lark Properly"
 date: 2010-01-25
-categories: blog archive
+categories: archive
 ---
 
 The next sentence is going to cause a number of people to slap their own foreheads with their hands - perhaps the entire readership - you know, all six of you. I'm just warning you in advance so you don't try and blame me for personal injury.

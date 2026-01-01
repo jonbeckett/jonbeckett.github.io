@@ -2,7 +2,7 @@
 layout: post
 title: "Its Official I Hate The Mustard Theme"
 date: 2010-03-15
-categories: blog archive
+categories: archive
 ---
 
 I don't quite know why I chose the mustard theme. It seemed like a good idea at the time. On reflection, it was pretty crap, wasn't it. Awful in fact. I suspect a few kind words were said by those who quietly had their fingers down their throat.

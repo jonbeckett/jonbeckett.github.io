@@ -2,7 +2,7 @@
 layout: post
 title: "Mediocrity"
 date: 2009-02-10
-categories: blog archive
+categories: archive
 ---
 
 If you look up mediocrity in the dictionary, you find the following;

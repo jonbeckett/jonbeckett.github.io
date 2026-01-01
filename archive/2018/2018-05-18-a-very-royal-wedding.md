@@ -2,7 +2,7 @@
 layout: post
 title: "A Very Royal Wedding"
 date: 2018-05-18
-categories: blog archive
+categories: archive
 ---
 
 While a great many people both in England, and around the world watched Harry and Meghan tie the knot in St. George's Chapel, we stood on the touchline of a rugby pitch in Aylesbury cheering on the Royal Air Force and Metropolitan Police rugby teams, and being hugely impressed by the air force police dog demonstrations.

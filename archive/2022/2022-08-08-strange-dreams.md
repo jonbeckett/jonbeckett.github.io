@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Dreams"
 date: 2022-08-08
-categories: blog archive
+categories: archive
 ---
 
 I woke early this morning, moments after a radio station filled the bedroom with music from decades past. After spending several minutes watching light patterns dance across the wall, and listening to birds singing in the trees outside, I fell back asleep.

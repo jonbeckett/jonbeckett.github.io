@@ -2,7 +2,7 @@
 layout: post
 title: "Clothes Shopping"
 date: 2016-10-30
-categories: blog archive
+categories: archive
 ---
 
 I don't like shopping for clothes. There. I said it. I'm not entirely sure why, either. Perhaps it's the label victims wandering around stores - the people that have dressed up to go shopping. Perhaps it's the people that regard going shopping as a fun activity in and of itself (I can't imagine anything more idiotic). Or perhaps it's the people who walk into a shop with no idea what they might buy - aimlessly wondering what they might waste money on next.

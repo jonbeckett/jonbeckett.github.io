@@ -2,7 +2,7 @@
 layout: post
 title: "Juggling Too Many Balls"
 date: 2013-11-16
-categories: blog archive
+categories: archive
 ---
 
 Most people look forward to the weekend with a mixture of relief and optimism. My recent experience has been somewhat different, because invariably the two days "away from work" have been filled to the gunnels with things to do, places to go, items to deliver, chores to complete, and any number of other activities.

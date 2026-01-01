@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Xbox 360 Was Delivered And Probably Stolen"
 date: 2012-05-04
-categories: blog archive
+categories: archive
 ---
 
 A few nights ago I ordered an XBox 360 from Amazon, along with a few games. It would appear the XBox isn't going to get here because the delivery driver has either (a) lied and not delivered it yet, (b) lied and stolen it, or (c) left it without being signed for outside an office door that was open, and it's been stolen.

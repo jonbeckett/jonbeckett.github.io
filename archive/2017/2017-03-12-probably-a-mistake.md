@@ -2,7 +2,7 @@
 layout: post
 title: "Probably A Mistake"
 date: 2017-03-12
-categories: blog archive
+categories: archive
 ---
 
 I quietly re-joined Tumblr [https://telespoke.tumblr.com/] a few days ago. I've been posting links to the forgettable detritus I post here, but can feel gravity well pulling me slowly back in. It's probably a mistake, and yes, I know I'm over-thinking it.

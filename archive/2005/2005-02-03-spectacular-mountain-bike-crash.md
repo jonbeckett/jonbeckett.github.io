@@ -2,7 +2,7 @@
 layout: post
 title: "Spectacular Mountain Bike Crash"
 date: 2005-02-03
-categories: blog archive
+categories: archive
 ---
 
 Last night I had the most spectacular mountain bike accident in my own living memory...

@@ -2,7 +2,7 @@
 layout: post
 title: "Ice Cream And Movies"
 date: 2019-06-25
-categories: blog archive
+categories: archive
 ---
 
 There is a tub of chocolate ice cream waiting in the freezer for me. I bought it during a trip to the local store with our youngest daughter this evening. She appeared quietly in the junk room and quietly asked if I might accompany her. After asking why, she whispered somewhat conspiratorially that we were running out of a particular sanitary product that she needed. I quietly smiled, dropped everything, and pulled my shoes on.

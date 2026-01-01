@@ -2,7 +2,7 @@
 layout: post
 title: "Recounting The Week After The Worlds End"
 date: 2014-08-31
-categories: blog archive
+categories: archive
 ---
 
 I keep falling into the trap of only writing when I have "something to say" worth sharing. The problem is the "worth sharing" bitbecause it's based on what I think others might want to readnot what I might want to write. I am of course over-thinking the entire thing, which is half the reason I have not written anything for several daysand now I've written an entire paragraph about nothing at all. That requires some kind of useless talent, doesn't it? or at least a talent in being useless?This week was something of a stress filled roller coaster.

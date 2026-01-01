@@ -2,7 +2,7 @@
 layout: post
 title: "In Fear Of The Mountain"
 date: 2018-10-24
-categories: blog archive
+categories: archive
 ---
 
 A few days ago - when I made the decision to have a crack at NaNoWriMo this year, it seemed kind of like a mountain in the distance. I could see all of it, and it wasn't too intimidating at all. Of course now we're much closer to the mountain, and I'm starting to freak out just a little bit.

@@ -2,7 +2,7 @@
 layout: post
 title: "Considering A Reboot Of Online Friendships"
 date: 2010-05-18
-categories: blog archive
+categories: archive
 ---
 
 CiX, Compuserve, innumerable bulletin board systems, Yahoo 360, Blogger, DiaryLand, LiveJournal, Vox, WordPress, Identica, Facebook, Cliqset, Plurk, Twitter... the list goes on and on. Places I have connected with all manner of people over the past fifteen years or so - places where friendships were forged as our lives crossed paths somewhere out in the electronic firmament.

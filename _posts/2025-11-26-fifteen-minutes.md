@@ -3,7 +3,6 @@ layout: single
 title: "Fifteen Minutes"
 date: 2025-11-26
 categories:
-  - blog
   - "2025"
 ---
 

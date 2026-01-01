@@ -2,7 +2,7 @@
 layout: post
 title: "The Loneliness Of The Short Distance Runner"
 date: 2020-07-20
-categories: blog archive
+categories: archive
 ---
 
 I woke the first time with a start at 5am. I know this, because I looked at the clock before falling back asleep. I woke the second time at 8am, remembered I am on holiday, but also remembered about going running. One little voice said "but the bed is so comfy!", while another little voice said "you'll get enormously fat". I'm turning into Gollum.

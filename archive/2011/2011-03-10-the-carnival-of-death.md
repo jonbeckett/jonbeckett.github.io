@@ -2,7 +2,7 @@
 layout: post
 title: "The Carnival Of Death"
 date: 2011-03-10
-categories: blog archive
+categories: archive
 ---
 
 Late yesterday evening I sat at the dining table with the laptop, checking email before going to bed. The catflap made it's "clunk clunk" noise heralding the arrival of one of our cats back into the house, and I glanced up.

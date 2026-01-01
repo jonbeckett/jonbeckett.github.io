@@ -2,7 +2,7 @@
 layout: post
 title: "Inciting A Tumblr Exodus"
 date: 2015-11-30
-categories: blog archive
+categories: archive
 ---
 
 I posted to Tumblr earlier this evening, inviting people toswitch to WordPress. There has been a significant amount of discontent among the small community of people that use Tumblr as a blogging platform, following the removal of any reply or comment facilities a few weeks ago. In my mind, without any form of comment functionality, Tumblr ceases to be a blogging platform.

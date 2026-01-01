@@ -2,7 +2,7 @@
 layout: post
 title: "9 Years Approaches"
 date: 2011-11-28
-categories: blog archive
+categories: archive
 ---
 
 While reading "ParisLemon" this morning (the tumblog of former tech journalist MG Siegler), it occurred to me that a rather significant milestone is approachingas 2011 becomes 2012, my blog will be 9 years old.

@@ -2,7 +2,7 @@
 layout: post
 title: "What Light Through Yonder Window Breaks"
 date: 2011-12-03
-categories: blog archive
+categories: archive
 ---
 
 How is it December already? I only realised it was december when I looked at my watch just now, and it's already saying it's the 3rd? Have I really been that much out of the loop? I guess I haveEntering the final afternoon of development work in preparation for a week away, I received word that the week away is now three days away, and I will not be travelling until Wednesday next week. Great. While I'm happy that I'm not away for too long, it doesn't change the fact that all our plans are already cancelled for the week ahead.

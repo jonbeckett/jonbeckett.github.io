@@ -2,7 +2,7 @@
 layout: post
 title: "One Messenger To Rule Them All"
 date: 2008-11-18
-categories: blog archive
+categories: archive
 ---
 
 While waiting for the idiotically crap source code repository called PVCS to dribble files into my computer this afternoon, I caught up with one of my friends on Skype - and we enabled the video connection.

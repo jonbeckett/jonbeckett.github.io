@@ -2,7 +2,7 @@
 layout: post
 title: "Cycling Home"
 date: 2013-04-29
-categories: blog archive
+categories: archive
 ---
 
 While cycling home tonight I found my thoughts filled with the girl I have worked with for the last three years, who spends her last day working with me tomorrow. Quite bizarrely, a conversation from "The Day The Earth Stood Still" is also swimming around my head. I think it's the scene where the scientist's father talks to the alien, and postulates that it's only on the precipice that we are really alive - that we change, that we grow. Tomorrow is going to be one of those days.

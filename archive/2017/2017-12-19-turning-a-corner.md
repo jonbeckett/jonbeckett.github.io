@@ -2,7 +2,7 @@
 layout: post
 title: "Turning A Corner"
 date: 2017-12-19
-categories: blog archive
+categories: archive
 ---
 
 Final conference call done. Final expense claim filed. It feels like I'm lifting rocks from an imaginary back-pack and casting them aside, one at a time. I have little or nothing left to do - after months of craziness, it feels strange. Two and a half days to go. I'm not entirely sure how I'm going to sit around in the office and successfully "look busy".

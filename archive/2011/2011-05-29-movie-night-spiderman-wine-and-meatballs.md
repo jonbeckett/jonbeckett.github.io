@@ -2,7 +2,7 @@
 layout: post
 title: "Movie Night Spiderman Wine And Meatballs"
 date: 2011-05-29
-categories: blog archive
+categories: archive
 ---
 
 After another day spent almost exclusively with the children, we ended it by choosing a movie to watch together after dinner. Spiderman won the day, after a debate about the age advisory on it (it's a "12"), and how much our eldest might play on that to avoid going to bed.She did get play on it, but gave in after my better half threatened all manner of draconian sanctions to last throughout half-term. Our kids have still not realised we hold all the trump cards in just about every stand-off.

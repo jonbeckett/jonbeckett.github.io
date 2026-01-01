@@ -2,7 +2,7 @@
 layout: post
 title: "Slowing Down Is Difficult"
 date: 2019-03-25
-categories: blog archive
+categories: archive
 ---
 
 After several weeks of preparations, and a manic weekend trying to juggle everything involved in a major birthday party for my other half, sixty guests, caterers, music, and then a day of reversing that entire process, I'm running on fumes. Staying up throughout Saturday night probably didn't help - I tried to stay awake, but found myself almost falling asleep on my feet on Sunday afternoon. I went to bed for an hour, and slept for three hours. Go figure.

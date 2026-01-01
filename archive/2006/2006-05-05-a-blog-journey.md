@@ -2,7 +2,7 @@
 layout: post
 title: "A Blog Journey"
 date: 2006-05-05
-categories: blog archive
+categories: archive
 ---
 
 So we set out on another "Blog Journey". If you have no idea what I'm about to do, a little explanation is probably in order...

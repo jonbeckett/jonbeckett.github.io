@@ -2,7 +2,7 @@
 layout: post
 title: "Tired And Lacking Motivation"
 date: 2004-07-02
-categories: blog archive
+categories: archive
 ---
 
 Listless

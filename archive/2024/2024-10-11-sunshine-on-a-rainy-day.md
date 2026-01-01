@@ -2,7 +2,7 @@
 layout: post
 title: "Sunshine on a rainy day"
 date: 2024-10-11
-categories: blog archive
+categories: archive
 ---
 
 After working solidly throughout the year, I have ended up with almost all of my holiday allocation untouched. This is not unusual, given my character, personality, or whatever you might describe as "the way I am". I've always been happier to be busy than at a loose end -- and have no doubt been taken advantage of in the past.

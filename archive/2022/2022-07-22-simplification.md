@@ -2,7 +2,7 @@
 layout: post
 title: "Simplification"
 date: 2022-07-22
-categories: blog archive
+categories: archive
 ---
 
 A very short post this Friday afternoon that will mean very little to very few. My blog posts originate from an account at Substack, and are cross-posted automagically into Tumblr and Wordpress by the cloud magicians at Zapier. Thus far the account name at Substack has been "jonathanwrotethis", and it has always annoyed me a bit, because it's not the same as my Twitter, Instagram, and Facebook account names.

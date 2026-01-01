@@ -2,7 +2,7 @@
 layout: post
 title: "One Foot In Front Of The Other"
 date: 2018-04-04
-categories: blog archive
+categories: archive
 ---
 
 My entire life seems to be a continual treadmill at the moment. Get up, shower, go to work, stress out for several hours, go grocery shopping, come home, eat, wash up, decompress, write a blog post, go to bed. Again, and again, and again.

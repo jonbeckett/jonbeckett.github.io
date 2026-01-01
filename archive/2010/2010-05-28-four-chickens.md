@@ -2,7 +2,7 @@
 layout: post
 title: "Four Chickens"
 date: 2010-05-28
-categories: blog archive
+categories: archive
 ---
 
 When the children awoke early this morning and saw me walk past on the upstairs landing, they didn't greet me with "Dad!". They shouted "we got new chickens!".

@@ -2,7 +2,7 @@
 layout: post
 title: "The Slog Continues"
 date: 2006-07-18
-categories: blog archive
+categories: archive
 ---
 
 This is going to sound mad... it is Tuesday evening, and I am already crossing the 24 hours of work mark for the week so far. The subject of study this evening is "Code Access Security" - or more accurately, "How to strong name user control and web service assemblies, and then register those assemblies for use on a client computer".

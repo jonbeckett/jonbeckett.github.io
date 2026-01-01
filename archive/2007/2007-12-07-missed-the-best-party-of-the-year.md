@@ -2,7 +2,7 @@
 layout: post
 title: "Missed The Best Party Of The Year"
 date: 2007-12-07
-categories: blog archive
+categories: archive
 ---
 
 We are both at home ill now, and made to feel even worse by the knowledge that we missed W's work's christmas party last night - which was held at Pinewood studios in among all the James Bond props. Dress code was formal. Apparently it was a brilliant night.

@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where Friday Didnt Happen"
 date: 2015-02-20
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in the study, half listening to the "Favourite Coffee House" mix on Spotify, and half wondering what I'm going to do with the rest of the day. I was supposed to be at the zoo with the kids today. Miss 14 spectacularly threw a spanner into that as soon as we woke this morning. The younger children left at half nine. I am stuck here "keeping an eye on her" (read: doing what the hell I like, because she has used up all her chances).

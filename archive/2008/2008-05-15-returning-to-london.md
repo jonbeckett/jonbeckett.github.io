@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To London"
 date: 2008-05-15
-categories: blog archive
+categories: archive
 ---
 
 It's looking like I'm back off to London for a few days each week to work with the same people I worked with last year.

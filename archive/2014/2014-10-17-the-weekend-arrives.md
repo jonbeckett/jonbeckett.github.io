@@ -2,7 +2,7 @@
 layout: post
 title: "The Weekend Arrives"
 date: 2014-10-17
-categories: blog archive
+categories: archive
 ---
 
 Another week has passed. Another week just like the week before. The weekend ahead is just like last weekend. I may as well re-title my life "Groundhog" something-or-other. I guess that presumes my life had a title to begin with. Which it doesn't.

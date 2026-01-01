@@ -2,7 +2,7 @@
 layout: post
 title: "Fear Uncertainty And Doubt"
 date: 2021-10-03
-categories: blog archive
+categories: archive
 ---
 
 Something has been annoying me for months, if not years. You could say it all started with social media, but that wouldn't be true. It really started with tabloid newspapers, and the lack of accountability or veracity displayed by various actors purporting to report "news" to the world.

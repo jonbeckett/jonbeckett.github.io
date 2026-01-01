@@ -2,7 +2,7 @@
 layout: post
 title: "Blogs Bloggers And Blogging"
 date: 2008-04-22
-categories: blog archive
+categories: archive
 ---
 
 Over the past few days I have been thinking about my involvement in the internet - the blogs I write, the communities I participate in, and the blogs I read.

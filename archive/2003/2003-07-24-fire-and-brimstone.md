@@ -2,7 +2,7 @@
 layout: post
 title: "Fire And Brimstone"
 date: 2003-07-24
-categories: blog archive
+categories: archive
 ---
 
 It's Thursday afternoon, and the world seems to be falling down around my ears. I am working alone on the upper floor of the company. There are presently four urgent helpdesk calls open, and I'm supposed to be working on a demo for Monday (on a ridiculously short timescale). I guess you could call this blog entry a drowning rant.

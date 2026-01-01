@@ -2,7 +2,7 @@
 layout: post
 title: "Random Tuesday Brings Calm And Serenity"
 date: 2011-10-18
-categories: blog archive
+categories: archive
 ---
 
 The universe finally seems to be tilting back in my favour. Multiple work projects are being delivered in multiple directionsI am a virtual Shiva today (well the many handed part works well, but the "destroyer" part doesn't quite).

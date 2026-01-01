@@ -2,7 +2,7 @@
 layout: post
 title: "Free Beer At The Brewery"
 date: 2011-03-09
-categories: blog archive
+categories: archive
 ---
 
 It sounds too good to be true, doesn't it - a chance to visit a brewery and drink free beer all evening. And yet that's exactly what I did last night with my brother in law.

@@ -2,7 +2,7 @@
 layout: post
 title: "Our First Wedding"
 date: 2008-06-22
-categories: blog archive
+categories: archive
 ---
 
 W's Uncle Peter got married on Saturday to a wonderful lady called Janet. The horrendous weather miraculously stayed clear throughout the day, and provided our girls their first opportunity to meet more of W's family. We realised during the day just how well behaved our girls are - and while it's not an accident (we have to moderate everything we do and say to encourage it), it makes days out very much easier than they might be otherwise. There appears to be a huge difference in the behaviour of little boys and girls too - that we had not seen illustrated so starkly before. The boys seemed so much more independent, spirited and mischeivous than the girls.

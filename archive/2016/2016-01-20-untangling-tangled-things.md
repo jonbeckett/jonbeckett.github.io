@@ -2,7 +2,7 @@
 layout: post
 title: "Untangling Tangled Things"
 date: 2016-01-20
-categories: blog archive
+categories: archive
 ---
 
 There I was, sitting down to enjoy the rather pathetic lunch I had made as an afterthought before leaving the house this morning, leaning over the keyboard munching on a pretty rubbish bagel, when I tried to copy and paste the blog post I had written a minutes previously into a Google+ post.Hrmmf. It didn't work.

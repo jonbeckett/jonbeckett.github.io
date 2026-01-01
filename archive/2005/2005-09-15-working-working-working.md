@@ -2,7 +2,7 @@
 layout: post
 title: "Working Working Working"
 date: 2005-09-15
-categories: blog archive
+categories: archive
 ---
 
 Today finds me sat at my desk at work somewhat pleased that I am not out in the rain.

@@ -2,7 +2,7 @@
 layout: post
 title: "Walking The Streets"
 date: 2007-02-28
-categories: blog archive
+categories: archive
 ---
 
 I have just spent the last three quarters of an hour walking the streets of London around the place I am working - in the spitting rain - both to stretch my legs, and to get some bearings.

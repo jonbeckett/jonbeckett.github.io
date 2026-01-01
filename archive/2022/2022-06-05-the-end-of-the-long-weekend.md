@@ -2,7 +2,7 @@
 layout: post
 title: "The End Of The Long Weekend"
 date: 2022-06-05
-categories: blog archive
+categories: archive
 ---
 
 The four day weekend for the Queen's jubilee is coming to an end.

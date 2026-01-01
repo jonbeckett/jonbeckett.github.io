@@ -2,7 +2,7 @@
 layout: post
 title: "And So The Blogging Odyssey Turns Another Corner"
 date: 2011-06-17
-categories: blog archive
+categories: archive
 ---
 
 It's Friday night, and I find myself greeting the authoring page of WordPress as one might an old friend. There have been pretenders to the crownPosterous, Bloggerand in recent days much has been written about the rise of Tumblr, its stellar traffic, leagues of members, and sea of rich content.

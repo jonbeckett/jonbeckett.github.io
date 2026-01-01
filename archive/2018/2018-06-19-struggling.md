@@ -2,7 +2,7 @@
 layout: post
 title: "Struggling"
 date: 2018-06-19
-categories: blog archive
+categories: archive
 ---
 
 I seem to have fallen off the "post every day" horse quite spectacularly in recent weeks. I'm thinking this is a good thing. I know one or two people look out for my posts, and that's all sorts of wonderful, but if I have little to report, it always seems a bit forced.

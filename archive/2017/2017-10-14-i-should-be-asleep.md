@@ -2,7 +2,7 @@
 layout: post
 title: "I Should Be Asleep"
 date: 2017-10-14
-categories: blog archive
+categories: archive
 ---
 
 I have a taxi to the airport arriving early tomorrow morning. At the time of writing it's ten minutes until midnight, and yet here I am, still up. I thought processing a few thoughts might help me sleep.

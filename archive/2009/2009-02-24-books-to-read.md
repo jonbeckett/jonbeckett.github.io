@@ -2,7 +2,7 @@
 layout: post
 title: "Books To Read"
 date: 2009-02-24
-categories: blog archive
+categories: archive
 ---
 
 I love reading - I just wish I could find more time to devote to it. For the past several months, most waking hours have been spent buried in work of some kind or another - either the day job, or freelance. I'm thinking that perhaps if I share the list of books I would like to read some time soon (most of which I already own, or have borrowed from friends), it might shame me into doing something about it...

@@ -2,7 +2,7 @@
 layout: post
 title: "Could Nanowrimo Be Attempted On Twitter "
 date: 2010-10-26
-categories: blog archive
+categories: archive
 ---
 
 Just did some mental arithmetic

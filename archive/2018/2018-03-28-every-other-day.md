@@ -2,7 +2,7 @@
 layout: post
 title: "Every Other Day"
 date: 2018-03-28
-categories: blog archive
+categories: archive
 ---
 
 I seem to have fallen into a pattern of posting to the blog every other day. I'm not sure how it happened, but it does feel less forced. I really don't lead an interesting enough life to post every day.

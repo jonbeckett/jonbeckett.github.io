@@ -2,7 +2,7 @@
 layout: post
 title: "Productivity Tip How To Prune Your Blogroll"
 date: 2009-01-08
-categories: blog archive
+categories: archive
 ---
 
 If you're anything like me you have an enormous list of feeds in Google Reader that you don't keep on top of at all. From time to time you go in with a proverbial hatchet, and start clicking "mark all as read".

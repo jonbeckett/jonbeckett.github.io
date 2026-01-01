@@ -2,7 +2,7 @@
 layout: post
 title: "A Unicorn Of Sorts"
 date: 2017-01-28
-categories: blog archive
+categories: archive
 ---
 
 While reading a comment from a long-time reader of my blog earlier, it struck me that there are relatively few of us left. By "us", I mean the bloggers of the old world - the ones that started it all. Werecord the most random thoughts, hopes, dreams, and daily miscellany for others to stumble upon. There used to be many more of us - we have become increasingly rare over the years.

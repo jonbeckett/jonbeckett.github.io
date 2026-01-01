@@ -2,7 +2,7 @@
 layout: post
 title: "Camping Is Great"
 date: 2003-05-28
-categories: blog archive
+categories: archive
 ---
 
 We went camping over the weekend (and I had yesterday off - 4 day weekend 

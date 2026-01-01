@@ -2,7 +2,7 @@
 layout: post
 title: "A Mental Health Walk"
 date: 2021-02-08
-categories: blog archive
+categories: archive
 ---
 
 I walked into town after lunch with two of my daughters - a "mental health walk" - an escape from the walls that have been our prisoner for several weeks. It was good to get out of the house, if only for an hour.

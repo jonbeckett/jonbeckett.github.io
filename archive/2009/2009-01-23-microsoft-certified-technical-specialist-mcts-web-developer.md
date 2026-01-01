@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft Certified Technical Specialist Mcts Web Developer"
 date: 2009-01-23
-categories: blog archive
+categories: archive
 ---
 
 After several years working with the Microsoft .

@@ -2,7 +2,7 @@
 layout: post
 title: "Approved To Adopt Children"
 date: 2007-09-28
-categories: blog archive
+categories: archive
 ---
 
 After two years of soul searching, reading, studying, attending courses, and having every nook and cranny of our professional, social and personal lives investigated by the authorities, we found ourselves sat in Aylesbury county hall earlier today, waiting to face an enormous panel of social workers, police, psychologists, educators, health workers, doctors, and civil servants in order that they could delivery their judgement on our being allowed to adopt children.

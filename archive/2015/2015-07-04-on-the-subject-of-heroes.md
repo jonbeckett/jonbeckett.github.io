@@ -2,7 +2,7 @@
 layout: post
 title: "On The Subject Of Heroes"
 date: 2015-07-04
-categories: blog archive
+categories: archive
 ---
 
 This morning I wandered up to the middle school summer fete, arriving in time to see our younger children take part in a dance performance. After making conversation with various friends, a whisper rumbled across the field - "they're coming!"

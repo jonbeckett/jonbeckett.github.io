@@ -2,7 +2,7 @@
 layout: post
 title: "Slogging Away"
 date: 2004-09-22
-categories: blog archive
+categories: archive
 ---
 
 Some days it feels like you are slogging away and not really getting anywhere.

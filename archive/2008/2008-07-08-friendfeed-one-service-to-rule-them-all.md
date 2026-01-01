@@ -2,7 +2,7 @@
 layout: post
 title: "Friendfeed One Service To Rule Them All"
 date: 2008-07-08
-categories: blog archive
+categories: archive
 ---
 
 Over the past several weeks I have been using FriendFeed as a quick and convenient means of keeping track of what's going on in the IT world. It strikes me that I am spending more and more time within FriendFeed, and less time in the sites it aggregates data from.

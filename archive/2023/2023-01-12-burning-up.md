@@ -2,7 +2,7 @@
 layout: post
 title: "Burning Up"
 date: 2023-01-12
-categories: blog archive
+categories: archive
 ---
 
 After deteriorating through much of the day before, I called in sick yesterday - the first time I have called in sick in about eighteen months.

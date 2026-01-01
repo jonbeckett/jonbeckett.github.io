@@ -2,7 +2,7 @@
 layout: post
 title: "Name Five Things That Live In The Sea"
 date: 2012-05-02
-categories: blog archive
+categories: archive
 ---
 
 We always try and sit together at the table for meals - be that breakfast, lunch at weekends, or evening meals in the week. Quite apart from instilling family values in the children while they are small, it was often an excuse to get our youngest talking.

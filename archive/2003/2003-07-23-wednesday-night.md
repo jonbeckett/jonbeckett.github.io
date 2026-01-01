@@ -2,7 +2,7 @@
 layout: post
 title: "Wednesday Night"
 date: 2003-07-23
-categories: blog archive
+categories: archive
 ---
 
 It's wednesday night, and I'm sat here fiddling around with the code that makes up the page you are reading right now. I'm worried that the whole thing is a bit boring and "corporate" looking - hence the sudden appearance of pictures.

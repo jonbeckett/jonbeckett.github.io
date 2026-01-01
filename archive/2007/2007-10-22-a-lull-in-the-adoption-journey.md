@@ -2,7 +2,7 @@
 layout: post
 title: "A Lull In The Adoption Journey"
 date: 2007-10-22
-categories: blog archive
+categories: archive
 ---
 
 We find ourselves becalmed at the moment.

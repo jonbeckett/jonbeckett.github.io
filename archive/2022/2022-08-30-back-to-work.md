@@ -2,7 +2,7 @@
 layout: post
 title: "Back To Work"
 date: 2022-08-30
-categories: blog archive
+categories: archive
 ---
 
 I won't lie - there was a feeling of dread at 7am this morning when the alarm clock filled the bedroom with an internet radio station. I drifted in and out of sleep for a few more minutes before resigning myself to the day ahead.

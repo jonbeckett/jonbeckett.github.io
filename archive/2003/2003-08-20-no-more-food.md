@@ -2,7 +2,7 @@
 layout: post
 title: "No More Food"
 date: 2003-08-20
-categories: blog archive
+categories: archive
 ---
 
 We went out for dinner last night with some friends to a local pub that has started doing a "curry night". We arrived at about half past seven, to find that the place was absolutely packed to the rafters - and then discovered when we went to order our food a few minutes later that the kitchen were taking no more orders because they ran out of food!

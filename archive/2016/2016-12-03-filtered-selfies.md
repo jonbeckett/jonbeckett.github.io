@@ -2,7 +2,7 @@
 layout: post
 title: "Filtered Selfies"
 date: 2016-12-03
-categories: blog archive
+categories: archive
 ---
 
 I've been thinking about selfies recently - or rather - filtered selfies. Take the photo accompanying this post for example. Taken at just the right angle, with just the right amount of ambient light, with a ridiculously good phone camera, and then filtered to death via a mobile app that makes a mundane shot suddenly look dramatic, moody, reflective, and all those other words.

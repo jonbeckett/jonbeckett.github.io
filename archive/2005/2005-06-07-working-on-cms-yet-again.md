@@ -2,7 +2,7 @@
 layout: post
 title: "Working On Cms Yet Again"
 date: 2005-06-07
-categories: blog archive
+categories: archive
 ---
 
 I have a meeting later in the week with a BIG company to look at using my CMS code for their intranet, and later for their public internet site. It's been said that the IT budget they had for their last stab at this was about 200,000.

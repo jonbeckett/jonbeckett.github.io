@@ -2,7 +2,7 @@
 layout: post
 title: "The Tumblr Decimation"
 date: 2012-12-18
-categories: blog archive
+categories: archive
 ---
 
 When I re-joined Tumblr in November, I visited popular posts by people I remembered in the hope that I would remember names or faces in the likes and comments - and by and large that worked; I was able to compile a list of perhaps a hundred people to follow pretty quickly. Until today I hadn't stopped to think about who was actually paying any attention - at all - to the things I had posted - so I did something about it. A nuclear option of sorts. I un-followed everybody, and then stepped back through each post over the last month, and followed back anybody who had regularly liked or commented on something I had posted.

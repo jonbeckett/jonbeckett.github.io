@@ -2,7 +2,7 @@
 layout: post
 title: "Chaos And Mayhem"
 date: 2007-05-23
-categories: blog archive
+categories: archive
 ---
 
 Last night I put my "other" pair of work trousers in the dryer, and set it for 2 hours just before going to bed. This morning I checked them, and they were still damp. Great - the safety cut-off on the dryer must have kicked in and switched off the heating element.

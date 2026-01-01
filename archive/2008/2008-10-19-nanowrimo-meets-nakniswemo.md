@@ -2,7 +2,7 @@
 layout: post
 title: "Nanowrimo Meets Nakniswemo"
 date: 2008-10-19
-categories: blog archive
+categories: archive
 ---
 
 No, I have not invented a new language.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Day To Forget"
 date: 2010-09-14
-categories: blog archive
+categories: archive
 ---
 
 After staying at home yesterday with a virus, I ventured back into the office this morning. Upon watching the beads of sweat running from my hair, one of my colleagues asked if I was running a fever...

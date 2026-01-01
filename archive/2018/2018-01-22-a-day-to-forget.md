@@ -2,7 +2,7 @@
 layout: post
 title: "A Day To Forget"
 date: 2018-01-22
-categories: blog archive
+categories: archive
 ---
 
 The day started so well. Up early, showered, dressed, breakfast with the children, coffee. A few moments after our eldest left for college the wheels started to fall off the wagon. My other half shouted from the kitchen:

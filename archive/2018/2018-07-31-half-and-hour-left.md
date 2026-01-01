@@ -2,7 +2,7 @@
 layout: post
 title: "Half And Hour Left"
 date: 2018-07-31
-categories: blog archive
+categories: archive
 ---
 
 I have half an hour left until I get to switch my computer off, climb aboard my trusty bicycle, and pedal my way back towards town. I'm already wondering what ass-hattery will be thrown at me during the journey - this morning was the third in a row where cars have pulled out in front of me with no indication what-so-ever regarding what they were about to do. Apparently I'm invisible.

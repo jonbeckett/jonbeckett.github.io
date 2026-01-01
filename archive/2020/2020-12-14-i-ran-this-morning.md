@@ -2,7 +2,7 @@
 layout: post
 title: "I Ran This Morning"
 date: 2020-12-14
-categories: blog archive
+categories: archive
 ---
 
 I ran this morning. After suggesting to Miss 16 that I could accompany her, I got up at 7am, pulled my shorts and shoes on, and was ready to go within minutes. I called up the stairs after her, and heard a murmur.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Blog Has Handlebars"
 date: 2010-06-28
-categories: blog archive
+categories: archive
 ---
 
 In a fit of "why not" idiocy this evening, I have changed the header image at Cheese and Beans to a photo taken of my bike handlebars. Notice the motion blur? That's not an effect. Notice my hands are not on the handlebars? Yes...

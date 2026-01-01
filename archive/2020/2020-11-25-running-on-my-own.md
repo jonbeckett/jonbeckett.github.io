@@ -2,7 +2,7 @@
 layout: post
 title: "Running On My Own"
 date: 2020-11-25
-categories: blog archive
+categories: archive
 ---
 
 At dinner yesterday evening, my middle daughter put all sorts of plans in place to go running several times a week before college. I suggested I could go with her at perhaps 6:30am each morning - she suggested 6am. I rolled my eyes, and agreed.

@@ -2,7 +2,7 @@
 layout: post
 title: "Constructing Rabbit Holes"
 date: 2016-11-14
-categories: blog archive
+categories: archive
 ---
 
 At the start of the month I began a blogging experiment of sorts. I described it to myself at the time as "slipping under the radar" - severing ties between the "real world" version of myself, and the "internet" version of myself. Because I work in the internet realm, my real name is all over the place - tied to open source software, thousands of tweets, and spurious posts to social platforms that gather dust in quiet corners of the internet.

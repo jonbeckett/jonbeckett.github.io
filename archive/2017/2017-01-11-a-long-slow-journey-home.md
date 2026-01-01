@@ -2,7 +2,7 @@
 layout: post
 title: "A Long Slow Journey Home"
 date: 2017-01-11
-categories: blog archive
+categories: archive
 ---
 
 I left the office at 12:30 this afternoon. The lady on reception in the office building called a cab for me, and I busied myself with calling home while waiting. After a few minutes a car rolled up outside the main entrance, and I dragged my bags out into the rain.

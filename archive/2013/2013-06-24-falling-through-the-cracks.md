@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Through The Cracks"
 date: 2013-06-24
-categories: blog archive
+categories: archive
 ---
 
 This post has sat in an open window on my desktop for over an hour so far. I guess most of the reason it got no further than half a sentence (that I just deleted) is mostly because it's Monday. I like to blame a lot of things on "it being Monday"it's an easy excuse, and it's a good one, because everybody can identify with it.

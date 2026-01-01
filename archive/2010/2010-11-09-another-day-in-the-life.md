@@ -2,7 +2,7 @@
 layout: post
 title: "Another Day In The Life"
 date: 2010-11-09
-categories: blog archive
+categories: archive
 ---
 
 Could this really be a "day in the life" post at long last?

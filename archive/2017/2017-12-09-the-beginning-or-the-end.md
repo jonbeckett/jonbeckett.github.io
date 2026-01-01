@@ -2,7 +2,7 @@
 layout: post
 title: "The Beginning Or The End "
 date: 2017-12-09
-categories: blog archive
+categories: archive
 ---
 
 This week Deep Mind - the Google team behind the "Alpha Zero" artificial intelligence project - tried out the game of chess on the system.

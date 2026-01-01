@@ -2,7 +2,7 @@
 layout: post
 title: "Pondering Reclusion"
 date: 2009-08-17
-categories: blog archive
+categories: archive
 ---
 
 I've been wondering for some time about the relevance of a personal blog on the internet.

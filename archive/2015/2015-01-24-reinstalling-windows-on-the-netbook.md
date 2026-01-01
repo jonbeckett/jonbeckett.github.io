@@ -2,7 +2,7 @@
 layout: post
 title: "Reinstalling Windows On The Netbook"
 date: 2015-01-24
-categories: blog archive
+categories: archive
 ---
 
 Now and again I write a post that is so mundane, so boring, and so nerdy that those unfortunate enough to begin reading itconsider putting some kind of warning sticker on it, for fear that others will fall asleep standing up too, and injure themselves in all sorts of difficult to explain ways. This is going to be one of those posts.

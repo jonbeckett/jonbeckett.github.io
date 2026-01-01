@@ -2,7 +2,7 @@
 layout: post
 title: "Childhoods End"
 date: 2017-03-31
-categories: blog archive
+categories: archive
 ---
 
 For the last several years we have been amassing a collection of bicycles in the shed behind our house. Bicycles our children had either been given, or had bought for them, that they had then grown out of.

@@ -2,7 +2,7 @@
 layout: post
 title: "Walking The Streets"
 date: 2018-09-10
-categories: blog archive
+categories: archive
 ---
 
 This post was going to be a rant-laden bucket of foaming invective about the failures of the Germany rail network, and the catalogue of first world failures exhibited by the down-market hotel I'm staying in this week. Instead, helped by a couple of glasses of wine and a couple of hours to calm down, I'm going to write about my evening instead. Roll up a chair, get yourself comfortable, and enjoy.

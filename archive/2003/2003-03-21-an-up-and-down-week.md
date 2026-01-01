@@ -2,7 +2,7 @@
 layout: post
 title: "An Up And Down Week"
 date: 2003-03-21
-categories: blog archive
+categories: archive
 ---
 
 It's been the kind of week you don't like to have too often. Loads crammed into it, and not really enough time to take stock properly.

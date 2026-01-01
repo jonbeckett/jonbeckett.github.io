@@ -2,7 +2,7 @@
 layout: post
 title: "Starting Early"
 date: 2017-12-17
-categories: blog archive
+categories: archive
 ---
 
 The alarm clock was programmed for 6am this morning. I woke at 5:50am after a pretty spectacular dream about some sort of school reunion, and watched the last ten minutes tick away. I could have got up, but an irresistible force kept me from sliding out into the morning air. With moments left before it would explode in noise, I cancelled the alarm, and tiptoed downstairs - looking in on the children's bedrooms en-route. They looked like they had collided with their beds at some velocity during the night.

@@ -3,7 +3,6 @@ layout: single
 title: "The Need to Slow Down"
 date: 2025-09-30
 categories:
-  - blog
   - "2025"
 ---
 

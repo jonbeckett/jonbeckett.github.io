@@ -2,7 +2,7 @@
 layout: post
 title: "Important People In My Life"
 date: 2006-08-16
-categories: blog archive
+categories: archive
 ---
 
 I actually seem to have regained my uber-software-developer mojo today. The keys are clicking. Code seems to be dripping from my fingers.

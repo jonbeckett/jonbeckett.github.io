@@ -2,7 +2,7 @@
 layout: post
 title: "Seduced By Google"
 date: 2011-06-30
-categories: blog archive
+categories: archive
 ---
 
 I got invited into the Google+ field trial (read:beta) late last nightif you have no idea what on earth I'm referring to, "Google+" is the social network that Google has been quietly working on for the last year or two. Everybody knew they were working on something just nobody knew exactly what it was.

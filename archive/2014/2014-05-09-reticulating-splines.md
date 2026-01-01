@@ -2,7 +2,7 @@
 layout: post
 title: "Reticulating Splines"
 date: 2014-05-09
-categories: blog archive
+categories: archive
 ---
 
 It's lunchtime right now, so I guess I can arguably spend some time "watching the world go by"but seeing as I'm on the first floor, looking out of the window only provides a view of the roof the building opposite. Hardly "of interest".

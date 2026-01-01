@@ -2,7 +2,7 @@
 layout: post
 title: "Stop The World"
 date: 2005-01-20
-categories: blog archive
+categories: archive
 ---
 
 Have you ever felt like shouting "stop the world, I want to get offseveral projects are running towards deadlines at the same time as each other, and guess who is stuck in the middle of them all. One of the projects depends upon code from my CMS system before it's development can be completed, so somebody else's progress is now dependent on my own progress - not a nice place to be.

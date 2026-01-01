@@ -2,7 +2,7 @@
 layout: post
 title: "Randomly On Tuesday"
 date: 2020-11-03
-categories: blog archive
+categories: archive
 ---
 
 My brain is slowly turning to mush. For the last several days I have been writing a technical document - a review of the system I have been designing for the last several weeks. The core of a document may well dictate what I stress about for the next year.

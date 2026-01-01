@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts About Leaving Tumblr"
 date: 2012-02-09
-categories: blog archive
+categories: archive
 ---
 
 At the risk of covering this subject to death and then some, I wanted to write a bit about Tumblr - and my reasons for walking away from it. I made a lot of friends there, and I probably owe it to them to explain a bit more than the "goodbye message" I posted.

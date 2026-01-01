@@ -2,7 +2,7 @@
 layout: post
 title: "Alone In The Hotel"
 date: 2016-04-20
-categories: blog archive
+categories: archive
 ---
 
 Today is Wednesday, and the third evening of self-imposed incarceration in the hotel. I'm half tempted to wander across the road to the pub, just to see if it's changed at all. Perhaps get a table in the corner of the bar, and write inconsequential garbage about the clientele as they arrive and depart.

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday At Home"
 date: 2018-05-19
-categories: blog archive
+categories: archive
 ---
 
 I've been home alone today for the most part - plodding on with the endless routine of chores and tasks that come with a family and a house. I was supposed to attend a football tournament with the rest of the family, but given yesterday's drama (including a midnight visit to the railway station to escort Miss 17 home that won't be mentioned again), I thought it best to stay home.

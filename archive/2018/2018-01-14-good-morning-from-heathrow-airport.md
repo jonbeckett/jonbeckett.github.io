@@ -2,7 +2,7 @@
 layout: post
 title: "Good Morning From Heathrow Airport"
 date: 2018-01-14
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards 10am - I arrived at the airport a little before 8:30am and strolled straight through security. I'm getting too good at it - while removing my belt and emptying my pockets the scene in "Up in the Air" came to mind, where George Clooney is picking a queue based on the nationality of the people ahead.

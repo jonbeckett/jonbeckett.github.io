@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday In Frankfurt"
 date: 2019-02-11
-categories: blog archive
+categories: archive
 ---
 
 I woke with a start this morning, and took a few moments to get my bearings. Ah yes - a hotel room in Frankfurt, Germany. Far from home. After groping across he bed in search of the phone I had left on charge the night before, it took my eyes a few seconds to focus on it's screen.

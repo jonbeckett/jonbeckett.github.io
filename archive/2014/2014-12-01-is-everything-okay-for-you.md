@@ -2,7 +2,7 @@
 layout: post
 title: "Is Everything Okay For You"
 date: 2014-12-01
-categories: blog archive
+categories: archive
 ---
 
 After work this evening I wandered down to the hotel lobby and bought a drinkhalf celebrating a successful day (for a change). I figured sitting on my own in the lobby was marginably better than sitting on my own in my roomor at least it was for about half an hour.

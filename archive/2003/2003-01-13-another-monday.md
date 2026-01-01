@@ -2,7 +2,7 @@
 layout: post
 title: "Another Monday"
 date: 2003-01-13
-categories: blog archive
+categories: archive
 ---
 
 It's another Monday and I'm back at work after a week off enjoying time at home decorating and working on the new ThoughtCafe website.

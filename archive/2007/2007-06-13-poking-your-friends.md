@@ -2,7 +2,7 @@
 layout: post
 title: "Poking Your Friends"
 date: 2007-06-13
-categories: blog archive
+categories: archive
 ---
 
 Does nobody else think it's a little weird to "poke" your friends on Facebook?

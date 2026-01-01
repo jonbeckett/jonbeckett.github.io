@@ -2,7 +2,7 @@
 layout: post
 title: "Skull Island"
 date: 2017-07-05
-categories: blog archive
+categories: archive
 ---
 
 After clearing the dinner things away this evening, we huddled around the TV in the living room, turned the volume up, and sat down to watch "Skull Island" together - the latest monster movie to arrive on Amazon.

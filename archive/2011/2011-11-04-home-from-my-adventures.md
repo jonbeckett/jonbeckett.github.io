@@ -2,7 +2,7 @@
 layout: post
 title: "Home From My Adventures"
 date: 2011-11-04
-categories: blog archive
+categories: archive
 ---
 
 I arrived home at about 7pm last night after a couple of hours in the car with my co-worker. Quite why he needed to stop at Oxford to buy a bag of shopping was anybody's guess (I'm suspecting guilt at leaving his other half to cope with little or no warning), but I wasn't really in a position to say a wordso I didn't.

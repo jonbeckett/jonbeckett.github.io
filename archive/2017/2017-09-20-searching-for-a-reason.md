@@ -2,7 +2,7 @@
 layout: post
 title: "Searching For A Reason"
 date: 2017-09-20
-categories: blog archive
+categories: archive
 ---
 
 I have found myself thinking about "the point of things" recently. I'm not sure what brought it on.

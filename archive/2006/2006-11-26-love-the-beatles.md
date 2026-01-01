@@ -2,7 +2,7 @@
 layout: post
 title: "Love The Beatles"
 date: 2006-11-26
-categories: blog archive
+categories: archive
 ---
 
 While out shopping, quite apart from finally aquiring a Moleskine notebook, I spied the new Beatles album "Love"...

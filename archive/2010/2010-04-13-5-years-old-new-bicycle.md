@@ -2,7 +2,7 @@
 layout: post
 title: "5 Years Old New Bicycle"
 date: 2010-04-13
-categories: blog archive
+categories: archive
 ---
 
 A certain little girl wandered into our bedroom this morning, rubbing her eyes.

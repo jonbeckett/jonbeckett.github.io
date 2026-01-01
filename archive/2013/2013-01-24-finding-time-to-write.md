@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Time To Write"
 date: 2013-01-24
-categories: blog archive
+categories: archive
 ---
 
 Saying "I do not have time at the moment" is the easiest excuse in the world. Of course we have time - we can make time. How many hours do we spend each week watching television, listening to the radio, or any number of other things that are not essential?

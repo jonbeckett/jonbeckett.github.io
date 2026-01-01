@@ -2,7 +2,7 @@
 layout: post
 title: "Reflections On Burns Night"
 date: 2007-01-28
-categories: blog archive
+categories: archive
 ---
 
 We went to a Burns night supper last night, held by some good friends of ours. We have been before a few years ago and upon being offered an invite, immediately accepted because we had so much fun last time.

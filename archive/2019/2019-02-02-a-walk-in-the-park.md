@@ -2,7 +2,7 @@
 layout: post
 title: "A Walk In The Park"
 date: 2019-02-02
-categories: blog archive
+categories: archive
 ---
 
 Rather than let another weekend slip through our fingers while consumed with endless rounds of tidying, washing, and whatever else, I dragged two of our children out of the house this morning for a walk to the local park. The park is perhaps a mile and a half from home, and stretches along the side of the River Thames as it sweeps past.

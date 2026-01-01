@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Upgraded My Phone"
 date: 2014-12-20
-categories: blog archive
+categories: archive
 ---
 
 I went Christmas shopping this morning in a nearby townand immediately after getting off the bus, walked straight to the mobile phone store, and started looking at the two models I had narrowed my search down to (in a gargantuanly geeky manner, I had read all the leading website reviews of the phones the night before). I wanted to see them, hold them in my hand, and have a play with them.

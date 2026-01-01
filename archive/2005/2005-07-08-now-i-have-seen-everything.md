@@ -2,7 +2,7 @@
 layout: post
 title: "Now I Have Seen Everything"
 date: 2005-07-08
-categories: blog archive
+categories: archive
 ---
 
 You know there is a saying "I thought I'd seen everything but..." - well now I have.

@@ -2,7 +2,7 @@
 layout: post
 title: "Leaving My Comfort Zone"
 date: 2022-01-03
-categories: blog archive
+categories: archive
 ---
 
 *This year I'm taking part in "[Bloganuary](https://bloganuary.wordpress.com/)" - a series of writing prompts published throughout the month by [Mindy Postoff](https://bloganuary.wordpress.com/author/mindywoothemes/). Today's theme is "Write about the last time you left your comfort zone".*

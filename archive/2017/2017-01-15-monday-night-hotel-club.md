@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Night Hotel Club"
 date: 2017-01-15
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in a hotel room 200 miles from home. I got back from the hotel restaurant a couple of hours ago, and all I have done since is obsess overthe things I will be presenting to a room full of strangers in the morning - satisfying in my own mind that everything will work, and that I will not experience any "surprises".

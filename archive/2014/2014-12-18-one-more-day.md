@@ -2,7 +2,7 @@
 layout: post
 title: "One More Day"
 date: 2014-12-18
-categories: blog archive
+categories: archive
 ---
 
 I have one more day left at work before two weeks of leave for Christmas. I will arrive at 9am, work diligently through until 5:30pm, and then exit the building faster than Elvis on a skateboard. I will cycle home on the trusty mountain bike, lock it in the shed, and then not retrieve it again until the 6th January.

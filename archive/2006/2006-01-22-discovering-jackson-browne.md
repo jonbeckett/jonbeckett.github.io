@@ -2,7 +2,7 @@
 layout: post
 title: "Discovering Jackson Browne"
 date: 2006-01-22
-categories: blog archive
+categories: archive
 ---
 
 I was busy downloading some music yesterday evening that a friend recommended (Brad Paisley and Tim McGraw if you're interested), and discovered who Jackson Browne was while I was at it.

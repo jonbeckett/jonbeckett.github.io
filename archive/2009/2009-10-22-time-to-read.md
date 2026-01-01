@@ -2,7 +2,7 @@
 layout: post
 title: "Time To Read"
 date: 2009-10-22
-categories: blog archive
+categories: archive
 ---
 
 Visitors to our house are invariably astounded at the plethora of books that surround them - and probably make snap judgements about us, or the "kind of person" we are by the presence of so much literature.

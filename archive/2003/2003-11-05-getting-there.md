@@ -2,7 +2,7 @@
 layout: post
 title: "Getting There"
 date: 2003-11-05
-categories: blog archive
+categories: archive
 ---
 
 I'm spending my lunchtime at work changing the layout of the PluggedOut website a bit - making a "Projects" page.

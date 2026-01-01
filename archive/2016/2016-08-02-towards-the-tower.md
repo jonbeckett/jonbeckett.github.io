@@ -2,7 +2,7 @@
 layout: post
 title: "Towards The Tower"
 date: 2016-08-02
-categories: blog archive
+categories: archive
 ---
 
 The alarm on my phone went off at 6am this morning, and woke me with a start. After watching the minutes tick by for a while on the radio alarm clock, I slid silently out of bed, and tip-toed downstairs for a shower, and to find the clothes I had prepared the night before. I didn't need to be on the far side of London until late morning, but thought it might just be easier to get the early train out of town with the rest of the commuters.

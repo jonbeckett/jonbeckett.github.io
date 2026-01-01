@@ -2,7 +2,7 @@
 layout: post
 title: "Rebelling Against The Self Proclaimed Experts"
 date: 2012-01-27
-categories: blog archive
+categories: archive
 ---
 
 Earlier today I spent a little time reviewing the people I follow through the various social networks, and re-visited the continual search for the new, and the interesting. Something occurred to me (or rather, annoyed me intensely) that's been nagging away at me all day...

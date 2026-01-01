@@ -2,7 +2,7 @@
 layout: post
 title: "The Kerbal Legacy"
 date: 2015-09-30
-categories: blog archive
+categories: archive
 ---
 
 Whenever I get the chance at lunchtime in the office, I stop any virtual machines running on my laptop, close down the email, and go looking for a folder on the root of my laptop hard-drive called "KSP". It stands for "Kerbal Space Program", and is by far the biggest time suck I have ever encountered.

@@ -2,7 +2,7 @@
 layout: post
 title: "Running Motorbikes And Pretend Plane Crashes"
 date: 2020-06-01
-categories: blog archive
+categories: archive
 ---
 
 I'm at the stage of having fallen off the blogging horse where I'm starting to wander around looking for the horse, shouting it's name from time to time - hoping it will come clip-clopping around the corner from a nearby saloon bar. Actually, I think cowboys whistle for their horse in movies, don't they ?

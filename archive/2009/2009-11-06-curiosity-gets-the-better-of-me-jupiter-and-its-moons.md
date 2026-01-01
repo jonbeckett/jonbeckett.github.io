@@ -2,7 +2,7 @@
 layout: post
 title: "Curiosity Gets The Better Of Me Jupiter And Its Moons"
 date: 2009-11-06
-categories: blog archive
+categories: archive
 ---
 
 You know the photo I took the other night of Jupiter and it's moons?

@@ -2,7 +2,7 @@
 layout: post
 title: "Finally 2 More Miles"
 date: 2011-02-10
-categories: blog archive
+categories: archive
 ---
 
 After failing conspicuously to get out of bed this morning early enough to go for a run, I managed to escape at about 8:30pm for a couple of miles running through town.

@@ -2,7 +2,7 @@
 layout: post
 title: "Pizza Netflix And Self Isolation"
 date: 2020-10-30
-categories: blog archive
+categories: archive
 ---
 
 Day two of the unplanned stay-cation.

@@ -2,7 +2,7 @@
 layout: post
 title: "Monday Monday"
 date: 2006-07-31
-categories: blog archive
+categories: archive
 ---
 
 It's Monday morning, and I've just discovered I am the only one in my office today (there are normally three of us). What fun.

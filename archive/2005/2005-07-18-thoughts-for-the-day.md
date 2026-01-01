@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts For The Day"
 date: 2005-07-18
-categories: blog archive
+categories: archive
 ---
 
 Today was a strange day.

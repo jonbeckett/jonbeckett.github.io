@@ -2,7 +2,7 @@
 layout: post
 title: "Impressive Spider Web Comes Crashing Down"
 date: 2010-10-18
-categories: blog archive
+categories: archive
 ---
 
 I just wandered into the kitchen and discovered a 2ft diameter spider web hanging across the room - suspended on a masterpiece of spider architectural achievement; lines of web stretching out across the room.

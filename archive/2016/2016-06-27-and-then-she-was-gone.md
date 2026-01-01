@@ -2,7 +2,7 @@
 layout: post
 title: "And Then She Was Gone"
 date: 2016-06-27
-categories: blog archive
+categories: archive
 ---
 
 The lady that lived opposite the office for the last several years has gone. Just like that. I arrived on my bike this morning, and the house stands empty. Even though we were never more than an occasional "hello" to each other on a morning or an evening, it feels weird.

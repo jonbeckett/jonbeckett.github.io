@@ -3,7 +3,6 @@ layout: single
 title: "While Making Other Plans"
 date: 2025-10-22
 categories:
-  - blog
   - "2025"
 ---
 

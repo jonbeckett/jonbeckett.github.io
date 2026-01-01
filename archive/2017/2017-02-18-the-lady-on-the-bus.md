@@ -2,7 +2,7 @@
 layout: post
 title: "The Lady On The Bus"
 date: 2017-02-18
-categories: blog archive
+categories: archive
 ---
 
 I travelled to town on the bus this morning, on a not-so-secret mission to buy this and that from the high street shops that we all feel guilty about using because they rely on sweat-shops half-way around the world to produce the tat hanging from their rails.

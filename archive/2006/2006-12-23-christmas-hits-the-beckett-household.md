@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Hits The Beckett Household"
 date: 2006-12-23
-categories: blog archive
+categories: archive
 ---
 
 We invited friends and neighbors round last night for drinks and mince pies, and it finally feels like Christmas has arrived.

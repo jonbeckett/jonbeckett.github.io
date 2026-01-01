@@ -2,7 +2,7 @@
 layout: post
 title: "How Is It Only Thursday "
 date: 2018-05-16
-categories: blog archive
+categories: archive
 ---
 
 It's just gone 9am, and I'm sitting at my desk in the office at work, still not really awake. I woke at 5 this morning, then fell back asleep for a couple of hours before scraping myself out of bed and getting on with the morning routine.

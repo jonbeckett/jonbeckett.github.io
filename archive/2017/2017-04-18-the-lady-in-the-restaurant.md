@@ -2,7 +2,7 @@
 layout: post
 title: "The Lady In The Restaurant"
 date: 2017-04-18
-categories: blog archive
+categories: archive
 ---
 
 Today was a good day. I woke at ridiculous o'clock before contemplating the ceiling of the hotel room for several hours. I skipped the ridiculously over-priced breakfast in the hotel in favor of further contemplation before finally dragging my backside out of bed with perhaps an hour to spare until the arduous journey to the office.

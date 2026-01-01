@@ -2,7 +2,7 @@
 layout: post
 title: "That Friday Feeling"
 date: 2006-08-18
-categories: blog archive
+categories: archive
 ---
 
 I woke with a start this morning, and heard the garbage collection truck pass the end of our drive - the end of our drive that had no bin on the end of it because I forgot to put it out last night. I am beginning to wonder what my chances are of securing the world record for forgetting to put the bin out. After running across the landing, hastily trying to put my robe on (to avoid any "naked man in the window" episodes), I reached the window to see the back end of the truck dissappearing up the road. This of course meant "decision time".

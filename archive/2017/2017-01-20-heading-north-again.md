@@ -2,7 +2,7 @@
 layout: post
 title: "Heading North Again"
 date: 2017-01-20
-categories: blog archive
+categories: archive
 ---
 
 Tomorrow afternoon Iwill walk to the railway station across town, and spend the greater part of my Sunday evening travelling north towards Manchester. After arriving, a taxi will deliver me to a hotel not far from the BBC Television Studios, from where I will depart for a nearby office on Monday morning.

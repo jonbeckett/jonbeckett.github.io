@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Nights And Conspiracy Theories"
 date: 2019-06-28
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting in the dark of the junk room - sometimes humorously referred to as the "study" - with some quiet music playing, all the screens nearby switched off, and a full screen text editor called "WriteMonkey" on the laptop - to prevent me from becoming distracted by anything and everything. I am my own worst enemy. I completely understand why George R R Martin writes in a DOS word processor on a computer that only has Wordstar installed on it.

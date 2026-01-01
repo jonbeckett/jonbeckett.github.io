@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To London"
 date: 2006-11-02
-categories: blog archive
+categories: archive
 ---
 
 Today marked the second day of three spent in London - and this time I remembered the camera!

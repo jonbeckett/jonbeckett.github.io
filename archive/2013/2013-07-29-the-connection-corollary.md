@@ -2,7 +2,7 @@
 layout: post
 title: "The Connection Corollary"
 date: 2013-07-29
-categories: blog archive
+categories: archive
 ---
 
 While sitting here upon my Batman like perch, high above the social networks watching the posts drift past, I often see familiar shades of angst, loneliness, and longing from all kinds of people, in all kinds of walks of life, from all over the world.

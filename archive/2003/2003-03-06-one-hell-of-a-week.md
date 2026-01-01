@@ -2,7 +2,7 @@
 layout: post
 title: "One Hell Of A Week"
 date: 2003-03-06
-categories: blog archive
+categories: archive
 ---
 
 This week has been like walking in treacle... whatever that might feel like!?

@@ -2,7 +2,7 @@
 layout: post
 title: "Decluttering"
 date: 2024-01-16
-categories: blog archive
+categories: archive
 ---
 
 I've given up trying to take part in "Bloganuary" every day. Life happens. Mayhem happens. What was it Obama said to the woke keyboard crusaders? Life is complicated and messy. Sometimes just getting to tomorrow is an achievement - regardless of the ideals, goals or aims we might strive to meet or achieve.

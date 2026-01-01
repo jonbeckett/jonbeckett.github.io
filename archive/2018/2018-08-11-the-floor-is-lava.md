@@ -2,7 +2,7 @@
 layout: post
 title: "The Floor Is Lava"
 date: 2018-08-11
-categories: blog archive
+categories: archive
 ---
 
 Other people have relaxed weekends filled with rainbows, laughter, smiling faces, restaurants, sports, cakes, drinks, and all those other nice things. They post an endless stream of photos recording their lovely lives to Facebook and Instagram - like some sort of distorted advertising campaign for their life. When they do it, I start wondering what they are hiding.

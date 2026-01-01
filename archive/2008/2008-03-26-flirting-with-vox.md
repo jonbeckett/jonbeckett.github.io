@@ -2,7 +2,7 @@
 layout: post
 title: "Flirting With Vox"
 date: 2008-03-26
-categories: blog archive
+categories: archive
 ---
 
 Over the last couple of evenings I have been flirting with Vox again - looking at it, at it's ready built community, and wondering about stepping a little sideways from the blog writing world.

@@ -2,7 +2,7 @@
 layout: post
 title: "I Have Not Read Belle Du Jour"
 date: 2010-02-01
-categories: blog archive
+categories: archive
 ---
 
 Sunday night became Monday morning about an hour ago, and I'm skimming through the television channels. Billie Piper is on one of the channels, and she's not wearing much. Actually - strike that - she's being really very naughty indeed; and now I can't turn to another channel.

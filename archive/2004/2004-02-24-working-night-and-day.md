@@ -2,7 +2,7 @@
 layout: post
 title: "Working Night And Day"
 date: 2004-02-24
-categories: blog archive
+categories: archive
 ---
 
 At the moment it really does feel like I'm working night and day... in the daytime I am working on a logistics system for a corporate client, and in the evenings I find myself working on my own project, CMS...

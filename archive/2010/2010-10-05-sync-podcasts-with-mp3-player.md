@@ -2,7 +2,7 @@
 layout: post
 title: "Sync Podcasts With Mp3 Player"
 date: 2010-10-05
-categories: blog archive
+categories: archive
 ---
 
 Apart from meddling with a development drupal installation, tonight I finally got around to tweaking the shell script I wrote to update podcasts on my MP3 player. The script does the following;

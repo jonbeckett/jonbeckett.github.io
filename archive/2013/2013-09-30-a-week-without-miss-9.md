@@ -2,7 +2,7 @@
 layout: post
 title: "A Week Without Miss 9"
 date: 2013-09-30
-categories: blog archive
+categories: archive
 ---
 
 A little voice crept across the landing this morning, and called outuncertainly to wake usafter waiting for my eyes to focus on the radio alarm clock, I told her to go back to bed for a while. As I ducked back under the covers, another voice came from somewhere much closer."What time is it?""5:40We slept on until 7, when she returned to ask again, and waited for the local breakfast radio show to burst into life before tipping ourselves out of bed. A big day in the life of Miss 9 lay ahead, and I had promised to start it off with bacon. While I dived around the kitchen making breakfasts and lunches, the rest of the house hold slowly appeared, in search of games kits, books, and homework.

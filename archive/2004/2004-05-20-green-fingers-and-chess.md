@@ -2,7 +2,7 @@
 layout: post
 title: "Green Fingers And Chess"
 date: 2004-05-20
-categories: blog archive
+categories: archive
 ---
 
 Last night after getting in from work (following the episode - still ongoing - with the huge database hack), I helped W in the garden. W's had a bad back so has relied on me for any heavy work - such as shovelling ten wheelbarrow loads of dirt across the garden...

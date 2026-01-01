@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing The Cms Project"
 date: 2004-02-19
-categories: blog archive
+categories: archive
 ---
 
 Hi all,

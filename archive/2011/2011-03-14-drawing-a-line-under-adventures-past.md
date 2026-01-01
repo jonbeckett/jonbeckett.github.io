@@ -2,7 +2,7 @@
 layout: post
 title: "Drawing A Line Under Adventures Past"
 date: 2011-03-14
-categories: blog archive
+categories: archive
 ---
 
 After spending the best part of an hour this evening investigating the various reasons my old blog posts might not import into Blogger, I'm taking a brave and perhaps foolhardy decision.

@@ -2,7 +2,7 @@
 layout: post
 title: "Simplification"
 date: 2006-10-24
-categories: blog archive
+categories: archive
 ---
 
 After several days being dissatisfied with the look and feel of my blog, I have decided that "simple is best". It's about the words, after all - not how pretty the blog looks on the screen. I'm guessing that most people read the RSS feed anyway, so never see the real blog.

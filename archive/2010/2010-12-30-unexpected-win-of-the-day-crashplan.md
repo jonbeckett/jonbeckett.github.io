@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpected Win Of The Day Crashplan"
 date: 2010-12-30
-categories: blog archive
+categories: archive
 ---
 
 I've been tooling around with various methods of backing up the enormous amount of semi-precious data we've got floating around at home - photos of the kids, freelance projects, family tree research, and other stuff we would hate to lose.

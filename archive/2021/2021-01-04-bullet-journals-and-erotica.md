@@ -2,7 +2,7 @@
 layout: post
 title: "Bullet Journals And Erotica"
 date: 2021-01-04
-categories: blog archive
+categories: archive
 ---
 
 wp:heading {"level":3}  ### Returning to work

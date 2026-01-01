@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking About Blogfriday"
 date: 2009-06-27
-categories: blog archive
+categories: archive
 ---
 
 I have had this domain name sat dormant for quite a while - www.blogfriday.net - and have been wondering what to do with it.

@@ -2,7 +2,7 @@
 layout: post
 title: "Another Awards Evening"
 date: 2017-07-11
-categories: blog archive
+categories: archive
 ---
 
 I left work an hour early this evening, in order to get home in time to feed the children before heading out to another school awards function. The children had been left instructions to make pasta, and might possibly have succeeded, but given Miss 13's culinary display at the weekend, I thought it better if I was present. She made a wonderful meal for everybody, but by the time she finished counting out everything on the plates to make sure her sisters had no more than her, everything was cold. Who would have guessed that pasta could be messed up? Apparently it can if you're 13, and telling your 16 year old sister what to do. Once again I found myself wading in to rescue dinner. I told the kids to go sit down while I started running back and forth in a manner Barry Allen would have been proud of. He's "The Flash", if you were wondering. If you're still none the wiser, don't worry about it. Let's just note that red spandex with wings stuck to my ears wouldn't be a good look anyway.

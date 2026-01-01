@@ -2,7 +2,7 @@
 layout: post
 title: "Just About Surviving"
 date: 2020-02-24
-categories: blog archive
+categories: archive
 ---
 
 I walked to work today, and probably will tomorrow too unless . My trusty bicycle is locked up outside the office - it will get pushed home this evening, and an attempt made to repair the punctures in it's tyres tomorrow morning before setting off for work once more.

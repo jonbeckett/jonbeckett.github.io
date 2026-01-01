@@ -2,7 +2,7 @@
 layout: post
 title: "Books I Havent Read Yet"
 date: 2015-01-19
-categories: blog archive
+categories: archive
 ---
 
 I thought about titling this post "the huge and growing mountain of books I still haven't read, despite writing about this before, and despite still not doing anything about it" - but it's a bit long for a title. There's basically three main problems going on - I'm not making time to read, people keep writing fantastic sounding new books, and I keep discovering fantastic sounding old books. I am officially my own worst enemy.

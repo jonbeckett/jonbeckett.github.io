@@ -2,7 +2,7 @@
 layout: post
 title: "First Real Entry"
 date: 2003-01-02
-categories: blog archive
+categories: archive
 ---
 
 I suppose "technically" I have missed posting an entry into this online diary for the first of January, because it took longer than 40 minutes to get the initial pieces of the PHP code working.

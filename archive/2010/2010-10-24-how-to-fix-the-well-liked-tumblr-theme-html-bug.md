@@ -2,7 +2,7 @@
 layout: post
 title: "How To Fix The Well Liked Tumblr Theme Html Bug"
 date: 2010-10-24
-categories: blog archive
+categories: archive
 ---
 
 If you've noticed the "Well Liked" theme layout breaks sometimes, I saw it happen again this morning, and decided to find out what was wrong with it.

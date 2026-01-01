@@ -2,7 +2,7 @@
 layout: post
 title: "Three Children Three Laptops"
 date: 2014-12-12
-categories: blog archive
+categories: archive
 ---
 
 We are currently wrestling with the idea of buying three laptops for Christmas for our children. It sounds insane, and it sounds expensive, but there is SOME sense involved here.

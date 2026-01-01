@@ -2,7 +2,7 @@
 layout: post
 title: "Weekend To Remember"
 date: 2007-03-04
-categories: blog archive
+categories: archive
 ---
 
 I have consumed more alcohol this weekend than I can remember getting through (and surviving) in quite some time. It must be a birthday survivability thing.

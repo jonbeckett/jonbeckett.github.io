@@ -2,7 +2,7 @@
 layout: post
 title: "One Day Down"
 date: 2015-02-24
-categories: blog archive
+categories: archive
 ---
 
 I woke up at something like 6am this morning, and considered getting up straight away - but knowing breakfasts in the hotel are not surved until 7:30, it seemed a bit stupid to waste quiet time in bed, thinking about nothing at all - so that's exactly what I did. For an hour. I kept falling asleep, then waking with a start, and checking the time. Every time I did it, I checked my watch, and another two or three minutes had passed. I finally dragged myself out of bed at five past seven, and jumped in the shower (well, not really "jumped" - more "stumbled in the direction of the bathroom, and cracked my head on the low door frame before fiddling with the shower controls while rubbing sleep from my eyes).

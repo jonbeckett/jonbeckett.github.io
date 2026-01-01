@@ -2,7 +2,7 @@
 layout: post
 title: "Reflecting On The First Weeks"
 date: 2008-02-24
-categories: blog archive
+categories: archive
 ---
 
 While taking a break from the mayhem that tends to unfold throughout our house between 7am and 7pm each day, I thought it might be worth looking back at our first weeks as parents.

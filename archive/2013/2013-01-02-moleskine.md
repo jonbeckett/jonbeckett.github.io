@@ -2,7 +2,7 @@
 layout: post
 title: "Moleskine"
 date: 2013-01-02
-categories: blog archive
+categories: archive
 ---
 
 The level of attachment I experience to such a seemingly trivial thing is a surprise - I can now understand why people become obsessive over notebooks, diaries, pens, ink and the act of journalling, scrapbooking, and writing. Flicking back through the pages of thoughts, ideas and notes I scribbled in the distant past is sometimes bittersweet. A lot has happened. These little books have been with me through so many adventures now, and chart memories from a time that often seems alien.

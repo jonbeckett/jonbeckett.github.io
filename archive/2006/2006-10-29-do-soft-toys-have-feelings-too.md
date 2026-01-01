@@ -2,7 +2,7 @@
 layout: post
 title: "Do Soft Toys Have Feelings Too"
 date: 2006-10-29
-categories: blog archive
+categories: archive
 ---
 
 This is going to sound like a very, very strange post to come from a man.

@@ -2,7 +2,7 @@
 layout: post
 title: "Unbeliever"
 date: 2018-09-07
-categories: blog archive
+categories: archive
 ---
 
 There was a knock at the door a few moments ago. A rather loud and confident knock. I made me way to the door, wondering if it might be the little boy that lives across the way, hoping too play football with our children. I would have to tell him that they had gone out for the day. Opening the door revealed two women - one in her early twenties, and the other perhaps in her early fifties.

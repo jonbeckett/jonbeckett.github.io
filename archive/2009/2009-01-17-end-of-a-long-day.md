@@ -2,7 +2,7 @@
 layout: post
 title: "End Of A Long Day"
 date: 2009-01-17
-categories: blog archive
+categories: archive
 ---
 
 It's been a long day. As arranged yesterday evening, I gave Wend a break today and took the kids off her hands as much as possible.

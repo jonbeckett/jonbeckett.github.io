@@ -2,7 +2,7 @@
 layout: post
 title: "A Perfect Cup Of Tea"
 date: 2019-06-12
-categories: blog archive
+categories: archive
 ---
 
 A long time reader of my blog has asked if I might describe how I make a cup of tea. Apparently being English introduces some kind of hoodoo into the process - some magic or other that the wider world think they might be missing. It's probably worth pointing out immediately that tea originates in China - not England. We have numerous sayings that reference it's heritage - perhaps the most famous of which is "for all the tea in china" (invariably used when describing your opposition to something - 'you wouldn't get me to do that for all the tea in china').

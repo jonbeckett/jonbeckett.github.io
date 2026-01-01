@@ -2,7 +2,7 @@
 layout: post
 title: "Remembering John Denver"
 date: 2008-05-05
-categories: blog archive
+categories: archive
 ---
 
 In the aftermath of one of the most memorable and enjoyable weekends for quite some time, this evening has been the inevitable return to earth with a bump - but has also seen me remember an old friend who I've not listened to for far too long.

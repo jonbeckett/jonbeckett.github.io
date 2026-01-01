@@ -2,7 +2,7 @@
 layout: post
 title: "Somewhere in the middle"
 date: 2023-08-05
-categories: blog archive
+categories: archive
 ---
 
 It's been a pretty quiet day. While the rain fell outside my other half holed up in the lounge doing a jigsaw, and I noodled around with this and that on the computer.

@@ -2,7 +2,7 @@
 layout: post
 title: "Truth And Fiction"
 date: 2011-08-17
-categories: blog archive
+categories: archive
 ---
 
 Jesus and his brother start a political movement opposing the government. Eventually the government have him killed.

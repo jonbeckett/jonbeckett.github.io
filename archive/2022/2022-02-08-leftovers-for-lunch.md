@@ -2,7 +2,7 @@
 layout: post
 title: "Leftovers For Lunch"
 date: 2022-02-08
-categories: blog archive
+categories: archive
 ---
 
 Life happens so more slowly down here. It has taken some time to adjust - to slow myself down. Yesterday morning, after making breakfasts, washing up, and racing through some chores I found myself at a loose end. Today I'm settling into it a little more.

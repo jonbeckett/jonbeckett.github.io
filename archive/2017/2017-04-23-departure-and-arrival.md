@@ -2,7 +2,7 @@
 layout: post
 title: "Departure And Arrival"
 date: 2017-04-23
-categories: blog archive
+categories: archive
 ---
 
 Departure I'm sitting in the departure lounge of Terminal 2 at Heathrow Airport, just outside London. I got here far too early. Official guides tell you to arrive at least 2 hours before your flight for European flights - I arrived 3 hours early on account of giving the trains between home and the airport an hour to mess themselves up. Guess what happens when you build-in time for everything to go wrong? Absolutely everything works like clockwork. Everything.

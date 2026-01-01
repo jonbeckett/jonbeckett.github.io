@@ -2,7 +2,7 @@
 layout: post
 title: "Clocks Go Back"
 date: 2006-10-29
-categories: blog archive
+categories: archive
 ---
 
 The clocks went back this morning - we are finally back on GMT. We get an hour extra in bed, and the mornings are light once again.

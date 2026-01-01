@@ -2,7 +2,7 @@
 layout: post
 title: "The Day The Internet Died"
 date: 2015-07-26
-categories: blog archive
+categories: archive
 ---
 
 While trudging back towards the washing machine to put the fifty thousandth load in the machine yesterday afternoon I noticed our eldest daughter stood in the hallway with her head leaning against the stair banister.

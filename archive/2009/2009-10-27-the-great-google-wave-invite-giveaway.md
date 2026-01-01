@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Google Wave Invite Giveaway"
 date: 2009-10-27
-categories: blog archive
+categories: archive
 ---
 
 THEY HAVE ALL GONE!

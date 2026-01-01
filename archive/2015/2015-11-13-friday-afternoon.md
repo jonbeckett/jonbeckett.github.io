@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Afternoon"
 date: 2015-11-13
-categories: blog archive
+categories: archive
 ---
 
 I'm having a break in-between other things to write a quick blog post. It's been quite a week. For those that haven't been reading, I've been single handed this week while my other half travelled to the north of England with her Mum. The trip had been planned for her parents earlier in the yearpaid forbut then her Dad passed away so she agreed to go instead.

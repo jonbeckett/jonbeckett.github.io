@@ -2,7 +2,7 @@
 layout: post
 title: "Mobile Blogging Solution"
 date: 2015-12-14
-categories: blog archive
+categories: archive
 ---
 
 I've had a Kindle Fire tablet for the last few yearsit was originally bought for the children, but then got "handed down" to me when they moved on to bigger and better things (tends to happen a lot in our house). I have to admit I have been surprised at just how much I use itparticularly while travelling. We have an Amazon Prime account at home, so it invariably gets filled with all manner of movies, television shows, and music before travelling with work. As a content consumption device it's pretty much without equal.

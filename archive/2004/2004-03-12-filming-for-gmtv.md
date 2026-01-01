@@ -2,7 +2,7 @@
 layout: post
 title: "Filming For Gmtv"
 date: 2004-03-12
-categories: blog archive
+categories: archive
 ---
 
 I am absolutely shattered this morning.

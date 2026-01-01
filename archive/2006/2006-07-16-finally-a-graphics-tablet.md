@@ -2,7 +2,7 @@
 layout: post
 title: "Finally A Graphics Tablet"
 date: 2006-07-16
-categories: blog archive
+categories: archive
 ---
 
 While wandering around John Lewis yesterday (in the process losing half a day of programming time), I was walking past the electrical department and saw the WACOM graphics tablets out of the corner of my eye - and for far less money than I have ever seen them before.

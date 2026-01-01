@@ -2,7 +2,7 @@
 layout: post
 title: "A Whole New World"
 date: 2020-11-07
-categories: blog archive
+categories: archive
 ---
 
 Perhaps it says something that even half a world away, I have been unable to distract myself from the United States election for the last several days. I have family in America, and know countless others across the country. I have somehow become invested in their hopes over the last few years. They say adversity brings people closer together - perhaps that's why I have felt their hopes so keenly.

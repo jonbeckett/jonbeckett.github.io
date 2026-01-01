@@ -2,7 +2,7 @@
 layout: post
 title: "Im Not A Chihuahua"
 date: 2006-01-20
-categories: blog archive
+categories: archive
 ---
 
 I just did a survey at tickle.com, and am somewhat shocked, stunned and amazed at the result. I filled out a survey to answer the question "What kind of Dog are you?"... here's the response;

@@ -2,7 +2,7 @@
 layout: post
 title: "The Return Of Thoughtcafe"
 date: 2007-06-16
-categories: blog archive
+categories: archive
 ---
 
 cross posted from PluggedOut

@@ -2,7 +2,7 @@
 layout: post
 title: "Not A Teacher"
 date: 2017-01-24
-categories: blog archive
+categories: archive
 ---
 
 I'm teaching again. I hesitate to use the word "teaching" though, because I know lots of teachers, and respect them enormously. If they heard me tell anybody I was a teacher, they would probably descend on me like a bag of spanners, and pull my fingernails out one by one, while asking me how many times I had to shut an unruly student down, or how many times I had to send anybody outside, or at what time in the evening I finished marking books from yesterday.

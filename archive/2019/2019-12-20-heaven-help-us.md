@@ -2,7 +2,7 @@
 layout: post
 title: "Heaven Help Us"
 date: 2019-12-20
-categories: blog archive
+categories: archive
 ---
 
 The clock just ticked past 3pm - in a couple of hours I will finish work for Christmas - cycle home through the rain that has been falling for the last several weeks, and collapse in a heap for a day or two before starting to tidy the house like a maniac before the big day arrives.

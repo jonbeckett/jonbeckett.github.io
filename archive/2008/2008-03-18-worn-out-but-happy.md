@@ -2,7 +2,7 @@
 layout: post
 title: "Worn Out But Happy"
 date: 2008-03-18
-categories: blog archive
+categories: archive
 ---
 
 I have just got back from the school run. I did the whole routine myself this morning - got all three kids up, through breakfast, washed, teeth brushed, dressed, packed lunch made, myself washed and dressed, and then the eldest taken to school.

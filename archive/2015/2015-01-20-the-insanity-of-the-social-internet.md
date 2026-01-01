@@ -2,7 +2,7 @@
 layout: post
 title: "The Insanity Of The Social Internet"
 date: 2015-01-20
-categories: blog archive
+categories: archive
 ---
 
 Returning to writing a personal blog on a regular basis this year has made me realise something - I live in too many places online. I'm tempted to use an analogy to describe my predicament - perhaps spinning plates - but I work with somebody who uses analogies to describe absolutely everything, so will not dare for fear of inducing the same glazed look upon readers as he garners on rooms full of people during conference calls and presentations.

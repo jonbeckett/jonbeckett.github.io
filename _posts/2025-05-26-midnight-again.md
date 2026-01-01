@@ -3,7 +3,6 @@ layout: single
 title: "Midnight Again"
 date: 2025-05-26
 categories:
-  - blog
   - "2025"
 ---
 

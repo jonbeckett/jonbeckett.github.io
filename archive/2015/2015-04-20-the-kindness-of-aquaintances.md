@@ -2,7 +2,7 @@
 layout: post
 title: "The Kindness Of Aquaintances"
 date: 2015-04-20
-categories: blog archive
+categories: archive
 ---
 
 Today a girl I vaguely know on the other side of the world bought me a "paid" LiveJournal account for a couple of months, and I'm kind of speechless. Of course I could afford a paid membership if I really wanted one, but the email announcing the membership came as a huge surprise. I was incredibly touched.

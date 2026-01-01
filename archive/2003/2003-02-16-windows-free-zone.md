@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Free Zone"
 date: 2003-02-16
-categories: blog archive
+categories: archive
 ---
 
 Woohoo!

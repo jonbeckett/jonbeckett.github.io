@@ -2,7 +2,7 @@
 layout: post
 title: "10Th Wedding Anniversary"
 date: 2011-09-09
-categories: blog archive
+categories: archive
 ---
 
 I've started thinking about what to get my better half for our wedding anniversary (it's in a few days). Normally we don't bother doing anything too specialbut this time it's 10 years, so I'm thinking I should organise somethingat least. Convention dictates that 10 years should be marked in some way.

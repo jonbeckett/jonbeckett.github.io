@@ -2,7 +2,7 @@
 layout: post
 title: "Surrounded By Idiots"
 date: 2018-04-09
-categories: blog archive
+categories: archive
 ---
 
 I just watched the entire testimony between Mark Zuckerberg and a number of United States Senators in Washington live. Nearly six hours of it. I have some thoughts. I know this is a huge departure from the usual 'day in the life' posts I usually write, and I don't plan on doing this on anything like a regular basis.

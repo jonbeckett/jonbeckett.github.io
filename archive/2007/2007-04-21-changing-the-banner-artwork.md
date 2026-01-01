@@ -2,7 +2,7 @@
 layout: post
 title: "Changing The Banner Artwork"
 date: 2007-04-21
-categories: blog archive
+categories: archive
 ---
 
 I felt the banner artwork of Mario was getting a little old, so had a scout around on the internet for something new - something different.

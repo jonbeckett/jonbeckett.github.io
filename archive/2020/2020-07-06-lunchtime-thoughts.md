@@ -2,7 +2,7 @@
 layout: post
 title: "Lunchtime Thoughts"
 date: 2020-07-06
-categories: blog archive
+categories: archive
 ---
 
 It's Monday lunchtime, and you find me sitting in the junk room at home. I've been here on weekdays since the middle of March. Nearly four months now. The only places I have visited in town during that time have been the grocery store, and the pharmacy. I've been on a few long walks (even with a broken toe), which we have dubbed 'mental health walks'.

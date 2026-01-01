@@ -2,7 +2,7 @@
 layout: post
 title: "A Story In A Single Image"
 date: 2017-11-01
-categories: blog archive
+categories: archive
 ---
 
 The Blogging University "Everyday Inspiration" prompt for today is "A Story in a Single Image" - encouraging you to look at a selection of photos accompanying their email, and use them as inspiration to pollute the internet a little more with your unique brand of idiocy.

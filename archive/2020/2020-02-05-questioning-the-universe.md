@@ -2,7 +2,7 @@
 layout: post
 title: "Questioning The Universe"
 date: 2020-02-05
-categories: blog archive
+categories: archive
 ---
 
 You might wonder, after posting somewhere in the region of five thousand times to this blog over the last seventeen years, if I might ever run out of things to write about. I wonder about the same thing - more regularly than you might imagine.

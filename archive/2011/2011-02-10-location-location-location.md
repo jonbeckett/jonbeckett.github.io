@@ -2,7 +2,7 @@
 layout: post
 title: "Location Location Location"
 date: 2011-02-10
-categories: blog archive
+categories: archive
 ---
 
 A friend on Tumblr asked where I am located on the wonderful spinning ball of mudearlier. Any excuse to avoid working on this ten year old javascript.

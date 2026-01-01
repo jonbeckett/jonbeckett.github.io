@@ -2,7 +2,7 @@
 layout: post
 title: "Goldilocks Has A Lot To Answer For"
 date: 2011-01-28
-categories: blog archive
+categories: archive
 ---
 
 While sat here in the study at home, in an otherwise empty house, I finally realised the reason I'm having trouble typing, and that I can't feel my toes is because I'm damn cold.

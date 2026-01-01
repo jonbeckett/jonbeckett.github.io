@@ -2,7 +2,7 @@
 layout: post
 title: "Perfect Day"
 date: 2024-02-05
-categories: blog archive
+categories: archive
 ---
 
 Today's writing prompt asks us to describe an ideal day, from beginning to end.

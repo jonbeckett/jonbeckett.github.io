@@ -2,7 +2,7 @@
 layout: post
 title: "Shakespeare Never Wrote This"
 date: 2017-07-12
-categories: blog archive
+categories: archive
 ---
 
 "What light through yonder window breaks? It is the Javascript Client Object Model, and I am the Sun, burning everything to ashes around me while celebrating getting this damn thing working". Now you can see why I'm not a famous playwright. It would have been pretty funny if Shakespeare had written "BURN THIS MOTHER DOWN!" at some point in one of his plays.

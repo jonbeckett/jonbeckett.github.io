@@ -2,7 +2,7 @@
 layout: post
 title: "Heading North Again"
 date: 2010-08-30
-categories: blog archive
+categories: archive
 ---
 
 It seems like a long time since I last wrote anything here. Time for a catchup perhaps?

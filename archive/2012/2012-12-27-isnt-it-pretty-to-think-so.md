@@ -2,7 +2,7 @@
 layout: post
 title: "Isnt It Pretty To Think So"
 date: 2012-12-27
-categories: blog archive
+categories: archive
 ---
 
 I discovered Isn't it Pretty to Think Sovia Nick's Tumblr (he's been listed in theWritersspotlight category for years). He published excerpts while he was writing it, and I became drawn into the world he was creating. Although I've not got very far with the book yet, I'm already drawing parallels with Generation X. It's good.

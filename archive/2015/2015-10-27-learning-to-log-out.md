@@ -2,7 +2,7 @@
 layout: post
 title: "Learning To Log Out"
 date: 2015-10-27
-categories: blog archive
+categories: archive
 ---
 
 It's already 11pm, and I've re-written this opening sentence 4 times. The netbook I just re-installed Windows 10 onto is refusing to play ballI wanted to have the option of booting from a USB stick, but it's decided that's a really bad plan for some ridiculous reason known only to itself. I'll have another look another daythe end goal is to let the computer boot to DOS, and a word processorwhich it should do in about 5 seconds from cold. Yes, I'm thinking about NaNoWriMoAnyway. I can't write about anything I did today, because I spent 90% of it sitting in front of a computer writing Javascript code for a client projectand I don't talk about client projects. Not only would it be un-professional, but the level of interestingness (and no, that's not a real word) would drop to a level that could cause accidents.

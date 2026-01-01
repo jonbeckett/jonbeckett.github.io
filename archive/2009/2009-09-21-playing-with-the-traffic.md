@@ -2,7 +2,7 @@
 layout: post
 title: "Playing With The Traffic"
 date: 2009-09-21
-categories: blog archive
+categories: archive
 ---
 
 Once upon a time I read the book "Chaos" by James Gleick. Within the many and varied unfathomable ideas was the concept of a "strange attractor". It has struck me time and time again while travelling to work on my mountain bike that I am indeed a "strange attractor". I am also entirely invisible to car drivers.

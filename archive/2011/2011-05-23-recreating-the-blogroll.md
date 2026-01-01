@@ -2,7 +2,7 @@
 layout: post
 title: "Recreating The Blogroll"
 date: 2011-05-23
-categories: blog archive
+categories: archive
 ---
 
 In the far distant past, I used to read a lot of blogs. This was back in the days before social networks, microblogs, tumblogs, or whatever else has been invented in the last decade. Blogging was where it was at in terms of publishing an online journal.

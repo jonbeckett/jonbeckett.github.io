@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Told The Marketing Moron To Stuff It"
 date: 2010-09-16
-categories: blog archive
+categories: archive
 ---
 
 While quietly getting on with my work this morning, my desk vibrated gently in that way that usually signals the arrival of something or other on the mobile phone. A sideways glance confirmed it as the little light on the corner of the Blackberry began winking at me.

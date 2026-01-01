@@ -2,7 +2,7 @@
 layout: post
 title: "To Brand Or Not To Brand "
 date: 2009-03-02
-categories: blog archive
+categories: archive
 ---
 
 Over the last eight or nine years I have "existed" in many forms on the internet - a member of Compuserve, a contributor to bulletin boards, a sometime usenet evangelist, a personal blogger, a professional blogger, and a member of countless social networks and instant messaging systems.

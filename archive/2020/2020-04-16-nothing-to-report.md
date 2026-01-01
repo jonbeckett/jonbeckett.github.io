@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing To Report"
 date: 2020-04-16
-categories: blog archive
+categories: archive
 ---
 
 Nothing spectacular happened today. The world turned once upon it's axis, it didn't rain, and I had cheese and pickle sandwiches for lunch.

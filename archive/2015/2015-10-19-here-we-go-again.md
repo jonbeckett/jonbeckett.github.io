@@ -2,7 +2,7 @@
 layout: post
 title: "Here We Go Again"
 date: 2015-10-19
-categories: blog archive
+categories: archive
 ---
 
 I switched back to Blogger. In the last couple of months my blog has moved from Blogger, through WordPress, to Squarespace, to Ghost, and back to Blogger again (we won't mention that I cross-post into Tumblr and LiveJournal - because then you would realise I really am a bit mad).

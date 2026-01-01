@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Happens To Me"
 date: 2012-02-18
-categories: blog archive
+categories: archive
 ---
 
 Saturday began like any other day; with the eruption of the radio alarm clock, the flooding of cold sunlight across the bedroom, and the calls from little people for permission to go downstairs. I vaguely remember 7:30am, and remember thumping my head back into the pillows. I also remember snapping awake at 8:40 and seeing W hopping around with one leg in a pair of jeans.

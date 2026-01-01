@@ -2,7 +2,7 @@
 layout: post
 title: "Recursive Words"
 date: 2014-07-13
-categories: blog archive
+categories: archive
 ---
 
 Having nothing to do on a Sunday morning is dangerous. You get up, have a wash, make breakfast for the kids, and then set about dismantling your online existence and re-assembling it elsewhereor at least you do if you're me. I've been here before, and no doubt I'll be here again.

@@ -2,7 +2,7 @@
 layout: post
 title: "Bags Are Packed"
 date: 2018-01-13
-categories: blog archive
+categories: archive
 ---
 
 A variety of clothes have been washed, ironed, folded, and packed. My work backpack has been emptied of it's usual ephemera, and re-filled with the bare essentials associated with a work trip, various devices are on charge, and I've already performed a "remote check-in" with the airport ahead of the journey tomorrow.

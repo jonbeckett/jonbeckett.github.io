@@ -2,7 +2,7 @@
 layout: post
 title: "Connecting More Dots"
 date: 2016-02-01
-categories: blog archive
+categories: archive
 ---
 
 I am experimenting with the machinery of the vast and mighty internet once again. I'm not sure it will actually come to anything, but it will be interesting. Okit will be interesting to memaybe not to you.

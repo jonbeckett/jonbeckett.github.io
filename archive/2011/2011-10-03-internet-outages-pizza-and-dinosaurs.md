@@ -2,7 +2,7 @@
 layout: post
 title: "Internet Outages Pizza And Dinosaurs"
 date: 2011-10-03
-categories: blog archive
+categories: archive
 ---
 
 The internet officially broke today. You might think I'm being a little melodramatic, but I clearly saw a triangular yellow sign with an exclamation mark on it hovering over the wireless signal strength meter down in the tray for several hours. It could have been "the end of all things" the end of the world that the preacher in the US predicted a few months back, much to my amusement.

@@ -2,7 +2,7 @@
 layout: post
 title: "Life In London"
 date: 2007-02-14
-categories: blog archive
+categories: archive
 ---
 
 Somebody asked for more photos of life in London...

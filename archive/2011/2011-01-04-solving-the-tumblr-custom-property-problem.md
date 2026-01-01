@@ -2,7 +2,7 @@
 layout: post
 title: "Solving The Tumblr Custom Property Problem"
 date: 2011-01-04
-categories: blog archive
+categories: archive
 ---
 
 I just discovered a workaround for the extremely annoying bug in the Tumblr theme "custom property" feature.

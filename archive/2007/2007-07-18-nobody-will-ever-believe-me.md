@@ -2,7 +2,7 @@
 layout: post
 title: "Nobody Will Ever Believe Me"
 date: 2007-07-18
-categories: blog archive
+categories: archive
 ---
 
 While walking through the tunnel towards the east-bound circle line train at Paddington this morning, I could see a train in the distance with it's doors open. At first I wondered which side of the platform it was on, but noticed a young man staring out of the open door towards meunless something had gone very wrong indeed, I can never remember the doors on trains opening out towards the tracks.

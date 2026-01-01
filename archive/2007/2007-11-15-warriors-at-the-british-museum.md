@@ -2,7 +2,7 @@
 layout: post
 title: "Warriors At The British Museum"
 date: 2007-11-15
-categories: blog archive
+categories: archive
 ---
 
 I had the day off work today to visit the British Museum with W and her parents - with tickets for 1st Emperor of China exhibition. No cameras, phones, or anything of the like were allowed within the exhibition (in the spectacular "reading room" in the heart of the museum), so the photo above is an official one borrowed from another website.

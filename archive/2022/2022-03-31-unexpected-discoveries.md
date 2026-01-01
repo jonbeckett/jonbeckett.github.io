@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpected Discoveries"
 date: 2022-03-31
-categories: blog archive
+categories: archive
 ---
 
 Once upon a time I wrote some programming (I'm a software developer in the daytime) to brute-force the problem of finding interesting blogs to read.

@@ -3,7 +3,6 @@ layout: single
 title: "Everything, Everywhere, Again"
 date: 2025-09-12
 categories:
-  - blog
   - "2025"
 ---
 

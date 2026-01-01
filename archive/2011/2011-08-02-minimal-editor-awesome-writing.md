@@ -2,7 +2,7 @@
 layout: post
 title: "Minimal Editor Awesome Writing"
 date: 2011-08-02
-categories: blog archive
+categories: archive
 ---
 
 One of the applications I grew to love in Ubuntu Linux was a simple text editor called "PyRoom"a full screen editor designed to provide minimal distractions.

@@ -2,7 +2,7 @@
 layout: post
 title: "Working On The Blog Script"
 date: 2006-03-30
-categories: blog archive
+categories: archive
 ---
 
 Those of you who have not been reading my blog for very long (or perhaps this is the first time you've seen my blog) will have no idea that I have written a "blog script".

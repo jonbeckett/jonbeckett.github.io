@@ -2,7 +2,7 @@
 layout: post
 title: "A Walk in the Woods"
 date: 2023-01-22
-categories: blog archive
+categories: archive
 ---
 
 After clearing the washing up, filling the washing machine for the second time, and preparing to walk into town to buy groceries this morning, my phone vibrated in my pocket.

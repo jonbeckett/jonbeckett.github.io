@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Night Hotel Club"
 date: 2015-02-10
-categories: blog archive
+categories: archive
 ---
 
 I arrived back from the client site about half an hour ago. After skipping lunch I'm just about ready to eat my own arms, but have learned from last night - I'm not going near the hotel restaurant for a good half an hour - I want to give the staff a chance to switch.

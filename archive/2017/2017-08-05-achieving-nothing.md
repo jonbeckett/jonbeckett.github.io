@@ -2,7 +2,7 @@
 layout: post
 title: "Achieving Nothing"
 date: 2017-08-05
-categories: blog archive
+categories: archive
 ---
 
 In many ways today was the first day of my vacation. The first day when I wasn't racing through chores in the usual breakneck effort to achieve something approaching normality. What do I mean by normality? Maybe I mean making sure there is something to eat for dinner, making sure the clothes are washed, and making sure the house and garden don't look like a minor war didn't just happen within them.

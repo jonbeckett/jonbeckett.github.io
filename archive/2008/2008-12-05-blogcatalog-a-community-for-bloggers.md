@@ -2,7 +2,7 @@
 layout: post
 title: "Blogcatalog A Community For Bloggers"
 date: 2008-12-05
-categories: blog archive
+categories: archive
 ---
 
 After looking around for a blogging community for some time, I came across BlogCatalog a while ago - and have been impressed with it.

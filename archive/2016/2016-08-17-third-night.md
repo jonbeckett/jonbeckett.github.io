@@ -2,7 +2,7 @@
 layout: post
 title: "Third Night"
 date: 2016-08-17
-categories: blog archive
+categories: archive
 ---
 
 While writing the title to this post, the Shakespeare play with a very similar name popped into my head, and I had delusions of grandier for - oh - about a millisecond. Being absolutely truthful, it took me a few moments to even think of the name of the play (it's called "Twelfth Night", if you are similarly challenged in the memory department).

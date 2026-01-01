@@ -2,7 +2,7 @@
 layout: post
 title: "Uncomplicated"
 date: 2020-06-02
-categories: blog archive
+categories: archive
 ---
 
 A fellow blogger commented about the uncomplicated nature of my life today, and I couldn't help smiling. My life *appears* uncomplicated, because that's how I write about it. I suppose compared to many, my life *is* uncomplicated though. I'm wondering what qualifies as complicated now though.

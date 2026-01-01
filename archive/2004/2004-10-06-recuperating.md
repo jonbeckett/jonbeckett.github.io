@@ -2,7 +2,7 @@
 layout: post
 title: "Recuperating"
 date: 2004-10-06
-categories: blog archive
+categories: archive
 ---
 
 It would appear that I am actually getting better today... thank god!

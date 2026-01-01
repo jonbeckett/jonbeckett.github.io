@@ -2,7 +2,7 @@
 layout: post
 title: "Tom George And Sam"
 date: 2016-02-03
-categories: blog archive
+categories: archive
 ---
 
 We have three children, therefore we have three cats. Once each. Simple. We acquired them from a farm house when they were kittensthe last three brothers of a litter. They are ginger, they are huge, and they are almost identical. We knew they were going to be big when they were littlethey each had huge ears, and huge feet.

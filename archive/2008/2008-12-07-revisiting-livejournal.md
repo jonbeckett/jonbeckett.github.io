@@ -2,7 +2,7 @@
 layout: post
 title: "Revisiting Livejournal"
 date: 2008-12-07
-categories: blog archive
+categories: archive
 ---
 
 Many moons ago I was a member of LiveJournal (and blogger, and wordpress, and twitter, and identi.ca, and MySpace, and Vox). Invariably the reason for joining the various services was a mixture of curiousity, and to interact with friends using those services.

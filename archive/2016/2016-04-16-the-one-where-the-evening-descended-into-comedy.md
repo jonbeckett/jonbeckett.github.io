@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Evening Descended Into Comedy"
 date: 2016-04-16
-categories: blog archive
+categories: archive
 ---
 
 On Monday lunchtimeI'm travelling to the other end of the country with workheaded towards a hotel on the outskirts of a northern city to live in a hotel for a few days. Therefore when I left the office on Friday, I threw the laptop into my backpack, and then called home.to see if I needed to pick anything up for dinner."The kids are asking for Dominos""That's really expensive though, isn't it""Up to you.""I'll stop at the supermarket".

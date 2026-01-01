@@ -2,7 +2,7 @@
 layout: post
 title: "Making Christmas Magic"
 date: 2020-12-19
-categories: blog archive
+categories: archive
 ---
 
 Yesterday morning I arrived quietly at the infant school in town, tip-toed into one of the staff rooms, and transformed myself into Father Christmas - complete with a sizeable cushion stuffed into my tunic to attain the proper "Santa" proportions. I have to hand it to the school - it's a *very* good suit.

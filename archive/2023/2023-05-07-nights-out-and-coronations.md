@@ -2,7 +2,7 @@
 layout: post
 title: "Nights Out and Coronations"
 date: 2023-05-07
-categories: blog archive
+categories: archive
 ---
 
 It's early on Sunday evening, and I just sat down in the junk room with a glass of wine. Somehow several days have passed since the last post - not sure how. I used to write regularly - like clockwork - almost every day. Not so much any more, it seems.

@@ -2,7 +2,7 @@
 layout: post
 title: "New Years Day"
 date: 2023-01-01
-categories: blog archive
+categories: archive
 ---
 
 It's mid afternoon on New Year's Day, and I'm piecing together the events of the night before in my head - smiling as each moment comes into focus - each friend, each smile, each laugh, each hug.

@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Night Melrose Place And Pizza"
 date: 2011-09-30
-categories: blog archive
+categories: archive
 ---
 
 A couple of days ago I was looking at Amazon (as you do), and a box set of "Melrose Place" appeared in the suggested items list.

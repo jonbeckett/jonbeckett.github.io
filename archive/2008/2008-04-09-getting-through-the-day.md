@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Through The Day"
 date: 2008-04-09
-categories: blog archive
+categories: archive
 ---
 
 Just a short note to anybody who might read it - I am logged in to Google Talk, Yahoo Messenger, MSN Messenger (aka Windows Live Messenger), ICQ and AIM at some point every day (sometimes for hours on end).

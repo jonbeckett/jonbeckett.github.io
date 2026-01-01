@@ -2,7 +2,7 @@
 layout: post
 title: "Table For One"
 date: 2019-01-22
-categories: blog archive
+categories: archive
 ---
 
 Oh how the mighty fall. After a wonderful evening out last night, this evening saw me braving sub-zero temperatures as I determinedly strode the - oh - two hundred yards to the nearest restaurant to the hotel. Asking for a table for one always seems uncomfortable - I'm not sure why. I'm sure the waiting staff in a restaurant would rather see a single person arrive than a family with several young children that are going to talk, shout, go to the toilet fifteen times, and destroy any and all table decorations within their grasp.

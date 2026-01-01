@@ -2,7 +2,7 @@
 layout: post
 title: "A kind of magic"
 date: 2024-06-08
-categories: blog archive
+categories: archive
 ---
 
 I'm running on empty. Again.

@@ -2,7 +2,7 @@
 layout: post
 title: "To Kindle Or Not To Kindle"
 date: 2010-12-12
-categories: blog archive
+categories: archive
 ---
 
 Ignoring the fact that I've not written here for days, I keep seeing the picture of the Amazon Kindle at the top of their webpage. As much as I keep telling myself that I don't need one, I can't escape the fact that I would really like one.

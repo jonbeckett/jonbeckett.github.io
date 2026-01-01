@@ -2,7 +2,7 @@
 layout: post
 title: "That Thing That You Do"
 date: 2013-07-18
-categories: blog archive
+categories: archive
 ---
 
 Several people have asked what I do for a living recently, and it occurred to me that I very rarely give much away on the social interwebs any moreso I guess this will lift the lid a little.

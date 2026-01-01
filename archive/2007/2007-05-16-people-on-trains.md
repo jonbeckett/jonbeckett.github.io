@@ -2,7 +2,7 @@
 layout: post
 title: "People On Trains"
 date: 2007-05-16
-categories: blog archive
+categories: archive
 ---
 
 While making my way across Paddington station this evening I seem to have found myself in "people watching" mode. As an aside, does stating that I was operating in a "mode" mean that my slide towards total and utter geekdom is nearing completion?

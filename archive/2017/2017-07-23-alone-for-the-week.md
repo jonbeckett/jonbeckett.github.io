@@ -2,7 +2,7 @@
 layout: post
 title: "Alone For The Week"
 date: 2017-07-23
-categories: blog archive
+categories: archive
 ---
 
 The younger children are at Guide Camp for the week - somewhere on the coast - and my other half is visiting the Lake District for a few days - at the opposite end of the country. For the first time in at least perhaps a decade, I'm going to find myself home alone this week. When I mentioned my situation to co-workers a few minutes ago they started to enthuse about the pizza, beer, and video game opportunities opening up before me. They obviously don't realise quite how much my other half might trash the house while last-minute-packing this morning (she leaves at lunchtime). I can confidently guarantee that I will arrive home this evening to a house that looks like it's been ransacked by burglars.

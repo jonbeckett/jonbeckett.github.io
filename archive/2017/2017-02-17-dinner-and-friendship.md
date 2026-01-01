@@ -2,7 +2,7 @@
 layout: post
 title: "Dinner And Friendship"
 date: 2017-02-17
-categories: blog archive
+categories: archive
 ---
 
 I was invited to help celebrate a birthday last night - a simple evening of food, drink, and conversation with close friends. After the month long battle with a seemingly endless succession of viruses, my body seemed to sense that it was time to give me a break, so began cooperating just in time to allow me a pass for the evening.

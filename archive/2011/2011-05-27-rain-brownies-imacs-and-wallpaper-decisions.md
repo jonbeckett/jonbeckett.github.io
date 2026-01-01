@@ -2,7 +2,7 @@
 layout: post
 title: "Rain Brownies Imacs And Wallpaper Decisions"
 date: 2011-05-27
-categories: blog archive
+categories: archive
 ---
 
 Last night I was supposed to accompany the Brownies after work on a walk along the riverbank to the next town, and then catch the train back. The arrival of rain, thunder, lightning, brimstone, frogs and pestilence yesterday afternoon put an end to that.

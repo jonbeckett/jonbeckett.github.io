@@ -2,7 +2,7 @@
 layout: post
 title: "Waddesdon Manor"
 date: 2006-05-22
-categories: blog archive
+categories: archive
 ---
 
 On Saturday we went out with some friends to visit "a National Trust place". We didn't really decide where until we arrived at their house.

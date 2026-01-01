@@ -2,7 +2,7 @@
 layout: post
 title: "Kicking And Screaming"
 date: 2012-03-23
-categories: blog archive
+categories: archive
 ---
 
 Late last night I called home to see how the day had gone, and to find out what on earth I might buy W for her birthday (which was today). An unexpected voice answered the phone - one of our best friends.

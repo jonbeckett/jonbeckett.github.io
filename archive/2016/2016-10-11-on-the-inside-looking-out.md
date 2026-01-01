@@ -2,7 +2,7 @@
 layout: post
 title: "On The Inside Looking Out"
 date: 2016-10-11
-categories: blog archive
+categories: archive
 ---
 
 I worked from home again today - part of a bigger picture I have not written about in the blog, and may never explain fully. Let's just say I needed to make sure somebody followed plans put in place for them. Working from home feels strange after being accustomed to offices, co-workers, trains, busy hotels, packed conference rooms, and so on. Strangely, I think I could get used to it though.

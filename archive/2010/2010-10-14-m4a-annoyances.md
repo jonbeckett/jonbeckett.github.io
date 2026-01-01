@@ -2,7 +2,7 @@
 layout: post
 title: "M4A Annoyances"
 date: 2010-10-14
-categories: blog archive
+categories: archive
 ---
 
 kidsonswings:

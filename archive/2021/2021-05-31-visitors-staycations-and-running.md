@@ -2,7 +2,7 @@
 layout: post
 title: "Visitors Staycations And Running"
 date: 2021-05-31
-categories: blog archive
+categories: archive
 ---
 
 The sun is setting on a busy day. I'm sitting in the junk room, trying to gather my thoughts while sipping a cup of black coffee, and listening to a "Paris Caf(c)" playlist on Spotify. I've just pulled on a zipped hoodie - combating the after-effects of having caught the sun earlier in the day.

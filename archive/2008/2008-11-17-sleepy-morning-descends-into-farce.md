@@ -2,7 +2,7 @@
 layout: post
 title: "Sleepy Morning Descends Into Farce"
 date: 2008-11-17
-categories: blog archive
+categories: archive
 ---
 
 Yesterday (Sunday), the kids decided that 5am was a great time to be up and running around their bedroom, across the landing, and making as much noise as they possibly could. It's surprising how much noise a toybox and two little girls can make at 5 in the morning.

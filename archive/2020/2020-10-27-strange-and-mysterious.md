@@ -2,7 +2,7 @@
 layout: post
 title: "Strange And Mysterious"
 date: 2020-10-27
-categories: blog archive
+categories: archive
 ---
 
 Here we are again - writing a blog post at half past midnight - wondering where the day (and the night) went. It's becoming a habit. After several weeks grinding towards a milestone at work, I'm suddenly at the top of an imaginary hill, looking down, exhaling - getting my breath back.

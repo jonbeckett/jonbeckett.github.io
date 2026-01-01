@@ -2,7 +2,7 @@
 layout: post
 title: "Burning The Candle At Both Ends"
 date: 2015-02-06
-categories: blog archive
+categories: archive
 ---
 
 For the last few years our children have taken part in a summer camp in town, that has steadily grown, year on year. I think last year they had in the region of 400 children, and 100 helpers on-site at any one time. Each year my other half has been inexorably drawn into the organisational side of the camp - last year she became the "owner" of "registrations" - the process of gathering applications from children, parents, and helpers to take part in the the camp. Over the course of the couple of months of coralling, organising, and dealing with questions from the several hundred people, I began to hear horror stories about the online tools they were using to run the camp.

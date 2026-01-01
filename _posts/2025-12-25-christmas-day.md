@@ -3,7 +3,6 @@ layout: single
 title: "Christmas Day"
 date: 2025-12-25
 categories:
-  - blog
   - "2025"
 ---
 

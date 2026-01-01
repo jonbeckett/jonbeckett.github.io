@@ -2,7 +2,7 @@
 layout: post
 title: "Switching Off"
 date: 2020-04-22
-categories: blog archive
+categories: archive
 ---
 
 After sliding out of bed at perhaps 7:30 this morning and fishing some running shorts from the long neglected 'fitness' drawer, I knocked on various daughter's bedroom doors, and asked if they might be running with me. Minutes later only Miss 15 made an appearance.

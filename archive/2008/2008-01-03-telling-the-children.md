@@ -2,7 +2,7 @@
 layout: post
 title: "Telling The Children"
 date: 2008-01-03
-categories: blog archive
+categories: archive
 ---
 
 Our future children were told of our existence today - told that they have a new Mummy and Daddy. Their foster carer broke the news early this afternoon armed with the scrap books and the DVD we put together to introduce ourselves.

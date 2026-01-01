@@ -2,7 +2,7 @@
 layout: post
 title: "Haircuts And Lost Money"
 date: 2019-02-04
-categories: blog archive
+categories: archive
 ---
 
 I left the house a few minutes later than normal this morning, and left a note on my work calendar - "haircut". After the second attempt at cycling into town wearing full waterproofs to defend against the steadily dispiriting rain, I got some cash from the hole in the wall in the high street, and walked across to the barbers.

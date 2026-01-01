@@ -2,7 +2,7 @@
 layout: post
 title: "Unplanned"
 date: 2006-02-19
-categories: blog archive
+categories: archive
 ---
 
 This weekend didn't happen how I thought it was going to happen at all.

@@ -2,7 +2,7 @@
 layout: post
 title: "A State Of Continual Distraction"
 date: 2021-04-09
-categories: blog archive
+categories: archive
 ---
 
 In keeping with the "falling off the blogging horse" theme I seem to have been following recently, I can feel myself being slowly drawn back. It's curious how that happens. The more scientific might start talking about biorhythms. I'm more inclined to call it a state of continual distraction.

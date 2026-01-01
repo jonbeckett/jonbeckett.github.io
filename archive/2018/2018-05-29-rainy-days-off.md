@@ -2,7 +2,7 @@
 layout: post
 title: "Rainy Days Off"
 date: 2018-05-29
-categories: blog archive
+categories: archive
 ---
 
 It's just after lunch. I think it's Wednesday - it's hard to tell - the days are running into one another. I wonder how retired people keep track of the day of the week? Is that why they read the newspaper and watch the news? The rain has abated outside for a little while, but it's still cold and miserable - like a grey blanket has been pulled over the world.

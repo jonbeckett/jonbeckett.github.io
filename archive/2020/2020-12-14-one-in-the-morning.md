@@ -2,7 +2,7 @@
 layout: post
 title: "One In The Morning"
 date: 2020-12-14
-categories: blog archive
+categories: archive
 ---
 
 I think it's fair to say that I've been "mailing it in" on the personal blog for the last few months - writing a little about this or that, without really writing about my day, my thoughts, or anything else really. Perhaps it's time to change that. Perhaps it's time to start emptying my head - or at least trying to.

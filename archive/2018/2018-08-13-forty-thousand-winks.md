@@ -2,7 +2,7 @@
 layout: post
 title: "Forty Thousand Winks"
 date: 2018-08-13
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure why I missed a day on the blog yesterday. I suppose life happened. I'll go with that. While I was at work, and the children were at a holiday club, my other half took a vast collection of old video games to the trade-in store, and gave them a very busy afternoon. She returned two hours later, children in tow, to exchange a mountain of in-store credit for three XBox 360 consoles.

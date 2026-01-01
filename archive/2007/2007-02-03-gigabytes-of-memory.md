@@ -2,7 +2,7 @@
 layout: post
 title: "Gigabytes Of Memory"
 date: 2007-02-03
-categories: blog archive
+categories: archive
 ---
 
 Isn't it weird how your memory fails you sometimes.

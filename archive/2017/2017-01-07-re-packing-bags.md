@@ -2,7 +2,7 @@
 layout: post
 title: "Re Packing Bags"
 date: 2017-01-07
-categories: blog archive
+categories: archive
 ---
 
 Tomorrow afternoon I travel to the far end of the country one again. The journey would normally take me into the heart of London, and back out, heading north along the east coast. Not tomorrow, on account of the London Underground staff complicating the lives of several million people. I understand why unions exist, and I understand why people go on strike, but in this case I have little or no sympathy. I'm not going to get into it here.

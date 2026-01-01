@@ -2,7 +2,7 @@
 layout: post
 title: "Contents Of The Bag Of Holding"
 date: 2015-06-12
-categories: blog archive
+categories: archive
 ---
 
 Over the years I've written out a list of the things I tend to carry around a few timesI thought it might be interesting to re-visit the theme, and take a look.

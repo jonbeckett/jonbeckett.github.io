@@ -2,7 +2,7 @@
 layout: post
 title: "Invisibility"
 date: 2024-10-27
-categories: blog archive
+categories: archive
 ---
 
 Given unanticipated "home alone" status this morning I took it upon myself to wander into town and get some fresh air. Perhaps grab some breakfast at the pub, have a look in the bookshop, wander through the park and take pictures of the autumn leaves... just "be" - something I very rarely do.

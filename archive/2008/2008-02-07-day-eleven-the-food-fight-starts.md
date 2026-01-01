@@ -2,7 +2,7 @@
 layout: post
 title: "Day Eleven The Food Fight Starts"
 date: 2008-02-07
-categories: blog archive
+categories: archive
 ---
 
 Okay - we finally have something to think about.

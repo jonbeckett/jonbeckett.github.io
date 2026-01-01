@@ -2,7 +2,7 @@
 layout: post
 title: "The Junk Room"
 date: 2017-08-10
-categories: blog archive
+categories: archive
 ---
 
 This morning I took it upon myself to clear up the "junk room". We are fortunate enough in our ramshackle house to have a room that isn't really used for anything - and somehow I appropriated it many years ago as "my room". I have shared it from time to time, and it has been re-purposed on occasion, but by and large the room that would have been a sitting room in the 1930s has become mine.

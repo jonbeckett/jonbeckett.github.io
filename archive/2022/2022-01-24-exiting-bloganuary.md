@@ -2,7 +2,7 @@
 layout: post
 title: "Exiting Bloganuary"
 date: 2022-01-24
-categories: blog archive
+categories: archive
 ---
 
 After consistently responding to writing prompts for twenty two days, I'm stepping away from the [Bloganuary](https://bloganuary.wordpress.com) writing challenge today. Life and other commitments are stacking up around me - it's becoming increasingly difficult to find time for it.

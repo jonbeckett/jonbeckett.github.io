@@ -2,7 +2,7 @@
 layout: post
 title: "Late Night With The Netbook"
 date: 2012-07-27
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards 1am, and I'm sitting in the dark with the netbook. I'm camping out in the lounge tonight - the patio doors are wide open, with occasional moths, bugs, and night visitors making their way into the dim light from LastFM on the XBox.

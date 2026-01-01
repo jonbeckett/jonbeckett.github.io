@@ -2,7 +2,7 @@
 layout: post
 title: "The Soundtrack Of A Day Spent Working From Home"
 date: 2010-02-24
-categories: blog archive
+categories: archive
 ---
 
 After a steady decline through yesterday afternoon and evening, I woke this morning with rather more aches and pains than I normally have - the kind that normally accompany some virus or other. Given the advance warning (and the absence of colleagues for the same reason in recent days), I worked from home. Working from home releases me from the silent world of the office and allows a soundtrack for the day. The only question therefore was what to listen to.

@@ -2,7 +2,7 @@
 layout: post
 title: "Goodbye Sunday"
 date: 2016-11-13
-categories: blog archive
+categories: archive
 ---
 
 It's funny really - you look forward to the weekend throughout the week, and then when it gets here you don't really get a chance to enjoy it because you're swamped with expectations, obligations, and a list of chores a mile long.

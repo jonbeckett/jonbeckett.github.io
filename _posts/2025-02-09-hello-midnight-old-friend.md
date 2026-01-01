@@ -3,7 +3,6 @@ layout: single
 title: "Hello midnight, old friend"
 date: 2025-02-09
 categories:
-  - blog
   - "2025"
 ---
 

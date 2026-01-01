@@ -2,7 +2,7 @@
 layout: post
 title: "On The Road"
 date: 2006-10-16
-categories: blog archive
+categories: archive
 ---
 
 While the title of this post may be "On The Road", I can assure you that it's content bears no relation to the Jack Kerouak book. If a stormtrooper were stood alongside this entry, it would probably say "nothing to see here... move along".

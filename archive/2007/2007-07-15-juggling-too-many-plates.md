@@ -2,7 +2,7 @@
 layout: post
 title: "Juggling Too Many Plates"
 date: 2007-07-15
-categories: blog archive
+categories: archive
 ---
 
 I've been having something of a tidy up both my computer and the internet this afternoon, and realised just how far the tentacles of my internet presence spread. It's something of a shock.

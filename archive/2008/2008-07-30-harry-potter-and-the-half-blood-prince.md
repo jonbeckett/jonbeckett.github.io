@@ -2,7 +2,7 @@
 layout: post
 title: "Harry Potter And The Half Blood Prince"
 date: 2008-07-30
-categories: blog archive
+categories: archive
 ---
 
 Could this be a still from the forthcoming "Harry Potter and the Half Blood Prince" movie ?

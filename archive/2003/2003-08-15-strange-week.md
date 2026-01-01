@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Week"
 date: 2003-08-15
-categories: blog archive
+categories: archive
 ---
 
 On Wednesday this week, myself and my father-in-law went on a "Hawk Flying Experience" day at the Andover Hawk Conservancy (www.hawk-conservancy.org).

@@ -2,7 +2,7 @@
 layout: post
 title: "Hierophant"
 date: 2008-03-31
-categories: blog archive
+categories: archive
 ---
 
 You are The Hierophant

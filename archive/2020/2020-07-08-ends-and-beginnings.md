@@ -2,7 +2,7 @@
 layout: post
 title: "Ends And Beginnings"
 date: 2020-07-08
-categories: blog archive
+categories: archive
 ---
 
 I visited the office yesterday - for the first time in four months. A flying visit to empty my desk, and collect a monitor and an office chair. The company I work for is finally following the example set by the likes of Automattic, and doing away with the office entirely - at least for the moment.

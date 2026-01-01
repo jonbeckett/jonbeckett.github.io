@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday 2"
 date: 2011-06-28
-categories: blog archive
+categories: archive
 ---
 
 I'm off work for the afternoon, it's raining outside, and I'm sat here with a cup of tea reading the various "Truthful Tuesday" posts on Tumblr. It struck me while reading how disarmingly candid some of them are, and felt that maybe I should drop some of the brick walls I've built around here.

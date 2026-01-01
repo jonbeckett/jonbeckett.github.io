@@ -2,7 +2,7 @@
 layout: post
 title: "Stopping The Madness"
 date: 2016-04-15
-categories: blog archive
+categories: archive
 ---
 
 I'm stopping the cross-posting madness. For the last several months I had been cross-posting between WordPress, Tumblr, and LiveJournal. I've had enough of it. I know I've donethis before (severaltimes), I know I've gone back on my words (several times), and I know I never learn either. I have killed the LiveJournal blog entirely, and have removed the cross-posted bits from Tumblr too. If people want to read my nonsense, they can come here and find it.

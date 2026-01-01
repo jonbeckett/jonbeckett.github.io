@@ -2,7 +2,7 @@
 layout: post
 title: "All The Worlds A Stage"
 date: 2012-12-19
-categories: blog archive
+categories: archive
 ---
 
 Shakespeare said;

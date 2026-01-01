@@ -2,7 +2,7 @@
 layout: post
 title: "End Of The Weekend"
 date: 2005-08-21
-categories: blog archive
+categories: archive
 ---
 
 It's late on Sunday night and I guess it's the end of the weekend.

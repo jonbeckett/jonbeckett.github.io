@@ -2,7 +2,7 @@
 layout: post
 title: "Last Day Of February"
 date: 2018-02-27
-categories: blog archive
+categories: archive
 ---
 
 Where on earth is this year going? While it feels like I only just returned to the office after Christmas, somehow it's already the end of February. Does life keep accelerating down-hill like this? Will I be saying the same thing about the end of March next year ?

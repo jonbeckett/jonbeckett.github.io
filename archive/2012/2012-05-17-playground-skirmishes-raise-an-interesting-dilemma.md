@@ -2,7 +2,7 @@
 layout: post
 title: "Playground Skirmishes Raise An Interesting Dilemma"
 date: 2012-05-17
-categories: blog archive
+categories: archive
 ---
 
 Over the last few years I have written the story of our adventures as a family, and our children in a blog. I've shared countless stories, observations and insights because the story has remained our own. Events this week have challenged the future of me writing about anybody but myself, and I'm now not sure what the future might hold in terms of "telling the wider story".

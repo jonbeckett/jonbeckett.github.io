@@ -2,7 +2,7 @@
 layout: post
 title: "The Roads Not Taken"
 date: 2024-03-29
-categories: blog archive
+categories: archive
 ---
 
 After the properly scary events of yesterday -- which curiously seem like several days ago now -- my body seems to be rallying somewhat. The pain in my shoulder, side, and arm has gone. I just have a snotty nose and occasional cough to deal with.

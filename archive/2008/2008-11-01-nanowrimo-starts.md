@@ -2,7 +2,7 @@
 layout: post
 title: "Nanowrimo Starts"
 date: 2008-11-01
-categories: blog archive
+categories: archive
 ---
 
 It's officially the 1st November. Over the next month, if all goes well, I will write my first novel.

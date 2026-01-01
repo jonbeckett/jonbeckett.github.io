@@ -2,7 +2,7 @@
 layout: post
 title: "Pretending To Be A Teacher"
 date: 2016-02-11
-categories: blog archive
+categories: archive
 ---
 
 I walked the route from Paddington to Euston again this morning. Despite the sub-zero temperatures, the sun shone, and made the 40 minute walk a pleasure, rather than a burden. Arriving with a little while to spare, I wandered across to the coffee shop that has become a bolt-hole over the last few days. A few cherished moments of peace and quiet.

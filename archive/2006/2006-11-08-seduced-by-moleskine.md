@@ -2,7 +2,7 @@
 layout: post
 title: "Seduced By Moleskine"
 date: 2006-11-08
-categories: blog archive
+categories: archive
 ---
 
 I have a secret.

@@ -2,7 +2,7 @@
 layout: post
 title: "Routine And The Order Of Things"
 date: 2015-03-10
-categories: blog archive
+categories: archive
 ---
 
 When I arrived home from Scotland, I found myself at the kitchen sink within half an hour - washing up cups, plates, and cutlery, and putting things away in the kitchen cupboards. Every time I opened a cupboard I found something that didn't belong, or something out of place. It struck me how many small rules we invent to establish an "order of things" around us.

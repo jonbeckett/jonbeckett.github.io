@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The New Bike Arrived"
 date: 2016-05-03
-categories: blog archive
+categories: archive
 ---
 
 I worked from home this morningpartly to keep an eye on our eldest daughterwho will remain another subject for another time for quite some time to comeand partly to wait for the new bike to arrive that was foreshadowed in my tealeaves. Or maybe an email arrived yesterday evening telling me it was en-route, for delivery today.

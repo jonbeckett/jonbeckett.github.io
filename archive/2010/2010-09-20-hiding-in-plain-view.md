@@ -2,7 +2,7 @@
 layout: post
 title: "Hiding In Plain View"
 date: 2010-09-20
-categories: blog archive
+categories: archive
 ---
 
 Why do so many people hide behind pseudonyms online? Why are they so scared of being themselves?

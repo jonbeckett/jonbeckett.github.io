@@ -2,7 +2,7 @@
 layout: post
 title: "Moving Projects To Sourceforge"
 date: 2006-08-09
-categories: blog archive
+categories: archive
 ---
 
 I have decided - somewhat reluctantly - to move my development projects (PluggedOut Blog and PluggedOut CMS) to SourceForge.

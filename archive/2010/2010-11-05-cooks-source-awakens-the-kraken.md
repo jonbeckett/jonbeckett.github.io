@@ -2,7 +2,7 @@
 layout: post
 title: "Cooks Source Awakens The Kraken"
 date: 2010-11-05
-categories: blog archive
+categories: archive
 ---
 
 Inbetween picking away at some freelance webdesign work last night, a story crept from the sleepy backwaters of the internet, across LiveJournal, then Twitter, then Facebook, and was eventually spashed across the likes of the Wall Street Journal.

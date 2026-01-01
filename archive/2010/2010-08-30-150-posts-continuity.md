@@ -2,7 +2,7 @@
 layout: post
 title: "150 Posts Continuity"
 date: 2010-08-30
-categories: blog archive
+categories: archive
 ---
 
 It just occurred to me that this is going to be my 150th post on Tumblr, so I thought a few words might be appropriate.

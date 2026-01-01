@@ -2,7 +2,7 @@
 layout: post
 title: "Notes From Euston Station"
 date: 2016-02-09
-categories: blog archive
+categories: archive
 ---
 
 When I arrived at Paddington station this morning, the concourse was filled with people waiting for the underground to open it's gates againthey close it when the platforms are too congested to avoid danger (believe it or not, people DO fall onto the tracksalthough they are very rarely run over). I took one look at the growing crowd, and thought "sod this". Moments later I was out of the station, walking towards Euston.

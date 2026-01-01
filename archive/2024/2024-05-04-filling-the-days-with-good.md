@@ -2,7 +2,7 @@
 layout: post
 title: "Filling the days with good"
 date: 2024-05-04
-categories: blog archive
+categories: archive
 ---
 
 When our daughters were young, friends with grown children confidently remarked that while boys were hard work while young, girls would provide an entirely different challenge in the years ahead.

@@ -2,7 +2,7 @@
 layout: post
 title: "Thursday Morning Haircut Club"
 date: 2015-10-29
-categories: blog archive
+categories: archive
 ---
 
 I split the skin on my right thumb a few days ago, under the edge of the nail. Whenever I put pressure on my thumb, it hurts. I press the spacebar on the keyboard with my right thumb. Every word hurts. I guess I'm telling you this so you know that I suffered to bring you this post. That sounds wonderfully dramatic, doesn't itsuffering for your artexcept I very much doubt you can call a blog "art". Certainly not this blog.

@@ -2,7 +2,7 @@
 layout: post
 title: "Being Sociable"
 date: 2010-03-30
-categories: blog archive
+categories: archive
 ---
 
 Over the past few months I have been "hitting" twitter pretty hard - exploring what value might be had through growing the number of people I follow, and who follow me. It turns out there is very little appreciable value, and it's inversely proportional to the amount of time suck involved.

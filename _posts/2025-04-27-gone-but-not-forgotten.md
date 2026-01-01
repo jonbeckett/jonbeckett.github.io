@@ -3,7 +3,6 @@ layout: single
 title: "Gone but not forgotten"
 date: 2025-04-27
 categories:
-  - blog
   - "2025"
 ---
 

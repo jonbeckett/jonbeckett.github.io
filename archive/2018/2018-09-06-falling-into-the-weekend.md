@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Into The Weekend"
 date: 2018-09-06
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting in front of the computer in the junk room for the last hour, thinking I should post something or other, but no words are appearing on the screen. The tap that so often releases a torrent of idiocy into my little corner of the internet doesn't seem to be cooperating.

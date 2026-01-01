@@ -2,7 +2,7 @@
 layout: post
 title: "Choose Your Poison"
 date: 2020-11-29
-categories: blog archive
+categories: archive
 ---
 
 A few nights ago I heard a mouse running around in our attic. I'm guessing it came in from the houses alongside, and I'm guessing it's not alone.

@@ -2,7 +2,7 @@
 layout: post
 title: "Slowly And Quietly"
 date: 2018-01-01
-categories: blog archive
+categories: archive
 ---
 
 I don't go back to work until Thursday, and am trying to keep well away from my work phone, which sits in the pocket of my backpack, just across the room from me. I know most of my co-workers return today. It feels like I'm dipping a toe into the new year - inching my way in, slowly and quietly.

@@ -2,7 +2,7 @@
 layout: post
 title: "Dreams Dogs and Operations"
 date: 2023-10-20
-categories: blog archive
+categories: archive
 ---
 
 The rain began falling before I woke this morning, and continued throughout the day. A steady stream of water from a dark grey sky, turning puddles into lakes, and gutters into streams.

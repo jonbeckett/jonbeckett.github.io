@@ -2,7 +2,7 @@
 layout: post
 title: "Hiding In The Junk Room"
 date: 2014-11-22
-categories: blog archive
+categories: archive
 ---
 
 I used to call this place the "study", but in reality it's "the junk room". A leftover room in the house where we used to put things "out of the way". Since having the children the room became "the room where the kids won't wreck stuff", and then it evolved into "the room where the computers are".

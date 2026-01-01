@@ -2,7 +2,7 @@
 layout: post
 title: "Memory Failure"
 date: 2019-06-27
-categories: blog archive
+categories: archive
 ---
 
 While walking across the green outside our house this evening - en route to the corner shop to buy drinks and snacks to get us through England playing in the World Cup quarter final - I thought of something I had missed at work - a part of the development project I am working on. I can't remember what it was now - I know I thought of something, and thought to myself at the time "you need to remember this" - but of course it's gone - and I'm kind of furious with myself.

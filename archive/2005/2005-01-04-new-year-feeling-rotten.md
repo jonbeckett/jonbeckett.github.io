@@ -2,7 +2,7 @@
 layout: post
 title: "New Year Feeling Rotten"
 date: 2005-01-04
-categories: blog archive
+categories: archive
 ---
 
 It's supposed to be my first day back at work for the new year today, and I'm sat at home with a killer headache, and a snotty nose.

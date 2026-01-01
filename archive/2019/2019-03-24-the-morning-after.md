@@ -2,7 +2,7 @@
 layout: post
 title: "The Morning After"
 date: 2019-03-24
-categories: blog archive
+categories: archive
 ---
 
 It's half past 10 in the morning as I sit down to write this. I've been up since about a little before 9am - showered, fresh clothes, and a relatively clear head. It's miraculous really, because I didn't sleep.

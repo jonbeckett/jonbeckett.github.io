@@ -2,7 +2,7 @@
 layout: post
 title: "Late Night Thoughts"
 date: 2006-08-27
-categories: blog archive
+categories: archive
 ---
 
 Following week upon week, working huge numbers of hours on an incredibly complex project at work, you would think a night off would be greeted with open arms - and yet I find myself sat here greeting the first minutes of Sunday morning with much on my mind.

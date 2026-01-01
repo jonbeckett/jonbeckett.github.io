@@ -2,7 +2,7 @@
 layout: post
 title: "Half Past My Bedtime"
 date: 2022-05-30
-categories: blog archive
+categories: archive
 ---
 
 When my middle daughter was about four years old, she loved talking. She still loves talking. She would often know what she wanted to say, but the exact choice of words would get away from her.

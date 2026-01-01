@@ -2,7 +2,7 @@
 layout: post
 title: "The Wheels On The Bus"
 date: 2016-10-26
-categories: blog archive
+categories: archive
 ---
 
 You know the children's song "the wheels on the bus go round and round" ? - I can't help feeling that yesterday the wheels on my bus started to fall off one by one - and today that process has continued. I know the photo accompanying this post is of a bike (my bike), but I can't think of a good phrase involving a bicycle falling apart, other than the "Mary Mary" rhyme, where aspoke from her back wheel ends up somewhere unmentionable.

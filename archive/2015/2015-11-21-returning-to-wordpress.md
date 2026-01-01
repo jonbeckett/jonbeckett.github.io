@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To Wordpress"
 date: 2015-11-21
-categories: blog archive
+categories: archive
 ---
 
 After something of an adventure duringthe past few months, I find myself back at WordPressfinally putting some foundations in place. Making an investment in the form of a domain nameseems analogous to signing the leasehold on a brick-and-mortar property.

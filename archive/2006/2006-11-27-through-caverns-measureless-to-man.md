@@ -2,7 +2,7 @@
 layout: post
 title: "Through Caverns Measureless To Man"
 date: 2006-11-27
-categories: blog archive
+categories: archive
 ---
 
 I woke this morning with a piece of poetry in my head.

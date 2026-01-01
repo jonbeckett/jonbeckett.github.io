@@ -2,7 +2,7 @@
 layout: post
 title: "Make The Voices Stop"
 date: 2016-03-29
-categories: blog archive
+categories: archive
 ---
 
 I noticed earlier this evening that my Tumblr account has gained theability to write comments on other people's posts, and to see comments written by others. Quite how or why it's taken Tumblr so long to re-institute comments is anybody's guess, but I've got a fair idea.

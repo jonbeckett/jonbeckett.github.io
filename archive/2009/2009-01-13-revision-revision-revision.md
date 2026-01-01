@@ -2,7 +2,7 @@
 layout: post
 title: "Revision Revision Revision"
 date: 2009-01-13
-categories: blog archive
+categories: archive
 ---
 
 I've been busy revising for a Microsoft exam all weekthe .

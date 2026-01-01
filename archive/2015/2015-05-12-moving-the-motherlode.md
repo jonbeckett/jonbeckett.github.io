@@ -2,7 +2,7 @@
 layout: post
 title: "Moving The Motherlode"
 date: 2015-05-12
-categories: blog archive
+categories: archive
 ---
 
 This is going to be a very nerdy post. Just warning you in advance.

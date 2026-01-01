@@ -2,7 +2,7 @@
 layout: post
 title: "The Community Of Bloggers Opens"
 date: 2008-11-27
-categories: blog archive
+categories: archive
 ---
 
 After receiving no feedback whatsoever, I took the slightly risky move last night of registering the domain name anyway because it was available - and once I had the domain name, it seemed a shame not to use it. You can therefore trudge over to the following shiny new website;

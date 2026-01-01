@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where We Nearly Achieved Warp Speed On A Sledge"
 date: 2013-01-19
-categories: blog archive
+categories: archive
 ---
 
 There had been plans to wander into town this morning in search of a new mobile phone. Somehow that plan got relegated after looking at my other half (who had promised to take the kids out to a nearby hill on their sledges). Ten minutes later I was the one stood in the hallway with walking boots and a warm coat on, waiting for three little people to find waterproof trousers, snow boots, hats and gloves.

@@ -2,7 +2,7 @@
 layout: post
 title: "Changing Things Around"
 date: 2019-07-27
-categories: blog archive
+categories: archive
 ---
 
 In something of an experiment this evening, I'm writing this post on the old Apple iMac perched on the spare desk in the junk room at home. The last time it was used "in anger" was for NaNoWriMo last year. Following in the footsteps of several notable writers, writing on the iMac divorces me from the distractions of the internet, on account of it not supporting the newer SSL protocols (the magic that causes the padlock to appear in your web browser).

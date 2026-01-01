@@ -2,7 +2,7 @@
 layout: post
 title: "Counting Friends"
 date: 2013-09-22
-categories: blog archive
+categories: archive
 ---
 
 Last night we headed out with friends to a big hotel on the outskirts of town, ate a wonderful meal, applauded the local radio station awards, drank rather a lot of wine, and had a fantastic evening. I was going to tell the story of the nightand began doing sobut found myself censoring to such a degree that the entire exercise became almost pointless.

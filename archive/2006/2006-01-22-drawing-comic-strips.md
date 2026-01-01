@@ -2,7 +2,7 @@
 layout: post
 title: "Drawing Comic Strips"
 date: 2006-01-22
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here this evening thinking about drawing an online comic. For the last hour or so I've been looking around on the web at various online comic strips. My favourites are probably Atland by Nate Piekos (pictured to the right), and Copper by Kazu Kibuishi.

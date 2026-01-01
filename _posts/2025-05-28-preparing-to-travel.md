@@ -3,7 +3,6 @@ layout: single
 title: "Preparing to Travel"
 date: 2025-05-28
 categories:
-  - blog
   - "2025"
 ---
 

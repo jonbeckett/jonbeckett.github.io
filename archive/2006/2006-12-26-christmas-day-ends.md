@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Day Ends"
 date: 2006-12-26
-categories: blog archive
+categories: archive
 ---
 
 As Christmas's go, this one was pretty good (apart from one thing that I will get to in a minute).

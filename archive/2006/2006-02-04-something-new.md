@@ -2,7 +2,7 @@
 layout: post
 title: "Something New"
 date: 2006-02-04
-categories: blog archive
+categories: archive
 ---
 
 For the last few evenings I have been working on a new website - a public workshop for writers of all abilities to put their writing out there, and to give and receive comment on each other's work.

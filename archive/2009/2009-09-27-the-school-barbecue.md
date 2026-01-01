@@ -2,7 +2,7 @@
 layout: post
 title: "The School Barbecue"
 date: 2009-09-27
-categories: blog archive
+categories: archive
 ---
 
 This afternoon we all trooped off to one of the several events throughout the year at the primary school two of our girls attend. Well troop is somewhat of anexaggeration, given the tantrum I had to deal with en-route.

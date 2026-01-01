@@ -2,7 +2,7 @@
 layout: post
 title: "Goodbye Europe"
 date: 2016-06-24
-categories: blog archive
+categories: archive
 ---
 
 I woke at 3am this morning, switched my phone on, and clumsily typed in the address of the BBC news website. Even at 3am the result of the European Union exit referendum was obvious - there were half a million more votes to leave than stay. As the next hour wore on, the gap grew to three quarters of a million people. Then I fell asleep.

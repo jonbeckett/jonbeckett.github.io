@@ -2,7 +2,7 @@
 layout: post
 title: "Iphone Survives 21 Upgrade"
 date: 2008-09-12
-categories: blog archive
+categories: archive
 ---
 
 Among the various scare stories abounding on the internet, I upgraded both iTunes and my iPhone this evening.

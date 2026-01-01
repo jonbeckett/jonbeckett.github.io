@@ -2,7 +2,7 @@
 layout: post
 title: "Returning To Manchester"
 date: 2017-06-04
-categories: blog archive
+categories: archive
 ---
 
 Today began like any other work-day - scrambling through breakfast time with the children, before retrieving my bicycle from the shed in the garden, and pedalling off down the road to do battle with the local army of trophy mums in the winding Victorian streets that surround our house.

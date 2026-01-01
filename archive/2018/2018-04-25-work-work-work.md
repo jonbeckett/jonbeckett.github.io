@@ -2,7 +2,7 @@
 layout: post
 title: "Work Work Work"
 date: 2018-04-25
-categories: blog archive
+categories: archive
 ---
 
 I'm writing this from the junk room at home. I got back about an hour ago, and am still decompressing. My other half and the younger girls are at their dance class - they will be home soon - Miss 17 is watching some kind of Anime series on Netflix - I can hear excitable Japanese voices and thunderous sword clash noises every so often.

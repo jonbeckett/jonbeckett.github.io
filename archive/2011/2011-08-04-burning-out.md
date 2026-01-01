@@ -2,7 +2,7 @@
 layout: post
 title: "Burning Out"
 date: 2011-08-04
-categories: blog archive
+categories: archive
 ---
 
 I arrived at work some time before 9 this morning. I left some time just after 6 this evening. The hours inbetween were a blur. The last few days have been.

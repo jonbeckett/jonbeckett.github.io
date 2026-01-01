@@ -2,7 +2,7 @@
 layout: post
 title: "On Site And Using The Web"
 date: 2003-01-23
-categories: blog archive
+categories: archive
 ---
 
 Today has been a long day already.

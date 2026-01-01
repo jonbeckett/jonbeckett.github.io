@@ -3,7 +3,6 @@ layout: single
 title: "Favourite Foods"
 date: 2025-09-14
 categories:
-  - blog
   - "2025"
 ---
 

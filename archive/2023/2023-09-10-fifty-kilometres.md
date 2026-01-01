@@ -2,7 +2,7 @@
 layout: post
 title: "Fifty Kilometres"
 date: 2023-09-10
-categories: blog archive
+categories: archive
 ---
 
 I finally made it to fifty kilometres this morning in my month-long journey towards running one hundred kilometres to raise funds for Great Ormond Street Hospital in London.

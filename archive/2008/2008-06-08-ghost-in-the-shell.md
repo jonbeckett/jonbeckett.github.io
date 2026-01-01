@@ -2,7 +2,7 @@
 layout: post
 title: "Ghost In The Shell"
 date: 2008-06-08
-categories: blog archive
+categories: archive
 ---
 
 This evening I am having the last couple of hours of the weekend to myself watching the second Ghost in the Shell movie - "Innocence". For those who have not heard of "Ghost in the Shell", Wikipedia probably explains it better than I ever could;

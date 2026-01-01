@@ -2,7 +2,7 @@
 layout: post
 title: "Pixars New Baby Wall E"
 date: 2008-01-15
-categories: blog archive
+categories: archive
 ---
 
 I have just been watching the trailer for the new Pixar movie "Wall E"...

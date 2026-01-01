@@ -2,7 +2,7 @@
 layout: post
 title: "Backdated"
 date: 2018-07-27
-categories: blog archive
+categories: archive
 ---
 
 I'm writing this post at 1:21am on Saturday night. The blog will show the date as Sunday. We all know that the early hours of Sunday morning are still Saturday night, don't we. Everybody knows that. Maybe.

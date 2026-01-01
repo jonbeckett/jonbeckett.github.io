@@ -2,7 +2,7 @@
 layout: post
 title: "Blackberry Applications And Config"
 date: 2010-10-20
-categories: blog archive
+categories: archive
 ---
 
 I'm writing this partly for my own reference in case the damn Blackberry lunches itself again. What follows is a list of the apps I have installed, and the changes I have made from the stock system;

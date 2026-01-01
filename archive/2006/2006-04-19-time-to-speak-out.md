@@ -2,7 +2,7 @@
 layout: post
 title: "Time To Speak Out"
 date: 2006-04-19
-categories: blog archive
+categories: archive
 ---
 
 I've just been watching a documentary about the fur trade, and thought it might be time to speak out about some of the things I believe in. A lot of the people I know (even close friends) have no idea about what I'm about to let on.

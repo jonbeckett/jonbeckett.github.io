@@ -2,7 +2,7 @@
 layout: post
 title: "Slogging Away"
 date: 2006-04-19
-categories: blog archive
+categories: archive
 ---
 
 I feel like I'm shackled to a treadmill at the moment - with no obvious way of getting off.

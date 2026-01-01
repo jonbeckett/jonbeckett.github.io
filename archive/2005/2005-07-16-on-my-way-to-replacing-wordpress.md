@@ -2,7 +2,7 @@
 layout: post
 title: "On My Way To Replacing Wordpress"
 date: 2005-07-16
-categories: blog archive
+categories: archive
 ---
 
 Hi all,

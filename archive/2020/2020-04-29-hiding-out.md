@@ -2,7 +2,7 @@
 layout: post
 title: "Hiding Out"
 date: 2020-04-29
-categories: blog archive
+categories: archive
 ---
 
 I'm hiding out in the lounge. My other half has taken over the junk room (where the big computer lives), and is trying to cut together a video for the infant school with each of the staff members singing and dancing along to a pre-agreed music track, along with their children.

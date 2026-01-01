@@ -2,7 +2,7 @@
 layout: post
 title: "Everybody Is Ignorant On The Underground"
 date: 2008-09-30
-categories: blog archive
+categories: archive
 ---
 
 Just had a typical journey on the London Underground. Thought I would share.

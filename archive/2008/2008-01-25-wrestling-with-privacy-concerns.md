@@ -2,7 +2,7 @@
 layout: post
 title: "Wrestling With Privacy Concerns"
 date: 2008-01-25
-categories: blog archive
+categories: archive
 ---
 
 At the moment this blog is very candid indeed - and always has been. While this isn't a problem for us at the moment, it does raise concerns for the near future, and talking about our various adventures in parenthood. In recent days I have been toying with the idea of closing this blog completely down, and starting again under the veil of a fictional persona - a pseudonym.

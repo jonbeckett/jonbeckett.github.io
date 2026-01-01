@@ -2,7 +2,7 @@
 layout: post
 title: "Filling The Day"
 date: 2008-03-07
-categories: blog archive
+categories: archive
 ---
 
 W has gone on a school trip with our eldest daughter today - acting as a helper. I'm almost apprehensive about the state she will return in.

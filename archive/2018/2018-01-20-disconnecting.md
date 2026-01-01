@@ -2,7 +2,7 @@
 layout: post
 title: "Disconnecting"
 date: 2018-01-20
-categories: blog archive
+categories: archive
 ---
 
 I'm not sure when this feeling started - maybe a few days ago, or a few weeks, or even a few months ago. It feels like I'm slowly disconnecting from the social internet. I read a piece by a journalist earlier, where she made a forthright speech about not installing Instagram on her new mobile phone, and I rather sanctimoniously found myself thinking "told you so".

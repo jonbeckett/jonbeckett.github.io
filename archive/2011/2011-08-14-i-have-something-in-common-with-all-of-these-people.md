@@ -2,7 +2,7 @@
 layout: post
 title: "I Have Something In Common With All Of These People"
 date: 2011-08-14
-categories: blog archive
+categories: archive
 ---
 
 Douglas Adams, Ayaan Hirsi Ali, Woody Allen, Lance Armstrong, Darren Aronofsky, Isaac Asimov, Dan Barker, Dave Barry, Ingmar Bergman, Richard Branson, James Cameron, George Carlin, John Carmack, Adam Carolla, John Carpenter, Asia Carrera, Fidel Castro, Noam Chomsky, Jeremy Clarkson, Billy Connolly, Francis Crick, David Cronenberg, David Cross, Alan Cumming, Rodney Dangerfield, Richard Dawkins, Daniel Dennett, Ani DiFranco, Micky Dolenz, Harlan Ellison, Richard Feynman, Harvey Fierstein, Larry Flynt, Dave Foley, Jodie Foster, Janeane Garofalo, Bill Gates, Bob Geldof, Ricky Gervais, Ira Glass, James Gleick, Robert Heinlein, Ernest Hemingway, Katharine Hepburn, Christopher Hitchens, Jamie Hyneman, Eddie Izzard, Penn Jillette, Billy Joel, Diane Keaton, Michael Kinsley, Artie Lange, Richard Leakey, Bruce Lee, Tom Lehrer, John Lennon, Tom Leykis, James Lipton, H.

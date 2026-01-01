@@ -2,7 +2,7 @@
 layout: post
 title: "Difficult Times"
 date: 2005-07-28
-categories: blog archive
+categories: archive
 ---
 
 After dragging myself out of bed this morning I was blundering around the kitchen in my half awake state and managed to kick an empty wine bottle across the floor (destroying it in the process). I stood there in my dressing gown and shouted "FOR F*CK'S SAKE!".

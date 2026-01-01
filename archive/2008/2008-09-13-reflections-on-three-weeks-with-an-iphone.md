@@ -2,7 +2,7 @@
 layout: post
 title: "Reflections On Three Weeks With An Iphone"
 date: 2008-09-13
-categories: blog archive
+categories: archive
 ---
 
 I thought it might be of use for others searching and reading on the interwebs to record my thoughts after living with an iPhone for three weeks - enough time to really get used to it, find things I don't like, things I do like, and so on. Rather than waffle on, I'll do this as bullet points...

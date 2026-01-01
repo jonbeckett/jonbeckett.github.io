@@ -2,7 +2,7 @@
 layout: post
 title: "Distractions"
 date: 2019-07-29
-categories: blog archive
+categories: archive
 ---
 
 I started writing this post an hour ago. Somewhere along the way I ended up playing two games of chess, made a cup of coffee, and ate a load of rubbish - all before writing a word. If procrastination was an Olympic sport, I would be a legend in my own lunchtime.

@@ -2,7 +2,7 @@
 layout: post
 title: "Consolidation"
 date: 2009-09-14
-categories: blog archive
+categories: archive
 ---
 
 After being incredibly impressed with Posterous over the last few weeks, I have decided to jump ship for my regular blog (that very few people read anyway). Maintaining a wordpress installation of my own wasanother thingto worry aboutand at the moment I can do with those like a hole in the head. If you areone of the very few people who read me, you will still be able to follow me through the means you always haveat least for the moment. The various addresses and feeds still work.

@@ -2,7 +2,7 @@
 layout: post
 title: "Staff Table At The Quiz Night"
 date: 2018-04-28
-categories: blog archive
+categories: archive
 ---
 
 Last night I joined the staff table for a fund-raising quiz-night at the local infant school - the one my other half works at. I've been to countless similar functions in the past, but never as part of the staff team.

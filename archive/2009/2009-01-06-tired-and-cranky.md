@@ -2,7 +2,7 @@
 layout: post
 title: "Tired And Cranky"
 date: 2009-01-06
-categories: blog archive
+categories: archive
 ---
 
 The day started with me being first out of bed (as per usual), before heading downstairs in my robe to wash up two sink fulls of cups, plates, and god knows what else before even thinking about making the eldest's school lunch, then three kids breakfasts.

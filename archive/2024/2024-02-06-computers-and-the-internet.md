@@ -2,7 +2,7 @@
 layout: post
 title: "Computers and the Internet"
 date: 2024-02-06
-categories: blog archive
+categories: archive
 ---
 
 Today's writing prompt asks what the most important invention in your lifetime is. While it's an easy question to answer -- the internet -- it only really makes sense if we go back and look at the story of how computers were used before the internet became widespread.

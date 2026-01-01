@@ -2,7 +2,7 @@
 layout: post
 title: "Travelling With Work"
 date: 2008-04-07
-categories: blog archive
+categories: archive
 ---
 
 I'm setting my alarm for 5am tomorrow morning. I'll leave the house at 6, and with a little luck (subject to the railway and taxi gods), I'll arrive on-site sometime around 9am. Emergency hotel accommodation is being arranged just in case tomorrow goes badly.

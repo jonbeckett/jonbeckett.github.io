@@ -2,7 +2,7 @@
 layout: post
 title: "Chilling On A Saturday"
 date: 2006-02-11
-categories: blog archive
+categories: archive
 ---
 
 It's been a great Saturday so far. It's cold outside, but not unpleasantly so. A crunchy cold.

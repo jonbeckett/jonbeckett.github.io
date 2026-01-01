@@ -2,7 +2,7 @@
 layout: post
 title: "Pretending To Be A Teacher Again"
 date: 2015-04-27
-categories: blog archive
+categories: archive
 ---
 
 I'm putting on my pretend teacher hat once again over the next few days, in an attempt to educate and inspire a room full of business people in the use of something I've become an unlikely expert at (I'm not going to explain what it is, because you might fall asleep half-way through the first sentence, and do yourself a mischief).

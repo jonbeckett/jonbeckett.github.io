@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Night"
 date: 2019-07-26
-categories: blog archive
+categories: archive
 ---
 
 I just spent the last few minutes standing in the back garden, waiting for the International Space Station to pass overhead. After a week of clear blue skies, tonight we have blanket cloud cover - of course we have - because the universe likes to take a giant shit on us from as great a height as possible if it gets the chance.

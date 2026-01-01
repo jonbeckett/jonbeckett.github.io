@@ -2,7 +2,7 @@
 layout: post
 title: "Life Support"
 date: 2020-06-25
-categories: blog archive
+categories: archive
 ---
 
 It's nearly a week since my last blog post. In terms of 'falling off the blogging horse', this isn't so much 'fallen off the horse', as 'let the horse free, and haven't really thought about it since'. I guess you could say the blog is on life support.

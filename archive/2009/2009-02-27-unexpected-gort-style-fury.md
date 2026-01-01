@@ -2,7 +2,7 @@
 layout: post
 title: "Unexpected Gort Style Fury"
 date: 2009-02-27
-categories: blog archive
+categories: archive
 ---
 
 The other day somebody posted a comment on a photo of one of our kids that nearly caused me to go nuclear on the spot.

@@ -2,7 +2,7 @@
 layout: post
 title: "Unboxing The Moo Cards"
 date: 2007-09-20
-categories: blog archive
+categories: archive
 ---
 
 My "moo" cards finally arrived today, so I have done the honours, and photographed the unboxing for your interest and amusement.

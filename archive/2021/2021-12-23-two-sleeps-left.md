@@ -2,7 +2,7 @@
 layout: post
 title: "Two Sleeps Left"
 date: 2021-12-23
-categories: blog archive
+categories: archive
 ---
 
 One more day of work left. Two sleeps left. I can't imagine I'm going to get a lot done tomorrow, given that I'll then have the better part of 10 days off. Given events unfolding around the world, we're not going anywhere or doing much over the Christmas period - so if nothing else it will be a good chance to recharge.

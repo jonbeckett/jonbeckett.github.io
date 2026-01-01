@@ -2,7 +2,7 @@
 layout: post
 title: "A Difficult Day"
 date: 2015-04-24
-categories: blog archive
+categories: archive
 ---
 
 We had some difficult news last night about a family member. It wasn't completely unexpected, but still - it was difficult to hear, and to accept. I had to write a horrible email to the senior staff when I got in this morning, asking them not to schedule me for any travel over the next couple of months so I could be around to support my other half as events unfold.

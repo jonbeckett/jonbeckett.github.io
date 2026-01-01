@@ -2,7 +2,7 @@
 layout: post
 title: "Working On My Own"
 date: 2015-10-13
-categories: blog archive
+categories: archive
 ---
 
 I've been working on a sizeable software development project over the last few days in the office, and after reading some of the conversations on the #developer Slack channel at Ghost recently, it brought into sharp focus just how much I typically have to carry on my shoulders compared to others.

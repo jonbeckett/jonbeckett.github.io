@@ -2,7 +2,7 @@
 layout: post
 title: "Harry Potter And The Deathly Hallows"
 date: 2007-08-03
-categories: blog archive
+categories: archive
 ---
 
 It is done. I have finally finished reading the last of J.

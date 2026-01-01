@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where My Weekend Vanished"
 date: 2015-05-01
-categories: blog archive
+categories: archive
 ---
 
 Our youngest daughter is playing in the local football tournament at the weekend. The head coach sent out a plea for helpers yesterday (because as per normal, no parents have offered to help). My other half volunteered me.

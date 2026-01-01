@@ -2,7 +2,7 @@
 layout: post
 title: "An Analogy On Day Suckage"
 date: 2011-08-18
-categories: blog archive
+categories: archive
 ---
 
 Nobody I work with sucks. Nothing I am working on sucks (well maybe it does sometimes, but I would most likely be marched straight in for a quiet talking to if I chose to vent any frustrations about that, so I'll choose not to).

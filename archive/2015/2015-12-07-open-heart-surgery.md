@@ -2,7 +2,7 @@
 layout: post
 title: "Open Heart Surgery"
 date: 2015-12-07
-categories: blog archive
+categories: archive
 ---
 
 I'm running around the house doing imaginary high fives. I just took the back off one of the ACER laptops we have hanging around the house, and soldered a wire between the back of the touch-pad, and an earth point on the motherboard. Rather stupidly, I did it while it was still switched on (I didn't realise).Fingers crossed, it appears to have worked absolutely perfectly.

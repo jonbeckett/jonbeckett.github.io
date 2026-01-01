@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Something New"
 date: 2006-06-13
-categories: blog archive
+categories: archive
 ---
 
 I am on a course for the first few days this week (or "taking a class" as the American's among you might better understand).

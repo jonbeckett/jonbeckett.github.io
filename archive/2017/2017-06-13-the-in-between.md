@@ -2,7 +2,7 @@
 layout: post
 title: "The In Between"
 date: 2017-06-13
-categories: blog archive
+categories: archive
 ---
 
 I'm back in the office today, and curiously devoid of immediately pressing work. I have a notebook full of notes from the day-out yesterday, but suspect the project might not kick off for several days. So far I have spent the morning filing expenses, reading through notes, and shuffling paperwork. I also tried out a few things I confidently described to the client yesterday, mostly to satisfy my own paranoia.

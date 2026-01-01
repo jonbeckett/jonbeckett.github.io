@@ -2,7 +2,7 @@
 layout: post
 title: "Idiocy Reigns At Wordpresscom"
 date: 2010-09-28
-categories: blog archive
+categories: archive
 ---
 
 For some time I have been disgruntled that my username within the hallowed halls of the wordpress servers has been "jb73". This might not matter to some, but when you appear as "jonbeckett" almost everywhere else, it tends to grate somewhat.

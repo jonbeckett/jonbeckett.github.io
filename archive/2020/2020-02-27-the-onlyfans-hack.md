@@ -2,7 +2,7 @@
 layout: post
 title: "The Onlyfans Hack"
 date: 2020-02-27
-categories: blog archive
+categories: archive
 ---
 
 While scrolling through recent posts at Twitter earlier this evening I noticed that 'OnlyFans' was trending. Knowing that a couple of friends have accounts there, I wondered what might be going on, so clicked on the link.

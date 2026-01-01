@@ -2,7 +2,7 @@
 layout: post
 title: "Another Morning In The Coffee Shop"
 date: 2012-02-07
-categories: blog archive
+categories: archive
 ---
 
 I am now the proud owner of a Costa Coffee card. I just picked one up from the counter while ordering exactly the right thing, using exactly the right language. This might sound like a ridiculous thing to think about, but when you get some snot nosed barista looking down their nose at you when you ask for a "regular cappuccino" instead of a "medium cappuccino", it starts to pull away at the loose ends of your psyche.

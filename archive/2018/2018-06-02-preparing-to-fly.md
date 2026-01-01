@@ -2,7 +2,7 @@
 layout: post
 title: "Preparing To Fly"
 date: 2018-06-02
-categories: blog archive
+categories: archive
 ---
 
 At breakfast time tomorrow morning a taxi will hopefully arrive at the end of our drive, waiting to whisk me to Heathrow Airport, ahead of another week in Frankfurt, Germany.

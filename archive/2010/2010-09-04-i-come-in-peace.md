@@ -2,7 +2,7 @@
 layout: post
 title: "I Come In Peace"
 date: 2010-09-04
-categories: blog archive
+categories: archive
 ---
 
 Greetings to those who have stumbled upon me following my mass followage of many this evening. I've been quietly existing withing the massed ranks of the tumblrati for years, under various names, and in various guizes.

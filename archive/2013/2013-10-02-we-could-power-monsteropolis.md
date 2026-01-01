@@ -2,7 +2,7 @@
 layout: post
 title: "We Could Power Monsteropolis"
 date: 2013-10-02
-categories: blog archive
+categories: archive
 ---
 
 While walking home from town with our eldest daughter last weekend, she suddenly stopped, and crouched down to retrieve something from the side of the footpath.

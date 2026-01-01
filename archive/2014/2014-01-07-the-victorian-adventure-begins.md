@@ -2,7 +2,7 @@
 layout: post
 title: "The Victorian Adventure Begins"
 date: 2014-01-07
-categories: blog archive
+categories: archive
 ---
 
 Tomorrow morning I will fall out of bed at 6am, get dressed, have a wash, and wander back along the same paths I walked for two years to the train station, headed for London. Clothes are hanging in the study, shoes are polished, my old messenger bag is filled with laptop, charger, and mouse, and the Kindle is on charge on the desk. The credit card is at zero, the oyster card is charged with money, and the tablet will spend the night on charge. I think I'm ready.

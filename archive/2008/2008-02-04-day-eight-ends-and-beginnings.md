@@ -2,7 +2,7 @@
 layout: post
 title: "Day Eight Ends And Beginnings"
 date: 2008-02-04
-categories: blog archive
+categories: archive
 ---
 
 We met with the social services staff this morning to review our first few days with the children, and decide if to extend the introductions period. We thought it best not to tell them that we already have all of their clothes, toys and remaining food supplies at our house - might have raised a few eyebrows.

@@ -2,7 +2,7 @@
 layout: post
 title: "This Is Where It Happens"
 date: 2006-10-21
-categories: blog archive
+categories: archive
 ---
 
 I thought it might be fun to take a picture of the desk at home in the study... this is where all the geekiness eminates from.

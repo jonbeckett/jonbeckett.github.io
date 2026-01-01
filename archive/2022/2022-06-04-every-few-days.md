@@ -2,7 +2,7 @@
 layout: post
 title: "Every Few Days"
 date: 2022-06-04
-categories: blog archive
+categories: archive
 ---
 
 Has anybody seen my blogging horse? Or was it a bicycle? I never was good at idioms and analogies.

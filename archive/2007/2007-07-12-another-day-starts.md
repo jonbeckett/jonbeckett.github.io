@@ -2,7 +2,7 @@
 layout: post
 title: "Another Day Starts"
 date: 2007-07-12
-categories: blog archive
+categories: archive
 ---
 
 My watch ticks past 7am, and I sit on the train once more waiting to leave Marlow - bound for London. A light rain is falling, moistening the air. The world is "soft".

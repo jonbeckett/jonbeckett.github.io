@@ -2,7 +2,7 @@
 layout: post
 title: "Unwarranted Anxiety"
 date: 2017-10-29
-categories: blog archive
+categories: archive
 ---
 
 I am going on-site with a new client on Wednesday. I discovered this via a random email last Friday. You might think "So what? you travel all the time with work - you tell stories about standing in front of rooms full of strangers, pretending to be clever". Yes, I do. I also freak out ahead of those visits.

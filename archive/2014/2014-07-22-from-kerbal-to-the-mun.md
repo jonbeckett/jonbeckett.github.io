@@ -2,7 +2,7 @@
 layout: post
 title: "From Kerbal To The Mun"
 date: 2014-07-22
-categories: blog archive
+categories: archive
 ---
 
 This is the last post about Kerbal Space Program, honest.Today I spent my lunchbreak illustrating a mission to the "Mun" (the moon) from the home planet "Kerbal", and took screenshots along the way to help other people playing the game (should they find this post). I was thinking about it earlier, and I have quite a few advantages over people coming to the game blindI was a huge space nerd when I was younger, I can fly radio controlled helicopters, and I wrote a planetary orbit simulation in computer science class when I was about 17. All of these disparate skillsets come to play in KSP when trying to get to the moon and back.

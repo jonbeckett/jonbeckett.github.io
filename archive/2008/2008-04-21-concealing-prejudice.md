@@ -2,7 +2,7 @@
 layout: post
 title: "Concealing Prejudice"
 date: 2008-04-21
-categories: blog archive
+categories: archive
 ---
 
 While sat around the dinner table this evening relating the various stories of our day to each other, after a little coaxing our eldest daughter managed to remember that her day at school had involved more than just "going to school". A similar malady seems to afflict all children - when quizzed about the fun things that went on during the day, they respond "I can't remember".

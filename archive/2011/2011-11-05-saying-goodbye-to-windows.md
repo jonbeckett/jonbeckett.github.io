@@ -2,7 +2,7 @@
 layout: post
 title: "Saying Goodbye To Windows"
 date: 2011-11-05
-categories: blog archive
+categories: archive
 ---
 
 A few evenings ago a mysterious bug reared it's head in Windows 7 on the desktop machinefiles have started to take ages before they begin writing to the hard drive. I wasted about an hour looking into itrunning malware scans, checking the health of the hard drive, and so on. I found nothing.

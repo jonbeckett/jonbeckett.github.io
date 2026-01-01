@@ -2,7 +2,7 @@
 layout: post
 title: "Heres to the Crazy Ones"
 date: 2023-11-17
-categories: blog archive
+categories: archive
 ---
 
 A collection of incendiary thoughts have been ticking away at the back of my mind like an unexploded bomb for the last few weeks. Rather than let them sit there, festering, I thought I might write them down. Explore them a little. Poke them with a stick.

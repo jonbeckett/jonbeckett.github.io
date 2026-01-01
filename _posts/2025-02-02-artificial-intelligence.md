@@ -3,7 +3,6 @@ layout: single
 title: "Artificial Intelligence"
 date: 2025-02-02
 categories:
-  - blog
   - "2025"
 ---
 

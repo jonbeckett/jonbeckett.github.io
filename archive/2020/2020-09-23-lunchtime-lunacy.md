@@ -2,7 +2,7 @@
 layout: post
 title: "Lunchtime Lunacy"
 date: 2020-09-23
-categories: blog archive
+categories: archive
 ---
 
 After not getting up in time to go for a run this morning (actually there is more to the story - the kitchen was wrecked, so I spent the first hour of the day clearing up behind everybody else), it occurred to me at lunchtime that I work from home now - and what was stopping me from pulling my shorts on and heading straight out of the front door ?

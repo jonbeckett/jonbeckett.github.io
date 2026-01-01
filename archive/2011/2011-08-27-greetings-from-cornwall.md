@@ -2,7 +2,7 @@
 layout: post
 title: "Greetings From Cornwall"
 date: 2011-08-27
-categories: blog archive
+categories: archive
 ---
 
 We finally left home at about 7:30 last night, and after driving through torrential rain for something in the region of 5 hours (powered by numerous bars of chocolate and energy drinks) we arrived in deepest, darkest Cornwall at about midnight.

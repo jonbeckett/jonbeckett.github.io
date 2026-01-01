@@ -2,7 +2,7 @@
 layout: post
 title: "Back Yard Astronomy"
 date: 2013-11-10
-categories: blog archive
+categories: archive
 ---
 
 After promising myself not to post photographs in the blog, I couldn't resist sharing this one.

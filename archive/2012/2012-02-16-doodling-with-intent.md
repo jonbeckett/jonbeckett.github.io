@@ -2,7 +2,7 @@
 layout: post
 title: "Doodling With Intent"
 date: 2012-02-16
-categories: blog archive
+categories: archive
 ---
 
 Not a lot of people know that I once spent two years trudging to and from college - and while studying computer science, and mathematics, I also studied photography, and art.

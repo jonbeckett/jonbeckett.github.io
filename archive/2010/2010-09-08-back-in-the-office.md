@@ -2,7 +2,7 @@
 layout: post
 title: "Back In The Office"
 date: 2010-09-08
-categories: blog archive
+categories: archive
 ---
 
 Arrived home from client site at 12:30am last night (or should that be "this morning"?), after a 5 hour trip across the country.

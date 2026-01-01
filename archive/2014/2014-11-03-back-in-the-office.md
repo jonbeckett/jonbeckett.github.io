@@ -2,7 +2,7 @@
 layout: post
 title: "Back In The Office"
 date: 2014-11-03
-categories: blog archive
+categories: archive
 ---
 
 I'm back in the office today after a few days off. I won't lie - I was dreading coming in this morning for all sorts of reasons. Of course it turns out that the situation is nowhere near as bleak as I imagined, and my fears were pretty much unfounded. For the moment. If all of this sounds tremendously vague, it is intentional. No apologies.

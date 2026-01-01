@@ -2,7 +2,7 @@
 layout: post
 title: "Drifting Away"
 date: 2016-08-29
-categories: blog archive
+categories: archive
 ---
 
 I picked up a local newspaper this afternoon and read "the stars" out to everybody - the astrological predictions of the days ahead. I left my own until last, laughing in-between them all - until I read my own:

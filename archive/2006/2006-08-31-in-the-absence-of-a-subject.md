@@ -2,7 +2,7 @@
 layout: post
 title: "In The Absence Of A Subject"
 date: 2006-08-31
-categories: blog archive
+categories: archive
 ---
 
 In the absence of anything to write about at present, I thought a photograph from our various adventures might be in order.

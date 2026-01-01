@@ -2,7 +2,7 @@
 layout: post
 title: "Looking Forward To The Weekend"
 date: 2004-03-19
-categories: blog archive
+categories: archive
 ---
 
 I have had what many would call "one hell of a week".

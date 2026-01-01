@@ -2,7 +2,7 @@
 layout: post
 title: "Morning In London"
 date: 2013-10-01
-categories: blog archive
+categories: archive
 ---
 
 This morning began a little before 6am, when my body clock anticipated the alarm clock by a few minutesit's funny how it does that. While (I thought) quietly sneaking out of bed, my other half murmured after me."I have to go to London, remember?"Walking to the station in the light of the dawn triggered memories of the two years I spent commuting to the heart of the city. There's something about walking the streets alone in the crisp morning air.

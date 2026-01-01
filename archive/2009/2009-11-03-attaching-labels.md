@@ -2,7 +2,7 @@
 layout: post
 title: "Attaching Labels"
 date: 2009-11-03
-categories: blog archive
+categories: archive
 ---
 
 If a child is not the most academically gifted, it cannot be because they are not the best - oh no - it's because they have ADHD, mild autism, dyspraxia or some other such affliction.

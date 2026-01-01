@@ -2,7 +2,7 @@
 layout: post
 title: "Slow Sundays"
 date: 2004-12-05
-categories: blog archive
+categories: archive
 ---
 
 Today is Sunday, and I am working on CMS once more. I now have the document management system database designed and built, and am starting to look at doing some administration pages for it.

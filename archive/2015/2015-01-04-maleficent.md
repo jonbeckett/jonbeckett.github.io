@@ -2,7 +2,7 @@
 layout: post
 title: "Maleficent"
 date: 2015-01-04
-categories: blog archive
+categories: archive
 ---
 
 After gathered in the lounge this evening on the last night of the Christmas holiday, we picked the movie "Maleficent" to watch while eating pizza, and drinking fizzy drinks.

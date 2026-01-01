@@ -2,7 +2,7 @@
 layout: post
 title: "From Brain To Internet The Blogging Journey"
 date: 2011-06-20
-categories: blog archive
+categories: archive
 ---
 
 I just posted this to Tumblr. I had thought about cross-posting the exact same words into here, but then thought that might be a bit lazy. I think too much.

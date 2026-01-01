@@ -2,7 +2,7 @@
 layout: post
 title: "Another Day"
 date: 2017-02-28
-categories: blog archive
+categories: archive
 ---
 
 I am now five days into the desperate sprint to build what has turned out to be a far more complex project than anybody imagined when the brief arrived in my in-box several months ago. The "finger in the air" quote I gave to the sales people got turned into an official tender, which we won. Guess who's now busting his ass to deliver something he's happy with.

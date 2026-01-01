@@ -2,7 +2,7 @@
 layout: post
 title: "Writing A Chess Engine"
 date: 2008-11-21
-categories: blog archive
+categories: archive
 ---
 
 Every few years, I find myself returning to a project I have had kicking around since leaving college - writing a "chess engine". For those who are casual readers of my blog, it might be worth explaining what a "chess engine" is.

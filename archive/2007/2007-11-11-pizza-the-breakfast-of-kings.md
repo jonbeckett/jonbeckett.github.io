@@ -2,7 +2,7 @@
 layout: post
 title: "Pizza The Breakfast Of Kings"
 date: 2007-11-11
-categories: blog archive
+categories: archive
 ---
 
 It's 10:30am on Sunday morning, I am still sat in my pyjamas and robe, have still not had a wash, or shave, and look for all the world like "the missing link".

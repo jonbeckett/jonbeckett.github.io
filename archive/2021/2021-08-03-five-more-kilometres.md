@@ -2,7 +2,7 @@
 layout: post
 title: "Five More Kilometres"
 date: 2021-08-03
-categories: blog archive
+categories: archive
 ---
 
 After waking up a little after 7am this morning I watched the clock tick for the better part of half an hour before scraping myself out of bed, pulling some running shorts and shoes on, and wandering out into the morning air.

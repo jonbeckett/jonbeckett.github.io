@@ -2,7 +2,7 @@
 layout: post
 title: "New Phone Ordered"
 date: 2017-12-12
-categories: blog archive
+categories: archive
 ---
 
 I ordered a new mobile phone this morning - it will arrive in the post tomorrow. It's the 2017 version of the cheapest handset Nokia make. Before you think "oh my word - he's finally lost the plot", it's probably worth clarifying that it's only intended as a backup phone, with a pay-as-you-go SIM in it.

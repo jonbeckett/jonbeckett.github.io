@@ -2,7 +2,7 @@
 layout: post
 title: "Slow Sundays Rule"
 date: 2022-11-20
-categories: blog archive
+categories: archive
 ---
 
 After a slow start this morning, I wandered into town with my eldest daughter. After quite some deliberation, we ended up at Starbucks. Armed with a cappuccino and a huge chocolate coin each, we found a quiet spot in the back of the cafA (c) and enjoyed our drinks in silence for a few minutes.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Second Teaser Trailer"
 date: 2015-04-17
-categories: blog archive
+categories: archive
 ---
 
 I cannot remember having such a strong reaction to a teaser trailer. You know what I'm talking about, right? The second Star Wars Episode VII teaser trailer? I've seen it six or seven times now, and it still makes the hairs stand up on my arms every time.

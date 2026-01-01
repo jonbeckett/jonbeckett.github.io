@@ -2,7 +2,7 @@
 layout: post
 title: "Blogging 101 Ends"
 date: 2015-01-30
-categories: blog archive
+categories: archive
 ---
 
 And so it was, while pretending to look like he knew what he was doing, he stumbled through January without falling over, and stayed the course. He followed a few new people, read a lot of posts, commented on quite a few posts, and wrote some utter, utter tosh. Quite unexpectedly, he enjoyed it.

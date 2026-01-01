@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Nice Lady Cut My Hair Off Again"
 date: 2015-09-04
-categories: blog archive
+categories: archive
 ---
 
 In recent days my hair had crossed the line from being half-way manageable, to slightly deranged. I tend to make the judgement as I pass the mirror in the hallway, en-route to the shower on a morning. There's this bizarre transmogrification that happens - where a previously low maintainance head of hairbecomes an unruly toilet brush.

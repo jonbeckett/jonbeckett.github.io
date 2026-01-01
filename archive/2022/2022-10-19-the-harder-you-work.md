@@ -2,7 +2,7 @@
 layout: post
 title: "The Harder You Work"
 date: 2022-10-19
-categories: blog archive
+categories: archive
 ---
 
 You know how sometimes life continues on for months on end, without anything in particular happening? The last few years have been a bit like that. And then yesterday, all sorts of things happened one after another. Which is good, I think?

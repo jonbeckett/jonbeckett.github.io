@@ -2,7 +2,7 @@
 layout: post
 title: "Bank Holiday Monday"
 date: 2018-04-01
-categories: blog archive
+categories: archive
 ---
 
 Today is a bank holiday in the UK. I've been up since 8am, and haven't really got anything done. Sure, I fed the animals, and let the chicken out (we're looking after it for the local infant school), but other than that - nothing of consequence.

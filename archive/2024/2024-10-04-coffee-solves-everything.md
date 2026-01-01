@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee Solves Everything"
 date: 2024-10-04
-categories: blog archive
+categories: archive
 ---
 
 Another five days have passed since the last post. Five days in which I stopped the cross-posting escapade, put up sign posts notifying the change, and then didn't post anything new for the curious to find on arrival here at the "one blog to rule them all".

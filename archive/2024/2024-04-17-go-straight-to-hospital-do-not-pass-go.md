@@ -2,7 +2,7 @@
 layout: post
 title: "Go straight to hospital - do not pass go"
 date: 2024-04-17
-categories: blog archive
+categories: archive
 ---
 
 The night before last our youngest daughter started complaining that her back hurt. We didn't think much about it at the time - she always has some ailment, injury, ache or pain to complain about.

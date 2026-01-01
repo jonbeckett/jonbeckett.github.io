@@ -2,7 +2,7 @@
 layout: post
 title: "By god sir, I've lost my leg!"
 date: 2024-06-17
-categories: blog archive
+categories: archive
 ---
 
 Today has been very much a day of two halves -- first exploring the ruins of a medieval castle, and then poking around the preserved family seat of a proper line of military lunatics.

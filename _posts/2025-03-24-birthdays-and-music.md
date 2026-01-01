@@ -3,7 +3,6 @@ layout: single
 title: "Birthdays and Music"
 date: 2025-03-24
 categories:
-  - blog
   - "2025"
 ---
 

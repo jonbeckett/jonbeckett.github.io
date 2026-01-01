@@ -2,7 +2,7 @@
 layout: post
 title: "Its Good To Talk"
 date: 2007-02-14
-categories: blog archive
+categories: archive
 ---
 
 My spirits have been lifted today by something rather simple - a telephone call from W.

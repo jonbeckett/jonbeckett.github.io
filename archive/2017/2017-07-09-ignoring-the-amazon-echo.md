@@ -2,7 +2,7 @@
 layout: post
 title: "Ignoring The Amazon Echo"
 date: 2017-07-09
-categories: blog archive
+categories: archive
 ---
 
 The mighty everything store in the sky is offering wondrous deals at huge discounts today, because it's "Prime Day". It's kind of like saying "Here's some money off some stuff that will help you spend more money with us, but only if you're already spending lots of money with us". I'm sure there's some clever mathematics analogy to do with something squared, but I'll be buggered if I can figure it out. I'm not sure I can be bothered. Two of the developers at work were talking about the Amazon Echo - the biggest thing you never knew you needed until somebody invented the damn thing to arrive since the "smart" phone (and why are "smart" phones called "smart" - mine is as brainless as a bucket of mud). Apparently the Echo has been slashed to about half price for the next few hours.

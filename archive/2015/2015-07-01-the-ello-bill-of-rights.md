@@ -2,7 +2,7 @@
 layout: post
 title: "The Ello Bill Of Rights"
 date: 2015-07-01
-categories: blog archive
+categories: archive
 ---
 
 Who remembers "Ello"? They were the anti-facebook that appeared on the internet about 12 months ago, and became the darling of the tech journalists for a few days. They promised freedom from the various shackles imposed by Twitter, Facebook, Google+, Tumblr, LinkedIn, and all the other big-name communication platforms.

@@ -2,7 +2,7 @@
 layout: post
 title: "Experimenting With Vox"
 date: 2008-02-20
-categories: blog archive
+categories: archive
 ---
 
 Many moons ago I had an account at Vox - I was one of the beta testers when it was being developed too.

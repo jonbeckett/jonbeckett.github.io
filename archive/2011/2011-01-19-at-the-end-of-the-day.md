@@ -2,7 +2,7 @@
 layout: post
 title: "At The End Of The Day"
 date: 2011-01-19
-categories: blog archive
+categories: archive
 ---
 
 It's just gone 9pm, and I'm sat in the study, wondering where the day went. "Sparks" by "The Who" is playing in the background, I have a glass of Brandy (slowly working my way through the leftover drink from Christmas), and am wondering what on earth I might write about to entertain those who might read this.

@@ -2,7 +2,7 @@
 layout: post
 title: "Random Thoughts As The Sun Goes Down"
 date: 2013-05-15
-categories: blog archive
+categories: archive
 ---
 
 A browser tab sat open on a blank blog post for several hours today, and nothing got typed into it. It's been that kind of day - going further sideways than forwards.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Moment Of Clarity"
 date: 2013-07-15
-categories: blog archive
+categories: archive
 ---
 
 For the last week or so I have been playing with LiveJournalperhaps the "last man standing" of the old blogging platforms. It was there at the start, and it will probably be there at the endand while it was persuasive for several reasons, it didn't turn out to be persuasive enough to make me stick around.

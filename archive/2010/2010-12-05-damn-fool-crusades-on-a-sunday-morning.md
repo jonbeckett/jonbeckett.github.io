@@ -2,7 +2,7 @@
 layout: post
 title: "Damn Fool Crusades On A Sunday Morning"
 date: 2010-12-05
-categories: blog archive
+categories: archive
 ---
 
 Have you ever written a blog post title before considering what you might write about ? Because that's what I just did (and this post has already gone to the dogs... starting a sentence with "Because"...)

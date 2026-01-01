@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Asleep On The Train"
 date: 2017-11-21
-categories: blog archive
+categories: archive
 ---
 
 I fell asleep on the way home. More than once. I'm pretty sure that I was only asleep for a few moments, but you never really know, do you. For all I know it could have been minutes - it felt like seconds. I fought it for the better part of an hour - eventually a coffee bought on my way through Reading Station woke me back up.

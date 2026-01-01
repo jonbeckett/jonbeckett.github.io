@@ -2,7 +2,7 @@
 layout: post
 title: "The Unhappy Man And His Bicycle"
 date: 2016-08-15
-categories: blog archive
+categories: archive
 ---
 
 Before launching into a riveting account of my journey north this morning (I'm living it up in a hotel all week - go me), I must share a moment from earlier this evening.

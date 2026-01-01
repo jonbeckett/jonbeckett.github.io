@@ -2,7 +2,7 @@
 layout: post
 title: "Day Two Were Still Standing"
 date: 2008-01-29
-categories: blog archive
+categories: archive
 ---
 
 Observation of day two? Probably that it's all getting a lot easier.

@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking About Friends"
 date: 2007-01-21
-categories: blog archive
+categories: archive
 ---
 
 While reading quite a number of blog posts this morning and issuing forth comments like confetti, I started wondering why I do it - why I write a blog.

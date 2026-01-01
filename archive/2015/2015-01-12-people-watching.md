@@ -2,7 +2,7 @@
 layout: post
 title: "People Watching"
 date: 2015-01-12
-categories: blog archive
+categories: archive
 ---
 
 Some time ago I wrote a post about the pretty lady that rents out the house opposite the office where I work - about our chance encounters on mornings and evenings, and the smiles we exchange. I'm usually turning the pedals of my bike, and she's usually wrapped up like an eskimo, walking her dog.

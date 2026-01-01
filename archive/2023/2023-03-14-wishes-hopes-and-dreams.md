@@ -2,7 +2,7 @@
 layout: post
 title: "Wishes Hopes and Dreams"
 date: 2023-03-14
-categories: blog archive
+categories: archive
 ---
 
 Somehow we 're all in bed several hours earlier than usual. Everybody else is sound asleep. I 'm sitting in bed, laptop propped on my lap, tapping quietly away at the keys while listening to nice tunes in my ears. I can only see the keys via light cast from the screen. Thankfully I 'm pretty good at touch typing.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Marathon Abates"
 date: 2006-05-04
-categories: blog archive
+categories: archive
 ---
 
 After finishing work at 11:30pm last night, and then going in early today, myself and a colleague worked straight through the day (eating at our desks) and finally turned in the prototype project we have been working on to the consultants to show the client tomorrow.

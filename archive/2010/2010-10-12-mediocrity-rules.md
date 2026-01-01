@@ -2,7 +2,7 @@
 layout: post
 title: "Mediocrity Rules"
 date: 2010-10-12
-categories: blog archive
+categories: archive
 ---
 
 I took a look at the visitor stats for this blog last night - hardly inspiring.

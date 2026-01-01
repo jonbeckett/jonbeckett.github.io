@@ -2,7 +2,7 @@
 layout: post
 title: "Broken Bones Chest Infections And Distractions"
 date: 2014-08-06
-categories: blog archive
+categories: archive
 ---
 
 The broken toe is slowly getting better. It's taped to the toe next to it at the moment, and while it's not doing the "stabbing pain" thing that it delighted in for the first few days, it's doing pretty well at making the most mundane things more difficult than usual.

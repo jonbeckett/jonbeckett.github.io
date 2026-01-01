@@ -2,7 +2,7 @@
 layout: post
 title: "Covid Running and Music"
 date: 2023-09-28
-categories: blog archive
+categories: archive
 ---
 
 It's been a few days since I last wrote in the blog. I'm not sure I really have much to share, but I'll start writing and see what happens. How does the old saying go? "I have nothing to say, and I'm saying it".

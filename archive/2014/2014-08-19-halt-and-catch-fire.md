@@ -2,7 +2,7 @@
 layout: post
 title: "Halt And Catch Fire"
 date: 2014-08-19
-categories: blog archive
+categories: archive
 ---
 
 I heard about "Halt and Catch Fire" while walking to work a couple of months ago. The crank decided to snap on my mountain bike, and the 3 mile walk each way provided an opportunity to catch up on the podcasts I usually don't get a chance to listen to.

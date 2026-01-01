@@ -2,7 +2,7 @@
 layout: post
 title: "Better Late Than Never"
 date: 2018-08-15
-categories: blog archive
+categories: archive
 ---
 
 If all goes according to plan, at the weekend a parcel will arrive in the post with five iPhones in it. Both mine, and my other half's phone contracts have come to an end, and we have been looking around at the various deals available. At the same time, we're going to move our children from pay-as-you-go phones to contracts, meaning they will not run out of credit while out with their friends.

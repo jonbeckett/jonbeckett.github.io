@@ -2,7 +2,7 @@
 layout: post
 title: "Nablopomo Between A Rock And A Hard Place"
 date: 2007-11-01
-categories: blog archive
+categories: archive
 ---
 
 Last year I took part in "National Blog Posting Month" - also known as "NaBloPoMo" - the quest to write a blog post on each day of November. I discovered it after dropping out of a rather more well known madcap pursuit - "National Novel Writing Month", where you attempt to write a fifty thousand word novel within the same timeframe. NaBloPoMo is an unashamed rip-off of it's altogether more frightening literary brother.

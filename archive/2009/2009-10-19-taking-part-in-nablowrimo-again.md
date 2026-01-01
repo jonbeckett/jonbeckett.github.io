@@ -2,7 +2,7 @@
 layout: post
 title: "Taking Part In Nablowrimo Again"
 date: 2009-10-19
-categories: blog archive
+categories: archive
 ---
 
 I will be taking part in NaBloWriMo again this year (also known as "National Blog Writing Month") - the annual challenge to write a blog post on every day throughout November. It sounds easy, but I can assure you from years gone by - it's not.

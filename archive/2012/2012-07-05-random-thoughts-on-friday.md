@@ -2,7 +2,7 @@
 layout: post
 title: "Random Thoughts On Friday"
 date: 2012-07-05
-categories: blog archive
+categories: archive
 ---
 
 The clock just ticked past midnight. It's now Friday in England. In a few short hours I will be rolling out of bed, rubbing sleep from my eyes and stumbling into the shower. I'll be dragging clothes on, washing up other people's breakfast things instead of eating my own, and turning the pedals of my bike towards work once again.

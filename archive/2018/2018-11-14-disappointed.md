@@ -2,7 +2,7 @@
 layout: post
 title: "Disappointed"
 date: 2018-11-14
-categories: blog archive
+categories: archive
 ---
 
 While noodling around on the web this evening, I looked at a few of the more famous "A-List" blogs - to see if they are still going - and if their writing is still as interesting, entertaining, and thought provoking as I remembered. I'll admit to wondering what their secret sauce might be.

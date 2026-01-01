@@ -2,7 +2,7 @@
 layout: post
 title: "Wondering Why I Bother"
 date: 2005-05-12
-categories: blog archive
+categories: archive
 ---
 
 I really can't figure the world out sometimes. I posted to the linux community on LiveJournal earlier about my CMS project, and rather than getting other open source developers having a look and giving constructive comment, the people that have looked have been hostile...

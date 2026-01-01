@@ -2,7 +2,7 @@
 layout: post
 title: "Unused Holiday Rain And Fake Followers"
 date: 2021-02-16
-categories: blog archive
+categories: archive
 ---
 
 It's been a strange sort of day - and it isn't over yet.

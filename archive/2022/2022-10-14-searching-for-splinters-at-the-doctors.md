@@ -2,7 +2,7 @@
 layout: post
 title: "Searching For Splinters At The Doctors"
 date: 2022-10-14
-categories: blog archive
+categories: archive
 ---
 
 The clock is ticking towards lunchtime, and I'm yet to really get started with any meaningful work. Most of the morning has been spent sitting in the doctor's waiting room with my youngest daughter, who has had a mysteriously swollen finger all week (Dad jokes about pointing at things too much have not gone down well).

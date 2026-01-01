@@ -2,7 +2,7 @@
 layout: post
 title: "Very Very Tired"
 date: 2006-07-24
-categories: blog archive
+categories: archive
 ---
 
 I'm not really sure if I'm coming or going any more.

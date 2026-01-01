@@ -2,7 +2,7 @@
 layout: post
 title: "the wit of the staircase"
 date: 2023-04-24
-categories: blog archive
+categories: archive
 ---
 
 I'm not doing so well at the "almost daily" part of this blogging lark any more. "Every few days" doesn't quite have the same ring to it as "almost daily". Full disclosure - back in the mid 2000s somebody else used the name "Almost Daily" for their video blog. Amanda Congdon.

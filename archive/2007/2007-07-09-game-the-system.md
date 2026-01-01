@@ -2,7 +2,7 @@
 layout: post
 title: "Game The System"
 date: 2007-07-09
-categories: blog archive
+categories: archive
 ---
 
 I have just been taking a look at the Bloggers Choice Awards website, and never realised before that the number of votes received by the "top blogs" tails off so rapidly.

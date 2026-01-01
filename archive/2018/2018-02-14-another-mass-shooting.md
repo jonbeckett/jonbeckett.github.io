@@ -2,7 +2,7 @@
 layout: post
 title: "Another Mass Shooting"
 date: 2018-02-14
-categories: blog archive
+categories: archive
 ---
 
 I've been reading various news stories today, following the mass shooting in Florida that happened yesterday. In the hours afterwards, all the usual suspects tweeted out their "thoughts and prayers". I think everybody has realised that when people say "thoughts and prayers" they actually mean "doing nothing".

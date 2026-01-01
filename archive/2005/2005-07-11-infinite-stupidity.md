@@ -2,7 +2,7 @@
 layout: post
 title: "Infinite Stupidity"
 date: 2005-07-11
-categories: blog archive
+categories: archive
 ---
 
 Somebody emailed me this news story this morning because they couldn't believe it, and I can't believe it either...

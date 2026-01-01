@@ -3,7 +3,6 @@ layout: single
 title: "Hello limbo, old friend"
 date: 2025-04-17
 categories:
-  - blog
   - "2025"
 ---
 

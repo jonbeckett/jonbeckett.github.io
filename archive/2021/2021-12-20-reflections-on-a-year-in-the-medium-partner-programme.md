@@ -2,7 +2,7 @@
 layout: post
 title: "Reflections On A Year In The Medium Partner Programme"
 date: 2021-12-20
-categories: blog archive
+categories: archive
 ---
 
 Late last year I signed up for the "partner programme" at Medium. If you've not heard of Medium, or it's partner programme, I'll quickly explain.

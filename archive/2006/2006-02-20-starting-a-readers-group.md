@@ -2,7 +2,7 @@
 layout: post
 title: "Starting A Readers Group"
 date: 2006-02-20
-categories: blog archive
+categories: archive
 ---
 
 You heard it here first.

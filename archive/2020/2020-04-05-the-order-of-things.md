@@ -2,7 +2,7 @@
 layout: post
 title: "The Order Of Things"
 date: 2020-04-05
-categories: blog archive
+categories: archive
 ---
 
 A friend tagged me in a Twitter meme of sorts yesterday evening - inviting me to post three random photos of bookshelves in my home, and to nominate three further people to continue the meme on it's way around the internet.

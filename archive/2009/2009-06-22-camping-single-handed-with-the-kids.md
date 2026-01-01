@@ -2,7 +2,7 @@
 layout: post
 title: "Camping Single Handed With The Kids"
 date: 2009-06-22
-categories: blog archive
+categories: archive
 ---
 
 The primary school that our youngest is at stages a "camping" evening each year - usually coinciding with father's day. It takes place on the school field for any families with children at the school. We had heard it was good fun, so somehow I got signed up to do it with our kids.

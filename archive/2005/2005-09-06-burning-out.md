@@ -2,7 +2,7 @@
 layout: post
 title: "Burning Out"
 date: 2005-09-06
-categories: blog archive
+categories: archive
 ---
 
 I'm getting closer and closer to burning out at work. I worked late on Friday night, went back in and worked from 2pm to 6pm on Sunday, did a course all day yesterday and then worked late until 9pm, and then was on a course all day today, followed by working late until 9pm again.

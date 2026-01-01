@@ -2,7 +2,7 @@
 layout: post
 title: "48 Hours Of Extremes"
 date: 2013-06-10
-categories: blog archive
+categories: archive
 ---
 
 I sometimes wonder how much I understand about the world. While sailing a fairly straight course over the last few days, chaos has surrounded me.

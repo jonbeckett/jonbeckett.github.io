@@ -2,7 +2,7 @@
 layout: post
 title: "After Midnight"
 date: 2023-05-23
-categories: blog archive
+categories: archive
 ---
 
 Returning to Wordpress and resurrecting my old domain name feels like pulling on a set of comfortable old clothes. It's very strange.

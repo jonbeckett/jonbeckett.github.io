@@ -2,7 +2,7 @@
 layout: post
 title: "February Begins"
 date: 2018-01-31
-categories: blog archive
+categories: archive
 ---
 
 How is it the beginning of February already? Where did January go? If I were to believe the various posts I have seen while dipping my toes into the acid laden waters of Facebook, most people seem to think January has been hanging around forever. Not for me. The few days off over Christmas and New Year seem like yesterday.

@@ -2,7 +2,7 @@
 layout: post
 title: "A Wedding to Remember"
 date: 2023-08-26
-categories: blog archive
+categories: archive
 ---
 
 We travelled across the country on Friday morning, booked into a hotel, and joined some friends for their wedding a little later in the day.

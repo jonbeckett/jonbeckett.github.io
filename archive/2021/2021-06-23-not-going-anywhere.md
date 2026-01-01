@@ -2,7 +2,7 @@
 layout: post
 title: "Not Going Anywhere"
 date: 2021-06-23
-categories: blog archive
+categories: archive
 ---
 
 Before going on something of a blogging sabbatical for a few days - an attempt to break the "must post every day" idiocy - I thought it might be a good idea to re-iterate; yes, I'm posting the blog at more than one place, and no, I'm not leaving anywhere (yet).

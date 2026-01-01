@@ -2,7 +2,7 @@
 layout: post
 title: "Slowing Down"
 date: 2018-05-22
-categories: blog archive
+categories: archive
 ---
 
 Two more days in the office, and then a week off. A week of working in the garden, tidying the hell hole of a house up, cleaning bathrooms, cutting trees down, and pretending to have a break. Because we all know it's not going to be a break. It's just an excuse to use up some of my leave really.

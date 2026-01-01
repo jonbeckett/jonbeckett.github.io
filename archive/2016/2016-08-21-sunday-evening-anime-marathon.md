@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Evening Anime Marathon"
 date: 2016-08-21
-categories: blog archive
+categories: archive
 ---
 
 After spending the greater part of the day washing clothes, re-installing phones for little people, grocery shopping, fixing handles on drawers, and various other miscellaneous tasks, the evening looks like remaining remarkably quiet.

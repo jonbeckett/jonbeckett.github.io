@@ -2,7 +2,7 @@
 layout: post
 title: "Parties Friends and Pianos"
 date: 2023-06-25
-categories: blog archive
+categories: archive
 ---
 
 The clock just ticked past 10am. I've been up for a couple of hours. I'm still the only one up. Pottering around the house - tidying up, putting things away, opening windows and doors, watering plants. The usual.

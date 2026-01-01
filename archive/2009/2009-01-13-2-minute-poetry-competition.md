@@ -2,7 +2,7 @@
 layout: post
 title: "2 Minute Poetry Competition"
 date: 2009-01-13
-categories: blog archive
+categories: archive
 ---
 
 While kicking back, drinking our coffee, and putting the world to rights, myself and a colleague invented a rather fetching poem...

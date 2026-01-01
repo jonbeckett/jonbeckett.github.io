@@ -2,7 +2,7 @@
 layout: post
 title: "Want To Know A Secret Steve Jobs Study Is Just As Untidy As Yours"
 date: 2010-11-15
-categories: blog archive
+categories: archive
 ---
 
 When I first saw the photo below, I thought "YES!"...

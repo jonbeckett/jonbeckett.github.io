@@ -2,7 +2,7 @@
 layout: post
 title: "The Year Of The Netbook"
 date: 2008-12-30
-categories: blog archive
+categories: archive
 ---
 
 I have been thinking back through the various technology news stories, gadgets, and industry events that have occurred in 2008 - trying to make sense of what had the most impact on me personally.

@@ -2,7 +2,7 @@
 layout: post
 title: "Good Night And Good Luck"
 date: 2006-12-12
-categories: blog archive
+categories: archive
 ---
 
 We watched the movie "Good Night and Good Luck" last night.

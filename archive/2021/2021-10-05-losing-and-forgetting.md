@@ -2,7 +2,7 @@
 layout: post
 title: "Losing And Forgetting"
 date: 2021-10-05
-categories: blog archive
+categories: archive
 ---
 
 I rarely remember much about my dreams - but today seems to be an exception. Perhaps if the dream happens immediately before you wake up, it stays with you? Who knows.

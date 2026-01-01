@@ -2,7 +2,7 @@
 layout: post
 title: "Dawn Of Justice"
 date: 2016-03-28
-categories: blog archive
+categories: archive
 ---
 
 Following the football match we were supposed to be watching this afternoon being called off, I managed to sneak off to the cinema this afternoon and watch "Dawn of Justice"the quarter of a billion dollar Batman/Superman/Wonderwoman/Doomsday slug-fest that the critics, and movie-snob internet hipsters all tried to trash.

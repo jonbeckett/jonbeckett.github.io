@@ -2,7 +2,7 @@
 layout: post
 title: "Some Fun To Start The Day Fridge Poetry"
 date: 2007-08-24
-categories: blog archive
+categories: archive
 ---
 
 In a fit of cleverness last night I build a new webpage, pretty much "just because I could"

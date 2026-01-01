@@ -2,7 +2,7 @@
 layout: post
 title: "The Darkest Timeline"
 date: 2014-05-12
-categories: blog archive
+categories: archive
 ---
 
 After spending months chasing my own tale, this weekend I had the chance to kick back and catch up with the internetand was dismayed (although not surprised) to see that NBC have finally cancelled the TV show "Community".

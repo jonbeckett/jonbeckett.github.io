@@ -2,7 +2,7 @@
 layout: post
 title: "Kasparov Retires"
 date: 2005-03-10
-categories: blog archive
+categories: archive
 ---
 
 It was something of a shock tonight to learn that Garry Karsparov has announced he is retiring from professional chess competition.

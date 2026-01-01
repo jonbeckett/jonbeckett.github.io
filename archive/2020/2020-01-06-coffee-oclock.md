@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee Oclock"
 date: 2020-01-06
-categories: blog archive
+categories: archive
 ---
 
 I'm working from home today - to wait for a telephone network engineer visit - to figure out what's wrong with our internet connection.

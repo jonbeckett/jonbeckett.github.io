@@ -3,7 +3,6 @@ layout: single
 title: "Four Days Away"
 date: 2025-05-08
 categories:
-  - blog
   - "2025"
 ---
 

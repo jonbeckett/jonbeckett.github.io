@@ -2,7 +2,7 @@
 layout: post
 title: "Book Im Reading The Heart Of The Sea"
 date: 2005-08-07
-categories: blog archive
+categories: archive
 ---
 
 I'm currently reading "The Heart of the Sea", a book about the true story that "Moby Dick" was inspired by.

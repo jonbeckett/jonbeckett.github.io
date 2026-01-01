@@ -2,7 +2,7 @@
 layout: post
 title: "Surrounded"
 date: 2020-04-14
-categories: blog archive
+categories: archive
 ---
 
 After Miss 19 asked if I would be using the study/junk room to work in this week, I ran around the house like a madman this morning, making way to use the living room as temporary office. It didn't help that the kitchen, lounge, and hallway were trashed, but I somehow managed to clear everything before collapsing at the table and switching on my webcam in time for the daily company-wide catch-up session.

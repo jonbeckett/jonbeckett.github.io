@@ -2,7 +2,7 @@
 layout: post
 title: "Olaf And The Girl Who Couldnt Skip"
 date: 2014-05-10
-categories: blog archive
+categories: archive
 ---
 
 For the past several weeks we have had the soundtrack to the movie "Frozen" pretty much on repeat in our houseand the reason presented itself on stage this evening in front of a vast sea of parents shining faces.

@@ -2,7 +2,7 @@
 layout: post
 title: "Hacking The System"
 date: 2004-05-19
-categories: blog archive
+categories: archive
 ---
 
 I have spent the greater part of today hacking the database behind a corporate document management system to revise the meta-data being held against documents.

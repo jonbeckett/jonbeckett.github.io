@@ -2,7 +2,7 @@
 layout: post
 title: "20 Random Things About Me"
 date: 2012-02-12
-categories: blog archive
+categories: archive
 ---
 
 This is all Lauren's fault. If not for her reminding me about the wonder that is "X things about me" posts, I would have struggled to come up with anything to write about today. Doing this has reminded me that I did"start again" with the blog at the start of the year, so those who have begun reading probably know very little about me. Let's call this a "Primer" then - "instructions through which you might simulate a Jonathan" (god forbid)...

@@ -2,7 +2,7 @@
 layout: post
 title: "The Journey Home"
 date: 2010-03-10
-categories: blog archive
+categories: archive
 ---
 
 1st Mile

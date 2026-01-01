@@ -2,7 +2,7 @@
 layout: post
 title: "Proper Job"
 date: 2004-04-03
-categories: blog archive
+categories: archive
 ---
 
 This weekend I are reportin' from deepest darkest Cornwall (the south westerly tip of England for those who only really know England as that little island that used to run the world).

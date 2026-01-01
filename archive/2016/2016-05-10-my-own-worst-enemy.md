@@ -2,7 +2,7 @@
 layout: post
 title: "My Own Worst Enemy"
 date: 2016-05-10
-categories: blog archive
+categories: archive
 ---
 
 While catching up on email a few days ago, I wrote a short message to a friend I have not heard from for some timeinquiring how she was. She writes a blog over at Blogger, and given my own laziness, and the ridiculously small amount of effort I had not made to leave the confines of WordPress or Tumblr to keep up with her blog, we were in danger of losing touch entirelywhich would have been unforgivable, given how long we have known each other.

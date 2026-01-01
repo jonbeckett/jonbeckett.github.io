@@ -2,7 +2,7 @@
 layout: post
 title: "To Strive To Seek To Find And Not To Yield"
 date: 2011-07-13
-categories: blog archive
+categories: archive
 ---
 
 I read a great post on somebody elses blog a few days ago about the willingness to carry onto keep putting one foot in front of the other. It struck all kinds of chords in my head, and has obviously been turning silent cogs somewhere, because I'm now writing this

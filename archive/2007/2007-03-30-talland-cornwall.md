@@ -2,7 +2,7 @@
 layout: post
 title: "Talland Cornwall"
 date: 2007-03-30
-categories: blog archive
+categories: archive
 ---
 
 We arrived in Cornwall just after 7pm last night after a nightmare journey that found us stuck in just about every build-up of traffic between Marlow and Plymouth. Once past Plymouth, over the Tamar Bridge (pictured above), the traffic disappeared and the entire pace of life slowed down.

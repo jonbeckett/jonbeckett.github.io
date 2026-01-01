@@ -2,7 +2,7 @@
 layout: post
 title: "The School Production"
 date: 2016-07-05
-categories: blog archive
+categories: archive
 ---
 
 I just got back from watching our youngest take part in the annual "Year 6 Production" - the final school event of her time at junior school. She leaves next month - moving on to the school that will eventually see her through exams, and out into the world.

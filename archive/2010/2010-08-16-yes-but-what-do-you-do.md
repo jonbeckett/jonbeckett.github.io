@@ -2,7 +2,7 @@
 layout: post
 title: "Yes But What Do You Do "
 date: 2010-08-16
-categories: blog archive
+categories: archive
 ---
 
 I realised this lunchtime while churning through Tumblr accounts in search of interesting people that I haven't actually let out of the bag what it is that I do. The tagline on my homepage says "software developer, web designer" - that's kind of a broad brush.

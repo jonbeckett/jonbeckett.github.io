@@ -2,7 +2,7 @@
 layout: post
 title: "Strange Dreams And Distant Friends"
 date: 2018-11-26
-categories: blog archive
+categories: archive
 ---
 
 I woke with a start this morning when the alarm clock went off on my mobile phone. I had been having a dream about a baby elephant chasing a guy along a beach - it seemed completely normal at the time, but looking back was utterly preposterous.

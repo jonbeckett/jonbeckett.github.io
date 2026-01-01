@@ -2,7 +2,7 @@
 layout: post
 title: "Haircuts Bowling And Bad Movies"
 date: 2017-08-07
-categories: blog archive
+categories: archive
 ---
 
 While the other occupants of the house sat around sipping tea and watching breakfast television shows this morning, I jumped in the shower, had a shave, got dressed, and headed into town to get my hair cut.

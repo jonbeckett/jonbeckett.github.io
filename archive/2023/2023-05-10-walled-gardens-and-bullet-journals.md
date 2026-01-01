@@ -2,7 +2,7 @@
 layout: post
 title: "Walled Gardens and Bullet Journals"
 date: 2023-05-10
-categories: blog archive
+categories: archive
 ---
 
 A message from a friend struck home today - encouraging me to stop trying so damn hard. To stop trying to spin so many plates all the time. To stop trying to be everywhere, doing everything, all the time. She was right of course - she invariably is. A whispered voice of reason, arriving at just the right time.

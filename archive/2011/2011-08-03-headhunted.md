@@ -2,7 +2,7 @@
 layout: post
 title: "Headhunted"
 date: 2011-08-03
-categories: blog archive
+categories: archive
 ---
 
 A Google recruiter just emailed me. I wrote a terse reply back, relating the last time this happened to meessentially telling him that unless Google want me, I'm not going to expend any effort on them.

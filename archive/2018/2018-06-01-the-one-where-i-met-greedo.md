@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where I Met Greedo"
 date: 2018-06-01
-categories: blog archive
+categories: archive
 ---
 
 Miss 17 and I took the twentieth bus out of town this morning - it would have been the first bus, but I couldn't find any dynamite to explode her out of bed. You're probably wondering why we were up so early (actually, probably not, but I'm going to tell you anyway).

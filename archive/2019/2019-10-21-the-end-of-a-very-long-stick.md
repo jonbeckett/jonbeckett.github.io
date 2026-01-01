@@ -2,7 +2,7 @@
 layout: post
 title: "The End Of A Very Long Stick"
 date: 2019-10-21
-categories: blog archive
+categories: archive
 ---
 
 I'm not doing NaNoWriMo this year. I'm keeping it at the end of a very long stick. There's a very strong possibility that I may never do NaNoWriMo again. If you're wondering what on earth "NaNoWriMo" is, it's a pnemonic for "National Novel Writing Month" - an annual challenge on the internet to write a 50,000 word novel during November.

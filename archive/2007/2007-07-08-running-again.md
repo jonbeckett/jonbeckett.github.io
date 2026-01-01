@@ -2,7 +2,7 @@
 layout: post
 title: "Running Again"
 date: 2007-07-08
-categories: blog archive
+categories: archive
 ---
 
 I just got back from a 2 mile run.

@@ -2,7 +2,7 @@
 layout: post
 title: "Backup And Version Control For Nanowrimo"
 date: 2010-10-26
-categories: blog archive
+categories: archive
 ---
 
 If you're going to take part in NaNoWriMo this year, how would you feel if your computer died half way through the competition and took your writing with it?

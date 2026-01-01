@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning"
 date: 2006-05-13
-categories: blog archive
+categories: archive
 ---
 
 I've been up since 7:30 this morning, and find myself in the unusual position of having the whole of the weekend stretched out before me with nothing planned. Of course, I think that at the moment, but W is bound to arrive back from town in the next few minutes and dictate what I'm going to be doing.

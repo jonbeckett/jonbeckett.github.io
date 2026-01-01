@@ -2,7 +2,7 @@
 layout: post
 title: "The Monday Morning Story"
 date: 2012-07-30
-categories: blog archive
+categories: archive
 ---
 
 This morning began with a bedside vigil of the alarm clock - watching as it ticked inexorably towards the moment when I would absolutely have to get up in order to avoid being late for work. All sorts of factors went into the calculation - knowing there was thawed bread in the kitchen, knowing I had a shave yesterday morning, and so on (I can get away with shaving every other day usually - although I do end "day two" looking like an extra from a Robinson Crusoe production).

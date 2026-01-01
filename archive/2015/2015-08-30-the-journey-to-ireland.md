@@ -2,7 +2,7 @@
 layout: post
 title: "The Journey To Ireland"
 date: 2015-08-30
-categories: blog archive
+categories: archive
 ---
 
 Rather than tell the entire Ireland story in one go, I'm going to break it up into several smaller posts - otherwise it could stretch on for several thousand (very boring) words that nobody except myself might be remotely interested in reading.

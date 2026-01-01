@@ -2,7 +2,7 @@
 layout: post
 title: "Surrendering The Ipad"
 date: 2011-11-27
-categories: blog archive
+categories: archive
 ---
 
 Yesterday evening I removed everything from the iPad directly related to "me"in the process converting it from "mine" to "ours". When I bought it, I knew this day would come, because of a simple truth; iOS (the iPad and iPhone operating system) does not support multiple users.

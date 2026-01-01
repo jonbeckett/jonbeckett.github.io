@@ -2,7 +2,7 @@
 layout: post
 title: "So Heres The Thing"
 date: 2011-09-07
-categories: blog archive
+categories: archive
 ---
 
 Ever since I started using Tumblr more, I deluded myself that I could quite happily write two blogsthe big tome that nobody reads in WordPress, and this one in Tumblr.

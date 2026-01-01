@@ -2,7 +2,7 @@
 layout: post
 title: "Quiet Sunday"
 date: 2007-01-07
-categories: blog archive
+categories: archive
 ---
 
 Next week will find me joining the daily commute to and from London, so I am trying to use today productively - relaxing.

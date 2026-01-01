@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Eve"
 date: 2018-12-23
-categories: blog archive
+categories: archive
 ---
 
 I spent the majority of today working from home - sitting at the desk in the junk room accompanied by my work laptop, mobile phone, and bullet journal. Elsewhere a handful of co-workers were doing the same - throughout the day we kept a chat-window open, and fired messages back and forth - first to greet each other this morning, and then to count the minutes down at the end of the day.

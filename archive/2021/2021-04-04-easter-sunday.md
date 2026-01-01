@@ -2,7 +2,7 @@
 layout: post
 title: "Easter Sunday"
 date: 2021-04-04
-categories: blog archive
+categories: archive
 ---
 
 wp:image  ![](https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F067a4c83-4976-4227-b92c-0023d3e6abfa_1920x1280.jpeg)  /wp:image   wp:html  After planning an online event with some friends for the last couple of weeks, my other half arrived in the kitchen on Friday night and said "I've booked us all tickets to visit a National Trust place on Saturday to go for a walk". I got halfway through saying "what time on Saturday?" before she furiously responded with "DON'T BOTHER!".

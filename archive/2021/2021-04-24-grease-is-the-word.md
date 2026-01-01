@@ -2,7 +2,7 @@
 layout: post
 title: "Grease Is The Word"
 date: 2021-04-24
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards 8pm in the evening, I'm sitting alone in the junk room listening to the Grease soundtrack on Spotify while the light slowly dies outside, and I'm wondering where the day went.

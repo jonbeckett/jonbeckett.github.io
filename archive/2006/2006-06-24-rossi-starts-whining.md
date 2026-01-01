@@ -2,7 +2,7 @@
 layout: post
 title: "Rossi Starts Whining"
 date: 2006-06-24
-categories: blog archive
+categories: archive
 ---
 
 It came as no surprise that following Rossi's 10th place in Assen, he is whining about the MotoGP races being so close together. If he had been in the lead of the championships he doubtless would have kept very quiet indeed.

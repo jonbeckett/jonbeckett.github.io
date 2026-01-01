@@ -2,7 +2,7 @@
 layout: post
 title: "Game Of Thrones"
 date: 2012-12-31
-categories: blog archive
+categories: archive
 ---
 
 After buying my other half the first season of Game of Thrones on DVD for Christmas, we have begun watching it over the past several nights. We are only four episodes in, but I can already sense an obsession coming - maybe not as bad as Community, where we watched the first three seasons inside a couple of months, or Big Bang Theory, where we watched an entire season in a couple of weeks, but the signs are there.

@@ -2,7 +2,7 @@
 layout: post
 title: "Swimming On Sunday Morning"
 date: 2017-08-19
-categories: blog archive
+categories: archive
 ---
 
 A little after waking up this morning a little voice called from the children's rooms. I grinned at my other half, and predicted the next sentence.

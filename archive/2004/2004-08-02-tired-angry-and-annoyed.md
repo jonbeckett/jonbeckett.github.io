@@ -2,7 +2,7 @@
 layout: post
 title: "Tired Angry And Annoyed"
 date: 2004-08-02
-categories: blog archive
+categories: archive
 ---
 
 I really didn't want to get up for work today. I had thoughts about going running first thing this morning, but my alarm went off at 7am and I didn't get out of bed - so that kind of killed that idea.

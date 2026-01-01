@@ -2,7 +2,7 @@
 layout: post
 title: "Psychopathic Cats"
 date: 2021-10-20
-categories: blog archive
+categories: archive
 ---
 
 While waiting for the computer to download some updates, I'm taking the opportunity to empty my head into the keyboard. Hopefully you'll forgive me if this post is a little disjointed.

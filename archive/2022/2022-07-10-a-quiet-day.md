@@ -2,7 +2,7 @@
 layout: post
 title: "A Quiet Day"
 date: 2022-07-10
-categories: blog archive
+categories: archive
 ---
 
 Today has been a quiet day. A quiet day was needed. A day to rest and collect thoughts.

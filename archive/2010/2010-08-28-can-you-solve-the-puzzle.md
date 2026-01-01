@@ -2,7 +2,7 @@
 layout: post
 title: "Can You Solve The Puzzle "
 date: 2010-08-28
-categories: blog archive
+categories: archive
 ---
 
 Here's the situation

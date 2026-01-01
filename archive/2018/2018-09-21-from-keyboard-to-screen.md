@@ -2,7 +2,7 @@
 layout: post
 title: "From Keyboard To Screen"
 date: 2018-09-21
-categories: blog archive
+categories: archive
 ---
 
 I have re-installed both my old desktop computer and laptop with "Elementary OS". It's a flavour of Linux that has been growing in pupularity over the last few years - I tried it when it first appeared, and have kept going back to it. It's simple, fast, and works well on old computers. I had been using Windows 10, but it just gets more and more bloated, slow, and clunky.

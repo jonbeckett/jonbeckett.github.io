@@ -2,7 +2,7 @@
 layout: post
 title: "Rocks Frogs And Wine"
 date: 2021-06-26
-categories: blog archive
+categories: archive
 ---
 
 It's Saturday afternoon, and you find me sitting in the junk room with an empty wine glass, reasoning with myself that two small glasses of wine are quite enough, and that if I drink any more I'll regret it.

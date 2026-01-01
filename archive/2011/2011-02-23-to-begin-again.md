@@ -2,7 +2,7 @@
 layout: post
 title: "To Begin Again"
 date: 2011-02-23
-categories: blog archive
+categories: archive
 ---
 
 Three thousand posts, seven years, multiple platforms, multiple technologies - all directed towards one rather ordinary goal : to delivery my thoughts to you via the words I write.

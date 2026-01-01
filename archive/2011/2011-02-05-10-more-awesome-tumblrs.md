@@ -2,7 +2,7 @@
 layout: post
 title: "10 More Awesome Tumblrs"
 date: 2011-02-05
-categories: blog archive
+categories: archive
 ---
 
 The most recent results of my expeditionary attempts to discover the interesting, thought provoking, and original within the Tumblrsphere. The following were garnered from the "personal" category on Tumblweeds.

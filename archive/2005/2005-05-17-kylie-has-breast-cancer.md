@@ -2,7 +2,7 @@
 layout: post
 title: "Kylie Has Breast Cancer"
 date: 2005-05-17
-categories: blog archive
+categories: archive
 ---
 
 I just read on the news that Kylie Minogue has breast cancer... quite a shock.

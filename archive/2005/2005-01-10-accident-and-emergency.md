@@ -2,7 +2,7 @@
 layout: post
 title: "Accident And Emergency"
 date: 2005-01-10
-categories: blog archive
+categories: archive
 ---
 
 We had something of an eventful weekend.

@@ -2,7 +2,7 @@
 layout: post
 title: "Losing A Day"
 date: 2012-05-20
-categories: blog archive
+categories: archive
 ---
 
 I woke late this morning with a pounding headache, and started counting back through the alcohol I had consumed the night before. Three bottles of Budweiser - surely they couldn't have accounted for feeling quite soawful?

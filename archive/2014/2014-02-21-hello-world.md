@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 date: 2014-02-21
-categories: blog archive
+categories: archive
 ---
 
 Starting a new blog or website places a certain amount of pressure on the author to provide some kind of spectacularly worthy, interesting, or thought provoking content for the first visitors to read, in the hopes that they might be enthused enough to return in the future.

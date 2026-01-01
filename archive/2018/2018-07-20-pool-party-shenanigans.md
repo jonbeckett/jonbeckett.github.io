@@ -2,7 +2,7 @@
 layout: post
 title: "Pool Party Shenanigans"
 date: 2018-07-20
-categories: blog archive
+categories: archive
 ---
 
 You know how you head into the weekend sometimes, and you have plans to do so many things - things for yourself - time to yourself. And then the weekend arrives, and all those ideas get blown away by a gust of wind. Yeah. That.

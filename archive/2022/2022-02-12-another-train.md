@@ -2,7 +2,7 @@
 layout: post
 title: "Another Train"
 date: 2022-02-12
-categories: blog archive
+categories: archive
 ---
 
 I'm sitting on the train, heading east across the country towards home. Thankfully the trains and replacement bus services have connnected so far - hurtling me across the countryside at quite some speed. In contrast with my journey west last weekend, the beginning of this journey was somewhat more chaotic. I stood crammed into the corner of the first train of my route, wondering what on earth was going on.

@@ -2,7 +2,7 @@
 layout: post
 title: "Back To Work"
 date: 2019-09-02
-categories: blog archive
+categories: archive
 ---
 
 After two weeks with no schedule, no plans, no obligations, and no expectations, today arrived with something of a thump.

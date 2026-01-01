@@ -2,7 +2,7 @@
 layout: post
 title: "Miss 13 Joins The Social Internet"
 date: 2017-01-13
-categories: blog archive
+categories: archive
 ---
 
 My middle daughter turned 13 years old this morning. Before going to bed last night she made a point of telling me her phone was on charge, ready to install Facebook, Twitter, and Instagram.

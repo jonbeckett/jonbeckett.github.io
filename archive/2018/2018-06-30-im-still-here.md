@@ -2,7 +2,7 @@
 layout: post
 title: "Im Still Here"
 date: 2018-06-30
-categories: blog archive
+categories: archive
 ---
 
 Yes, I know I haven't posted anything for several days. Since returning from Germany, everything has been ever so slightly mad. I got home late on Friday afternoon, threw my clothes in the washing machine, and then sat down with the children to watch a movie and down most of a bottle of wine - which rather unsurprisingly wiped me out after a week drinking water and fruit juice in Germany.

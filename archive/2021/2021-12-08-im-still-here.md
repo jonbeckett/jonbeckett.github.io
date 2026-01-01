@@ -2,7 +2,7 @@
 layout: post
 title: "Im Still Here"
 date: 2021-12-08
-categories: blog archive
+categories: archive
 ---
 
 I've been sitting in front of the keyboard with an empty text editor for the last ten minutes. The well of words I have so often visited seems to have dried spectacularly in recent months.

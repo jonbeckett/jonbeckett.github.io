@@ -2,7 +2,7 @@
 layout: post
 title: "The Week The World Got Bigger"
 date: 2015-01-09
-categories: blog archive
+categories: archive
 ---
 
 I started the WordPress Blogging 101 course last weekend without any great aspirations, or aims - I just wanted to take part in something that hopefully kick-started me into writing something a little more worthy than mundane posts about cycling to work, or the clientle at the local Starbucks. Doing the writing exercises each day has made everything easy, and brought about an unexpected explosion in readers.

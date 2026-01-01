@@ -2,7 +2,7 @@
 layout: post
 title: "Were Going Out Out Stunned Silence"
 date: 2014-11-28
-categories: blog archive
+categories: archive
 ---
 
 For the first time in what feels like a very long time (but is in reality only three weeks) we are off out for a drink and something to eat with friends this evening. Shocking behaviour.

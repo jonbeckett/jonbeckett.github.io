@@ -2,7 +2,7 @@
 layout: post
 title: "Moleskine Memories Of A London Commuter"
 date: 2011-01-29
-categories: blog archive
+categories: archive
 ---
 
 In late 2006 I began a five day engagement in London, working in the heart of the city. The journey each day took two hours each way, which I filled with music, podcasts, great books, and writing my thoughts in a moleskine notebook. The brain dump usually happened over coffee at Paddington station before venturing into the London Underground, or while squashed between fellow commuters on the way home.

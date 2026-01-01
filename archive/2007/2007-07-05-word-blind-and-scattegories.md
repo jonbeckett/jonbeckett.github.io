@@ -2,7 +2,7 @@
 layout: post
 title: "Word Blind And Scattegories"
 date: 2007-07-05
-categories: blog archive
+categories: archive
 ---
 
 We started out on a great new idea last night - spending an evening each week either at our house or a friend's house playing board games - helped along with pizza, chinese takeaway, or any other easy to obtain / bad for you / tastes great food we can lay our hands on.

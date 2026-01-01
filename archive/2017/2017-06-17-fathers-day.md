@@ -2,7 +2,7 @@
 layout: post
 title: "Fathers Day"
 date: 2017-06-17
-categories: blog archive
+categories: archive
 ---
 
 After waking up with the rest of the house this morning at 7am - they were heading to a football tournament - I arrived downstairs to find Miss 13 waiting for me in the living room with several presents.

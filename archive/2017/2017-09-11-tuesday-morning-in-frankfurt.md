@@ -2,7 +2,7 @@
 layout: post
 title: "Tuesday Morning In Frankfurt"
 date: 2017-09-11
-categories: blog archive
+categories: archive
 ---
 
 Written at 9am in the morning while perched at a coffee shop table among the skyscrapers of central Frankfurt, and posted at 8pm the same evening while sitting in the hotel, listening to rain dancing on the windows.

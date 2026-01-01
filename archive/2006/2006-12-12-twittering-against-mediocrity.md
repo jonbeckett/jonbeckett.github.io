@@ -2,7 +2,7 @@
 layout: post
 title: "Twittering Against Mediocrity"
 date: 2006-12-12
-categories: blog archive
+categories: archive
 ---
 
 I have heard several quotes over the years warning against the dangers of mediocrity. How best to battle the slide of this blog over the past several days towards that danger?

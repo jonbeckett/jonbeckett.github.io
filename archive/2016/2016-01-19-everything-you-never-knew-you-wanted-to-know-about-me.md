@@ -2,7 +2,7 @@
 layout: post
 title: "Everything You Never Knew You Wanted To Know About Me"
 date: 2016-01-19
-categories: blog archive
+categories: archive
 ---
 
 This post is going to break records as the longest post in the entire blog. I just spent my entire lunch break writing it. If I had looked at the number of questions ahead of time, I might not have done it, but I have now, so I guess you get to fall asleep standing up while reading it (if you're standing up).

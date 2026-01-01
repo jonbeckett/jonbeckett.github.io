@@ -2,7 +2,7 @@
 layout: post
 title: "Missing Days"
 date: 2019-11-07
-categories: blog archive
+categories: archive
 ---
 
 I'm trying to convince myself that the sporadic updates to the blog are just a product of life landing on me like a grand piano from a tenth floor window, rather than an eventual silencing of the daily brain-dumpage.

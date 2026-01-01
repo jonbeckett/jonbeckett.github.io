@@ -2,7 +2,7 @@
 layout: post
 title: "An Unexpected Night Out"
 date: 2019-01-22
-categories: blog archive
+categories: archive
 ---
 
 While packing my bag before leaving work this evening, the guy I have been working with over the last several months invited both myself and another contractor to his house for drinks and something to eat. A night out! A night away from the horrors of standing at the lectern at the entrance of a restaurant, asking for a "table for one".

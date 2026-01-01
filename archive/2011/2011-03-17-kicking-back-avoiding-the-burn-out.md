@@ -2,7 +2,7 @@
 layout: post
 title: "Kicking Back Avoiding The Burn Out"
 date: 2011-03-17
-categories: blog archive
+categories: archive
 ---
 
 I'm taking ten minutes out from programming the world to a standstill (Javascript, jQuery, and Webservices have been the poisons of the morning) to surf the web and shoot the breeze with friends. When faced with long term development projects, it's all too easy to become consumed with the deadline, to bury yourself, and eventually burn out.

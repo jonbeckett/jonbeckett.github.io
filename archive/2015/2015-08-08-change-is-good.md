@@ -2,7 +2,7 @@
 layout: post
 title: "Change Is Good"
 date: 2015-08-08
-categories: blog archive
+categories: archive
 ---
 
 It feels like we've been here before. Several times. I guess at least this time there is a reason for the scorched earth goings on, and the migration between blogs with different names. It's a reason cloaked in obsessive compulsive behaviour, but at least it's a reason, and that's good, right?

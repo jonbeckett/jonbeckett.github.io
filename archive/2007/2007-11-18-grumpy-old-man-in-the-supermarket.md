@@ -2,7 +2,7 @@
 layout: post
 title: "Grumpy Old Man In The Supermarket"
 date: 2007-11-18
-categories: blog archive
+categories: archive
 ---
 
 Something happened yesterday that has cheered me up no end.

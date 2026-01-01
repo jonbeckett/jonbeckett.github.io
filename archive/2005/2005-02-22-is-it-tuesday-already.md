@@ -2,7 +2,7 @@
 layout: post
 title: "Is It Tuesday Already"
 date: 2005-02-22
-categories: blog archive
+categories: archive
 ---
 
 This week seems to be going past even faster than last week (if that makes any sense at all).

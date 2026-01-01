@@ -2,7 +2,7 @@
 layout: post
 title: "Lunchtime Diversion Celebrity Blogs"
 date: 2007-01-03
-categories: blog archive
+categories: archive
 ---
 
 While taking a break from studying this lunchtime, I headed over to del.icio.us, and did a search for "celebrity blog" to see what came up (del.icio.us is a social bookmarking service, and is well worth checking out).

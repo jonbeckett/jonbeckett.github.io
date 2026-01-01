@@ -2,7 +2,7 @@
 layout: post
 title: "Guess Who Left His Phone At Work And Then Found It"
 date: 2008-01-19
-categories: blog archive
+categories: archive
 ---
 
 I left my mobile phone at work. I feel like I'm cut off from the world... it's very, very weird indeed.

@@ -3,7 +3,6 @@ layout: single
 title: "Friends, Cheese, Wine and Dogs"
 date: 2025-02-16
 categories:
-  - blog
   - "2025"
 ---
 

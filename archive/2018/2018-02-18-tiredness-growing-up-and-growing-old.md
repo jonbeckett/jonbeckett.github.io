@@ -2,7 +2,7 @@
 layout: post
 title: "Tiredness Growing Up And Growing Old"
 date: 2018-02-18
-categories: blog archive
+categories: archive
 ---
 
 I nearly fainted this afternoon. I had been working flat out all day on a technical problem. I didn't get up from my desk from the moment I arrived in the morning until the moment I left in the evening. There must be a rule deep in the workings of the universe that undiscovered problems will show themselves at the most unexpected moments. I'm reminded of the infinite improbability drive in Douglas Adams book "The Hitchhikers Guide to the Universe". Who would have guessed he would predict the nature of modern software development so many years before we all started headbutting laptops and thumping desks.

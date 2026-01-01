@@ -2,7 +2,7 @@
 layout: post
 title: "The Weekend Approaches"
 date: 2022-07-29
-categories: blog archive
+categories: archive
 ---
 
 The week is finally slowing down - affording me the chance to write a few words.

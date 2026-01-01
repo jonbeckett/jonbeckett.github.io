@@ -2,7 +2,7 @@
 layout: post
 title: "Truthful Tuesday"
 date: 2011-07-19
-categories: blog archive
+categories: archive
 ---
 
 I just wandered into Tumblr, and lost myself for a few minutes reading "Truthful Tuesday" posts. While Tumblr has numerous failures and annoyances (more than I can sensibly list here) something occurred to me -I miss the people I left behind.

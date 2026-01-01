@@ -2,7 +2,7 @@
 layout: post
 title: "Working From Home"
 date: 2016-06-06
-categories: blog archive
+categories: archive
 ---
 
 While reminding the children to get their school bags ready last night after a week off for half-term, my other half turned to me.

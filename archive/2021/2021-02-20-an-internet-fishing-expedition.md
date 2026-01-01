@@ -2,7 +2,7 @@
 layout: post
 title: "An Internet Fishing Expedition"
 date: 2021-02-20
-categories: blog archive
+categories: archive
 ---
 
 After talking to a few friends who also post to Wordpress, and who have also seen an increase in follows, likes, and subscriptions from business accounts who never interact again, I thought I might lace a post with suitable terms to see what happens. Take no notice of the next paragraph.

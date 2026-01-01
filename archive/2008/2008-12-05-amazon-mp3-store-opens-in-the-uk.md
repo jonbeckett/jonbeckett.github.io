@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon Mp3 Store Opens In The Uk"
 date: 2008-12-05
-categories: blog archive
+categories: archive
 ---
 
 The Amazon MP3 store has finally opened in the UK with a raft of albums selling for 3 (about $5). I'm not quite sure how they are getting away with it, but they are also integrating with iTunes, allowing you to automatically import purchases into iTunes. Let's get this straight;

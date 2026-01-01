@@ -2,7 +2,7 @@
 layout: post
 title: "Flying Home Tomorrow"
 date: 2018-06-27
-categories: blog archive
+categories: archive
 ---
 
 Another week in Germany comes to and end. Another three day development sprint, working like a lunatic while the project owners test, make changes, and call various people in to discuss ideas. I guess this has been my first real experience of "Agile development" - where you release early, and release often. In the "real world" you might draw parallels with building a house before the architect has put pen to paper. It's interesting, scary, and requires an awful lot of trust in the developer.

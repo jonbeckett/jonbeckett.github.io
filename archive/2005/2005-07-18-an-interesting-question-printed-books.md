@@ -2,7 +2,7 @@
 layout: post
 title: "An Interesting Question Printed Books"
 date: 2005-07-18
-categories: blog archive
+categories: archive
 ---
 
 Here's a question for anybody who happens to read this. When a book is published internationally, do they change the spellings used to suit it's target market (the obvious example I'm thinking of here is the USA versus the UK).

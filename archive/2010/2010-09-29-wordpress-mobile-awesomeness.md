@@ -2,7 +2,7 @@
 layout: post
 title: "Wordpress Mobile Awesomeness"
 date: 2010-09-29
-categories: blog archive
+categories: archive
 ---
 
 Who knew that WordPress blogs automagically convert themselves for mobile devices?

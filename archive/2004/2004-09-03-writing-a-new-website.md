@@ -2,7 +2,7 @@
 layout: post
 title: "Writing A New Website"
 date: 2004-09-03
-categories: blog archive
+categories: archive
 ---
 
 Hi to anybody who reads this babble.

@@ -2,7 +2,7 @@
 layout: post
 title: "Steve Jobs Resigns"
 date: 2011-08-24
-categories: blog archive
+categories: archive
 ---
 
 The following resignation letter from Steve Jobs just crossed the wires.

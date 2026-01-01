@@ -2,7 +2,7 @@
 layout: post
 title: "This Is Normal"
 date: 2011-01-03
-categories: blog archive
+categories: archive
 ---
 
 A conversation that happened early this morning with our eldest...

@@ -2,7 +2,7 @@
 layout: post
 title: "A Race Against Time"
 date: 2019-02-07
-categories: blog archive
+categories: archive
 ---
 
 It's heading towards midnight, and I'm racing to post something to the blog before Friday becomes Saturday. Yes, this is a mania to make sure I have at least one post per day. And yes, I am mad. I have something like 14 minutes to get these words out onto the internet. 13 minutes now. I would have had half an hour, but the cats came running into the house a few minutes ago like their tails were on fire - causing me to drop everything, and give the younger one - Kaspar - a fuss.

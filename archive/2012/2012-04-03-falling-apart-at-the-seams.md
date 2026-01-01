@@ -2,7 +2,7 @@
 layout: post
 title: "Falling Apart At The Seams"
 date: 2012-04-03
-categories: blog archive
+categories: archive
 ---
 
 The weekend before last I was playing football on the green outside our house, and the bright idea popped into my head to see if you could kick a football while hopping. After I collapsed in a heap on the ground, I figured it wasn't such a great idea after all.

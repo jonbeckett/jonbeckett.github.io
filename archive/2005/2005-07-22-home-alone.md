@@ -2,7 +2,7 @@
 layout: post
 title: "Home Alone"
 date: 2005-07-22
-categories: blog archive
+categories: archive
 ---
 
 W has gone to Crystal Palace (stadium in London) to watch the Athletics with her mum tonight. I was worried that a lot of the big names were going to pull out because of the bombing attempts in London recently, but there were still quite a few in the end. The like of Justin Gatland and Asafa Boldon turned up.

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Morning And Pancakes For Six"
 date: 2015-01-18
-categories: blog archive
+categories: archive
 ---
 
 We had six children in the house last night - our three, and three friends. They roughly divided themselves into two groups - 10 and 11 year olds on the sofa bed in the spare room downstairs, and 9 year olds on the bunk beds upstairs. Thankfully, because most of the kids we know are wonderful, the evening went off without any major incidents (if you can count threatening to confiscate a mobile phone that was being used to secretly film and then bully our daughter within five minutes an incident - yeah, I wasn't happy either).

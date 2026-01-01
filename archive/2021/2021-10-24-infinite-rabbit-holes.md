@@ -2,7 +2,7 @@
 layout: post
 title: "Infinite Rabbit Holes"
 date: 2021-10-24
-categories: blog archive
+categories: archive
 ---
 
 For the last two hours I have been sitting in front of a computer with the intention of writing something. Instead I have tumbled down rabbit hole after rabbit hole around the internet - either researching stories on twitter to find out if they are true or not, trawling through wonderful comic book cover artwork, or talking to distant friends.

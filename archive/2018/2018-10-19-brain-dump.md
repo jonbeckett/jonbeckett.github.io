@@ -2,7 +2,7 @@
 layout: post
 title: "Brain Dump"
 date: 2018-10-19
-categories: blog archive
+categories: archive
 ---
 
 I'm not entirely sure where to start. I haven't really sat down for longer than ten minutes all day. I've cleared all the washing, hoovered downstairs, cleaned the kitchen (more than once), made lunch for everybody, re-wired the phone and internet connection (which involved walking into town again to buy a wire), gone grocery shopping with Miss 18 to make gallons of some soup recipe she found on the internet, made dinner for everybody, finished washing up after the kids were supposed to have done it, and now find myself sitting in the junk room with a beer.

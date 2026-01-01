@@ -2,7 +2,7 @@
 layout: post
 title: "On Site In Manchester"
 date: 2003-07-13
-categories: blog archive
+categories: archive
 ---
 
 It's 14th July, I'm sat in the offices of BUPA in Manchester, and I'm tired. I'm also bored.

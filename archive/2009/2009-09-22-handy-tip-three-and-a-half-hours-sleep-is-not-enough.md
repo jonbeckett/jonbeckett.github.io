@@ -2,7 +2,7 @@
 layout: post
 title: "Handy Tip Three And A Half Hours Sleep Is Not Enough"
 date: 2009-09-22
-categories: blog archive
+categories: archive
 ---
 
 You might imagine I would have worked out how much sleep I need to survive on by now, wouldn't you. You would also be wrong.

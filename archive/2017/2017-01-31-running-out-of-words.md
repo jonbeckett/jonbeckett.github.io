@@ -2,7 +2,7 @@
 layout: post
 title: "Running Out Of Words"
 date: 2017-01-31
-categories: blog archive
+categories: archive
 ---
 
 When you've been on the road non-stop since the start of the year, you start to run out of anything noteworthy to say about your day. Each day becomes much like the last one. I think it was Gandalf that said something about the small, seemingly insignificant things being important - so perhaps I will concentrate on those.

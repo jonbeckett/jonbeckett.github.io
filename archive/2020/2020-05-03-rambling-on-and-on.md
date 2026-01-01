@@ -2,7 +2,7 @@
 layout: post
 title: "Rambling On And On"
 date: 2020-05-03
-categories: blog archive
+categories: archive
 ---
 
 Rather than talk to anybody in particular on the podcast this week, I'm talking to myself. I'm pretty sure this is a direct route to madness, but I'll risk it.

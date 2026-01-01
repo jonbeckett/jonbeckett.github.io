@@ -2,7 +2,7 @@
 layout: post
 title: "Bank Holiday Monday"
 date: 2021-08-30
-categories: blog archive
+categories: archive
 ---
 
 Prodded more by the necessity of alternative earning avenues than the pursuit of creativity, I returned to the Medium well this morning and expanded on the words I wrote yesterday about the encounter with a group of teenagers littering the green outside our house.

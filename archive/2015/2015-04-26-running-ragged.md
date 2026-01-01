@@ -2,7 +2,7 @@
 layout: post
 title: "Running Ragged"
 date: 2015-04-26
-categories: blog archive
+categories: archive
 ---
 
 Today didn't really happen.

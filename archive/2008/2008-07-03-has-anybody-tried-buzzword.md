@@ -2,7 +2,7 @@
 layout: post
 title: "Has Anybody Tried Buzzword"
 date: 2008-07-03
-categories: blog archive
+categories: archive
 ---
 
 I discovered something rather nice recently - a web based word processor called "BuzzWord". It's based on Flash, and was bought by Adobe to help combat Google. Want to know a secret? - it's much, much nicer to use than Google Docs.

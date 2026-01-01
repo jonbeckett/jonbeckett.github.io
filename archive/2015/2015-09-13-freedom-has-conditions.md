@@ -2,7 +2,7 @@
 layout: post
 title: "Freedom Has Conditions"
 date: 2015-09-13
-categories: blog archive
+categories: archive
 ---
 
 The main problem that manifests on any social platform that gains traction is people. Pure and simple.

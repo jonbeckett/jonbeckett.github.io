@@ -2,7 +2,7 @@
 layout: post
 title: "strange dreams"
 date: 2023-04-11
-categories: blog archive
+categories: archive
 ---
 
 I had a dream last night that has been rattling around my head all day. When I woke, it took a few moments to gather my thoughts - to re-construct the real from the imagined.

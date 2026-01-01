@@ -2,7 +2,7 @@
 layout: post
 title: "Turnaround Time"
 date: 2010-09-04
-categories: blog archive
+categories: archive
 ---
 
 The weekends seem like some kind of "turnaround", or "pitstop" at the moment. Rather than go into some huge and boring story covering the last few days, I think perhaps a few bullet points might suffice;

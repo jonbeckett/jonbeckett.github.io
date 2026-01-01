@@ -3,7 +3,6 @@ layout: single
 title: "Decompression"
 date: 2025-10-08
 categories:
-  - blog
   - "2025"
 ---
 

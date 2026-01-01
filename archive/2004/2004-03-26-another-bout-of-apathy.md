@@ -2,7 +2,7 @@
 layout: post
 title: "Another Bout Of Apathy"
 date: 2004-03-26
-categories: blog archive
+categories: archive
 ---
 
 I'm sat here at work staring at Textpad (the program I'm writing this in), and the reams of SQL in the window behind it, and listening to some classical music or other on my headphones... around me in the office everybody seems to be over-run with work.

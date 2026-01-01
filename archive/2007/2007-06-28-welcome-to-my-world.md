@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome To My World"
 date: 2007-06-28
-categories: blog archive
+categories: archive
 ---
 
 The place - Sloe, Paddington Station

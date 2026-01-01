@@ -2,7 +2,7 @@
 layout: post
 title: "Words From Another Life"
 date: 2009-02-02
-categories: blog archive
+categories: archive
 ---
 
 An email arrived in my inbox this morning from somebody I have not seen for about 8 years - my closest friend for a couple of years back before I got all sensible, and my comrade in more drunken adventures than I am willing to recount. She was the one who found me curled up around the base of the washing line in the pouring rain in the early hours of the morning.

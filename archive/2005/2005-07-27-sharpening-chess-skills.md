@@ -2,7 +2,7 @@
 layout: post
 title: "Sharpening Chess Skills"
 date: 2005-07-27
-categories: blog archive
+categories: archive
 ---
 
 Following a few defeats against a friend at work recently I decided it's time I started putting some work into playing chess once more. I have Chessmaster up and running on my home computer and had a "proper" game against it tonight.

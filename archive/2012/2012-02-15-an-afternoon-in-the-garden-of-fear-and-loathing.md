@@ -2,7 +2,7 @@
 layout: post
 title: "An Afternoon In The Garden Of Fear And Loathing"
 date: 2012-02-15
-categories: blog archive
+categories: archive
 ---
 
 It's half past threefive oclock in the afternoon, and I'm forcing myself to have a belated lunch break at work. Do you ever have days when you watch the email inbox with a creeping dread? I know I do - I'm doing it right now. My insanity is such that rather than going for a walk, getting some fresh air, or catching up with co-workers elsewhere in the building, I'm staying here, on my own, typing this garbage.

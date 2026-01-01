@@ -2,7 +2,7 @@
 layout: post
 title: "It begins with hello"
 date: 2023-02-02
-categories: blog archive
+categories: archive
 ---
 
 I need to stop burning the candle at both ends. I think perhaps the key might be learning to say "no" more often. I find it really difficult though - saying no.

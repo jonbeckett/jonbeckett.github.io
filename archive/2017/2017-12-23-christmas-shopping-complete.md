@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Shopping Complete"
 date: 2017-12-23
-categories: blog archive
+categories: archive
 ---
 
 Today was really just about buying bits and pieces that were not on lists. A family board game to play, stocking fillers, and so on. I had planned on going out yesterday, but forgot all about the War Horse trip.

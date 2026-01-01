@@ -2,7 +2,7 @@
 layout: post
 title: "Missing A Day"
 date: 2016-05-12
-categories: blog archive
+categories: archive
 ---
 
 I didn't post anything on the blog yesterday. I'm not sure why. Unless I post this in the next half an hour, the absenteeism will stretch out to two daysunheard of in the recent past. It would be easy to explain the lack of writing as "nothing happening worth writing about", but as I've written so many times in the pasteverything is interesting to somebodyeven the most mundane moments of the day.

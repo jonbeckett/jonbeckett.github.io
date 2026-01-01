@@ -2,7 +2,7 @@
 layout: post
 title: "Fathers Day"
 date: 2011-06-19
-categories: blog archive
+categories: archive
 ---
 
 A few photographs to remember the dayI would like to report an easy day filled with relaxation, but as with most days around here, it was anything but. We argued over chores, we fought with the children, W burned her fingers while cooking dinner, and I washed up perhaps six times during the day.

@@ -2,7 +2,7 @@
 layout: post
 title: "Where For Art Thou Saturday"
 date: 2010-11-13
-categories: blog archive
+categories: archive
 ---
 
 Oh Saturday, Saturday, where for art thou Saturday?

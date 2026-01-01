@@ -2,7 +2,7 @@
 layout: post
 title: "Nanowrimo Approaches"
 date: 2008-10-19
-categories: blog archive
+categories: archive
 ---
 
 It's that time of year again. I've put my name down and expect to spectacularly fail once more in my bid to write a 50,000 word novel during November.

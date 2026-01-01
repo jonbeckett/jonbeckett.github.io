@@ -2,7 +2,7 @@
 layout: post
 title: "Excerts From The Moleskine"
 date: 2007-09-13
-categories: blog archive
+categories: archive
 ---
 
 If you have been reading "Life and Times" for some time, you may be aware that I also write in a notebook that I carry with me - a trusty "Moleskine". Without much time to marshal my thoughts today, I thought it might be interesting for passing readers to see a few excerts from it's pages.

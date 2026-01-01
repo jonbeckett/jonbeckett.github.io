@@ -2,7 +2,7 @@
 layout: post
 title: "the long journey home"
 date: 2023-03-27
-categories: blog archive
+categories: archive
 ---
 
 Itas Monday afternoon and you find me on the train a sitting at Plymouth station, in the south west of England. Weall be leaving in a few minutes a heading towards London, and home. Before getting there I have two more trains to connect with a this is the second. Fingers crossed.

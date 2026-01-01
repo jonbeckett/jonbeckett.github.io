@@ -2,7 +2,7 @@
 layout: post
 title: "The One Where The Rain Made Me Wretch"
 date: 2009-10-07
-categories: blog archive
+categories: archive
 ---
 
 The cycle home from work this evening was rather eventful, on account of the great deluge that befell most of southern England in time to coincide with my journey. I suspect the gods did it on purpose due to my continual fence sitting with regard to divine matters (in reality, it's becoming closer to falling into the non existent side of the fence, but that's another argument for another day).

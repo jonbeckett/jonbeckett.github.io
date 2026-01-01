@@ -2,7 +2,7 @@
 layout: post
 title: "Wednesday Night Is Curry Night"
 date: 2008-01-24
-categories: blog archive
+categories: archive
 ---
 
 Three days to go after today, and we found ourselves visiting our friends for a takeaway curry (and several bottles of wine, and to offload some of the eggs from our chickens).
