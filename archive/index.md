@@ -4,8 +4,6 @@ title: Blog Archive
 permalink: /archive/
 ---
 
-# Blog Archive
-
 This archive contains blog posts spanning from 2003 to 2024.
 
 ## Browse by Year
