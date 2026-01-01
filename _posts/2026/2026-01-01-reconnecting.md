@@ -1,9 +1,9 @@
 ---
 title: "Reconnecting"
 layout: single
-date: 2025-01-01
+date: 2026-01-01
 categories:
-  - "2025"
+  - "2026"
 ---
 
 Well, here we are again. Another January 1st has rolled around, and with it, that familiar hum of "new year, new me." This is where many people launch into grand declarations about resolutions, goals, and all the exciting things they are going to do this year. Not me. This year feels... different.
