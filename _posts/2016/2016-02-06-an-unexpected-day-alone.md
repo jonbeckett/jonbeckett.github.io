@@ -2,7 +2,8 @@
 layout: single
 title: "An Unexpected Day Alone"
 date: 2016-02-06
-categories: "2016"
+categories:
+  - 2016
 ---
 
 The plan had been to head out this morning with my other half, and the younger children to stand on the touchline of a muddy football pitch for an hour, before heading to Oxfordshire to spend the day with the in-laws. When we woke this morning a nagging doubt in my mind came straight out of my other half's mouth, meaning I would stay at home. It's funny how that happens sometimes.

@@ -2,7 +2,8 @@
 layout: single
 title: "Replying To The Past"
 date: 2017-11-02
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I was reminded by a wonderful friend this morning that back in 2007 I wrote a post on the blog titled "A Letter to my Future Self [https://strangecodex.wordpress.com/2007/01/22/a-letter-to-my-future-self/]", with instructions to be opened ten years later. The letter asked a number of questions, so I thought it might be fun to finally reply.

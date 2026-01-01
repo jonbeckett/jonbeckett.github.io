@@ -2,7 +2,8 @@
 layout: single
 title: "Good Friends"
 date: 2017-06-16
-categories: "2017"
+categories:
+  - 2017
 ---
 
 We were invited to a friends this evening to eat, drink, and spend a few hours catching up with one another. We sat in the garden, ate wonderful food, drank fantastic drinks, and talked about all manner of rubbish that we probably won't remember in the morning.

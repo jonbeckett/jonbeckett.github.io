@@ -2,7 +2,8 @@
 layout: single
 title: "Bang Bang Cauliflower"
 date: 2023-10-25
-categories: "2023"
+categories:
+  - 2023
 ---
 
 We went out for a drink and something to eat with friends last night. Not really "out out" - just ten-pin-bowling, and Wagamama (a noodle bar, if they don't have them in your part of the world). It was nice. A break from everything for a few hours. We were all pretty terrible at bowling - I think the last time I set foot in or on a bowling alley was probably six years ago.

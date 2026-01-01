@@ -2,7 +2,8 @@
 layout: single
 title: "Waiting Listening And Ignoring The Idiots"
 date: 2016-09-14
-categories: "2016"
+categories:
+  - 2016
 ---
 
 This afternoon you find me sitting in the waiting room of the doctors. I imagine I'll be here for the best part of an hour. I'm not about to explain why either - other than letting on that this might be the start of a new chapter with our eldest. I guess I never wrote about the previous chapter either though (and probably never will). I figured bringing the iPad with me might be a good idea, so at least I'm doing something productive while sitting here waiting.

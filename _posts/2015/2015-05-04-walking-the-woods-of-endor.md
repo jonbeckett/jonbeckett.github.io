@@ -2,7 +2,8 @@
 layout: single
 title: "Walking The Woods Of Endor"
 date: 2015-05-04
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While catching up with the various social networks this morning I was reminded that today is May 4th - "Star Wars Day" - so thought I might tell you a little story.

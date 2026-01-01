@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughts About Blogging"
 date: 2011-02-17
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Since putting my personal blog of seven years on ice a few weeks ago, I have been wondering just how stupid I am to have continued on in any shape or form at all. Of course there are many different ways somebody can be stupid, but I think I have a fair chance of nailing quite a few of them. Shall we elaborate?

@@ -2,7 +2,8 @@
 layout: single
 title: "Harry Potter And The Deathly Hallows"
 date: 2007-08-03
-categories: "2007"
+categories:
+  - 2007
 ---
 
 It is done. I have finally finished reading the last of J.

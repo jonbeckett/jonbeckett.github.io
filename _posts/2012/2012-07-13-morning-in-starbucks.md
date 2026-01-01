@@ -2,7 +2,8 @@
 layout: single
 title: "Morning In Starbucks"
 date: 2012-07-13
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Well this is a novel experience... it's heading towards 10am, and I'm sat at a small table near the window in Starbucks, watching people come and go. After dropping the children at school, I wandered part of the way into town with a wonderful friend who lives opposite, and said wistful goodbyes as she wished she could come with me.

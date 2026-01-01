@@ -2,7 +2,8 @@
 layout: single
 title: "Last Day Of Work Before Christmas"
 date: 2006-12-22
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Today is the last day of work before Christmas. The office has reduced down to a skeleton staff, of which I am one.

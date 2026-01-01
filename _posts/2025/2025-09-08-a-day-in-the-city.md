@@ -3,7 +3,7 @@ layout: single
 title: "A Day in the City"
 date: 2025-09-08
 categories:
-  - "2025"
+  - 2025
 ---
 
 After escaping the house a little after 9am this morning, we made our way to the local railway station, collected tickets, and jumped on the first post rush-hour train towards London. By “we”, I mean myself, my better half, and our middle daughter - who had been longing to visit the city for some time - to visit the huge LEGO store in Leicester Square.

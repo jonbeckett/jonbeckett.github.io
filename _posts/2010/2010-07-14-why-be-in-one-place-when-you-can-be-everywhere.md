@@ -2,7 +2,8 @@
 layout: single
 title: "Why Be In One Place When You Can Be Everywhere"
 date: 2010-07-14
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I've had an ideaan experiment of sorts. While playing around with stuff on the internet late last night, it occurred to me that rather than dictate where people read what I have written, it might make more sense for them to use whichever blog platform they preferI'll just cross-post to everywhere (actually, posterous will do all that hard work for me).

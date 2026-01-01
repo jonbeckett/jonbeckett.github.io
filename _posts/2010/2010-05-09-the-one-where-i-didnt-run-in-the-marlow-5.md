@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Didnt Run In The Marlow 5"
 date: 2010-05-09
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Our local 5 mile running race took place this morning, starting from Higginson Park, doing a tour of the town, and returning whence it came. For the first time in a while I took no part. Surprisingly I didn't feel bad about that.

@@ -2,7 +2,8 @@
 layout: single
 title: "Why Do I Do This To Myself"
 date: 2011-02-02
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I just ordered some New Balance running shoes. I'm also going to send in the entry form for our local 5 mile running race - it takes place in May, so it will give me some time to get back into running (I haven't been out running properly for about 3 years).

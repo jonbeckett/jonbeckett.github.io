@@ -2,7 +2,8 @@
 layout: single
 title: "All Good Things"
 date: 2018-07-07
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I'm seriously considering drawing a line under this whole blogging adventure again. I nearly did it a couple of months ago, and then returned. I've soldiered on, posting less regularly, and still struggled to find anything worth writing about.

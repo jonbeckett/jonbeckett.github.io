@@ -3,7 +3,7 @@ layout: single
 title: "When does today become tomorrow?"
 date: 2025-08-14
 categories:
-  - "2025"
+  - 2025
 ---
 
 While writing this (after procrastinating famously for the last hour), the clock is busy ticking past 1am - or rather, it did so about 10 minutes ago. I’m ridiculously tired, but also aware I’ve not written for a few days, and want to at least empty some of the utter idiocy from my head, lest it be forgotten entirely.

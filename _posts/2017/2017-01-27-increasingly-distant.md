@@ -2,7 +2,8 @@
 layout: single
 title: "Increasingly Distant"
 date: 2017-01-27
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While swimming against the tide for months or years on end, struggling to keep my head above waterto keep my boat pointing in vaguely the right direction, or at least a direction that will cause the least amount of people to take any notice of me, I often lose sight ofmyself.

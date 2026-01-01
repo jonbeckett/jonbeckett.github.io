@@ -2,7 +2,8 @@
 layout: single
 title: "Early Morning Snow"
 date: 2008-04-06
-categories: "2008"
+categories:
+  - 2008
 ---
 
 We woke this morning with a start as a crack of thunder rolled through the sky directly above our house. You might have thought we would open the curtains to be greeted with driving rain - but we were not. A white blanketed world greeted us.

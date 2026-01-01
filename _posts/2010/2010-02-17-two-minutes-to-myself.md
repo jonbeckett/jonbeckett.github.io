@@ -2,7 +2,8 @@
 layout: single
 title: "Two Minutes To Myself"
 date: 2010-02-17
-categories: "2010"
+categories:
+  - 2010
 ---
 
 With the children on half term, and the house seemingly running on autopilot at the moment, something quite unexpected happened this morning - I found myself with a couple of minutes to myself.

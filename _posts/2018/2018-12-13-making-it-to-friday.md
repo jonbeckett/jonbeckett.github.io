@@ -2,7 +2,8 @@
 layout: single
 title: "Making It To Friday"
 date: 2018-12-13
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I think there should be an award for making it to Friday afternoon. Or maybe an award for making it to the end of every day. If there was an award for every day though, does that fall into the Dash observation from The Incredibles though? ("if everybody is special, nobody is special").

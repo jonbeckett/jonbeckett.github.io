@@ -2,7 +2,8 @@
 layout: single
 title: "A Healthy Fear Of Telephones"
 date: 2013-06-21
-categories: "2013"
+categories:
+  - 2013
 ---
 
 The telephone just rang on my desk, and a wave of dread crashed across the desk. I picked it up on the second ring, and went through the usual "work greeting" that we were all told to do years ago, but nobody else seems to bother with."Hi"And relax. My other half.

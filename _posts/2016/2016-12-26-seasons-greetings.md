@@ -2,7 +2,8 @@
 layout: single
 title: "Seasons Greetings"
 date: 2016-12-26
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It is late in the evening of Christmas Day, and I'm finally finding time to sit quietly and record a few thoughts and memories of the last 48 hours, so my children may one day read these words, and realise the true levels of idiocy that went on without their knowledge.

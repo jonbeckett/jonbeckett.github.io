@@ -2,7 +2,8 @@
 layout: single
 title: "A Lull In The Adoption Journey"
 date: 2007-10-22
-categories: "2007"
+categories:
+  - 2007
 ---
 
 We find ourselves becalmed at the moment.

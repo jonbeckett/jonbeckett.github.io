@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughts On A Blogging Resurrection"
 date: 2012-07-22
-categories: "2012"
+categories:
+  - 2012
 ---
 
 When I returned to WordPress last weekend, I mentioned that I had been re-treading a familiar path between blogging platforms. From self-hosted WordPress, through the sadly missed Posterous, across Tumblr, Blogger, and finally to WordPress.com. If anybody described a "wanderer" in the blogging community, they would surely have be describing me.

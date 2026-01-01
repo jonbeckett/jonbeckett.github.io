@@ -2,7 +2,8 @@
 layout: single
 title: "Blogging Goodness Subscription By Email And Curry With Colleagues"
 date: 2009-11-25
-categories: "2009"
+categories:
+  - 2009
 ---
 
 The more eagle eyed among you will notice the "subscribe by email" thing in the right hand margin - WordPress switched it on today, so I'm trying it out. If you sign up, you'll get my various utterances through email (as if you haven't heard enough from me already)...

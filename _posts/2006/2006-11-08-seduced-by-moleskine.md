@@ -2,7 +2,8 @@
 layout: single
 title: "Seduced By Moleskine"
 date: 2006-11-08
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I have a secret.

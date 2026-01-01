@@ -2,7 +2,8 @@
 layout: single
 title: "Celebrating Nothing"
 date: 2009-07-30
-categories: "2009"
+categories:
+  - 2009
 ---
 
 While reading somebody else's blog last night, I realised that my own personal blog isn't actually about anything in particular. If you read any of the published wisdom about blogging by the likes of Darren Rowse (of ProBlogger fame), in order to be successful, a blog should concentrate on a niche - a subject.

@@ -2,7 +2,8 @@
 layout: single
 title: "Who wants to live forever"
 date: 2024-01-08
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Today's Bloganuary prompt asks "What are your thoughts on the concept of living a very long life?". Quite apart from objecting to the wording of the question (surely it's "the prospect", rather than "the concept"?), I'm not sure I've really thought about it before.

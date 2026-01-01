@@ -2,7 +2,8 @@
 layout: single
 title: "I Got A Gamecube"
 date: 2005-08-13
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I went to Maindenhead this morning and finally got myself a Gamecube console from Gamestation. They had a few of them in second-hand, and loads of games.

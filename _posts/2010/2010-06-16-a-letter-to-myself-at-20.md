@@ -2,7 +2,8 @@
 layout: single
 title: "A Letter To Myself At 20"
 date: 2010-06-16
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Excellent idea from Pammer at Outside Voice - to write a letter to yourself at 20...

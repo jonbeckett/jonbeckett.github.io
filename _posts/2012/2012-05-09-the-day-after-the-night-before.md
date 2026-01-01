@@ -2,7 +2,8 @@
 layout: single
 title: "The Day After The Night Before"
 date: 2012-05-09
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I'm rapidly discovering that burning the candle at both ends doesn't really work. It probably doesn't help that I'm not so much burning both ends, as throwing the entire candle in the fire.

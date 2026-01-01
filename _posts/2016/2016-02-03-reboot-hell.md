@@ -2,7 +2,8 @@
 layout: single
 title: "Reboot Hell"
 date: 2016-02-03
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm slowly going out of my mindrunning updates again, and again, and again on a server so I can demonstrate something to a client tomorrow afternoon. To even build the demowhich I haven't started yetI am having to update an old virtual machine that has been dormant for some time. Updating it has meant running various service packs. Running the service packs has meant running all manner of incremental upgradesall because the client runs an old version of the software I need to demonstrate.

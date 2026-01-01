@@ -2,7 +2,8 @@
 layout: single
 title: "The Magical Floordrobe"
 date: 2021-10-25
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The rest of the household are home at the moment - the schools are on "half term". You might think this would mean chaos, noise, arguments, and running battles throughout the house - and you would be wrong. I'm as surprised as you.

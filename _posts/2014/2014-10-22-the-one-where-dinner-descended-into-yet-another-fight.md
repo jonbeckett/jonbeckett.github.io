@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where Dinner Descended Into Yet Another Fight"
 date: 2014-10-22
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Everything was going so well - I got home after a ridiculous day at work that I can't write anything about, got the first round of washing up out of the way, looked after dinner while Miss 9 went to Football, laid the table, made the gravy, and then sat down with everybody to eat (Toad in the Hole if you're wondering).

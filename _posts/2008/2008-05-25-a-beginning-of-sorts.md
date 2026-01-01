@@ -2,7 +2,8 @@
 layout: single
 title: "A Beginning Of Sorts"
 date: 2008-05-25
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Get the trumpets out. Blow them pretty hard. With no further ado, no quarter spared, and a promise of no further clichd figures of speech, I bestow "The Enormous Waste of Webspace" unto the interwebs.

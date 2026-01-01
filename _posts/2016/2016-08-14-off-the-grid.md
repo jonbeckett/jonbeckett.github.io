@@ -2,7 +2,8 @@
 layout: single
 title: "Off The Grid"
 date: 2016-08-14
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I've been kind of absent from the blog for the last few days. I don't really know why. I guess it would be easy to say "life, the universe, and everything" got in the way. I think it was John Lennon that said"life is what happens when you're making other plans" - that fits pretty well really.

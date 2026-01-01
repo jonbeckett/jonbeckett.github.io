@@ -2,7 +2,8 @@
 layout: single
 title: "Contemplating Darkness"
 date: 2017-05-25
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While sorting through the various detritus in the study last night (we laughably refer to it as the study - it has more akin with Monica's junk cupboard in "Friends"), I realised how many books have been sat on the shelf for the last few years unread.

@@ -2,7 +2,8 @@
 layout: single
 title: "The Beautiful Game"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 We woke at 7 this morning and watched the clock tick until nearly 8, when we knew we would have to be out of bed. The coach of the local team was calling within an hour to pick up myself and our eldest to take us, along with another couple of team mates, on an hour and a half journey to play football. Our eldest's first game for the town team.

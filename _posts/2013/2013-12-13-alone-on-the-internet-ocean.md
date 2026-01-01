@@ -2,7 +2,8 @@
 layout: single
 title: "Alone On The Internet Ocean"
 date: 2013-12-13
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Sometimes the internet can feel very lonely.

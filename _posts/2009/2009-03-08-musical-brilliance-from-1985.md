@@ -2,7 +2,8 @@
 layout: single
 title: "Musical Brilliance From 1985"
 date: 2009-03-08
-categories: "2009"
+categories:
+  - 2009
 ---
 
 A couple of nights ago I needed to make an emergency trip into town to buy groceries - and happened to pick up the earphones for my iPhone as I left the house. The intention had been to listen to a podcast or two along my journey - except I hadn't synced it for some time, rendering the various episodes of Net@Night and Buzz Out Loud on it more or less useless.

@@ -2,7 +2,8 @@
 layout: single
 title: "Dark Skies"
 date: 2018-04-08
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I got up from my office chair this afternoon, and realised I hadn't got up since arriving in the office in the morning. I knew this because my legs didn't seem to be too keen about the idea of bending, which is odd given that I cycle to work every day.

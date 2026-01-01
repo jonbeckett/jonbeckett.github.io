@@ -2,7 +2,8 @@
 layout: single
 title: "Energy Finally Runs Out"
 date: 2010-06-08
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I'm off work - for the first time in months. What I thought was the after-effects of too much red wine yesterday morning didn't get any better throughout the day.

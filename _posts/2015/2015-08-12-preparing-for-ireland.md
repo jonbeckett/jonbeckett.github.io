@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing For Ireland"
 date: 2015-08-12
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Wehead out of England to the coast on Wales on Friday night, and then catch the first ferry to Ireland on Saturday morning. We have rented a cottage in County Clare, a couple of miles from Kilkee on the south west coast. At present ourhouse is filled with piles of washing, empty suitcases, and various devices on charge.

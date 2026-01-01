@@ -2,7 +2,8 @@
 layout: single
 title: "Mostly Offline"
 date: 2020-03-07
-categories: "2020"
+categories:
+  - 2020
 ---
 
 After attending a charity fundraiser last night and drinking more wine that I perhaps should have, I've spent most of the day either asleep, or offline. I think sometimes I need to step away from everything - it's not that everything gets on top of me - more that I begin to lose myself. It's difficult to describe.

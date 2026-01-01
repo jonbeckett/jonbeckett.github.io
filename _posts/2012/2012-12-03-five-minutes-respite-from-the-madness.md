@@ -2,7 +2,8 @@
 layout: single
 title: "Five Minutes Respite From The Madness"
 date: 2012-12-03
-categories: "2012"
+categories:
+  - 2012
 ---
 
 My work computer, running a shiny new copy of Windows 8, decided to follow the instructions of Chief Crazy Horse today, and agreed that "today would be a good day to die". I know it was Chief Crazy Horse that first uttered the immortal phrase, because I just looked it up on Wikipedia, and Wikipedia never lies.

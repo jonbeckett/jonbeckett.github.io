@@ -2,7 +2,8 @@
 layout: single
 title: "George Michael At Wembley Stadium"
 date: 2007-06-10
-categories: "2007"
+categories:
+  - 2007
 ---
 
 We set off late this afternoon for Wembley Stadium in London to see George Michael live in concert. Here are a few of the photos from the afternoon (they are in Flickr, so click on them for better versions)...

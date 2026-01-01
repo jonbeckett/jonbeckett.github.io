@@ -2,7 +2,8 @@
 layout: single
 title: "Surviving The Weekend"
 date: 2008-04-14
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Our youngest was 3 years old yesterday.

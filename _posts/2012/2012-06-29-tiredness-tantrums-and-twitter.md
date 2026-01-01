@@ -2,7 +2,8 @@
 layout: single
 title: "Tiredness Tantrums And Twitter"
 date: 2012-06-29
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Has it really been a week since I last wrote in the blog? Apparently so. I'm sat in the study at home, late in the evening on a Friday night, wondering what happened "of note" this week that I might record for posterity.

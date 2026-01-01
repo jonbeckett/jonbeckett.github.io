@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughts About Writing An Online Journal"
 date: 2015-11-10
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It doesn't really matter if you call it "writing a blog", "posting to a social network", "publishing a diary", or whatever else you might want to call itthey are all the same thing. The only real differences between any of the "platforms" are the freedoms afforded you.

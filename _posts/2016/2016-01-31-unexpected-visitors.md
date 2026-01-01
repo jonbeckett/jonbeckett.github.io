@@ -2,7 +2,8 @@
 layout: single
 title: "Unexpected Visitors"
 date: 2016-01-31
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Something unexpected happened this week. A friend from the "real world" let slip that she had been reading my blog. While I shouldn't be at all surprised that people are stumbling upon it (it's linked to from my public facing profile on the likes of Twitter, Facebook, and Instagram), it does make me pause for thought about the things I write. Where you might write all manner of soul searching words in a paper diary that nobody else will ever see, publishing your thoughts on a public platform on the internet is another proposition entirely.

@@ -2,7 +2,8 @@
 layout: single
 title: "Single Handed Saturday"
 date: 2011-10-29
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I woke this morning a little after 8, and was surprised to find W already up, washed, dressed, and packing a few final things in her bags. She is away this weekend with her Mum on the south coast, where her Mum will be running in "The Great South Run" on Sunday morning.

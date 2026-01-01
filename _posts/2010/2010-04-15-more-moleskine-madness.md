@@ -2,7 +2,8 @@
 layout: single
 title: "More Moleskine Madness"
 date: 2010-04-15
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I lose count of the hours I spend scribbling while listening to things. My notepads at work invariably end up looking like the genius plans of a lunatic while sat on conference calls.

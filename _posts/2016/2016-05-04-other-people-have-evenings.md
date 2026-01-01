@@ -2,7 +2,8 @@
 layout: single
 title: "Other People Have Evenings"
 date: 2016-05-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It's just gone 11pm. This is first chance I have really had to sit down and do what I want since getting out of bed at 7am this morning. I didn't even get to stop at lunchtimeI ate sandwiches over the keyboard while writing code at workracing to have something good to talk about at a 4pm telephone conference with a client. Not fun.

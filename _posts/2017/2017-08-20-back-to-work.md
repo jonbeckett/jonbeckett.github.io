@@ -2,7 +2,8 @@
 layout: single
 title: "Back To Work"
 date: 2017-08-20
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I think it's fair to say I've been dreading returning to work - for the last two weeks I've been burying my head in the sand. After wading through the worst of the email mountain this morning, and getting my head down, I began to wonder if stress is sometimes a matter of perspective. Before returning I started playing over what might be waiting for me, but once in the thick of it, it's just a question of working on one thing at a time - putting one foot in front of the other. Luckily it just so happens that I'm quite good at putting one foot in front of the other.

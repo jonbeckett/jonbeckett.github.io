@@ -2,7 +2,8 @@
 layout: single
 title: "Jonathans Christmas Wishlist"
 date: 2007-11-22
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Following pressure from friends and family, I have updated my list on Wishlistr with the things I would like for christmas...

@@ -2,7 +2,8 @@
 layout: single
 title: "Bullet Journals And Erotica"
 date: 2021-01-04
-categories: "2021"
+categories:
+  - 2021
 ---
 
 wp:heading {"level":3}  ### Returning to work

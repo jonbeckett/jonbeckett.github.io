@@ -2,7 +2,8 @@
 layout: single
 title: "When Inspiration Strikes"
 date: 2010-10-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Why is writing sometimes easy, and sometimes hard? Why do the words come so easily sometimes, and not without great effort at others?

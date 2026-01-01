@@ -2,7 +2,8 @@
 layout: single
 title: "Parents Versus Children"
 date: 2014-05-04
-categories: "2014"
+categories:
+  - 2014
 ---
 
 While the rest of the household scraped themselves out of bed this morning, I headed for the local rugby club with our middle girl for her final training session of the year. An email had done the rounds a few days before asking us to wear running shoes if we wanted to take part in the annual "parents versus children" event.

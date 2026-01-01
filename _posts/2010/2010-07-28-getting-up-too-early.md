@@ -2,7 +2,8 @@
 layout: single
 title: "Getting Up Too Early"
 date: 2010-07-28
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I got up at 6am. Breakfast won't even be delivered to my room until 7:30.

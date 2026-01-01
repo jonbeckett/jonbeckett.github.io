@@ -2,7 +2,8 @@
 layout: single
 title: "Lies Damn Lies And Statistics"
 date: 2016-01-22
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Now this blog has been sitting out here on the internet for a few weeks, I thought it might be interesting to look at the numbers (paltry though they are).

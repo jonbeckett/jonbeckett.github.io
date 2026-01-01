@@ -2,7 +2,8 @@
 layout: single
 title: "An Old Friend Returns"
 date: 2017-07-10
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While hiding in the junk room earlier this evening, in-between sessions of washing dishes, clearing the kitchen up, and brokering peace in the latest argument to occur between Miss 12 and 13, I found myself looking at Twitter. I had a notification. It's worth noting that I rarely receive notifications about anything. The chief reason may be because I grew tired of the daily Facebook "who can piss the heighest" competition quite some time ago, so do no more than occasionally look in and amuse myself with the latest attention-seeking antics of usual suspects.

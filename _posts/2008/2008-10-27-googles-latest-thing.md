@@ -2,7 +2,8 @@
 layout: single
 title: "Googles Latest Thing"
 date: 2008-10-27
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Has it occurred to anybody else that Google seem to be really interested in whatever they are currently working on, and then lose interest as soon as something more interesting to them comes along?

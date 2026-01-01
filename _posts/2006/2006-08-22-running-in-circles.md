@@ -2,7 +2,8 @@
 layout: single
 title: "Running In Circles"
 date: 2006-08-22
-categories: "2006"
+categories:
+  - 2006
 ---
 
 When I came home tonight I planned on getting a big chunk of work done. Somehow inbetween getting home from work, and the clock striking midnight I have acheived nothing. Nada. Zilch.

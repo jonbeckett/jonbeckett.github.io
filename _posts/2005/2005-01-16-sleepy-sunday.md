@@ -2,7 +2,8 @@
 layout: single
 title: "Sleepy Sunday"
 date: 2005-01-16
-categories: "2005"
+categories:
+  - 2005
 ---
 
 For what seems like the first time in weeks, we are doing nothing at all today. What a great way to spend a sunday - surfing the web (and discovering Blogclicker in the process, eating nice things, and occaisionally playing on the X-Box.

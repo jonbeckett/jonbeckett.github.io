@@ -2,7 +2,8 @@
 layout: single
 title: "Old People In Corner Shops"
 date: 2008-11-24
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I worked from home today - for two reasons; firstly the network at the office has been playing up again, and secondly I had a bad cold all weekend so didn't fancy cycling through sub zero rain to the office.

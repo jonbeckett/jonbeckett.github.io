@@ -2,7 +2,8 @@
 layout: single
 title: "Perfect Day"
 date: 2024-02-05
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Today's writing prompt asks us to describe an ideal day, from beginning to end.

@@ -2,7 +2,8 @@
 layout: single
 title: "The Week In One Post"
 date: 2007-11-24
-categories: "2007"
+categories:
+  - 2007
 ---
 
 After several days spent being pulled between work, home, and all kinds of thoughts about adoption, the week has flown past.

@@ -2,7 +2,8 @@
 layout: single
 title: "Home With My Thoughts"
 date: 2004-07-13
-categories: "2004"
+categories:
+  - 2004
 ---
 
 We've finally arrived home after several days of mayhem.

@@ -2,7 +2,8 @@
 layout: single
 title: "Somebody Finally Noticed Me"
 date: 2017-07-17
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I don't own a car. I cycle to work each day, and travel by train when visiting far-flung client offices. The cycle route to work is only three miles each way, and can be done in anything from ten to fifteen minutes, depending on how energetic I'm feeling, and if the wind is favorable. I have been cycling pretty much the same route for fifteen years. The only variation occurred during the "foot and mouth" scare during the first year - which coincided with getting married. It sticks in my mind because part of my route was diverted for a couple of months - taking me over a sizeable hill twice a day. Those couple of months put an inch of muscle on each thigh and calf - so you can imagine how the fitting of my morning suit went for the wedding. I vaguely remember being a 34" waist, but wearing 38" trousers, folded hilariously under the waistcoat in order to get them over my legs.

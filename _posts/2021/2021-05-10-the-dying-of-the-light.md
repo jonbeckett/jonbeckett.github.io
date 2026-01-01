@@ -2,7 +2,8 @@
 layout: single
 title: "The Dying Of The Light"
 date: 2021-05-10
-categories: "2021"
+categories:
+  - 2021
 ---
 
 After noticing dusk had fallen a few minutes ago I wandered into the garden to get the washing in, and was met by a wall of cold air. While unpegging clothes and folding them into the basket I listened to the birds singing their twilight song, and smiled at the huffing of a hedgehog somewhere in the undergrowth nearby.

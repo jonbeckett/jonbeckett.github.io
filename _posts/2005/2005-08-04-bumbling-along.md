@@ -2,7 +2,8 @@
 layout: single
 title: "Bumbling Along"
 date: 2005-08-04
-categories: "2005"
+categories:
+  - 2005
 ---
 
 It's just gone 10pm and I find myself sat at the dining table with my old laptop (so rubbish that a name has been coined for it - "the craptop").

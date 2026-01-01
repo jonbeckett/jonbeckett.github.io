@@ -2,7 +2,8 @@
 layout: single
 title: "Riding A Bicycle"
 date: 2008-03-01
-categories: "2008"
+categories:
+  - 2008
 ---
 
 On monday evening our eldest returned home from school to find a "first bike" in our back garden - donated by a friend. Although the bike is a little small for her, it also meant her feet reach the ground quickly - saving the knees and elbows of her clothing (and bruises, cuts and grazes).

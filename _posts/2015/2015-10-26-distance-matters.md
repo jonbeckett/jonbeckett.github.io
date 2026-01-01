@@ -2,7 +2,8 @@
 layout: single
 title: "Distance Matters"
 date: 2015-10-26
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I sometimes wish I knew more people on the internet that at least live in the same timezone as mehell, the same side of the planet would be better than the limbo I surround myself with at the moment. While writing a blog is a wonderful escapeemptying your head into the keyboard in order to connect with relative strangersit can also be lonely.

@@ -2,7 +2,8 @@
 layout: single
 title: "The Best Worst Movie"
 date: 2005-01-17
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I just wandered into the lounge after working on my CMS scripts for yet another evening, and came across my other/better half watching the movie "Starship Troopers" on network TV. I was amazed that (a) she had never seen it before, and (b) she was even watching it.

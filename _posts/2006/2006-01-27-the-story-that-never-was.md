@@ -2,7 +2,8 @@
 layout: single
 title: "The Story That Never Was"
 date: 2006-01-27
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Late last year I planned to take part in "Nanowrimo" - the annual internet novel writing event. Unfortunately circumstances got in the way and my attempt was over before it started. I did spend one evening (while sat in a hotel the other side of the country) starting my story, so thought it might be nice to share the little bit I did write...

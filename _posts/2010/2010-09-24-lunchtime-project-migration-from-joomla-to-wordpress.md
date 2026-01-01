@@ -2,7 +2,8 @@
 layout: single
 title: "Lunchtime Project Migration From Joomla To Wordpress"
 date: 2010-09-24
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I have been helping somebody move their blog from Joomla to WordPress over the last couple of days. The final "big" thing to do was move their old posts and comments in.

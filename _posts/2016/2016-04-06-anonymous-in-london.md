@@ -2,7 +2,8 @@
 layout: single
 title: "Anonymous In London"
 date: 2016-04-06
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I returned to London for a meeting with a potential client todaythe first time back in the city for a while. I got a lift to one of the nearby railway stations with a co-worker, and managed to leave my phone in their car, but other than that the journey was remarkably uneventful.

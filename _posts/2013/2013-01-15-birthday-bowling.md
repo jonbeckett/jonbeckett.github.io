@@ -2,7 +2,8 @@
 layout: single
 title: "Birthday Bowling"
 date: 2013-01-15
-categories: "2013"
+categories:
+  - 2013
 ---
 
 We took the little girl formerly known as Miss Eight bowling with her friends yesterday afternoon. After tipping out of work early, I made it home in time to cram into a borrowed people-carrier with seven little people, and set off for the local bowling alley.

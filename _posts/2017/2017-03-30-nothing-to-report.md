@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing To Report"
 date: 2017-03-30
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I'm sitting in the living room, on my own, in the dark. It's heading towards half past eleven in the evening, and I'm the last person up. My other half went to bed an hour ago, and the kids half an hour before her. Tunein Radio is playing on the Roku - a random succession of classical music at the moment. I was going to look for something by Sibelius, but couldn't figure out how.

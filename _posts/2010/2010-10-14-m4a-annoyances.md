@@ -2,7 +2,8 @@
 layout: single
 title: "M4A Annoyances"
 date: 2010-10-14
-categories: "2010"
+categories:
+  - 2010
 ---
 
 kidsonswings:

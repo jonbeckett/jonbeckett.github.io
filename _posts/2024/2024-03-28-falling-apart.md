@@ -2,7 +2,8 @@
 layout: single
 title: "Falling Apart"
 date: 2024-03-28
-categories: "2024"
+categories:
+  - 2024
 ---
 
 On the last day of our holiday I could feel either the same bug I had before going away making a comeback - doing an encore of sorts - or an entirely new bug caught on the aeroplane making it's presence known.

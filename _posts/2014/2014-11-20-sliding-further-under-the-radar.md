@@ -2,7 +2,8 @@
 layout: single
 title: "Sliding Further Under The Radar"
 date: 2014-11-20
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I created a new email address today, and re-wired everything vaguely related to "Recursive Words" to it. Yahoo, Google, Twitter, Tumblr, Blogger, Pinterest, and Instagram now exist in their own bubble for me - distinct and disconnected from the "professional" me that companies, agents, headhunters, and clients may well search for online.

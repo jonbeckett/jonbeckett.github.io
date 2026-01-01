@@ -2,7 +2,8 @@
 layout: single
 title: "Going Against The Flow"
 date: 2013-01-18
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Somebody I have followed for years, but never struck up conversation with collided with me mid-wander a few days ago as we quietly passed through each other's crashing avalanche of dashboard posts.

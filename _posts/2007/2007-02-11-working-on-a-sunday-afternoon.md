@@ -2,7 +2,8 @@
 layout: single
 title: "Working On A Sunday Afternoon"
 date: 2007-02-11
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Following last week's snow and falling behind with some things at work, I spent some of my Sunday afternoon trying to catch up a bit.

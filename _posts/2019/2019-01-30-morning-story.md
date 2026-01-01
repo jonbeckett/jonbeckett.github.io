@@ -2,7 +2,8 @@
 layout: single
 title: "Morning Story"
 date: 2019-01-30
-categories: "2019"
+categories:
+  - 2019
 ---
 
 My body clock performed the curious feat of waking me up two minutes before the alarm on my mobile phone this morning. I'm not sure how it does it, but my body seems to keep better time than the atomic clock at Greenwich. The radio alarm clock kicked in a few minutes later, and filled the bedroom with music. This is another curious thing - music means we have missed the news headlines - and seeing as the clock is supposed to keep itself in time via a radio signal, I'm not sure if our clock is wrong, or the local radio station is wrong.

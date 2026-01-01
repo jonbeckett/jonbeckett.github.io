@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Rescued A Puppy"
 date: 2015-05-13
-categories: "2015"
+categories:
+  - 2015
 ---
 
 After leaving the office this evening, while fiddling with the strap on my helmet, adjusting my backpack, and fastening my gloves, a black labrador puppy came racing past me at breakneck speed - all legs, ears, flapping tongue, and propeller tail. It was perhaps four months old, and (in the words of my Grandad) was so excited it didn't know if it was having a shit or a haircut.

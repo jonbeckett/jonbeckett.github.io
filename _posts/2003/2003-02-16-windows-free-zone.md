@@ -2,7 +2,8 @@
 layout: single
 title: "Windows Free Zone"
 date: 2003-02-16
-categories: "2003"
+categories:
+  - 2003
 ---
 
 Woohoo!

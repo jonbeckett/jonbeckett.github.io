@@ -2,7 +2,8 @@
 layout: single
 title: "Running Around In Circles"
 date: 2019-10-12
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After getting in from work last night (and eating home-made pizza), I finally made it out with Miss 19 for a training run - the one that was supposed to have happened the night before. It didn't really go to plan - she had her first "bad run" - but the important thing was that she got out there and did something at least. It all counts, I suppose.

@@ -2,7 +2,8 @@
 layout: single
 title: "Finding Time"
 date: 2003-06-17
-categories: "2003"
+categories:
+  - 2003
 ---
 
 We are going to America!

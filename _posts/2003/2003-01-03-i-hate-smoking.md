@@ -2,7 +2,8 @@
 layout: single
 title: "I Hate Smoking"
 date: 2003-01-03
-categories: "2003"
+categories:
+  - 2003
 ---
 
 It's been a funny kind of day today so far - I got up a bit later than normal and got a lift into work with my infinitely superior other half (W), then figured out that the stuff I had been scared about starting was nowhere near as bad as I had originally thought (yes that's right - I'm a software developer who is scared of complex stuff).

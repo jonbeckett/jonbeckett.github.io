@@ -2,7 +2,8 @@
 layout: single
 title: "Becoming Santa Claus"
 date: 2021-12-17
-categories: "2021"
+categories:
+  - 2021
 ---
 
 After a night of broken sleep - caused no doubt by the COVID booster injection I received yesterday afternoon - I got up this morning and set out on a rather important mission.

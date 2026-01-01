@@ -2,7 +2,8 @@
 layout: single
 title: "Returning"
 date: 2021-09-21
-categories: "2021"
+categories:
+  - 2021
 ---
 
 After a month spent hiding in a quiet corner of the Tumblrverse, I suppose these words signal a return to normality of sorts. A return to the madding crowd - or the periphery of it at least.

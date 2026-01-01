@@ -2,7 +2,8 @@
 layout: single
 title: "Geeky Personality Test"
 date: 2005-01-10
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I just did this test on the net...

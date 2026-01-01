@@ -2,7 +2,8 @@
 layout: single
 title: "Platforms Destinations And Audiences"
 date: 2012-11-22
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Walking back from the railway station last night after a 6 hour journey home, I began turning over a thought in my head. I thought it might be worth exploring - writing the thought down, and poking it with an inquisitive stick. While gazing up into the dark, starry sky, the thought was obvious - but after a mayhem filled night, the clarity seems to have dissipated somewhat. We'll see how we go...

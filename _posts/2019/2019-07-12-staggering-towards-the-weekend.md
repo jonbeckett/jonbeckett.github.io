@@ -2,7 +2,8 @@
 layout: single
 title: "Staggering Towards The Weekend"
 date: 2019-07-12
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I started writing this post an hour go. I'm not quite sure where that hour went. Perhaps it had something to do with the bottle of wine I bought on the way home from work, and that is now almost empty in the fridge (in my defence, Miss 18 helped make it vanish). It had nothing to do with watching YouTube videos, getting sucked into a movie on Amazon Prime about the production of the Peter Gabriel album "So", or playing chess on the internet, honest.

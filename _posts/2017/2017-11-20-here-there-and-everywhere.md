@@ -2,7 +2,8 @@
 layout: single
 title: "Here There And Everywhere"
 date: 2017-11-20
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It's Tuesday evening, just gone 9pm, and I've just sat down. I left work a little after five, and have spent the intervening four hours walking back and forth across town - meeting Miss 17 who dropped Miss 12 at her dance class, walking Miss 17 home - then turning tail and walking back to grab Miss 12 and walk her to football practice. Then back home to pick up an old kit bag (she received new kit tonight), and back again to bring her home. In-between running here, there, and everywhere I cleaned the kitchen up, tidied the lounge, put a load in the washing machine, and downed a mug of coffee.

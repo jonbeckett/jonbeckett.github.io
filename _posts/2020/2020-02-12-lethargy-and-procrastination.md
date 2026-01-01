@@ -2,7 +2,8 @@
 layout: single
 title: "Lethargy And Procrastination"
 date: 2020-02-12
-categories: "2020"
+categories:
+  - 2020
 ---
 
 You find me sitting in the dark of the junk room, while the clock ticks past 8pm. I just sat down after a mad dash home from work, a rushed grocery shop, cooking dinner for three of us while also tidying up the kitchen, lounge and hallway, putting washing in the machine, eating, washing up, and finally collapsing into this chair.

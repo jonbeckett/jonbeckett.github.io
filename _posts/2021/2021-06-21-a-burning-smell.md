@@ -2,7 +2,8 @@
 layout: single
 title: "A Burning Smell"
 date: 2021-06-21
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The big computer hidden under the desk emitted a strange electrical noise yesterday morning, before switching off and filling the room with an acrid smell of burning. I pulled the plug out immediately. At the moment I have no idea what happened to it - but guessed at the power supply unit. A new one is on order, and should arrive tomorrow morning. It remains to be seen if the sound I heard was just the power supply, or the entire computer ending it's own life. If any sort of surge hit the motherboard or CPU, it's going to be "goodbye computer".

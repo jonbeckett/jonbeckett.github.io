@@ -3,7 +3,7 @@ layout: single
 title: "The conversion continues"
 date: 2025-06-14
 categories:
-  - "2025"
+  - 2025
 ---
 
 It’s been a bit of a week. The Windows laptop has been handed on to my eldest daughter, and the Amazon tablet has been handed on to my other half. An iPad arrived yesterday. We had a couple of iPads in the family years ago, so it’s not entirely alien to me.

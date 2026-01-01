@@ -2,7 +2,8 @@
 layout: single
 title: "Things I Carry"
 date: 2015-01-07
-categories: "2015"
+categories:
+  - 2015
 ---
 
 There is no end to the ideas I will come up with for blog posts when I have better things to be getting on with (like loading the washing machine, or tidying up). Today's "bright idea" is an inventory of the messenger bag that I keep my stuff in to avoid it becoming buried under an avalanche of somebody elses stuff, and lost forever.

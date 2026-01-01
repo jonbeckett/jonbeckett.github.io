@@ -2,7 +2,8 @@
 layout: single
 title: "Some People"
 date: 2015-04-21
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's very rare that I become annoyed with anybody online, but it happened today - not because of anything they did directly - but by their behaviour, denial, and lies. Witnessing somebody telling me a fabricated load of rubbish that we both knew was just that - rubbish - annoyed me. I didn't say anything at the time, because I didn't want to have to deal with all the crap (and the irony isn't lost that I'm now writing at length about it).

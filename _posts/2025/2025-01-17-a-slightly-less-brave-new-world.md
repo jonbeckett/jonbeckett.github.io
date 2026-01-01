@@ -3,7 +3,7 @@ layout: single
 title: "A slightly less brave new world"
 date: 2025-01-17
 categories:
-  - "2025"
+  - 2025
 ---
 
 After trying to convince myself that I wanted to live in my own castle for the last several weeks, and after sitting high atop my invented throne, admiring my own handiwork, I had a moment of clarity - or rather the thought “why the hell am I doing this?”

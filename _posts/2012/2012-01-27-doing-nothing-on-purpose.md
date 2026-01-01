@@ -2,7 +2,8 @@
 layout: single
 title: "Doing Nothing On Purpose"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 For the last couple of days I have been more or less "offline" - or at least, disconnected more often than not. I will neither confirm or deny that I have eaten my own body weight in chocolate during that time. Christmas Eve (three days ago now) was the last time I made any serious effort to keep up with online friends, check email, visit social networks, and so on. It's the first time I've been "out of the loop" to such an extent in months, and it made me realise that our interaction with the online world is entirely driven by our own choice.

@@ -2,7 +2,8 @@
 layout: single
 title: "Second Coffee"
 date: 2020-11-20
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's mid-morning on Friday, and I'm taking a break from everything for a few minutes. I'm about to go and put the kettle on in the kitchen, and make a second coffee for the day. I'm one of those annoying people that can take or leave most things - I tend to drink instant coffee at home because it's cheap, even though we have a perfectly working Tassimo coffee machine.

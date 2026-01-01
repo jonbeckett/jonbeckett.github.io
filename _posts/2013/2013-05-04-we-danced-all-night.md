@@ -2,7 +2,8 @@
 layout: single
 title: "We Danced All Night"
 date: 2013-05-04
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I have been wandering around all morning humming music, and grinning.After racing home from work last night, and trying to clear the house up before the babysitter arrived, we set of for the best party we have been to in a very long time. The dance teacher that has become a legend in our children's lives was celebrating her birthday, and we were invited.

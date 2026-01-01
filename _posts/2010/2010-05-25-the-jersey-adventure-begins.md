@@ -2,7 +2,8 @@
 layout: single
 title: "The Jersey Adventure Begins"
 date: 2010-05-25
-categories: "2010"
+categories:
+  - 2010
 ---
 
 The day began at 5am when I woke, and quite surprisingly found myself wide awake. The alarm had been set for 5:30am. I watchedthe minutes tick by for a few minutes, and then slid out of bed, and quietly slipped past the childrens bedrooms.

@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Afternoon"
 date: 2010-10-24
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Somehow the house has returned to some kind of calm place this afternoon (after a mayhem filled morning). I'm sat in the lounge, listening to Linux Outlaws, having a drink, and basically chilling out before I make dinner a little later.

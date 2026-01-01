@@ -2,7 +2,8 @@
 layout: single
 title: "Not So Great"
 date: 2015-09-28
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Do you ever have weekends where they days merge into each other? I do. I'm going to invent a new day of the week - called "Satunday" - where you don't go to bed on Saturday night, and then your feet don't touch the ground on Sunday.

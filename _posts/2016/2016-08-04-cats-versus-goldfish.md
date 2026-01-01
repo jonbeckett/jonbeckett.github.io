@@ -2,7 +2,8 @@
 layout: single
 title: "Cats Versus Goldfish"
 date: 2016-08-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 When I got home from work last night I said hello to Miss 15, and she seemed a little down - I couldn't quite put my finger on what might be wrong, so while making a coffee, asked her if anything was up. It transpired she had cleaned the fish tank out (which is an onerous task that we all avoid like the plague), and while cleaning it out had shut the fish in a room at the other end of the house.

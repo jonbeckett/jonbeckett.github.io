@@ -2,7 +2,8 @@
 layout: single
 title: "Its The Weekend"
 date: 2003-10-04
-categories: "2003"
+categories:
+  - 2003
 ---
 
 It's 10:45am on Saturday morning, and I'm sitting at the laptop starting work on a website for my cousin in San Francisco (reminder : I'm in the UK).

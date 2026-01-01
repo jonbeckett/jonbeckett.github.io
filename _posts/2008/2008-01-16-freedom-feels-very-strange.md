@@ -2,7 +2,8 @@
 layout: single
 title: "Freedom Feels Very Strange"
 date: 2008-01-16
-categories: "2008"
+categories:
+  - 2008
 ---
 
 It feels very strange, having a personal blog again. While it's liberating to think "I can write about whatever I like", it also causes the question "what the hell am I going to write about?".

@@ -2,7 +2,8 @@
 layout: single
 title: "Walking Around Town"
 date: 2004-02-05
-categories: "2004"
+categories:
+  - 2004
 ---
 
 I've just got back from a training walk with W - she's doing a marathon distance walk later in the year to support a cancer charity. Normally the evening walks are about 45 minutes around town at a brisk pace - and if she can't find anybody to go with her, I usually fill in (call me old fashioned, but I don't like the idea of her walking around town on her own in the dark).

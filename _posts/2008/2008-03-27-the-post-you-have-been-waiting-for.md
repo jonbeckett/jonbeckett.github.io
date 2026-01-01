@@ -2,7 +2,8 @@
 layout: single
 title: "The Post You Have Been Waiting For"
 date: 2008-03-27
-categories: "2008"
+categories:
+  - 2008
 ---
 
 A close blogging friend remarked earlier that I had not written much about the children recently, and that I should - that she enjoyed reading about our experiences and thoughts so far.

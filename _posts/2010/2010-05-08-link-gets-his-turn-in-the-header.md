@@ -2,7 +2,8 @@
 layout: single
 title: "Link Gets His Turn In The Header"
 date: 2010-05-08
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I just took the entirely autocratic decision to install "Link" from the "Legend of Zelda" into the header of Cheese and Beans for the next month or so. Perhaps this could mark the start of a monthly rotation of something interesting in the header?

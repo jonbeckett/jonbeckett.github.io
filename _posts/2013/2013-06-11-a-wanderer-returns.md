@@ -2,7 +2,8 @@
 layout: single
 title: "A Wanderer Returns"
 date: 2013-06-11
-categories: "2013"
+categories:
+  - 2013
 ---
 
 After a couple of days away with work, I return this evening to a mountain of email, a Tumblr dashboard a mile long, a neglected WordPress installation filled with all manner of new followers that I didn't go looking for, and a Twitter account also piled high with new followers.

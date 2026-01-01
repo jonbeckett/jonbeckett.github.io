@@ -2,7 +2,8 @@
 layout: single
 title: "Back To Work"
 date: 2018-06-10
-categories: "2018"
+categories:
+  - 2018
 ---
 
 After the adventure in Germany last week, it was back to earth with a bump today - emptying the dishwasher, making breakfasts and lunches, washing my bike, filling it's tyres with air, and cycling to the office. Quite a contrast from living in a hotel within walking distance of the office.

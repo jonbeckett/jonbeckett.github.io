@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Pretty Lady Stole My Hair"
 date: 2016-07-22
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I had been meaning to get my increasingly unruly mop of hair chopped off for the last week or so. It had crossed the line from "a bit longer than usual" into "makes you look like a bit of an idiot" territory. Given the slowing of the universe in the hereabouts coinciding with all the children finishing school, I took the opportunity to do something about it.

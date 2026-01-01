@@ -2,7 +2,8 @@
 layout: single
 title: "The Path Of Discovery Continues"
 date: 2011-01-17
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I've written about my search for the inspiring, the interesting, the original, and the (probably) insane enough recently; time to share the results of the past few days;

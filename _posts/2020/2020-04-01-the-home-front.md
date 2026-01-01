@@ -2,7 +2,8 @@
 layout: single
 title: "The Home Front"
 date: 2020-04-01
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I woke up at 7am when the alarm went off, then fell asleep for another hour. It's taken a few weeks to get used to not running around the kitchen like a madman emptying the dishwasher, feeding the animals, making breakfasts and lunches, and shouting repeatedly up the stairs for the kids to get up.

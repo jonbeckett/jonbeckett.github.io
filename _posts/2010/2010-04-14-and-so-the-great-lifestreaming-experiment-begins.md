@@ -2,7 +2,8 @@
 layout: single
 title: "And So The Great Lifestreaming Experiment Begins"
 date: 2010-04-14
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I'm not exactly sure that "lifestreaming" is a real word, but in the grand tradition of embracing new words into the living language we called "English", I will accept it for the moment. Asking the mighty Google to define "Lifestream" for us brings forth the following;

@@ -2,7 +2,8 @@
 layout: single
 title: "Bringing My Life Back Online"
 date: 2014-03-08
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I arrived home at about 8:30pm last night after another five hours aboard a succession of trains. While we all like to complain about the smallest of interruptions to our journeys, it's worth noting that the last few trips I have made across the country have been almost entirely without incident.

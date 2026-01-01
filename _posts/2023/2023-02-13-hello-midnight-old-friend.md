@@ -2,7 +2,8 @@
 layout: single
 title: "Hello midnight old friend"
 date: 2023-02-13
-categories: "2023"
+categories:
+  - 2023
 ---
 
 So here we are again. Half an hour ago Sunday became Monday. I'm sitting in the dark of the junk room with the remains of a cup of coffee, with the sound of my fingers on the keyboard keeping me company.

@@ -2,7 +2,8 @@
 layout: single
 title: "Carpe Dium"
 date: 2007-02-22
-categories: "2007"
+categories:
+  - 2007
 ---
 
 It all started yesterday evening. During the second leg of my train journey home from Paddington to Bourne End I woke with a start. I have never fallen asleep on the train before, so it came as something of a surprise.

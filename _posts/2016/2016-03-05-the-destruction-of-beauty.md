@@ -2,7 +2,8 @@
 layout: single
 title: "The Destruction Of Beauty"
 date: 2016-03-05
-categories: "2016"
+categories:
+  - 2016
 ---
 
 If you're somebody that has worked damn hard to look the way you do, don'tever feel guilty about posting photos of yourself on the social internet. Just remember to switch off any anonymous feedback routes, because there will always be somebody looking to feed off any anxiety they can cause.

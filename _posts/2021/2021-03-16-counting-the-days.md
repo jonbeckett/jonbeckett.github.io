@@ -2,7 +2,8 @@
 layout: single
 title: "Counting The Days"
 date: 2021-03-16
-categories: "2021"
+categories:
+  - 2021
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c223b8-0623-489a-bcd1-4c8973a7fda1_1280x797.jpeg" />

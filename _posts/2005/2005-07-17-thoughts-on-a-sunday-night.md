@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughts On A Sunday Night"
 date: 2005-07-17
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I'm sat here wondering what to write about, and I can't really think of anything. Perhaps if I put some music on, inspiration might strike.

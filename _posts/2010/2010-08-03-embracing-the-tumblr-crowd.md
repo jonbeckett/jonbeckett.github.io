@@ -2,7 +2,8 @@
 layout: single
 title: "Embracing The Tumblr Crowd"
 date: 2010-08-03
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I'm embarking on something of a "following" expedition through the sweaty masses of the Tumblrati.

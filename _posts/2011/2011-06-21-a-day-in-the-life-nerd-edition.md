@@ -2,7 +2,8 @@
 layout: single
 title: "A Day In The Life Nerd Edition"
 date: 2011-06-21
-categories: "2011"
+categories:
+  - 2011
 ---
 
 For the first time in recent memory, I spent the entire day buried up to my ears in HTML, CSS and Javascript, nerding out over a re-build of the company website. I sat down when I arrived in the office, and apart from getting up once or twice to make coffee I pretty much blocked the entire world out for the best part of 8 hours.

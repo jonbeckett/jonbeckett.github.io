@@ -2,7 +2,8 @@
 layout: single
 title: "The Wheels On The Bus"
 date: 2015-07-02
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While sitting at my desk this morning, waiting for my computer to lurch ponderously into life, I started to drift off. The morning had been an endless rush from the moment the alarm clock erupted at 7am, to the moment I arrived in the office at 8:50am. In a strange way the office has become a morning sanctuary.

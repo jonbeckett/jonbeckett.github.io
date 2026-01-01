@@ -2,7 +2,8 @@
 layout: single
 title: "Wednesday"
 date: 2020-11-11
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I went for a run this morning. I would like to tell you that it was easy, and I felt great, and "go me!". In reality it was hard work, I felt like crap, and I nearly passed out within sight of the house on the way home.

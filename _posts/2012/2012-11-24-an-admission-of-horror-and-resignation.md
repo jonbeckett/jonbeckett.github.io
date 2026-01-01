@@ -2,7 +2,8 @@
 layout: single
 title: "An Admission Of Horror And Resignation"
 date: 2012-11-24
-categories: "2012"
+categories:
+  - 2012
 ---
 
 One of the main reasons I chose to go with Blogger as an enduring solution for the writing I share online was the existence of my old posts - stretching back to 2003. Or so I thought.

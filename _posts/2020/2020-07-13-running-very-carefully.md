@@ -2,7 +2,8 @@
 layout: single
 title: "Running Very Carefully"
 date: 2020-07-13
-categories: "2020"
+categories:
+  - 2020
 ---
 
 After a month keeping off a very broken toe, I finally got out running again this evening - although perhaps 'running' is an exaggeration - more of a gentle jog. I jumped back into the Couch to 5K plan with my daughters, who have advanced all of 1 week since I last ran with them a month ago. The stunning lack of will-power in teenagers astounds me.

@@ -3,7 +3,7 @@ layout: single
 title: "On the outside, looking in"
 date: 2025-12-14
 categories:
-  - "2025"
+  - 2025
 ---
 
 I went to my other half’s work Christmas party as her “plus one” last night. It was interesting - being the person on the outside, looking in on the work friendships and relationships - not having to “be present”, or “show up”.

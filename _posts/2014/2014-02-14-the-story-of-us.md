@@ -2,7 +2,8 @@
 layout: single
 title: "The Story Of Us"
 date: 2014-02-14
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Today is Valentines Day. Given that everybody gets a free pass to be as sentimental as they want today, I thought I might share how I met my other half.

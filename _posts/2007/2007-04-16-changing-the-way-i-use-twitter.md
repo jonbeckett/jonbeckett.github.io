@@ -2,7 +2,8 @@
 layout: single
 title: "Changing The Way I Use Twitter"
 date: 2007-04-16
-categories: "2007"
+categories:
+  - 2007
 ---
 
 This has been cross-posted from PluggedOut, because I feel it is important.

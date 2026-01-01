@@ -2,7 +2,8 @@
 layout: single
 title: "Please Let Friday Go Well"
 date: 2013-06-14
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I was kind of hoping that Friday would redeem the week for me. I can't say the signs are great, to be honest.

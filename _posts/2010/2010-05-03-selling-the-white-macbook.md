@@ -2,7 +2,8 @@
 layout: single
 title: "Selling The White Macbook"
 date: 2010-05-03
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I put the white Macbook up for sale on EBay this morning. We need the money more than we need yet another computer in the house. The auction is going off here if you are interested in buying it.

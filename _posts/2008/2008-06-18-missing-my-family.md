@@ -2,7 +2,8 @@
 layout: single
 title: "Missing My Family"
 date: 2008-06-18
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I can't sleep, and I've realised why. I miss my family... a lot.

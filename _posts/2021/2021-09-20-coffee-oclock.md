@@ -2,7 +2,8 @@
 layout: single
 title: "Coffee Oclock"
 date: 2021-09-20
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It turns out slowing down is difficult after several weeks chasing your own tail. I finally have time to take a step back - to take stock - to figure out how I'm doing things. I don't find it easy to rush head-long into the next thing.

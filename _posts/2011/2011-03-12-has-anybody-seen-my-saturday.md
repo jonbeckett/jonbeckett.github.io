@@ -2,7 +2,8 @@
 layout: single
 title: "Has Anybody Seen My Saturday"
 date: 2011-03-12
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Do you ever have those days where you reach the end, and it seems you've achieved nothing? I'm having one of those days.

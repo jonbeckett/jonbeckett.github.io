@@ -2,7 +2,8 @@
 layout: single
 title: "Deconstructing Christmas"
 date: 2016-01-03
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm not entirely sure how I managed to wake up at a half-sensible time this morning. After racing home from the cinema we bought a metric ton of pizza, wine, and garlic bread, and invited friends round for a post-Christmas catch-up. After talking all over the new Fantastic Four movie, and eating or drinking everything in sight, we looked at the clocksomehow it was 1am. We said our goodbyes, washed up, tidied up, and fell into bed at about 3am (don't ask me how that happened).

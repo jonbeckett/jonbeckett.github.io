@@ -2,7 +2,8 @@
 layout: single
 title: "Old Friends And Past Adventures"
 date: 2013-09-27
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Memory is a curious thing. A single thread pulls away at a seam on the edge of your recollection, and before you know it swathes of past adventures are falling onto the table and flooradventures you had long forgotten.

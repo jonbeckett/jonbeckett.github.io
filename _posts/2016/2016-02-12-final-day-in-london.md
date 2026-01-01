@@ -2,7 +2,8 @@
 layout: single
 title: "Final Day In London"
 date: 2016-02-12
-categories: "2016"
+categories:
+  - 2016
 ---
 
 After the initial shock of getting upand leaving the house before sunrise, the routine became easier throughout the week. I didn't read the books queued on the Kindle, andI didn't write blog posts every lunchtime in the Moleskine notebook. I just sort of "existed"a small cog in middle of a much bigger machine.

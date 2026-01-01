@@ -3,7 +3,7 @@ layout: single
 title: "Cult Movies and Atomic Apparel"
 date: 2025-09-18
 categories:
-  - "2025"
+  - 2025
 ---
 
 The clock ticked past 11pm a few minutes ago. It’s been six days since I last posted. I’m not entirely sure where the week went. I haven’t been out running. I haven’t even made it out of the house at lunchtime most days. It’s just been a slog from one day to the next - working, doing chores, and slowly going backwards.

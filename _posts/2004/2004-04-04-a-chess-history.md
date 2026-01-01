@@ -2,7 +2,8 @@
 layout: single
 title: "A Chess History"
 date: 2004-04-04
-categories: "2004"
+categories:
+  - 2004
 ---
 
 I just put an introductory message on the Orkut (www.orkut.com) Chess community - I thought it might be interesting for those that read this blog too, so here it is;

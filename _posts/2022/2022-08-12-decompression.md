@@ -2,7 +2,8 @@
 layout: single
 title: "Decompression"
 date: 2022-08-12
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Two weeks to think about as little as possible.

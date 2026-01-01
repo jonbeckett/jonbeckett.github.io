@@ -2,7 +2,8 @@
 layout: single
 title: "Happy 4Th July"
 date: 2008-07-04
-categories: "2008"
+categories:
+  - 2008
 ---
 
 To all of my friends and family in the United States of America, happy 4th July - "Independence Day".

@@ -2,7 +2,8 @@
 layout: single
 title: "Fox No Chickens"
 date: 2008-03-13
-categories: "2008"
+categories:
+  - 2008
 ---
 
 We got up this morning and found feathers all over the chicken run, and no sign of W's chickens. Serves us right for not closing the door to the chicken run. I guess that's going to be something else for me to add to the million and one things I do each day (when we get some more chickens).

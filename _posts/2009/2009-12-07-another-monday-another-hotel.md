@@ -2,7 +2,8 @@
 layout: single
 title: "Another Monday Another Hotel"
 date: 2009-12-07
-categories: "2009"
+categories:
+  - 2009
 ---
 
 It's Monday evening, and I'm in the Hilton again (I wonder if Paris Hilton's boyfriend says that? Does she have boyfriends for longer than a week?)

@@ -2,7 +2,8 @@
 layout: single
 title: "Away From The Madding Crowd"
 date: 2019-12-12
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After sliding into anonymity in recent months, I realised this week that my problem isn't with blogging platforms themselves - my problem is me.

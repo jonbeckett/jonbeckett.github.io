@@ -2,7 +2,8 @@
 layout: single
 title: "If you cant beat them"
 date: 2023-05-21
-categories: "2023"
+categories:
+  - 2023
 ---
 
 After a year wandering through the internet wilderness, I've returned to Wordpress, paid for an account, sat down heavily in the corner, and let out a huge sigh.

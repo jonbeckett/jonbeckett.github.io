@@ -2,7 +2,8 @@
 layout: single
 title: "I Cant Even"
 date: 2017-03-05
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It's been a day. And that's all I have to say about that. I'm not going to empty my head, and record a potentially destructive record of everything that went on today. I'll go to bed, get up in the morning, and pretend that tomorrow is another day - you know - like all those crappy inspirational quotes say.

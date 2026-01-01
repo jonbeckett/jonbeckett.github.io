@@ -2,7 +2,8 @@
 layout: single
 title: "Eating Party Food"
 date: 2010-09-29
-categories: "2010"
+categories:
+  - 2010
 ---
 
 We're sat here on the couch eating the leftover party food from our eldest daughter's 10th birthday party. She had friends back from school today for dinner - I walked in from work and was greeted with a lounge emblazoned with multi-coloured balloons, and all manner of party food.

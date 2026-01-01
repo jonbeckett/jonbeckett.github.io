@@ -2,7 +2,8 @@
 layout: single
 title: "The Mindfulness Of Cats"
 date: 2017-01-18
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While becoming increasingly stressed about the vortex of expectations and obligations surrounding me at the moment, it struck me that cats are rather expert at the whole mindfulness business.

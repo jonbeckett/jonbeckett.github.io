@@ -2,7 +2,8 @@
 layout: single
 title: "Everything and everybody"
 date: 2024-04-21
-categories: "2024"
+categories:
+  - 2024
 ---
 
 It's been a week. A week filled with hospital visits, very little sleep, and endless juggling at work. The good? Our youngest daughter is on the mend. Slowly. The bad? We're all wandering around like zombies.

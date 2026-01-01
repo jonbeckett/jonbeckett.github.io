@@ -2,7 +2,8 @@
 layout: single
 title: "Ready Player One"
 date: 2016-09-16
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Back in 2011 I received a random email from a distant friend on the internet - "I'm reading this book called 'Ready Player One', and couldn't help thinking of you - you're going to love it". A few minutes later I pulled up the Amazon website, and bought the book - choosing to have it delivered to the Kindle in my work backpack. And there it stayed for a while. The website didn't have many reviews recorded - the book was new, and the author was a relative unknown.

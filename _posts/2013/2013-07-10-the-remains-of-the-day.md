@@ -2,7 +2,8 @@
 layout: single
 title: "The Remains Of The Day"
 date: 2013-07-10
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I'm sitting in the study at home, listening to a compilation of soundtrack music from an old TV series called "One Tree Hill". I've never actually seen an episode of it, but discovered the music through Last.

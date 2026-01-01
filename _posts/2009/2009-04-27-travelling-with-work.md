@@ -2,7 +2,8 @@
 layout: single
 title: "Travelling With Work"
 date: 2009-04-27
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I'll be leaving the house in the early hours of tomorrow morning to travel with work. I have been working as part of a team to build a project that we are showing the client for the first time tomorrow morning.

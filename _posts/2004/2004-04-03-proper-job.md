@@ -2,7 +2,8 @@
 layout: single
 title: "Proper Job"
 date: 2004-04-03
-categories: "2004"
+categories:
+  - 2004
 ---
 
 This weekend I are reportin' from deepest darkest Cornwall (the south westerly tip of England for those who only really know England as that little island that used to run the world).

@@ -2,7 +2,8 @@
 layout: single
 title: "Why Is It Called Recursive Words "
 date: 2014-10-21
-categories: "2014"
+categories:
+  - 2014
 ---
 
 While cycling home from work, I began thinking about all sorts of random crap - as you do - and while waiting for a line of cars at a junction to attempt to kill me, a thought popped into my head (I nearly wrote "pooped" then, and am still giggling now) - why is this blog called "Recursive Words", and what does it mean ?

@@ -2,7 +2,8 @@
 layout: single
 title: "Fitter But Knackered"
 date: 2006-04-22
-categories: "2006"
+categories:
+  - 2006
 ---
 
 On Thursday night one of my friends gave me a call and asked if I wanted to go out running on Saturday morning. While at work yesterday, I started to wonder if going running was very wise - being overweight and not as fit as I should be (the entire reason for going running is to prepare for the Marlow 5 running race in a couple of weeks time - an annual 5 mile road race).

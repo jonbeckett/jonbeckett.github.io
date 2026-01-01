@@ -2,7 +2,8 @@
 layout: single
 title: "Ends And Beginnings"
 date: 2018-01-02
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I'm sitting at the desk in the junk room at home, writing this on the old desktop PC. Sia is filling the room with "Chandelier" via the Fire TV wired up to the old TV across the room. Miss 12 is in her room, eating Sushi made last night by Miss 17. We are the last people left in the house - the older children and my other half have returned to school, college, and work today. I go back to work tomorrow morning.

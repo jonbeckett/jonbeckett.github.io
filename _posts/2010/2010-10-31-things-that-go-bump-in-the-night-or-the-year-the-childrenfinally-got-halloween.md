@@ -2,7 +2,8 @@
 layout: single
 title: "Things That Go Bump In The Night Or The Year The Childrenfinally Got Halloween"
 date: 2010-10-31
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I'm not quite sure what happened this year, but our children seemed to really "get" the wholeHalloween thingfor the first time. They were more excited about enacting pagan celebrations of the underworld than they were about the prospect of a morbidly obese coca cola advert in knee length kinky boots climbing down our chimney last year (father christmas... keep up!)

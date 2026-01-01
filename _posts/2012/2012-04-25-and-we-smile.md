@@ -2,7 +2,8 @@
 layout: single
 title: "And We Smile"
 date: 2012-04-25
-categories: "2012"
+categories:
+  - 2012
 ---
 
 A little after lunch a window popped open on my desktop, with a single word inside it. "Hello". The biggest grin spread across my face, and has remained ever since - not because of the word, but because of it's sender.

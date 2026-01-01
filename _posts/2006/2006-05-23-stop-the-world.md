@@ -2,7 +2,8 @@
 layout: single
 title: "Stop The World"
 date: 2006-05-23
-categories: "2006"
+categories:
+  - 2006
 ---
 
 (more about the gratuitous Serenity picture further on...)

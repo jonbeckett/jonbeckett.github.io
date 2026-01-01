@@ -2,7 +2,8 @@
 layout: single
 title: "Perhaps Brain Dumps Are Therapeutic"
 date: 2012-11-28
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I used to occasionally take part in a damn fool crusade on the internet called "750 Words". The idea behind the site is that you empty your head into the keyboard each day with at least 750 words worth of jumbled madness, and it would expose enough for the website to chew through, and tell you how happy, sad, crazy, or wonderful you were.

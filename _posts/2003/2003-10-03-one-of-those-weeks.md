@@ -2,7 +2,8 @@
 layout: single
 title: "One Of Those Weeks"
 date: 2003-10-03
-categories: "2003"
+categories:
+  - 2003
 ---
 
 It's been a strange week really.

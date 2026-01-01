@@ -2,7 +2,8 @@
 layout: single
 title: "Relativity"
 date: 2007-05-13
-categories: "2007"
+categories:
+  - 2007
 ---
 
 We visited some friends a couple of nights ago, and - quite bizarrely - the conversation somehow turned to space travel, and that one of our friends couldn't understand the whole thing about astronauts travelling to mars not ageing as much as the people they left behind.

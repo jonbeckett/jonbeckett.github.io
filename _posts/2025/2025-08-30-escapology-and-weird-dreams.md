@@ -3,7 +3,7 @@ layout: single
 title: "Escapology and Weird Dreams"
 date: 2025-08-30
 categories:
-  - "2025"
+  - 2025
 ---
 
 I discovered this morning that I can’t listen to a podcast and write at the same time - I end gazing into space and listening rather than writing anything. My multi-tasking abilities are that bad.

@@ -2,7 +2,8 @@
 layout: single
 title: "Endless Amusement"
 date: 2007-02-23
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Once upon a time I wrote in the about pages of this blog that if anybody should ever write me an abusive email, I would almost certainly post the message in question to the blog. I never thought I would have an opportunity to do it - and then this arrived this week...

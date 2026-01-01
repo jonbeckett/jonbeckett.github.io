@@ -2,7 +2,8 @@
 layout: single
 title: "The Monkey Sanctuary"
 date: 2016-08-28
-categories: "2016"
+categories:
+  - 2016
 ---
 
 We spent the greater part of today at a monkey sactuary a few miles from my parents home. It's quite expensive to visit, but when you listen to the volunteers and keepers, you wonder how much more you can give them.

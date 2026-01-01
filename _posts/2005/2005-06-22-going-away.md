@@ -2,7 +2,8 @@
 layout: single
 title: "Going Away"
 date: 2005-06-22
-categories: "2005"
+categories:
+  - 2005
 ---
 
 We're leaving for a few days in the morning to go and spend a few quiet days in Cornwall. We're there from Thursday through till Monday.

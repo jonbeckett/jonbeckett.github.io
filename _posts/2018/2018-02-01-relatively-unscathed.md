@@ -2,7 +2,8 @@
 layout: single
 title: "Relatively Unscathed"
 date: 2018-02-01
-categories: "2018"
+categories:
+  - 2018
 ---
 
 This week has been something like a firework - starting off burning fiercely, then finally letting go with an explosion, leaving a debris field full of smoking wreckage behind. Sorry if I'm being vague - you should know by now that I never really open up about anything outside of my own little bubble.

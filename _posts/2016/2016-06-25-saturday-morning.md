@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday Morning"
 date: 2016-06-25
-categories: "2016"
+categories:
+  - 2016
 ---
 
 A curious thing happens on weekends - I can't bring myself to stay in bed. This morning I was up at 7am and making breakfasts for my other half and the younger children, before seeing them off to the local junior school, which is holding it's bazaar a little later today. Since then I have run myself ragged tidying the house up - because if I don't do it now, it won't happen. The washing machine is on it's third load, the tumble dryer is on it's second load, and the washing line outside is creaking and groaning under the weight of a ridiculous quantity of clothes. Of course it's sods law that rain is forecast later this morning. I'm taking my chances.

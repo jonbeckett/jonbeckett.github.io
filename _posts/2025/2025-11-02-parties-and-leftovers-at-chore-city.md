@@ -3,7 +3,7 @@ layout: single
 title: "Parties and Leftovers at Chore City"
 date: 2025-11-02
 categories:
-  - "2025"
+  - 2025
 ---
 
 Two of our oldest friends hosted a joint 50th birthday party at the rowing club in town last night. If I’m entirely honest, neither of us really wanted to go - we’ve both had a pretty draining few weeks/months/year, and would quite happily have had a quite night in.

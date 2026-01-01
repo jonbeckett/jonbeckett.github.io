@@ -2,7 +2,8 @@
 layout: single
 title: "Domain Names And Paranoia"
 date: 2014-12-05
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Over the last few days I've been finding it somewhat easier to write regularlyI suspect fueled by participation in NaBloPoMo, which I guess has forced the formation of a daily posting habit. In recent months I would often find myself in situations during the day, and think "oh, this is blogworthy", and would never get around to writing about them. Writing every day forced me to mentally store away the more noteable moments (I was going to write "asshats", but I don't always write about the idiots I have encountered along my way).

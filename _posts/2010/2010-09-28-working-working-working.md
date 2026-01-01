@@ -2,7 +2,8 @@
 layout: single
 title: "Working Working Working"
 date: 2010-09-28
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Today's topic of choice is "Event Receivers" in Microsoft SharePoint. Just tripped over "BeforeProperties" (I realise this will all make no sense whatsoever to anybody who has no SharePoint development experience, and I make no apology whatsoever).

@@ -2,7 +2,8 @@
 layout: single
 title: "Quiet Insanity Rules"
 date: 2017-09-22
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I rescued my old netbook computer from almost certain doom earlier in the week - it had been sitting on the corner of a counter in the kitchen along with a few other bits and pieces to be sent off for recycling or charitable donation. We finally made it to a charity store today with several bags of clothes and brick-a-brack, but no netbook. It's back in my bag, re-installed with Windows 7, and a copy of Scrivener. If you've never heard of Scrivener, it's a writing app - kind of like the digital version of a typewriter, moleskine notebook, and binder full of notes all wrapped up in one piece of software. Apparently writers swear by it.

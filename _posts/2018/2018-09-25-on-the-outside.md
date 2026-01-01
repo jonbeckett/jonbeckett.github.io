@@ -2,7 +2,8 @@
 layout: single
 title: "On The Outside"
 date: 2018-09-25
-categories: "2018"
+categories:
+  - 2018
 ---
 
 While scrolling through Tumblr this morning I started reminiscing about the "meetups" they once helped their users stage. You could register a meetup on the site, and they would advertise it, and send out a pack with table cards, badges, namecards - everything you might need to dress up a couple of tables in a bar. Of course "reminisce" isn't really the right word, because I never actually went to a meet-up.

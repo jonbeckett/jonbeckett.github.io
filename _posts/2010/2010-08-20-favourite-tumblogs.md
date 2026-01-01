@@ -2,7 +2,8 @@
 layout: single
 title: "Favourite Tumblogs "
 date: 2010-08-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While talking to one of my favourite writers online earlier - she ofNot Well Versed-I was talking about being sucked back into Tumblr recently, and thought it might be worth sharing a few of the Tumblogs that I follow;

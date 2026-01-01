@@ -2,7 +2,8 @@
 layout: single
 title: "Keep on Running"
 date: 2023-06-02
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I overslept this morning. I had planned to get up at 7am and get a run in before work. Instead I snuck out at lunchtime and got it done. The funny thing? It's already getting easier. I guess I was right - my legs (and lungs) just needed to remember what the hell they were doing. I suppose it also helps that I don't smoke and don't drink that often.

@@ -2,7 +2,8 @@
 layout: single
 title: "What could you do differently"
 date: 2024-01-07
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Today's Bloganuary prompt asks "What could you do differently?". Oh my word. This question must be out of the top-drawer of cold reading questions. A grand fishing expedition into the human condition. What unanticipated responses might it dredge up? What dark corners of each responders past might be dragged forth?

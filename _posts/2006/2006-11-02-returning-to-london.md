@@ -2,7 +2,8 @@
 layout: single
 title: "Returning To London"
 date: 2006-11-02
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Today marked the second day of three spent in London - and this time I remembered the camera!

@@ -2,7 +2,8 @@
 layout: single
 title: "Remembering Robin Williams"
 date: 2014-08-13
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I'm going to fly in the face of the countless blogs, editorials, think pieces, and soapbox psychologists. Rather than climb on their bandwagon and preach all-knowingly about alphabet diseases of the mind to further some blatant self-serving agenda, I'm going to just remember the guy I knew that lived inside the TV set, and on the movie screen.

@@ -2,7 +2,8 @@
 layout: single
 title: "First Batch Of Music"
 date: 2010-09-14
-categories: "2010"
+categories:
+  - 2010
 ---
 
 After much digging around, listening, sorting, and choosing, I have settled on the first few albums to make their way onto the MP3 player that travels with me every day (I just bought a Sandisk Sansa Clip+ for myself).

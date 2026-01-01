@@ -2,7 +2,8 @@
 layout: single
 title: "Running And Quizzes"
 date: 2022-06-24
-categories: "2022"
+categories:
+  - 2022
 ---
 
 After work yesterday evening I pulled on my running shoes and went for a run around town. It seemed like a good idea at the time - but I had completely forgotten that the junk room / study where I sit for most of the day is on the cold side of the house. I knew I had made a mistake minutes into the run, when the air might well have been made from treacle.

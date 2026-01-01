@@ -2,7 +2,8 @@
 layout: single
 title: "Fathers Day"
 date: 2010-06-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Each year the infant school hosts a "camping on the school field" father's day event. I did it last year single handed with the kids - this time W came along too.

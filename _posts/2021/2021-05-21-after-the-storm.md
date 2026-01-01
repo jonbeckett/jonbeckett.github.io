@@ -2,7 +2,8 @@
 layout: single
 title: "After The Storm"
 date: 2021-05-21
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The greater part of this week has been spent submerged in an alien computer system - trying to make head or tail of how it works, how it hangs together, and how I might use it going forwards. There have been times when I wondered how far down the rabbit hole went - if I might see the surface again. This afternoon lightbulb after lightbulb switched on in the depths of my fragmented brain, and launched me back towards the surface. I suddenly have stories to tell co-workers, insights to share, and a brave new world to describe.

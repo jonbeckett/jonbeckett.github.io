@@ -2,7 +2,8 @@
 layout: single
 title: "Every Other Day"
 date: 2019-01-04
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I seem to have fallen into a pattern of posting every other day at the moment. This is not intentional. Hell - posting every day was never really intentional - but I suppose it became a "thing" after a while. During the last year I probably went more than a month at various points without missing a day. I'm not sure if that's something to be celebrated or not - I can't imagine I had anything interesting or insightful to share every day, and I'm certainly not going to go back and look. I know that sounds lazy, but I've always seen the blog as a forward moving thing - not retrospective at all.

@@ -2,7 +2,8 @@
 layout: single
 title: "Originality Is The Rule Not The Exception"
 date: 2011-09-03
-categories: "2011"
+categories:
+  - 2011
 ---
 
 You will rarely find reblogs in my Tumblogthis is entirely by design. I am here to share my life, mythoughts, myexperiences, myideasthat which interests me.I'mnot here to recycle.

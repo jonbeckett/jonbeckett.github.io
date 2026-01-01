@@ -2,7 +2,8 @@
 layout: single
 title: "Thunderbolts And Lightning"
 date: 2018-05-30
-categories: "2018"
+categories:
+  - 2018
 ---
 
 The thunderbolts, lightning, cats, dogs, and whatever else that were forecast to fall on the United Kingdom today are conspicuous by their absence. The various weather websites have been confidently predicting all manner of graphical icons I have never seen before, accomanied by wording along the lines of "the end of all things" - none of it has come to pass yet.

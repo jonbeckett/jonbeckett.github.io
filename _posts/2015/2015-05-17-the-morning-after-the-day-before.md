@@ -2,7 +2,8 @@
 layout: single
 title: "The Morning After The Day Before"
 date: 2015-05-17
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's just past 11am at the time of writing. I've been up since 8:30am - the kids got up about an hour later - after I had already had a shower, washed up, tidied up, hang some washing out, filled the washing machine, and got on with various other chores.

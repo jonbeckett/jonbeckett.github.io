@@ -2,7 +2,8 @@
 layout: single
 title: "Rediscovering The Tribe"
 date: 2021-04-27
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The last few days have served as a reminder of how wonderful the blogging tribe has become. I'm not talking about the niche food, fashion, or lifestyle bloggers - they can go fall off their marketing tricycle and graze their knees - I'm talking about those of us that have been committing our daily stories to the keyboard for the last twenty years.

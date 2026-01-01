@@ -2,7 +2,8 @@
 layout: single
 title: "I Still Havent Read Moby Dick"
 date: 2019-11-11
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I got home a couple of hours ago, and opened the back door to a kitchen full of the smells of roast dinner, and an unfolding scene of mayhem in the kitchen as my other half battled to cook and wash up while the children got in the way. I had called home when I left the office, and got an abrupt "why do you always call when I'm busy?".

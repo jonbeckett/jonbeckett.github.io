@@ -2,7 +2,8 @@
 layout: single
 title: "Cold House"
 date: 2006-02-26
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Our heating has packed up. Again.

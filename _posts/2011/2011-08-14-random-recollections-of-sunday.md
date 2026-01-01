@@ -2,7 +2,8 @@
 layout: single
 title: "Random Recollections Of Sunday"
 date: 2011-08-14
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I cooked chips, fried eggs, and bacon for the kids for dinner this evening. They ate all of it. I know it's not "real" cooking, but they ate it all. I can't help wondering if there is some bizarre law of the universe that says the health benefits of food stuffs is inversely proportional to the likelihood children will eat it.

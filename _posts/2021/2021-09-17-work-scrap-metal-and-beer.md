@@ -2,7 +2,8 @@
 layout: single
 title: "Work Scrap Metal And Beer"
 date: 2021-09-17
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I think I probably broke some sort of record for hours spent in conference calls this week. Hour upon hour talking, listening, writing notes, and so on. It did occur to me during the week how fortunate I am to have discovered bullet journaling though; without my little book full of spider scrawl and dots I'm not sure I would cope.

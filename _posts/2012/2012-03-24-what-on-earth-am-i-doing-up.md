@@ -2,7 +2,8 @@
 layout: single
 title: "What On Earth Am I Doing Up"
 date: 2012-03-24
-categories: "2012"
+categories:
+  - 2012
 ---
 
 It's 7am on Saturday morning. I've been up for the best part of an hour already. I've had a shower, tidied up a bit, and am looking forward to watching the F1 qualifying session from Malaysia in an hour. I still need to let the chickens out, wash up, empty the dishwasher, feed the cats, and despair at the mounds of craft materials littered all over the lounge.

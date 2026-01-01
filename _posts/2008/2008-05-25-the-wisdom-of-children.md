@@ -2,7 +2,8 @@
 layout: single
 title: "The Wisdom Of Children"
 date: 2008-05-25
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While sat watching Superman Returns with the kids this morning, they came out with something that illustrates the workings of a child's mind far better than any huge think-piece I could write;

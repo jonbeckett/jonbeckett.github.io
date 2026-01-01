@@ -2,7 +2,8 @@
 layout: single
 title: "Monday Morning Shattered"
 date: 2005-05-16
-categories: "2005"
+categories:
+  - 2005
 ---
 
 It's 11:28 on Monday morning and I'm having a break from my work for a minute or two to write in my Blog.

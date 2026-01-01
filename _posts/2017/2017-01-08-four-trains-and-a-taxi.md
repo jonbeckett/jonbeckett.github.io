@@ -2,7 +2,8 @@
 layout: single
 title: "Four Trains And A Taxi"
 date: 2017-01-08
-categories: "2017"
+categories:
+  - 2017
 ---
 
 You find me sitting in a hotel room, the better part of three hundred miles from home. The room is clean and tidy - or rather it was tidy until I arrived. I'm being unfair on myself of course - I typically leave hotel rooms exactly as I find them, which probably causes the cleaning staff all manner of questions about their own sanity.

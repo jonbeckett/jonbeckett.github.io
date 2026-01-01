@@ -2,7 +2,8 @@
 layout: single
 title: "The Good And The Bad"
 date: 2018-10-30
-categories: "2018"
+categories:
+  - 2018
 ---
 
 While cycling home from work this evening through the early-evening darkness, an entire family walked out in front of me. The family comprised of two adults in warm coats, followed by a rag-tag train of small witches, zombies, and superheroes.

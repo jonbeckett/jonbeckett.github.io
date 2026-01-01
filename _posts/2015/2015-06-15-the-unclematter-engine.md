@@ -2,7 +2,8 @@
 layout: single
 title: "The Unclematter Engine"
 date: 2015-06-15
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While trawling the internet a few weeks ago I came across the beginning ofa story I wrote in January of 2003 for a writing website called "ThoughtCafe". I thought it might be interesting to re-publish it, and give it a second life of sorts.

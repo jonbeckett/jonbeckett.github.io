@@ -2,7 +2,8 @@
 layout: single
 title: "Returning From A Week Away"
 date: 2006-03-12
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Myself and W have just got back from spending a week in Dorset on the south coast of England, taking a much needed break from the world in general.

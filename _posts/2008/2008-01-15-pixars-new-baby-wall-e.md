@@ -2,7 +2,8 @@
 layout: single
 title: "Pixars New Baby Wall E"
 date: 2008-01-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I have just been watching the trailer for the new Pixar movie "Wall E"...

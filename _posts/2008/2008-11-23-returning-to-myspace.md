@@ -2,7 +2,8 @@
 layout: single
 title: "Returning To Myspace"
 date: 2008-11-23
-categories: "2008"
+categories:
+  - 2008
 ---
 
 It's been tipping down with rain here today - and I've been sidelined with a rather nasty cold. Inbetween washing up, tidying up, and child wrangling, I've been looking in on MySpace - the first social network that really broke through to the mainstream. It's since been overtaken by Facebook, but both claim hundreds of millions of active users.

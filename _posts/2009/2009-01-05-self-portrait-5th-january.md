@@ -2,7 +2,8 @@
 layout: single
 title: "Self Portrait 5Th January"
 date: 2009-01-05
-categories: "2009"
+categories:
+  - 2009
 ---
 
 Taken this evening after getting in from work, washing up a mountain of dishes, putting all the kids through the bath, putting them to bed, reading their stories, and finally getting half an hour to myself.

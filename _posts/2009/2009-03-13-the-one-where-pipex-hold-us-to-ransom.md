@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where Pipex Hold Us To Ransom"
 date: 2009-03-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 For the last two months we have been trying to move our internet service provider at home from Pipex to British Telecom. The main reason for doing so is that Pipex were bought out by Tiscali some time ago, and have been ripping us off for a pretty poor level of service ever since. So far, Pipex/Tiscali have gone out of their way to make it as difficult as possible for us to leave them - we're pretty sure they are breaking the law, but without spending our own money on a solicitor (lawyer), we have no real way of knowing.

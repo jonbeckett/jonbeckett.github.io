@@ -2,7 +2,8 @@
 layout: single
 title: "Here And There"
 date: 2018-02-12
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I missed another day on the blog. You might think I would therefore have an entire extra day of adventures to impart, but sadly not. Nothing I want to share anyway. Does this mean there is stuff going on? Perhaps. Does this mean I'm closing the door on it and pretending that everything is fine? Definitely.

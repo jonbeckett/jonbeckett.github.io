@@ -2,7 +2,8 @@
 layout: single
 title: "Another 8 Hours"
 date: 2019-04-27
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I just worked straight through Saturday. On the minus side, I lost a day of my weekend - on the plus side, I progressed the project I'm working on enormously and will get paid for it. And taxed for it. Boo.

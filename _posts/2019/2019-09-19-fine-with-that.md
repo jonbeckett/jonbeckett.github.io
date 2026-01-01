@@ -2,7 +2,8 @@
 layout: single
 title: "Fine With That"
 date: 2019-09-19
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It's heading towards midnight, and I'm sitting in the junk room, thinking back through the day. Unfortunately sitting in front of a desk all day writing software doesn't really translate into interesting, entertaining, or insightful words of wisdom.

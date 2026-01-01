@@ -2,7 +2,8 @@
 layout: single
 title: "Everything Changes"
 date: 2015-12-24
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I'm moving my blog to jonbeckett.comif you wish to continue reading my adventures, feel free to bookmark it.

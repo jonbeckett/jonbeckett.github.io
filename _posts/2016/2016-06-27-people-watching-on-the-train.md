@@ -2,7 +2,8 @@
 layout: single
 title: "People Watching On The Train"
 date: 2016-06-27
-categories: "2016"
+categories:
+  - 2016
 ---
 
 One of my favourite things to do while travelling with work is watch the world go by. The never ending streams of people leaving one train, and boarding another at the big stations is fascinating. I can't help seeing all the people as pieces of a huge jigsaw - a computer program that runs the world. We're all going somewhere, all doing something. We're all from somewhere - with family, friends, interests, jobs... and yet here we all are, fitting in with everybody else for a few moments to queue for train doors, to climb escalators, to buy coffee, to pass through turnstiles.

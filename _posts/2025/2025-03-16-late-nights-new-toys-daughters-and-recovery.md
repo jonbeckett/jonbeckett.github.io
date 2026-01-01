@@ -3,7 +3,7 @@ layout: single
 title: "Late nights new toys daughters and recovery"
 date: 2025-03-16
 categories:
-  - "2025"
+  - 2025
 ---
 
 I was going to go to bed at a fairly normal time last night, but then fell down an internet rabbit hole of my own making. Before I knew it, it was 2am, and the first Formula One race of the new season would be broadcast at 4am - from Melbourne, Australia. I wondered about grabbing a couple of hours sleep on the sofa but somehow that didn’t happen.

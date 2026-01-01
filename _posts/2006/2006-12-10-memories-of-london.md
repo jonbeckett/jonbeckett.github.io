@@ -2,7 +2,8 @@
 layout: single
 title: "Memories Of London"
 date: 2006-12-10
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Following a week spent commuting in and out of London - mostly during the hours of darkness - I thought it might be interesting to transcribe some of the notes from my Moleskine written during the week;

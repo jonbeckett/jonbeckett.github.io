@@ -2,7 +2,8 @@
 layout: single
 title: "From London To Frankfurt"
 date: 2017-09-10
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It's been a long day. A very long day. The alarm didn't burst into life at 5am, because I woke at 4am, and didn't really fall asleep again. I had fragments of dreams, but then snapped back awake every few minutes - checking the clock each time. Eventually I wrestled the mobile phone from it's charging cable on the bedside table, disabled the alarm, and snuck out of bed - creeping downstairs in the dark to have a shower, get dressed, and put on the clothes I had laid out so neatly the night before. I glanced in on the children as I passed their rooms - fast asleep with their mouths wide open, like they had landed that way from some altitute. My late father-in-law used to call it "the sleep of the just".

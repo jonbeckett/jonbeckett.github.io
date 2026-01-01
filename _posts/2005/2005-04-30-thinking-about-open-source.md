@@ -2,7 +2,8 @@
 layout: single
 title: "Thinking About Open Source"
 date: 2005-04-30
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I've just been sat here this Saturday morning talking to my other half about politics (strange, I know).

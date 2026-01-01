@@ -2,7 +2,8 @@
 layout: single
 title: "Car Crashes Running And Boobs"
 date: 2012-05-10
-categories: "2012"
+categories:
+  - 2012
 ---
 
 While exiting the relative safety of the quiet country estate roads while cycling home last night on my mountain bike, something rather entertaining happened (although I'll admit that this form of entertainment sits on a knife edge between hilarity and horror).

@@ -2,7 +2,8 @@
 layout: single
 title: "An Early Adventure In London"
 date: 2016-08-10
-categories: "2016"
+categories:
+  - 2016
 ---
 
 The alarm went off at 5am this morning. I don't remember switching it off - I'm guessing my body did that curious auto-pilot trick where you wake up a few moments before the alarm, and silence it. After sliding out of bed and stumbling off in the direction of the shower, getting dressed, and sorting my backpack out, I wandered off towards the first train out of town.

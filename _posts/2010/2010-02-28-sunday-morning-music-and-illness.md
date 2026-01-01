@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Morning Music And Illness"
 date: 2010-02-28
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It's now 10:30, Sunday morning. I've been up for about an hour - I arrived downstairs to find the children had made their own breakfast without complaint. They hadn't cleared up after themselves, but I'm not about to start picking at straws. Little victories.

@@ -2,7 +2,8 @@
 layout: single
 title: "Another Day On The Beach"
 date: 2016-08-27
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It's the morning after the day before. Yesterday we got up early, threw food, drinks, buckets and spades into bags, and headed towards the beach under blue skies. I lost count of the number of times I went in the sea with the children. I still have a streaming cold, which is quite miraculous given the amount of seawater I've ingested in the last 72 hours.

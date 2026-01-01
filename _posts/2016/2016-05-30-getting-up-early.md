@@ -2,7 +2,8 @@
 layout: single
 title: "Getting Up Early"
 date: 2016-05-30
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It's a bank holiday here today. I think the parenting rule book for bank holidays goes something like "lie in bed staring at the ceiling for as long as possible before the kids wake up, and start causing mayhem downstairs." I got up a little after 7am. I obviously haven't read the rule book. I have had an hour of almost complete peace and quiet since getting out of the shower though.

@@ -2,7 +2,8 @@
 layout: single
 title: "Where Did The Year Go"
 date: 2003-12-03
-categories: "2003"
+categories:
+  - 2003
 ---
 
 It's the third of December and this is my first blog entry for a couple of weeks. I guess I should make a bit more of an effort really...

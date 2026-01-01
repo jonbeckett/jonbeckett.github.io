@@ -2,7 +2,8 @@
 layout: single
 title: "I Have The Weirdest Dreams"
 date: 2005-07-08
-categories: "2005"
+categories:
+  - 2005
 ---
 
 It's official. I have the weirdest dreams.

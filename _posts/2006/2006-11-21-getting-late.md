@@ -2,7 +2,8 @@
 layout: single
 title: "Getting Late"
 date: 2006-11-21
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I just realised what the time was, and NaBloPoMo popped into my head. It has a habit of doing that. I apologise in advance for a disjointed and badly written post - my mind is disjointed and badly organised today. I am also very tired after another 6am start, and 8pm finish.

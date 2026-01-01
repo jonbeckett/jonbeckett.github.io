@@ -2,7 +2,8 @@
 layout: single
 title: "Kicking And Screaming"
 date: 2012-03-23
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Late last night I called home to see how the day had gone, and to find out what on earth I might buy W for her birthday (which was today). An unexpected voice answered the phone - one of our best friends.

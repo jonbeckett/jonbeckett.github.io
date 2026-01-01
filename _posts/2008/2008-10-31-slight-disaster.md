@@ -2,7 +2,8 @@
 layout: single
 title: "Slight Disaster"
 date: 2008-10-31
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Guess who was monkeying with his personal webspace at lunchtime and managed to wipe his blog from existence ?

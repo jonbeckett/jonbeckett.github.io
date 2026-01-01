@@ -2,7 +2,8 @@
 layout: single
 title: "I Am The Weird Dream World Champion"
 date: 2014-12-11
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I had a dream last night, and in the dream I recalled living somewhere previously. Here's the weird thingI dreamed about living there before. A long time ago. So let's get this straightin one dream I remembered something that happened in another dream. How on earth can that happen? I'm starting to wonder if my brain is coming apart at the seams.

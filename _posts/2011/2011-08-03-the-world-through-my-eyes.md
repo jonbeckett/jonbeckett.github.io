@@ -2,7 +2,8 @@
 layout: single
 title: "The World Through My Eyes"
 date: 2011-08-03
-categories: "2011"
+categories:
+  - 2011
 ---
 
 While watching breakfast television a little while ago, a stand up comedian was talking about his routine, and his reputation of being "grumpy"relating every day stories of injustice and annoyance (through his eyes at least). He remarked that while writing, if he runs out of material he just walks into town to buy a newspapersomething will happen to annoy the hell out of him. I couldn't help laughing, because I am exactly the same way.

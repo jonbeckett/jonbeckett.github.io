@@ -2,7 +2,8 @@
 layout: single
 title: "Eating My Middle Daughters Lunch"
 date: 2016-09-29
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I suppose technically my lunchtime has already finished, but given that I've been answering co-workers questions, responding to emails, and doing whatever else occupied me for the last hour, it doesn't seem entirely unreasonable that I stop for a while, and empty my head.

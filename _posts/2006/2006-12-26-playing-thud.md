@@ -2,7 +2,8 @@
 layout: single
 title: "Playing Thud"
 date: 2006-12-26
-categories: "2006"
+categories:
+  - 2006
 ---
 
 For Christmas this year I received the board game "Thud" from W's parents. I played W last night (and got badly defeated), but still enjoyed it immensely. It's probably difficult to describe the origins of the game myself, so I will rely on the words of Terry Pratchett...

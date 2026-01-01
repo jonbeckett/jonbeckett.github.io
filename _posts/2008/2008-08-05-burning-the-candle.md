@@ -2,7 +2,8 @@
 layout: single
 title: "Burning The Candle"
 date: 2008-08-05
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Have you ever heard the expression "burning the candle at both ends" ? It accurately describes my life at the moment.

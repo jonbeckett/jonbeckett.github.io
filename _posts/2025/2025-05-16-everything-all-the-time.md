@@ -3,7 +3,7 @@ layout: single
 title: "Everything all the time"
 date: 2025-05-16
 categories:
-  - "2025"
+  - 2025
 ---
 
 Do you ever have those moments where you look away, and several days pass?

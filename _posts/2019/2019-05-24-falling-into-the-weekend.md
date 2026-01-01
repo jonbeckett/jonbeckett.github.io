@@ -2,7 +2,8 @@
 layout: single
 title: "Falling Into The Weekend"
 date: 2019-05-24
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After a seemingly never ending week filled with stress and drama I can't write anything about, the weekend has finally arrived - and not just any weekend - a long weekend.

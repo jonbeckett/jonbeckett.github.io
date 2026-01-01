@@ -2,7 +2,8 @@
 layout: single
 title: "Something New"
 date: 2006-02-04
-categories: "2006"
+categories:
+  - 2006
 ---
 
 For the last few evenings I have been working on a new website - a public workshop for writers of all abilities to put their writing out there, and to give and receive comment on each other's work.

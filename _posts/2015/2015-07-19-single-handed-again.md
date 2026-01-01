@@ -2,7 +2,8 @@
 layout: single
 title: "Single Handed Again"
 date: 2015-07-19
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I'm surprised the washing machine didn't spontaneously combust yesterday - apart from a pause when I took our middle girl into town with her friend for lunch, I washed load after load throughout the day. The dining table has vanished under pile upon pile of folded clothes, towels, and bedding.

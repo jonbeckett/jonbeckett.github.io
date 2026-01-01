@@ -2,7 +2,8 @@
 layout: single
 title: "Tuesday Night Hotel Adventure"
 date: 2017-06-26
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I signed out of the far flung building I occupied the 5th floor of at 6pm this evening and trudged back to my temporary residence through the puddles brought about by overnight rain. After negotiating a seemingly never-ending sequence of road-crossings, I made it back to my hotel, checked in, threw off my clothes, and debated where I might get something to eat.

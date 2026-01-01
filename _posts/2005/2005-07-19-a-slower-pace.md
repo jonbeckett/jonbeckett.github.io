@@ -2,7 +2,8 @@
 layout: single
 title: "A Slower Pace"
 date: 2005-07-19
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Today finds me relaxing into a slower pace of work than I have been used to recently. It's nice - I get time to think about what I'm doing rather than just react all the time. It also means I can write entries in this blog during breaks.

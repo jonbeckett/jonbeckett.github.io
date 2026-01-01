@@ -2,7 +2,8 @@
 layout: single
 title: "The Early Hours Of The Morning"
 date: 2020-04-09
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's just gone 1am in the morning. I'm sitting in the junk room, and was about to go to bed, but then thought 'I haven't posted to the blog yet!', so here are some words.

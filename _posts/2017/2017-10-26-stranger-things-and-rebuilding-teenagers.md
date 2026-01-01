@@ -2,7 +2,8 @@
 layout: single
 title: "Stranger Things And Rebuilding Teenagers"
 date: 2017-10-26
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Tonight is pizza night, and Stranger Things 2 has been released on Netflix. That solves what I'll be watching throughout the weekend. I may stop on my way home to buy some snacks for both myself and Miss 17. We watched the first season together, so it's kind of become "our thing".

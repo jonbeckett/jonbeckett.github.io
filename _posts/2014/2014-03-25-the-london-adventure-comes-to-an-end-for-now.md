@@ -2,7 +2,8 @@
 layout: single
 title: "The London Adventure Comes To An End For Now"
 date: 2014-03-25
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I think the universe realised that the London public transport infrastructure had given me far too easy a ride for the last few months, and spun the bottle this morningmy final day commuting to Victoria.

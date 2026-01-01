@@ -2,7 +2,8 @@
 layout: single
 title: "Outrage On The Underground"
 date: 2008-09-16
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I nearly spoke out on the Underground beneath London today.

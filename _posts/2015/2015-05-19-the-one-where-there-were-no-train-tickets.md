@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where There Were No Train Tickets"
 date: 2015-05-19
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I arrived at the train station at 7:10am, a few minutes before the train departed towards London, in plenty of time to purchase a train ticket. A large, portly man was standing half-way along the train carriage wearing what looked like a black uniform - only he had no ticket machine, so I presumed he must just be somebody on the train.

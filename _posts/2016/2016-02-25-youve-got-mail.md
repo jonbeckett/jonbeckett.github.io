@@ -2,7 +2,8 @@
 layout: single
 title: "Youve Got Mail"
 date: 2016-02-25
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It's Thursday night, my other half has gone to visit friends, the children are in bed, and I just spent longer than might feasibly be imagined choosing a movie to watch in the lounge on my own. After nearly choosing the latest James Bond movie, and searching for several movies that were unavailable via any of the means we have to stream them down from the magical clouds above, I ended up going with an old friend.

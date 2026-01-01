@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday Morning 1015"
 date: 2013-01-05
-categories: "2013"
+categories:
+  - 2013
 ---
 
 It's Saturday morning, and Miss Twelve is at football practice accompanied by W - who is no doubt huddled at the side of the pitch with her Kindle. I went to the last practice before Christmas and somehow ended up stood next to another soccer Mom, and we talked non stop for two hours. This is unusual because I normally try to avoid talking to anybody, be that at school, the football pitch, the rugby pitch, or even while buying groceries.

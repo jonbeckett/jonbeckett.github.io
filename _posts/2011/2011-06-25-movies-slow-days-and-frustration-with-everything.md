@@ -2,7 +2,8 @@
 layout: single
 title: "Movies Slow Days And Frustration With Everything"
 date: 2011-06-25
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Do you ever watch an entire day vanish in front of your eyes, and become frustrated because you know it's the weekend, there's only one day of it left, you're not getting to do anything you would really like to, and you know you're not going to get to do anything you want to anyway ?That's the kind of day I'm having.

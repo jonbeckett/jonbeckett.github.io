@@ -2,7 +2,8 @@
 layout: single
 title: "Surrounded By Mayhem"
 date: 2011-08-02
-categories: "2011"
+categories:
+  - 2011
 ---
 
 After leaving work an hour early so my other half could escape to a chiropractor appointment, I walked in the door to a kitchen to clean up, washing up to do, a lounge to clear up, and half the kids in the street running from room to room.

@@ -2,7 +2,8 @@
 layout: single
 title: "Swimming Backwards"
 date: 2004-02-05
-categories: "2004"
+categories:
+  - 2004
 ---
 
 I feel like I'm swimming backwards at the moment. There are so many things I want to be getting on with (such as the CMS content management system project that's been stalled forever, and multiBlog, which hasn't even got past the start line... and then of course I would love to write a document management system with PHP and MySQL, but the chances of ever having time to do that are remarkably slim...

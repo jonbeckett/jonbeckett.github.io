@@ -2,7 +2,8 @@
 layout: single
 title: "Tuesday Starts Famously"
 date: 2007-10-16
-categories: "2007"
+categories:
+  - 2007
 ---
 
 This morning evolved in the same manner as slow motion film of a car crash. You could see exactly what was going to happen, and there was very little that could be done to stop it (or me). Of course I had it in my power to change the unfolding events, but didn't - due to the somewhat ridiculous built-in notion of "not letting people down".

@@ -2,7 +2,8 @@
 layout: single
 title: "The Instagram Purge"
 date: 2014-12-19
-categories: "2014"
+categories:
+  - 2014
 ---
 
 It was like a million teenagers voices screamed out, and were suddenly silenced. Please excuse me for quoting Obiwan Kenobi, but this has to be the most entertaining thing that has happened on the internet in quite some time.

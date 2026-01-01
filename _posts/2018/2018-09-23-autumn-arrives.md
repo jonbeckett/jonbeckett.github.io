@@ -2,7 +2,8 @@
 layout: single
 title: "Autumn Arrives"
 date: 2018-09-23
-categories: "2018"
+categories:
+  - 2018
 ---
 
 It's mid-morning on Monday and I'm taking a break from the mayhem for a few minutes. The day began in somewhat chaotic fashion, due to my other half picking up a bug over the weekend and calling in to work sick. We somehow managed to explode the children out of bed, and send them on their way to school - more by luck than judgement I think.

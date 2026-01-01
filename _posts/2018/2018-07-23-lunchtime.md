@@ -2,7 +2,8 @@
 layout: single
 title: "Lunchtime"
 date: 2018-07-23
-categories: "2018"
+categories:
+  - 2018
 ---
 
 It's lunchtime at work, and I'm forcing myself to take a break. On a given day I sit here for hours - sometimes not leaving the chair all day, and then wondering why my legs are stiff when I get up to go home. Of course I cycle to work, so I'm not completely unfit, but I really should do something more. Years ago, I used to go running a couple of times a week - maybe I should try and make time for it once more. It's all about forming habits really - getting into a routine.

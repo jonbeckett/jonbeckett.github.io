@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where Sunday Ate Itself"
 date: 2011-07-04
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I swear, Sunday didn't happen. I have vague recollections of it being talked about, and things might have happened, but I'm not entirely sure any more.

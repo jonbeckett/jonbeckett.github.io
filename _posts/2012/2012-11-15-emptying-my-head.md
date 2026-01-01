@@ -2,7 +2,8 @@
 layout: single
 title: "Emptying My Head"
 date: 2012-11-15
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I have the day off work today, while the school is overtaken by a polling station. I don't normally take any notice of politics, so was surprised to learn last night that the poll is not for the local council - it's for the police - to choose a new "Chief Inspector", I guess. That's probably the wrong title, but you get the idea. (postscript - its the "Police Commissioner")

@@ -2,7 +2,8 @@
 layout: single
 title: "Winter Is Coming"
 date: 2013-10-12
-categories: "2013"
+categories:
+  - 2013
 ---
 
 This post is not a homage to the houses of Baratheon, Stark, Lannister and Targaryen (although I wish it was)it is in reference to the weather changing dramatically over the last few days in England, and forecasts suddenly predicting the worst November in decades. Torrential snowfall is forecast, and freezing temperatures.

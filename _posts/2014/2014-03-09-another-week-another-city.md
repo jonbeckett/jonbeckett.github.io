@@ -2,7 +2,8 @@
 layout: single
 title: "Another Week Another City"
 date: 2014-03-09
-categories: "2014"
+categories:
+  - 2014
 ---
 
 At the time of writing, the clock is rapidly heading towards 11pm, and I'm sitting in the study at home with an empty wine glass, knowing I should probably be in bed already. I return to London tomorrow morning. The weeks feel like they are crashing into each other like the rock giants in the Hobbit at the moment.

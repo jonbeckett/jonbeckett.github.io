@@ -2,7 +2,8 @@
 layout: single
 title: "Answering The Questions"
 date: 2007-07-06
-categories: "2007"
+categories:
+  - 2007
 ---
 
 In a recent blog post ("A Social Experiment - Ask Me Anything") I asked for any questions people would like to ask me, with the promise that I would answer them in return. Here's the result;

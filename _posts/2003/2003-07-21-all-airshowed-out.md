@@ -2,7 +2,8 @@
 layout: single
 title: "All Airshowed Out"
 date: 2003-07-21
-categories: "2003"
+categories:
+  - 2003
 ---
 
 I went to Fairford "Royal International Air Tattoo" with my brother on Sunday. Apparently officionado's call it "RIAT". I think I'll call it an Airshow.

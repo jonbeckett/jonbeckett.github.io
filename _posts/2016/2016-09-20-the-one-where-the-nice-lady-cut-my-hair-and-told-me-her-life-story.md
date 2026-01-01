@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Nice Lady Cut My Hair And Told Me Her Life Story"
 date: 2016-09-20
-categories: "2016"
+categories:
+  - 2016
 ---
 
 After finishing work a little early this evening to make a call, I decided to do something about the unruly mop of hair growing out of the top of my head. After a cursory search on Google Mapsfor local places that might assist with removal of said mop, I set out on foot towards the nearest town.

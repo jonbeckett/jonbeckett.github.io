@@ -2,7 +2,8 @@
 layout: single
 title: "Building Something Insanely Great"
 date: 2008-09-19
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I have been doing a little freelance work recently, and have been wondering about ploughing some of the money earned back into a new website. The obvious question therefore is what to build.

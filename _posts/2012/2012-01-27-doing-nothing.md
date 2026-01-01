@@ -2,7 +2,8 @@
 layout: single
 title: "Doing Nothing"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I overslept this morning. I had been planning on getting up not long after the children to hopefully deflect them somewhat from my parents. I appeared downstairs at 9, ready to make apologies and discovered the kids had already made and eaten their own breakfast, and my Dad busy making toast. Panic over. After a trip up the garden in my wellies to let the chickens out, we settled into a "do nothing" day.

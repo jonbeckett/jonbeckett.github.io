@@ -2,7 +2,8 @@
 layout: single
 title: "Spread Thinly"
 date: 2022-06-16
-categories: "2022"
+categories:
+  - 2022
 ---
 
 How is it Thursday already? Where do the days go? It feels like my feet haven't touched the ground all week. Take today as an example - somehow I've filled and emptied the dishwasher, thrown three loads of clothes through the washing machine and hung them out to dry, sprayed the bedroom, stairs, and living room with flea spray (never get cats), hoovered all over, picked up after everybody, AND got on with work.

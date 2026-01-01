@@ -2,7 +2,8 @@
 layout: single
 title: "Homeschooling"
 date: 2020-04-20
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I have the day off work today. Rather than sit in the study on my own all day, I'm at the dining table with my daughters, who are pretending to do school work. I'm not entirely sure if I'm keeping an eye on them, or if I'm keeping them company.

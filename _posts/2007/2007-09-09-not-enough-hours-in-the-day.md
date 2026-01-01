@@ -2,7 +2,8 @@
 layout: single
 title: "Not Enough Hours In The Day"
 date: 2007-09-09
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Do you ever wonder where your weekend goes?

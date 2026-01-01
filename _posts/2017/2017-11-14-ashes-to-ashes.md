@@ -2,7 +2,8 @@
 layout: single
 title: "Ashes To Ashes"
 date: 2017-11-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Today has been a day for reflection. A day to get through. A difficult day. Today an old friend was buried.

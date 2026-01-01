@@ -2,7 +2,8 @@
 layout: single
 title: "A Family Wedding"
 date: 2021-08-16
-categories: "2021"
+categories:
+  - 2021
 ---
 
 Yes, I know I haven't written anything here for an ENTIRE WEEK! Life gets in the way sometimes. Or perhaps this is the new normal - a few words each week, rather than a never-ending stream of consciousness.

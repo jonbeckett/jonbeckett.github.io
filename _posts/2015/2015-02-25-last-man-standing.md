@@ -2,7 +2,8 @@
 layout: single
 title: "Last Man Standing"
 date: 2015-02-25
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While walking through Selkirk this morning in the bright sunshine, I passed an imposing statue and stopped to take a photo with my phone. While framing the shot (and trying to avoid an old man wrapped up like an eskimo who appeared to have no other purpose than to stand in the middle of the footpath), another older gentleman approached, walking his dog.

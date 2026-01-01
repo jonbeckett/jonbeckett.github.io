@@ -2,7 +2,8 @@
 layout: single
 title: "I Have Nothing To Do"
 date: 2015-04-09
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I still feel like crap - just in case you haven't been reading, I've had the flu for the last week - and am about to go home a little early. I'm half watching a long-running process on a client's server do it's magic, before deciding if enough is enough, and running away.

@@ -2,7 +2,8 @@
 layout: single
 title: "A Letter To Myself At 20"
 date: 2011-02-09
-categories: "2011"
+categories:
+  - 2011
 ---
 
 This letter has travelled 17 years into the past to find your hands. You are single, you live with your parents, you have just left college, and you are working for the family business. You're not going to believe what I have to tell you.

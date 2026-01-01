@@ -2,7 +2,8 @@
 layout: single
 title: "All Good Things Come To An End Vox Is Closing Down"
 date: 2010-09-13
-categories: "2010"
+categories:
+  - 2010
 ---
 
 All good things come to an end. Six Apart is closing down theVox website - Leo and Amber atNet@Night are speculating thatPosterous andTumblr were the harbingers of doom.

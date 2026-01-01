@@ -2,7 +2,8 @@
 layout: single
 title: "Absolutely Knackered"
 date: 2006-02-02
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I think I might be experiencing what some people call "burnout".

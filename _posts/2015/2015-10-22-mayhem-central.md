@@ -2,7 +2,8 @@
 layout: single
 title: "Mayhem Central"
 date: 2015-10-22
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's 10:30pm and this is the first time I have had a chance to really sit down today and do anything of consequence. Work was disrupted mid-day by a visit to the school our youngest will (hopefully) attend next September - more on that in a moment - and then this evening I ferried our middle girl to her school disco and back.

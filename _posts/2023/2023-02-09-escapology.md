@@ -2,7 +2,8 @@
 layout: single
 title: "Escapology"
 date: 2023-02-09
-categories: "2023"
+categories:
+  - 2023
 ---
 
 The clock is ticking relentlessly towards 1am. I'm sitting in the dark of the junk room, writing something rather than nothing after missing several days in a row. I often struggle with the idea that nothing might be something, depending on your perspective. I often feel I have little to share.

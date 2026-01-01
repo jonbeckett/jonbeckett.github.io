@@ -2,7 +2,8 @@
 layout: single
 title: "If We Were Meeting For Coffee Right Now"
 date: 2017-11-08
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Although I seem to have missed a few of the WordPress Blogging University "Every Day Inspiration" prompts over the last few days, I am doing them as and when I can. Yes, there is an OCD part of my brain screaming "BUT YOU MISSED SOME!" - I'm trying to ignore it (if you see a rash of posts from me later today, at least you'll know what happened).

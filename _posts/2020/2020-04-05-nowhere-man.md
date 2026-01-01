@@ -2,7 +2,8 @@
 layout: single
 title: "Nowhere Man"
 date: 2020-04-05
-categories: "2020"
+categories:
+  - 2020
 ---
 
 For the first four months of the year I continued writing almost daily blog posts, but I didn't post them anywhere they might typically be found. I had grown wary of the temptation to chase statistics - to 'play the game' - and worried that doing so would impact the words I was sharing. I created a somewhat reclusive platform for myself, and stayed the hell away from almost everybody.

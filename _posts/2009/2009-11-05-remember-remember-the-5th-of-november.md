@@ -2,7 +2,8 @@
 layout: single
 title: "Remember Remember The 5Th Of November"
 date: 2009-11-05
-categories: "2009"
+categories:
+  - 2009
 ---
 
 For generations (the last 400 years in fact), English families have taught the rhyme to their children "Remember, Remember, the 5th of November". The rest of the world has little or no idea that this marker in history exists, and given that I know many people from far flung places read my blog, I thought perhaps a post about this was timely.

@@ -2,7 +2,8 @@
 layout: single
 title: "Jumpers For Goalposts"
 date: 2014-12-07
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Our youngest took part in her second ever competitive football match this morning. We knew late last week that she had been picked to play, but it didn't make getting out of bed early on a Sunday any easier. It also didn't make "not going to rugby" any easier for her sisterwho experienced payback for the first timestanding on the touchline watching as her sisters have done countless times before.

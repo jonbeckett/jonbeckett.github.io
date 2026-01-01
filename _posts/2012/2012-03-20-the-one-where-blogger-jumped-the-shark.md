@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where Blogger Jumped The Shark"
 date: 2012-03-20
-categories: "2012"
+categories:
+  - 2012
 ---
 
 After several hours monkeying with assorted python scripts and megabytes of XML a few weeks ago, I succeeded in pulling the full archive of all the blog posts I had ever written into Blogger, along with several thousand of the comments. There were a few things Blogger didn't do too well, but overall I was happy to have settled on a stable platform to house my writing going forwards. Blogger had been around for years, had never changed much, and now had the backing of Google. I trusted them.

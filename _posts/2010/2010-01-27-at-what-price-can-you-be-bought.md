@@ -2,7 +2,8 @@
 layout: single
 title: "At What Price Can You Be Bought "
 date: 2010-01-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While listening to a podcast last week, an interesting subject came up. Unfortunately I was running between trains at the time, so all I managed to do was bash a note into my phone"this would make a really great blog post".

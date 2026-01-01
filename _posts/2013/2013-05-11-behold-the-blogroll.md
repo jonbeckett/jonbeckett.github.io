@@ -2,7 +2,8 @@
 layout: single
 title: "Behold The Blogroll"
 date: 2013-05-11
-categories: "2013"
+categories:
+  - 2013
 ---
 
 In spite of original thoughts to keep this place bare bones, simple, and minimalist, I'm slowly adding, extending, and growing it's virtual tentacles. It's not quite a kraken yet - more a five legged mini octopus. I never was good at analogies.

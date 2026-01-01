@@ -2,7 +2,8 @@
 layout: single
 title: "Recommitting To Unblogging"
 date: 2015-06-11
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Wow, the title of this post has lots of double letters in it. It sounded better in my head than it does written down. Anyway. Some time ago I wrote a post called "Unblogging", railing against the commercialisation of bloggingabout the packaging and marketing of blogs -personalblogs in particular.

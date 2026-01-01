@@ -2,7 +2,8 @@
 layout: single
 title: "This And That"
 date: 2021-01-02
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I'm sitting at the desk in the junk room, listening to Sarah Bareilles. She has become a favourite for the quiet moments. It's Saturday afternoon - with one day left until I return to work. I'm quietly reading, writing, and noodling around the internet in search of rabbit holes.

@@ -2,7 +2,8 @@
 layout: single
 title: "Memories of California"
 date: 2024-01-14
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Life conspired somewhat yesterday - causing me to miss a day of the Bloganuary writing prompts. I've just carved out half-an-hour amid the usual weekend mayhem to recover a little ground.

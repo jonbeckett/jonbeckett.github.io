@@ -2,7 +2,8 @@
 layout: single
 title: "The Inverse Law Of Usenet Bandwidth"
 date: 2008-04-23
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While eating my lunch, I began wondering - as you do - who the person was that first came up with the term "weblog". A baguette and a chocolate bar later, and following a visit to Wikipedia, I have been informed (or as informed as you can be by an encyclopedia written by anybody and everybody).

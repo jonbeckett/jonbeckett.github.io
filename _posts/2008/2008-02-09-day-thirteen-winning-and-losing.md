@@ -2,7 +2,8 @@
 layout: single
 title: "Day Thirteen Winning And Losing"
 date: 2008-02-09
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Today was a very up and down day. Highs and lows.

@@ -2,7 +2,8 @@
 layout: single
 title: "The World Slows Down"
 date: 2011-06-09
-categories: "2011"
+categories:
+  - 2011
 ---
 
 It's Thursday, it's lunchtime, and the world is finally slowing down a little for me. Lunchtime is my own once more, and affords the opportunity to write, and to catch up with friends.

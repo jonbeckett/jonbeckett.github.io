@@ -2,7 +2,8 @@
 layout: single
 title: "One More Thing"
 date: 2011-07-04
-categories: "2011"
+categories:
+  - 2011
 ---
 
 When I left the house to take the kids to the playpark yesterday morning, I spent my first few minutes in the park picking up the remains of an entire case of beer bottles, and an entire case of beer cans, that were littered around the park, and the children's playground.

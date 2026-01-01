@@ -2,7 +2,8 @@
 layout: single
 title: "Busy Doing Nothing I Want"
 date: 2004-10-25
-categories: "2004"
+categories:
+  - 2004
 ---
 
 It's Monday morning, and I've gone the whole weekend without posting to my blog (yet again).

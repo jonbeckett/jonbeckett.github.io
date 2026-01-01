@@ -2,7 +2,8 @@
 layout: single
 title: "Quiet Sunday"
 date: 2007-01-07
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Next week will find me joining the daily commute to and from London, so I am trying to use today productively - relaxing.

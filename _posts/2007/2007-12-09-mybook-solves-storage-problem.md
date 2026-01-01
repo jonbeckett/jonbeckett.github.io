@@ -2,7 +2,8 @@
 layout: single
 title: "Mybook Solves Storage Problem"
 date: 2007-12-09
-categories: "2007"
+categories:
+  - 2007
 ---
 
 The nice man from the post office arrived at our door yesterday carrying a parcel from Amazon. Unwrapping it revealed the Western Digital "MyBook" we bought last week.

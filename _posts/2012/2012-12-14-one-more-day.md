@@ -2,7 +2,8 @@
 layout: single
 title: "One More Day"
 date: 2012-12-14
-categories: "2012"
+categories:
+  - 2012
 ---
 
 One more morning of getting up before the sun rises. One more day watching a seemingly endless round of lectures.

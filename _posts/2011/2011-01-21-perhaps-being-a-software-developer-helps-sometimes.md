@@ -2,7 +2,8 @@
 layout: single
 title: "Perhaps Being A Software Developer Helps Sometimes"
 date: 2011-01-21
-categories: "2011"
+categories:
+  - 2011
 ---
 
 awwhellnah:

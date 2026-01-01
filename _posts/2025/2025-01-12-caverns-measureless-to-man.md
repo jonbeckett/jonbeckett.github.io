@@ -3,7 +3,7 @@ layout: single
 title: "Caverns Measureless to Man"
 date: 2025-01-12
 categories:
-  - "2025"
+  - 2025
 ---
 
 Over the course of this weekend - for no other reason than to satisfy an unending curiosity, I have re-created a simulacrum of a computing platform I last saw perhaps thirty five years ago.

@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where My Mobile Phone Bricked Itself"
 date: 2011-03-02
-categories: "2011"
+categories:
+  - 2011
 ---
 
 While the "Welcome to O2" screen is quite pretty, I actually expect a lot more from my mobile phone than being a glorified torch. The title of the post has already given the story away. That shiny new HTC Desire phone I was going on about endlessly a few days ago? As of about 6pm this evening it's brain dead. An "over the air" update from Google destroyed it.

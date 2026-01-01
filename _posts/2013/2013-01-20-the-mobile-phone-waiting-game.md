@@ -2,7 +2,8 @@
 layout: single
 title: "The Mobile Phone Waiting Game"
 date: 2013-01-20
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I nearly caved this weekend. The contract is up on my old mobile, and I'm finally able to upgrade.

@@ -2,7 +2,8 @@
 layout: single
 title: "Royal Wedding Mania Descends"
 date: 2011-04-25
-categories: "2011"
+categories:
+  - 2011
 ---
 
 It's all kicking off finally. In a few days time Prince William will be marrying Catherine Middleton. To not know this, you would have to have been buried under a rock for the last couple of years. Television over the easter weekend has been jam-packed with every movie involving princes, princesses, and/or weddings available. The newspapers are regurgitating any and all news they can find from each other (kind of a recursive game of chinese whispers).

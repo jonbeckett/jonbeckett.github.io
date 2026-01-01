@@ -2,7 +2,8 @@
 layout: single
 title: "The Eternal Optimist"
 date: 2013-12-26
-categories: "2013"
+categories:
+  - 2013
 ---
 
 While talking to my other half over a drink late last night, we joked about my optimistic outlook oneverything. At the time we were only joking, but when I thought about it later, I realised it's kind of true.

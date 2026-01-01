@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Night"
 date: 2021-01-17
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It just occurred to me that I should write something on the blog. Somehow I've fallen away from writing nearly every day, to writing every few days. Perhaps the promise I made to myself to read books, watch movies, and spend time with my family is working.

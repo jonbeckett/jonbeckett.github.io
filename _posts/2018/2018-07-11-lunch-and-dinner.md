@@ -2,7 +2,8 @@
 layout: single
 title: "Lunch And Dinner"
 date: 2018-07-11
-categories: "2018"
+categories:
+  - 2018
 ---
 
 The alarm on my work phone woke me with a start at 6am this morning, right in the middle of a dream that seemed significant at the time, but is now completely forgotten. I stared at the wall for five or ten minutes before finally scraping myself out of bed, and stumbling off in the direction of the shower.

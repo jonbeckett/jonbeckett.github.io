@@ -2,7 +2,8 @@
 layout: single
 title: "Tired Sunburned But Happy"
 date: 2011-07-03
-categories: "2011"
+categories:
+  - 2011
 ---
 
 After going out on the town last night for the first time in months, I woke up this morning feeling distinctly second hand. I'm not entirely sure how much I had to drink, but one thing's for sureI can't drink anything like as much as I used to be able to. I'm not so sure it's a function of getting older eitherit's just that I don't drink much any more.

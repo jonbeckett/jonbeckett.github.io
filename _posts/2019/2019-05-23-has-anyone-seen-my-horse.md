@@ -2,7 +2,8 @@
 layout: single
 title: "Has Anyone Seen My Horse "
 date: 2019-05-23
-categories: "2019"
+categories:
+  - 2019
 ---
 
 We're heading towards a month since I was last "well", and I'm only too aware that I'm starting to sound like a scratched record. I'm certain my co-workers are already fed up of the guy sitting in the corner of the office coughing, sneezing, and blowing his nose all day, every day.

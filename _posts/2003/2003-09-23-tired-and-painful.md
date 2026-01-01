@@ -2,7 +2,8 @@
 layout: single
 title: "Tired And Painful"
 date: 2003-09-23
-categories: "2003"
+categories:
+  - 2003
 ---
 
 This morning I got out of the shower, got dressed and was busy wandering around the house finding stuff for work (as you do), when suddenly my neck stiffened up. I have no idea why.

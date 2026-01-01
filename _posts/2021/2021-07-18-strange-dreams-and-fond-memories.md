@@ -2,7 +2,8 @@
 layout: single
 title: "Strange Dreams And Fond Memories"
 date: 2021-07-18
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I dreamed last night that I worked at an office a few miles from home that I cycled to. The route took me over a bridge - the only one for miles - and that bridge was closed for some reason. It may have even been removed. In the strange way that dreams dissolve hour by hour, the minor details have already gone.

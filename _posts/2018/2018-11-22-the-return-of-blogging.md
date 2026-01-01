@@ -2,7 +2,8 @@
 layout: single
 title: "The Return Of Blogging"
 date: 2018-11-22
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Do you ever have the sense that something around you is different - that something has changed? Over the last few days I have become increasingly aware that something is going on - that a cog somewhere in the machine that surrounds us has turned.

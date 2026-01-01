@@ -2,7 +2,8 @@
 layout: single
 title: "My Life In Their Hands"
 date: 2015-11-17
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I really need a camera on my bike helmet. Some of the things I see on the road every day beggar belief. This morning I was in a queue of cars approaching a t-junction, and a car was waiting on the opposite side of the road to turn through the queue of cars.

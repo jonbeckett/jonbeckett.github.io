@@ -2,7 +2,8 @@
 layout: single
 title: "Ran The Marlow 5"
 date: 2005-05-08
-categories: "2005"
+categories:
+  - 2005
 ---
 
 It's 3pm now on Sunday, and I have just finished watching the Spanish F1 Grand Prix. Michael Schumacher's Ferrari didn't finish the race because it ate it's tyres (or, more correctly, the idiot driver pushed the car way too hard on tyres that were already cooked). Myself and my father-in-law cheered with gusto as events unfolded. It's also a shot in the eye for the FIA who banned BAR this week in an obvious attempt to give Ferrari more of a chance.

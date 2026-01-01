@@ -2,7 +2,8 @@
 layout: single
 title: "Cruelty To Animals On Television"
 date: 2005-07-27
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I've just read something that has really upset me and made me incredibly angry.

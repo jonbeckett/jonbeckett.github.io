@@ -2,7 +2,8 @@
 layout: single
 title: "Back To Work"
 date: 2015-09-25
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I'm back in the office today, and trying to keep out of mischief. My task list had two things on it - both of which were complete before lunchtime. Now I'm trying to avoid writing any code because my head is just notin the right place today.

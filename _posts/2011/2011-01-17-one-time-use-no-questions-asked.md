@@ -2,7 +2,8 @@
 layout: single
 title: "One Time Use No Questions Asked"
 date: 2011-01-17
-categories: "2011"
+categories:
+  - 2011
 ---
 
 A friend of mine on the other side of the planet introduced me to a novel idea some years ago. Let me explain:

@@ -2,7 +2,8 @@
 layout: single
 title: "War Of The Ring"
 date: 2006-04-17
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Last year W bought be the "War of the Ring" board game, based on the "Lord of the Rings" books by J.

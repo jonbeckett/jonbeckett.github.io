@@ -2,7 +2,8 @@
 layout: single
 title: "Happy New Year"
 date: 2015-01-01
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's January 1st, 2015. I'm sitting at the dining table in my parents house in Cornwall, accompanied by an empty coffee cup. The younger children are in the shower together - their raised voices drift along the hallway from time to time - shouting, laughing. I have to retrieve them in a few minutes before they use all of the hot water. Our eldest is still fast asleep in bed - her body clock running on "teenage time" (loosely translated as staying up until midnight, and not scraping herself out of bed until lunchtime). My other half is hiding in the bedroom, trying to avoid the world for another hour or so. The movie "Over the Hedge" is playing on the TV in the lounge - nobody is watching it.

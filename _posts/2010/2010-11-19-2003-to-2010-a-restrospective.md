@@ -2,7 +2,8 @@
 layout: single
 title: "2003 To 2010 A Restrospective"
 date: 2010-11-19
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Given the discovery of the earliest days of my blogging exploits last night, I thought it might be fun to skim the archives, and pull back a post from each year that highlights an aspect or two of my life over the last eight (eightyears.

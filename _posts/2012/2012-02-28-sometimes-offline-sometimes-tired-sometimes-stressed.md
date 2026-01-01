@@ -2,7 +2,8 @@
 layout: single
 title: "Sometimes Offline Sometimes Tired Sometimes Stressed"
 date: 2012-02-28
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I seem to be making a habit of writing at the "wrong end of the day" (or at least, it's the wrong end of the day if you take any notice of the "Artists Way" book that the 750 words website eschews as the font of all creativity knowledge and wisdom). I have no idea what a head emptying in the early evening means in terms of your outlook, but I can speculate.

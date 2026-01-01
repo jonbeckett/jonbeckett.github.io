@@ -2,7 +2,8 @@
 layout: single
 title: "When Will The Day End"
 date: 2008-05-03
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Here's what's happened and/or what I've been up to so far today, in some kind of chronological order.

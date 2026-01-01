@@ -2,7 +2,8 @@
 layout: single
 title: "Stationary"
 date: 2010-09-12
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I wonder if there is an official term for somebody who can't walk past a stationary shop without at least having a look ?

@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Fought Imaginary Fires For 12 Hours"
 date: 2014-04-01
-categories: "2014"
+categories:
+  - 2014
 ---
 
 In a somewhat fortuitous turn of events I chose to work from home today. Fortune favoured me not because I had the motive, and opportunity to purchase and consume an entire packet of caramel chocolate digestive biscuits (I really did!), but because it turns out I needed the fast internet connection at home.

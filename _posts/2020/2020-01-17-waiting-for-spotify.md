@@ -2,7 +2,8 @@
 layout: single
 title: "Waiting For Spotify"
 date: 2020-01-17
-categories: "2020"
+categories:
+  - 2020
 ---
 
 There's an old saying that warns about putting the cart before the horse. It sounds like just the sort of saying I might completely ignore - in fact I have completely ignored it.

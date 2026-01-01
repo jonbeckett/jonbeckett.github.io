@@ -2,7 +2,8 @@
 layout: single
 title: "Tumblr Community Unexpectedly Awesome"
 date: 2011-01-06
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Although I've been a member of Tumblr since it was still in beta, I have only really immersed myself in the community recently. I think I first heard about it in one of Leo Laporte's TWiT podcasts back in 2007 - I'm not sure if Amber MacArthur reported on it going live, or if David Karp went on the show to talk about it.

@@ -2,7 +2,8 @@
 layout: single
 title: "Walking To Town In The Dark"
 date: 2015-10-30
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I wandered into the living room a little earlier this evening, and found my better half sitting alone half watching NCIS. The kids had gone to bed an hour before, and the house was strangely quiet."Can I get you anything?""Don't know""Cup of tea?""Don't know""Glass of wine?""We haven't got any""But we could have some if you want a glass."She looked up at me, brow furrowedand that's how, a few minutes later, I found myself walking the mile or so into town in the dark. I had picked up the earphones on the way out of the house, and chose a podcast to listen to as I walked. Andy Ihnatko and Dan Benjamin filled my ears with stories about nothing in particulara subject they're pretty good atand before I knew it the lights and sounds of the town approached.

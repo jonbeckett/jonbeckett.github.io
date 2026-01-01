@@ -2,7 +2,8 @@
 layout: single
 title: "Resisting Temptation"
 date: 2016-01-03
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Over the past several months I have closed accounts at LiveJournal, WordPress, and Tumblrwith the end goal being simplicityone place to write onlineone place to share my thoughts. It turns out staying away is more difficult than leaving.

@@ -2,7 +2,8 @@
 layout: single
 title: "Everything Changes"
 date: 2017-11-26
-categories: "2017"
+categories:
+  - 2017
 ---
 
 David Karp is leaving Tumblr. It feels strange, finally seeing the various valley blogs breathlessly posting the news out to the internet - describing how he founded the blogging platform back in 2007, and changed the web.

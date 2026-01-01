@@ -2,7 +2,8 @@
 layout: single
 title: "Its Not Their Fault They Do Not Know The Birdsong From The Radio"
 date: 2011-03-01
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I awoke biefly at about 5:30 this morning, and found myself listening to something I've not heard so early in the morning for months.

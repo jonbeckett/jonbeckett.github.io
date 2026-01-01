@@ -2,7 +2,8 @@
 layout: single
 title: "You Cant Make This Crap Up"
 date: 2015-04-27
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I came home from work early today, to pack my bag ready to travel this evening. After doing so, our eldest daughter arrived home, and wondered out-loud who was picking the younger children up from school. Which caused me to wonder, because I hadn't been in on the conversations at all.

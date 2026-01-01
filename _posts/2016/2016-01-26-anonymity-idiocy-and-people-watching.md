@@ -2,7 +2,8 @@
 layout: single
 title: "Anonymity Idiocy And People Watching"
 date: 2016-01-26
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Today was only interesting in that I managed to navigate the vagueries of the Great Western Railway, the London Underground, two different Starbucks coffee houses, and somehow managed to not really interact with anybody at all apart from asking the man on the train this morning for a "return to Paddington, please", and the serving staff in the coffee shops "Grande Cappuccino please". I thought it strange that the train conductor asked "is that all?", but didn't think about it at the time.

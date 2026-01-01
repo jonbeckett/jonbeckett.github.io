@@ -2,7 +2,8 @@
 layout: single
 title: "On Any Sunday"
 date: 2008-10-05
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I'm not really sure why I titled this post "On Any Sunday" - especially given it's provenance as the title of a famous movie starry Steve McQueen about Motocross.

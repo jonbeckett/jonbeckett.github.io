@@ -2,7 +2,8 @@
 layout: single
 title: "A Very Quiet Weekend"
 date: 2024-04-07
-categories: "2024"
+categories:
+  - 2024
 ---
 
 After being invited out for dinner on Friday night, I found myself caught between a rock and a hard place. While I love spending time with friends, I haven't spent much time with my children recently - and after my eldest daughter asked what I was doing that evening, it really wasn't a decision at all. As your kids get older, the times they want to spend time with you become increasingly rare.

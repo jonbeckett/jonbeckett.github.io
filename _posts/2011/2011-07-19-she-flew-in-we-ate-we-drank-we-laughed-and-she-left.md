@@ -2,7 +2,8 @@
 layout: single
 title: "She Flew In We Ate We Drank We Laughed And She Left"
 date: 2011-07-19
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I can't quite believe it's been so long since I last wrote a blog post. I'm note quite sure what might be most to blame; life, social network distractions (yes Google+, I'm looking in your direction), or a colossal attack of apathy.

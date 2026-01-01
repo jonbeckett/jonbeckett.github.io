@@ -3,7 +3,7 @@ layout: single
 title: "Christmas Day"
 date: 2025-12-25
 categories:
-  - "2025"
+  - 2025
 ---
 
 Somehow we’ve made it through Christmas in one piece.

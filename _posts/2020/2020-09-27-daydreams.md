@@ -2,7 +2,8 @@
 layout: single
 title: "Daydreams"
 date: 2020-09-27
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's Sunday evening. The end of four days respite from work, and a return to relative normality in the morning. I will admit to having looked in quite some detail at Automattic hiring processes over the weekend. I doesn't mean I'm going to apply any time soon - just that I found myself reading about other people's experiences.

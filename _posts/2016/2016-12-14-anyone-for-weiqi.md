@@ -2,7 +2,8 @@
 layout: single
 title: "Anyone For Weiqi "
 date: 2016-12-14
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Our eldest daughter is being taught Japanese at the school she visits twice a week, I think mainly because an insightful teacher realised it would be an "in" with her, after a conversation about Manga and Anime.

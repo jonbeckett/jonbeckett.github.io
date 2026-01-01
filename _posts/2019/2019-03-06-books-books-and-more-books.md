@@ -2,7 +2,8 @@
 layout: single
 title: "Books Books And More Books"
 date: 2019-03-06
-categories: "2019"
+categories:
+  - 2019
 ---
 
 My brother-in-law gave me an Amazon token for my birthday last weekend. After spending quite some time perusing the internet behemoth's online store, I ended up looking at books. I was given a Kindle for my birthday a couple of years ago, but have rarely used it - I tend to prefer paper books even though they are heavier, and take up more space in my bag. There's something about holding a real book though - about the smell of books - and about spending time in second hand book shops (quite possibly my favourite places in the world).Anyway. I bought some books for my Kindle, and thought I might share them with whoever might be interested.

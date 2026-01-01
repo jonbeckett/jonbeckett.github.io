@@ -2,7 +2,8 @@
 layout: single
 title: "People Watching"
 date: 2015-04-28
-categories: "2015"
+categories:
+  - 2015
 ---
 
 At home the evening is pretty much mapped out from the moment I walk in the door - clear the kitchen ready to make dinner, sometimes make dinner, set the table, herd the children to the dinner table, catch up with what everybody else has been doing while eating, clear the plates, wash up, help with homework if needed, put a load of washing in the machine if it's not already running, get the children off to bed, and finally collapse at about 9pm.

@@ -3,7 +3,7 @@ layout: single
 title: "One computer to rule them all"
 date: 2025-10-04
 categories:
-  - "2025"
+  - 2025
 ---
 
 I’m sitting, writing this post while holed up in the junk room at home. I’m sitting in front of a desk with two monitors on it – one connected to a hulking PC that can out-perform most supercomputers, and the other connected to a svelte brushed aluminium slab – a Mac mini. Across the room my work laptop sits on a stand next to a monitor and keyboard, and behind me a Raspberry Pi 500 sits connected to yet another monitor.

@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing To See Here"
 date: 2010-01-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Nothing to see hereWhile talking with my cousin earlier, I realised a blog had not left a computer by my hand for several days. I'm not suggesting that some great wrong might occur somewhere in the universe in response to my inaction, but I don't really want to tempt fate either. Blogging is of course serious business. While the content may be of a similar quality to tabloid journalism of the late 1980s (with a certain amount of narcissistic introversion added into the mix), there is no denying that what we write on the net will follow us around for the rest of our livesor at least until we stop paying web hosting fees. I'm sat here using the white Macbook purely because a small part of my brain tells me it will encourage creativity. This is complete and utter rubbish. It's the same school of thought that encourages us to take up running after watching Chariots of Fire, with vague hopes of falling in the Olympic finals and still winning (in slow motion, with a thunderous Vangelis soundtrack no doubt). A white Macbook no more makes me a writer than my running shoes make me a runner. Crikey it's a long time since I wrote like thiswith this voice.

@@ -2,7 +2,8 @@
 layout: single
 title: "Just A Few Words"
 date: 2021-07-01
-categories: "2021"
+categories:
+  - 2021
 ---
 
 A little voice has been whispering in my ear for the last few days that I've not posted anything to the blog - so I'm doing something about it. My fingers are flashing across the keys, and letters are appearing on the screen, but I wouldn't say my brain is entirely engaged in the process.

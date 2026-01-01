@@ -2,7 +2,8 @@
 layout: single
 title: "Voyage To The Planet Of Prehistoric Women"
 date: 2011-02-08
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Astronauts landing on Venus encounter dangerous exotic creatures and almost meet some sexy Venusian women who like to sunbathe in hip-hugging skin-tight pants and seashell bras.

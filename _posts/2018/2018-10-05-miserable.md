@@ -2,7 +2,8 @@
 layout: single
 title: "Miserable"
 date: 2018-10-05
-categories: "2018"
+categories:
+  - 2018
 ---
 
 After waking to a blanket of grey skies this morning, the weather has been growing steadily worse. A fine mist of rain is now falling, painting the roads and footpaths with leaves from the trees, and filling the world with the smell of autumn.

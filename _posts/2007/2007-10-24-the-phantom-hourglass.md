@@ -2,7 +2,8 @@
 layout: single
 title: "The Phantom Hourglass"
 date: 2007-10-24
-categories: "2007"
+categories:
+  - 2007
 ---
 
 While out buying some lunch in London yesterday lunchtime I wandered into the Virgin Megastore and bought W the game she has been waiting almost 2 years for - "The Legend of Zelda - The Phantom Hourglass".

@@ -2,7 +2,8 @@
 layout: single
 title: "The Grand Tour Unlimited Budget No Ties"
 date: 2011-03-24
-categories: "2011"
+categories:
+  - 2011
 ---
 
 A friend asked me a fascinating question earlier today - if you had an unlimited budget, and no ties, where would you like to go - what destinations would you choose?

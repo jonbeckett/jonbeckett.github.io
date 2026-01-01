@@ -2,7 +2,8 @@
 layout: single
 title: "One Hell Of A Week"
 date: 2003-03-06
-categories: "2003"
+categories:
+  - 2003
 ---
 
 This week has been like walking in treacle... whatever that might feel like!?

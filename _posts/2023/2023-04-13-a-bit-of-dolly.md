@@ -2,7 +2,8 @@
 layout: single
 title: "a bit of dolly"
 date: 2023-04-13
-categories: "2023"
+categories:
+  - 2023
 ---
 
 Our youngest daughter turned 18 today. How did that happen? How did the little girl who couldn't walk so well and couldn't talk so well get to be a grown up? Of course she'll never be a grown up in my head - she'll always be the unsure little girl hiding behind my leg at the school gate.

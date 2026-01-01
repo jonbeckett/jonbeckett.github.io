@@ -2,7 +2,8 @@
 layout: single
 title: "Being A Rubbish Dad"
 date: 2009-03-05
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I was pulled up by W last night for becoming more rubbish than normal at this whole business of being a Dad. The worst part is that I already knew.

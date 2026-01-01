@@ -2,7 +2,8 @@
 layout: single
 title: "Contemplating A Return To Backpack"
 date: 2009-01-12
-categories: "2009"
+categories:
+  - 2009
 ---
 
 It's the start of a new year, and I'm thinking once more about the challenges that face me, and the methods I might use to manage them. Last year I happened upon the "GTD" (Getting Things Done) methodology, and it has served remarkably well in simplifying that which I concern myself with from day to day.

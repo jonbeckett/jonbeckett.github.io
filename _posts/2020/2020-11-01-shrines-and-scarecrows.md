@@ -2,7 +2,8 @@
 layout: single
 title: "Shrines And Scarecrows"
 date: 2020-11-01
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I took the kids out for a walk today - over the hill to a nearby village, and on through the surrounding woods to a Buddhist shrine I heard about from a friend a few days ago. Of course now I'm curious about the back-story of the shrine - who built it, when, and why.

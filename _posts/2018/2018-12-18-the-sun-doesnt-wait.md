@@ -2,7 +2,8 @@
 layout: single
 title: "The Sun Doesnt Wait"
 date: 2018-12-18
-categories: "2018"
+categories:
+  - 2018
 ---
 
 While listening to a podcast en-route to work this morning, mention was made of a saying that had stuck with the presenter for years - "the Sun doesn't wait". I've been turning it over in my head for the last hour - thinking about what it means. I have often commented that being able to keep putting one foot in front of the other has served me well over the years. Perhaps the idea that the world keeps turning - that the sun will rise tomorrow just as it did today is the reason plodding forwards works so well.

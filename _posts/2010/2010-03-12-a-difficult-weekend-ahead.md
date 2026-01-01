@@ -2,7 +2,8 @@
 layout: single
 title: "A Difficult Weekend Ahead"
 date: 2010-03-12
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Over the past few weeks we have been keeping a brave face on a rather sad story at home. Simpson, our many adventured cat, has run out of lives. What we thought was a cold didn't get better - and taking him to the vet turned into a week's stay in hospital.

@@ -2,7 +2,8 @@
 layout: single
 title: "Starting A Readers Group"
 date: 2006-02-20
-categories: "2006"
+categories:
+  - 2006
 ---
 
 You heard it here first.

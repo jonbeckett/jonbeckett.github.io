@@ -2,7 +2,8 @@
 layout: single
 title: "Late Night Shopping"
 date: 2017-12-06
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I took the photo accompanying this post while wandering back towards home this evening - after most of the streets had already emptied of the thousands that descended on town for the annual "late night shopping" extavaganza that shuts the road, and causes motorists hours of hell in the surrounding area.

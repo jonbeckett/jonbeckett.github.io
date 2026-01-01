@@ -2,7 +2,8 @@
 layout: single
 title: "Nandos G Force And Hmv"
 date: 2009-08-16
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I took two of the kids off W's hands today for a trip to the cinema. I had planned to take all three, but following little miss 5's repeated adventures during the night, we had to choose the nuclear option and take away her visit to the cinema. Her behaviour is always attention seeking, and it always feels like we come down on her harder and more often than her sisters, but she often leaves us with no choice. Leaving her behind today equated to loss of attention - and the loss of a fun day out, so hopefully something sunk in.

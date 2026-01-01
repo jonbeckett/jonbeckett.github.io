@@ -2,7 +2,8 @@
 layout: single
 title: "before the robot overlords arrive"
 date: 2023-04-18
-categories: "2023"
+categories:
+  - 2023
 ---
 
 Apparently the army of corporate professionals (read: marketers) that use LinkedIn as their personal playground to spam each other with advertorial and inspirational nonsense a think sausage machine eating itas own output a are complaining that people are starting to use LinkedIn as a a *gasp* a social network. I know. Amazing, right?

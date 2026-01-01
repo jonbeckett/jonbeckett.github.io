@@ -2,7 +2,8 @@
 layout: single
 title: "Day Out With The Kids"
 date: 2009-04-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 Over the four days of the easter break, I have taken an unfeasible number of photos of the kids this year. Here are a few of today's... (warning - crap load of photos below)

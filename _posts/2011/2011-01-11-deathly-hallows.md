@@ -2,7 +2,8 @@
 layout: single
 title: "Deathly Hallows"
 date: 2011-01-11
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I finally escaped this evening to watch the latest Harry Potter movie on the big screen, accompanied by a wonderful friend and fellow fan of the books.

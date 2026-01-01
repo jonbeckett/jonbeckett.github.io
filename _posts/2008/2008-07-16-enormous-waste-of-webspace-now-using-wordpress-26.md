@@ -2,7 +2,8 @@
 layout: single
 title: "Enormous Waste Of Webspace Now Using Wordpress 26"
 date: 2008-07-16
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Before leaving the house for my twice weekly trudge into London, I installed WordPress 2.6 on The Enormous Waste of Webspace. It's a major upgrade, and has all kinds of shiny new toys to play with.

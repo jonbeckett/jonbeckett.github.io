@@ -2,7 +2,8 @@
 layout: single
 title: "Out With Highrise In With Sugarcrm"
 date: 2008-08-18
-categories: "2008"
+categories:
+  - 2008
 ---
 
 After a month playing with Highrise from 37Signals, I started to find failings, and set about evaluating the next option in my list - SugarCRM - the open source client relationship management solution.

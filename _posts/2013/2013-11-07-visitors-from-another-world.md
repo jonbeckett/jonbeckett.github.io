@@ -2,7 +2,8 @@
 layout: single
 title: "Visitors From Another World "
 date: 2013-11-07
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Many years ago I picked up a copy of a book called "Communion" by Whitley Strieber. It told the (true) story of a series of strange episodes in his lifemany witnessed by third partiesthat many immediately presumed to be "Aliens". The entire story got wound into the abduction conspiracy theory that was prevalent in the 1990s, and eventually made into a straight-to-television movie starring Christopher Walken.

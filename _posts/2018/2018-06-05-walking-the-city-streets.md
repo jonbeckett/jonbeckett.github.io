@@ -2,7 +2,8 @@
 layout: single
 title: "Walking The City Streets"
 date: 2018-06-05
-categories: "2018"
+categories:
+  - 2018
 ---
 
 After work this evening I dropped my bag at the hotel, changed my clothes, and set out along the river to the bar I have visited for the last several nights. While sitting quietly and sipping a beer, I watched the world go by while chatting with a friend on the internet, and called home to catch up with the adventures of my children.

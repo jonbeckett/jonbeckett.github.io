@@ -2,7 +2,8 @@
 layout: single
 title: "The May Fayre"
 date: 2010-05-16
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Yesterday found us camped on the school field, running a stall for the May Fayre. Our stall (invented by my better half) consisted of throwing balls onto a target to win prizes. While you might think it was a rather pedestrian idea, when faced with the opportunity to win rubber dinosaurs, novelty pencil erasers, windmills, and all manner of other junk, we had kids turning themselves inside out to win stuff all day.

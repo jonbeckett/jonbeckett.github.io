@@ -2,7 +2,8 @@
 layout: single
 title: "Befuddled"
 date: 2006-10-09
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I started to feel a little better this afternoon, so dragged the work laptop from my bag, set it down on the desk, and tried to kickstart my head.

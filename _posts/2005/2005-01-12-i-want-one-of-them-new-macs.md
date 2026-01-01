@@ -2,7 +2,8 @@
 layout: single
 title: "I Want One Of Them New Macs"
 date: 2005-01-12
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Apple are releasing a new Mac.

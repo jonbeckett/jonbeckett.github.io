@@ -2,7 +2,8 @@
 layout: single
 title: "Junk Room Kingdom"
 date: 2020-10-25
-categories: "2020"
+categories:
+  - 2020
 ---
 
 The clock is ticking towards 1am, and I've just remembered about the blog. I suppose in some ways that reflects how much importance I find myself attaching to the blog these days. While it's sad that I'm not very invested in it any more, I suppose I should spin the positives - life is happening - not that much life given the present circumstances, but at least a little.

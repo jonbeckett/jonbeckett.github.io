@@ -2,7 +2,8 @@
 layout: single
 title: "Two days in London"
 date: 2024-05-28
-categories: "2024"
+categories:
+  - 2024
 ---
 
 This past weekend has been a first for me. A long time friend from the other side of the world - a huge Harry Potter fan and collector - made the trip to *this* side of the world - alone - to visit the Studio Tour at Leavesden - where Harry Potter was filmed.

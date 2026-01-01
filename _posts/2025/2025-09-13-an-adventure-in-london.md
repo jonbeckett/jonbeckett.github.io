@@ -3,7 +3,7 @@ layout: single
 title: "An Adventure in London"
 date: 2025-09-13
 categories:
-  - "2025"
+  - 2025
 ---
 
 After setting the alarm clock to go off at 7am this morning - affording me an hour to have a wash, get dressed, and get to the railway station, my wonderful body of course decided that 6am was a much better time to be waking up. I’m not entirely sure how it achieves this kind of feat so reliably. I wonder if it’s linked to our cats ability to start asking for food on the stroke of 3pm, and 11pm?

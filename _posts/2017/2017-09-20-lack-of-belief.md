@@ -2,7 +2,8 @@
 layout: single
 title: "Lack Of Belief"
 date: 2017-09-20
-categories: "2017"
+categories:
+  - 2017
 ---
 
 A friend challenged my apparent lack of faith earlier this evening, causing me to really think about my opposition to "faith". It's worth pointing out that I have no problem with people believing whatever they want to believe - as long as they respect my freedom not to share their belief.

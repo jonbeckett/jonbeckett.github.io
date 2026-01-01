@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing Is Something"
 date: 2020-01-03
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I cycled to work this morning, and it was raining yet again. I can't help feeling that I'm living in some kind of Truman Show inspired hell, where rain clouds follow me around. It would also explain the bizarre phenomenon where I walk up to a road junction, and non player character cars appear from every direction to prevent me from crossing - even my daughters have started to notice it.

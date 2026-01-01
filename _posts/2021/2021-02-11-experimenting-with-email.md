@@ -2,7 +2,8 @@
 layout: single
 title: "Experimenting With Email"
 date: 2021-02-11
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I breathed life back into my dormant substack account this morning. If you've not heard of Substack, it's become the darling of the resurgent fashion to publish to the internet via email newsletters.

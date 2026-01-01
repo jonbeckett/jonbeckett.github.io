@@ -2,7 +2,8 @@
 layout: single
 title: "The Anxiety Monster"
 date: 2020-09-20
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's Sunday afternoon. I wonder at what point during the afternoon and evening it becomes the end of one week, and the beginning of another? Sensible people will of course say "midnight, silly", but if your life is anything like as ridiculous as mine, you start thinking about Monday morning at some point on Sunday night - mentally preparing for the week ahead.

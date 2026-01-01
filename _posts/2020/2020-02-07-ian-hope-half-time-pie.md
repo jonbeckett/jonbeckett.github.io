@@ -2,7 +2,8 @@
 layout: single
 title: "Ian Hope Half Time Pie"
 date: 2020-02-07
-categories: "2020"
+categories:
+  - 2020
 ---
 
 wp:jetpack/markdown {"source":"This week on the podcast I talk to Ian Hope about growing up in the north of England, music, football, computers, and his blogging journey with \u0022Half Time Pie\u0022.\n\nYou can find Ian at the following locations online:\n\n* Blog - [halftimepie.co.uk](https:\/\/halftimepie.co.uk)\n* Twitter - [twitter.com\/halftimepiesite](https:\/\/twitter.com\/halftimepiesite)\n* Facebook - [facebook.com\/halftimepie](https:\/\/facebook.com\/halftimepie)\n\nClick the link below to listen to the episode:\n\n* **[#4 - Ian Hope - Half Time Pie](https:\/\/anchor.fm\/jonbeckett\/episodes\/4\u002d\u002d-Ian-Hope\u002d\u002d-Half-Time-Pie-eau6l1\/a-a1hjf37)**\n"}  This week on the podcast I talk to Ian Hope about growing up in the north of England, music, football, computers, and his blogging journey with "Half Time Pie".

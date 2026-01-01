@@ -2,7 +2,8 @@
 layout: single
 title: "I Will Mow The Next One Down"
 date: 2011-08-04
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Two days ago I was cycling home from work, and an old man walked to the edge of the road ahead of me, looked both ways, and then stepped out directly in front of me. I hit the brakes hardthe forks compressed almost all the way down, and I struggled to keep the back wheel on the floor. He didn't even glance at me. He knew damn well what he had done.

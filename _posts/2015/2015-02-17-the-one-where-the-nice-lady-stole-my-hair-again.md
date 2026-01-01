@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Nice Lady Stole My Hair Again"
 date: 2015-02-17
-categories: "2015"
+categories:
+  - 2015
 ---
 
 In the absence of anything interesting or remarkable to impart this fine Tuesday lunchtime, perhaps a mugshot of what's left of my hair will suffice. My hair had been growing increasingly unruly over the last couple of weeks, and given my reluctance to devote any time or effort into looking after it, I got it all chopped off. Again.

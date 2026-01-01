@@ -2,7 +2,8 @@
 layout: single
 title: "Fishy Fishy Fishy"
 date: 2007-12-11
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I promised to post some photos of our fish, and here they are...

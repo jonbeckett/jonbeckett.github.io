@@ -2,7 +2,8 @@
 layout: single
 title: "Sitting Down Here"
 date: 2020-02-04
-categories: "2020"
+categories:
+  - 2020
 ---
 
 While listening to the radio in the kitchen last night, "Sitting Down Here" by Lene Marlin began playing, and I've been humming it ever since. I remember the album being released - in the autumn of 1999. I'm fairly sure I ripped the album to MP3 files, and played it via a wonderful piece of software called WinAmp.

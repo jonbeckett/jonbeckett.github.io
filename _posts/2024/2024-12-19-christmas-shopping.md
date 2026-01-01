@@ -2,7 +2,8 @@
 layout: single
 title: "Christmas Shopping"
 date: 2024-12-19
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Following best laid plans last night that I never dreamed would come to fruition based upon my eldest daughter's seemingly deliberate failure to either understand time, or lever herself out of bed on a morning, we rather miraculously found ourselves standing at the bus-stop this morning at 9am.

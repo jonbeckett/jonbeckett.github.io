@@ -3,7 +3,7 @@ layout: single
 title: "Birthdays and Music"
 date: 2025-03-24
 categories:
-  - "2025"
+  - 2025
 ---
 
 Do you ever get to the end of the weekend, and wonder not only where it went, but also what you spent it doing? Last night I sat in bed, wondering exactly that - trying to piece the weekend back together in my head.

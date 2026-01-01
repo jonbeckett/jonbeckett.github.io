@@ -2,7 +2,8 @@
 layout: single
 title: "Waddesdon Manor"
 date: 2006-05-22
-categories: "2006"
+categories:
+  - 2006
 ---
 
 On Saturday we went out with some friends to visit "a National Trust place". We didn't really decide where until we arrived at their house.

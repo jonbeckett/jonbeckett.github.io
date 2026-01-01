@@ -2,7 +2,8 @@
 layout: single
 title: "Seduced By Moleskine"
 date: 2012-11-28
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I was in the local bookstore several days ago with our youngest daughtershadowing her while she expertly re-arranged a low table filled with children's books. While issuing a stream of instruction"don't pick it up like that turn the pages from the edge don't crease the pages put it back where you go it from no we're not buying any today"I spied a familiar shelf just off to one side. A shelf filled with Moleskine notebooks.

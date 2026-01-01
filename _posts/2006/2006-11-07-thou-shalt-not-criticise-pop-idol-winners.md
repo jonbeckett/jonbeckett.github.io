@@ -2,7 +2,8 @@
 layout: single
 title: "Thou Shalt Not Criticise Pop Idol Winners"
 date: 2006-11-07
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Wow - what a response... after yesterday's post where I made comments in passing about Will Young and Kelly Clarkson, I was deluged with emails and comments.

@@ -2,7 +2,8 @@
 layout: single
 title: "Off Sick Again"
 date: 2011-03-22
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Lunchtime

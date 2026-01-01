@@ -2,7 +2,8 @@
 layout: single
 title: "Cats And Chickens Friends Or Enemies"
 date: 2009-10-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 Somebody asked me this morning - knowing that we have a cat, and we have chickens - if cats and chickens can peacefully co-exist. Finally a question I can offer a reasonably knowledgeable answer togrew in confidence, and began to defend his new territory - we didn't see another cat for years. In his now advancing years, young interlopers have been allowed to share ground with him, but back in the day he was not to be messed with.

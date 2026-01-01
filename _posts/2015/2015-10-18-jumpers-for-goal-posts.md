@@ -2,7 +2,8 @@
 layout: single
 title: "Jumpers For Goal Posts"
 date: 2015-10-18
-categories: "2015"
+categories:
+  - 2015
 ---
 
 All is not well in the local kids football team. I got our youngest up and out of bed at 7:45 this morning, giving us an hour before we needed to leave the house before a half hour walk to the football ground across town. We arrived ten minutes earlier than the requested time, and found only the coach and his son on the field. No other parents at all. I left our girl kicking the football around with them while I went back into town to get money.

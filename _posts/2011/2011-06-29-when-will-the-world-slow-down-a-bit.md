@@ -2,7 +2,8 @@
 layout: single
 title: "When Will The World Slow Down A Bit"
 date: 2011-06-29
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Some days start stupidly, and failing an injection of common sense (which we have very little of around here at the moment), they continue ongathering pace, becoming more idiotic, and approach avalanche proportions.

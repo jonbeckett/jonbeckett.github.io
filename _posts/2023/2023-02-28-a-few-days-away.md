@@ -2,7 +2,8 @@
 layout: single
 title: "A few days away"
 date: 2023-02-28
-categories: "2023"
+categories:
+  - 2023
 ---
 
 In a few days time, I will celebrate the completion of fifty laps of the sun. In order to celebrate the continued successful landing of one foot in front of the other, we're going on a bit of an adventure for a few days.

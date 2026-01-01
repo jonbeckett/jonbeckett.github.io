@@ -2,7 +2,8 @@
 layout: single
 title: "Belated Birthday Present"
 date: 2006-04-22
-categories: "2006"
+categories:
+  - 2006
 ---
 
 As a belated birthday present (because the pyjamas I bought her were the wrong size, and you can't get them in her size), I bought W her replacement present today. A Nintendo DS.

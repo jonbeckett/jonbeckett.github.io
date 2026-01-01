@@ -2,7 +2,8 @@
 layout: single
 title: "Everybody Is Ignorant On The Underground"
 date: 2008-09-30
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Just had a typical journey on the London Underground. Thought I would share.

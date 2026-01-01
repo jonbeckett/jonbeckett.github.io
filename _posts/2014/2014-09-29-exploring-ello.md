@@ -2,7 +2,8 @@
 layout: single
 title: "Exploring Ello"
 date: 2014-09-29
-categories: "2014"
+categories:
+  - 2014
 ---
 
 At some point last week a new social network appeared on the internet called Ello. I learned about it after digging aninvite from my junk mailwhich caused immediate thoughts about other invites vanishing into junk mailfolders the world over (most spam engines are crowd sourcedespecially in these days of cloud hosted email).

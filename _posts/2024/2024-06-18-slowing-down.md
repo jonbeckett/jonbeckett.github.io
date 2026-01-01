@@ -2,7 +2,8 @@
 layout: single
 title: "Slowing down"
 date: 2024-06-18
-categories: "2024"
+categories:
+  - 2024
 ---
 
 It turns out slowing down is far more difficult than I imagined.

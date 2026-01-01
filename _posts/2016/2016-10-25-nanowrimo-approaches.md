@@ -2,7 +2,8 @@
 layout: single
 title: "Nanowrimo Approaches"
 date: 2016-10-25
-categories: "2016"
+categories:
+  - 2016
 ---
 
 There are only five days left until the annual lunacy starts, and I haven't given a single thought to what I might write about yet. I've tinkered with the old netbook to make sure it has a copy of Scrivener installed, but beyond that I've done nothing.

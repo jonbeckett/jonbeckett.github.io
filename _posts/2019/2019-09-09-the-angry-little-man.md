@@ -2,7 +2,8 @@
 layout: single
 title: "The Angry Little Man"
 date: 2019-09-09
-categories: "2019"
+categories:
+  - 2019
 ---
 
 Last Wednesday morning I found myself sitting in the foyer of the Holiday Inn in Leeds, Yorkshire, killing time before a meeting. I had scraped myself out of the hotel bed at 6am, had a shower, shave, got dressed, and made it down for breakfast by 6:30am - I was quite proud of myself.

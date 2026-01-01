@@ -2,7 +2,8 @@
 layout: single
 title: "Where For Art Thou Saturday"
 date: 2010-11-13
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Oh Saturday, Saturday, where for art thou Saturday?

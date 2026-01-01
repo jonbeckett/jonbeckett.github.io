@@ -2,7 +2,8 @@
 layout: single
 title: "Keeping My Mouth Shut"
 date: 2018-12-02
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I almost wrote a furious post at lunchtime about something that happened at the weekend - a series of things that happened at the weekend really - a direct response to the behaviour of a number of people I had the ill fortune to cross paths with.

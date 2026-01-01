@@ -2,7 +2,8 @@
 layout: single
 title: "The South Side Of The River"
 date: 2018-10-09
-categories: "2018"
+categories:
+  - 2018
 ---
 
 After work this evening I went for a bit of a walk - the original intention had been to find a Japanese restaurant I've eaten at before, but discovering a number of roadworks in my way, and a gorgeous bridge over the river appearing around a street corner, I thought "what the hell".

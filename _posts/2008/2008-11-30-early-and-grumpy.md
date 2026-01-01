@@ -2,7 +2,8 @@
 layout: single
 title: "Early And Grumpy"
 date: 2008-11-30
-categories: "2008"
+categories:
+  - 2008
 ---
 
 It's 7:35am on Sunday morning, and I am dressed and downstairs with the younger children. As per usual they were up before 7, and despite numerous instructions not to, were on the landing (just outside out bedroom door) shouting at each other as loud as they could.

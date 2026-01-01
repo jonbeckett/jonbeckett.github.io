@@ -2,7 +2,8 @@
 layout: single
 title: "From One Disaster To The Next"
 date: 2018-05-31
-categories: "2018"
+categories:
+  - 2018
 ---
 
 You know the one where your other half delivers your youngest daughter to the final day of football camp, then drops the car off for it's MOT (Ministry of Transport) test, and it fails ? Yeah - that. Guess who had to run to the local petrol station to get cash - because WHO HAS CASH - so his other half could get a taxi to pick our daughter up again.

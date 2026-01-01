@@ -2,7 +2,8 @@
 layout: single
 title: "Back To Work"
 date: 2019-09-02
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After two weeks with no schedule, no plans, no obligations, and no expectations, today arrived with something of a thump.

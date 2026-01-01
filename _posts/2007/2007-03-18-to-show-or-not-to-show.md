@@ -2,7 +2,8 @@
 layout: single
 title: "To Show Or Not To Show"
 date: 2007-03-18
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Simple question. What works for you? Seeing more, or seeing less?

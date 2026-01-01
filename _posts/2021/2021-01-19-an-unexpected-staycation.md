@@ -2,7 +2,8 @@
 layout: single
 title: "An Unexpected Staycation"
 date: 2021-01-19
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I have the rest of the week off work!

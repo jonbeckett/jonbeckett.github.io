@@ -2,7 +2,8 @@
 layout: single
 title: "Ps Stopped Studying Now"
 date: 2010-10-19
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Got fed up of studying. Learned as much as I am likely to learn. Getting ready for early getaway in the morning to reach Reading way ahead of the exam time - then to coffee shop to chill for a bit.

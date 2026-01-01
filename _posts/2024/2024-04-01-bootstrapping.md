@@ -2,7 +2,8 @@
 layout: single
 title: "Bootstrapping"
 date: 2024-04-01
-categories: "2024"
+categories:
+  - 2024
 ---
 
 There is a term used in computer science called "bootstrapping" - describing the process by which a computer starts itself - essentially bringing itself to life by lifting itself into the air by it's own bootstraps. I did a pretty similar thing this morning.

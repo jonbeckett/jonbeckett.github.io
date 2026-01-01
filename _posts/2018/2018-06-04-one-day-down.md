@@ -2,7 +2,8 @@
 layout: single
 title: "One Day Down"
 date: 2018-06-04
-categories: "2018"
+categories:
+  - 2018
 ---
 
 The day began at 6am when the alarm clock went off on my mobile phone. This wasn't the first time I woke up this morning of course, because guess who fell asleep while lying on top of the bed covers reading a book at 8pm, and then woke at 1am, 4am, and then again at 5:30am? I'm blaming the 30C temperatures outside - it definitely had nothing to do with beer and wine. Nope, nothing to do with beer and wine at all.

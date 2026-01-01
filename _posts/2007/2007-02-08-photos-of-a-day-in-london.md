@@ -2,7 +2,8 @@
 layout: single
 title: "Photos Of A Day In London"
 date: 2007-02-08
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I finally remembered to take the camera with me on my commute today. Here's the various photos - feel free to click on them to see the full size versions in Flickr...

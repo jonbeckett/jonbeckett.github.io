@@ -2,7 +2,8 @@
 layout: single
 title: "In Need Of Friends"
 date: 2005-08-06
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I have been playing with the online beta of Yahoo's new "360" service today - and so far I think it's fantastic. The only problem I have so far is that I have no friends 

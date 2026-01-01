@@ -2,7 +2,8 @@
 layout: single
 title: "Working From Home Again"
 date: 2017-10-10
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I'm sitting in the study at home once again, trying to concentrate on work, but being stopped by the plumber every few minutes to relate the latest bad news from the upstairs bathroom, which is still out of action.

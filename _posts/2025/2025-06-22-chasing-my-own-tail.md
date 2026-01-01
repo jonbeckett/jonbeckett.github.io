@@ -3,7 +3,7 @@ layout: single
 title: "Chasing my own tail"
 date: 2025-06-22
 categories:
-  - "2025"
+  - 2025
 ---
 
 Where the hell has the last week gone? Seriously. You look away for a few seconds and several day have passed.

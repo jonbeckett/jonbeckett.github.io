@@ -2,7 +2,8 @@
 layout: single
 title: "Stretched"
 date: 2019-06-21
-categories: "2019"
+categories:
+  - 2019
 ---
 
 Reaching the end of the week feels like being tipped from a wheelbarrow into the weekend. It's been a tough one. Not emotionally or physically - just mentally. It's difficult to describe what software development is like if you've never been involved in it, and it's probably interminably boring to hear anybody try to explain it - so I won't. Let's just say I'm tired.

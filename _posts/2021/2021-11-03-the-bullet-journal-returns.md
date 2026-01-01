@@ -2,7 +2,8 @@
 layout: single
 title: "The Bullet Journal Returns"
 date: 2021-11-03
-categories: "2021"
+categories:
+  - 2021
 ---
 
 After several weeks experimenting with all manner of technologically sophisticated productivity solutions, I retreated back to a paper bullet journal tonight. There's just something about writing things down on paper that helps stick them in my head.

@@ -2,7 +2,8 @@
 layout: single
 title: "Mothers Day"
 date: 2012-03-19
-categories: "2012"
+categories:
+  - 2012
 ---
 
 The greater part of today adhered to the hopeful script very well indeed. I fell out of bed early, deflected the children for a couple of hours, provided a cup of tea to the upstairs bedroom, made breakfasts, washed up, tidied up, and generally ran in all directions attempting to make everybody happy.

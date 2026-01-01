@@ -2,7 +2,8 @@
 layout: single
 title: "Isolation"
 date: 2020-04-06
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's starting to get interesting - this whole self isolation lark. While I seem to have taken to it like a duck to water, that can't be said for everybody. I read a news story this morning that an elderly man had murdered his wife, after being shut in the house with her for the last three weeks. I know it shouldn't be funny, but I couldn't help grinning - and then felt awful about finding it funny.

@@ -2,7 +2,8 @@
 layout: single
 title: "Random Statistics"
 date: 2010-12-05
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Don't ask me why the idea to compile this came over me... the following graph show the number of posts and words per month since I started blogging.

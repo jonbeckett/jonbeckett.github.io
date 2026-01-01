@@ -2,7 +2,8 @@
 layout: single
 title: "Books Ebooks And Podcasts"
 date: 2008-06-07
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Due to the resumption in hostilities between myself and the British transport system that has been forced upon me by my employer for the next several months, I am afforded the chance to read far more books than usual, and to listen to podcasts.

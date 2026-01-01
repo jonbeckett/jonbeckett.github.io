@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday With The Children"
 date: 2009-11-07
-categories: "2009"
+categories:
+  - 2009
 ---
 
 From the moment I woke this morning until the moment they fell asleep this evening, I have spent the day with the children - it's the first time I have done it in months, and it was wonderful.

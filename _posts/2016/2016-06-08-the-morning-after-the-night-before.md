@@ -2,7 +2,8 @@
 layout: single
 title: "The Morning After The Night Before"
 date: 2016-06-08
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I woke up at 4:45 this morning. The alarm was set to go off at 5am - our youngest is going on a school trip to France for the day, so we had to get her into school by 5:55am. Why was I taking her? Because I'm a well meaning idiot. When I got in from work yesterday evening my other half made some comment about driving to school in her pyjamas in the morning.

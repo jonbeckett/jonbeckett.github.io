@@ -2,7 +2,8 @@
 layout: single
 title: "Reconstruction"
 date: 2022-03-23
-categories: "2022"
+categories:
+  - 2022
 ---
 
 After a few days break from the blogging universe - during which time I built myself a rather lovely island on the internet and then quite predictably burned it to the ground - IC/m quietly re-connecting a little this evening.

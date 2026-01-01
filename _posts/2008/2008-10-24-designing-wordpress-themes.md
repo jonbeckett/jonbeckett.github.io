@@ -2,7 +2,8 @@
 layout: single
 title: "Designing Wordpress Themes"
 date: 2008-10-24
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Several things occurred to me recently;

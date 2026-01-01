@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday Afternoon"
 date: 2018-02-09
-categories: "2018"
+categories:
+  - 2018
 ---
 
 It's heading towards 3pm on Saturday afternoon, and I'm holed up in the junk room, listening to Spotify, writing this while the rain falls outside. In the spirit of "finding something to do", I thought it might be interesting to record the story of how my posts get from the keyboard to the internet - because it's probably fairly unique. Quite why it's unique is open to interpretation, and a fair bit of ridicule I imagine.

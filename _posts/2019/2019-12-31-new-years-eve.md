@@ -2,7 +2,8 @@
 layout: single
 title: "New Years Eve"
 date: 2019-12-31
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It's the final day of the year. The final day of the decade. I'm not sure if the sentiment is shared by others, but I can't help feeling a little bemused by the fuss people make about milestone dates - particularly when the milestones are invented.

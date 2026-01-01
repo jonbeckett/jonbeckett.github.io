@@ -2,7 +2,8 @@
 layout: single
 title: "Unexpected Travel Plans"
 date: 2016-09-06
-categories: "2016"
+categories:
+  - 2016
 ---
 
 You know the one where you think you're going to be presenting a demonstration of something clever over the internet to a room full of business people later in the week, and then you get back from holiday and read the email properly, and realise you actually need to be in a conference room 300 miles from home on the morning of the meeting? Yeah. That.

@@ -2,7 +2,8 @@
 layout: single
 title: "Falling From The Knife Edge"
 date: 2013-10-05
-categories: "2013"
+categories:
+  - 2013
 ---
 
 It is in my nature to do whatever needs to be done to make those around me happy. You might liken it to walking along the edge of a knifewhere nobody really notices how precarious your balance might be, but you don't mind because you're quietly engineering the happiness of everybody else without their knowledge.

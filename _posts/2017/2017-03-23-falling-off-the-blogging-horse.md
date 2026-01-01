@@ -2,7 +2,8 @@
 layout: single
 title: "Falling Off The Blogging Horse"
 date: 2017-03-23
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It feels like ages since I last opened up in a blog post. Since the start of the year all I seem to have done is turn the pedals of the internet - doing the minimum amount possible to play a part, quietly over here in the corner where hopefully not many people will notice. I changed usernames, account names, URLs and identities to hide from those that know me in the real world - to give me the opportunity to unburden my thoughts from time to time.

@@ -2,7 +2,8 @@
 layout: single
 title: "Isaac Newton Donald Trump And Beef Pie"
 date: 2015-07-22
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I left the hotel this evening with all the intentions in the world of crossing the road to theother pub - the one I have seen from a distance throughout my stay here. Half-way across the car park of the hotel I changed my mind, turned 90 degrees, and wandered back along the footpath to the bar next door. The reason the universe caused me to turn was evident the moment I sat down.

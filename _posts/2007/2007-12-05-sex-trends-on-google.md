@@ -2,7 +2,8 @@
 layout: single
 title: "Sex Trends On Google"
 date: 2007-12-05
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Give me ten minutes free time on the internet, and look what I come up with. I typed the word "sex" into Google Trends to see how often it gets searched for on the internet (hint : ten times more than "Britney" or "Paris").

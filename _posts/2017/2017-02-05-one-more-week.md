@@ -2,7 +2,8 @@
 layout: single
 title: "One More Week"
 date: 2017-02-05
-categories: "2017"
+categories:
+  - 2017
 ---
 
 In about three quarters of an hour I will leave the house for one more week on the road. One more week of living from a bag in a hotel. One more week away from my family. One more week either sitting alone in restaurants, or sitting alone in my room with food from a convenience store.

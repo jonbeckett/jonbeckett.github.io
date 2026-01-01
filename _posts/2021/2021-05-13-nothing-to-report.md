@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing To Report"
 date: 2021-05-13
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I'm trying not to read the news. The news is full of stories about the Indian variant of the coronavirus going on something of a rampage, and causing brakes to perhaps be put on the slow journey out of lockdown we had all been on. It doesn't take a genius to figure out how the variant arrived here - until recently travel to and from India was allowed if you had good enough reason. It's all rather depressing really.

@@ -2,7 +2,8 @@
 layout: single
 title: "The Breakfast Club 25 Years"
 date: 2010-09-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Just watching "The Breakfast Club" (turns out it's 25 years since it's original release), and I started thinking about the age of the cast - given that Judd Nelson was obviously so much older than the rest.

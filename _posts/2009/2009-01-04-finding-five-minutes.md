@@ -2,7 +2,8 @@
 layout: single
 title: "Finding Five Minutes"
 date: 2009-01-04
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I'm hiding in the study for five minutes - and using the time somewhat productively to splurge various throughts through the keyboard into the interwebs.

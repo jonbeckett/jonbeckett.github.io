@@ -2,7 +2,8 @@
 layout: single
 title: "Friday Night Melrose Place And Pizza"
 date: 2011-09-30
-categories: "2011"
+categories:
+  - 2011
 ---
 
 A couple of days ago I was looking at Amazon (as you do), and a box set of "Melrose Place" appeared in the suggested items list.

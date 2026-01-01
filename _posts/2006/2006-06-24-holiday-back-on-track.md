@@ -2,7 +2,8 @@
 layout: single
 title: "Holiday Back On Track "
 date: 2006-06-24
-categories: "2006"
+categories:
+  - 2006
 ---
 
 This morning myself and W went for a walk around Polruan - both to get away from everybody, and to salvage at least something from the holiday.

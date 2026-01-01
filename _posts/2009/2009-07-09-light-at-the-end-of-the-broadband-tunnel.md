@@ -2,7 +2,8 @@
 layout: single
 title: "Light At The End Of The Broadband Tunnel"
 date: 2009-07-09
-categories: "2009"
+categories:
+  - 2009
 ---
 
 You might not know this, but I have had no broadband internet connection at home since February. With a little luck the situation is about to change (5 months later) - I thought others might be interested in the story.

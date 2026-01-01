@@ -2,7 +2,8 @@
 layout: single
 title: "Medication Banned Books And Conspiracy Theories"
 date: 2018-08-02
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Today I am "working" from home. In reality, I called the client this morning and informed them that the likelihood of me getting much done today was pretty slim. I'm looking after Miss 17 - after two weeks fighting tonsillitis, going through one round of antibiotics, and still being sick, I've turned my focus almost completely on her. She's taking tablets every two hours now, and I'm forcing her to keep drinking, and eating anything I can get her to - despite her less than enthusiastic responses to my constant reminders and encouragement.

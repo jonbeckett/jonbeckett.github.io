@@ -2,7 +2,8 @@
 layout: single
 title: "Half An Hour"
 date: 2015-10-25
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Half an hour. That's how much of Sunday is my own, so I'm spending it emptying my head into the keyboard once again. There are probably more productive things I could be doing, but then all you might find of me on the internet is an occasional photo on Instagram, rather than this swathe of forgettable nonsense.

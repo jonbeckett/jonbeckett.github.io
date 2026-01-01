@@ -2,7 +2,8 @@
 layout: single
 title: "The Day Vanishes"
 date: 2018-08-10
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Do you ever have days when you wonder what you did - where the day went? I know I spent quite some time signing my younger daughters up for XBox Live accounts - and then trying to make head or tail of some sort of team building thing in FIFA 17 for them. I think they now understand it far better than me, but that might be because they spent all day taking turns to play it, while I washed up, did chores, and whatever other bullshit things filled my day.

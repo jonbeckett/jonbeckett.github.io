@@ -2,7 +2,8 @@
 layout: single
 title: "Feeling Sorry For Britney Spears"
 date: 2006-11-08
-categories: "2006"
+categories:
+  - 2006
 ---
 
 When I got up this morning and wandered into the lounge with my scary hair and cup of tea, the first international news greeting me from the BBC was not the Democrats rubbing the Republican's noses in it across the United States. It was not the ongoing conflicts in Iraq or Afghanistan either.

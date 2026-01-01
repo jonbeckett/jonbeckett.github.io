@@ -2,7 +2,8 @@
 layout: single
 title: "Generation X"
 date: 2008-09-02
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While out for a walk at lunchtime in London, I picked up a copy of "Generation X" to read at last - the final well known book by Douglas Coupland that I have not read.

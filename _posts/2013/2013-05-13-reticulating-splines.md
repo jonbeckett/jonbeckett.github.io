@@ -2,7 +2,8 @@
 layout: single
 title: "Reticulating Splines"
 date: 2013-05-13
-categories: "2013"
+categories:
+  - 2013
 ---
 
 In case you were banging your head against the desk, trying to recall where you saw the title of this post, let me put you out of your misery - it's from "Sim City". While the computer was busy loading the game, it would flash up various status messages about what it was doing - none of them made any sense at all, but they sounded tremendously clever.

@@ -2,7 +2,8 @@
 layout: single
 title: "The week before Christmas"
 date: 2022-12-19
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I'm just taking a break from work, sipping a coffee, and listening to some music on Spotify. A friend mentioned Eva Cassidy earlier, and she's been rattling around my head all afternoon. The mighty internet was tasked with building a playlist from her, and it's turned into a journey of sorts - through Eva, to Fleetwood Mac, then Heart.

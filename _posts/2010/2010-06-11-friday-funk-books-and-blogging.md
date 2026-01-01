@@ -2,7 +2,8 @@
 layout: single
 title: "Friday Funk Books And Blogging"
 date: 2010-06-11
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Time to obsess over blogging and social networking has been several restricted lately due to the unwelcome intrusion of... you know... the real world.

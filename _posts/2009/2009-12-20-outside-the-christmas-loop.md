@@ -2,7 +2,8 @@
 layout: single
 title: "Outside The Christmas Loop"
 date: 2009-12-20
-categories: "2009"
+categories:
+  - 2009
 ---
 
 While watching our children talk to their grandparents in Cornwall on Skype this evening, I got the first real sense so far that Christmas is coming. Lunatic levels of excitement were in evidence (followed by all manner of threats at bedtime to bring them back down to earth again).

@@ -2,7 +2,8 @@
 layout: single
 title: "Dick Whittington"
 date: 2014-12-23
-categories: "2014"
+categories:
+  - 2014
 ---
 
 One of my favourite Christmas traditions in the UK is Pantomimewhere famous actors take part inproductions at the theatre riddled with jokes, musical numbers, slapstick, innuendo, and idiocy. The titles of the various productions bear little or no connection to their original storiesthey are really just a loose framework off which to invent a couple of hours of raucous entertainment. Over the years we have taken the children to see Peter Pan, Cinderella, Snow White, and this year, Dick Whittington.

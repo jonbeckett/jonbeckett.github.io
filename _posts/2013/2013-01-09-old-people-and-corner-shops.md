@@ -2,7 +2,8 @@
 layout: single
 title: "Old People And Corner Shops"
 date: 2013-01-09
-categories: "2013"
+categories:
+  - 2013
 ---
 
 After extensive testing and field research, I have come to the conclusion that no matter what time you enter a corner shop, and no matter how empty the shop appears, an old person will make it to the counter before you.

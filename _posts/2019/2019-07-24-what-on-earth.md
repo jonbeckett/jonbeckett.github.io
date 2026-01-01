@@ -2,7 +2,8 @@
 layout: single
 title: "What On Earth "
 date: 2019-07-24
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I just re-wired MailChimp. Something a friend wrote in an email to me recently resonated - that all of the big platforms - WordPress, Tumblr, and so on - really are walled gardens. She had noticed how the circle of readers forms on each platform, and eventually stops growing.

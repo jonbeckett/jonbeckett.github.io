@@ -2,7 +2,8 @@
 layout: single
 title: "The Raspberry Pi Escape Plan"
 date: 2016-09-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 In news that will not surprise anybody, I've just spent the last couple of hours doing an "Elliot", and essentially turning the Raspberry Pi that's been doing nothing on the corner of my desk for the last several months into something vaguely useful.

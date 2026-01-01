@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday In The Playpark"
 date: 2009-12-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 Another morning with the children, and another visit to the playparkaccompanied by excited shouts of "Yay!" when I asked if they would like to go. Unfortunately getting socks on the right way up, and shoes on the right feet is something of a trial when you are too excited to control your limbs in a predictable manner.

@@ -2,7 +2,8 @@
 layout: single
 title: "Tiredness Abounds"
 date: 2015-10-21
-categories: "2015"
+categories:
+  - 2015
 ---
 
 After being parachuted into yet another project at work today with no prior knowledge, I left early to attend our middle daughter's first parents evening at "Big School" (notice the caps for emphasis). After cycling home like a madman I walked in, stripped to the waist, sprayed myself with deodorant, and pulled on a fresh t-shirt. After combing my hair I turned to my other half and asked if she was ready to go. She laughed.

@@ -2,7 +2,8 @@
 layout: single
 title: "Thunderbirds Are Go"
 date: 2022-07-14
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Today has been a good day. A long day, a tiring day, a draining day, but also a good day.

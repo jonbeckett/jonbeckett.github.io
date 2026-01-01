@@ -2,7 +2,8 @@
 layout: single
 title: "New Years Eve"
 date: 2013-12-31
-categories: "2013"
+categories:
+  - 2013
 ---
 
 So here we areTuesday 31st December, 2013. The end of another year, and everybody seems to be wilfully entering the mass hysteria of attaching some kind of mystic importance to the rolling over of a few seconds on the clock.

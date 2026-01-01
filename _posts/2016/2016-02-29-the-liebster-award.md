@@ -2,7 +2,8 @@
 layout: single
 title: "The Liebster Award"
 date: 2016-02-29
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Having switched blogging platforms for the umpteenth time last week, I was shocked, stunned and amazed to discover that somebodyobviously of wonderful judgement and gorgeousness, and obviously bowled over by the two or three forgettable posts I havespat out sincenominated me for an online award this weekend.

@@ -2,7 +2,8 @@
 layout: single
 title: "Not Making It To London"
 date: 2016-10-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Today was supposed to be all about taking my middle daughter for a day out in London - just the two of us. I have taken the eldest, and youngest daughters on days out, but somehow she has fallen through the cracks. Given her prediliction for being both her own worst enemy, and for picking fights with me, I thought it might be time to invest some time in her, to remind her that I'm not a complete ogre (because I'm pretty sure that's how she has viewed me in recent weeks).

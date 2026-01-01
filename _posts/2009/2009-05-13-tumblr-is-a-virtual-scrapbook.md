@@ -2,7 +2,8 @@
 layout: single
 title: "Tumblr Is A Virtual Scrapbook"
 date: 2009-05-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I think I'm finally beginning to get my head around Tumblr. Where WordPress is designed for wordsmiths - people with a story to tell - Tumblr is designed for people (like me) who find lots of interesting stuff, and wish they had an easy way of storing and sharing it.

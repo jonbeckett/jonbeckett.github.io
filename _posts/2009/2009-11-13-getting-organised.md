@@ -2,7 +2,8 @@
 layout: single
 title: "Getting Organised"
 date: 2009-11-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 The near future is slowly becoming more clear; I will typically be leaving early on Monday mornings for work, and returning on Thursday evenings.

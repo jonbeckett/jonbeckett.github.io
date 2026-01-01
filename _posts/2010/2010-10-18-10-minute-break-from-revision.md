@@ -2,7 +2,8 @@
 layout: single
 title: "10 Minute Break From Revision"
 date: 2010-10-18
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Brain has had enough today for revision just went through about a third of the exam subject areas, skimming the books - looking up anything new, or that I just plain don't know about.

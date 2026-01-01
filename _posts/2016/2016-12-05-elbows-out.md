@@ -2,7 +2,8 @@
 layout: single
 title: "Elbows Out"
 date: 2016-12-05
-categories: "2016"
+categories:
+  - 2016
 ---
 
 At the time I begin writing this, the clock on the laptop screen is ticking towards 7pm. I can't glance at the watch on my wrist because the strap snapped earlier this evening. You find me sitting at the desk of a room at the "Premier Inn" in Barnsley, Yorkshire. I'm here with work to do lots of clever things at a nearby office building. If this is your first time reading about my pretending to be clever during the daytime antics, I never really talk about what I do, or who I do it for - it's just easier that way.

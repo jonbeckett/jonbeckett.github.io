@@ -2,7 +2,8 @@
 layout: single
 title: "The Santa Fun Run"
 date: 2020-12-22
-categories: "2020"
+categories:
+  - 2020
 ---
 
 After sliding out of bed a little after 7am this morning, I wandered downstairs and dressed myself as Santa. Father Christmas. Saint Nicholas. Only a very low budget version - with a wonderful red suit that might rip in half if you bend over too quickly.

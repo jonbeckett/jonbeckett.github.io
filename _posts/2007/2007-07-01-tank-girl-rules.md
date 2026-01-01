@@ -2,7 +2,8 @@
 layout: single
 title: "Tank Girl Rules"
 date: 2007-07-01
-categories: "2007"
+categories:
+  - 2007
 ---
 
 While travelling home on Thursday evening last week I made a detour through London to "Forbidden Planet" - quite possibly the best cult book/movie/toy shop in the world.

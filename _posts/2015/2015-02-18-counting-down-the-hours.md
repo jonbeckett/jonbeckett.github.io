@@ -2,7 +2,8 @@
 layout: single
 title: "Counting Down The Hours"
 date: 2015-02-18
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's lunchtime on Wednesday morning. Just a few hours until the end of the working day, then I have a couple of days off work before the journey to Scotland on Monday. The hotel is booked, and the train tickets purchased. The only part of the journey I'm not sure about is when I reach Edinburgh. I'm thinking about saving the cost of a taxi, and getting the local bus to the final destination.

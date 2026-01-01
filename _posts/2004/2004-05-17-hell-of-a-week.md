@@ -2,7 +2,8 @@
 layout: single
 title: "Hell Of A Week"
 date: 2004-05-17
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Late last week I had a milestone meeting for the gargantuan project I have been working on for the last few months (and bleeting about in my blog to try and get at least some sympathy from those that read this). On Tuesday, while racing to pull the software back together for the big meeting on Thursday, I somehow managed to develop the biggest headache in the history of the universe (well... the worst one I had in a while anyway).

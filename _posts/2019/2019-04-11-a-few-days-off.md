@@ -2,7 +2,8 @@
 layout: single
 title: "A Few Days Off"
 date: 2019-04-11
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After cycling home from work this evening, buying pizzas for everybody from the supermarket and cooking them, I opened a bottle of fizzy wine and downed two glasses back-to-back. I'm off work now for 10 days. I don't return until after the Easter bank holiday. I haven't really had any serious time off since the end of last summer.

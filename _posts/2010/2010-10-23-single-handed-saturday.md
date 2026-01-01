@@ -2,7 +2,8 @@
 layout: single
 title: "Single Handed Saturday"
 date: 2010-10-23
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Following the departure of Mrs Beckett this morning to watch the "Great South Run" with her Mum, I am single handed this weekend for the first time in ages.

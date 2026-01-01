@@ -2,7 +2,8 @@
 layout: single
 title: "We Write The Blogs And Do The Other Things Not Because They Are Easybut Because They Are Hard"
 date: 2011-07-31
-categories: "2011"
+categories:
+  - 2011
 ---
 
 In the same way many people watch television, movies, or read books, I head towards the internet when I have free time. I search out people sharing a little of their life, a little of themselves, and become enthralled with their experiences and adventureswhich often seem so similar to my own regardless of nation, race, colour, or even language.

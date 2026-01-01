@@ -2,7 +2,8 @@
 layout: single
 title: "Weekend Away"
 date: 2006-04-10
-categories: "2006"
+categories:
+  - 2006
 ---
 
 This weekend we went to visit some friends who live down in the southwest of England - a little village called Chappel Knapp. If I was going to paint a word picture to give you some idea, it would have rolling green hills and fields, big old oak trees, farms, people in the village who (shock horror) know each other - basically a quieter, slower pace of life that we are used to living so close to London.

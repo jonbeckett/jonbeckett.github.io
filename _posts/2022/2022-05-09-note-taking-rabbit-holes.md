@@ -2,7 +2,8 @@
 layout: single
 title: "Note Taking Rabbit Holes"
 date: 2022-05-09
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Today was a quiet day. A day filled with meetings, and a day spent excavating a rather deep rabbit hole with warning signs posted all around it. What's in the depths of the rabbit hole? Notion, Evernote, and Onenote.

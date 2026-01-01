@@ -2,7 +2,8 @@
 layout: single
 title: "Never Ending"
 date: 2018-10-14
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Today didn't slow down, and certainly didn't stop. The morning was spent filing expenses for last week's adventure in Germany, and the afternoon knee deep in source code and flowcharts. Tomorrow will be more of the same, along with conference calls and meetings.

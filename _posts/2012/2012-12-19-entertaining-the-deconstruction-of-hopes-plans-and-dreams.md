@@ -2,7 +2,8 @@
 layout: single
 title: "Entertaining The Deconstruction Of Hopes Plans And Dreams"
 date: 2012-12-19
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Ernest Hemingway once wrote the following;

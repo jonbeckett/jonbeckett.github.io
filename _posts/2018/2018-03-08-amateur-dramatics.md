@@ -2,7 +2,8 @@
 layout: single
 title: "Amateur Dramatics"
 date: 2018-03-08
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Please excuse me while I do a regulation "Thank f*ck it's Friday" happy dance. Of course I'm not really doing a dance - I'm still sitting on my ever-so-slightly worn-out office chair at the ever-so-slightly broken desk in the office at work. It's trying to rain outside, and a guy across the way is trying to drive us all insane - sanding a piece of wood with a screaming electric sander of some description.

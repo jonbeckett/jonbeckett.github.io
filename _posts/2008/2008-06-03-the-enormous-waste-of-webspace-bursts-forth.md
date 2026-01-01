@@ -2,7 +2,8 @@
 layout: single
 title: "The Enormous Waste Of Webspace Bursts Forth"
 date: 2008-06-03
-categories: "2008"
+categories:
+  - 2008
 ---
 
 After several days thought, and a couple of evenings picking away at a wordpress theme, I finally have "my own" blog once more. My own little corner of the internet. A place to call home. A place to tinker with, break, and put back together repeatedly.

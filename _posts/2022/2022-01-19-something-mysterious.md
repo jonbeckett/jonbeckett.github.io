@@ -2,7 +2,8 @@
 layout: single
 title: "Something Mysterious"
 date: 2022-01-19
-categories: "2022"
+categories:
+  - 2022
 ---
 
 *This year I'm taking part in "*[*Bloganuary*](https://bloganuary.wordpress.com/)*" - a series of writing prompts published throughout the month by* [*Mindy Postoff*](https://bloganuary.wordpress.com/author/mindywoothemes/)*. Today's writing prompt is "Write about something mysterious."*

@@ -2,7 +2,8 @@
 layout: single
 title: "Recursion"
 date: 2014-09-19
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I'm not sure if anybody noticed (I know at least one person did), but I closed this blog down for about a weekset it to private, and wandered away. I had all the intentions in the world of wandering off towards Tumblr, and consigning this place to the virtual scrapheap. I'm not sure why. Too many places probably. I'm not sure why I came back either. Actually, that's a lie. I came back because I got sucked into reading some of my old posts, and realised I missed emptying my head.

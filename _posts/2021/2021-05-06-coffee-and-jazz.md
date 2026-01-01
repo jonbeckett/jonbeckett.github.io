@@ -2,7 +2,8 @@
 layout: single
 title: "Coffee And Jazz"
 date: 2021-05-06
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's late on Thursday evening, and I'm listening to jazz on the internet while sipping coffee. I'm going to blame Claudette. She tipped me off about a YouTube channel filled with coffee house jazz, and I fell straight down an impressively deep internet rabbit hole.

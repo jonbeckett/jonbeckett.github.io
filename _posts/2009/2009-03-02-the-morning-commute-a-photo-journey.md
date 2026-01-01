@@ -2,7 +2,8 @@
 layout: single
 title: "The Morning Commute A Photo Journey"
 date: 2009-03-02
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I couldn't figure out how to attach the digital camera to myself in order to shoot video on the way to work (I'll probably have to buy a bracket for the bike or something), so I did the next best thing - and got the iPhone out of my pocket every 1/4 mile or so. Enjoy...

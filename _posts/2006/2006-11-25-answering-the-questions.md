@@ -2,7 +2,8 @@
 layout: single
 title: "Answering The Questions"
 date: 2006-11-25
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Firstly, I would like to extend a huge thankyou to those who commented on my previous request for questions. I shall endeavour to answer them in as interesting a manner as possible in this post without (hopefully) sending you all to sleep. Without further ado...

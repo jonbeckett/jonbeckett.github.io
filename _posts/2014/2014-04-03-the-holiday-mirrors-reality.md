@@ -2,7 +2,8 @@
 layout: single
 title: "The Holiday Mirrors Reality"
 date: 2014-04-03
-categories: "2014"
+categories:
+  - 2014
 ---
 
 While flicking through the channels late last night, I discovered "The Holiday" was on, and given that I'll watch anything with Kate Winslet in, that this is the only movie where Jack Black isn't a colossal dick, and that "The Holiday" is just a terrific all-round popcorn movie, I got sucked in and watched half of it before I realised what I was doing.

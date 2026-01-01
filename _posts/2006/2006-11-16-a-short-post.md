@@ -2,7 +2,8 @@
 layout: single
 title: "A Short Post"
 date: 2006-11-16
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Today finds me writing a somewhat short post. We have spent all day sat in a classroom confronting our preconceived ideas, thoughts and fears about maintaining contact with an adopted child's birth parents.

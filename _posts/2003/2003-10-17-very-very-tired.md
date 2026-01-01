@@ -2,7 +2,8 @@
 layout: single
 title: "Very Very Tired"
 date: 2003-10-17
-categories: "2003"
+categories:
+  - 2003
 ---
 
 Today is Friday, and I am extremely tired. What's worse, I have no prospect of a break until next weekend. Do you ever feel like the world is becoming unfair?

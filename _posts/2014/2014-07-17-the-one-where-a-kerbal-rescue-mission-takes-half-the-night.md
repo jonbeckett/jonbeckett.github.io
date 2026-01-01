@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where A Kerbal Rescue Mission Takes Half The Night"
 date: 2014-07-17
-categories: "2014"
+categories:
+  - 2014
 ---
 
 You know I wrote yesterday about a life eatinggame called "Kerbal Space Program", and it's ability to deprive you of sleep? I had three hours sleep last night.

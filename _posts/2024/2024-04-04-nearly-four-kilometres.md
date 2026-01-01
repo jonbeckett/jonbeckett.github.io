@@ -2,7 +2,8 @@
 layout: single
 title: "Nearly Four Kilometres"
 date: 2024-04-04
-categories: "2024"
+categories:
+  - 2024
 ---
 
 I surprised myself this morning. After scraping myself out of bed I pulled on some running shorts and wandered downstairs. A few minutes later I was out in the morning air, setting off on a familiar route - deliberately slowly.

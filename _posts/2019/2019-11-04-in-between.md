@@ -2,7 +2,8 @@
 layout: single
 title: "In Between"
 date: 2019-11-04
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I feel like I'm in limbo at the moment. I've had a week off work, and have not gone anywhere or done anything of consequence. I suppose having a bad cold all week hasn't really helped. I didn't even do any of the homework training runs for the "Couch to 5K" thing.

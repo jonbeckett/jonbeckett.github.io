@@ -2,7 +2,8 @@
 layout: single
 title: "Returning To Tumbling Waters"
 date: 2014-06-29
-categories: "2014"
+categories:
+  - 2014
 ---
 
 While quietly raging against the world and it's dog a few weeks ago I walked away from Tumblr (again). I've been a member on-and-off since the beginning in 2007, and made all kinds of unlikely and unplanned far flung friends along the way.

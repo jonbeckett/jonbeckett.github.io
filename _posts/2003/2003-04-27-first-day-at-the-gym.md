@@ -2,7 +2,8 @@
 layout: single
 title: "First Day At The Gym"
 date: 2003-04-27
-categories: "2003"
+categories:
+  - 2003
 ---
 
 This morning I had my "induction" session at the gym in town. I won't say I was exactly nervous (never having been to a gym before), but I was certainly aprehensive.

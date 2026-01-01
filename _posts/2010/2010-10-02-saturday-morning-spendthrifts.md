@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday Morning Spendthrifts"
 date: 2010-10-02
-categories: "2010"
+categories:
+  - 2010
 ---
 
 In part to afford our eldest the opportunity to spend her birthday money, and in part to give W a few hours rest from the children, I marched our little gang of trouble makers out into the frosty morning air for a shopping expedition.

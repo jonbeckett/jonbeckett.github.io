@@ -2,7 +2,8 @@
 layout: single
 title: "Truth And Honesty On The Internet"
 date: 2016-12-27
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I began blogging before the word had become part of the common vernacular. In the early days, people wrote about their day - their life. Online journals formed the basis of LiveJournal, DiaryLand, and Blogger. Most people carried brick mobile phones, and connected to the internet once or twice a day via a screeching black box that trickled text onto the screen of a hulking beige tower in the corner of the room like a leaking tap.

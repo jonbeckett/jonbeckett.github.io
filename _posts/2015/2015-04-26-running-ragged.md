@@ -2,7 +2,8 @@
 layout: single
 title: "Running Ragged"
 date: 2015-04-26
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Today didn't really happen.

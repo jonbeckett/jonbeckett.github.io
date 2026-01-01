@@ -2,7 +2,8 @@
 layout: single
 title: "Just A Few Words"
 date: 2019-04-25
-categories: "2019"
+categories:
+  - 2019
 ---
 
  The clock just ticked past midnight. I haven't written for a couple of days, so thought it might be an idea. I've been working around the clock this week - through the day in the office, and then through the evening at home. One project in the daytime - another project at home. I don't really mind for a little while because I'm being paid for every minute - and we reallyneed the money at the moment.

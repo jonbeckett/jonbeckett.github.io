@@ -2,7 +2,8 @@
 layout: single
 title: "Small Thoughts"
 date: 2019-05-14
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After a week away from writing anything on the internet, I've not so much had time to reflect, as time to not think about anything. Actually that's not entirely true - for the greater part of the last week I've thought various combinations of "holy crap I feel terrible", "I wish I could stop coughing", "why doesn't cough medicine fucking work?", "maybe another cup of tea will help", and "maybe some more paracetamol will help". Just for the record, nothing has helped much. The doctor that once told me that cough medicine worked more as a placebo than anything was right.

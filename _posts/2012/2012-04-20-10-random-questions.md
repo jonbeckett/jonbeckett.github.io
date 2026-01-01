@@ -2,7 +2,8 @@
 layout: single
 title: "10 Random Questions"
 date: 2012-04-20
-categories: "2012"
+categories:
+  - 2012
 ---
 
 While noodling around this lunchtime on the interwebs, it struck me that I haven't done one of these exercises in quite some time. After googling the random questions, you now know how I spent the remains of my lunchbreak...

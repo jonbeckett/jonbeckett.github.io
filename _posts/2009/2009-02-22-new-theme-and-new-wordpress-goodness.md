@@ -2,7 +2,8 @@
 layout: single
 title: "New Theme And New Wordpress Goodness"
 date: 2009-02-22
-categories: "2009"
+categories:
+  - 2009
 ---
 
 When I moved my personal blog back to a hosted solution at wordpress.com it was for entirely fiscal reasons - we're busy cutting back on unwarranted expenditure at home, and web hosting accounts - although inexpensive - are a total luxury. Knowing that WordPress will host your blog for nothing made it a no-brainer.

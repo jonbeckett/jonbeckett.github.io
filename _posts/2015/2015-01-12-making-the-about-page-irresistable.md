@@ -2,7 +2,8 @@
 layout: single
 title: "Making The About Page Irresistable"
 date: 2015-01-12
-categories: "2015"
+categories:
+  - 2015
 ---
 
 This feels like cheating. It's half past midnight, so technically Monday morning, but still Sunday night in my head. I was supposed to be heading off to bed, and was about to log out of the computer in the study junk room, when I spotted that the browser had been left open on the WordPress reader page. I hit refresh to see if there were any new comments, and the latest post from WordPress showed up - the Blogging 101 exercise for tomorrow. I guess this means I can get it out of the way early, and get back to posting insufferable dross tomorrow.

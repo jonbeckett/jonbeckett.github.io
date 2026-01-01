@@ -2,7 +2,8 @@
 layout: single
 title: "Why Does Everything Have To Have So Much Wrong With It "
 date: 2010-12-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It's been a while since I had an out-and-out rant in a blog post, but this has been brewing in the darker corners of my mind for months, if not years.

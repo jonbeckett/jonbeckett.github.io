@@ -2,7 +2,8 @@
 layout: single
 title: "Never Say Never"
 date: 2013-12-22
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I almost walked away from blogging this year. More than once. Thankfully, due to the hilariously low number of people that read the words I publish, I don't think anybody noticed.

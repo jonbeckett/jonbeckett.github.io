@@ -2,7 +2,8 @@
 layout: single
 title: "Two Days Down"
 date: 2015-07-14
-categories: "2015"
+categories:
+  - 2015
 ---
 
 After the long and arduous journey from the office back to my hotel - all 100 yards of it, I decided to brave the recent unpredictability of my body, and actually eat something. Not just "something", but something not available from the supermarket.

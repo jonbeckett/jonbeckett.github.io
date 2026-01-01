@@ -2,7 +2,8 @@
 layout: single
 title: "Facebook Just Jumped The Shark"
 date: 2010-05-09
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I cannot quite believe what just happened (well, I can believe it, but still...) - Facebook just turned a corner in my opinion. If you thought Apple were bad for their control freakish tendencies, you haven't seen anything yet.

@@ -3,7 +3,7 @@ layout: single
 title: "A somewhat accidental Swiftie"
 date: 2025-08-15
 categories:
-  - "2025"
+  - 2025
 ---
 
 Some years ago - while chatting with an old friend (and wonderful singer) in Oklahoma, the subject of music came up, and I asked what she was listening to - for recommendations. At the time I was on a bit of a folk music kick. She recommended Rascal Flats, Keith Urban, and a new teenager that was being played a lot on her local radio stations at the time - called Taylor Swift.

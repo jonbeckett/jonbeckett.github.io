@@ -2,7 +2,8 @@
 layout: single
 title: "The Order Of Things"
 date: 2007-02-13
-categories: "2007"
+categories:
+  - 2007
 ---
 
 While out for a walk this lunchtime I made the mistake of walking past a book shop. Not one of these rubbish modern "book-sellers"; a proper, old fashioned book shop tucked away in a side street.

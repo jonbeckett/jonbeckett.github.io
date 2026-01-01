@@ -2,7 +2,8 @@
 layout: single
 title: "Busy Weekend Ahead"
 date: 2004-12-04
-categories: "2004"
+categories:
+  - 2004
 ---
 
 The requirement to use the CMS project at work has finally started to appear, which means I now have to get the "missing" parts of the puzzle in place. It means I'm going to be "head down" for the next few days working on various sections of the code, but I don't really mind; it means a lot of money for me in the long run.

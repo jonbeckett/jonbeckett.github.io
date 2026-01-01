@@ -2,7 +2,8 @@
 layout: single
 title: "Resurfacing"
 date: 2018-10-17
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I'm not doing very well at posting on anything like a regular basis, am I. Let's just say that this week has been challenging, and I'm not going to write about any of it on a public forum. I want to write "the walls have eyes", but that's a little overly conspiratorial even for me.

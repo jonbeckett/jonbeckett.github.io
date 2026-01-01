@@ -2,7 +2,8 @@
 layout: single
 title: "Hilarity In The Garden"
 date: 2008-03-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Here's what just happened in the garden - witnessed while I was washing up and glancing out of the window from time to time...

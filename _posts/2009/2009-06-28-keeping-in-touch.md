@@ -2,7 +2,8 @@
 layout: single
 title: "Keeping In Touch"
 date: 2009-06-28
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I've been having a bit of a sort out this morning (in between making breakfast for everybody, coffee, getting dressed, brushing teeth, dealing with tantrums... the normal stuff...). I've been trying to figure out how best to follow my far flung friends on the internet such that they don't think I've forgotten them.

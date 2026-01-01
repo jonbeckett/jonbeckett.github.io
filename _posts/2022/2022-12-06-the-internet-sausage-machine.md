@@ -2,7 +2,8 @@
 layout: single
 title: "The Internet Sausage Machine"
 date: 2022-12-06
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I cancelled my subscription to the Medium partner programme a few days ago. I suppose it says something about the power of suggestion, and my own suggestability that I re-joined in the first place. I've always loved writing, and after sharing some technical notes in recent months, thought "why not make some money from them on Medium?".

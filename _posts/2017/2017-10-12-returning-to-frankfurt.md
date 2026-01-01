@@ -2,7 +2,8 @@
 layout: single
 title: "Returning To Frankfurt"
 date: 2017-10-12
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I'm clearing the decks today - early on Monday morning I'll be making my way to the railway station, then on to the airport, and to Frankfurt in Germany once again. I'll be there all week - returning on Friday. Four nights in a hotel, three days wearing a shirt and tie, pretending to be clever.

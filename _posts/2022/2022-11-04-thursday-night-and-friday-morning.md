@@ -2,7 +2,8 @@
 layout: single
 title: "Thursday Night and Friday Morning"
 date: 2022-11-04
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I  m not entirely sure where the last few days have gone. The word   relentless   comes to mind - both to describe the working day, and the evenings.

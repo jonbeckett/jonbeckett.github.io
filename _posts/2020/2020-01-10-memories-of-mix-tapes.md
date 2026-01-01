@@ -2,7 +2,8 @@
 layout: single
 title: "Memories Of Mix Tapes"
 date: 2020-01-10
-categories: "2020"
+categories:
+  - 2020
 ---
 
 After a few days bumping along the bottom of the blogging barrel, I have arrived at the weekend armed with a glass of red wine, a new blog, and no idea what my fingers might write next. Once you realise my fingers are almost entirely responsible for the content I publish to the internet, with little or no involvement from my brain, a lot of things start to make sense.

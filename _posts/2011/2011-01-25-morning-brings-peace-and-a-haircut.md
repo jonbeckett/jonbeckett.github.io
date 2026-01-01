@@ -2,7 +2,8 @@
 layout: single
 title: "Morning Brings Peace And A Haircut"
 date: 2011-01-25
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Looking back over my posts last night, I must have been in a hell of a foul mood. I knowthe team at Tumblr is small (probably smaller than the company I work for), and I knowthey are fighting fires all over the place at the moment - mostly because they have built a great platform that people love to use.

@@ -2,7 +2,8 @@
 layout: single
 title: "Bobby Fischer The Anti Hero Has Died"
 date: 2008-01-18
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Robert James Fischer, perhaps the most gifted chess player the world has ever seen, has died in Iceland aged 64.

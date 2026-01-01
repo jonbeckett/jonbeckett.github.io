@@ -2,7 +2,8 @@
 layout: single
 title: "The King Of Retro"
 date: 2015-09-12
-categories: "2015"
+categories:
+  - 2015
 ---
 
 When people find out I am a "professional software and web developer", I have no doubt that they anticipate my house being filled with the latest technology - that my computer will be some sort of overclocked monster, that I'll have a nuclear powered tablet connected to everything, and that my phone will run some kind of prototype operating system that nobody has seen yet.

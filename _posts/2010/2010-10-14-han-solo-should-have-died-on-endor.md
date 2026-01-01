@@ -2,7 +2,8 @@
 layout: single
 title: "Han Solo Should Have Died On Endor"
 date: 2010-10-14
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Who knew that Han Solo should have died in the forests of Endor? Read this interview with Gary Kurtz (co-writer of A New Hope, and Empire Strikes Back).

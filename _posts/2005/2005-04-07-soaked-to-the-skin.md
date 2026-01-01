@@ -2,7 +2,8 @@
 layout: single
 title: "Soaked To The Skin"
 date: 2005-04-07
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I just got in from work after a pretty dreadful cycle home. For those that don't know, I cycle to work (about 3 miles) on a mountain bike.

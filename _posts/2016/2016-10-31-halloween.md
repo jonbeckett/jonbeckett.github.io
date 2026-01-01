@@ -2,7 +2,8 @@
 layout: single
 title: "Halloween"
 date: 2016-10-31
-categories: "2016"
+categories:
+  - 2016
 ---
 
 On the way home from work tonight I passed a family getting out of a car in a road not far from home, and overheard the Dad say to the children "don't worry - the houses in this road are much bigger - they will have much better stuff". Since when did Halloween become so mercenary ?

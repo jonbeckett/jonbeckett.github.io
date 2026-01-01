@@ -2,7 +2,8 @@
 layout: single
 title: "Back to the routine"
 date: 2023-11-11
-categories: "2023"
+categories:
+  - 2023
 ---
 
 We returned home from the Lake District on Wednesday. Six hours, a stop for a cup of tea, and nervously watching the fuel tick down for the last hundred miles - wondering if we might get home without stopping to fill the car back up. We chickened out ten miles from home.

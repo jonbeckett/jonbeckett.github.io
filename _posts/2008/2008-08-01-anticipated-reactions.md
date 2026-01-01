@@ -2,7 +2,8 @@
 layout: single
 title: "Anticipated Reactions"
 date: 2008-08-01
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Do you ever disregard a notion to tell somebody they look great because you fear it will be misinterpreted by the unwashed masses as some kind of "pass" ?

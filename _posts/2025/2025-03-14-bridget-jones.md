@@ -3,7 +3,7 @@ layout: single
 title: "Bridget Jones"
 date: 2025-03-14
 categories:
-  - "2025"
+  - 2025
 ---
 
 We just got back from the cinema - after finally seeing the latest (and perhaps final?) Bridget Jones movie. I had heard mixed things about it - some friends loved it, some hated it, some were indifferent.

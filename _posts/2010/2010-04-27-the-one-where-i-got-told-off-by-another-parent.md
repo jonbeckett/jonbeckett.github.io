@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Got Told Off By Another Parent"
 date: 2010-04-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I forgot to report this one - I got told off on the way to school this morning by another parent. Shouted at. W didn't hear because she was busy dealing with our eldest who was doing her best to appear sick to avoid another day of school.

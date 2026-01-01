@@ -2,7 +2,8 @@
 layout: single
 title: "Playing Chess On The Internet"
 date: 2006-04-15
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I thought it was about time I wrote about RedHotPawn - probably the one website I make a point of visiting every day. Perhaps obviously, it's a Chess website, and lets people play a form of the game known as "correspondence chess". The idea is that you organise a game, and you go in and make a move when you get the chance - the website keeps track of your game for you, and even emails you when it's your turn if you want.

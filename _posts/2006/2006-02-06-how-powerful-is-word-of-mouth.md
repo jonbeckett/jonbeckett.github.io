@@ -2,7 +2,8 @@
 layout: single
 title: "How Powerful Is Word Of Mouth "
 date: 2006-02-06
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I'm sat here wondering how powerful "Word of Mouth" might be when starting a new website.

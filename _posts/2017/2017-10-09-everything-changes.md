@@ -2,7 +2,8 @@
 layout: single
 title: "Everything Changes"
 date: 2017-10-09
-categories: "2017"
+categories:
+  - 2017
 ---
 
 After trying out Medium (the darling of the web publishing hipster crowd) for a few days, and trying to like it, I've admitted defeat, returned to WordPress and Tumblr, and changed the name of my blog. I'm not sure if you might call this a "re-invention", a "re-boot", or just plain stupid.

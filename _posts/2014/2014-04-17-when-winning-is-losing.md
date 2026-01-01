@@ -2,7 +2,8 @@
 layout: single
 title: "When Winning Is Losing"
 date: 2014-04-17
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I gather from one of the posts I just saw onTumblr recentlythat somebody had either won a lottery, or landed a huge contract at work. It brought to mind something I've thought about from time to time whenever people have been having that stupid conversation people have about "what you would do if you won the lottery".

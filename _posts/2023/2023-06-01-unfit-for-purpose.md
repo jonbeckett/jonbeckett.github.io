@@ -2,7 +2,8 @@
 layout: single
 title: "Unfit for Purpose"
 date: 2023-06-01
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I went for a run yesterday - for the first time in six months. This will be the umpteenth time I have set out on the "Couch to 5K" programme - to get myself back into some sort of shape. The last time I knuckled down and set about getting off my arse the universe didn't agree with me and gave me COVID. I wonder how long I'll last this time?

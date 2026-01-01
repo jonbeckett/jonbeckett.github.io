@@ -2,7 +2,8 @@
 layout: single
 title: "Imagining The Tree An Approach To Describing The Software Developmentmindset"
 date: 2008-06-11
-categories: "2008"
+categories:
+  - 2008
 ---
 
 A friend commented on the tree analogy I posted, so I thought it may be prescient to re-print the original article I wrote some years ago - describing the mindset behind software development in terms of our view of a tree. Enjoy...

@@ -2,7 +2,8 @@
 layout: single
 title: "Tired And Annoyed"
 date: 2015-04-13
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I got in from work at 6pm. Our eldest daughter was home, but the rest of the family were still presumably en-route home from the studio tour at Warner Brothers Harry Potter set (which should really be titled "the biggest rip-off on earth" - more about that later).

@@ -2,7 +2,8 @@
 layout: single
 title: "Still Star Struck After All These Years"
 date: 2021-11-01
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's the morning after Halloween. In the UK Halloween remains very much an import from the USA - I remember it gaining traction when I was young in the early 1980s. It alway interests me to see my friends in the US embracing it far more than us - with many adults dressing up too. In the UK it tends to only be children of infant and junior school age that go door-to-door.

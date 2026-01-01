@@ -2,7 +2,8 @@
 layout: single
 title: "So Ends Another Week"
 date: 2004-11-05
-categories: "2004"
+categories:
+  - 2004
 ---
 
 This week has been rather busy!

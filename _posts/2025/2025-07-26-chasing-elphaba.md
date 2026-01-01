@@ -3,7 +3,7 @@ layout: single
 title: "Chasing Elphaba"
 date: 2025-07-26
 categories:
-  - "2025"
+  - 2025
 ---
 
 There comes a point where you get thrown under the bus so often, you start to see it as strangely normal. Not a shock or surprise. It gets to the point where you see the bus coming, and don’t even bother bracing for impact - because you know you’ll survive somehow or other.

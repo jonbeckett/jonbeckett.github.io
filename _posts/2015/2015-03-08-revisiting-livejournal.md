@@ -2,7 +2,8 @@
 layout: single
 title: "Revisiting Livejournal"
 date: 2015-03-08
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I revisited a old internet haunt this weekend, and signed up for an account.I had an account a LiveJournal "back in the day" - when blogging was in it's infancy, and there were few if any collected places you could meet with other bloggers. In many ways WordPress and Tumblrowe everything to LiveJournal.

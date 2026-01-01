@@ -3,7 +3,7 @@ layout: single
 title: "Unnecessarily Difficult"
 date: 2025-12-11
 categories:
-  - "2025"
+  - 2025
 ---
 
 A few months ago I switched from Android to iPhone. In the process of doing so, somebody somewhere sold my phone number to a marketing moron, and before I knew it, I was receiving multiple calls per day from random numbers. Perhaps the most annoying were from a pre-teen telling me to call a random number to avoid being fined for something or other.

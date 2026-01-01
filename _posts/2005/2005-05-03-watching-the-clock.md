@@ -2,7 +2,8 @@
 layout: single
 title: "Watching The Clock"
 date: 2005-05-03
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I'm at work this afternoon, and find myself watching the clock. We went to the clinic early this morning for W to have a blood test - by 4pm this afternoon we will know if the IVF treatment has worked or not. The call could come anywhere between 3pm and 4pm from the clinic, and should tell us if we have a chance of being parents or not.

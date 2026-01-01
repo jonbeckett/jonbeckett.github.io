@@ -2,7 +2,8 @@
 layout: single
 title: "The Remains Of The Snow"
 date: 2013-01-22
-categories: "2013"
+categories:
+  - 2013
 ---
 
 After waking from a strangely vivid dream in the early hours of the morning, the murmurs of little people eventually forced me to look at the alarm clock, and fall out of bed to get ready for work. While the rest of the house had a snow day, I threw on warm clothes and set out into the surrounding world of snow and ice.

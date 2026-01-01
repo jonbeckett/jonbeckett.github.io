@@ -2,7 +2,8 @@
 layout: single
 title: "The Brand New Testament"
 date: 2019-01-12
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I started watching an unexpectedly wonderful movie last night. Everybody else had gone to bed fairly early, and I found myself sitting in the lounge on my own, flicking through movies on the TV. It's called "The Brand New Testament". I'm not entirely sure how to describe it.

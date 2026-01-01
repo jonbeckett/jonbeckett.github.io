@@ -2,7 +2,8 @@
 layout: single
 title: "Going nowhere fast"
 date: 2023-11-12
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I'm not entirely sure where the weekend has gone. I had plans to touch base with friends, to go for a run, to buy some music - to do so many things. I did nothing. Actually that's not entirely true - I accompanied my other half to several garden centres (we now have a huge plant in the living room that was not there before), and carried on with the usual chores - but not much else.

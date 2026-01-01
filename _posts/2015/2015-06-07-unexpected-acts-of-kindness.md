@@ -2,7 +2,8 @@
 layout: single
 title: "Unexpected Acts Of Kindness"
 date: 2015-06-07
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I lifted my online world in the air yesterday afternoon and discarded huge chunks of it. I said goodbye to accounts at Blogger, WordPress, and LiveJournal. I felt good about what I was doingalthough I knew a few people would be rolling their eyes. Then late last night I happened to check my email, and saw the following;(the following is an anonymous gift) 12 months of paid account time have been added to your LiveJournal accountOh. My. Word.

@@ -2,7 +2,8 @@
 layout: single
 title: "On The Occasion Of Becoming Miss 10"
 date: 2015-04-12
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Our house transformed itself today into a small version of Hogwarts School of Witching and Wizardry to help celebrate the birthday of our youngest daughter. When I say "transformed itself", of course, I mean "was forced by the might of two idiots will power, and a few pounds spent here and there" - more of which will be described in a few minutes time.

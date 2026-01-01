@@ -2,7 +2,8 @@
 layout: single
 title: "Chugging Along"
 date: 2004-03-10
-categories: "2004"
+categories:
+  - 2004
 ---
 
 I thought it was about time that I wrote a blog entry for March... I could end up changing the way Blog works to show the last N entries rather than "this month"... hmmm - perhaps I'll do it in a few minutes.

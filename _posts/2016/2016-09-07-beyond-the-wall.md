@@ -2,7 +2,8 @@
 layout: single
 title: "Beyond The Wall"
 date: 2016-09-07
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm in the north of England once more - staying in the Holiday Inn for one night before returning home tomorrow. Five hours each way for a two hour demonstration of something clever to a room full of strangers. And that's all I can really tell you about that part of the trip.

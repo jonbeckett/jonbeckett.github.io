@@ -2,7 +2,8 @@
 layout: single
 title: "Unplanned"
 date: 2006-02-19
-categories: "2006"
+categories:
+  - 2006
 ---
 
 This weekend didn't happen how I thought it was going to happen at all.

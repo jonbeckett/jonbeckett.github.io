@@ -2,7 +2,8 @@
 layout: single
 title: "A Sunday Walk"
 date: 2007-01-14
-categories: "2007"
+categories:
+  - 2007
 ---
 
 After rolling out of bed at nearly 10 this morning, it was decided that we should put our coats and boots on, and venture out into the surrounding countryside to get some fresh air, enjoy the day, and actually do something for a change...

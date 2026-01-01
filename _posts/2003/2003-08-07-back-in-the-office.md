@@ -2,7 +2,8 @@
 layout: single
 title: "Back In The Office"
 date: 2003-08-07
-categories: "2003"
+categories:
+  - 2003
 ---
 
 I am back working in the office today, after a couple of days working in Swindon. The one great thing that I got out of the last couple of days was reading "Hackers" by Stephen Levy while commuting back and forth from the client site.

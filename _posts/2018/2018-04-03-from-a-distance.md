@@ -2,7 +2,8 @@
 layout: single
 title: "From A Distance"
 date: 2018-04-03
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Making friends on the internet is a curious thing. While some of us are open books, posting our daily adventures for anybody to read, many are not. While some leave comments, likes, or find a way to contact those they cross paths with, many choose not to. We know they are out there - the various analytical tools record the ripples they leave behind.

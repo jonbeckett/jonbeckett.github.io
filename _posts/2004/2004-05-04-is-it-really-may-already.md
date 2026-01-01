@@ -2,7 +2,8 @@
 layout: single
 title: "Is It Really May Already"
 date: 2004-05-04
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Just a quick message to say thanks to all those who have sent me messages on Yahoo, MSN, and so on to let me know they are there and reading this Blog  I have no idea why you do read this, but it's nice to know you are there. If you ever want to send a message for a chat when you're bored, feel free.

@@ -2,7 +2,8 @@
 layout: single
 title: "Finding Time"
 date: 2019-06-19
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It feels like I haven't found time to do much of anything recently - the huge project I've been battling with at work continues to grow - swallowing up developers, consultants, and conference call hours like some sort of creeping monster - devouring all in it's path. Tonight I have carved out an hour to write a few words, and perhaps redress the balance a little. I'm not sure I have much to share though.

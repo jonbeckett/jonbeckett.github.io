@@ -2,7 +2,8 @@
 layout: single
 title: "Slowing Everything Down"
 date: 2017-10-24
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It's my second day off work, and the world finally seems to be slowing down. Yesterday was spent washing and drying clothes, fetching children from holiday activity clubs, and running here, there, and everywhere. The dishwasher is finally empty, and the washing baskets are nearing empty too. Of course we know this is a false dawn - Miss 17 spent the last two days in her room with a friend - I looked in this morning and glimpsed a pretty good version of "The End of All Things", complete with dirty clothes walked into every part of the floor space that you might walk on.

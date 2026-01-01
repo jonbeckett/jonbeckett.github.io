@@ -2,7 +2,8 @@
 layout: single
 title: "An Hour To Go"
 date: 2013-05-10
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I'm in a curious limbo hour this afternoon. I didn't really stop at lunchtime, which means technically I could pack up and leave now - except I won't - because I'm a bit stupid. So here I am, at my desk at work, wondering what to do with myself for the remains of the day.

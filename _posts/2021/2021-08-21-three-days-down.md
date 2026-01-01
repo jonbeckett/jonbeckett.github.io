@@ -2,7 +2,8 @@
 layout: single
 title: "Three Days Down"
 date: 2021-08-21
-categories: "2021"
+categories:
+  - 2021
 ---
 
 We are three days into our adventure on the south coast.

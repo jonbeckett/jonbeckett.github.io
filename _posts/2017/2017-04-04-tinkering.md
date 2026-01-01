@@ -2,7 +2,8 @@
 layout: single
 title: "Tinkering"
 date: 2017-04-04
-categories: "2017"
+categories:
+  - 2017
 ---
 
 In-between putting fires out at work today, I have been tinkering with the archive of my personal blog. Rather than bore you to tears with a tale of teeth gnashing and desk thumping, I'll just announce that you can head to GitHub and read every single post I ever wrote, if you know where to look. What's more, every single post is perfectly formatted in Markdown format, and filed under year and month. Yes, I really am that nerdy.

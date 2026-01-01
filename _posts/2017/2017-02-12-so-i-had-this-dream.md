@@ -2,7 +2,8 @@
 layout: single
 title: "So I Had This Dream"
 date: 2017-02-12
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I had a weird dream last night. I can't remember much about it now, other than it made a lot of sense in the dream to shut this blog down, and start again elsewhere, but never let on my identity.

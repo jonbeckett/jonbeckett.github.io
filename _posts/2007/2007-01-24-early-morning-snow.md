@@ -2,7 +2,8 @@
 layout: single
 title: "Early Morning Snow"
 date: 2007-01-24
-categories: "2007"
+categories:
+  - 2007
 ---
 
 After getting up just before 5:30am and wandering along the landing, I wondered what the strange glow from outside was...

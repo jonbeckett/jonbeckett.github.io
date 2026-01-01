@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing To Report"
 date: 2009-01-22
-categories: "2009"
+categories:
+  - 2009
 ---
 
 While not revising for another Microsoft certification exam tomorrow, I have been wondering what to write a blog about today. The "common sense" part of my brain is telling me that if I have nothing to write, I shouldn't try to do so.

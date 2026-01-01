@@ -2,7 +2,8 @@
 layout: single
 title: "Designing A New Tumblr Theme"
 date: 2010-12-31
-categories: "2010"
+categories:
+  - 2010
 ---
 
 For reasons best known to myself (read: I have no idea why), I'm building a new Tumblr theme - mainly because I didn't like the free ones I can find, and I'm a professional web developer

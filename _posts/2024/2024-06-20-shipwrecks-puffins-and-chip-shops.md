@@ -2,7 +2,8 @@
 layout: single
 title: "Shipwrecks, Puffins and Chip Shops"
 date: 2024-06-20
-categories: "2024"
+categories:
+  - 2024
 ---
 
 It's been a long day. My feet hurt. My legs hurt. Ominously, the achilles tendon that flared up while doing a charity run last year has flared up once again. I'll have to be careful over the coming days and weeks.

@@ -2,7 +2,8 @@
 layout: single
 title: "Harry Potter And The Half Blood Prince"
 date: 2009-07-21
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I headed out to watch "Harry Potter and the Half Blood Prince" last night with a good friend.

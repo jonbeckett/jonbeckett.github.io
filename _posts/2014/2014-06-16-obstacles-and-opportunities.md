@@ -2,7 +2,8 @@
 layout: single
 title: "Obstacles And Opportunities"
 date: 2014-06-16
-categories: "2014"
+categories:
+  - 2014
 ---
 
 It occurred to me this evening that the frustrations I often faceboth professionally, and personally, are really frustrations with those who see obstacles, rather than opportunities.

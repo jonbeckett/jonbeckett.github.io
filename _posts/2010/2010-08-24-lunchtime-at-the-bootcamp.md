@@ -2,7 +2,8 @@
 layout: single
 title: "Lunchtime At The Bootcamp"
 date: 2010-08-24
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It's lunchtime of day two at the Combined Knowledge SharePoint 2010 Bootcamp, and it's been great so far. It's rare to be afforded the opportunity to learn a new product in seclusion - so I'm taking full advantage.

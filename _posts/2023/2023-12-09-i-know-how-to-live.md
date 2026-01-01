@@ -2,7 +2,8 @@
 layout: single
 title: "I know how to live"
 date: 2023-12-09
-categories: "2023"
+categories:
+  - 2023
 ---
 
 It's Saturday evening, and you find me sitting in the dark of the study (read: junk room) at home in front of a blinking cursor. I just remembered we had some small cans of cider in the store cupboard, so have retrieved one. Party for one. I know how to live.

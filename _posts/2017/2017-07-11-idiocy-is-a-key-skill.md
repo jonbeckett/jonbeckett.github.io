@@ -2,7 +2,8 @@
 layout: single
 title: "Idiocy Is A Key Skill"
 date: 2017-07-11
-categories: "2017"
+categories:
+  - 2017
 ---
 
 For the entire time I was playing with Blogger, hoping for it to be better than it actually was, I was secretly cross-posting into a hidden WordPress blog. I actually entertained plans to migrate over to the Ghost blogging platform, and got as far as buying a domain name and some trial webspace. After 48 hours filing repeated support calls to the hosting company for things they did wrong, I realised just how stupid I was being, and returned to WordPress with my tail between my legs.

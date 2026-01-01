@@ -2,7 +2,8 @@
 layout: single
 title: "Molly Ringwald Had The End Of Pretty In Pink Rewritten Who Knew"
 date: 2011-01-02
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I had never heard this story before you want to know why Molly Ringwald suddenly vanished at the height of her fame? She insisted that John Huston have the end of "Pretty In Pink" rewritten, so she ended up with the Andrew McCarthy character, instead of "Ducky".

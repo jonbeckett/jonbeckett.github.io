@@ -2,7 +2,8 @@
 layout: single
 title: "Random Thoughts On Thursday Night"
 date: 2016-08-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I suppose technically it's already Friday morning, but it still feels like Thursday night to me, so the title will stay as is.

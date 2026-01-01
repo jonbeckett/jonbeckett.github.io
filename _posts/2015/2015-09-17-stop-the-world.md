@@ -2,7 +2,8 @@
 layout: single
 title: "Stop The World"
 date: 2015-09-17
-categories: "2015"
+categories:
+  - 2015
 ---
 
 You know the well worn phrase "stop the world, I want to get off" ? I'm starting to wonder if there's an alternate phrase more along the lines of "don't wait for me, I don't want to get on in the first place".

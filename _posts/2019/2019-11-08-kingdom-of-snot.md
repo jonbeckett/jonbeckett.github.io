@@ -2,7 +2,8 @@
 layout: single
 title: "Kingdom Of Snot"
 date: 2019-11-08
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I'm at home. I emailed work this morning and let them know I wouldn't be in. My head seems to be in the curious position of generating vast quantities of snot, but bunging up anywhere it might leave from. I imagine my entire head will explode at some point this evening in true "B-Movie" fashion - if only to relieve the pressure.

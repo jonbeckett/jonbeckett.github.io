@@ -2,7 +2,8 @@
 layout: single
 title: "Since You Left College"
 date: 2008-01-22
-categories: "2008"
+categories:
+  - 2008
 ---
 
 This is my answer to a meme I thought up at lunchtime. The general idea is to state how many years it has been since you were in education, and then answer each question with a short paragraph.

@@ -2,7 +2,8 @@
 layout: single
 title: "Working At The Weekend"
 date: 2005-09-03
-categories: "2005"
+categories:
+  - 2005
 ---
 
 It's the weekend at last - except it isn't really for me, because I have to go back into work this afternoon to try and save a project that's gone wrong.

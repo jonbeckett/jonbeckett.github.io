@@ -2,7 +2,8 @@
 layout: single
 title: "Amazon Wish List"
 date: 2010-09-30
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Seeing as I can't think of anything to share with the world in general today (earache has something to do with that), perhaps a rather random post might fit the bill. How about a listing of some of the books on my Amazon wish list ?

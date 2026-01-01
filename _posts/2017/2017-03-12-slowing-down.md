@@ -2,7 +2,8 @@
 layout: single
 title: "Slowing Down"
 date: 2017-03-12
-categories: "2017"
+categories:
+  - 2017
 ---
 
 There was something about the expression on the puppy's face in the photo accompanying this post (it's a stock photo, if you were wondering). I think it's the "let me know when the world slows down a bit?" look. The world does finally seem to be slowing down - at least until I realise I've missed something out in the colossal, not-so-super-secret project I've been working on for the last several weeks.

@@ -3,7 +3,7 @@ layout: single
 title: "Out of the loop"
 date: 2025-06-30
 categories:
-  - "2025"
+  - 2025
 ---
 
 I think I may have unwittingly succeeded in departing the loop entirely.

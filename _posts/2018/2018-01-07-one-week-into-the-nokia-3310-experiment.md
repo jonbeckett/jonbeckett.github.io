@@ -2,7 +2,8 @@
 layout: single
 title: "One Week Into The Nokia 3310 Experiment"
 date: 2018-01-07
-categories: "2018"
+categories:
+  - 2018
 ---
 
 It is now a week since the Nokia 3310 arrived, and I performed a factory reset on my previous phone (a rather lovely Honor 8 that now resides in my other half's handbag). I thought it might be interesting to record a few thoughts about my experiences so far.

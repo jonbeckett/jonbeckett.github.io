@@ -2,7 +2,8 @@
 layout: single
 title: "Open Source And Free Software"
 date: 2010-04-12
-categories: "2010"
+categories:
+  - 2010
 ---
 
 In something of a marked departure from the previous post about making hideous little girls out of plasticine, I thought perhaps we might explore something I don't write about an awful lot within the annuls of this personal blog - software development.

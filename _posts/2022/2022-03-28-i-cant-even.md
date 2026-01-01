@@ -2,7 +2,8 @@
 layout: single
 title: "I Cant Even"
 date: 2022-03-28
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I read a newspaper headline yesterday parroting the words of a fringe "scientist" that the human race was well on it's way towards extinction. I didn't pay the article much attention, given that it was published in a newspaper that's famous for it's end-of-world bias (a few flakes of snow generally herald the arrival of the next ice age in their breathless reporting).

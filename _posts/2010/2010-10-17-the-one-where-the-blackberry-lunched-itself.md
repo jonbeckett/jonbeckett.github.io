@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Blackberry Lunched Itself"
 date: 2010-10-17
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While sitting on the bedroom floor of our eldest daughter earlier this evening, the Blackberry popped up a notice reminding me that FourSquare had a pending update. I clicked "OK". That was a mistake...

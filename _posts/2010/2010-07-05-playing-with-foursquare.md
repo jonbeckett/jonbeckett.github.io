@@ -2,7 +2,8 @@
 layout: single
 title: "Playing With Foursquare"
 date: 2010-07-05
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I'll probably go to hell for this (or whichever purgatory your faith system threatens the gullible with). In a fit of curiosity, I joined FourSquare late last week.

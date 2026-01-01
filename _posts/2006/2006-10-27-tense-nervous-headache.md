@@ -2,7 +2,8 @@
 layout: single
 title: "Tense Nervous Headache"
 date: 2006-10-27
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I have a headache that has been steadily growing throughout the day. Before you tell me to go find the paracetamol, I don't think we have any. I have already taken cough medicine today anyway - and I don't particularly want to go mixing drugs. It's not that I'm paranoid - I just don't want any freak reactions to cause a case of "Bloaty Head" (you have to have played the computer game "Theme Hospital" to get that one).

@@ -2,7 +2,8 @@
 layout: single
 title: "Happy Easter"
 date: 2005-03-27
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Just a short posting this morning to say happy easter to everybody who might read this blog - I have no idea who you are, but I hope you have a good easter wherever you are anyway

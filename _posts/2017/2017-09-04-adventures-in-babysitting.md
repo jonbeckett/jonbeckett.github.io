@@ -2,7 +2,8 @@
 layout: single
 title: "Adventures In Babysitting"
 date: 2017-09-04
-categories: "2017"
+categories:
+  - 2017
 ---
 
 In the grand tradition of discovering movies thirty years after everybody else, I finally sat and watched "Adventures in Babysitting" this evening with Miss 16. I finally get it - I get the whole thing about Elizabeth Shue, and I finally understand Jeff Winger in Community making such a big deal about Britta looking like her.

@@ -2,7 +2,8 @@
 layout: single
 title: "Best Intentions"
 date: 2017-03-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I was going to stop for lunch today. I had every intention of downing tools for an hour, kicking back in my chair, and gazing at the ceiling for a while. Of course "downing tools" is a metaphorical term - I'm a software and web developer - all I really do is push my chair back a bit.

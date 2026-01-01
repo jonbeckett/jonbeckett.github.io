@@ -2,7 +2,8 @@
 layout: single
 title: "Following On Buzz"
 date: 2010-11-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 The matrix below shows the various people I am following on Google Buzz. As befits a software developer, I built a simple tool to generate the mosaic below - you can use it too at the following URL;

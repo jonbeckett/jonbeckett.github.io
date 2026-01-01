@@ -2,7 +2,8 @@
 layout: single
 title: "Slowly Sideways"
 date: 2020-02-03
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I worked from home today. I didn't set out to work from home. After cycling to work, a call from my eldest daughter mid-morning about the internet connection dropping out at home resulted in an about turn, packing my laptop into my backpack, and cycling home again.

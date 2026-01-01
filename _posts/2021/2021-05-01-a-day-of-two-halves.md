@@ -2,7 +2,8 @@
 layout: single
 title: "A Day Of Two Halves"
 date: 2021-05-01
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The first half of the day was spent chaperoning my youngest daughter to a nearby town in pursuit of a meetup with several of her friends. This included waiting at the bus station for an hour while her friends first called to say they were on their way (a lie), and then called to say they would meet her at the railway station.

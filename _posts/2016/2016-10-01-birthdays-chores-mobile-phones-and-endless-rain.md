@@ -2,7 +2,8 @@
 layout: single
 title: "Birthdays Chores Mobile Phones And Endless Rain"
 date: 2016-10-01
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It's 10:30am on Saturday morning. The washing machine is on it's third load after getting up a little after 7am. Both of the younger kids are at football matches - Miss 12 with a friend a few miles up the road, and Miss 11 with her Mum a few more miles in the opposite direction. Rain is falling steadily.

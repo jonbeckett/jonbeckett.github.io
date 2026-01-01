@@ -2,7 +2,8 @@
 layout: single
 title: "The Remains Of The Weekend"
 date: 2016-11-06
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm sitting in the dark of the junk room on a quiet Sunday evening. My other half and oldest daughter are at the far end of the country, staying in a rented cottage. They will return at some point tomorrow evening. The younger children are already in bed, their school clothes washed, their school bags packed - all that remains is to make breakfasts and packed lunches in the morning.

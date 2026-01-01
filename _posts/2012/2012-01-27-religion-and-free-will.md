@@ -2,7 +2,8 @@
 layout: single
 title: "Religion And Free Will"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Why is it that - without exception - the people I know who believe in a God or Gods and visit church regularly seem to think there is nothing wrong in acting as an evangelist (as encouraged by their peer group) ?

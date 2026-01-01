@@ -2,7 +2,8 @@
 layout: single
 title: "The In-Between"
 date: 2023-10-02
-categories: "2023"
+categories:
+  - 2023
 ---
 
 How on earth has October arrived already? Everything about the world feels strange at the moment - disconnected - broken - stumbling in a haphazard manner from one day to the next. Maybe it's the changing of the seasons. Apparently Autumn started a week ago - maybe that's it.

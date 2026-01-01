@@ -2,7 +2,8 @@
 layout: single
 title: "Hierophant"
 date: 2008-03-31
-categories: "2008"
+categories:
+  - 2008
 ---
 
 You are The Hierophant

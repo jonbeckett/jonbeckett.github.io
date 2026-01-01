@@ -2,7 +2,8 @@
 layout: single
 title: "Back At Work"
 date: 2008-03-25
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I am back at work this morning, and it feels very weird indeed. Can't write much - am busy clearing the backlog of emails, software updates and inquisitive colleagues.

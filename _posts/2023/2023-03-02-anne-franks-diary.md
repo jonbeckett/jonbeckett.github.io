@@ -2,7 +2,8 @@
 layout: single
 title: "Anne Franks Diary"
 date: 2023-03-02
-categories: "2023"
+categories:
+  - 2023
 ---
 
 After scraping ourselves out of bed this morning we wandered down to the hotel bar, which had been transformed into a cosmopolitan cafe filled with coffee, cereals, fruit juice, and all manner of meats. I filled a plate with utter, utter junk while my other half sought out a "proper" cup of tea.

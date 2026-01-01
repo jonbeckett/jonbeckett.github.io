@@ -2,7 +2,8 @@
 layout: single
 title: "Busy Going Nowhere"
 date: 2013-07-04
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I seem to have been "off the radar" for months nownot really recording stories and thoughts as I used to. Sure, I've experimented with different blogs, different usernames, and so on, but I never seem to stay in the same place for more than a few days. I never get the chance to concentrateto invest time in anything.

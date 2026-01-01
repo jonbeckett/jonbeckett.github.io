@@ -2,7 +2,8 @@
 layout: single
 title: "Books Rule"
 date: 2006-07-28
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Over the last few months I have found myself with very little time outside of work to persue my own interests, and have been watching television less than ever before. Without exaggerating at all, I can honestly say that I've spent more time in the cinema over the last month than watching television.

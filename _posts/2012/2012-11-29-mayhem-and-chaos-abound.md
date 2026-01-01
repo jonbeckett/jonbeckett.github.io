@@ -2,7 +2,8 @@
 layout: single
 title: "Mayhem And Chaos Abound"
 date: 2012-11-29
-categories: "2012"
+categories:
+  - 2012
 ---
 
 At a little after 6am this morning our eldest daughter arrived in the bedroom doorway like a glum silhouette, murmuring about being unwell. Under normal circumstances we would have brushed it off, but given her spectacular projectile display yesterday, we believed her.

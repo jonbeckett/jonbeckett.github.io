@@ -2,7 +2,8 @@
 layout: single
 title: "First Entry For A While"
 date: 2004-06-08
-categories: "2004"
+categories:
+  - 2004
 ---
 
 I'm constantly amazed how many people read this blog, and sometimes guilty that my entries are somewhat patchy in frequency... perhaps it's because there has been so much going on just recently?

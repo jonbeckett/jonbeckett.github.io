@@ -2,7 +2,8 @@
 layout: single
 title: "Has The Twitter Bubble Burst"
 date: 2009-07-27
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I was going to title this post "To blog, or to microblog", but I'm not quite sure if "to blog" is grammatically correct or not (if it is in the dictionary, I will headbutt the table rather theatrically, and make disgusted murmurings about the erosion of the English language).

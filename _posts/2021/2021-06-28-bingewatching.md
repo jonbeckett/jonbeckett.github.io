@@ -2,7 +2,8 @@
 layout: single
 title: "Bingewatching"
 date: 2021-06-28
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's Monday afternoon, and you find me sitting in the junk room at home with a cafe-society playlist humming away in the background. Rain has been falling throughout the day, and the washing machine has been working it's way through load after load of clothes, which are now hanging all over the house.

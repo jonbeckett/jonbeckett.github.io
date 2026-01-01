@@ -2,7 +2,8 @@
 layout: single
 title: "Something for me"
 date: 2023-06-07
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I worked from a nearby cafe this morning with a colleague. It's funny really - so many people seem to aspire to work from cafes or coffee shops, but really it makes no difference. If I'm concentrating on something, I can pretty much block everything out around me - conversations, sounds, music - whatever. I've always been able to do it - much to my family's annoyance. I have the curious ability to re-wind too - to repeat what was just shouted at me, and process it. That annoys them too.

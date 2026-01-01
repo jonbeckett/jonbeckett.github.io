@@ -2,7 +2,8 @@
 layout: single
 title: "The Windows Phone Surprise"
 date: 2014-02-22
-categories: "2014"
+categories:
+  - 2014
 ---
 
 After making our eldest daughter put up with a "Samsung Galaxy Y" smartphone for the last 18 months, I finally made good on a recent promise, and replaced it with something better.

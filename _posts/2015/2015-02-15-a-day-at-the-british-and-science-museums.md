@@ -2,7 +2,8 @@
 layout: single
 title: "A Day At The British And Science Museums"
 date: 2015-02-15
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Our youngest is doing the "Ancient Egypt" project at school this term - and will be spending half term creating a "project board" - essentially a board filled with any subject the child chooses, with a tick list of requirements such as drawings, written work, and a glossary. Of course nothing is ever simple in our house - her older sister is doing a project board on the second world war. Therefore we decided to hit two birds with one stone, and trek into London for the day - one of us visiting the British Museum, and the other visiting the Imperial War Museum. I drew the easier option - the British Museum (mainly because Miss 11 never shuts up, whereas her little sister is compliant, and quiet).

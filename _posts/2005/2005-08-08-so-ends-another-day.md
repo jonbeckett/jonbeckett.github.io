@@ -2,7 +2,8 @@
 layout: single
 title: "So Ends Another Day"
 date: 2005-08-08
-categories: "2005"
+categories:
+  - 2005
 ---
 
 If you hadn't figure this out yet, I tend to write in my blog every day. I write about anything and everything - usually the most boring humdrum things that have happened that day, but it's all real. It's all "true"...

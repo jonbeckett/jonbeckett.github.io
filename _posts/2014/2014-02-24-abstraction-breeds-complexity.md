@@ -2,7 +2,8 @@
 layout: single
 title: "Abstraction Breeds Complexity"
 date: 2014-02-24
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I have been working on some code today to essentially mirror the contents of a database into a number of lists in SharePoint. Normally this wouldn't be that difficultonly the client asked for something that changed the game entirelythey wanted it to be flexibleto allow the database to change in the future.

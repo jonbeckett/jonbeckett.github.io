@@ -2,7 +2,8 @@
 layout: single
 title: "If Only We Had Some Cookies"
 date: 2020-05-22
-categories: "2020"
+categories:
+  - 2020
 ---
 
 My youngest daughter's school has been taking part in a huge effort to rack up as many kilometres as possible in physical exercise while in lockdown - by either walking, running, or cycling. Each day after our Couch to 5K runs she has been emailing the distance covered to her teachers, who have been compiling the results, and letting everybody know how many kilometres were left to reach the target. Last night the remaining target stood at about 49 kilometres.

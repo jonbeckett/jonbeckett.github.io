@@ -2,7 +2,8 @@
 layout: single
 title: "The Endless Limbo Continues"
 date: 2015-08-06
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Kicking my heels at home again. I was supposed to be working from home today, but one of our children was spectacularly poorly last night. My other half had to go to the solicitors (lawyers, for those in the US) to go through more paperwork. I'm guessing there's more paperwork involved in telling the world that somebody has passed away, than there is when somebody is born.

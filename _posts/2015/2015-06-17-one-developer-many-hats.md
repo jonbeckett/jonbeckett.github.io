@@ -2,7 +2,8 @@
 layout: single
 title: "One Developer Many Hats"
 date: 2015-06-17
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While working on a project this week, it occurred to me how many different skills you need these days as a commercial software developer. I guess if you work in a big enough company (read: Facebook, or Google), you would be able to concetrate on one or two core skills, but meI have to bridge the whole damn lot.

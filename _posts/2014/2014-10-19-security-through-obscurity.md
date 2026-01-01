@@ -2,7 +2,8 @@
 layout: single
 title: "Security Through Obscurity"
 date: 2014-10-19
-categories: "2014"
+categories:
+  - 2014
 ---
 
 One of my oldest and closest friends on the internet commented on a recent post that all we invariably share via public blog posts is a "highlight reel" of our lifethe good bits. The bits we don't mind our family and real-world friends discovering.

@@ -3,7 +3,7 @@ layout: single
 title: "The lost weekend"
 date: 2025-02-23
 categories:
-  - "2025"
+  - 2025
 ---
 
 After signing myself off work sick last Wednesday, I returned to work on Thursday and Friday even though I was quite obviously getting worse. Even missing a day caused so much paperwork that I didn’t dare contemplate taking any further time off.

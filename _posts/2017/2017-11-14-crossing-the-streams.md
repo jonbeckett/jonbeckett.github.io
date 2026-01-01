@@ -2,7 +2,8 @@
 layout: single
 title: "Crossing The Streams"
 date: 2017-11-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 No, I haven't built a working prototype of the "Proton Pack" from the movie Ghostbusters, and no I'm not doing battle with a giant version of the Staypuft Marshmallow Man.

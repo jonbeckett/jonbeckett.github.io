@@ -2,7 +2,8 @@
 layout: single
 title: "Primary School Charity Night"
 date: 2011-02-12
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I don't get some people. At all.

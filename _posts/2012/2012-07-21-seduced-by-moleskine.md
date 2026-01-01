@@ -2,7 +2,8 @@
 layout: single
 title: "Seduced By Moleskine"
 date: 2012-07-21
-categories: "2012"
+categories:
+  - 2012
 ---
 
 On the shelf above the desk in our study stands a line of old moleskine notebooks. The first was discovered in the stationary isle of the local book store while kicking my heels one Saturday afternoon. It accompanied me to and from London on trains for a year, and was filled with thoughts, ideas, observations and all manner of idiotic doodles.

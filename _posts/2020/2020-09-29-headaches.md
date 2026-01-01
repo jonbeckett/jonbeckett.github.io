@@ -2,7 +2,8 @@
 layout: single
 title: "Headaches"
 date: 2020-09-29
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I was going to write a post this morning about mistakes - about how nobody is perfect, and about cancel culture. Then I thought better of it. Nobody wants to read that. I'll just stick to my quiet little life, my idiotic thoughts about inconsequential things, and leave others to fight the important battles. At the moment the most important thing going on around here is that I have a headache.

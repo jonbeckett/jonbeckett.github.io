@@ -2,7 +2,8 @@
 layout: single
 title: "The End Of The Long Weekend"
 date: 2022-06-05
-categories: "2022"
+categories:
+  - 2022
 ---
 
 The four day weekend for the Queen's jubilee is coming to an end.

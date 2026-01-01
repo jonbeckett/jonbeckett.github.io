@@ -2,7 +2,8 @@
 layout: single
 title: "What Light Through Yonder Window Breaks"
 date: 2008-12-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 What light through yonder window breaks ?

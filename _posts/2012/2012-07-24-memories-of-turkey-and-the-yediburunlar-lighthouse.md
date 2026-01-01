@@ -2,7 +2,8 @@
 layout: single
 title: "Memories Of Turkey And The Yediburunlar Lighthouse"
 date: 2012-07-24
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Late in the summer of 2006 we got on a plane at London Heathrow, switched our mobile phones off, and dissappeared. Vanished.

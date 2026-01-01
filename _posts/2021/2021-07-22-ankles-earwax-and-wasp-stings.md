@@ -2,7 +2,8 @@
 layout: single
 title: "Ankles Earwax And Wasp Stings"
 date: 2021-07-22
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's been an eventful few days in my little corner of the universe. Where to start?

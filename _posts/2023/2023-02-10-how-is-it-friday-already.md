@@ -2,7 +2,8 @@
 layout: single
 title: "How is it Friday already"
 date: 2023-02-10
-categories: "2023"
+categories:
+  - 2023
 ---
 
 Where has this week gone? I'm pretty sure the last time I looked it was still Monday afternoon - and now somehow Friday has lurched into view. Of course right now I'm looking forward to the weekend, but we know the weekend is going to vanish before my eyes, don't we. Before we know it, I'll be staying up late on Sunday night to prevent the arrival of Monday morning.

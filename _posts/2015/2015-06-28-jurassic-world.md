@@ -2,7 +2,8 @@
 layout: single
 title: "Jurassic World"
 date: 2015-06-28
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I took our eldest daughter to see "Jurassic World" at the cinema this morning (ok, I'll admit - I wanted to see it, and she tagged along with me). Just warning you - this post is going to be full of spoilers, so stop reading now if you don't want me to spoil it for you.

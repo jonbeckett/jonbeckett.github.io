@@ -2,7 +2,8 @@
 layout: single
 title: "More Pictures From The Loft"
 date: 2005-05-06
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I just had a dig around up in the loft and turned up another old drawing book from the 1990's

@@ -2,7 +2,8 @@
 layout: single
 title: "The World Through My Eyes Annoyance And Grumpiness Abounds"
 date: 2011-06-26
-categories: "2011"
+categories:
+  - 2011
 ---
 
 While watching breakfast television this morning, a stand up comedian was talking about his routine, and his reputation of being "grumpy"relating every day stories of injustice and annoyance (through his eyes at least). He remarked that while writing, if he runs out of material he just walks into town to buy a newspapersomethingwill happen to annoy the hell out of him.I couldn't help laughing, because I am exactly the same way.

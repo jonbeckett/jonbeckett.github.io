@@ -2,7 +2,8 @@
 layout: single
 title: "The Universe Slows Down On Friday"
 date: 2013-10-11
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I wonder if any famous (or secret) mad scientists have ever measured the amount of time Friday takes to pass by. I'm pretty sure today is taking longer than yesterdaynot that I've measured it of course.(ten minutes pass while I make a coffee in the kitchen two floors below us)Ok. Drinks acquired.

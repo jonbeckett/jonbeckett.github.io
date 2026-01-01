@@ -2,7 +2,8 @@
 layout: single
 title: "Departing Tumblr"
 date: 2014-06-11
-categories: "2014"
+categories:
+  - 2014
 ---
 
 After joining Tumblr a few months after their inception in 2007, I finally decided to shutter the account today. After spending the last 7 years posting thousands of original photos and written articles, it took minutes to deleteeverything. I cleared the account down, posted a final "goodbye" message, and removed the app from my phone.

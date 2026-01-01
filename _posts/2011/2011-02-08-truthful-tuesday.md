@@ -2,7 +2,8 @@
 layout: single
 title: "Truthful Tuesday"
 date: 2011-02-08
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I'm not usually one for memes, but have ten minutes to kill before the end of the day, and am unlikely to make much headway with anything new - having just returned from a meeting.

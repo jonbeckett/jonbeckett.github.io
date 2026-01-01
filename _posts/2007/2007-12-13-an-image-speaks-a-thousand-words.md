@@ -2,7 +2,8 @@
 layout: single
 title: "An Image Speaks A Thousand Words"
 date: 2007-12-13
-categories: "2007"
+categories:
+  - 2007
 ---
 
 We were given a 20 minute video of our future children last night by their foster carer.

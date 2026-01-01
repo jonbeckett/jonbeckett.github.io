@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Morning"
 date: 2011-01-02
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I'm sat here in my Hong Kong Fooey t-shirt, wondering what to do with myself. The younger children are already up, eldest is still fast asleep, other half is still fast asleep, and the world outside seems pretty damn quiet.

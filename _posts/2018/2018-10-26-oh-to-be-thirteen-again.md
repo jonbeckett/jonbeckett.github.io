@@ -2,7 +2,8 @@
 layout: single
 title: "Oh To Be Thirteen Again"
 date: 2018-10-26
-categories: "2018"
+categories:
+  - 2018
 ---
 
 It's been a strange day. I got up early, and after having a shower and getting dressed, noodled around with this and that around the house - putting things away, emptying the dishwasher, putting a load in the washing machine - the usual morning chores.

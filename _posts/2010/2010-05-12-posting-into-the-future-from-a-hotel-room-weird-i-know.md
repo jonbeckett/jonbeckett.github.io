@@ -2,7 +2,8 @@
 layout: single
 title: "Posting Into The Future From A Hotel Room Weird I Know"
 date: 2010-05-12
-categories: "2010"
+categories:
+  - 2010
 ---
 
 In these days of immediate feedback, it feels a little odd to write a blog post for a future publishing date. The reason is my own stupidity; I am sat in a hotel, hundreds of miles from home, and forgot to put the 3G USB dongle in my bag.

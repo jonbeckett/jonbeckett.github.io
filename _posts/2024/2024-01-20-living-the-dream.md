@@ -2,7 +2,8 @@
 layout: single
 title: "Living the Dream"
 date: 2024-01-20
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Today's Bloganuary writing prompt asks what our dream job might be. I can certainly tell you what my dream job was when I was young.

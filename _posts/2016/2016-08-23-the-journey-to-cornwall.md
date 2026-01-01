@@ -2,7 +2,8 @@
 layout: single
 title: "The Journey To Cornwall"
 date: 2016-08-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 After a day spent washing clothes and half-heartedly packing bags yesterday, this morning began with a much more concerted effort to throw every phone, iPad, Kindle, charger, and whatever the hell else into the back of the car before setting off towards my parents on the south-west coast. We also picked a few clothes up, but then realised en-route that we had forgotten an almost endless list of miscellaneous items.

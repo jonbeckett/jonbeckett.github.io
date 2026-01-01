@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Witnessed A Parenting Failure"
 date: 2015-05-30
-categories: "2015"
+categories:
+  - 2015
 ---
 
 After dropping our youngest at football training this morning, I realised I was the only parent at the side of the pitch, and thought "this is ridiculous", so called home, and wandered down the road to get some groceries while Miss 10 ran around the soccer field like Kermit the Frog on acid.

@@ -2,7 +2,8 @@
 layout: single
 title: "Website Traffic A Nice Problem To Have"
 date: 2009-10-12
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I received an email from the hosts of Cheese and Beans earlier today, notifying me that on the 12th of the month, I have already over-run the bandwidth limits of my hosting account. In laymans terms, that means "you've got too many damn people reading your blog!"

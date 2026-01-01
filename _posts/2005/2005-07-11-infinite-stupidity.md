@@ -2,7 +2,8 @@
 layout: single
 title: "Infinite Stupidity"
 date: 2005-07-11
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Somebody emailed me this news story this morning because they couldn't believe it, and I can't believe it either...

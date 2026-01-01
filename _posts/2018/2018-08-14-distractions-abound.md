@@ -2,7 +2,8 @@
 layout: single
 title: "Distractions Abound"
 date: 2018-08-14
-categories: "2018"
+categories:
+  - 2018
 ---
 
 While working on some code this afternoon one of my co-workers wandered over to check if I had keys to the office. I glanced at the clock, and realised it was already 6pm. How the hell did that happen? After a quick call home to apologise in advance, I jumped on the bike and started out towards home.

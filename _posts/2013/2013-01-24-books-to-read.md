@@ -2,7 +2,8 @@
 layout: single
 title: "Books To Read"
 date: 2013-01-24
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I'm thinking that perhaps if I share the list of books I would like to read some time soon (most of which I already own, or have borrowed from friends), it might shame me into doing something about it...

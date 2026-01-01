@@ -2,7 +2,8 @@
 layout: single
 title: "Whos Idea Was It To Go Running Again "
 date: 2016-09-12
-categories: "2016"
+categories:
+  - 2016
 ---
 
 For some bizarre reason while exchanging messages with a friend on the other side of the world earlier this evening I guilted myself into going running. At 9:10pm. At night. I wandered upstairs and pulled open the drawer that hasn't been pulled open for something in the region of seven years, and fished out a pair of running shorts, and a bright yellow t-shirt that was probably made of some sort of space age wicking fabric, designed to deal with sweat. Obviously it was never designed for the tidal wave of sweat I was about to subject it to, but we'll try not to dwell on that thought.

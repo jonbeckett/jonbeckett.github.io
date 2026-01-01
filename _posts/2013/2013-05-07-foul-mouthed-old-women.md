@@ -2,7 +2,8 @@
 layout: single
 title: "Foul Mouthed Old Women"
 date: 2013-05-07
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Before leaving work this evening I called home to see if I needed to stop and get anything on the way. Silly question really. Twenty minutes later I found myself walking the aisles of the big supermarket in town, figuring out (a) how much I could carry in a basket, and (b) how much would fit in my backpack, or possibly on the handlebars of my mountain bike.

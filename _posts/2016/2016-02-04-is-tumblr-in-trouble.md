@@ -2,7 +2,8 @@
 layout: single
 title: "Is Tumblr In Trouble "
 date: 2016-02-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 While cycling to work this morning, I was listening to the DTNS podcast, and Tom Merritt mentioned the numbers reported by Yahoo yesterdayand chief among them the devaluing of Tumblr.

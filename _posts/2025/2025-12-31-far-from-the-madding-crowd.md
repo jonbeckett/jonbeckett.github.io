@@ -3,7 +3,7 @@ layout: single
 title: "Far from the madding crowd"
 date: 2025-12-31
 categories:
-  - "2025"
+  - 2025
 ---
 
 As the final hours of 2025 ebbed away, I sat on the sofa with a laptop, quietly lifting 22 years worth of blog posts into the air to quietly land them far from the madding crowd.

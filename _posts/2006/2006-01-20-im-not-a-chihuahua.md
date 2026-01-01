@@ -2,7 +2,8 @@
 layout: single
 title: "Im Not A Chihuahua"
 date: 2006-01-20
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I just did a survey at tickle.com, and am somewhat shocked, stunned and amazed at the result. I filled out a survey to answer the question "What kind of Dog are you?"... here's the response;

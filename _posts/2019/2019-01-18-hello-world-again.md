@@ -2,7 +2,8 @@
 layout: single
 title: "Hello World Again"
 date: 2019-01-18
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It seems only natural that a blog should begin with a post called "Hello World". This isn't really a beginning at all though - it's the result of an endless trudge around the internet looking for a suitable place to publish all manner of forgettable rubbish.

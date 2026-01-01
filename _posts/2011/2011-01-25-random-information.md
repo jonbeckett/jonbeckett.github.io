@@ -2,7 +2,8 @@
 layout: single
 title: "Random Information"
 date: 2011-01-25
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Height - 6ft 3C/3

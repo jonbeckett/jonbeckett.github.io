@@ -2,7 +2,8 @@
 layout: single
 title: "Morning In London"
 date: 2006-05-25
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I had to visit a client in London this morning to rescue them - their web database server had gone down, and I was chosen to don the cape and fly in - well, trundle in on the train.

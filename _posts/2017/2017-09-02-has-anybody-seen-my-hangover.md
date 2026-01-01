@@ -2,7 +2,8 @@
 layout: single
 title: "Has Anybody Seen My Hangover"
 date: 2017-09-02
-categories: "2017"
+categories:
+  - 2017
 ---
 
 We were invited out to a 50th birthday party last night, hosted at the local rowing club on the river - the same rowing club where you might typically have found Katherine Granger and Steve Redgrave in years past. I seems ridiculous, but I have lived nearby for seventeen years, and never set foot in the place until yesterday.

@@ -2,7 +2,8 @@
 layout: single
 title: "The one where Tumblr deactivated my account"
 date: 2023-05-20
-categories: "2023"
+categories:
+  - 2023
 ---
 
 For the last year or so I've been following the idea that it's better to take your writing to potential readers, rather than try to bring them to your writing. With that in mind, I created mirrors of my personal blog at Wordpress and Tumblr and cross posted entries into them.

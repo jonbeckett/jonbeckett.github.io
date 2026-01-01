@@ -2,7 +2,8 @@
 layout: single
 title: "Defining A Meme"
 date: 2006-01-18
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I was just reading somebody elses blog, and the term "meme" came up yet again - I keep seeing this term all over the place, so decided to look it up.

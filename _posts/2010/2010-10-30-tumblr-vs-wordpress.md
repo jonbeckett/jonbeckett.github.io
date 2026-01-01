@@ -2,7 +2,8 @@
 layout: single
 title: "Tumblr Vs Wordpress"
 date: 2010-10-30
-categories: "2010"
+categories:
+  - 2010
 ---
 
 A few days ago I had 3000 people visit my wordpress blog. What's more, many of them engaged with the content, commented, and have continued to return.

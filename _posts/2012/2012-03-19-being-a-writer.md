@@ -2,7 +2,8 @@
 layout: single
 title: "Being A Writer"
 date: 2012-03-19
-categories: "2012"
+categories:
+  - 2012
 ---
 
 A few people have recently commented that I should write. Not just the blog, but a "proper" chunk of writing - a book - a novel. I don't know. Quite apart from my occasionally glaring lack of punctuation skills (as evidenced by the opening sentences of this paragraph), I'm really not sure I'm made of stern enough stuff to be a "real" writer.

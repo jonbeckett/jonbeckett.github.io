@@ -2,7 +2,8 @@
 layout: single
 title: "Biting Off More Than I Can Chew"
 date: 2007-10-17
-categories: "2007"
+categories:
+  - 2007
 ---
 
 About a month ago I wrote a quick email to the people behind NaBloPoMo asking what their plans were for this year. I offered assistance, and to tell the truth, was actually rather relieved when it transpired that Ning would be hosting the community side of things this year. It meant I could concentrate on taking part.

@@ -2,7 +2,8 @@
 layout: single
 title: "Not the bravest smartest of funniest"
 date: 2024-06-11
-categories: "2024"
+categories:
+  - 2024
 ---
 
 My other half started watching "Suits" recently - the legal drama that launched several actors towards stardom - most notably Megan Markle, I suppose.

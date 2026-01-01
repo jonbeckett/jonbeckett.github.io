@@ -2,7 +2,8 @@
 layout: single
 title: "Running For A Train"
 date: 2017-03-15
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It all looked so simple. When I ordered the train tickets a few days ago, I thought I would be daring, and order specific times for specific trains. This snap decision would come back to haunt me pretty spectacularly today.

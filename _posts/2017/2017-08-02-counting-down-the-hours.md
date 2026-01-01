@@ -2,7 +2,8 @@
 layout: single
 title: "Counting Down The Hours"
 date: 2017-08-02
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I have a little over seven hours left in the office tomorrow before two weeks vacation. To say I'm looking forward to it would be a colossal understatement. We are not going anywhere - we can't afford it this year - so we're doing a "staycation". That's code for "fight to keep the house tidy for two weeks", along with "do gardening non stop", and "go to the rubbish tip every other day".

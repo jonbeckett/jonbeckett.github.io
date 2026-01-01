@@ -2,7 +2,8 @@
 layout: single
 title: "Crossing Paths"
 date: 2014-03-06
-categories: "2014"
+categories:
+  - 2014
 ---
 
 After a long day spent untangling requirements, building workflows, and bashing my head against a boardroom desk, this evening broke the monotony somewhata co-worker happened to stay at the same hotel for the evening.

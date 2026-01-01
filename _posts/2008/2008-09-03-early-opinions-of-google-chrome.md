@@ -2,7 +2,8 @@
 layout: single
 title: "Early Opinions Of Google Chrome"
 date: 2008-09-03
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I have been playing with Google Chrome throughout most of today (while not fighting fires with C#, SQL Server and K2), and thought it might be worth recording them for posterity.

@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Bought My Own Easter Egg"
 date: 2016-03-26
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I went shopping at 4pm this afternoon for Easter eggsbecause otherwise our kids wouldn't have had any at all. Let's try to ignore that my other half spent the entire day shopping, and didn't think to get any.

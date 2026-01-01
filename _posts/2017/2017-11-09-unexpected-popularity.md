@@ -2,7 +2,8 @@
 layout: single
 title: "Unexpected Popularity"
 date: 2017-11-09
-categories: "2017"
+categories:
+  - 2017
 ---
 
 The strangest thing has been happening. Maybe not strange, but certainly unexpected. People have been reading my blog posts. Lots of people. Well, a few. More than in quite some time. Ok, enough with the short sentences because it makes me sound like Donald Trump (on a side note, it will be interesting to see how the new 280 character limit at Twitter effects the style and content of his hyperbolic buffoonery).

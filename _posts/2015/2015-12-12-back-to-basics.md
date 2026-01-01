@@ -2,7 +2,8 @@
 layout: single
 title: "Back To Basics"
 date: 2015-12-12
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Every so often I realise I'm trying too hard at this blogging larkpre filtering everything I might write, instead of just emptying my head into the keyboardrecording the happenings of the day. If Iwait for something thought provoking to write about, I might not give myself an excuse to write for several days. Quite often each day rolls into the nextlike some kind of Groundhog Day infested hell. Hardly a great inspiration for interesting and witty stories to share with unknown internet passers by.

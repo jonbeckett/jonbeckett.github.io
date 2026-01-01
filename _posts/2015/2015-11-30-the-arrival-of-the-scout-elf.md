@@ -2,7 +2,8 @@
 layout: single
 title: "The Arrival Of The Scout Elf"
 date: 2015-11-30
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Something rather strange happened at home this weekend. As always when post arrives, the children heard the rat-tat-tat of the postbox, and ran to the front door.Miss 10 returned to the lounge breathlessly while myself and my other half stood in the kitchen with furrowed browswondering what on earth was going on. She was carrying aletter, and a brown paper parcel. The postmark wasfrom the North Pole, but the children hadn't noticed."It's for 'The Beckett Family'and it's hand writtencan we open it?"We nodded.

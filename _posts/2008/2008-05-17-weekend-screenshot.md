@@ -2,7 +2,8 @@
 layout: single
 title: "Weekend Screenshot"
 date: 2008-05-17
-categories: "2008"
+categories:
+  - 2008
 ---
 
 For the curious - applications are...

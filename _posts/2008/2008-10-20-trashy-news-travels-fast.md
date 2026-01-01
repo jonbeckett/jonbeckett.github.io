@@ -2,7 +2,8 @@
 layout: single
 title: "Trashy News Travels Fast"
 date: 2008-10-20
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While reading various news stories this morning, it struck me how a story will break in one place, and spread quickly through related news sources over the following minutes.Somebody will get the scoop, and then the geek army seems to descend - quickly followed by the unwashed masses.

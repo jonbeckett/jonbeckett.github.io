@@ -2,7 +2,8 @@
 layout: single
 title: "The Little Computer That Could"
 date: 2016-06-17
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I ordered a Raspberry Pi 3 starter kit last night from Amazon - it arrived in the office at lunchtime today. While I would love to get it out of the box and immediately start playing with it, I'm not going to. I'm going to get our kids to put it together.

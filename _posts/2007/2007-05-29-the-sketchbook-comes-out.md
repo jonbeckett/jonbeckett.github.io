@@ -2,7 +2,8 @@
 layout: single
 title: "The Sketchbook Comes Out"
 date: 2007-05-29
-categories: "2007"
+categories:
+  - 2007
 ---
 
 After something in the region of 6 years I fished a sketchbook out of the attic tonight, and started drawing. I've been meaning to do this for a LONG time... and I've been intending to learn how to draw Manga characters for a very long time too.

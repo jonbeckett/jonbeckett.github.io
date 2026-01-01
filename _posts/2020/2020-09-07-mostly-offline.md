@@ -2,7 +2,8 @@
 layout: single
 title: "Mostly Offline"
 date: 2020-09-07
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I was going to to title this post "Working from Home", but this is my life now - working from home.

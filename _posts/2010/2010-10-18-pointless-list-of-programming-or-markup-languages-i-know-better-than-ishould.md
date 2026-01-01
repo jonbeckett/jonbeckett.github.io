@@ -2,7 +2,8 @@
 layout: single
 title: "Pointless List Of Programming Or Markup Languages I Know Better Than Ishould"
 date: 2010-10-18
-categories: "2010"
+categories:
+  - 2010
 ---
 
 A quick rundown of the various programming languages and/or markup languages that I can program fairly proficiently in I'm not going to say that I'm particularly good at any of them, because there's always somebody better than you at everything

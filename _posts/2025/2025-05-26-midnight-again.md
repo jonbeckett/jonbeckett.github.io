@@ -3,7 +3,7 @@ layout: single
 title: "Midnight Again"
 date: 2025-05-26
 categories:
-  - "2025"
+  - 2025
 ---
 
 I'm sitting in the dark of the junk room late on Sunday night, listening to Elton John and Brandi Carlile's album "Who Believes in Angels". When I first heard it, I wasn't sure - but then over the days, weeks and months since it's release, it has grown on me. I love it when music does that - when it takes a few listens.

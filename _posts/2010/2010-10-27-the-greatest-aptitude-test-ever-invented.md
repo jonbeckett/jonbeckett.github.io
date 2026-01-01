@@ -2,7 +2,8 @@
 layout: single
 title: "The Greatest Aptitude Test Ever Invented"
 date: 2010-10-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While making a drink for my colleagues this morning, a thought popped into my head - an idea for the best aptitude test ever invented for interviews - a text adventure game from the 1980s.

@@ -2,7 +2,8 @@
 layout: single
 title: "Where Did The Evening Go"
 date: 2005-04-20
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I'm sat here typing this at 23:06 and wondering where on earth the evening went...

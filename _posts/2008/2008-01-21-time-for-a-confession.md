@@ -2,7 +2,8 @@
 layout: single
 title: "Time For A Confession"
 date: 2008-01-21
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I just bought the components to prolongue the life of the desktop computer at home.

@@ -2,7 +2,8 @@
 layout: single
 title: "Running Shoes"
 date: 2019-09-28
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I just ordered a pair of running shoes from Amazon - they will arrive tomorrow morning. I haven't run any sort of distance in 10 years. I'm still wondering why (why I bought the shoes, not why I haven't run).

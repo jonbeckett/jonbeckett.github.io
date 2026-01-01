@@ -3,7 +3,7 @@ layout: single
 title: "How is it nearly Thursday already?"
 date: 2025-11-05
 categories:
-  - "2025"
+  - 2025
 ---
 
 I just looked at the clock in the corner of the computer screen after consciously trying to figure out what day of the week it was. Where did Wednesday go? Never mind Monday and Tuesday - how is it nearly Thursday? Where did Wednesday evening go? Has anybody seen it?

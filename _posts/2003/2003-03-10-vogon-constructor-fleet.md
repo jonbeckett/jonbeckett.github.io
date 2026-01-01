@@ -2,7 +2,8 @@
 layout: single
 title: "Vogon Constructor Fleet"
 date: 2003-03-10
-categories: "2003"
+categories:
+  - 2003
 ---
 
 We've just been messing around in the office (trying not to do any work) and I came up with the following rather stupid sketch...

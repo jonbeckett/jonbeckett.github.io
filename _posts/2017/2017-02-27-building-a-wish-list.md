@@ -2,7 +2,8 @@
 layout: single
 title: "Building A Wish List"
 date: 2017-02-27
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Tonight I have been tasked with putting together an Amazon Wish List full of affordable things that my family might choose from for my upcoming birthday. Before I start, it might be worth getting one thing absolutely clear - I'm not fishing for anybody to buy me anything. I'm also not going to tell you when my birthday is.

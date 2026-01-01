@@ -2,7 +2,8 @@
 layout: single
 title: "Long Time No Write"
 date: 2003-05-21
-categories: "2003"
+categories:
+  - 2003
 ---
 
 The last couple of weeks have been pretty busy for me (hence no entries in this blog).

@@ -2,7 +2,8 @@
 layout: single
 title: "Messages From The Clouds"
 date: 2009-10-02
-categories: "2009"
+categories:
+  - 2009
 ---
 
 No, I have not bought a copy of "The Cloud Spotters Guide", neither have I suddenly started reading the collected writings of Billy Meier (I'll let you look him up on Google).

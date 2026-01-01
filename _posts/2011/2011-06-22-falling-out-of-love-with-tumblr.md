@@ -2,7 +2,8 @@
 layout: single
 title: "Falling Out Of Love With Tumblr"
 date: 2011-06-22
-categories: "2011"
+categories:
+  - 2011
 ---
 
 For the past few years I have had a foot in both the "blogging" and "micro-blogging" campsmaintaining accounts at WordPress and Tumblr. In a curious way they fit well togetherwhere WordPress is suited to carefully authored and curated content, Tumblr is more of a scrapbooka digital cork board with bits of photo, sticky notes, and half written thoughts.

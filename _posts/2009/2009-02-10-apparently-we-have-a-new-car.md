@@ -2,7 +2,8 @@
 layout: single
 title: "Apparently We Have A New Car"
 date: 2009-02-10
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I called home earlier today, knowing that W went looking at replacement cars.

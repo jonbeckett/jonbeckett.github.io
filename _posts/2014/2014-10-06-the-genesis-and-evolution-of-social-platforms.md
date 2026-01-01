@@ -2,7 +2,8 @@
 layout: single
 title: "The Genesis And Evolution Of Social Platforms"
 date: 2014-10-06
-categories: "2014"
+categories:
+  - 2014
 ---
 
 The birth of new social platforms on the internet is interesting. Where the natural world stumbled upon the seemingly miraculous mix of ingredients and processes to bootstrap a living, breathing organism over the course of millions of years, we stand on the shoulders of countless forebears, and launch magic missile after magic missile over the horizon, armed with ingenuity, hope, determination, naiivety, and at times incredible stupidity.

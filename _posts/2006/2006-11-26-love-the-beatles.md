@@ -2,7 +2,8 @@
 layout: single
 title: "Love The Beatles"
 date: 2006-11-26
-categories: "2006"
+categories:
+  - 2006
 ---
 
 While out shopping, quite apart from finally aquiring a Moleskine notebook, I spied the new Beatles album "Love"...

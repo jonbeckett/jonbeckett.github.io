@@ -2,7 +2,8 @@
 layout: single
 title: "Early Morning In London"
 date: 2006-01-25
-categories: "2006"
+categories:
+  - 2006
 ---
 
 We were up at 5am this morning, made our way to Maidenhead, and caught the 6:05 train to London for the first part of the IVF cycle. It seems strange referring to it as "the first part" because W has been on a cocktail of hormone drugs for the last month already, and will be on far more drugs over the coming weeks.

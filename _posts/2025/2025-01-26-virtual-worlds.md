@@ -3,7 +3,7 @@ layout: single
 title: "Virtual Worlds"
 date: 2025-01-26
 categories:
-  - "2025"
+  - 2025
 ---
 
 After wandering into the living room this evening I caught the second half of the wonderful movie “Free Guy” - where Ryan Reynolds, Jodie Comer and Joe Keery explore what might happen in a virtual world such as “Second Life”, or “Grand Theft Auto” if the non-player-characters develop sentience through artificial intelligence.

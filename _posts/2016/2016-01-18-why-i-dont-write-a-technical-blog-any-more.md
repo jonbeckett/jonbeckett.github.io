@@ -2,7 +2,8 @@
 layout: single
 title: "Why I Dont Write A Technical Blog Any More"
 date: 2016-01-18
-categories: "2016"
+categories:
+  - 2016
 ---
 
 For many years I wrote two blogs on the internetone where I recorded life the universe and everything (read: hopes, dreams, idiotic thoughts, daily life, etc), and the other where I recorded bits and pieces of source code, or meandering think pieces about technology, the internet, the future, and so on. I guess you might term them "the life blog", and "the nerd blog".

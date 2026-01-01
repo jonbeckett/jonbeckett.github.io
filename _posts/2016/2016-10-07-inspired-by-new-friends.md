@@ -2,7 +2,8 @@
 layout: single
 title: "Inspired By New Friends"
 date: 2016-10-07
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I've been writing a blog for a very, very long time. If you include the static sites I posted to the internet before the dawn of "blogging", I'm almost comically ancient. I some ways I am the blogging equivalent of Methuselah. If you've not heard of Methuselah before, Wikipedia tells us the following;

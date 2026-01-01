@@ -2,7 +2,8 @@
 layout: single
 title: "While making other plans"
 date: 2023-06-04
-categories: "2023"
+categories:
+  - 2023
 ---
 
 While sitting in the dark of the junk room decompressing, John Lennon's words come to mind - "life is what happens while you're making other plans". Somehow this weekend came off the rails and never quite got back on them.

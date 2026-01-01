@@ -2,7 +2,8 @@
 layout: single
 title: "Blackmail On E Bay"
 date: 2007-07-02
-categories: "2007"
+categories:
+  - 2007
 ---
 
 cross-posted from my other blog, because I feel this is important...

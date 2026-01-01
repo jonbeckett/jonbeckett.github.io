@@ -2,7 +2,8 @@
 layout: single
 title: "A Confession Of Sorts"
 date: 2016-07-26
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Back in the mid 1990s when nerd fashion almost dictated that you should buy webspace and publish your own website, I installed a copy of a web development tool from the CD on the front of a magazine, and built a single page website called "ThoughtCafe". The future of that single page site probably warrants a big rambling post of it's own at some point. Today we're not talking about that site though.

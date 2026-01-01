@@ -2,7 +2,8 @@
 layout: single
 title: "Love And Betrayal"
 date: 2018-05-18
-categories: "2018"
+categories:
+  - 2018
 ---
 
 How do I describe the events of yesterday ?

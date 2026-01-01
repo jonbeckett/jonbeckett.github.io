@@ -2,7 +2,8 @@
 layout: single
 title: "Pain Lots Of Pain"
 date: 2015-06-19
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While standing between the lounge and the kitchen drying up a mug, having a conversation with my other halflast night, I twisted to say something, and something popped in the muscles in the middle of my back. I did that thing you do, where you freeze in place, and carefully re-arrange your bodywondering what just happened.I appeared to be fine. I went to bed at a half-sensible time for a change, and fell asleep almost immediately.

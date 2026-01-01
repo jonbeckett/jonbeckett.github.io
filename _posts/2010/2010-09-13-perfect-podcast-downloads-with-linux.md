@@ -2,7 +2,8 @@
 layout: single
 title: "Perfect Podcast Downloads With Linux"
 date: 2010-09-13
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I ordered a Sandisk "Sansa Clip+" MP3 player today, to use instead of my phone to catch up on the various podcasts I try and catch.

@@ -2,7 +2,8 @@
 layout: single
 title: "Oh So Quiet"
 date: 2016-09-10
-categories: "2016"
+categories:
+  - 2016
 ---
 
 My other half is walking a section of the "Thames Challenge" for charity this weekend with her Mum - as far as I understand, they are doing a 20+ kilometre section of the challenge, expecting to take five to six hours. I'm keeping up with her progress via a mobile app called "ViewRanger", which reports her position every so often.

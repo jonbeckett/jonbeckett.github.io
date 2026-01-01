@@ -2,7 +2,8 @@
 layout: single
 title: "Windows 7 Not A Re Write At All"
 date: 2008-11-11
-categories: "2008"
+categories:
+  - 2008
 ---
 
 And I quote from InfoWorld, who have been picking apart the beta of Windows 7...

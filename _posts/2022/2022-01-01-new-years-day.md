@@ -2,7 +2,8 @@
 layout: single
 title: "New Years Day"
 date: 2022-01-01
-categories: "2022"
+categories:
+  - 2022
 ---
 
 So here we are. Another new year. While it's tempting to make resolutions, to "double down" on that which was intended but not done in the past, I'm resisting. Resolutions are invariably not kept. Aspirations are invariably not met. While it sounds tremendously boring to have no aims, given the past couple of years just making it through in one piece seems to be as good a goal as any.

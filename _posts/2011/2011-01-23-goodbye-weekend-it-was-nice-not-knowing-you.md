@@ -2,7 +2,8 @@
 layout: single
 title: "Goodbye Weekend It Was Nice Not Knowing You"
 date: 2011-01-23
-categories: "2011"
+categories:
+  - 2011
 ---
 
 This entire weekend has vanished up it's own ass so fast it's almost unfathomable. It hasn't been allbad though. I just finished putting the kids to bed after organising a "movie night" for them.

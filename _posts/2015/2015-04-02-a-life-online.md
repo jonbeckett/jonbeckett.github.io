@@ -2,7 +2,8 @@
 layout: single
 title: "A Life Online"
 date: 2015-04-02
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Over the years I have been on-line - and it's more years than I care to remember - unlikely friendships have sprung up like weeds in the desert. Sometimes the internet can seem barren, empty, and soulless, but once you have a friend somewhere out there it's complexion changes. You have a window to a life very different than your own - a life less ordinary.

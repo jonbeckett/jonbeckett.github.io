@@ -2,7 +2,8 @@
 layout: single
 title: "Crash Bang Wallop Out Of Nablowrimo"
 date: 2009-11-27
-categories: "2009"
+categories:
+  - 2009
 ---
 
 With days left to go, I didn't post anything yesterday. Crash bang wallop indeed.

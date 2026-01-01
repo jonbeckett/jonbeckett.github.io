@@ -2,7 +2,8 @@
 layout: single
 title: "Grunting At Wimbledon"
 date: 2009-06-24
-categories: "2009"
+categories:
+  - 2009
 ---
 
 Finally some sense came to the Wimbledon tennis tournament today, when a quietly spoken Argentinian girl beat Maria Sharapova. While Sharapova grunted, screamed, bellowed, and yelled her way around the court, Dulko quietly got on with the job.

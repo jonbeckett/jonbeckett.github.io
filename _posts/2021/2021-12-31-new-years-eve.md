@@ -2,7 +2,8 @@
 layout: single
 title: "New Years Eve"
 date: 2021-12-31
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's mid-morning on the final day of the year, and you find me perched on the office chair in the home office / junk room that I have lived in for much of the last eighteen months, bathed in the glow of a huge monitor, with Madonna filling the room with "Vogue" - the first track of a random playlist chosen moments ago. A cup of coffee sits adjacent to my left hand, with wisps of steam curling above it in the light of a desk lamp.

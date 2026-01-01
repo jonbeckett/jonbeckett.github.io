@@ -2,7 +2,8 @@
 layout: single
 title: "The fool on the hill"
 date: 2024-06-02
-categories: "2024"
+categories:
+  - 2024
 ---
 
 I've been sitting in the dark of the living room for the last ten minutes, looking straight through a cup of hot chocolate. The cursor blinks on the screen in front of me in the darkness, expecting my fingers to start flying over the keys, emptying thoughts into the keyboard.

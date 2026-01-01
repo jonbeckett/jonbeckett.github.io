@@ -2,7 +2,8 @@
 layout: single
 title: "Dipping A Toe Back Into Tumbling Waters"
 date: 2012-02-13
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I used to have a blog atTumblr. I got annoyed with it's shortcomings, and walked away. I then tried WordPress. I got annoyed with it's shortcomings, and walked away. I then triedPosterous. I got annoyed with it's shortcomings, and walked away.

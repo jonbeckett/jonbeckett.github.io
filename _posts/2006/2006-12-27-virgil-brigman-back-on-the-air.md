@@ -2,7 +2,8 @@
 layout: single
 title: "Virgil Brigman Back On The Air"
 date: 2006-12-27
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Half way through reading a blog yesterday afternoon, a small red cross appeared in the Windows system tray (yes, I use a desktop computer with Microsoft Windows on it - bite me).

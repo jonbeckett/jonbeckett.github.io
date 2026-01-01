@@ -2,7 +2,8 @@
 layout: single
 title: "Explaining my Recent Absence"
 date: 2023-04-02
-categories: "2023"
+categories:
+  - 2023
 ---
 
 The clock is ticking towards midnight once more. You find me sitting in the dark of the junk room once more. Perhaps I should stop calling it the ajunk rooma, and call it athe officea - although saying that, the only clear wall is now covered with an aviation sector map of the southern United Kingdom.

@@ -2,7 +2,8 @@
 layout: single
 title: "Strange Dreams"
 date: 2015-10-04
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's unusual that I remember dreams for more than a few moments after I wake upbut this morning the bizarre story concocted by my unsupervised mind was perhaps a little more strange than normalI can remember vast swathes of it.

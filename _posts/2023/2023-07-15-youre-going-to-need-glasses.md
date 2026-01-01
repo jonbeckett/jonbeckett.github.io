@@ -2,7 +2,8 @@
 layout: single
 title: "Youre going to need glasses"
 date: 2023-07-15
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I walked into town yesterday at lunchtime and visited the opticians for an eye test. It's been about five years since I last had my eyes tested, and I had slowly become aware that my eyes are not quite as good as they used to be. When tired I've been finding it difficult to focus - either close to me, or further away.

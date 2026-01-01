@@ -2,7 +2,8 @@
 layout: single
 title: "Switching Off"
 date: 2014-02-25
-categories: "2014"
+categories:
+  - 2014
 ---
 
 After spending all day with my head buried in hilariously complex programming to force computers to do something dreamed up by managers at some far flung company that their staff will hate, I find it very difficult to switch off.

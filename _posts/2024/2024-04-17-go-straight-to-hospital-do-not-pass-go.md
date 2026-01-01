@@ -2,7 +2,8 @@
 layout: single
 title: "Go straight to hospital - do not pass go"
 date: 2024-04-17
-categories: "2024"
+categories:
+  - 2024
 ---
 
 The night before last our youngest daughter started complaining that her back hurt. We didn't think much about it at the time - she always has some ailment, injury, ache or pain to complain about.

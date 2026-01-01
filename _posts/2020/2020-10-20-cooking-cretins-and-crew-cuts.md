@@ -2,7 +2,8 @@
 layout: single
 title: "Cooking Cretins And Crew Cuts"
 date: 2020-10-20
-categories: "2020"
+categories:
+  - 2020
 ---
 
 Since beginning to work from home, I have started cooking on particular nights of the week. In past years I've been happy to wash up, and leave cooking to my other half. She's better at it than me - as evidenced by something our eldest daughter once said:

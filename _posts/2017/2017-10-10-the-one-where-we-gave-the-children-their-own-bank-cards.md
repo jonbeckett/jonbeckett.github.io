@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where We Gave The Children Their Own Bank Cards"
 date: 2017-10-10
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Two mysterious envelopes arrived in the post this afternoon, addressed to my younger daughters. After spotting the postal return addresses on them, I almost threw them away, but curiosity got the better of me and I opened them. The envelopes contained bank debit cards, with their names on them.

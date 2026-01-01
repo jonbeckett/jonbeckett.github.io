@@ -2,7 +2,8 @@
 layout: single
 title: "Holy Storage Batman"
 date: 2006-07-20
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I think this might have to be a geeky post.

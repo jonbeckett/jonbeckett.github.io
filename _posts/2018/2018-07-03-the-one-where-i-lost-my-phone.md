@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Lost My Phone"
 date: 2018-07-03
-categories: "2018"
+categories:
+  - 2018
 ---
 
 You know how I switched back to a basic candy-bar phone at the start of the year? I've been using it mostly as a destination for text messages when logging into social networking sites. I also use it as a destination for "one time codes" for the bank account - when I make a payment for anything through online banking, it sends a code to the phone, and I key it in to validate the transaction. This all works wonderfully - until you lose your damn phone.

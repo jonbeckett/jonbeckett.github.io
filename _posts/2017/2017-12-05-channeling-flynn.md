@@ -2,7 +2,8 @@
 layout: single
 title: "Channeling Flynn"
 date: 2017-12-05
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I spent the entire day buried in programming again. Another thousand lines of code, some user interface design, and some workflow wrangling. Don't ask what I mean by workflow - it's the thing I get paid to talk about in front of rooms full of business people all over the country - the reason I sit on planes and trains so often.

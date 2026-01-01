@@ -2,7 +2,8 @@
 layout: single
 title: "I Wish I Could Be More"
 date: 2011-08-11
-categories: "2011"
+categories:
+  - 2011
 ---
 
 During my mad catch-up of the tumblrsphere this morning, I read that one of the people I have come to knowif we ever really know each other onlineis leaving; packing up, closing down, and carrying on with real life.

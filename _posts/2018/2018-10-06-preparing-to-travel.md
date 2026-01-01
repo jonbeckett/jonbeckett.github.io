@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing To Travel"
 date: 2018-10-06
-categories: "2018"
+categories:
+  - 2018
 ---
 
 A travel case sits on the desk across the study from me, filled with clean clothes ahead of another week in Germany. I've decided to hedge my bets about the weather in Frankfurt over the coming week - packing summer rather than autumn clothes. If I get it wrong a late night shopping trip may be needed.

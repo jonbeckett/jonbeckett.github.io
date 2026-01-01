@@ -2,7 +2,8 @@
 layout: single
 title: "Something From Nothing"
 date: 2015-02-08
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Another late night last night. Finally the thousands of lines of source code are beginning to conjure a website out of thin air. A website where parents can register their children to take part in a summer camp, and those running the camp can plan out who does what, where, and when throughout the week.

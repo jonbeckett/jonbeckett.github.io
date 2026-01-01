@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Morning"
 date: 2021-09-05
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's  been a few days since I wrote anything in the blog. Life seems to have a way of diverting me from anything and everything at the moment. This morning has been a good example - I started writing this post three hours ago; along the way the washing machine, the washing line, the rubbish bins, the kitchen, the dishwasher, and numerous other things got in the way.

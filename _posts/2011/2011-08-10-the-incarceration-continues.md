@@ -2,7 +2,8 @@
 layout: single
 title: "The Incarceration Continues"
 date: 2011-08-10
-categories: "2011"
+categories:
+  - 2011
 ---
 
 For some reason I woke up this morning imagining today was tomorrowthis is what happens when you take me away from the normal world, and hole me up in some godforsaken town high in the cumbrian mountains with little or no internet access for a week.

@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing To Travel"
 date: 2015-12-13
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I'm not quite sure how this works, but I always end up travelling to the other end of the country in the final week before Christmas. This year I will spend the greater part of the week holed up in a hotel in Prestonabout 200 miles north of home. I haven't packed a bag yet, orbought an advance train ticket -although I have organised a self-service ticket to pick up from London Euston en-route. Ihave booked the hotel room.

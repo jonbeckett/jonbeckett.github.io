@@ -2,7 +2,8 @@
 layout: single
 title: "Not Playing The Game"
 date: 2016-05-09
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I don't play "the game".By "the game", I'm talking about the attention seeking, the chasing of traffic, the attempted attraction of followers, and the seeking of approval that seems so prevalent throughout so many of the social networks.

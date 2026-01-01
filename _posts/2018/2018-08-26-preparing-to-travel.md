@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing To Travel"
 date: 2018-08-26
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Today feels like we are in a curious sort of limbo. A taxi will arrive outside our house at 6am tomorrow morning to take us to the airport. From there we will fly to an island off the coast of Spain for a week largely spent "off the radar". I packed my bag this morning - it took all of ten minutes. Given recent experiences travelling to and from Germany, I've become more adept than most at figuring out the difference between items I "must", "should", and "could" pack.

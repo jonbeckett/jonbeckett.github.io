@@ -2,7 +2,8 @@
 layout: single
 title: "Looking Good"
 date: 2005-05-03
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I had a text message on my phone from W at 4:30pm, with the word "woohoo!" in it. I called home immediately and got a very tearful W on the other end of the phone with the best news we've ever had.

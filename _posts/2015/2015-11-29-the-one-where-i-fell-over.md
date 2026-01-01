@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Fell Over"
 date: 2015-11-29
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Ifellover on my way home from the dinner with friends on Friday night. We were turning a corner in the dark on an unfamiliar road, and I walked out onto a grass verge to give my other half room. In a kind of cross between ballet and rugby, my feet slid from under me in the wet mud (it had been raining all evening), and the whole world turned upside down for a few moments in slow motion.

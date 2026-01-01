@@ -2,7 +2,8 @@
 layout: single
 title: "Deep Under The Ground With Minecraft"
 date: 2013-06-22
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Welcome to my refuge from the lurking horrors of the dark. It might look like a fairly ordinary bedroom, replete with books, pictures, torches, and a bed, but appearances can be deceptive in this imaginary realmas can the appeal of wasting time here.

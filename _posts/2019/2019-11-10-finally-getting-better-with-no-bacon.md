@@ -2,7 +2,8 @@
 layout: single
 title: "Finally Getting Better With No Bacon"
 date: 2019-11-10
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After perhaps fourteen days, a thousand cups of tea, countless cups of boiling water laced with paracetamol, boxes of tissues, an entire pot of vicks, and the removal of several gallons of snot, my body finally seems to be winning it's battle with the nefarious cold virus that took hold the week before last.

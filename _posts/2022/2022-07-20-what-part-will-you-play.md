@@ -2,7 +2,8 @@
 layout: single
 title: "What Part Will You Play"
 date: 2022-07-20
-categories: "2022"
+categories:
+  - 2022
 ---
 
 It's been a bit of a week.

@@ -2,7 +2,8 @@
 layout: single
 title: "Tour Of Destruction"
 date: 2018-01-28
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Today started kicking my butt as soon as I arrived in the office this morning. It then kept kicking my butt throughout the day. I'm still standing though, which either says something about the strength of my butt, my pain threshold, or my general level of stupidity. I'm not entirely sure which.

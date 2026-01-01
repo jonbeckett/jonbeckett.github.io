@@ -2,7 +2,8 @@
 layout: single
 title: "Bored Bored Bored"
 date: 2004-10-13
-categories: "2004"
+categories:
+  - 2004
 ---
 
 I'm in one of those states of mind today where you cannot concentrate on anything too deep. Nothing has really "grabbed" me yet.

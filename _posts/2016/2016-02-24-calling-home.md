@@ -2,7 +2,8 @@
 layout: single
 title: "Calling Home"
 date: 2016-02-24
-categories: "2016"
+categories:
+  - 2016
 ---
 
 If I'm working in the officewhich is only a few miles from home -before leaving todo battle with the evening commuter traffic on the mountain bike I invariably call home to see if I need to pick anything up.

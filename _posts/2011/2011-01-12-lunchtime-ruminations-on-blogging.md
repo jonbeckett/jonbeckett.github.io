@@ -2,7 +2,8 @@
 layout: single
 title: "Lunchtime Ruminations On Blogging"
 date: 2011-01-12
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Inbetween writing swathes of programming, I have been wondering about the place my efforts should be concentrated online. Over the last few years I have ended up with a pretty common collection of website memberships - Twitter, Tumblr, Facebook, WordPress - that I dip into more or less frequently throughout each day.

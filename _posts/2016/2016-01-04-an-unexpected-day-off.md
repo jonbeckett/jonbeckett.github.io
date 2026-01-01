@@ -2,7 +2,8 @@
 layout: single
 title: "An Unexpected Day Off"
 date: 2016-01-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Well this is a surprise. I had planned on looking after the children today while the schools in town had an "inset" day (teacher training).My other half is "the lady in the office" at the local infant school, so inset days generally mean the kids are at home but she's at workrunning errands for the teachers, copying things, filling out paperwork, filing orders, and so on. Through machinations of the education system I don't fully understand she is not required on-site today, so has taken our youngest to the cinema. I am therefore home alone.

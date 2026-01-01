@@ -2,7 +2,8 @@
 layout: single
 title: "More Thoughts About The Death Of Tumblr"
 date: 2015-12-14
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Late last week an acquiantance in the US attended a marketing conference, where one of the panels featured a staffer from Tumblrthe minimalist blogging platform that's been a darling of the internet since it launched in 2007. Quite unwittingly the speaker answered a question from a delegate about the removal of replies from Tumblr that confirmed not only that Tumblr lied through their teeth, but also that replies or commentscall them what you willare not coming back.

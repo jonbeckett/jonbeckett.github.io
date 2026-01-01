@@ -2,7 +2,8 @@
 layout: single
 title: "2 More Sleeps"
 date: 2010-12-23
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It's just gone 8:30pm, and the children are already in bed. When they wake up tomorrow morning there will only be one more sleep until Christmas - and tomorrow will officially be the longest day of the year for them.

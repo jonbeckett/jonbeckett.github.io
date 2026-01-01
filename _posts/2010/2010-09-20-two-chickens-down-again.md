@@ -2,7 +2,8 @@
 layout: single
 title: "Two Chickens Down Again"
 date: 2010-09-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Our spectacularly bad record keeping chickens continued earlier tonight.

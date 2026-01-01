@@ -2,7 +2,8 @@
 layout: single
 title: "The Case Of The Vanishing Daughter"
 date: 2022-06-10
-categories: "2022"
+categories:
+  - 2022
 ---
 
 When we got up yesterday morning, my other half knocked on our youngest daughter's bedroom door and poked her head in to say "wake up". She wasn't moving under the bedcovers, so she stepped into the room and gave her a nudge. And that's when she discovered the bedclothes arranged to look like a person in the bed.

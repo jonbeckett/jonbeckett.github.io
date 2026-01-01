@@ -2,7 +2,8 @@
 layout: single
 title: "Over And Over Again"
 date: 2018-08-04
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I sat down at the desk in the junk room to write a blog post an hour ago. All I have done so far is listen to music on Spotify. Music from my distant past. While writing this, Wilson Phillips are singing "Hold On", and I'm remembering drawing a picture of them in the back of my college art sketchbook.

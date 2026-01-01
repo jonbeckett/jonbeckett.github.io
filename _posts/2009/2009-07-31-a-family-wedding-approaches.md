@@ -2,7 +2,8 @@
 layout: single
 title: "A Family Wedding Approaches"
 date: 2009-07-31
-categories: "2009"
+categories:
+  - 2009
 ---
 
 At some point tomorrow morning we will pack ourselves and the children into the car and travel to London, where we will be staying over the weekend to witness the marriage of my cousin from San Francisco to the fantastic guy she met over here a couple of years ago. They now live in Marin, just north of the San Francisco Bay, but are "coming home" to tie the knot.

@@ -2,7 +2,8 @@
 layout: single
 title: "Newsgroups Defragging And Ponds"
 date: 2004-05-25
-categories: "2004"
+categories:
+  - 2004
 ---
 
 For some reason I went all the way through yesterday without writing an entry in my blog. At one point I even had it on my screen, but didn't get as far as typing anything.

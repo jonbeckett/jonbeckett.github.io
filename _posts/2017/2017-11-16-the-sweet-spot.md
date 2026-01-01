@@ -2,7 +2,8 @@
 layout: single
 title: "The Sweet Spot"
 date: 2017-11-16
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Following my self imposed imprisonment construction of a catch-net for Miss 17 this evening instead of sitting in a rugby stadium with the rest of my family watching England destroy Canada in sub-zero temperatures, I have been enjoying the finest cheap(ish) bottle of wine available from the local supermarket.

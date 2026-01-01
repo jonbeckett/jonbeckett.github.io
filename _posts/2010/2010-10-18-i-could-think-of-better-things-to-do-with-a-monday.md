@@ -2,7 +2,8 @@
 layout: single
 title: "I Could Think Of Better Things To Do With A Monday"
 date: 2010-10-18
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Today finds me revising for a professional exam at work. It was going to be on Wednesday, but that's now skidded out to Thursday. It remains to be seen when I will actually sit down and do the exam.

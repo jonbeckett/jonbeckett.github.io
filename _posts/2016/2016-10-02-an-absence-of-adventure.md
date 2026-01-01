@@ -2,7 +2,8 @@
 layout: single
 title: "An Absence Of Adventure"
 date: 2016-10-02
-categories: "2016"
+categories:
+  - 2016
 ---
 
 While reading a wonderful post about a far flung friend's tumultuous journey to Burning Man in the Black Rock Desert earlier this year, a pretty obvious truism struck me - in order to have anything to write about, you need a story to tell. Given that I shy away from telling stories about anything that might involve close friends or family, and that I cloak anything about my work in a veil of almost complete secrecy, you begin to see that I am left with very few adventures worth recording.

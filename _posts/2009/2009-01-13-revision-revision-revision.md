@@ -2,7 +2,8 @@
 layout: single
 title: "Revision Revision Revision"
 date: 2009-01-13
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I've been busy revising for a Microsoft exam all weekthe .

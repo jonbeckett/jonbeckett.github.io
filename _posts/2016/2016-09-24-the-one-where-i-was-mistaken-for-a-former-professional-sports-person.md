@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Was Mistaken For A Former Professional Sports Person"
 date: 2016-09-24
-categories: "2016"
+categories:
+  - 2016
 ---
 
 While standing at the side of the football pitch watching our youngest play this morning, a Dad that lives across the way from us wandered up to me, and asked a rather strange question.

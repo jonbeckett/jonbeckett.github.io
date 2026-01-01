@@ -2,7 +2,8 @@
 layout: single
 title: "The Morning After The Night Before"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 For the first time since having the children, we spent New Years Eve at home. Normally we find ourselves spending Christmas and New Year racing around the country, visiting Grandparents, friends, Uncles, and Aunts. Not this year.

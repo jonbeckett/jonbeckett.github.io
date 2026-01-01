@@ -2,7 +2,8 @@
 layout: single
 title: "Appearances Can Be Deceptive"
 date: 2016-02-21
-categories: "2016"
+categories:
+  - 2016
 ---
 
 You would thinkbeing a professional software and web developer in the daytimethat I would have some sort of kick-ass computer hardware at my disposal away from work. You would be wrong. The desktop computer at home is at least 7 years old. It is made up of two computersone of which failed, and we robbed parts from. It's hard drive came from an old external drive. The video card was the cheapest available at the time. The laptop I use at home is a three year old Google Chromebook. It's the first one that Samsung made. I'm using it now. It cost less than a fifth the price of a Macbook. My mobile phone is a Moto G. It costs about a quarter the price of an iPhone. My tablet is an Amazon Fire tablet. It was in the black-friday sale this year. It cost about a sixth the price of an Apple iPad Mini.

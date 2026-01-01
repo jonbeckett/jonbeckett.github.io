@@ -2,7 +2,8 @@
 layout: single
 title: "Making The Best Of It"
 date: 2022-04-13
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Our youngest daughter had a quiet birthday at home.

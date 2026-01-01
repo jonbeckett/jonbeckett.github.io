@@ -2,7 +2,8 @@
 layout: single
 title: "Just Taking A Break"
 date: 2005-03-16
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I'm just taking a quick break from my development work (I'm at work as I write this), so thought I would write about my day so far.

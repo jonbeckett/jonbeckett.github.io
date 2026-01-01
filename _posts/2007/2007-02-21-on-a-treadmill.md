@@ -2,7 +2,8 @@
 layout: single
 title: "On A Treadmill"
 date: 2007-02-21
-categories: "2007"
+categories:
+  - 2007
 ---
 
 It feels like I'm on some kind of treadmill at the moment. I'm working all kinds of hours, and regardless of how interesting the work might be there is a sense that the rest of the world is starting to pass me by. I am spending my life on trains, sat in offices, or working late on programming.

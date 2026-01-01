@@ -2,7 +2,8 @@
 layout: single
 title: "Falling off the internet"
 date: 2024-06-30
-categories: "2024"
+categories:
+  - 2024
 ---
 
 For the last several evenings a thought burrowed away at the back of my mind -- that I hadn't written anything in the blog recently, and that I didn't really have anything to share. In the past I wouldn't have let that stop me.

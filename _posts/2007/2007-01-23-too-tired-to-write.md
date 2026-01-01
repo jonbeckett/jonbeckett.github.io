@@ -2,7 +2,8 @@
 layout: single
 title: "Too Tired To Write"
 date: 2007-01-23
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I got up at 6am, travelled to London, and walked back in the door at 7pm. Tomorrow I will leave the house at 6:25am (meaning getting up at 5:30am).

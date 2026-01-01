@@ -3,7 +3,7 @@ layout: single
 title: "Nosferatu"
 date: 2025-01-14
 categories:
-  - "2025"
+  - 2025
 ---
 
 I just got home from a visit to the cinema with my eldest daughter - to watch "Nosferatu" - a new version of the story inspired by Bram Stoker's Dracula.

@@ -2,7 +2,8 @@
 layout: single
 title: "Unshakeable Belief In The Tooth Fairy"
 date: 2014-06-26
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I drew the "tuck the children into bed" straw this evening. After finding the antibiotics and nurofen for Miss 10, who has been very ill indeed since the weekend, she perked up in that way children do with the placebo effect of "taking something for whatever they have".

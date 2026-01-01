@@ -2,7 +2,8 @@
 layout: single
 title: "This Isnt Wasting Time This Is Procrastinating With Style"
 date: 2010-10-19
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Given that I have to get up at stupid o'clock in the morning to go sit the Microsoft exam from hell, I'm wasting the end of this evening surfing Tumblr for new and interesting people.

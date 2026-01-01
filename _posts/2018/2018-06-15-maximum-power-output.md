@@ -2,7 +2,8 @@
 layout: single
 title: "Maximum Power Output"
 date: 2018-06-15
-categories: "2018"
+categories:
+  - 2018
 ---
 
 For a long time I kept up the routine (or habit?) of posting to the blog every day - sometimes a few words, and sometimes hundreds or even thousands of words. Usually each day the words would come as easily as turning on a tap, and at other times - such as today - I would struggle for each word, each sentence, and each paragraph.

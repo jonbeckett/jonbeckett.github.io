@@ -2,7 +2,8 @@
 layout: single
 title: "And Just Like That It Was Gone"
 date: 2016-01-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Late last night I clicked the "destroy" button in the Digital Ocean dashboard that would essentially pull the plug from the bathwater of the "We The Users" website. Within seconds all traces of the site had vanished into the ether. A few minutes laterafter re-pointing the domain namethe URL brought up a "something might be a little bit wrong" message in the browser. Something of an understatementalthough ultimately incorrect."We The Users" was never anything more than a prototype. It answered the question"what would a blogging platform be like, if you could restrict particular posts so only those you see as a friend can see them". Through doing so, it had to become a walled garden thoughsomething I have often railed againstwhich probably sealed it's fate. If interaction with a blog post by a visitor requires membership, they are very likely to walk straight pastI know, because I do.

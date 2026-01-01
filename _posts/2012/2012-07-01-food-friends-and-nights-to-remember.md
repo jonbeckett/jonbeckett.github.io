@@ -2,7 +2,8 @@
 layout: single
 title: "Food Friends And Nights To Remember"
 date: 2012-07-01
-categories: "2012"
+categories:
+  - 2012
 ---
 
 When we arrived home from work on Friday evening, I seem to remember asking if there were any plans afoot for the coming weekend. Although each weekend is usually approached with nothing particular in mind, something invariably gets "organised". Apart from a visit to the school fete, where the children would be performing a dance routing, and where W would spend several hours making candy-floss for people (and sugar coating herself in the process), the rest of the day appeared to be our own.

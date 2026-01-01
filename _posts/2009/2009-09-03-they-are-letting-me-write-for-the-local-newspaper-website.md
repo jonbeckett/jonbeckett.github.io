@@ -2,7 +2,8 @@
 layout: single
 title: "They Are Letting Me Write For The Local Newspaper Website"
 date: 2009-09-03
-categories: "2009"
+categories:
+  - 2009
 ---
 
 It would appear that I have been approved to write for the local newspaper website. I'm not quite sure at the moment what I will write about - they appear to have given me an open remit. It's not a paid job either, but I can't help thinking it will help draw traffic to other things I am involved in, and will get my name out as somebody who can sometimes string a few words together in a pleasing manner.

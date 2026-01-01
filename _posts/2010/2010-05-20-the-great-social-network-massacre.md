@@ -2,7 +2,8 @@
 layout: single
 title: "The Great Social Network Massacre"
 date: 2010-05-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 If you're anything like me (and I strongly suspect you are not), you have all manner of accounts, spread all over the internet. I've been doing something about that over the last few days.

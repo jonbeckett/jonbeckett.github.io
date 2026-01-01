@@ -2,7 +2,8 @@
 layout: single
 title: "Not Sleeping For Experts"
 date: 2010-09-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I made the mistake of deciding to figure out "Civilisation" on the Nintendo DS last night (I've had the game for ages, but never played it).

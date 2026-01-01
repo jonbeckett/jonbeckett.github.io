@@ -2,7 +2,8 @@
 layout: single
 title: "A Birthday Card Fit For A Software Developer"
 date: 2010-03-03
-categories: "2010"
+categories:
+  - 2010
 ---
 
 After delivering copious amounts of chocolate biscuits to the kitchen at work, I arrived at my desk to discover this...

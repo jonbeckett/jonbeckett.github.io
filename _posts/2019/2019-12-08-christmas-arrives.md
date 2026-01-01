@@ -2,7 +2,8 @@
 layout: single
 title: "Christmas Arrives"
 date: 2019-12-08
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After a morning spent sweeping the house for books, toys, games, and clothes that we don't need or want any more, we visited one of the many charity shops in town to donate a number of huge bags. I would love to say we studiously chose the charity based on principles, beliefs, or some other worthy method. We chose whichever shop we could park nearest to.

@@ -2,7 +2,8 @@
 layout: single
 title: "Sixteen Becomes Seventeen"
 date: 2021-01-14
-categories: "2021"
+categories:
+  - 2021
 ---
 
 My middle daughter began celebrating her seventeenth birthday this morning. How did that happen? Where did all the time go? The last time I looked she was holding my leg at the infant school gate.

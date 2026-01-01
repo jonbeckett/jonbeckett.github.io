@@ -2,7 +2,8 @@
 layout: single
 title: "The Beginnings Of A Comic Strip Character"
 date: 2007-11-19
-categories: "2007"
+categories:
+  - 2007
 ---
 
 In a shameless attempt to draw a version of myself as a cartoon character over the last half an hour, I came up with the following...

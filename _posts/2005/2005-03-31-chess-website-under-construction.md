@@ -2,7 +2,8 @@
 layout: single
 title: "Chess Website Under Construction"
 date: 2005-03-31
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Yet another project... I'm not sure I really have the time (or the will) to get this project up and running anytime soon, but I have started on the development of a website that will hopefully make money - a correspondence chess website.

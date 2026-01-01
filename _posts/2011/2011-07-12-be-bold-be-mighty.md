@@ -2,7 +2,8 @@
 layout: single
 title: "Be Bold Be Mighty"
 date: 2011-07-12
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I continue to struggle with sharing on the internet. For the last several years I have based my thoughts on the writing being primarily for mea record of my days for our children to look back on when I am gone and know who I was, what I thought about things, what my dreams were, my fears, and my hopes.

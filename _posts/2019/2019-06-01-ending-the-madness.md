@@ -2,7 +2,8 @@
 layout: single
 title: "Ending The Madness"
 date: 2019-06-01
-categories: "2019"
+categories:
+  - 2019
 ---
 
 After sitting on the green outside our house last night with friends drinking wine, and talking rubbish for several hours, I essentially lost the greater part of Saturday. I didn't really drink that much, and the virus I've been struggling with probably had quite a bit to do with it, but I've pretty much decided that enough is enough. I'm going to stop drinking for a while. Maybe forever. We'll see.

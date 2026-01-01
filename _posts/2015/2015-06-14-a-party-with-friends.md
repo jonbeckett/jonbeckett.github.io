@@ -2,7 +2,8 @@
 layout: single
 title: "A Party With Friends"
 date: 2015-06-14
-categories: "2015"
+categories:
+  - 2015
 ---
 
 We escaped the house for a few hours last night to attend the birthday party of a friend. Part of the hard-wiring of my brain (lets call it "up-bringing" demands that you cannot arrive at a birthday party empty handed, so I wandered into town yesterday morning to buy a present of some sort.

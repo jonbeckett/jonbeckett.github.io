@@ -2,7 +2,8 @@
 layout: single
 title: "Is This The World We Created "
 date: 2016-09-16
-categories: "2016"
+categories:
+  - 2016
 ---
 
 A couple of years ago a wonderful series was broadcast in the UK, dramatising the beginnings of both David Bailey, and Jean Shrimpton's careers (he discovered her, and together they brought down the fashion establishment of the day - his photo shoot in New York has become famous). Last night, while half-watching a fly-on-the-wall documentary about the inner workings of Vogue Magazine, I couldn't help wondering if it's time somebody else set fire to the foundations of the fashion industry.

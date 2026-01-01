@@ -2,7 +2,8 @@
 layout: single
 title: "Bank Holiday Monday"
 date: 2017-04-16
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It's a bank holiday in the UK today. You'll be pleased to learn that I have achieved nothing at all, all day so far. At the time of writing it's just past 2pm in the afternoon, and all we have done is sit around. My other half and the younger kids are watching Harry Potter movies back-to-back in the lounge - I'm holed up in what is left of the study tinkering with the old Macbook.

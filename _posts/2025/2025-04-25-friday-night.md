@@ -3,7 +3,7 @@ layout: single
 title: "Friday night"
 date: 2025-04-25
 categories:
-  - "2025"
+  - 2025
 ---
 
 How is it that if you look away for a few minutes, several days hurtle past? I guess it was a short week anyway - following the Easter long weekend - but still... it feels like I've been out of the loop forever.

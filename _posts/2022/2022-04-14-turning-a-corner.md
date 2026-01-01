@@ -2,7 +2,8 @@
 layout: single
 title: "Turning A Corner"
 date: 2022-04-14
-categories: "2022"
+categories:
+  - 2022
 ---
 
 My other half is sitting up in bed today, eating porridge and drinking lemonade - a huge improvement on recent days. Apparently her body is staging a spirited fight-back against COVID19.

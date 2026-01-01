@@ -2,7 +2,8 @@
 layout: single
 title: "Forgetting to Live"
 date: 2023-01-25
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I'm watching the clock. Watching and waiting. Waiting for my phone to vibrate, and my daughter's voice to ask when I'm picking her up. She works in a pub in town - running food orders and serving at the bar when needed.

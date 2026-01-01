@@ -2,7 +2,8 @@
 layout: single
 title: "A False Sense Of Entitlement"
 date: 2016-01-12
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Something has been annoying me more and more in recent yearswhich is surprising, given the number of things that annoy me on a regular basis. People. People with a false sense of entitlement.

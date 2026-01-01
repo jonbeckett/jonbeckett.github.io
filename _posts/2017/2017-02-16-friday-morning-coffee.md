@@ -2,7 +2,8 @@
 layout: single
 title: "Friday Morning Coffee"
 date: 2017-02-16
-categories: "2017"
+categories:
+  - 2017
 ---
 
 After being sick for the better part of two weeks, my body finally appears to have remembered it has an immune system, and has wandered off to see what on earth it's been doing for the last several days. I imagine a heated argument must have happened overnight, given the progress that's suddenly being made.

@@ -2,7 +2,8 @@
 layout: single
 title: "Movies And Music"
 date: 2022-02-15
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I've been sitting in the dark of the junk room in front of the computer for quite some time now - wondering where the words are going to come from this evening. Sometimes they don't.

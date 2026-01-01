@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday And The World Slows Down"
 date: 2009-10-18
-categories: "2009"
+categories:
+  - 2009
 ---
 
 For the first time in weeks, I am being afforded the opportunity to spend Sunday doing what I want. This is so rare it seems like something of a novelty.

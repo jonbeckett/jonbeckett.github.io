@@ -2,7 +2,8 @@
 layout: single
 title: "Media City Uk"
 date: 2017-01-22
-categories: "2017"
+categories:
+  - 2017
 ---
 
 After standing at a lectern for the better part of the day, trying to sound somewhat clever, I wandered back to the hotel this evening along a puddle-strewn path, and gazed out across the industrial rooftops of Salford. I wondered what this "Media City" place really was, and decided that for the first time in recent memory I wouldn't just sit in the hotel for dinner - I would venture out, and explore.

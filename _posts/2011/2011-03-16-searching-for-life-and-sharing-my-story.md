@@ -2,7 +2,8 @@
 layout: single
 title: "Searching For Life And Sharing My Story"
 date: 2011-03-16
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Last week I figuratively drew a chalk line across the road that told my story for seven years on the internet, and started from scratch.

@@ -2,7 +2,8 @@
 layout: single
 title: "Losing Myself In Music"
 date: 2020-08-02
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's the final night of my staycation. I return to work in the morning - if you can call it returning. I'll be sitting in the same chair I'm sitting in now, in the same room - just with a different computer in front of me.

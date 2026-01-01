@@ -2,7 +2,8 @@
 layout: single
 title: "Because We Have A Brain"
 date: 2015-10-15
-categories: "2015"
+categories:
+  - 2015
 ---
 
 A couple of weeks ago my other half asked if I knew any scientists or engineers - the local Brownie pack were doing their science and engineering badge, and they really needed a "real life" engineer or scientist to visit and talk to the Brownies. I joked at the time that I had studied "computer science" at college, and sometimes my job was described as a "software engineer".

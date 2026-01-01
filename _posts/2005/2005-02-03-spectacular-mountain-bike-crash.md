@@ -2,7 +2,8 @@
 layout: single
 title: "Spectacular Mountain Bike Crash"
 date: 2005-02-03
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Last night I had the most spectacular mountain bike accident in my own living memory...

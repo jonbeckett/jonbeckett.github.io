@@ -2,7 +2,8 @@
 layout: single
 title: "Iphone Misinformation"
 date: 2008-07-12
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Somebody pointed me towards an article online about the iPhone, and I was so stunned at the poor research involved that I couldn't let it pass without countering it. It's worth pointing out that I am NOT an Apple evangelist of any sort - of the machines in our house at the moment, three run Windows, one runs Linux, and one runs OSX.

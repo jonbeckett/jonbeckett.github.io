@@ -2,7 +2,8 @@
 layout: single
 title: "Were Going To Need A Bigger Monitor"
 date: 2014-11-07
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I ordered a new monitor for the computer today. For the last couple of years I've put up with the one I bought with the computer that's stuffed under the desk - it's the only HDMI monitor in the house, and it only has one HDMI socket. It has no speakers, and no audio out either - so I can't plug the XBox 360 into it either. During a lull in hostilities at lunchtime, I popped the browser open on Amazon, and ordered a replacement - 24 inches of monitorial gloriousness (yes, I'm making up words).

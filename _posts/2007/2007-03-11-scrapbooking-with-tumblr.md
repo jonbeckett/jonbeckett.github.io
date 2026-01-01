@@ -2,7 +2,8 @@
 layout: single
 title: "Scrapbooking With Tumblr"
 date: 2007-03-11
-categories: "2007"
+categories:
+  - 2007
 ---
 
 This is rare. I am going to cross-post between PluggedOut and Life and Times. There's a good reason though - this morning I have been looking at Tumblr.

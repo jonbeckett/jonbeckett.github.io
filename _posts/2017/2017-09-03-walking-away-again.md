@@ -2,7 +2,8 @@
 layout: single
 title: "Walking Away Again"
 date: 2017-09-03
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I deactivated my Tumblr account last night. I dread to think how many times I have re-joined Tumblr over the last three, four, or five years. Every time I walk away, I miss the people that used to tell stories there, and head back to catch up with their adventures. The circle has been getting smaller for some time now though - it was time.

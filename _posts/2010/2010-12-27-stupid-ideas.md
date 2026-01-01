@@ -2,7 +2,8 @@
 layout: single
 title: "Stupid Ideas"
 date: 2010-12-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Instead of buying an external hard drive for W to back her Mac up, I decided to be clever and bought a "Western Digital MyBook World Edition" - which is supposed to be a network storage device.

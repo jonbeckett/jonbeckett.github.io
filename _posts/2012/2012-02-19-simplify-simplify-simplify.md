@@ -2,7 +2,8 @@
 layout: single
 title: "Simplify Simplify Simplify"
 date: 2012-02-19
-categories: "2012"
+categories:
+  - 2012
 ---
 
 After giving it a couple of weeks, I've unplugged "the blog" (the one you're reading) from both Facebook and Google Plus. It's not a niche blog. It's not going to attract organic visitors in the same way that a company or magazine is going to... unless I turned my life into a bizarre Truman-show-esque creation similar to JustinTV or iJustine. We all know that's not going to happen.

@@ -2,7 +2,8 @@
 layout: single
 title: "Comic Artwork Is Great"
 date: 2005-08-20
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Here's where I admit in my blog that I'm a massive fan of comic artwork. I don't actually own many comics (about 4 I think - in various places around the house). Sometimes while surfing the web I come across fantastic online comics too, and find myself just appreciating the artwork rather than reading the comic strips - but today is a different kind of day - I found a quirky comic that I read, and loved...

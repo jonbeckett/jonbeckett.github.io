@@ -2,7 +2,8 @@
 layout: single
 title: "10 More Awesome Tumblrs"
 date: 2011-02-05
-categories: "2011"
+categories:
+  - 2011
 ---
 
 The most recent results of my expeditionary attempts to discover the interesting, thought provoking, and original within the Tumblrsphere. The following were garnered from the "personal" category on Tumblweeds.

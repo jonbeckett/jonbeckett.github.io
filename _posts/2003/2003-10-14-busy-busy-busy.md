@@ -2,7 +2,8 @@
 layout: single
 title: "Busy Busy Busy"
 date: 2003-10-14
-categories: "2003"
+categories:
+  - 2003
 ---
 
 Last night W was at her book group so I found myself on my own for the evening. I managed to spend 90% of it messing around with ThoughtCafe once more - adding new features and clearing up things that should have been fixed a long time ago.

@@ -2,7 +2,8 @@
 layout: single
 title: "Hours And Hours"
 date: 2017-07-25
-categories: "2017"
+categories:
+  - 2017
 ---
 
 A support call came in late yesterday - reporting that something didn't appear to be working correctly on a client site. It got assigned to me. Everything gets assigned to me at the moment, on account of me having the most flame retardant underpants, it seems. The project involved wasn't written by me (they never are), and the original developer no longer works here (thank f*ck). I promised to look into it first thing this morning. While I said "first thing", I actually meant "when I get around to it" - and because of the curiously stupid kind of person I am, that really was first thing, and I then spent FIVE HOURS looking into it.

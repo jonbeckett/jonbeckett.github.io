@@ -2,7 +2,8 @@
 layout: single
 title: "Thunking Away"
 date: 2009-07-07
-categories: "2009"
+categories:
+  - 2009
 ---
 
 You're probably wondering what on earth "Thunking" means. As far as I am aware, it comes from computer science - and is often used to describe the process of laboriously going through something, doing something mundane. It describes my life pretty well at the moment.

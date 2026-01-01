@@ -2,7 +2,8 @@
 layout: single
 title: "Second Coffee"
 date: 2016-03-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm working from home once again. Mid morning. Two coffees down. I don't really have anything to share, other than I somehow managed not to write a blog post yesterdayso again I have broken the "streak" of posting every day.Perhaps I should re-title the blog "Almost Daily". Wasn't that the name of Amanda Congdon's video podcast when she left Rocket Boom though ? Ahnothat was "Sometimes Daily".

@@ -2,7 +2,8 @@
 layout: single
 title: "Ghost In The Shell"
 date: 2016-04-14
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Who knew that Scarlett Johansson was going to be playing Motoko Kusanagi in a big-budget live-action version of Ghost in the Shell ?If you have no idea what "Ghost in the Shell" is, allow me to elaborate:Primarily set in the mid-twenty-first century in the fictional Japanese city of Niihama, Niihama Prefecture, otherwise known as New Port City, the manga and the many anime adaptations follow the members of Public Security Section 9, a special-operations task-force made up of former military officers and police detectives. Political intrigue and counter-terrorism operations are standard fare for Section 9, but the various actions of corrupt officials, companies, and cyber-criminals in each scenario are unique and require the diverse skills of Section 9's staff to prevent a series of incidents from escalating.

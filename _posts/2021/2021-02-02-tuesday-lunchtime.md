@@ -2,7 +2,8 @@
 layout: single
 title: "Tuesday Lunchtime"
 date: 2021-02-02
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I had been entertaining the idea of escaping at lunchtime, and going for a walk. A few miles out in the fresh air on my own with a podcast in my ears. The weather has other ideas - it has rained pretty consistently all morning. We are forecast snow next weekend.

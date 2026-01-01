@@ -2,7 +2,8 @@
 layout: single
 title: "Feeling Low"
 date: 2006-03-27
-categories: "2006"
+categories:
+  - 2006
 ---
 
 It really shouldn't have come as a surprise that I didn't feel very well when I got up this morning - W was off work for the first half of last week, and I've not felt wonderful for days. I'm currently sat at home, watching the rain come down outside, sitting in silence with a headache and a head that feels like somebody jammed it full of cotton wool.

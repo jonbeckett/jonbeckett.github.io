@@ -2,7 +2,8 @@
 layout: single
 title: "Zooming Along"
 date: 2004-09-26
-categories: "2004"
+categories:
+  - 2004
 ---
 
 We went shopping yesterday for a new computer (at last). For the past couple of years we have been "surviving" at home with a rag-tag combination of bits of old (broken) computers, tacked together by myself to make one kind-of-working machine.

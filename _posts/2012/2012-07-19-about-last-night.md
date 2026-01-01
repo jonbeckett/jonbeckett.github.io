@@ -2,7 +2,8 @@
 layout: single
 title: "About Last Night"
 date: 2012-07-19
-categories: "2012"
+categories:
+  - 2012
 ---
 
 There was a time when I could sit a the keyboard and just "write". Press keys. Most of the time the words appearing on the screen would amount to no more than perhaps the cat might manage, but now and again the laws of probability would kick in like so many monkeys, and create such brilliance mediocrity that others were astounded mildly impressed.

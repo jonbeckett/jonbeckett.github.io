@@ -2,7 +2,8 @@
 layout: single
 title: "Here Comes The Rain Again"
 date: 2012-12-31
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Mid morning, on New Year's Eve, and the rain is falling yet again. I was up a little after 9, washed up, fed the children, let the chickens out, fed the cats, cleared the kitchen, and have been camped out in the lounge with the Chromebook ever since.

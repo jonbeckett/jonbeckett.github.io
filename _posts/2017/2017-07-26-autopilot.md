@@ -2,7 +2,8 @@
 layout: single
 title: "Autopilot"
 date: 2017-07-26
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Do you ever have moments, hours, or even entire days when you feel like you have been running on autopilot? I do. Maybe not entirely offline, but sometimes it feels like it. Take cycling home from work, for instance. I turn the pedals, the bicycle travels along, and I daydream about anything and everything - at least until an incline, when my concentration shifts to "how far does this hill go on for again?". While weaving my way in and out of traffic, I suppose a greater proportion of my brain comes online - both to protect the idea of my continued life, and to invent new insults to mutter at idiotic or thoughtless car drivers. "Wanker" always seems to be a good go-to word when nothing else comes to mind.

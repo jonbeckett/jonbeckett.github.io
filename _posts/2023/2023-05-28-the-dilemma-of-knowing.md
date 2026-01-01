@@ -2,7 +2,8 @@
 layout: single
 title: "The dilemma of knowing"
 date: 2023-05-28
-categories: "2023"
+categories:
+  - 2023
 ---
 
 We went out today.

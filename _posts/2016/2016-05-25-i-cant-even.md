@@ -2,7 +2,8 @@
 layout: single
 title: "I Cant Even"
 date: 2016-05-25
-categories: "2016"
+categories:
+  - 2016
 ---
 
 For the last several days I have been head down on a project at work. Writing code pretty much from the moment I arrive on a morning, to the moment I leave on an evening. I've also been grocery shopping on the way home after receiving calls (as I did this evening) from my other half, asking me to get something for dinner, because she can't even either.

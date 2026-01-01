@@ -2,7 +2,8 @@
 layout: single
 title: "Grandad And The Price Of Beer"
 date: 2016-11-15
-categories: "2016"
+categories:
+  - 2016
 ---
 
 That's me on the left. The little kid with the gappy teeth and the army jumper that shrank in the wash. That's my step-grandfather on the right. I'm guessing the photo was taking in about 1980.

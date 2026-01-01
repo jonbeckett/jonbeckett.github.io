@@ -2,7 +2,8 @@
 layout: single
 title: "Running Chocolate Alcohol And Coffee"
 date: 2020-11-21
-categories: "2020"
+categories:
+  - 2020
 ---
 
 There is an X-Box 360 tucked away under the desk. It's wired up, but nobody ever plays with it. I've just chanced upon the best life-hack ever with it though - if I glance my leg against it, it powers up and becomes the most over-engineered foot-warmer in the history of anything, ever. Seriously - it's perfect - the cooling fans pour hot air from it's side - directly onto my bare feet.

@@ -2,7 +2,8 @@
 layout: single
 title: "An Unlikely Santa"
 date: 2020-12-17
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I'm going to be Santa at the infant school on Friday morning. Can you imagine a less likely Santa?

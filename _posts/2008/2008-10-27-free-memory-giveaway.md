@@ -2,7 +2,8 @@
 layout: single
 title: "Free Memory Giveaway"
 date: 2008-10-27
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I have upgraded my home laptop to 2Gb of memory - meaning I have a 1Gb stick kicking around.

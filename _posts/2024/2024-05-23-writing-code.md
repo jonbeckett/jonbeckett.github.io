@@ -2,7 +2,8 @@
 layout: single
 title: "Writing code"
 date: 2024-05-23
-categories: "2024"
+categories:
+  - 2024
 ---
 
 I'm not really sure where the last few days have gone. Actually - that's not entirely true.

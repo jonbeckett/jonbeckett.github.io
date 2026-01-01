@@ -2,7 +2,8 @@
 layout: single
 title: "War Of The Worlds"
 date: 2005-07-02
-categories: "2005"
+categories:
+  - 2005
 ---
 
 We just got back from the cinema after going to see "War of the Worlds" - the new Stephen Spielberg movie.

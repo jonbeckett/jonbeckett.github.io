@@ -2,7 +2,8 @@
 layout: single
 title: "The Force Awakens"
 date: 2015-12-19
-categories: "2015"
+categories:
+  - 2015
 ---
 
 After48 hours avoiding social media, newspapers, and magazine reviews, we finally got to the cinema last night to watch "Star Wars Episode VII : The Force Awakens". It's difficult to put all the thoughts and emotions into words.

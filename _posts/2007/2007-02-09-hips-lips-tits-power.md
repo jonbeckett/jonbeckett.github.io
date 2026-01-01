@@ -2,7 +2,8 @@
 layout: single
 title: "Hips Lips Tits Power"
 date: 2007-02-09
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I can't help feeling that while commuting has given me the opportunity to write endless photo blog posts, they are somehow more shallow than a normal post. Even more strangely, it would seem that photos generate more visitors to a blog than insightful commentary on your life. You can be the best writer in the world, but the appearance of a shapely body in whatever scantily clad state a female blogger might dare would seem to generate more traffic than my humble blog might in a month.

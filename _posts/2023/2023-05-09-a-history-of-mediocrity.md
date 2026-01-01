@@ -2,7 +2,8 @@
 layout: single
 title: "A History of Mediocrity"
 date: 2023-05-09
-categories: "2023"
+categories:
+  - 2023
 ---
 
 While sorting through old photo albums at the weekend, a big red album titled "This is Your Life" was re-discovered. My other half compiled it for my 30th birthday - twenty years ago now - and it has somehow survived hidden away in a dark corner of the book-case.

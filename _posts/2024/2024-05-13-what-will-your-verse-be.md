@@ -2,7 +2,8 @@
 layout: single
 title: "What will your verse be"
 date: 2024-05-13
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Fifteen kilometres. I think that's how far we walked today. A walk down to Talland, a pit-stop at the beach cafe, then along the coast-path to Polperro for lunch before climbing back over the headland to Talland, then the climb back to my parents. Fifteen kilometres that felt more like twenty.

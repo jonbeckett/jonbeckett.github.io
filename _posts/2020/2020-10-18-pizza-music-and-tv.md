@@ -2,7 +2,8 @@
 layout: single
 title: "Pizza Music And Tv"
 date: 2020-10-18
-categories: "2020"
+categories:
+  - 2020
 ---
 
 We look forward to the weekend throughout the week, and then when it comes we suddenly find ourselves deep into Sunday evening, wondering what happened - or at least I do.

@@ -2,7 +2,8 @@
 layout: single
 title: "A Crash And A Whoosh"
 date: 2010-03-18
-categories: "2010"
+categories:
+  - 2010
 ---
 
 This morning the machinery of our house spat us out of bed at the prescribed moment, pitching us into the morning routine. I woke several times as the radio filled the room with the usual political doom and gloom - never quite gathering the impetus to get up until I fell asleep and then woke with a start - panicking that I had overslept.

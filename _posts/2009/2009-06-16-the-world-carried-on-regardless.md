@@ -2,7 +2,8 @@
 layout: single
 title: "The World Carried On Regardless"
 date: 2009-06-16
-categories: "2009"
+categories:
+  - 2009
 ---
 
 If you've been wondering about my whereabouts over the last month - and let's face it, few if any of the people who happen across this blog will have done - I can happily report that I am alive and well, and am resurfacing after perhaps the most intense period of work in my professional career.

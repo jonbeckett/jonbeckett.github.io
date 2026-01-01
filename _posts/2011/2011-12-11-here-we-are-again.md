@@ -2,7 +2,8 @@
 layout: single
 title: "Here We Are Again"
 date: 2011-12-11
-categories: "2011"
+categories:
+  - 2011
 ---
 
 The washing machine and dryer are running overtime, and yet another weekend is rolling to a stop. Early tomorrow I will jump into a colleague's car and head to a hotel once more. I don't think anybody would begrudge my feelings over it all; it's Christmas time, I have three small children, and I am missing it. I've had enough of it.

@@ -2,7 +2,8 @@
 layout: single
 title: "Slogging Away"
 date: 2004-09-22
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Some days it feels like you are slogging away and not really getting anywhere.

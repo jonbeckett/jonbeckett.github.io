@@ -2,7 +2,8 @@
 layout: single
 title: "Back To The Future"
 date: 2018-01-05
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Friday night has somehow become "Pizza Night" in our house - a lazy reward of sorts for making it to the end of the week. It started some time ago, when some friends of ours would regularly visit for the evening - we took turns buying the pizzas, I cooked them, and we hung out in the lounge with a couple of bottles of wine, a table full of pizza, and a terrible movie to talk over the top of.

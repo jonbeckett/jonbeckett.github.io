@@ -2,7 +2,8 @@
 layout: single
 title: "Back To School"
 date: 2008-09-03
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Our eldest and youngest returned respectively to school and playgroup this morning after six long weeks off. The morning schedule resumed with a bump at 6:30am when I woke 10 seconds before the iPhone alarm erupted.

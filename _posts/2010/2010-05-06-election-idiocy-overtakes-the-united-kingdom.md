@@ -2,7 +2,8 @@
 layout: single
 title: "Election Idiocy Overtakes The United Kingdom"
 date: 2010-05-06
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I visited the local polling station on the way to work this morning, and was struck by the absence of people while en-route. Either some kind of mass alien abduction had happened, or (for the first time ever) I had chosen the right moment to leave the house.

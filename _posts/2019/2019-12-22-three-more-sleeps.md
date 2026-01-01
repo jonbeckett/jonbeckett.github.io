@@ -2,7 +2,8 @@
 layout: single
 title: "Three More Sleeps"
 date: 2019-12-22
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I think it's fairly safe to say that our youngest daughter is winding herself ever tighter at the moment, in anticipation of the arrival of a certain visitor from the North Pole.

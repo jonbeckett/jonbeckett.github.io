@@ -2,7 +2,8 @@
 layout: single
 title: "Eating Chocolate Cookies"
 date: 2016-03-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm sitting in the dark of the study at home eating chocolate cookies, on my own. The rest of the family are having a "movie night", watching the movie "Jesus Christ Superstar". I've seen it before, and I'm not particularly interested in seeing it again, so I'm letting my other half be in her element with the kids (she's a huge nerd-out fan of it). If I sit and watch it I'll inevitably pick holes in the Bible while watching it, and drive them all nuts.

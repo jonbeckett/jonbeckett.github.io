@@ -2,7 +2,8 @@
 layout: single
 title: "Fathers Day"
 date: 2016-06-19
-categories: "2016"
+categories:
+  - 2016
 ---
 
 It's just gone 10am. Myself and our middle girl are the only ones up so far. I made bacon sandwiches for breakfast, and cups of tea for everybody. Miss 15's is still sitting on the worktop in the kitchen - no sign of her getting up yet.

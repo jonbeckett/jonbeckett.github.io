@@ -2,7 +2,8 @@
 layout: single
 title: "Another Day"
 date: 2023-01-16
-categories: "2023"
+categories:
+  - 2023
 ---
 
 It's been a day. Another day. There have been too many recently. I signed myself off work at lunchtime, but within an hour had been thrown head-long into a request from a client. I didn't finish until the rest of the family called me for dinner. The fourth day in a row this has happened.

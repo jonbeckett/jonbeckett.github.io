@@ -2,7 +2,8 @@
 layout: single
 title: "Commuting Etiquette"
 date: 2008-07-29
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While squashed onto an underground train beneath London this morning it struck me how many unwritten rules I abide by while travelling on trains and buses; the same rules I secretly castigate others for not attempting to follow.

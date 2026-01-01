@@ -2,7 +2,8 @@
 layout: single
 title: "Absent Minded And Distracted"
 date: 2012-12-07
-categories: "2012"
+categories:
+  - 2012
 ---
 
 While cycling home from work, I had a great idea for something to write about. The memory that I thought of something great to write about is a strong one. The actual "thing" I thought of has gone though. This happens to me a lot.

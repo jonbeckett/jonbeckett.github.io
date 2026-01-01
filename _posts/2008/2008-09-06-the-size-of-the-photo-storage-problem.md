@@ -2,7 +2,8 @@
 layout: single
 title: "The Size Of The Photo Storage Problem"
 date: 2008-09-06
-categories: "2008"
+categories:
+  - 2008
 ---
 
 In preparation for our new computer arriving on Monday, I have been doing a chore that we've been avoiding for years - rationalising and sorting out our digital photos.

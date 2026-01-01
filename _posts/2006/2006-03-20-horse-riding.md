@@ -2,7 +2,8 @@
 layout: single
 title: "Horse Riding"
 date: 2006-03-20
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I've just been reading a blog entry written by my aunt, and it brought back quite a few memories.

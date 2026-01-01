@@ -2,7 +2,8 @@
 layout: single
 title: "Day Eleven The Food Fight Starts"
 date: 2008-02-07
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Okay - we finally have something to think about.

@@ -2,7 +2,8 @@
 layout: single
 title: "Exchanging Packages"
 date: 2019-07-04
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I have nothing to report, which of course isn't going to stop me from emptying my head into the keyboard for the next few minutes, because this is me, and this is what I do. In a world of social media influencers, vloggers and podcasters, I quietly record the days of my life into a blog that somewhat intentionally escapes too much attention.

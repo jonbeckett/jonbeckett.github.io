@@ -2,7 +2,8 @@
 layout: single
 title: "Is Wordpress Broken"
 date: 2023-08-15
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I'm contemplating ditching Wordpress. A fundamental given of any web platform is that anything a visitor can interact with should perform the expected action.

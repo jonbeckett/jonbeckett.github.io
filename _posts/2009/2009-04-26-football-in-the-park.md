@@ -2,7 +2,8 @@
 layout: single
 title: "Football In The Park"
 date: 2009-04-26
-categories: "2009"
+categories:
+  - 2009
 ---
 
 In between working on a freelance webdesign contract, taking our middle girl to a "modern dance" rehearsal, trudging around town, and then totally missing the Formula One (again), I spent an hour playing football with our eldest and youngest in the park in town - and cursed that I had not taken a camera with me.

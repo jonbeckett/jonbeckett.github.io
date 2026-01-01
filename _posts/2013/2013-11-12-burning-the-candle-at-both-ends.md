@@ -2,7 +2,8 @@
 layout: single
 title: "Burning The Candle At Both Ends"
 date: 2013-11-12
-categories: "2013"
+categories:
+  - 2013
 ---
 
 After spending the entire day at work fighting with mountains of source code, I returned home to begin all over again. As mentioned a little while ago, I have begun doing freelance web development work again in my spare time. I'm not actively seeking projects; more "helping friends" (and getting paid for it). It works in all kinds of ways, because it forces me to stay current with the cutting edge of the web, and keeps me away from the garbage television or video games I would otherwise be filling my late evening with.

@@ -2,7 +2,8 @@
 layout: single
 title: "Important People In My Life"
 date: 2006-08-16
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I actually seem to have regained my uber-software-developer mojo today. The keys are clicking. Code seems to be dripping from my fingers.

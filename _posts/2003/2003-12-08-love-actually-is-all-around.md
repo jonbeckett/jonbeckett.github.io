@@ -2,7 +2,8 @@
 layout: single
 title: "Love Actually Is All Around"
 date: 2003-12-08
-categories: "2003"
+categories:
+  - 2003
 ---
 
 I seem to find less and less time to put entries into my Blog... to be honest I think it has something to do with me being a Pisces. I tend to drift like the wind most of the time - becoming interested in doing one thing, then moving on to the next, and re-visiting interests every so often.

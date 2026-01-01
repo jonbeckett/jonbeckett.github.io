@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing Of Consequence To Report"
 date: 2017-08-23
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I haven't really stopped all day. I planned to - I planned to give myself an hour at lunchtime to write some thoughts into the blog, but then one thing after another happened, lunchtime didn't happen, and before I knew it I was telling a friend in a chat window that popped up that it was almost 4pm, and I should probably take a break. Then I realised I had a conference call, several emails, and a call to a client - the entire week has been a bit like that to be honest. I think I now have a greater understanding of the phrase "best laid plans".

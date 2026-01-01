@@ -2,7 +2,8 @@
 layout: single
 title: "In Search Of Life"
 date: 2015-04-18
-categories: "2015"
+categories:
+  - 2015
 ---
 
 In the same way many people watch television, movies, or read books, I head towards the internet when I have free time. I search out people sharing a little of their life, a little of themselves, and become enthralled with their experiences and adventureswhich often seem so similar to my own regardless of nation, race, colour, or even language.

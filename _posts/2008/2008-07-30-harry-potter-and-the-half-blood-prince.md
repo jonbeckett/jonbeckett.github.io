@@ -2,7 +2,8 @@
 layout: single
 title: "Harry Potter And The Half Blood Prince"
 date: 2008-07-30
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Could this be a still from the forthcoming "Harry Potter and the Half Blood Prince" movie ?

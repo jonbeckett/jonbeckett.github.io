@@ -2,7 +2,8 @@
 layout: single
 title: "Did That Weekend Really Just Happen"
 date: 2011-07-11
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I vaguely remember writing the previous blog post (where I bitched about my entire weekend being eaten up by a variety of commitments). The reason I use the word "vaguely" is because between then and now, a considerable amount of alcohol got consumed - well... considerable for me. The days of me being able to drink entire bottles of wine, and lined up pints of beer are a dim and distant memory from the time before marriage, children, and responsibility...

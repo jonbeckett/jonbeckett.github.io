@@ -2,7 +2,8 @@
 layout: single
 title: "In Fits And Starts"
 date: 2008-08-25
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Does the phrase "in fits and starts" exist outside of great britain? It describes the manner in which things happen sometimes at a trickle, and sometimes in abundance. At the moment this blog is "at a trickle".

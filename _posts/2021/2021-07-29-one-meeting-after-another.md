@@ -2,7 +2,8 @@
 layout: single
 title: "One Meeting After Another"
 date: 2021-07-29
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I have spent nearly all day in meetings - one meeting after another. I don't think I could ever be a project manager, because their life seems to consist purely of meetings, calls, and gantt charts. Being a software developer suits me down to the ground - I get to obsess over my own little world of code, bits and bytes, and pretty much shut off from the rest of the world.

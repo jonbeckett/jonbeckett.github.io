@@ -2,7 +2,8 @@
 layout: single
 title: "You Never Forget"
 date: 2021-11-29
-categories: "2021"
+categories:
+  - 2021
 ---
 
 While reading the posts of distant friends, I sometimes find myself drawn into their lives - their hopes, dreams, happiness, and sadness. It fascinates me that so many of us struggle to find our place in the world, or to find our way back to the path when lost. In this vast connected world, it seems we have never been more alone.

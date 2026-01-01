@@ -2,7 +2,8 @@
 layout: single
 title: "Twenty One"
 date: 2021-09-18
-categories: "2021"
+categories:
+  - 2021
 ---
 
 My eldest daughter is 21 years old today. I guess that means she's a "proper" grown-up now. Even though she still lives with us, we've been slowly shifting responsibility for things to her - simple things like her phone. She has her own phone contract now in her own name, being paid from her own bank account.

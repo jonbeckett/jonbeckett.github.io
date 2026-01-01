@@ -2,7 +2,8 @@
 layout: single
 title: "Pancake Day"
 date: 2011-03-08
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Guess who found himself walking to the corner shop at 7:15am this morning to buy eggs, and guess who's other half was making pancakes at 7:30am.You're probably wondering why we were making pancakes so early in the morning on Pancake Day...

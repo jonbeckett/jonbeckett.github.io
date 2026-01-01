@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday Morning"
 date: 2020-10-24
-categories: "2020"
+categories:
+  - 2020
 ---
 
 The clock is ticking towards 9am on Saturday morning. I've been up for an hour and a half already - chiefly to scrape our middle daughter out of bed. She's playing in a hockey match an hour away from home with one of the town senior teams - the captain picked her up a few minutes ago.

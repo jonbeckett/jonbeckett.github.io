@@ -2,7 +2,8 @@
 layout: single
 title: "Disconnected"
 date: 2013-08-27
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Over the last few months I seem to have been edging slowly away from the online community. I wouldn't perhaps describe it as "not trying", as much as "not caring". At some point along they way I realised who was making the running in various friendshipswho was putting in the legwork, who was being there, who was making coversation, who was asking after others, and who was wasting his time.

@@ -2,7 +2,8 @@
 layout: single
 title: "A Social Networking Sht Storm Of My Own Making"
 date: 2009-09-29
-categories: "2009"
+categories:
+  - 2009
 ---
 
 When you're busy fiddling with something interesting, it's easy to become so engrossed in "the next thing" that you forget all about the trail of things you have been fiddling with previously - that invariably stretch out like a trail of destruction behind you.

@@ -2,7 +2,8 @@
 layout: single
 title: "The day after Christmas"
 date: 2022-12-26
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Yesterday began at 8am in our household - with everybody taking turns through the shower, brushing their teeth, and pulling on variously smart clothes for the day ahead. My middle daughter is working through Christmas and New Year (she works in a pub in town), so I fueled her up for the day - making her a bacon sandwich for breakfast. Because of her working, and the imminent arrival of my in-laws we agreed not to open presents until the evening.

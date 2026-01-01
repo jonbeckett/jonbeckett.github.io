@@ -2,7 +2,8 @@
 layout: single
 title: "I Need To Stop Switching Platforms"
 date: 2015-04-10
-categories: "2015"
+categories:
+  - 2015
 ---
 
 It's pretty miraculous that I have managed to hang on to the majority of my blog posts. I've switched from Blogger to WordPress, Tumblr, LiveJournal, Posterous, Posthaven, and Ghost repeatedly over the last few years. I've probably shaken off anybody who ever tried to follow me - I've probably driven them to distraction.

@@ -2,7 +2,8 @@
 layout: single
 title: "Revisiting The Reasons I Write A Blog"
 date: 2015-12-05
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Revisiting the reasons I write a blogsounds like it might be interesting. I can't think that I've really changed over the last twelveyears or so, but then I've never really thought about it. I don't think about many things I doI just kind of do themon autopilot. A blogging automaton that's a pretty scary thought.

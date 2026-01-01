@@ -2,7 +2,8 @@
 layout: single
 title: "Snail Mail"
 date: 2013-08-05
-categories: "2013"
+categories:
+  - 2013
 ---
 
 After pedaling through driving rain on the way home tonight, I arrived home and met a tangled puzzle of childrens mountain bikes, heaped just inside the garden gate. After expertly solving the twisted heap, I made it indoors and set about clearing the washing up while the children watched movies in the lounge, and my better half bombarded me with stories of the day.

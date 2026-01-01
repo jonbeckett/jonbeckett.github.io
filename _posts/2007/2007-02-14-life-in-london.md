@@ -2,7 +2,8 @@
 layout: single
 title: "Life In London"
 date: 2007-02-14
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Somebody asked for more photos of life in London...

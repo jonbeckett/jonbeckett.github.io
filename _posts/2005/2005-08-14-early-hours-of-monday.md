@@ -2,7 +2,8 @@
 layout: single
 title: "Early Hours Of Monday"
 date: 2005-08-14
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I'm sat here playing the old trick of trying to make the weekend last longer by staying up late on Sunday night.

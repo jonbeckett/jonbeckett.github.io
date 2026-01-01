@@ -2,7 +2,8 @@
 layout: single
 title: "Morning Fog In Marlow"
 date: 2006-11-06
-categories: "2006"
+categories:
+  - 2006
 ---
 
 It would appear that Winter is finally upon us...

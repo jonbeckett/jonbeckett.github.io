@@ -2,7 +2,8 @@
 layout: single
 title: "Important Skills For Web Development"
 date: 2010-09-04
-categories: "2010"
+categories:
+  - 2010
 ---
 
 An online friend recently asked me if I could run through the important skills for students to learn if they want to pursue web design or development as a career. It got me thinking, and rather than post a straightforward email, I figured my views (as a professional developer with enough experience to be cynical) might be valuable to others too

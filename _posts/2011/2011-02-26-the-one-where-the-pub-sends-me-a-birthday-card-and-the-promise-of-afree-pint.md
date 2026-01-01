@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Pub Sends Me A Birthday Card And The Promise Of Afree Pint"
 date: 2011-02-26
-categories: "2011"
+categories:
+  - 2011
 ---
 
 How do you live this one down? I received a card this morning from the "Marlow Donkey" - our local pub. "The Donkey" -as we refer to it - is the pub we used to frequent before children - the location of many a spirited pub quiz attempt. In reality we relied totally on W and a colleague's wife to carry us through while we concentrated on eating beefburgers, and drinking too much.

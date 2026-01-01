@@ -2,7 +2,8 @@
 layout: single
 title: "The Long And Winding Road"
 date: 2015-01-02
-categories: "2015"
+categories:
+  - 2015
 ---
 
 We returned home from my parents on the south west coast this afternoon, and somehow survived the five hour journey without the children causing anybody to lose their temper. There were a few moments of raised voices during the last half an hour, but by and large, we got away with it. We have a lot to thank the creators of the Apple iPad, the Tesco Hudl, and the Google Nexus 7 for. Without them we would have faced playing "I spy with my little eye" for five hours straight. There's only so many times you can repeat "road", "sky", "cloud", "van", "truck", "sign", "fence", "trees", and "hill".

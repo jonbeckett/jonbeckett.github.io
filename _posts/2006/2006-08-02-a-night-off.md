@@ -2,7 +2,8 @@
 layout: single
 title: "A Night Off"
 date: 2006-08-02
-categories: "2006"
+categories:
+  - 2006
 ---
 
 My cousin arrived at our house last night to stay for a couple of days, so I had a night off from the endless hours of overtime I've been doing recently. She is over to sort out living arrangements before coming back at the end of the month to stay for a year - she will be going to college in London.

@@ -2,7 +2,8 @@
 layout: single
 title: "A Quiet Day"
 date: 2016-10-14
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I appear to be the only person on the entire floor of the office at work today. I'm also in-between projects, so am taking the chance to run backups, configure things, and do the general nerdy house-keeping chores that often get forgotten.

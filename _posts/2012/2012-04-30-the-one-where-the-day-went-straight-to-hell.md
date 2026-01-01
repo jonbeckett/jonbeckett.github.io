@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Day Went Straight To Hell"
 date: 2012-04-30
-categories: "2012"
+categories:
+  - 2012
 ---
 
 In a spectacular display of ass-hattery, the hosting company of one of the services we use all the time at work decided it would be a good idea to upgrade the server without warning us.

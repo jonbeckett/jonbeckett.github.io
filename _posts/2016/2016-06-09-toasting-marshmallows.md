@@ -2,7 +2,8 @@
 layout: single
 title: "Toasting Marshmallows"
 date: 2016-06-09
-categories: "2016"
+categories:
+  - 2016
 ---
 
 After leaving work this evening I made my way over to the local junior school to find our younger children (we are insane - we have three girls), who were taking part in a rehearsal for a dance show at the town summer fete in a few weeks time. After half-watching through the gymnasium door for the last few minutes, trying not to distract my own children who had spotted me, the class finished, and we made our way to the supermarket.

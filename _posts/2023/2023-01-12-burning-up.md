@@ -2,7 +2,8 @@
 layout: single
 title: "Burning Up"
 date: 2023-01-12
-categories: "2023"
+categories:
+  - 2023
 ---
 
 After deteriorating through much of the day before, I called in sick yesterday - the first time I have called in sick in about eighteen months.

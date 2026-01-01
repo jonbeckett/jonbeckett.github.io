@@ -2,7 +2,8 @@
 layout: single
 title: "Forgetting To Live"
 date: 2019-12-08
-categories: "2019"
+categories:
+  - 2019
 ---
 
 While off work over the last several days, I've been quietly watching, reading, commenting, and liking posts across the various social platforms on the internet.

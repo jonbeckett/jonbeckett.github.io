@@ -2,7 +2,8 @@
 layout: single
 title: "Why Are Mondays So Awful "
 date: 2018-02-25
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I woke at 5:30am this morning. I'm not entirely sure how or why. I was suddenly wide awake, checking the radio alarm clock, reading email, and wondering about getting up. I didn't. Somehow my body told my brain "don't be so stupid", and I woke again as the local radio station flooded the bedroom with mid 90s tunes, and the voice of a friend.

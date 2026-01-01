@@ -2,7 +2,8 @@
 layout: single
 title: "Heathrow To Bastia"
 date: 2020-06-05
-categories: "2020"
+categories:
+  - 2020
 ---
 
 After a few days preparation, I joined my Dad and his friends online last night for my first experience "flying" online. Twice a week the group meet up to fly between two locations around the world, using a variety of flight simulators - which through the miracles of modern software and connectivity, allow them to appear within each other's games, and to talk to one another.

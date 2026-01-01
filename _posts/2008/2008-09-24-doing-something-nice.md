@@ -2,7 +2,8 @@
 layout: single
 title: "Doing Something Nice"
 date: 2008-09-24
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Following me breaking my backside for the last few weeks doing a day job and freelance work, a few of the projects have started to pay off - with money arriving into our second bank account. The idea of channeling "extra" money elsewhere is to stop it getting swallowed up paying for swimming lessons, ballet lessons, groceries, household cleaning supplies, and god knows what else.

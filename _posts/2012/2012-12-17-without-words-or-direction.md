@@ -2,7 +2,8 @@
 layout: single
 title: "Without Words Or Direction"
 date: 2012-12-17
-categories: "2012"
+categories:
+  - 2012
 ---
 
 When I sat here a few moments ago (shortly before the "A" key started acting up, and I ripped it from the keyboard, and then realising that perhaps I shouldn't have done that, because it didn't seem to want to re-attach itself any longer), I was entertaining thoughts of writing some long winded think-piece about my internal struggles with writing online. A lack of words. A lack of opinions, and thoughts that might be shared with the online world.

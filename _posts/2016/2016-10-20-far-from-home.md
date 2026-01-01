@@ -2,7 +2,8 @@
 layout: single
 title: "Far From Home"
 date: 2016-10-20
-categories: "2016"
+categories:
+  - 2016
 ---
 
 At 5:15 this morning, my body performed the magic trick it often performs, and woke me ahead of my phone erupting into whatever the factory default alarm clock noise is (I don't know, because I've always woken up before it, and switched it off). After dragging myself out of bed, and downstairs for a shower and a shave, I retrieved the clothes lined up the night before from the junk room, and set about filling my work backpack with the usual collection of bits and pieces I travel with.

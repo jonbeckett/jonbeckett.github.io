@@ -2,7 +2,8 @@
 layout: single
 title: "Taylors Version"
 date: 2023-12-30
-categories: "2023"
+categories:
+  - 2023
 ---
 
 A month after buying the record player, I finally got to a record store today. While my other half and youngest daughter perused clothing and book stores, I flipped through boxes of vinyl albums and debated about spending far too much money on two albums.

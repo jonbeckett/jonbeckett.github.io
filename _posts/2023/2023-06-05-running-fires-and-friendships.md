@@ -2,7 +2,8 @@
 layout: single
 title: "Running Fires and Friendships"
 date: 2023-06-05
-categories: "2023"
+categories:
+  - 2023
 ---
 
 The first time I woke up this morning I quite confidently looked across at the bedside clock, knowing that I had overslept, and that there would be no way I might make it out in time to go for a run. It was 5:30am. How? Is my body clock really that badly broken?

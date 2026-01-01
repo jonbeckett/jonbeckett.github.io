@@ -2,7 +2,8 @@
 layout: single
 title: "Tired And Geeked Out"
 date: 2005-01-23
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I have been working throughout the weekend on the CMS scripts, trying to heave them a bit closer to the finish line that says "feature complete" - but of course that line is going to be one that edges a bit further away each time you get closer to it.

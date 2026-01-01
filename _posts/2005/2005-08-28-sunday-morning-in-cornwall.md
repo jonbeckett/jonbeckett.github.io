@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Morning In Cornwall"
 date: 2005-08-28
-categories: "2005"
+categories:
+  - 2005
 ---
 
 It's Sunday morning, 9:15am, and I'm sat here in my parent's study tapping away on the computer... it's been a few days since I did a blog entry, so I thought now was as good a time as any (I'll write a proper entry when I get home later).

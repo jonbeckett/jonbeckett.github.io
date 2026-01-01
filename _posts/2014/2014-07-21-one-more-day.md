@@ -2,7 +2,8 @@
 layout: single
 title: "One More Day"
 date: 2014-07-21
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Tomorrow will be my last day in the office for a week or so. I'm burning through the remains of this year's holiday allocation in one go (our holidays reset at the end of July).

@@ -2,7 +2,8 @@
 layout: single
 title: "Feeling Rough"
 date: 2005-04-29
-categories: "2005"
+categories:
+  - 2005
 ---
 
 W had a bodyshop party at our house last night, so I went over to a friend's house with the Playstation and Gran Turismo. We sat, drank beer, and played Playstation for most of the evening.

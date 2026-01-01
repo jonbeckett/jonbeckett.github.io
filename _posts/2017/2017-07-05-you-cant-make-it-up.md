@@ -2,7 +2,8 @@
 layout: single
 title: "You Cant Make It Up"
 date: 2017-07-05
-categories: "2017"
+categories:
+  - 2017
 ---
 
 For the past several months project work has been lining up in front of me like an endless snaking train. It just so happens that I have lucked into having the particular mix of skills needed for every damn project in the near future - meaning that lead times for anything involving me has stretched out into months.

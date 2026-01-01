@@ -2,7 +2,8 @@
 layout: single
 title: "The Great British Pub Quiz"
 date: 2007-11-08
-categories: "2007"
+categories:
+  - 2007
 ---
 
 We are going to the pub tonight, to participate in the weekly ritual of the great British "Pub Quiz" with some friends. W insists she will be okay even though she's been off work for three days with a cold and cough. I came home early from work today after picking up medicine for her at lunchtime.

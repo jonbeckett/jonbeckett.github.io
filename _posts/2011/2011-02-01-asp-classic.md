@@ -2,7 +2,8 @@
 layout: single
 title: "Asp Classic"
 date: 2011-02-01
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Warning: this post contains geeky stuff. To ward off sudden attacks of narcolepsy, look away now.

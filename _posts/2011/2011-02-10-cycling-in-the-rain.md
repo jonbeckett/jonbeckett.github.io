@@ -2,7 +2,8 @@
 layout: single
 title: "Cycling In The Rain"
 date: 2011-02-10
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Tonight was one of those nights when swimming was probably an easier method of getting home from work than cycling. The rain didn't so much as fall, as permeate my entire being.

@@ -3,7 +3,7 @@ layout: single
 title: "Mailing it in"
 date: 2025-07-08
 categories:
-  - "2025"
+  - 2025
 ---
 
 The clock ticked past midnight three quarters of an hour ago.

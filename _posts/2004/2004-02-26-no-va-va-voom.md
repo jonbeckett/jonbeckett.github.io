@@ -2,7 +2,8 @@
 layout: single
 title: "No Va Va Voom"
 date: 2004-02-26
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Over the last couple of days I have been suffering from what I can only describe as a terminal lack of "vavavoom"... I guess the real word for it would be "apathy" - and another term would be "can't be bothered".

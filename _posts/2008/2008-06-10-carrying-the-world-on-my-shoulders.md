@@ -2,7 +2,8 @@
 layout: single
 title: "Carrying The World On My Shoulders"
 date: 2008-06-10
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While walking through the bustling London streets to find something to eat this lunchtime, I felt exposed - alone. I'm not quite sure what's causing it. In the railway station I noticed a chinese girl waiting at the top of a flight of stairs for somebody - she was still there when I returned to the office, looking like I was feeling.

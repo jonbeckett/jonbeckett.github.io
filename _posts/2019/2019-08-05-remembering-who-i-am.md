@@ -2,7 +2,8 @@
 layout: single
 title: "Remembering Who I Am"
 date: 2019-08-05
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It's already Monday night. Whatever happened to the ENTIRE weekend? I seem to remember last posting a few words on Friday night, and not really having time to write anything of consequence - and now suddenly it's Monday night. I don't understand. Or maybe I do.

@@ -2,7 +2,8 @@
 layout: single
 title: "Working On Cms Again"
 date: 2004-10-14
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Greetings from a dark, rainy England.

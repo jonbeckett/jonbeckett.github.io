@@ -2,7 +2,8 @@
 layout: single
 title: "Easter Sunday"
 date: 2019-04-21
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I got up an hour ago - a little after 8am - and still find myself sitting alone downstairs. I can hear noises from the upstairs bedrooms, but nobody has appeared yet. It's Easter Sunday. I don't know where the Easter eggs have been hidden - I know that several were bought last week - before we ran out of money again. My salary should hit the bank tomorrow.

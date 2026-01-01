@@ -2,7 +2,8 @@
 layout: single
 title: "New Years Day With Wonderful Friends"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 We were invited out this afternoon to spend time with some friends that live across the green from us (quite how we have not got together in the past is anybody's guess, seeing as they live perhaps 200 yards away). It goes without question that we had a wonderful time - although I did find myself sat there, wine glass in hand, grinning, and realising just how lucky I am to know so many amazing people.

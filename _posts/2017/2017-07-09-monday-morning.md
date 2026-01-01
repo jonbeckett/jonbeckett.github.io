@@ -2,7 +2,8 @@
 layout: single
 title: "Monday Morning"
 date: 2017-07-09
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I've been head down writing programming since the moment I walked into the office this morning - well, since I filed my time-sheet for last week to keep the project manager off my back, and paid a huge chunk of money off my credit card to keep the bank off my back.

@@ -2,7 +2,8 @@
 layout: single
 title: "Its Friday Friday Gotta Get Down On Friday"
 date: 2013-06-07
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Anybody else remember the Rebecca Black song? Just me? Finebut I bet it's in your head nowor you're about to go and search for it on YouTube, which will then pollute your head with it forever more.

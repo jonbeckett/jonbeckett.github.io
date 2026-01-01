@@ -2,7 +2,8 @@
 layout: single
 title: "All The Presidents Men"
 date: 2016-04-04
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I watched the movie "All the President's Men" last night on the iPad while sitting in bed, keeping half an ear our for our teenage daughter, who was havinganother spectacular falling down moment (a very long story for another day).

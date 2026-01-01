@@ -2,7 +2,8 @@
 layout: single
 title: "Photo Booth Rules"
 date: 2007-01-26
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Okay - my good friend Lunesse just informed me of the killer feature in the Photo Booth software built into my MacBook that I didn't even realise was there...

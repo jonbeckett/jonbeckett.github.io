@@ -2,7 +2,8 @@
 layout: single
 title: "Gameboy Advance Sp"
 date: 2008-05-06
-categories: "2008"
+categories:
+  - 2008
 ---
 
 While at a loose end a few nights ago I wandered towards E-Bay in a dangerous manner, and ended up buying a Gameboy Advance SP for myself.

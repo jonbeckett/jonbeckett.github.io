@@ -2,7 +2,8 @@
 layout: single
 title: "The Dying Of The Light"
 date: 2018-07-04
-categories: "2018"
+categories:
+  - 2018
 ---
 
 After a day spent fighting virtual fires within the software leviathan I have been constructing for the last six months, I'm now sitting in the garden, slowly feeding kindling into a chiminea, gazing into altogether more real flickering flames.

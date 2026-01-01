@@ -2,7 +2,8 @@
 layout: single
 title: "Lunchtime"
 date: 2014-05-06
-categories: "2014"
+categories:
+  - 2014
 ---
 
 It's lunchtime in the officegiven that I have nothing better to do, I could get on with my work, but messages to the contrary seem to be plastered all over the inner workings of my mind. To be honest, I'm not entirely sure where the morning wentone moment I was walking to work, and wondering if my ankle was going to start hurting (long story), and the next thing I knew, my stomach began shouting something at me about eating anything within grabbing distance. Luckily that happened to be some hastily made sandwiches from this morning, and a banana that had made everything else in my bag taste how banana smells (if that makes any sense at all).

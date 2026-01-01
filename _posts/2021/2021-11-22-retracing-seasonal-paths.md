@@ -2,7 +2,8 @@
 layout: single
 title: "Retracing Seasonal Paths"
 date: 2021-11-22
-categories: "2021"
+categories:
+  - 2021
 ---
 
 Every so many months I find myself retracing paths I have walked before. Repeating decisions. Revising judgement. Changing my mind one way or another. Becoming brave and then not so brave. Stepping out, and retreating.

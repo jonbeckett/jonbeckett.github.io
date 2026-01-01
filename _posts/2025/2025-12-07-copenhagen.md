@@ -3,7 +3,7 @@ layout: single
 title: "Copenhagen"
 date: 2025-12-07
 categories:
-  - "2025"
+  - 2025
 ---
 
 After a 5am alarm call, a taxi at 6am, and breakfast at Heathrow airport, we finally took off a little before 9am, and set off towards Copenhagen, Denmark. We thought we were being clever travelling light - only bringing carry-on bags with us- so you can imagine our reaction at the departure gate when we were informed that our bags would need to be checked in.

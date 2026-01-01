@@ -2,7 +2,8 @@
 layout: single
 title: "Pondering Reclusion"
 date: 2009-08-17
-categories: "2009"
+categories:
+  - 2009
 ---
 
 I've been wondering for some time about the relevance of a personal blog on the internet.

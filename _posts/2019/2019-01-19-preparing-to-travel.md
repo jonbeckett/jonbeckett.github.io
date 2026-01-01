@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing To Travel"
 date: 2019-01-19
-categories: "2019"
+categories:
+  - 2019
 ---
 
 Throughout the day I have been quietly getting ready to travel to Germany again. A taxi will arrive early tomorrow morning and spirit me to London Heathrow, where I will make the familiar journey through check-in, security, and the departure hall before boarding an aircraft bound for Frankfurt. It's all seems so very routine, and yet when you stop to think about the thousands of cogs that need to turn in unison to get a person from one country to another, it's pretty miraculous really.

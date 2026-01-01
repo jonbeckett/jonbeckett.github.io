@@ -2,7 +2,8 @@
 layout: single
 title: "The end of Twitter "
 date: 2022-12-16
-categories: "2022"
+categories:
+  - 2022
 ---
 
 You might think a social network acquired by an egomaniac billionaire that has become unsustainable after advertisers collectively ditched it would be playing nicely with others in the hope of repairing its utterly destroyed reputation.

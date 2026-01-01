@@ -2,7 +2,8 @@
 layout: single
 title: "The Rocky Horror Picture Show"
 date: 2022-11-19
-categories: "2022"
+categories:
+  - 2022
 ---
 
 We were invited by friends to a charity fund-raiser quiz-night at the local football club last night. We met them under a street lamp at the end of the road, and felt like teenagers while waiting.

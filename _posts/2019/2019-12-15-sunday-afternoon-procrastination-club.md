@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Afternoon Procrastination Club"
 date: 2019-12-15
-categories: "2019"
+categories:
+  - 2019
 ---
 
 While my other half stands on the touchline of a rugby field many miles from home watching our middle daughter's latest attempt to injure herself before school on Monday, I'm sitting in the warmth of the junk room at home, waiting for files to download, and wondering where the day went.

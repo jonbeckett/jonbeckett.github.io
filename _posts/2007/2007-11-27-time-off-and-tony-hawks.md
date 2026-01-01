@@ -2,7 +2,8 @@
 layout: single
 title: "Time Off And Tony Hawks"
 date: 2007-11-27
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I have now had a cold for a month. I should be in the Guinness book of World Records or something. If the causes of colds are to be believed, I could qualify for multiple categories - "most run down person", "weakest immune system", "most tired person". The possibilities are endless.

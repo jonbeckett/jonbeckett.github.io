@@ -2,7 +2,8 @@
 layout: single
 title: "Ink Blot Test"
 date: 2005-08-11
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I just took an inkblot test on the internet - where you answer set questions about a series of ink blots, and your perception of what you have seen is interpreted to describe your psyche.

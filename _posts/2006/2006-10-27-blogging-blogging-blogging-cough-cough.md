@@ -2,7 +2,8 @@
 layout: single
 title: "Blogging Blogging Blogging Cough Cough"
 date: 2006-10-27
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I am off work today, having finally caught the lurgi that W has been suffering with for the last week. I'm not coughing as much as her, but that might have something to do with me fetching medicine from the local pharmacist as soon as I got up this morning. While there is a certain comfort to be had from wallowing in a cough or cold, a little voice in the bottom of my mind tells me that the weekend is nearly upon us, and unless I pump my body full of medication, the weekend is going to be wasted.

@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Sunday"
 date: 2017-05-20
-categories: "2017"
+categories:
+  - 2017
 ---
 
 This weekend seems to be doing it's level best to vanish without a trace. I've been stuck at home all day, washing clothes, washing dishes, hanging stuff out to dry, throwing more stuff in the tumble dryer, making lunches, cleaning up from room to room, and basically having no life.

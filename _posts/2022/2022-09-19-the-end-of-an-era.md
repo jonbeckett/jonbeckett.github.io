@@ -2,7 +2,8 @@
 layout: single
 title: "The End Of An Era"
 date: 2022-09-19
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Queen Elizabeth II was buried today. It seems fitting that I write something to mark the day. I'm not a royalist, and never have been, but I appreciate a life well lived, and a life that must have been constrained by endless rules, expectations, and obligations. A life in service. A life not chosen. I'm not sure I could have done it.

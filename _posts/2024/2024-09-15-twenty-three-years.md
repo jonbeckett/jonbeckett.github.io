@@ -2,7 +2,8 @@
 layout: single
 title: "Twenty three years"
 date: 2024-09-15
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Today marks twenty three years since I stood at the front of a church in front of family and friends, exchanged rings, and signed a legally binding contract.

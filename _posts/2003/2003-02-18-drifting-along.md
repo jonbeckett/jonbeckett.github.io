@@ -2,7 +2,8 @@
 layout: single
 title: "Drifting Along"
 date: 2003-02-18
-categories: "2003"
+categories:
+  - 2003
 ---
 
 I'm bored and trying to think of what to write.

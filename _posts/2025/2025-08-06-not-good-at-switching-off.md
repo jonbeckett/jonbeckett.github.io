@@ -3,7 +3,7 @@ layout: single
 title: "Not good at switching off"
 date: 2025-08-06
 categories:
-  - "2025"
+  - 2025
 ---
 
 After burning the candle at both ends over the last few days, I pushed back a little today. Or rather I had all the good intentions of doing so, and then did nothing of the sort.

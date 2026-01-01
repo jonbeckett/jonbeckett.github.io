@@ -2,7 +2,8 @@
 layout: single
 title: "One Foot in Front of the Other"
 date: 2023-01-02
-categories: "2023"
+categories:
+  - 2023
 ---
 
 A few moments after 7am this morning the cogs of the internet firmament clunked forwards and filled the bedroom with the sounds of a local commercial radio station. I squinted at the clock and murmered "Alexa, stop".

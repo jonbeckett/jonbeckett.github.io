@@ -2,7 +2,8 @@
 layout: single
 title: "Lets Try This Quiet Weekend Thing Again"
 date: 2011-04-03
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I headed into this weekend with hopes of not really doing anything - perhaps a chance to get better at last. That didn't really happen at all yesterday... I ended up going shopping three times, looking after four children throughout the day, making breakfast and lunch, tidying up, washing up, and all the other things that you discover en-route to trying to do something else.

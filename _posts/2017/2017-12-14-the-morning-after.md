@@ -2,7 +2,8 @@
 layout: single
 title: "The Morning After"
 date: 2017-12-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 When the alarm clock ticked over at 7am and filled the bedroom with the local radio station, I woke with a start and rolled upright in bed. It turns out moving was a bad idea, given the headache that had been hiding somewhere in there before I moved. I seem to remember in Hitchhikers Guide to the Galaxy, Zaphod Beeblebrox described drinking a pan-galactic gargle-blaster as being hit in the head by a gold brick. That's a pretty accurate description of those first few moments after sitting up in bed.

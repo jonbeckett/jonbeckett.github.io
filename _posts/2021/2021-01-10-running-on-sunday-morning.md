@@ -2,7 +2,8 @@
 layout: single
 title: "Running On Sunday Morning"
 date: 2021-01-10
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I went for a run around town with my youngest daughter this morning. She was supposed to be running with her sisters, but neither of them got out of bed. At 8am she appeared in the bedroom doorway, asking if I might go with her instead. My other half smiled at me.

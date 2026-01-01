@@ -2,7 +2,8 @@
 layout: single
 title: "Nanowrimo Approaches"
 date: 2008-10-19
-categories: "2008"
+categories:
+  - 2008
 ---
 
 It's that time of year again. I've put my name down and expect to spectacularly fail once more in my bid to write a 50,000 word novel during November.

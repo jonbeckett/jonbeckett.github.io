@@ -2,7 +2,8 @@
 layout: single
 title: "Cereal Toast Tiredness"
 date: 2008-03-11
-categories: "2008"
+categories:
+  - 2008
 ---
 
 The last few days have seemed like hard work - and I'm not really sure why. Perhaps it's the added complication of toast on a morning (we decided to give them cereal and toast for breakfast to prevent "I'm hungry" at 11am). The breakast therefore now takes twice as long as it did - and causes twice as much washing up. Suddenly 7am isn't early enough to get up - yes, I can get the kids up and turn them around in time for school, but it means I get nothing to eat or drink myself.

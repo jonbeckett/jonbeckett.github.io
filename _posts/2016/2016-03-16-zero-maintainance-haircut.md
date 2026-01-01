@@ -2,7 +2,8 @@
 layout: single
 title: "Zero Maintainance Haircut"
 date: 2016-03-16
-categories: "2016"
+categories:
+  - 2016
 ---
 
 A time window opened up this morning to get to the barbers in town, and get my hair chopped back to a more manageable length (read: a length where I have to do nothing to it at all).

@@ -2,7 +2,8 @@
 layout: single
 title: "Saying Without Saying"
 date: 2023-06-08
-categories: "2023"
+categories:
+  - 2023
 ---
 
 My personal blog has been using the same "theme" for the past several years. A minimalist stream of posts with no distractions, gadgets, widgets, or whatever else. Just my words, accompanied by a stock photo that is somewhat related to whatever I've emptied my head about.

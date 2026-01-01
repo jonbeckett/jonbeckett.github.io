@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where The Work Laptop Calls For Me Like The Crystal In Superman"
 date: 2011-11-18
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I can't believe another week has flown past. Is it really Friday night again? I'm living a treadmill life at the momentalternating between home and work, house and hotel, and far flung offices. As persuasive as George Clooney might have made it look in "Up in the Air", the reality is very different. It diminishes friendship, erodes creativity, and causes a continual distraction in your subconscious.

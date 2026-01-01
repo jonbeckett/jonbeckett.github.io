@@ -2,7 +2,8 @@
 layout: single
 title: "Working In The Garden"
 date: 2006-05-06
-categories: "2006"
+categories:
+  - 2006
 ---
 
 We woke at about 8 this morning and looked out across a sun filled garden. A garden who's grass needed cutting, and with numerous jobs to be done.

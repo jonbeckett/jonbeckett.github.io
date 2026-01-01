@@ -2,7 +2,8 @@
 layout: single
 title: "Hitchhikers Guide To The Galaxy"
 date: 2005-05-12
-categories: "2005"
+categories:
+  - 2005
 ---
 
 We went to see the new movie of "Hitchhikers Guide to the Galaxy" last night - and I came away with mixed thoughts about it.

@@ -2,7 +2,8 @@
 layout: single
 title: "Work Ikea Tired Soaked And Aching"
 date: 2008-01-18
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I am soaked to the skin once again (through my waterproofs) after cycling to work through the great deluge. Predictably it has stopped raining now. I'm starting to get the impression that somebody up there doesn't like me very much - perhaps because I argue about belief in such whimsical paranormal beings. Calendars with pretty pictures of English country scenes in the late summer should also have a few months of horrible grey rain, with rivers of mud, huge muddy puddles and overflowing drains everywhere you look.

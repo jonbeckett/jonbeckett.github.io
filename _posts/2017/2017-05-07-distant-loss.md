@@ -2,7 +2,8 @@
 layout: single
 title: "Distant Loss"
 date: 2017-05-07
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Somebody I vaguely knew via the internet died today. She was not the first, and will not be the last, but it was another reminder that our time on this planet is short, and can end without warning.

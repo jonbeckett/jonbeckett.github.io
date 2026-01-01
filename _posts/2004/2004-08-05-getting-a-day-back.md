@@ -2,7 +2,8 @@
 layout: single
 title: "Getting A Day Back"
 date: 2004-08-05
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Today myself and my colleague/manager CH were supposed to drive over to a large automotive company to show them their newly installed workflow system... except CH pulled the plug at the last minute. Here's why...

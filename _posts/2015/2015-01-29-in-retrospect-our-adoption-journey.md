@@ -2,7 +2,8 @@
 layout: single
 title: "In Retrospect Our Adoption Journey"
 date: 2015-01-29
-categories: "2015"
+categories:
+  - 2015
 ---
 
 After resurrecting thousands of archived posts back into the blog earlier this evening, it occurred to me that I can finally re-tell our adoption journey once more. Recent readers have no idea how far back this blog goes, or how much I recorded along the way. I guess I did it because I knew I would forget how we felt - our worries, our concerns, or even who we used to be. I also wanted something the children could look back on, and learn about who we were - how excited we were, and what we had to go through.

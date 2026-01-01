@@ -2,7 +2,8 @@
 layout: single
 title: "Bank Holiday Monday"
 date: 2015-05-25
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Today didn't really happen. Well... of course it did, but it doesn't feel like it happened. I feel like I haven't achieved anything of consequence.

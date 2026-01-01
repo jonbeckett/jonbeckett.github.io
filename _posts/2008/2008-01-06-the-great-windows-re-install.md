@@ -2,7 +2,8 @@
 layout: single
 title: "The Great Windows Re Install"
 date: 2008-01-06
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Following our purchase of a shiny new multi-function printer/scanner as reported yesterday, and the prospect of installing the drivers and using Photoshop a lot more, I bit the bullet last night and re-installed Windows on the PC for the first time since it was bought several years ago.

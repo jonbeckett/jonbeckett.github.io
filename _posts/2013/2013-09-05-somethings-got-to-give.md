@@ -2,7 +2,8 @@
 layout: single
 title: "Somethings Got To Give"
 date: 2013-09-05
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I am in a blogging black hole of my own making. Written posts go to WordPress. Words are cross posted to LiveJournal by hand. Photos go to Instagram. Photos are cross posted by Instagram to Flickr, and Tumblr (and occasionally to Facebook, and Twitter).

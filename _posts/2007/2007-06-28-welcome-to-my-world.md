@@ -2,7 +2,8 @@
 layout: single
 title: "Welcome To My World"
 date: 2007-06-28
-categories: "2007"
+categories:
+  - 2007
 ---
 
 The place - Sloe, Paddington Station

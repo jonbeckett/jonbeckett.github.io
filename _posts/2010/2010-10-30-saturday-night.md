@@ -2,7 +2,8 @@
 layout: single
 title: "Saturday Night"
 date: 2010-10-30
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It's the weekend before "National Blog Posting Month" begins, and I've been picking away at a freelance project throughout most of the day.

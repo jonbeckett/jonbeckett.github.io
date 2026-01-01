@@ -2,7 +2,8 @@
 layout: single
 title: "Keeping In Touch"
 date: 2007-02-21
-categories: "2007"
+categories:
+  - 2007
 ---
 
 If anybody would like to keep in touch with me during my various adventures in London (where I have no access to instant messaging, and limited access to private email), I would encourage everybody to go look at "Twitter" - www.twitter.com.

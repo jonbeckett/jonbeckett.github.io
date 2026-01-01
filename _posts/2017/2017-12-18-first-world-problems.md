@@ -2,7 +2,8 @@
 layout: single
 title: "First World Problems"
 date: 2017-12-18
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Given all the things going on in the world, it often feels ridiculous to complain about the situations we find ourselves in. We bottle up our stresses, our concerns, and our frustrations, bury them deep down, and keep moving forwards. We are encouraged to "keep calm, and carry on".

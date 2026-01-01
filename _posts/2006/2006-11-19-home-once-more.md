@@ -2,7 +2,8 @@
 layout: single
 title: "Home Once More"
 date: 2006-11-19
-categories: "2006"
+categories:
+  - 2006
 ---
 
 We have arrived home this evening after a week spent in Lincolnshire with my brother and his family. It took on my role as "children's entertainer" for my nephew and played Chess, Lego, had pitched battles with hundreds of plastic knights, and (perhaps most crucially) breezed through the various license tests in Gran Turismo for the little lad. At one point while traversing a particularly windy section of the the Nurburgring Nordschlief in a Lotus Elise he piped up "how come you make it look so easy Uncle Jonathan?"

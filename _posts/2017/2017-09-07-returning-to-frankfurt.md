@@ -2,7 +2,8 @@
 layout: single
 title: "Returning To Frankfurt"
 date: 2017-09-07
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I'm winding things down at work today, ahead of travelling to Frankfurt in Germany next week. The flight is booked, the hotel is booked - I just need to turn up, find the hotel, pretend to be clever for a week, then return home again in time for tea and medals.

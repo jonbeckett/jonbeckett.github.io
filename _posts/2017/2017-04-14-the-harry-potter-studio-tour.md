@@ -2,7 +2,8 @@
 layout: single
 title: "The Harry Potter Studio Tour"
 date: 2017-04-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 After a week off work achieving very little, the weekend has been a full-on sprint so far - filled with days out, nights out, and more days out. Somewhere along the way I have miraculously avoided a hangover, and I'm still not sure how - I'll come to that in good time.

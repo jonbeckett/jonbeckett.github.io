@@ -2,7 +2,8 @@
 layout: single
 title: "Choose Your Own Adventure"
 date: 2021-03-12
-categories: "2021"
+categories:
+  - 2021
 ---
 
 wp:image  ![](https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6da05b2d-cf33-4943-a3ba-dafc55940051_2936x2546.jpeg)  /wp:image  While sending messages back and forth with a friend this morning, it struck me that life can be compared to a "choose your own adventure" book.

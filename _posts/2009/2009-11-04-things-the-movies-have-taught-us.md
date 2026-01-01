@@ -2,7 +2,8 @@
 layout: single
 title: "Things The Movies Have Taught Us"
 date: 2009-11-04
-categories: "2009"
+categories:
+  - 2009
 ---
 
 Having a membership at Tumblr sometimes pays off in the strangest ways; this cross my path this morning, and I thought it was too good not to share;

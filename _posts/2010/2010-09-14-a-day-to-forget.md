@@ -2,7 +2,8 @@
 layout: single
 title: "A Day To Forget"
 date: 2010-09-14
-categories: "2010"
+categories:
+  - 2010
 ---
 
 After staying at home yesterday with a virus, I ventured back into the office this morning. Upon watching the beads of sweat running from my hair, one of my colleagues asked if I was running a fever...

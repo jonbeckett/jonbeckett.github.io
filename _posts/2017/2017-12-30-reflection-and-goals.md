@@ -2,7 +2,8 @@
 layout: single
 title: "Reflection And Goals"
 date: 2017-12-30
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I've never quite understood the mania that some people experience at the end of each year - setting out either a list of the things they achieved over the past twelve months, or stacking up a series of goals they would like to achieve in the next twelve. I'm not questioning them - if they're happy doing it, they're not harming anybody. I'm just expressing my bewilderment at it all.

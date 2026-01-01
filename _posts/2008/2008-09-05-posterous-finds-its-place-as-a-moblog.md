@@ -2,7 +2,8 @@
 layout: single
 title: "Posterous Finds Its Place As A Moblog"
 date: 2008-09-05
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I have finally found a place for the wonderful "Posterous" service that I wrote about several days ago.

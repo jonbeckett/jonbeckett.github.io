@@ -2,7 +2,8 @@
 layout: single
 title: "Witnessing History"
 date: 2021-01-07
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I stayed up most of last night watching history unfold on the other side of the world - watching what surely must be the end of Donald Trump. Now I wonder what will come of the people that listen to him, follow him, and are inspired by him.

@@ -2,7 +2,8 @@
 layout: single
 title: "Must Try Harder"
 date: 2021-09-26
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The clock has just passed 1:30am. I don't know why I'm still awake. I've spent the majority of the evening deep in virtual rabbit holes. The internet is a perfect escape for a master procrastinator.

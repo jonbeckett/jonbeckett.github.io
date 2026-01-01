@@ -2,7 +2,8 @@
 layout: single
 title: "A Different Perspective"
 date: 2006-08-15
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I was talking to somebody recently about drawing, and they made an observation about me. It stuck in my mind because it's not the first time I've heard it said. I was told that I see things in a different way than most people.

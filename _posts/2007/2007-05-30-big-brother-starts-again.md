@@ -2,7 +2,8 @@
 layout: single
 title: "Big Brother Starts Again"
 date: 2007-05-30
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I just sat down to watch television for a bit before going to bed, and it would appear a new series of Big Brother is starting this evening in the UK.

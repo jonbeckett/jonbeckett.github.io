@@ -2,7 +2,8 @@
 layout: single
 title: "Look At The Size Of That Thing"
 date: 2011-10-07
-categories: "2011"
+categories:
+  - 2011
 ---
 
 We visited the big school in town last night for the first time with our eldest daughterthe school she will be moving up to next September. It's funny really; although I have travelled past countless times, I've never been inside the school gates.

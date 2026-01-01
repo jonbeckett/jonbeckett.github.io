@@ -2,7 +2,8 @@
 layout: single
 title: "Stealing Minutes From The Sandman"
 date: 2022-10-13
-categories: "2022"
+categories:
+  - 2022
 ---
 
 You find me sitting in the dark at 1am again. I'm not entirely sure how this keeps happening. One minute I'm washing up the things from dinner - the next everybody else has gone to bed, and I'm here tinkering with a few different projects and losing track of time.

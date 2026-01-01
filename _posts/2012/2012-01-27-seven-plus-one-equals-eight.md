@@ -2,7 +2,8 @@
 layout: single
 title: "Seven Plus One Equals Eight"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 In a repeat of last weekend, which I believe I may have referred to as "not a weekend" during more than one stressed moment, this weekend is careering off under it's own momentum too.

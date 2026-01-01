@@ -2,7 +2,8 @@
 layout: single
 title: "Working From Home"
 date: 2016-02-05
-categories: "2016"
+categories:
+  - 2016
 ---
 
 The day started like any other in recent timesthe children didn't get out of bed, then complained that we hadn't woken them up (I think they'll find we did, repeatedly). They then ran here, there, and everywhere finding ties, shoes, bags, PE kit, and whatever else while I made breakfast and packed lunches.

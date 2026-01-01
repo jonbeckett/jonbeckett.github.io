@@ -2,7 +2,8 @@
 layout: single
 title: "Annoyances"
 date: 2024-01-31
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Yesterday's writing prompt (because I missed a day again, and it's much easier than today's writing prompt) asks "what do you complain about the most?"

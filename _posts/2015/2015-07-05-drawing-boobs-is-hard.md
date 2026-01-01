@@ -2,7 +2,8 @@
 layout: single
 title: "Drawing Boobs Is Hard"
 date: 2015-07-05
-categories: "2015"
+categories:
+  - 2015
 ---
 
 While wandering around town yesterday, I bought a sketchbook for myself. I haven't drawn athingin about ten years - which is a shame, seeing that I sat through two years of art lessons a long time ago, drawing people day-in, day-out. I used tolove drawing people - probably because they are by far the most difficult subjects.

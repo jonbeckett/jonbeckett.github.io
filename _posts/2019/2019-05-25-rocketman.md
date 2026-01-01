@@ -2,7 +2,8 @@
 layout: single
 title: "Rocketman"
 date: 2019-05-25
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I'm sitting in front of the keyboard at fifteen minutes to midnight, racing to empty my head. I guess this is one of those times where you realise you really are a writer of sorts - or a diarist, or a journaller, or whatever other label you might attach. We just got back from the cinema, and I want to get these words down before everything fades.

@@ -2,7 +2,8 @@
 layout: single
 title: "Burning The Candle At Both Ends"
 date: 2018-12-17
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I'm not entirely sure how I'm still awake. After an invitation to dinner with friends yesterday evening, arriving home in the early hours, we were awoken with a start by the sound of cats fighting - inside the house.

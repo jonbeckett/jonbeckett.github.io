@@ -2,7 +2,8 @@
 layout: single
 title: "6 Punctures In 4 Days"
 date: 2011-01-21
-categories: "2011"
+categories:
+  - 2011
 ---
 
 This is getting a bit silly. I was late in to work this morning because the bike had a flat on the way home last night, and after fixing it, and checking over the front tyre again, it flatted again on the way in to work.

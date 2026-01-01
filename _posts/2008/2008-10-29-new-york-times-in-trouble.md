@@ -2,7 +2,8 @@
 layout: single
 title: "New York Times In Trouble"
 date: 2008-10-29
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Even though new media mouthpieces have been shouting for some time about the end of print newspapers, it still comes as quite a shock when perhaps the biggest name in print newspapers admits they are in huge trouble.

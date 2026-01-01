@@ -2,7 +2,8 @@
 layout: single
 title: "Reinstalling"
 date: 2020-11-13
-categories: "2020"
+categories:
+  - 2020
 ---
 
 Deep breath. This is going to get very nerdy, very quickly. I'll just get it over with, shall I?

@@ -2,7 +2,8 @@
 layout: single
 title: "Adrift On The Internet"
 date: 2017-10-28
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Over the last few months I have continued to post almost every day, tried to read those that I follow, and kept putting one foot in front of the other - it's one of the few things I'm good at. It struck me this morning that I've also become incredibly lazy.

@@ -2,7 +2,8 @@
 layout: single
 title: "This Is Normal"
 date: 2011-01-03
-categories: "2011"
+categories:
+  - 2011
 ---
 
 A conversation that happened early this morning with our eldest...

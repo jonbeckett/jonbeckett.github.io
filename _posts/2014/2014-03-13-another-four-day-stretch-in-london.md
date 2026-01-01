@@ -2,7 +2,8 @@
 layout: single
 title: "Another Four Day Stretch In London"
 date: 2014-03-13
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Before I get started on yet another head emptying episode, I would just like to comment that tea is rubbish as a stimulant. After charging home from London this evening, and downing two large glasses of wine while watching the first half of the movie "Hackers" with our eldest daughter, sleep almost overtook me. I was roused by the arrive of the local Brownie troop (read: W and the younger girls), and set about making a cup of tea to wake myself up. It didn't work.

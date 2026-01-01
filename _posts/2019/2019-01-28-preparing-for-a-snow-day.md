@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing For A Snow Day"
 date: 2019-01-28
-categories: "2019"
+categories:
+  - 2019
 ---
 
 The weather forecast over the last few days had been predicting a night of heavy snow. It's worth noting that anything more than about half an inch of snow tends to grind England to an absolute halt. I'm sure those living in the northerly reaches of Europe or North America will probably laugh - and so they should. It kind of makes sense though - we see snow perhaps once or twice a year, for no longer than a day or two at a time - therefore nobody bothers to provision for it. There was a period - during the late 1990s and early 2000s - when we saw no snow at all for perhaps a decade in the south of England.

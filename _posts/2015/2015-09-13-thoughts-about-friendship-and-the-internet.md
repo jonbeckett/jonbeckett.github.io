@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughts About Friendship And The Internet"
 date: 2015-09-13
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I have noticed a growing divide between those who's relationships with others predominantly exist among friends, family, and associates they meet in every day life, and those who'srelationships are predominantly forged in communities on the internet.

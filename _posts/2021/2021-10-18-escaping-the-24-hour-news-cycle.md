@@ -2,7 +2,8 @@
 layout: single
 title: "Escaping The 24 Hour News Cycle"
 date: 2021-10-18
-categories: "2021"
+categories:
+  - 2021
 ---
 
 Eleven minutes ago the clock ticked past midnight. It's officially Monday now, but I'm going to go on pretending it's Sunday at least until I fall asleep.

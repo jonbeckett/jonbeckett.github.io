@@ -2,7 +2,8 @@
 layout: single
 title: "Valentines Day"
 date: 2015-02-14
-categories: "2015"
+categories:
+  - 2015
 ---
 
 You all know that Valentines Day was hijacked (as with just about any other significant date in the calendar) by the Christian Church, right?

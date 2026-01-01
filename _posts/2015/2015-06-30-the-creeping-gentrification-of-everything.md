@@ -2,7 +2,8 @@
 layout: single
 title: "The Creeping Gentrification Of Everything"
 date: 2015-06-30
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Some of my friends went to the Glastonbury music festival this year, or just "Glastonbury" as it now seems to be called. Years ago it was a music festival for young people to listen to independent bands playing their own music, and to have a good time. At some point along the way - like anything else successful - it all changed. Zoom forward a decade, and you get what happened this year - where crowd photos are filled with thirty and forty somethings, where half the encampments are filled with children's entertainers, and the half the "headline" acts (of which there should be none) are has-been label artists, or as happened this year - rappers.

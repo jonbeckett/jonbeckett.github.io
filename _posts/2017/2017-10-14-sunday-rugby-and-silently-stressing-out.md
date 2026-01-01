@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Rugby And Silently Stressing Out"
 date: 2017-10-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Today will be spent standing at the touchline of rugby pitches - watching Miss 12 and Miss 13 diving around in the mud, shouting "DEFENSIVE LINE!" like little field marshals, and hopefully having fun.

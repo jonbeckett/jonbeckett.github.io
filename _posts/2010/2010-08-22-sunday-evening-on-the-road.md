@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Evening On The Road"
 date: 2010-08-22
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It's late on Sunday evening, and I find myself sat at a pretty nice desk, in a nice hotel room, in a hotel I've visited before, a couple of hundred miles from home.

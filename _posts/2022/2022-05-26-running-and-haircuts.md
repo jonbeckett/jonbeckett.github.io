@@ -2,7 +2,8 @@
 layout: single
 title: "Running And Haircuts"
 date: 2022-05-26
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I began "Week 5" of the "Couch to 5K" running programme this morning - three five minute runs, with three minute walks in-between. I could really have done with an extra half hour in bed, but (thankfully) I'm pretty good at guilting myself into carrying on with the various idiot escapades I get involved in.

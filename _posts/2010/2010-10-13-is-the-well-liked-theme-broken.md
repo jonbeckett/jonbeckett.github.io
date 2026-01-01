@@ -2,7 +2,8 @@
 layout: single
 title: "Is The Well Liked Theme Broken "
 date: 2010-10-13
-categories: "2010"
+categories:
+  - 2010
 ---
 
 Just playing around with the themes in Tumblr - it would appear the "well liked" theme by Peter Vidani (the one you're looking at) is broken - and I'm not entirely sure what causes it certain content causes the formatting to go completely mad.

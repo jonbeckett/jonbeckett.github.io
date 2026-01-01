@@ -2,7 +2,8 @@
 layout: single
 title: "Happy Birthday To Me"
 date: 2006-03-03
-categories: "2006"
+categories:
+  - 2006
 ---
 
 On Saturday 3rd March 1973, June Beckett gave birth to her second son. He remained nameless for several weeks while the hospital did every check possible on him; they suspected he was suffering from Hydrocephalus, more commonly known as Water on the Brain. It wasn't until they measured the father's head that they realised there was nothing wrong. Of course at this point his grandmother divulged that she had always had trouble buying hats for her son

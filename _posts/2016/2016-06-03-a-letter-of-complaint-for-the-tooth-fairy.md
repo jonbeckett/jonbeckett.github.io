@@ -2,7 +2,8 @@
 layout: single
 title: "A Letter Of Complaint For The Tooth Fairy"
 date: 2016-06-03
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I think grown ups should receive some kind of medal for reaching the end of Friday in one piece. There should be a ceremony, cake, and everything. If you manage to make it to several Fridays in a row, the size of the cake should increase - maybe the medal too.

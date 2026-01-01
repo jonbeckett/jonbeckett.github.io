@@ -2,7 +2,8 @@
 layout: single
 title: "Here All Week"
 date: 2015-05-26
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I discovered today that I will be in London all week. All I have seen so far is an email notification from a project plan update. I'm not really expecting any more; it will be down to me to find out what I'm doing, where I'm going, who I'm meeting there, and whatever else. It's all a bit chaotic at the moment.

@@ -2,7 +2,8 @@
 layout: single
 title: "Big Bang Theory Strikes Again"
 date: 2009-01-20
-categories: "2009"
+categories:
+  - 2009
 ---
 
 This is getting bad. We're on our second episode tonight. I'm not sure how many we have left... and I'm not sure what we will watch when we run out.

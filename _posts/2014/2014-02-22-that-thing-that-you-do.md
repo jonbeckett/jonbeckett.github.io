@@ -2,7 +2,8 @@
 layout: single
 title: "That Thing That You Do"
 date: 2014-02-22
-categories: "2014"
+categories:
+  - 2014
 ---
 
 Although not technically the "first" post here, I thought it might be interesting for others (oka very few others) to go into a little more depth than I have before about my careerabout what I do in the daytime.

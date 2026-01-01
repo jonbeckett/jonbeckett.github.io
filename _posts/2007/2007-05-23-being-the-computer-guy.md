@@ -2,7 +2,8 @@
 layout: single
 title: "Being The Computer Guy"
 date: 2007-05-23
-categories: "2007"
+categories:
+  - 2007
 ---
 
 Just watching the latest edition of Diggnation on the train, and they are talking about a post on Digg detailing the top 10 problems with being a "computer guy".

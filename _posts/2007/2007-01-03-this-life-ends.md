@@ -2,7 +2,8 @@
 layout: single
 title: "This Life Ends"
 date: 2007-01-03
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I feel a bit sad tonight - "This Life" sort of officially came to an end.

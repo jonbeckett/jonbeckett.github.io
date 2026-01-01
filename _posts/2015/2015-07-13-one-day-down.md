@@ -2,7 +2,8 @@
 layout: single
 title: "One Day Down"
 date: 2015-07-13
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Ok. That's the first day of this trip ticked off the list. Working with wonderful people in a wonderful office. The work part of this journey was never going to be a problem. The problem is me - or rather the abject failure of my body.

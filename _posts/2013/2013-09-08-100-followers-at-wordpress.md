@@ -2,7 +2,8 @@
 layout: single
 title: "100 Followers At Wordpress"
 date: 2013-09-08
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I know it looks narcissistic to post about a particular number of followers being crossed, but given the number of times I have switched blog platforms over the last few years, it's pretty miraculous that I've stayed anywhere long enough to pick up any followers at all.

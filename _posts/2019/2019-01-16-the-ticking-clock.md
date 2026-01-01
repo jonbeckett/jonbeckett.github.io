@@ -2,7 +2,8 @@
 layout: single
 title: "The Ticking Clock"
 date: 2019-01-16
-categories: "2019"
+categories:
+  - 2019
 ---
 
 My hosting plan at WordPress runs out in four months. Being completely truthful, I don't know if I'm going to carry on - or even if I want to carry on. I know I've wobbled quite a bit in recent months, and you're probably bored of reading about it, but I'm wondering if maybe it's time - time to take a break - to step away for a while.

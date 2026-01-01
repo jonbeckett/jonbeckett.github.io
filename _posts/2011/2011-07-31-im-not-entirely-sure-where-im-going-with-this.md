@@ -2,7 +2,8 @@
 layout: single
 title: "Im Not Entirely Sure Where Im Going With This"
 date: 2011-07-31
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I began blogging before the word had become part of the common vernacular. In the early days, people wrote about their daytheir life. Online journals formed the basis of LiveJournal, DiaryLand, and Blogger. Any thoughts of blogs covering a niche or subject were years away.

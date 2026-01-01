@@ -2,7 +2,8 @@
 layout: single
 title: "Day Six Slowing Everything Down"
 date: 2008-02-02
-categories: "2008"
+categories:
+  - 2008
 ---
 
 After perhaps the most difficult day yesterday we were determined to take a step back today and slow everything down.

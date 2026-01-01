@@ -2,7 +2,8 @@
 layout: single
 title: "Lawnmowers And Music"
 date: 2022-04-15
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Do I get a badge that says "honorary member of the old fart club", or something? I went shopping at lunchtime on the internet, and ordered a new lawnmower. If I had not done so, the garden would have been used to film the next sequel in the Jumanji franchise.

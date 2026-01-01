@@ -2,7 +2,8 @@
 layout: single
 title: "Whats In My Bags"
 date: 2018-06-23
-categories: "2018"
+categories:
+  - 2018
 ---
 
 Here we are again - packing bags ahead of an early morning taxi ride to the airport. It's all becoming a bit routine. I thought it might be interesting (to me at least) to go through the contents of my clothes bag, and backpack. I suppose it's worth noting that I'm travelling out on Monday, and back on Friday - so you have some idea how long the various things I'm carrying have to last.

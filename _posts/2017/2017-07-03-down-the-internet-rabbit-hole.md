@@ -2,7 +2,8 @@
 layout: single
 title: "Down The Internet Rabbit Hole"
 date: 2017-07-03
-categories: "2017"
+categories:
+  - 2017
 ---
 
 In what could easily be described as a fantastically stupidthing to do, this morning I created both a Facebook Page, and a Google+ "Collection" for this blog. I also switched on "Sharing" features within the mighty WordPress for the first time. What did this mean? It meant Facebook, Google+, Tumblr, and Twitter began to be automagically polluted with links to my inane words, thoughts, ideas, and stories.

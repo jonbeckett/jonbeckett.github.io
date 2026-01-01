@@ -2,7 +2,8 @@
 layout: single
 title: "Out Of The Woods"
 date: 2014-09-24
-categories: "2014"
+categories:
+  - 2014
 ---
 
 After a seemingly endless struggle over the last few days, I can finally see the top of the mountain I've been climbing. I can finally begin to relax. While I can't write about the nature of the mountain, I can express my relief.

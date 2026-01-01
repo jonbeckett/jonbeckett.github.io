@@ -2,7 +2,8 @@
 layout: single
 title: "The Adventure Starts Here"
 date: 2008-01-25
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I finished work this evening, and don't go back for 2 months. During the coming weeks I have to learn how to be a Dad to several small children.

@@ -2,7 +2,8 @@
 layout: single
 title: "Running In The Morning"
 date: 2020-04-17
-categories: "2020"
+categories:
+  - 2020
 ---
 
 Late yesterday evening, after floating the idea that I might go for a run in the morning, my other half hijacked the idea, and invited my daughters to go with me - to take them through the 'Couch to 5K' training programme while we're all self-isolating. She loves planning things for other people. Conversely, when she is busy you better be busy too, otherwise all sorts of displeased looks will be aimed in your general direction.

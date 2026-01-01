@@ -2,7 +2,8 @@
 layout: single
 title: "Marilyn Monroe"
 date: 2012-12-21
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Once upon a time I went to college, and spent two years drawing people every day. One of the projects intended to fill our head with ideas was "Pop Art"we got paraded in front of various canvases by Warhol, Ernst, and Lichtenstein in the Tate Gallery in London for the day, and pretended we were clever.

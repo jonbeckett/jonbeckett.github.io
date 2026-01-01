@@ -2,7 +2,8 @@
 layout: single
 title: "Countdown"
 date: 2010-02-27
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I just caught our youngest stood on a foot stool alongside the toilet, doing a very loud and enthusiastic Thunderbirds style count-down towards flushing it.

@@ -2,7 +2,8 @@
 layout: single
 title: "The Time Travelling Dream"
 date: 2016-07-18
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I first woke this morning at about 5:30am, squinted at the alarm clock, and prompty fell back asleep. I then woke with a start at 7:30am, half an hour after I would normally get up. In those two hours I had perhaps the most vivid, inventive, memorable dream in quite some time. I've only just had the chance to sit down and write about it now - 14 hours on - but the fact that a key scene from the dream is still in my head speaks volumes. I don't usually remember much about dreams at all.

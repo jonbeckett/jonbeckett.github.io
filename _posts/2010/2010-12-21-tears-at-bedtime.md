@@ -2,7 +2,8 @@
 layout: single
 title: "Tears At Bedtime"
 date: 2010-12-21
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While W ran downstairs to heat up the various lavender scented beanies for the younger children's beds this evening, I kept an ear out from the study to make sure they weren't doing anything too ridiculous.

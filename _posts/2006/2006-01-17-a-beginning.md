@@ -2,7 +2,8 @@
 layout: single
 title: "A Beginning"
 date: 2006-01-17
-categories: "2006"
+categories:
+  - 2006
 ---
 
 All blogs have to start somewhere, and this is the start of this one.

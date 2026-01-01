@@ -2,7 +2,8 @@
 layout: single
 title: "No Hair Dont Care"
 date: 2020-04-03
-categories: "2020"
+categories:
+  - 2020
 ---
 
 The hair clippers turned up this afternoon. I put them on charge for a while - until my other half arrived home from school - and then we assembled outside for the 'ceremony'.

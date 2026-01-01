@@ -2,7 +2,8 @@
 layout: single
 title: "The Morning After The Night Before"
 date: 2011-11-15
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Due to a chronic lack of hours in the day, I ended up working all last night on a client project for my day job. Unpaid. W wasn't too amused about it, and it pretty much turned everything upside down at home, but it happens rarely so I can't complain too much.

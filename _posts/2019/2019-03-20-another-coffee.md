@@ -2,7 +2,8 @@
 layout: single
 title: "Another Coffee"
 date: 2019-03-20
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It's Wednesday the 20th March 2019. I'm sitting at my desk in the office. I've been half-watching my email in-box all morning. I've made two cups of coffee for everybody so far, and I've already eaten the packed lunch I made for myself. I have no idea what I'm going to write about, but let's see where this goes.

@@ -2,7 +2,8 @@
 layout: single
 title: "Tired And Soaked To The Skin"
 date: 2008-01-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I have just got off my bike after cycling to work (and no, the photo is not of me). The weather outside was just what I needed after having Flu throughout Christmas and a stomach bug yesterday - howling winds and driving rain. Despite wearing full waterproofs a car still managed to force me into a deep puddle which completely soaked my feet (the only part of me not covered in a supposedly water resistant covering). I now have soggy socks - the kind that slap around as you walk.

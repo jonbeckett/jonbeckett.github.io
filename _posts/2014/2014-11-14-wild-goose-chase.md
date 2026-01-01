@@ -2,7 +2,8 @@
 layout: single
 title: "Wild Goose Chase"
 date: 2014-11-14
-categories: "2014"
+categories:
+  - 2014
 ---
 
 While cycling home from work this evening I listened to "The Ihnatko Almanac", a podcast on the 5by5 network, featuring Andy Ihnatko - the tech columnist for the Chicago Sun Times.

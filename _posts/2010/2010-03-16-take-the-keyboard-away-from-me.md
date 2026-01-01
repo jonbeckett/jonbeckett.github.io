@@ -2,7 +2,8 @@
 layout: single
 title: "Take The Keyboard Away From Me"
 date: 2010-03-16
-categories: "2010"
+categories:
+  - 2010
 ---
 
 It would appear that if a computer keyboard is within reach of my insane fingers, I will meddle with the theme of this blog. Given a little reflection, it seems the years of studying, industry experience and hard bitten cynicism were eventually intended to service my WordPress theme fiddling problem.

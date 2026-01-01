@@ -2,7 +2,8 @@
 layout: single
 title: "First Real Friend"
 date: 2011-03-26
-categories: "2011"
+categories:
+  - 2011
 ---
 
 This afternoon our eldest was supposedto be painting a blown egg for a competition at school. I'm not sure who's idea it really was to take part - Little Miss 10, or her Mum. I'm willing to bet the driving force behind it was W, who was involved in every club, activity, and production when she was at school, and continues to be now. Take this afternoon for instance - she has taken the younger children up to help do the gardening at the school...

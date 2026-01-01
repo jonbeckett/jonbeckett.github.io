@@ -2,7 +2,8 @@
 layout: single
 title: "Sundays Barbecues And Family"
 date: 2011-06-26
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Todaythe hottest day of the yearwe chose to visit family in Oxfordshire for a barbecuea thinly veiled excuse for us to get together. Throughout most of my childhood most of us lived within a few miles of each othergrandparents, uncles, aunts, and cousins. About 10 years ago everybody migrated on the four winds and settled in different corners of the country.

@@ -2,7 +2,8 @@
 layout: single
 title: "The Weekend So Far"
 date: 2017-07-21
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Yesterday evening my other half headed out to a local music festival with her brother, and I had planned to have a quiet night in with my daughters - watch a movie, eat popcorn, and not do much on purpose. That's not quite how things panned out. While sitting at work yesterday a message appeared from a friend asking if I might like to visit in the evening - they were ordering take-away, and I would be welcome to join them. I explained my plans, but left the door half-open - "you never know - I might need a drink later".

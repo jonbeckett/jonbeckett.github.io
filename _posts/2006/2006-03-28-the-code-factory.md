@@ -2,7 +2,8 @@
 layout: single
 title: "The Code Factory"
 date: 2006-03-28
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I feel like some kind of computer code factory at the moment. I spent all day at work churning out C# programming, and since I got in have been churning out PHP.

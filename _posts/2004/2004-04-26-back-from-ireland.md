@@ -2,7 +2,8 @@
 layout: single
 title: "Back From Ireland"
 date: 2004-04-26
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Following a 15 hour journey home, we are back from our holiday in Ireland, and I'm back at work slogging away on the project I've been working on for the last few months.

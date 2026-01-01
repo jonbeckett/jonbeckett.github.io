@@ -2,7 +2,8 @@
 layout: single
 title: "Crossing Paths Again"
 date: 2017-05-03
-categories: "2017"
+categories:
+  - 2017
 ---
 
 On Monday evening, shortly after arriving back from the coast with a car full of dirty clothes,I turned tail with our youngest daughter and walked into town to buy some food. We had been sitting in the car for five hours. I hadn't shaved for two days, and was on my last set of clean clothes. Somewhere along the line I had torn the arse out of the jeans I was wearing too.

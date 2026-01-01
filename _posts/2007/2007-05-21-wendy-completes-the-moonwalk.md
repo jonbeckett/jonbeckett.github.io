@@ -2,7 +2,8 @@
 layout: single
 title: "Wendy Completes The Moonwalk"
 date: 2007-05-21
-categories: "2007"
+categories:
+  - 2007
 ---
 
 My considerably better half travelled into London on Saturday night in order to do the "Moonwalk" - a charity 26.2 mile power walk through the streets of London starting at Midnight wearing her bra to raise money for breast cancer research.

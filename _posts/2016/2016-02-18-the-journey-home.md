@@ -2,7 +2,8 @@
 layout: single
 title: "The Journey Home"
 date: 2016-02-18
-categories: "2016"
+categories:
+  - 2016
 ---
 
 We're heading home from the coast today after the better part of a week spent with my parents. I packed the children's bags yesterday afternoon, and we spent the evening watching movies and recovering from a colossal roast dinner my Mum cooked for us all.

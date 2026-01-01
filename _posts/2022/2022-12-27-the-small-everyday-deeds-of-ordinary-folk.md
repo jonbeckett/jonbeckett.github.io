@@ -2,7 +2,8 @@
 layout: single
 title: "The small everyday deeds of ordinary folk"
 date: 2022-12-27
-categories: "2022"
+categories:
+  - 2022
 ---
 
 It is done. I have just paid for this blog to be hosted by Ghost for the next year. I guess the goal now is figuring out how to engage readers without selling my soul.

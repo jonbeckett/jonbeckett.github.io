@@ -2,7 +2,8 @@
 layout: single
 title: "Stupidly Early"
 date: 2008-04-08
-categories: "2008"
+categories:
+  - 2008
 ---
 
 I took the above photo with my trusty Sony Ericsson K800i this morning while waiting for a train at a quite ridiculous hour. When I left the house it was still dark, and I saw nobody on the way to the station in my home town. I was the only person on my first train of the day.

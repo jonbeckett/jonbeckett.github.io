@@ -2,7 +2,8 @@
 layout: single
 title: "Tomorrowland"
 date: 2015-09-29
-categories: "2015"
+categories:
+  - 2015
 ---
 
 We watched the movie "Tomorrowland" late last night - or rather, we watched the second half of it - such is the chaos in our lives at the moment, the concept of watching an entire movie in one sitting is becoming increasingly difficult to organise or comprehend.

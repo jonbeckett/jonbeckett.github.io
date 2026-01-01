@@ -2,7 +2,8 @@
 layout: single
 title: "Final Day in Prague"
 date: 2024-03-24
-categories: "2024"
+categories:
+  - 2024
 ---
 
 You find me sitting in the bar of the Hotel U Prince on the edge of the old-town square in Prague, watching the hours tick down towards the arrival of our car to the airport.

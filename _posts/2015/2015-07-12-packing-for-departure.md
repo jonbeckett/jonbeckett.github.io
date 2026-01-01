@@ -2,7 +2,8 @@
 layout: single
 title: "Packing For Departure"
 date: 2015-07-12
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I'm packing my bags today to travel with work - a five hour journey across the country this evening to Preston in Lancashire - the north west. Just to make things fun my other half has vanished for the day, and won't return until late this evening - so all manner of machinations are going on to fit in my work travel, and looking after the children. They too have bags packed in order to go to dinner at friend's houses this evening, and then have a sleepover ahead of school in the morning.

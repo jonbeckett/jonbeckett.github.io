@@ -2,7 +2,8 @@
 layout: single
 title: "One More Sleep"
 date: 2019-12-24
-categories: "2019"
+categories:
+  - 2019
 ---
 
 We eventually rolled into bed at about 3am last night. Somehow my other half turned our eldest daughter around, got her talking, and ate an entire box of chocolates with her while watching TV. Sometimes you just go with whatever works.

@@ -2,7 +2,8 @@
 layout: single
 title: "One Thing After Another"
 date: 2008-02-23
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Yesterday was a nightmare, and today isn't looking any better so far.

@@ -2,7 +2,8 @@
 layout: single
 title: "Apprehension"
 date: 2007-02-04
-categories: "2007"
+categories:
+  - 2007
 ---
 
 I start work in London tomorrow. It's like starting a new job. Although I am being "seconded" to the client from my full time employer, I'll have my own desk, my own telephone, my own email address, and will be introduced on Monday morning to their entire team as "one of their team".

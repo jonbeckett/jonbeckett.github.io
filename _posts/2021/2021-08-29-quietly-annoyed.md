@@ -2,7 +2,8 @@
 layout: single
 title: "Quietly Annoyed"
 date: 2021-08-29
-categories: "2021"
+categories:
+  - 2021
 ---
 
 I'm sitting in the junk room at home, which has a window over-looking the green outside our house. There was a group of teenagers gathered around the nearest bench earlier. Just as I was thinking "isn't it nice to see young people having some sort of life again", one of their number threw an empty drink can over his shoulder into the grass. Moments later another can joined it, then another.

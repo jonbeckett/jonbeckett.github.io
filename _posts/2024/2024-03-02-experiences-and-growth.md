@@ -2,7 +2,8 @@
 layout: single
 title: "Experiences and Growth"
 date: 2024-03-02
-categories: "2024"
+categories:
+  - 2024
 ---
 
 Today's writing prompt at Wordpress asks "what experiences in life helped you grow the most?". Good question - and one I might answer differently on any given day. Don't you just love cold-reading.

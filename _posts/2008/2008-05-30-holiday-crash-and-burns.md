@@ -2,7 +2,8 @@
 layout: single
 title: "Holiday Crash And Burns"
 date: 2008-05-30
-categories: "2008"
+categories:
+  - 2008
 ---
 
 Its late (the day after), so I'm not going to spend a great deal of time writing the story up tonight - suffice to say our tent suffered structural failure, and we drove through the night in torrential rain to bring the children home safely.

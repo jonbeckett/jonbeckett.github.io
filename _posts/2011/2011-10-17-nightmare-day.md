@@ -2,7 +2,8 @@
 layout: single
 title: "Nightmare Day"
 date: 2011-10-17
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Today I was parachuted in to yet another project at work, doing something I haven't done for a year. It involved a skill set I am qualified in (I got 100% in the certification exam), but I haven't touched anything to do with it in over a year now.

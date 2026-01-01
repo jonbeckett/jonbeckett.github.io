@@ -2,7 +2,8 @@
 layout: single
 title: "I Take It All Back Britney"
 date: 2006-11-29
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I sit down, fire up Mozilla Thunderbird to check my email, then over to Google Reader to catch up on news and blogs, and...

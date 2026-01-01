@@ -2,7 +2,8 @@
 layout: single
 title: "Strange Dreams"
 date: 2017-06-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I don't usually remember dreams. I'm not sure why. I remember the dream I had this morning though - and again, I'm not sure why - perhaps because I told my other half about it while we ran around the house making lunches, finding school clothes, and whatever else this morning.

@@ -2,7 +2,8 @@
 layout: single
 title: "Cornwall 2011 Comes To An End"
 date: 2011-09-01
-categories: "2011"
+categories:
+  - 2011
 ---
 
 This post strangely bookends the previous one. I wrote about our journey to my parents house when we arrived, and only posted short updates to microblogs while awayI never sat down and wrote anything of substance. Now we are home (arrived back about an hour ago), I find myself sat in the study, catching up with social networks, and writing.

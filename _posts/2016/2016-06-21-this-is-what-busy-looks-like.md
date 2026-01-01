@@ -2,7 +2,8 @@
 layout: single
 title: "This Is What Busy Looks Like"
 date: 2016-06-21
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Ok. This blog post has taken an hour so far. Miss 11 and Miss 12 were allowed to stay up to watch the European Cup football tournament on TV. I've just had to lecture them - that if the mayhem unfolding upstairs didn't end immediately, there would be no more staying up to watch the football. It worked for about thirty seconds.

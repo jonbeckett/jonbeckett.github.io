@@ -2,7 +2,8 @@
 layout: single
 title: "Contents Of The Bag Of Holding"
 date: 2016-01-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 There is no end to the ideas I will come up with for blog posts when I have better things to be getting on with (like loading the washing machine, or tidying up). Today's "bright idea" is an inventory of the messenger bag that I keep my stuff in to avoid it becoming buried under an avalanche of somebody else's stuff, and lost forever. The bag itself is a Rothco messenger bagapparently made famous by the TV show "24", but having never watched it, I couldn't say. If I didn't know better, I would say it was army surplusit's never going to fall apart.

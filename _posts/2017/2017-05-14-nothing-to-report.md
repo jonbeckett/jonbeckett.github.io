@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing To Report"
 date: 2017-05-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It's just gone 9pm on Monday evening. I'm not sure where the day went. I seemed to spend most of it holed up in the conference room at work - either watching presentations, or talking to visitors about technical stuff.

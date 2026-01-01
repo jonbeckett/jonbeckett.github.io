@@ -2,7 +2,8 @@
 layout: single
 title: "Fa Cup Semi Final"
 date: 2016-04-17
-categories: "2016"
+categories:
+  - 2016
 ---
 
 This afternoon we took our youngest daughter to watch Chelsea Ladies play Manchester City in the FA Cup Semi Final. It's worth pointing out that Miss 11 is football mad. This season she has played for both the town boys and girls teams, and is often found kicking a ball around outside the house come rain or shine.

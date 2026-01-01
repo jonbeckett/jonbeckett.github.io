@@ -2,7 +2,8 @@
 layout: single
 title: "How We Got Here"
 date: 2006-11-20
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I thought it might be about time I started to tell the story of why we are adopting children.

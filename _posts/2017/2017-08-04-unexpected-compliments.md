@@ -2,7 +2,8 @@
 layout: single
 title: "Unexpected Compliments"
 date: 2017-08-04
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While catching up with a distant friend on Friday, I got told that my blog was "GREAT". I of course questioned what she had been drinking or smoking, and immediately dismissed her appraisal. I suppose self deprecation is a way of life for me - in the real world I'm one of the quiet people that makes things happen for others - I'm not a social butterfly, a blow-hard, or an attention seeker. It therefore comes as something of a surprise when anything I do is noticed or liked.

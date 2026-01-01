@@ -2,7 +2,8 @@
 layout: single
 title: "The Saturday Before Christmas"
 date: 2012-12-22
-categories: "2012"
+categories:
+  - 2012
 ---
 
 It's been a few days since I emptied my head into the computer, and I have little to do this morning (waiting for the dryer to finish a load, while the rain falls non-stop outside). The younger children are watching Pippy Longstocking in the lounge, and I'm not entirely sure what our eldest is doing; she stormed off earlier after I refused to find out why some piece of junk she attempted to print hadn't come out of the printer.

@@ -2,7 +2,8 @@
 layout: single
 title: "Heading North"
 date: 2008-06-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 No, I am not about to head off for Superman's "Fortress of Solitude" - but in some ways you might argue that I am. At 4pm this afternoon I will leave home to head towards the north of England for a training course (for the Web Content Management features of Microsoft Office SharePoint Server 2007, if you are interested) - meaning I will be away from home until next Friday night.

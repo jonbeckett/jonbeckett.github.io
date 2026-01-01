@@ -2,7 +2,8 @@
 layout: single
 title: "Boycott Bali"
 date: 2005-05-27
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I just read a headline in the news after getting into work that made me just a bit angry...

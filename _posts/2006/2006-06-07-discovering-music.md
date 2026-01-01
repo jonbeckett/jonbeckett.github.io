@@ -2,7 +2,8 @@
 layout: single
 title: "Discovering Music"
 date: 2006-06-07
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I have been listening to various internet music feeds tonight, and stumbled across a goldmine.

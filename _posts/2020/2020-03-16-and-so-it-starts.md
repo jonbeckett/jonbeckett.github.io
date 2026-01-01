@@ -2,7 +2,8 @@
 layout: single
 title: "And So It Starts"
 date: 2020-03-16
-categories: "2020"
+categories:
+  - 2020
 ---
 
 After provisioning a number of bits and pieces in "the cloud" this morning for some upcoming pre-sales demos, I noticed a notification about the first "daily update" from the Prime Minister, and thought I better stop to watch the first few minutes.

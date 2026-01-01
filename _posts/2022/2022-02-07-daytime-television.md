@@ -2,7 +2,8 @@
 layout: single
 title: "Daytime Television"
 date: 2022-02-07
-categories: "2022"
+categories:
+  - 2022
 ---
 
 While making meals, doing chores, and talking with my parents, the television is ever-present in the background. You don't realise you've started watching it with them until you suddenly realise you've become invested in the story of an animal rescue worker on the streets of San Francisco that has found a cat that went missing from Florida seven years previously.

@@ -2,7 +2,8 @@
 layout: single
 title: "Ray And Marijne"
 date: 2020-07-23
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I meant to write a blog post yesterday, but somehow the day got away from me. The days have been doing that a lot recently. I started writing, but got no further than the first paragraph.

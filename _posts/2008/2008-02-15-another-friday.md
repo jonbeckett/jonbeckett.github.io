@@ -2,7 +2,8 @@
 layout: single
 title: "Another Friday"
 date: 2008-02-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 It is 9:35am. I have already been up for nearly 4 hours. That's all I want to say about that.

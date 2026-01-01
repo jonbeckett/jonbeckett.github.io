@@ -2,7 +2,8 @@
 layout: single
 title: "Pedalling Like Mad Going Nowhere"
 date: 2011-04-10
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Enough bellyaching. I hate others going on about their maladies, so it's about time shut up.

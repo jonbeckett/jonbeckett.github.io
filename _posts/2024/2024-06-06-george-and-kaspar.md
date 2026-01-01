@@ -2,7 +2,8 @@
 layout: single
 title: "George and Kaspar"
 date: 2024-06-06
-categories: "2024"
+categories:
+  - 2024
 ---
 
 These two idiots are George and Kaspar.

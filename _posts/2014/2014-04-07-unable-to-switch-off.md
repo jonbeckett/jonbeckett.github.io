@@ -2,7 +2,8 @@
 layout: single
 title: "Unable To Switch Off"
 date: 2014-04-07
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I walked into the office at 8:45 this morning, and basically didn't leave my seat again until 7pm this evening. Building software and configuring systems in an "agile" manner while the stakeholders sit in the room changing their mind about every facet of it is exhausting.

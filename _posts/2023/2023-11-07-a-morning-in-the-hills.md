@@ -2,7 +2,8 @@
 layout: single
 title: " A morning in the hills"
 date: 2023-11-07
-categories: "2023"
+categories:
+  - 2023
 ---
 
 While the sun fought to break through the clouds this morning we pulled our walking clothes on, threw the boots and coats in the back of the car, and set off along the edge of Bassenthwaite towards Sale Fell - a circular walk around a number of picturesque hills giving views in all directions.

@@ -2,7 +2,8 @@
 layout: single
 title: "Waiting For Ice Cream"
 date: 2006-09-06
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I have just sat here for ten minutes desperately trying to think of something to write about. I seem to have hit something of a dry spell. Perhaps it has to do with the "big project" at work coming to an end. Perhaps I am "free wheeling" for a few days.

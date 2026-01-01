@@ -2,7 +2,8 @@
 layout: single
 title: "In The Inbetween"
 date: 2016-05-23
-categories: "2016"
+categories:
+  - 2016
 ---
 
 I'm sitting in the dark of the study, listening to the soundtrack from the TV show "Mr Robot" via Spotify. Amazon wanted to charge full price for it - they can go whistle for that - I'll put up with Spotify's random adverts. I only wanted background music while writing this anyway.

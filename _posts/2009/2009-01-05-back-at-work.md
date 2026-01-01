@@ -2,7 +2,8 @@
 layout: single
 title: "Back At Work"
 date: 2009-01-05
-categories: "2009"
+categories:
+  - 2009
 ---
 
 This morning I find myself back at my desk, in the office of my employer for the first time in many months - with no immediate prospect of leaving the office. A few weeks of intense study and learning will be required to integrate myself back into the work being undertaken by my colleagues. Spending the last two years on a parallel track has left me with very different skills than they have.

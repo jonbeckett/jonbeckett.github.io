@@ -2,7 +2,8 @@
 layout: single
 title: "Late Night Thoughts"
 date: 2017-05-18
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I guess technically I've already missed posting anything for "Thursday" - it's already nearly 1am on Friday morning. I'm playing the age-old game of "staying up late to avoid tomorrow" - or rather, that's what I would like you to think. The reality is far more mundane - I'm waiting on two computers to finish running updates.

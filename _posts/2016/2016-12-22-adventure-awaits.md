@@ -2,7 +2,8 @@
 layout: single
 title: "Adventure Awaits"
 date: 2016-12-22
-categories: "2016"
+categories:
+  - 2016
 ---
 
 At some point after dinner last night I pulled the "Dungeons and Dragons" starter set out of my work backpack, and asked the kids if they would be interested in reading through the book with me. Quite unexpectedly everybody dropped what they were doing, and followed me into the lounge.

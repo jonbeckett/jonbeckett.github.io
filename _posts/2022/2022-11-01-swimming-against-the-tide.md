@@ -2,7 +2,8 @@
 layout: single
 title: "Swimming Against the Tide"
 date: 2022-11-01
-categories: "2022"
+categories:
+  - 2022
 ---
 
 The sky fell this morning. Cats and dogs. Curtain rods. It fell last night too. I will admit to feeling sorry for the young children "trick or treating" for Halloween - not so sorry for the teenagers trying to blag candy based on little or no effort.

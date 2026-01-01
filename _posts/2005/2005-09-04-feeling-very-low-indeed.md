@@ -2,7 +2,8 @@
 layout: single
 title: "Feeling Very Low Indeed"
 date: 2005-09-04
-categories: "2005"
+categories:
+  - 2005
 ---
 
 I'm feeling about the worst I have ever, after a client called me at home (on Sunday) today and started giving me a load of hassle about a work project. I'm just a developer - I'm not the manager for the project... I finally decided enough is enough. Before going out to visit family this afternoon I updated my CV, and sent it off to several agencies.

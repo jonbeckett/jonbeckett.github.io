@@ -2,7 +2,8 @@
 layout: single
 title: "The Pretty People Theorem"
 date: 2019-04-01
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I woke with a start at 6am when the alarm went off on my mobile phone. I have vague memories of a riveting dream, but it's entire subject matter seems to have removed itself from my memory. Perhaps our brains really do work like Snapchat ? After a few moments remembering that I was in a hotel, and that I didn't need to get up and summon children from their beds, I fell asleep once again - and had another ridiculous dream. Again, all I can tell you is that it was really very good, and that I cursed when my body clock kicked in half an hour later - telling me that I needed to have a shower and get dressed if I was going to make it to breakfast for 7am.

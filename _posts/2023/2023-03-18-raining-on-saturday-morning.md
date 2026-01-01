@@ -2,7 +2,8 @@
 layout: single
 title: "Raining on Saturday Morning"
 date: 2023-03-18
-categories: "2023"
+categories:
+  - 2023
 ---
 
 Rain has been falling all morning. A steady stream of relentless rain. The kind of rain that slowly washes everything away without anybody noticing.

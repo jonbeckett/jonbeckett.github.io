@@ -2,7 +2,8 @@
 layout: single
 title: "On Being Discovered"
 date: 2011-06-05
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I have been swapping war stories this evening with a great friend online who has recently had their blog "discovered" by their family. I have been there, done that, got the t-shirt.

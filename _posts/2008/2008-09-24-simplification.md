@@ -2,7 +2,8 @@
 layout: single
 title: "Simplification"
 date: 2008-09-24
-categories: "2008"
+categories:
+  - 2008
 ---
 
 As regular visitors will notice, I have gone back to the drastically simple look/feel that I put together a month or so ago for this blog.

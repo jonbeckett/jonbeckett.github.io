@@ -2,7 +2,8 @@
 layout: single
 title: "Wednesday"
 date: 2021-09-01
-categories: "2021"
+categories:
+  - 2021
 ---
 
 Where did Tuesday and Wednesday go? Can we go out and look for them? I vaguely remember them happening, but I'm not really sure.

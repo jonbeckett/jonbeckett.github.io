@@ -2,7 +2,8 @@
 layout: single
 title: "Surviving The Evening"
 date: 2008-03-30
-categories: "2008"
+categories:
+  - 2008
 ---
 
 W went out for a well deserved night out this evening with her best friend - leaving me to cook dinner, bath the kids, and get them to bed.

@@ -2,7 +2,8 @@
 layout: single
 title: "Surviving The Social Internet"
 date: 2021-03-06
-categories: "2021"
+categories:
+  - 2021
 ---
 
 wp:image  ![](https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb073f4d7-0319-474f-8c54-4025739aef76_1920x1280.jpeg)  /wp:image  *This post originally appeared at [Medium](https://jonbeckett.medium.com) - where I often empty my head into the keyboard, and try to make some sense of the world.*

@@ -2,7 +2,8 @@
 layout: single
 title: "Making Memories and Averting Disasters"
 date: 2023-05-15
-categories: "2023"
+categories:
+  - 2023
 ---
 
 We went to Wembley Stadium this weekend to watch the Womenas FA Cup Final - between Chelsea and Manchester United. Thankfully our youngest daughteras team won - smiles all the way home.

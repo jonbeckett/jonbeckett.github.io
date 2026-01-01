@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where You Tell Me What To Write About"
 date: 2010-10-11
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While struggling to come up with anything informative, candid, or entertaining to share with the loyal readers of this blog earlier (both of them), a rather marvellous idea occurred to me.

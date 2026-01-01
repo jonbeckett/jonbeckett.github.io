@@ -2,7 +2,8 @@
 layout: single
 title: "Tired And Grumpy"
 date: 2011-07-21
-categories: "2011"
+categories:
+  - 2011
 ---
 
 It's just gone midnight, and I've finally downed tools for the evening not that I really hadan eveningor a day for that matter.

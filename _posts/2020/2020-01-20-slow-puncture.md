@@ -2,7 +2,8 @@
 layout: single
 title: "Slow Puncture"
 date: 2020-01-20
-categories: "2020"
+categories:
+  - 2020
 ---
 
 For the last several days I have been cycling to and from work with a slow puncture in the front tyre of my bicycle. I pump it up in the morning, turn the pedals like mad to reach the office before it deflates, and repeat the process in the evening.

@@ -2,7 +2,8 @@
 layout: single
 title: "George Macavity"
 date: 2011-08-14
-categories: "2011"
+categories:
+  - 2011
 ---
 
 Our car crash surviving cat is getting better at a rate of knots. This morning, while making breakfasts, washing up, letting the chickens out, and emptying his litter tray, he realised I left the window open just a bit too far.

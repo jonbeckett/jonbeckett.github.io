@@ -2,7 +2,8 @@
 layout: single
 title: "Resurrecting The Netbook"
 date: 2014-12-08
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I have had an ASUS netbook sat in the bottom of my messenger bag for the last year. I think it's been powered up once, and because it booted into a Windows partition (it has Windows and Linux on it)it immediately crawled into Windows Update hell, and became unuseable for the best part of an hour as it continually downloaded updates, installed them, and forced reboots.

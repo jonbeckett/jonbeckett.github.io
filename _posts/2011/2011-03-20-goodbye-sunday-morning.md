@@ -2,7 +2,8 @@
 layout: single
 title: "Goodbye Sunday Morning"
 date: 2011-03-20
-categories: "2011"
+categories:
+  - 2011
 ---
 
 It's Sunday morning (just), I've been up for hours - doing this, doing that - and a short time window has appeared where I'm not being expected to be somewhere else, doing something else.

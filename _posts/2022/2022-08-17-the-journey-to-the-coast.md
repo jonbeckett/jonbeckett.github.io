@@ -2,7 +2,8 @@
 layout: single
 title: "The Journey To The Coast"
 date: 2022-08-17
-categories: "2022"
+categories:
+  - 2022
 ---
 
 I started writing this post yesterday, while packing bags ready to travel - and then realised I had nothing to write about that hadn't happened the day before. That has happened a lot since I started working from home. Today was more interesting - I promise.

@@ -2,7 +2,8 @@
 layout: single
 title: "Lifes too short"
 date: 2023-01-28
-categories: "2023"
+categories:
+  - 2023
 ---
 
 For the last several days I've been turning the idea over and over in my head about buying a copy of Scrivener. If you've never heard of it, it's a word processor expressly designed for long-form writing - and has become somewhat famous over the last decade or so among the writing community. Countless published authors have used it to craft articles and novels.

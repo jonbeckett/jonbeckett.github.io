@@ -2,7 +2,8 @@
 layout: single
 title: "The Early Bird Catches The Bacon"
 date: 2018-01-16
-categories: "2018"
+categories:
+  - 2018
 ---
 
 I've become quite the expert - at this hotel at least - at making bacon and egg sandwiches for breakfast. My creations are nowhere near as neat and tidy as the stock photo accompanying this post, but I imagine they look exactly the same after the first bite.

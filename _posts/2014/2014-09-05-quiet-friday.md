@@ -2,7 +2,8 @@
 layout: single
 title: "Quiet Friday"
 date: 2014-09-05
-categories: "2014"
+categories:
+  - 2014
 ---
 
 It's the final day off for meif the kids sort themselves out (get dressed, wash their faces, brush their teeth, brush their hair), we might head on the bikes to a play park on the other side of town. I promised yesterday, but we ended up spending the day fixing and cleaning the bikes.When I arrived on the drive with the pressure washer, the kids started clapping and hopping up and down easily pleased.

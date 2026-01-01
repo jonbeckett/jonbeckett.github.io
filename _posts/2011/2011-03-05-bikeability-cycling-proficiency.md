@@ -2,7 +2,8 @@
 layout: single
 title: "Bikeability Cycling Proficiency"
 date: 2011-03-05
-categories: "2011"
+categories:
+  - 2011
 ---
 
 This weekend sees our eldest attending a bicycle training course at her school. We were up bright and early, making her a packed lunch, finding her warm clothes (it's freezing outside), and digging out her helmet, reflective tabard, and gloves. I pulled her bike from the shed, made sure everything was working, oiled it, and lubed the chain.

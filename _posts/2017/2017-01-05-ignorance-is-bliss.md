@@ -2,7 +2,8 @@
 layout: single
 title: "Ignorance Is Bliss"
 date: 2017-01-05
-categories: "2017"
+categories:
+  - 2017
 ---
 
 It struck me today that social media is becoming just as toxic as fashion and beauty magazines. There is probably a direct correlation between the photo-shopped cover images, and the pretend lives that some people construct through Facebook, Instagram, WordPress, and Tumblr.

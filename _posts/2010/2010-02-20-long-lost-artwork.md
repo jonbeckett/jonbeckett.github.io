@@ -2,7 +2,8 @@
 layout: single
 title: "Long Lost Artwork"
 date: 2010-02-20
-categories: "2010"
+categories:
+  - 2010
 ---
 
 While rooting around for something in our bookshelves yesterday I found an old sketchbook tucked down the back of a row of books - a sketchbook I had presumed lost years ago. Here are a few of the sketches I did 11 years ago;

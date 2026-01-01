@@ -2,7 +2,8 @@
 layout: single
 title: "One Blog To Rule Them All"
 date: 2017-01-14
-categories: "2017"
+categories:
+  - 2017
 ---
 
 I killed my Tumblr account last night. I know - I've done it before. Last night felt like the final time though, because it wasn't so much about me, as the platform. An explanation would probably be a good idea.

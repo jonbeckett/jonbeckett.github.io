@@ -2,7 +2,8 @@
 layout: single
 title: "If We Were All The Same We Wouldnt Be Interesting"
 date: 2011-01-15
-categories: "2011"
+categories:
+  - 2011
 ---
 
 While I may have intimated earlier that most of us prepare the best version of ourselves for public consumption, I completely ignored the others.

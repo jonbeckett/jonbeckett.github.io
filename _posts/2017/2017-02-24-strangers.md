@@ -2,7 +2,8 @@
 layout: single
 title: "Strangers"
 date: 2017-02-24
-categories: "2017"
+categories:
+  - 2017
 ---
 
   [https://strangecodex.files.wordpress.com/2017/02/ab412-c00ed-pexels-photo-266046.jpeg]  While wandering through town early this morning on a mission to complete a number of random errands, I began noticing the many and various strangers crossing my path.

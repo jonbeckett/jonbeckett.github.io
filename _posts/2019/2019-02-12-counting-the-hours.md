@@ -2,7 +2,8 @@
 layout: single
 title: "Counting The Hours"
 date: 2019-02-12
-categories: "2019"
+categories:
+  - 2019
 ---
 
 It's half past nine in the evening, and you find me sitting in my fifth floor hotel room with the window open to the night air. Richard Marx is singing about being "right here" for somebody or other while traffic slowly makes it's way across a nearby bridge - reflections of headlights dancing on the water below.

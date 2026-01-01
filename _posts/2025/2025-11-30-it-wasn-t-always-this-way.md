@@ -3,7 +3,7 @@ layout: single
 title: "It wasn't always this way"
 date: 2025-11-30
 categories:
-  - "2025"
+  - 2025
 ---
 
 You know the one where you’ve been promising to yourself to write *something* for days, but then this interesting thing appears in your peripheral vision, or that total and under disaster unfolds directly in front of you, or an entire universe of washing falls from the sky on your head, or you leave the kitchen for ten minutes and apparently an entire army of borrowers silently trash the place…

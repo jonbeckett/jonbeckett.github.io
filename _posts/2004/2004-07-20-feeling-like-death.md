@@ -2,7 +2,8 @@
 layout: single
 title: "Feeling Like Death"
 date: 2004-07-20
-categories: "2004"
+categories:
+  - 2004
 ---
 
 Isn't it strange how you can feel like death after a particularly hard workout, then an hour later you are fine again...

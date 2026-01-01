@@ -2,7 +2,8 @@
 layout: single
 title: "Chore Days"
 date: 2022-05-08
-categories: "2022"
+categories:
+  - 2022
 ---
 
 Another day. Another few kilometres in the running bank. The schedule moved on to "Week 3" this morning. It's *so* tempting to go further than the schedule dictates, but I'm only too aware of past injuries and how I caused them.

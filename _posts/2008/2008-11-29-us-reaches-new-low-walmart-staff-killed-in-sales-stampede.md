@@ -2,7 +2,8 @@
 layout: single
 title: "Us Reaches New Low Walmart Staff Killed In Sales Stampede"
 date: 2008-11-29
-categories: "2008"
+categories:
+  - 2008
 ---
 
 If ever there was proof that American society has taken capitalism too far, and should maybe take a long, hard look at itself, then the death of the guy working in Walmart who was trampled by a stampede of customers on Friday really should signal something at least.

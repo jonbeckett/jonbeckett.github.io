@@ -2,7 +2,8 @@
 layout: single
 title: "Social Networking And Freedom Of Speech"
 date: 2010-07-15
-categories: "2010"
+categories:
+  - 2010
 ---
 
 What a difference a week makes.

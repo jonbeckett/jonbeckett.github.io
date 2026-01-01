@@ -2,7 +2,8 @@
 layout: single
 title: "Waking Up Before The Alarm Clock"
 date: 2014-07-15
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I had to go on a long railway journey across the country today, which meant getting up at 5am this morning. I had all the intentions in the world of having an early night last night, but got sucked into one thing after another, and ended up sat in bed with the Macbook at midnight.

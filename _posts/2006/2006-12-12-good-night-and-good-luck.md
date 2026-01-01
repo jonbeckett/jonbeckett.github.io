@@ -2,7 +2,8 @@
 layout: single
 title: "Good Night And Good Luck"
 date: 2006-12-12
-categories: "2006"
+categories:
+  - 2006
 ---
 
 We watched the movie "Good Night and Good Luck" last night.

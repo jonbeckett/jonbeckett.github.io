@@ -2,7 +2,8 @@
 layout: single
 title: "Sunday Night And Monday Morning"
 date: 2016-07-03
-categories: "2016"
+categories:
+  - 2016
 ---
 
 In my head it's late on Sunday 3rd July, but a glance at the clock alongside the bed tells me it's 12:42am - so Monday 4th July. My friends in America will have the day off today. In a few hours time I will be cycling to work, and preparing to fill out the paperwork involved in the aftermath of travel - expense claims, timesheets, and so on.

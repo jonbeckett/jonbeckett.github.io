@@ -2,7 +2,8 @@
 layout: single
 title: "Departure"
 date: 2018-06-03
-categories: "2018"
+categories:
+  - 2018
 ---
 
 It's 9:04 on Monday morning, and I'm sitting in the departure hall of Terminal 2 at London's Heathrow Airport. I've chosen to sit right in the middle of the departure hall, because bizarrely it's the quietest place. On one side the seating area is surrounded by endless shops that very few people seem to set foot in, and on the other sides, gates to waiting aircraft, accompanied by gaggles of highly strung, stressed travellers.

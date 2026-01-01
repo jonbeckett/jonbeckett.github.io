@@ -2,7 +2,8 @@
 layout: single
 title: "Wasps Versus Tigers And The Under Eights"
 date: 2012-11-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 On Sunday afternoon we wrapped up warm and made our way to Adams Park on the outskirts of High Wycombe to watch the rugby - London Wasps versus Leicester Tigers. While "going to watch the rugby" would have been an excellent way to spend the afternoon on it's own, we had slightly more exciting plans - or rather, Little Miss Eight did.

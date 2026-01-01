@@ -2,7 +2,8 @@
 layout: single
 title: "Crossing The Streams"
 date: 2020-04-21
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I suppose the first few months of this year will go down as something on an experiment in my blogging history. I started the year off by walking away from Wordpress, and setting up a self-hosted blog in splendid isolation. I had become fed up with the temptation to 'play the game' - to seek the attention of others. I installed Ghost on a virtual machine in the cloud, and switched comments off entirely for a month or so. My castle, my words, and my rules.

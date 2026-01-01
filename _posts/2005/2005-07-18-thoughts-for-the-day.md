@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughts For The Day"
 date: 2005-07-18
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Today was a strange day.

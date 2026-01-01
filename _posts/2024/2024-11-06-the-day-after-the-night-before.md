@@ -2,7 +2,8 @@
 layout: single
 title: "The day after the night before"
 date: 2024-11-06
-categories: "2024"
+categories:
+  - 2024
 ---
 
 I woke up this morning to a number of messages and emails from distant friends - apologising for the news I hadn't read yet.

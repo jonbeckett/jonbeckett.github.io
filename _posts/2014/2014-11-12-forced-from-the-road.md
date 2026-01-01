@@ -2,7 +2,8 @@
 layout: single
 title: "Forced From The Road"
 date: 2014-11-12
-categories: "2014"
+categories:
+  - 2014
 ---
 
 My journey to work on the mountain bike takes me through perhaps the oldest part of town - narrow victorian streets, with narrow footpaths on either side. The houses are mostly terraced, and have very little garden - so the residents park on the street. This results in a single path forming along perhaps half a mile of the journey - snaking past parked cars, and avoiding the inevitable queue of drivers hoping to use the route as a rat-run to avoid the centre of town.

@@ -2,7 +2,8 @@
 layout: single
 title: "Half Past My Bedtime"
 date: 2023-03-08
-categories: "2023"
+categories:
+  - 2023
 ---
 
 Just a few words, given that I haven't posted since returning from Amsterdam.

@@ -2,7 +2,8 @@
 layout: single
 title: "Bringing My Life Back Online"
 date: 2009-12-24
-categories: "2009"
+categories:
+  - 2009
 ---
 
 It's Christmas Eve, and I am finally home for more than a couple of days after several months spent in a hotel with work. I had anticipated being at work today, but a list went around the company email system yesterday detailing who was going to be in and on-call. My absence from the list was a pleasant surprise. In all honesty if I had been required to work today it would have meant a disaster at home; W has been housebound with the children for the last four days due to snow and icemy return has engineered her escape to buy groceries, and have a couple of hours to herself before the real mayhem starts.

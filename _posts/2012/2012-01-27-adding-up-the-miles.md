@@ -2,7 +2,8 @@
 layout: single
 title: "Adding Up The Miles"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 This will be the last post for a while about running - I promise. Fitness blogs are insufferable at the best of times - which is why I've signed up for a social network specifically for fitness lunatics. Somehow I don't think they'll let me become an honorary fitness lunatic, on account of liking pizza too much.

@@ -2,7 +2,8 @@
 layout: single
 title: "Is It Thursday Already"
 date: 2006-02-23
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I can't believe it's Thursday. This week is dissappearing faster than a fast thing that dissappears quickly.

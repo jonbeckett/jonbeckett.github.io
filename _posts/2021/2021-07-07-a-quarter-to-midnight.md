@@ -2,7 +2,8 @@
 layout: single
 title: "A Quarter To Midnight"
 date: 2021-07-07
-categories: "2021"
+categories:
+  - 2021
 ---
 
 The clock is ticking towards midnight, and you find me sitting in the dark of the study, tapping away at the keyboard while a random playlist on Spotify tries to convince me I'm sitting in the bar of a hotel in Paris, swishing the remains of my drink around in the bottom of a glass and watching the bar staff slowly bringing their day to a close.

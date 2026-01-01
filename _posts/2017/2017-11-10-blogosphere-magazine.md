@@ -2,7 +2,8 @@
 layout: single
 title: "Blogosphere Magazine"
 date: 2017-11-10
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While escaping from the house this morning on a mission to buy groceries, I happened upon a magazine I first saw a little over a year ago, called "Blogosphere". After reasoning with myself for a few moments - justifying quite possibly the most expensive magazine ever seen by the human eye - I picked it up and added it to the morning haul, alongside the newspaper, soup, bread, and various other bits and pieces.

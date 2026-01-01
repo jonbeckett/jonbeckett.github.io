@@ -2,7 +2,8 @@
 layout: single
 title: "Opening The Source"
 date: 2003-02-12
-categories: "2003"
+categories:
+  - 2003
 ---
 
 I finally did it - I opened up the Blog script to the community.

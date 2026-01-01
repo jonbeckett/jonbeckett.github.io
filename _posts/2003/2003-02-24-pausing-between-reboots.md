@@ -2,7 +2,8 @@
 layout: single
 title: "Pausing Between Reboots"
 date: 2003-02-24
-categories: "2003"
+categories:
+  - 2003
 ---
 
 Today I am at work and I'm not really sure why. I feel like crap (I did all weekend), and can't really concentrate properly.

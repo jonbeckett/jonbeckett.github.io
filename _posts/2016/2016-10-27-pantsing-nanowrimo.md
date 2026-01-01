@@ -2,7 +2,8 @@
 layout: single
 title: "Pantsing Nanowrimo"
 date: 2016-10-27
-categories: "2016"
+categories:
+  - 2016
 ---
 
 Apparently my approach to NaNoWriMo this year is a method known as "pantsing" it - or rather to describe more fully, doing it by the seat of my pants. I guess this makes me a "pantser". The term "pantsing" quite accurately describes my current situation - with four days to go, Ihave no plans, no plot, and no characters in mind.

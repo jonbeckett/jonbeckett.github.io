@@ -3,7 +3,7 @@ layout: single
 title: "One Foot in Front Of The Other"
 date: 2025-10-14
 categories:
-  - "2025"
+  - 2025
 ---
 
 Today’s writing prompt asks what principles define how you live. I wouldn’t say I necessarily have many principals – but I have coping mechanisms.

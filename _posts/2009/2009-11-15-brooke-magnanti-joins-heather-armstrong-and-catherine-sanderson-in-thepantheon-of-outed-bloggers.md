@@ -2,7 +2,8 @@
 layout: single
 title: "Brooke Magnanti Joins Heather Armstrong And Catherine Sanderson In Thepantheon Of Outed Bloggers"
 date: 2009-11-15
-categories: "2009"
+categories:
+  - 2009
 ---
 
 News broke in the UK this morning that the writer of "Belle De Jour" had finally been outed by the press - it turns out she is/was Brooke Magnanti. I haven't read the Sunday Times article (and probably won't), but have read a little of the surrounding coverage by - how shall we put this - more balanced journalists.

@@ -2,7 +2,8 @@
 layout: single
 title: "View From A Train Window"
 date: 2007-03-26
-categories: "2007"
+categories:
+  - 2007
 ---
 
 It's just coming up to 6pm, and I'm on the journey home. Slightly strangely, this post will not hit the blog until after 7, due to a couple of reasons I won't bother you with (okay, perhaps I will - the wire to connect the phone to the laptop to download photos is in my bag above my head, and I can't be bothered to get it down... okay, I know - I could have done it in the time it took to type this. Meh)

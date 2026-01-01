@@ -2,7 +2,8 @@
 layout: single
 title: "Surfacing"
 date: 2013-01-09
-categories: "2013"
+categories:
+  - 2013
 ---
 
 On Friday afternoon the lovely girl that sits behind me wandered through the office and remarked "oh, you're not in on Monday, are you". I had no idea why she was remarking about it, and I had completely forgotten about the booked day off too - to cover for an in-set day at school. I had promised earlier in the afternoon to deploy updates to a far flung client's server farm. I threw the laptop into my bag before cycling home, and thought "I can get it all installed within half an hour anyway". My step grandfather had a saying - "you know what thought did". And yes... thought shit itself yesterday. After finally finishing work on my "day off" by about half past ten in the morning, I shouted to the kids, and we walked into town for a promised visit to the new sweet shop, and the big play park. In reality we didn't leave for an hour.

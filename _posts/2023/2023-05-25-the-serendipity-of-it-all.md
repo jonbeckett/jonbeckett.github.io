@@ -2,7 +2,8 @@
 layout: single
 title: "The serendipity of it all"
 date: 2023-05-25
-categories: "2023"
+categories:
+  - 2023
 ---
 
 After setting aside lunchtime to write a blog post, I've spent the last half an hour doing anything and everything except write a blog post. This is pretty typical behaviour. I'm amazed the distraction only went on for half an hour to be honest - in recent months my hands haven't filled the keyboard with thoughts much before 1am.

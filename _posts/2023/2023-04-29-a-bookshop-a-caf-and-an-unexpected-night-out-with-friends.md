@@ -2,7 +2,8 @@
 layout: single
 title: "A bookshop a café and an unexpected night out with friends"
 date: 2023-04-29
-categories: "2023"
+categories:
+  - 2023
 ---
 
 I took the day off yesterday, and invested some time in our eldest daughter - who hasn't had the best time in recent weeks and months. We wandered into town together, visited a bookshop, and had lunch in a cafe.

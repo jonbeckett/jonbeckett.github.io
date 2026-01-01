@@ -2,7 +2,8 @@
 layout: single
 title: "Love Your Theme"
 date: 2015-01-09
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Today's exercise for the WordPress Blogging 101 course is called "Love Your Theme", challenging you to try out different themes. I don't really need to do this exercise - you know why? Because I've tried just about every theme available. And you think I'm joking...

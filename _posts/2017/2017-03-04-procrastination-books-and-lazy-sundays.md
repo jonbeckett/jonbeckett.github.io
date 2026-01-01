@@ -2,7 +2,8 @@
 layout: single
 title: "Procrastination Books And Lazy Sundays"
 date: 2017-03-04
-categories: "2017"
+categories:
+  - 2017
 ---
 
 In preparation somewhat for the next few weeks, I made the conscious decision to not do anything today, and you know what? It was really hard. Aside from the usual routine of picking up after the children, repeatedly filling the washing machine, feeding animals, and stopping arguments before they start, I have been quietly reading webpages, and achieving very little.

@@ -2,7 +2,8 @@
 layout: single
 title: "Pulp Fiction"
 date: 2011-10-28
-categories: "2011"
+categories:
+  - 2011
 ---
 
 I've always been fascinated by "pulp fiction" books, but have never read any.

@@ -2,7 +2,8 @@
 layout: single
 title: "Home Alone"
 date: 2006-12-14
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Today finds me at home, with coffee, sandwiches, a big thick jumper (sweater for those of you in the US), and the laptop keeping me warm. The cat is keeping me company. Perhaps I'll read a book.

@@ -2,7 +2,8 @@
 layout: single
 title: "Christmas"
 date: 2010-12-26
-categories: "2010"
+categories:
+  - 2010
 ---
 
 I thought this was perhaps the funniest of our Christmas photos, so decided to share. Before anybody calls the social services, she was drinking fizzy orange.

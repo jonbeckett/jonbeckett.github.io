@@ -2,7 +2,8 @@
 layout: single
 title: "Haircuts And Mobile Phone Hell"
 date: 2013-09-18
-categories: "2013"
+categories:
+  - 2013
 ---
 
 Before arriving at the office this morning, I delivered myself to the local barbers in the faint hope that the picture of gorgeousness that cut my hair last time would be there. My hopes were dashed within seconds as an older, decidedly grumpy lady appeared, and gestured towards a chair as one might towards a particularly disgusting dog turd.

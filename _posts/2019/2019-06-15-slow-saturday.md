@@ -2,7 +2,8 @@
 layout: single
 title: "Slow Saturday"
 date: 2019-06-15
-categories: "2019"
+categories:
+  - 2019
 ---
 
 I have achieved very little today. I'm almost proud that I've achieved so very little. While most people look forward to the weekend, kicking back, and resting from the world at large, I invariably see the weekend as an endless trudge through a wrecked house, a clothes washing mountain, and an endless succession of sibling disputes to be mediated. Quite often the commute to work on Monday morning feels like an exhale of sorts. We make it through the week, and then we make it through the weekend.

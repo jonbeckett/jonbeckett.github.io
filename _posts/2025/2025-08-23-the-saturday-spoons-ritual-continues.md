@@ -3,7 +3,7 @@ layout: single
 title: "The Saturday Spoons Ritual Continues"
 date: 2025-08-23
 categories:
-  - "2025"
+  - 2025
 ---
 
 I woke with a start at 7:30am this morning - to the sound of a door being slammed downstairs. Cogs turned in my head, and a member conjured itself from somewhere that my middle daughter is doing the morning shift at Wetherspoons - which of course made me think about a cooked breakfast, and a bottomless coffee.

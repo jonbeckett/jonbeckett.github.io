@@ -2,7 +2,8 @@
 layout: single
 title: "Ignoring The Thoughtless Idiots"
 date: 2021-10-10
-categories: "2021"
+categories:
+  - 2021
 ---
 
 It's early on Sunday evening, the kids are hidden in various corners of the house - their noses inevitably buried in phones - and dinner is bubbling away on top of the cooker. Chicken curry this evening - designed mostly to burn the cold virus out of our youngest daughter.

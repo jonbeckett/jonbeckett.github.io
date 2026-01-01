@@ -2,7 +2,8 @@
 layout: single
 title: "Second Cup Of Coffee"
 date: 2014-11-11
-categories: "2014"
+categories:
+  - 2014
 ---
 
 My word - this blog is just stunningly interesting this week. I literally have nothingto write about. Actually, that's a lie - I do have something to write about, that was on my mind all last night, but I'm not going to write about it today - or any time soon really.

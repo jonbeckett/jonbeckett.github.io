@@ -2,7 +2,8 @@
 layout: single
 title: "The Reality Of Life With Three Young Children"
 date: 2013-01-04
-categories: "2013"
+categories:
+  - 2013
 ---
 
 While recognising that it has become increasingly rare for me to write about the children, I thought it might be timely to recount some of the observations I made a few months after they came into our lives. If I were to write this list again today, it wouldn't be so different;

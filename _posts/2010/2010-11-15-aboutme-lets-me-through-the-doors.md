@@ -2,7 +2,8 @@
 layout: single
 title: "Aboutme Lets Me Through The Doors"
 date: 2010-11-15
-categories: "2010"
+categories:
+  - 2010
 ---
 
 A little while ago I signed up for a new internet "landing page" service thing, and then promptly forgot all about it. Just before collapsing into bed last night, while switching the Blackberry into silent mode, a new email arrived.

@@ -2,7 +2,8 @@
 layout: single
 title: "Behold The New Bag Of Inifinite Holding"
 date: 2016-02-20
-categories: "2016"
+categories:
+  - 2016
 ---
 
 While travelling back from Cornwall on the train with the children on Thursday, our youngest daughter pointed out that my trusty backpack had not one, but five holes in various placeswhich she demonstrated by poking her finger through each hole as she counted them. She also noted that several of the zips were either broken, or starting to fall apart.

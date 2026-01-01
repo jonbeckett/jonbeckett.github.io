@@ -2,7 +2,8 @@
 layout: single
 title: "Preparing To Fly"
 date: 2017-04-23
-categories: "2017"
+categories:
+  - 2017
 ---
 
 In a couple of hours I'll be on the first of a couple of trains, headed towards London Heathrow airport. I'm flying to Frankfurt in Germany for the week - living the life described so expertly by the movie "Up in the Air" for a few days - except of course I'll be flying economy.

@@ -2,7 +2,8 @@
 layout: single
 title: "Why Im On Tumblr"
 date: 2012-04-17
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I have a chequered past with Tumblr. I joined back in 2007, within weeks of the website launching, and dicked around with it endlessly while writing elsewhere. I've used it as a personal blog several times, walked away several times, but always come back - so I guess the question for me is "why do you keep coming back?"

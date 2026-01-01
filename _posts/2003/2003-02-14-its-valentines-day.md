@@ -2,7 +2,8 @@
 layout: single
 title: "Its Valentines Day"
 date: 2003-02-14
-categories: "2003"
+categories:
+  - 2003
 ---
 
 It's valentines day and I was planning on leaving an hour early to pop into town and pick up some flowers and ingredients for tea... except my project manager has just veto'd that. How "jobsworth" is that? I suppose I should resist having a complete rant in case the offending idiot reads this.

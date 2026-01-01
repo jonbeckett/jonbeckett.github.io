@@ -2,7 +2,8 @@
 layout: single
 title: "Artwork From My Past"
 date: 2009-05-07
-categories: "2009"
+categories:
+  - 2009
 ---
 
 While replying to somebody on Twitter earlier, it occurred to me that I had not posted any of my old artwork on this blog.

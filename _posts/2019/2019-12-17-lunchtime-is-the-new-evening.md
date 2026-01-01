@@ -2,7 +2,8 @@
 layout: single
 title: "Lunchtime Is The New Evening"
 date: 2019-12-17
-categories: "2019"
+categories:
+  - 2019
 ---
 
 Lunchtime is the new evening - or at least it seems to be when it comes to me writing blog posts. I guess this is a life-hack of sorts - forcing myself to have a lunch break at work, and emptying my head into the keyboard, instead of trying to find time in the evening to do it. Of course this begs the question "why do it in the first place", but I think we decided quite some time ago that I write a blog because I do - there is no inspirational or logical reason behind it. I just do.

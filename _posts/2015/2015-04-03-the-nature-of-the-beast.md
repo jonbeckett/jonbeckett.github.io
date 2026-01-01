@@ -2,7 +2,8 @@
 layout: single
 title: "The Nature Of The Beast"
 date: 2015-04-03
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I have begun writing this post five times so far. Sometimes I completed the first sentence, and sometimes I only got a few words in before hitting the backspace key. Perhaps the title of the post gives a clue to my indecision.

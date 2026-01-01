@@ -2,7 +2,8 @@
 layout: single
 title: "All Quiet On The Western Front"
 date: 2014-07-05
-categories: "2014"
+categories:
+  - 2014
 ---
 
 I woke up at 7am this morning, and discovered that the bed was strangely empty. Slowly the truly bizarre dream I had been having about trying to clean up an inflatable octapus that had dissolved on the kitchen counters (yes, really) vanished into the memoryless place that dreams go, and the real world pieced itself back together.

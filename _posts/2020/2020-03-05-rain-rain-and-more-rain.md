@@ -2,7 +2,8 @@
 layout: single
 title: "Rain Rain And More Rain"
 date: 2020-03-05
-categories: "2020"
+categories:
+  - 2020
 ---
 
 It's raining again. It's been raining pretty consistently since just after lunchtime yesterday, and isn't showing much sign of stopping. Quite apart from the river flooding the entire town, MY NEW BIKE IS GETTING WET!

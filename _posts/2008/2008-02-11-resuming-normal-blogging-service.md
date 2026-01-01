@@ -2,7 +2,8 @@
 layout: single
 title: "Resuming Normal Blogging Service"
 date: 2008-02-11
-categories: "2008"
+categories:
+  - 2008
 ---
 
 After a couple of weeks writing each evening with the various adventures and dramas surrounding us, I am returning to normal blogging service today. We are now a family - and are probably living through the same stresses and strains as any other family of five (and yes, that still sounds weird).

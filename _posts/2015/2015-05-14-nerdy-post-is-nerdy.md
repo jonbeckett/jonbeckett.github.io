@@ -2,7 +2,8 @@
 layout: single
 title: "Nerdy Post Is Nerdy"
 date: 2015-05-14
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Well this is interesting. I'm writing this post on the Macbook - it's the first time I had had it out for months. It's been sitting on the floor of the junkroom in a backpack - wrapped in a neoprene sleeve that I bought for my original Macbook. Back in 2007 I had a white Macbook - I was doing freelance work at the time, and was making enough money to buy one. I'll probably never be able to afford a Mac ever again.

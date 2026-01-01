@@ -3,7 +3,7 @@ layout: single
 title: "Dance like nobody is watching"
 date: 2025-05-01
 categories:
-  - "2025"
+  - 2025
 ---
 
 While everybody else was doing other things this evening I found myself spending a rare evening with my youngest daughter - just the two of us. I was pretty determined we should spend some time together, rather than fall into the all-too-common rut of her sloping off to her bedroom to chat with friends on her own.

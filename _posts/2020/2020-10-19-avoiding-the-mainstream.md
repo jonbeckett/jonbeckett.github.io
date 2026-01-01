@@ -2,7 +2,8 @@
 layout: single
 title: "Avoiding The Mainstream"
 date: 2020-10-19
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I'm one episode away from the end of Westworld Season 3. I'm not quite sure what I'm going to do with my evenings after completing it. It's been one hell of a journey so far - and I'll admit to checking if a season 4 is in the works (it is - phew).

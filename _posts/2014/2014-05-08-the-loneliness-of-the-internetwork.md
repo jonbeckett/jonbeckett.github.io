@@ -2,7 +2,8 @@
 layout: single
 title: "The Loneliness Of The Internetwork"
 date: 2014-05-08
-categories: "2014"
+categories:
+  - 2014
 ---
 
 While catching up with the rag-tag band of people I follow on Tumblr earlier this evening, I was struck by their apparent loneliness, and couldn't help wondering if the platform itself is not partly to blame. Perhaps not Tumblr itself, but "blogging platforms" as a whole.

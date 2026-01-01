@@ -2,7 +2,8 @@
 layout: single
 title: "Truly Awful"
 date: 2005-08-01
-categories: "2005"
+categories:
+  - 2005
 ---
 
 Ever since I woke up this morning at 7am I have had a banging headache. I've felt really tired and feeble too. I drank water all morning to see if I was just de-hydrated, but it hasn't really worked. I don't want to resort to taking tablets, but if it goes on much longer I'll have to.

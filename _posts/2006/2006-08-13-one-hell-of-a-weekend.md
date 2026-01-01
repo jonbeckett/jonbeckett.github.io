@@ -2,7 +2,8 @@
 layout: single
 title: "One Hell Of A Weekend"
 date: 2006-08-13
-categories: "2006"
+categories:
+  - 2006
 ---
 
 If ever proof was needed of the power of the internet to bring people together, this weekend was it.

@@ -2,7 +2,8 @@
 layout: single
 title: "Goodbye Sam"
 date: 2018-11-05
-categories: "2018"
+categories:
+  - 2018
 ---
 
 While running back and forth through the hallway to our front door last Thursday, Sam sat in the way - cleaning himself. He didn't seem too keen to move, and we just thought he was being belligerent.

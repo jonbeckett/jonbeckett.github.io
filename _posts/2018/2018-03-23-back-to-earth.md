@@ -2,7 +2,8 @@
 layout: single
 title: "Back To Earth"
 date: 2018-03-23
-categories: "2018"
+categories:
+  - 2018
 ---
 
 After the somewhat epic journey home yesterday, and a pizza and movie night with the children (we watched 'Justice League'), this morning has very much been a case of 'back to earth with a bump'.

@@ -2,7 +2,8 @@
 layout: single
 title: "Finding Time"
 date: 2006-11-06
-categories: "2006"
+categories:
+  - 2006
 ---
 
 It's just gone 9pm and I have my first chance to sit and record the adventures of the day. With a little luck the act of writing will act as a catharsis and stop me from approaching the edge of a Michael Douglas "Falling Down" moment.

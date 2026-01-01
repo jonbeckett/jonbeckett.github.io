@@ -2,7 +2,8 @@
 layout: single
 title: "Not Playing The Game"
 date: 2011-11-27
-categories: "2011"
+categories:
+  - 2011
 ---
 
 While reading back through the posts of various friends around the internet over the last few days, a creeping realisation has dawned on me. I don't like playing "the game".

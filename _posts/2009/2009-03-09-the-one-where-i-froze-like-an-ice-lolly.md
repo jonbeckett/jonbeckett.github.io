@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Froze Like An Ice Lolly"
 date: 2009-03-09
-categories: "2009"
+categories:
+  - 2009
 ---
 
 In choosing the title of this post, I debated between "Popsicle" and "Ice Lolly" - mainly because I know a lot of Americans ready my blog, and I'm not really sure if "Icy Lolly" is a common term state-side. How crazy does worrying about such trivialities make me sound ?

@@ -2,7 +2,8 @@
 layout: single
 title: "Autumn Arrives"
 date: 2021-09-30
-categories: "2021"
+categories:
+  - 2021
 ---
 
 Autumn has arrived with a vengeance. Over the course of the last week the temperature has dropped, wind and rain has arrived, and the nights are drawing in fast. Suddenly coats, scarves, and boots seem like a good idea when venturing out for any length of time.

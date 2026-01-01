@@ -2,7 +2,8 @@
 layout: single
 title: "Time For A New Bike"
 date: 2016-04-25
-categories: "2016"
+categories:
+  - 2016
 ---
 
 On the way home from work on Friday evening, the gears at the rear of my mountain bike started to misbehave. Given that the front mech had seized about six months ago, I wasn't entirely surprised. The bike has lasted well. It's had two full services, where the axles, crank, and chain-set were replaced during it's life. It has survived six miles a day, through all weathers, rain or shine, for the past six or seven years. The chain snapping this morning and falling to the road was really just the tipping point. I can't complain. If I drove to work, the cost of running a car would dwarf the maintainance of the bike each year.

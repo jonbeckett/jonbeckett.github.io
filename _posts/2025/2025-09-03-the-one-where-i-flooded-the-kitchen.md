@@ -3,7 +3,7 @@ layout: single
 title: "The one where I flooded the kitchen"
 date: 2025-09-03
 categories:
-  - "2025"
+  - 2025
 ---
 
 While taking a break from work this morning, I wandered into the kitchen and decided that the clothes rack had been standing in everybody’s way for quite long enough. While folding the clothes from the rack onto the dining room table, and putting various other things away (my daughters are experts at getting things out), I also started making myself a cup of coffee.

@@ -2,7 +2,8 @@
 layout: single
 title: "Unsettled"
 date: 2006-08-24
-categories: "2006"
+categories:
+  - 2006
 ---
 
 After an evening trying to escape from the reaper that my work has become, I find myself watching a movie about people running from a normal existence - looking for something more.

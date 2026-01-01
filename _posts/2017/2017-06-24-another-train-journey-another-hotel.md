@@ -2,7 +2,8 @@
 layout: single
 title: "Another Train Journey Another Hotel"
 date: 2017-06-24
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Tomorrow lunchtime I will make the familiar journey on foot to the local railway station, head first towards Kings Cross in central London, and then on to the north of England. The better part of another week spent living from a hotel room far from home, sitting among strangers in a foreign office, and pretending to fit in.

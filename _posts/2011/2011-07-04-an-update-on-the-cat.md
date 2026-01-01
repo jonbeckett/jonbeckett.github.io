@@ -2,7 +2,8 @@
 layout: single
 title: "An Update On The Cat"
 date: 2011-07-04
-categories: "2011"
+categories:
+  - 2011
 ---
 
 For those who don't know, one of our cats was hit by a car last week. He was discovered by a neighbour, hiding in a bush about 50 yards from our house, calling out. They took him to the vet, and told us when we arrived home.

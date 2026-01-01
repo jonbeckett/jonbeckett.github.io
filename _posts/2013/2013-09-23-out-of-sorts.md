@@ -2,7 +2,8 @@
 layout: single
 title: "Out Of Sorts"
 date: 2013-09-23
-categories: "2013"
+categories:
+  - 2013
 ---
 
 For the past few weeks I have struggled to find anything worth sharing with the small number that continue to read. In the quiet moments of the day, I have wondered about shuttering the blog(s) entirely, but invariably decide that I don'thave to write regularlyand that the stories I tell will quite happily live out here on their own in my absence.

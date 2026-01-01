@@ -2,7 +2,8 @@
 layout: single
 title: "Thoughtcafe Rides Again"
 date: 2008-10-15
-categories: "2008"
+categories:
+  - 2008
 ---
 
 It's back. Granted, it's not complete (a long way from it actually), but ThoughtCafe exists on the interwebs once more...

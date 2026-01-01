@@ -2,7 +2,8 @@
 layout: single
 title: "10 Media Tumblogs"
 date: 2011-08-13
-categories: "2011"
+categories:
+  - 2011
 ---
 
 While digging around the Tumblrverse earlier this evening, I happened upon a number of Tumblogs published by news and media organisations. If you're looking for something interesting to vary your dashboard, any or all of these might help;The Huffington Post The internet newspaperVOGUE The ultimate fashion authority, VOGUE has been setting the standard for more than 100 years, delivering the latest in beauty, style, culture, health, fitness, and celebrities.

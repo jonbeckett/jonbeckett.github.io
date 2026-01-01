@@ -2,7 +2,8 @@
 layout: single
 title: "Wembley Stadium"
 date: 2017-05-12
-categories: "2017"
+categories:
+  - 2017
 ---
 
 We got on a train early this afternoon to Wembley Stadium in London, to watch the women's FA Cup final between Manchester City and Birmingham. I suspected on the way that the result might be something of a walkover, and was largely correct. It was still a great day though, because visiting any famous sporting venue is exciting - at least in my eyes.

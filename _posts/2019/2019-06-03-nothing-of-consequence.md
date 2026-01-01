@@ -2,7 +2,8 @@
 layout: single
 title: "Nothing Of Consequence"
 date: 2019-06-03
-categories: "2019"
+categories:
+  - 2019
 ---
 
 The clock is ticking towards midnight, and you find me sitting at the dinner table in the lounge with the laptop. I started writing this post fifteen minutes ago, but somehow found it much more important to first finish my cup of tea, then copy some music over from the networked hard-drive in the other room - to listen to while writing this. Of course that didn't quite go to plan - I had to tinker with Windows 10, and then install a half-decent music player app. None of this got me any closer to writing anything. It never does. I think I know why too.

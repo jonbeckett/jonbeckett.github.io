@@ -2,7 +2,8 @@
 layout: single
 title: "Story Of The Day"
 date: 2006-01-20
-categories: "2006"
+categories:
+  - 2006
 ---
 
 I have no work to be getting on with at the present moment, so thought it might be entertaining to while away a few minutes telling the story of my day so far.

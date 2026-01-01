@@ -2,7 +2,8 @@
 layout: single
 title: "End Of A Long Week"
 date: 2005-04-15
-categories: "2005"
+categories:
+  - 2005
 ---
 
 This week quite a lot happened.

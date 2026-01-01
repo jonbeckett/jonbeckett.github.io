@@ -2,7 +2,8 @@
 layout: single
 title: "The Perks Of Being A Wallflower"
 date: 2017-05-31
-categories: "2017"
+categories:
+  - 2017
 ---
 
 Tonight I finally got around to watching"The Perks of Being a Wallflower" - ahead of reading the book, which has been sitting on the shelf in the junk room for what must be four years now.

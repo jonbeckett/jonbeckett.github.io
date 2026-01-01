@@ -2,7 +2,8 @@
 layout: single
 title: "Organising The Chaos"
 date: 2015-01-14
-categories: "2015"
+categories:
+  - 2015
 ---
 
 Many years ago I wrote a post about the "Getting Things Done" methodology. At the time, the book by David Allen had just come out in paperback, and was being rammed up people's noses in train stations across the land. Given that my life resembled the eye of a hurricane at the time, I started using some of Allen's ideas to help - and wrote about it. The blog post drew comments from all sorts of management and productivity consultants, adding their two penneth (and in some cases considerably more) to the conversation.

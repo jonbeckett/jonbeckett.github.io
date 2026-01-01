@@ -2,7 +2,8 @@
 layout: single
 title: "Apple Re Invents Music Not"
 date: 2015-06-08
-categories: "2015"
+categories:
+  - 2015
 ---
 
 I just sat through the last 25 minutes of the Apple Worldwide Developer Conference keynote, where a number of people who used to be influential music label fat-cats were wheeled out on stage to bore the audience to tears showing off a music app that does nothing different than any other.

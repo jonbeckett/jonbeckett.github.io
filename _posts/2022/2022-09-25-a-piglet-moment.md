@@ -2,7 +2,8 @@
 layout: single
 title: "A Piglet Moment"
 date: 2022-09-25
-categories: "2022"
+categories:
+  - 2022
 ---
 
 There's a moment in the book "The House at Pooh Corner" that has always stayed with me:

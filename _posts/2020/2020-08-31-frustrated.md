@@ -2,7 +2,8 @@
 layout: single
 title: "Frustrated"
 date: 2020-08-31
-categories: "2020"
+categories:
+  - 2020
 ---
 
 I'm stepping away from the social internet for a while.

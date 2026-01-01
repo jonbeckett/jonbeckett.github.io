@@ -2,7 +2,8 @@
 layout: single
 title: "First Time Ive Been Ill In Over A Year"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I'm not joking. It might even be 18 months. Sure, I've had colds. This feels more like flu though (I bet it isn't - but I have a creeping dread). I've had flu twice in my entire life, and it's not fun.

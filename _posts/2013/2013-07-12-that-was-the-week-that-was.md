@@ -2,7 +2,8 @@
 layout: single
 title: "That Was The Week That Was"
 date: 2013-07-12
-categories: "2013"
+categories:
+  - 2013
 ---
 
 I'm not quite sure how I got through this week, but I didor rather all evidence points to the face that today is indeed Friday, I am no longer in the office, the kitchen is clear, and everybody else is in bed.

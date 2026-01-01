@@ -2,7 +2,8 @@
 layout: single
 title: "The One Where I Caught Covid"
 date: 2022-07-04
-categories: "2022"
+categories:
+  - 2022
 ---
 
 We went out for dinner last week to celebrate the end of college for my eldest daughter. She seemed a bit under the weather, but soldiered on - then over the weekend I spent a lot of time with my eldest daughter, watching Stranger Things. Somewhere in the middle of that, the pair of us caught COVID.

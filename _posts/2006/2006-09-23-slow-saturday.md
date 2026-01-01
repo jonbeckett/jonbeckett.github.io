@@ -2,7 +2,8 @@
 layout: single
 title: "Slow Saturday"
 date: 2006-09-23
-categories: "2006"
+categories:
+  - 2006
 ---
 
 Today finds me having not written anything in my blog for a week, and wondering what to write. It's been a long time since I have written so few posts, and I have no idea why.

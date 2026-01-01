@@ -2,7 +2,8 @@
 layout: single
 title: "Bad Moods Broken Bikes Football And Running Shoes"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 I came home in a hell of a bad mood this evening. I would probably have been okay, but found myself picking up mugs, glasses, cups, plates and cutlery before I even took my bike helmet off. I left the taps thundering hot water into the sink while dumping my bag, coat and gloves in the study. I have to keep everything in the study - it's the only way of being sure where anything will be when required again - the rest of the house is a lottery.

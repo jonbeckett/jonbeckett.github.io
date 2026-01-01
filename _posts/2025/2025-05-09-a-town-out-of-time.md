@@ -3,7 +3,7 @@ layout: single
 title: "A Town out of time"
 date: 2025-05-09
 categories:
-  - "2025"
+  - 2025
 ---
 
 After leaving home mid-morning and stopping at an oddly soul-less rest area en-route, we arrived in Hay on Wye early in the afternoon. Against expectations - while wrestling with a navigation app on my phone that seemed intent on navigating us backwards towards our destination, we somehow navigated directly to the front door of the cottage we are staying in.

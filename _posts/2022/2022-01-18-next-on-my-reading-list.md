@@ -2,7 +2,8 @@
 layout: single
 title: "Next On My Reading List"
 date: 2022-01-18
-categories: "2022"
+categories:
+  - 2022
 ---
 
 *This year I'm taking part in "*[*Bloganuary*](https://bloganuary.wordpress.com/)*" - a series of writing prompts published throughout the month by* [*Mindy Postoff*](https://bloganuary.wordpress.com/author/mindywoothemes/)*. Today's writing prompt is "What book is next on your reading list?"*

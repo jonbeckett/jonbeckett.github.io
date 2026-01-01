@@ -2,7 +2,8 @@
 layout: single
 title: "From There To Here A Personal Blogging Journey"
 date: 2014-10-22
-categories: "2014"
+categories:
+  - 2014
 ---
 
 For me it all began in the late 1980s, with the explosion of Compuserve and AOL, and the lowering of the bar to a point where everybody could understand how to get "online", and begin communicating with each other. Almost overnight the somewhat secret world of the "Bulletin Boards" became extinct. If I could reclaim the hours I spent doing writing exercises in the Compuserve Literary Forum, I might have discovered girls far earlier.

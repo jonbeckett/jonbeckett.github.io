@@ -2,7 +2,8 @@
 layout: single
 title: "First World Problems"
 date: 2017-05-26
-categories: "2017"
+categories:
+  - 2017
 ---
 
 At the moment I seem to be caught in a battle for the heart and mind of my organised self. The protagonists are the phone, a collection of various internet services, and the Filofax. I suppose this could be whittled down to "gadget vs. web vs. paper".

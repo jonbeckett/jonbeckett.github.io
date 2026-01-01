@@ -2,7 +2,8 @@
 layout: single
 title: "A Few Words Today"
 date: 2010-05-01
-categories: "2010"
+categories:
+  - 2010
 ---
 
 The phrase "a few words today" reminds me of Immortal Beloved - the movie about the life of Beethoven, and his letters to a secret love who he eventually left everything to (it's a true story, if you're interested).

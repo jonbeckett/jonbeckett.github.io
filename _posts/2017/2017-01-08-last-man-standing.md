@@ -2,7 +2,8 @@
 layout: single
 title: "Last Man Standing"
 date: 2017-01-08
-categories: "2017"
+categories:
+  - 2017
 ---
 
 While sitting on the train, rumbling towards the north this afternoon, instead of reading, listening to music, or watching movies, I watched the world go by. I watched the rain dribble across the windows, and stared out into the middle distance for quite some time.

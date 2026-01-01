@@ -2,7 +2,8 @@
 layout: single
 title: "Fourth Night"
 date: 2012-01-27
-categories: "2012"
+categories:
+  - 2012
 ---
 
 Tonight marks the fourth and final night in the hotel - I received word in the office this morning that I'll be released, and will be able to travel home tomorrow night. I called home while walking to the hotel this evening and informed Little Miss Eight - who proceeded to shout the news to everybody else.

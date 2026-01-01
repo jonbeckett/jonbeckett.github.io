@@ -2,7 +2,8 @@
 layout: single
 title: "friday night"
 date: 2023-04-22
-categories: "2023"
+categories:
+  - 2023
 ---
 
 Its Friday night - or rather, Saturday morning now - and you find me perched in bed with a fire tablet propped on my legs. My feet are not gripping the bed sheet - so keep sliding away from me. Who knew writing in bed would be so precarious?
