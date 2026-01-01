@@ -67,7 +67,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jonathan.beckett@gmail.com"
+      url: "mailto:jonathan.beckett@gmail.com"
     - label: "Blog"
       icon: "fa-regular fa-book"
       url: "https://jonbeckett.com"
@@ -86,6 +86,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jonathan.beckett@gmail.com"
+    - label: "Blog"
+      icon: "fa-regular fa-book"
+      url: "https://jonbeckett.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/jonbeckett"
