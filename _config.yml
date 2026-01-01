@@ -114,7 +114,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: true
+incremental: false
 
 # Markdown Processing
 kramdown:
@@ -133,7 +133,7 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
-permalink: /:year/:title/
+permalink: /:year/:month/:day/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
