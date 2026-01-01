@@ -3,7 +3,7 @@ layout: single
 title: "Here All Year"
 date: 2016-01-07
 categories:
-  - 2016
+  - "2016"
 ---
 
 I just changed the billing behind this blog to "yearly", meaning this little island on the internet will remain above water at least until January 2017. There was some method to the madnessthe company that hosts my idiotic words will soon be forced to charge tax in each European countrybut they have already confirmed they will notcharge retrospectively. Given that a yearly subscription for the hosting is significantly cheaper than a monthly subscription, I switched.

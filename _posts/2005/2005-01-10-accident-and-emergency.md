@@ -3,7 +3,7 @@ layout: single
 title: "Accident And Emergency"
 date: 2005-01-10
 categories:
-  - 2005
+  - "2005"
 ---
 
 We had something of an eventful weekend.

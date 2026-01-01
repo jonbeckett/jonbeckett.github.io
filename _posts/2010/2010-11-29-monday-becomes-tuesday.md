@@ -3,7 +3,7 @@ layout: single
 title: "Monday Becomes Tuesday"
 date: 2010-11-29
 categories:
-  - 2010
+  - "2010"
 ---
 
 This is probably the closest I have come to failure at this whole "post every day during November" malarky. It's approaching 11pm, and I've finally got the chance to sit here and write a few words. They're not going to be tremendously insightful, or memorable, but they are words, and they mean I don't fail the challenge.

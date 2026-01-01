@@ -3,7 +3,7 @@ layout: single
 title: "The Madness Of Smoking"
 date: 2012-04-16
 categories:
-  - 2012
+  - "2012"
 ---
 
 W had a bad day yesterday - I think the Easter Holidays caught up with her - dealing with the children, the decorating, and a birthday party in consecutive days wiped her completely out. I pretty much took over everything while she hid out in the bedroom for the greater part of the day.

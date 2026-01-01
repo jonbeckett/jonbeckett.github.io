@@ -3,7 +3,7 @@ layout: single
 title: "Monday Can Go Suck It"
 date: 2013-10-07
 categories:
-  - 2013
+  - "2013"
 ---
 
 I haven't taken my temperature todayprobably for the same reason I rarely take tablets, or any kind of medication for anything really. I justknowI feel like shitI don't need a doctor to tell me. I alsoknow, oram relatively confident that I just have a cold. A bad cold. Not man-flu. Just a cold.

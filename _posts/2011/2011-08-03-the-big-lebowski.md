@@ -3,7 +3,7 @@ layout: single
 title: "The Big Lebowski"
 date: 2011-08-03
 categories:
-  - 2011
+  - "2011"
 ---
 
 After years of reading movie critics fawned essays piling ever more platitudes over "The Big Lebowski", I finally sat down and watched it last night. I'm not quite sure if I was watching the same movie that I had so studiously avoided reading so much about.

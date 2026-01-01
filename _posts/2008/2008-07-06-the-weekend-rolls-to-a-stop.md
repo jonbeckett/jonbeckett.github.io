@@ -3,7 +3,7 @@ layout: single
 title: "The Weekend Rolls To A Stop"
 date: 2008-07-06
 categories:
-  - 2008
+  - "2008"
 ---
 
 I don't really recall what weekends used to be like.

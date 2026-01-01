@@ -3,7 +3,7 @@ layout: single
 title: "12Seconds This Could Get Silly"
 date: 2009-04-17
 categories:
-  - 2009
+  - "2009"
 ---
 
 In the depths of last night, long after I should really have gone to bed, I took a look at 12 seconds on the internet...

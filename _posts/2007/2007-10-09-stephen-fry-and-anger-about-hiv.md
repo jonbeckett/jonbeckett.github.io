@@ -3,7 +3,7 @@ layout: single
 title: "Stephen Fry And Anger About Hiv"
 date: 2007-10-09
 categories:
-  - 2007
+  - "2007"
 ---
 
 For the last hour I have been watching a wonderful documentary on the BBC following Stephen Fry as he discovers the various personal stories of people with HIV over the last 20 years.

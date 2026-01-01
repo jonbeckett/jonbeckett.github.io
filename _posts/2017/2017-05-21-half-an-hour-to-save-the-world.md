@@ -3,7 +3,7 @@ layout: single
 title: "Half An Hour To Save The World"
 date: 2017-05-21
 categories:
-  - 2017
+  - "2017"
 ---
 
 After sitting in the conference room since I arrived at work this morning, I'm finally back at my desk, with a half-hour window to post this before heading into town. A co-worker is leaving today, so we're all trooping off to a local pub for lunch together. Saying our goodbyes.

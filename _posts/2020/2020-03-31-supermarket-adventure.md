@@ -3,7 +3,7 @@ layout: single
 title: "Supermarket Adventure"
 date: 2020-03-31
 categories:
-  - 2020
+  - "2020"
 ---
 
 After finishing work this evening we dared venture into town for the first time in two weeks. It felt strange - driving along almost deserted streets, but also kind of nice. We parked directly outside the bank to drop a letter into their mailbox. I didn't even realise there were parking bays in the high-street - I thought stationary vehicles were part of the road furniture.

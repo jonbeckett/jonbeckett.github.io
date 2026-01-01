@@ -3,7 +3,7 @@ layout: single
 title: "Rumours Of My Demise"
 date: 2007-12-10
 categories:
-  - 2007
+  - "2007"
 ---
 
 The reason for so few blog posts - and so few comments from me on other's blogs over the last several days - has been the finale in the saga of my body's defences versus every cold and cough type virus in Great Britain trying to attack me.

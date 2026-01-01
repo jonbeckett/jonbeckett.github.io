@@ -3,7 +3,7 @@ layout: single
 title: "Emulators Rule Today"
 date: 2003-02-28
 categories:
-  - 2003
+  - "2003"
 ---
 
 Last night I installed ZSNES and KEGA on the laptop at home (along with several hundred ROM images downloaded from alt.binaries). Oh what fun I had... well, I did once I got the USB gamepad working with the damn thing.

@@ -3,7 +3,7 @@ layout: single
 title: "Emptying Your Head"
 date: 2019-11-19
 categories:
-  - 2019
+  - "2019"
 ---
 
 You know the funny thing about emptying your head? When you expose your thoughts for others to read, judge, and react to, you have to be damn careful.

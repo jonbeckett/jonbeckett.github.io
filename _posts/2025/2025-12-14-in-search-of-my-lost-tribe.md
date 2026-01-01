@@ -3,7 +3,7 @@ layout: single
 title: "In search of my lost tribe"
 date: 2025-12-14
 categories:
-  - 2025
+  - "2025"
 ---
 
 I don’t recognise the internet any more. Walled cities have proliferated, filled with newcomers, settlers, and homesteaders - who invariably join each other in a race to the bottom - chasing just enough engagement to inflate their numbers without having to invest too much effort in establishing any sort of “real” relationship with anybody.

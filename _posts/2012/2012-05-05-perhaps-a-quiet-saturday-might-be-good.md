@@ -3,7 +3,7 @@ layout: single
 title: "Perhaps A Quiet Saturday Might Be Good"
 date: 2012-05-05
 categories:
-  - 2012
+  - "2012"
 ---
 
 It's heading towards half past one on Saturday afternoon. The younger children are in the park in front of our house playing, the eldest is writing something at the dining table, the music player is pumping "Don't you forget about me" across the room, and I'm sat here dribbling garbage into the blog once again.

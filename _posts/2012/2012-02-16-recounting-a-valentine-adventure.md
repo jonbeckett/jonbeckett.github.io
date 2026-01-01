@@ -3,7 +3,7 @@ layout: single
 title: "Recounting A Valentine Adventure"
 date: 2012-02-16
 categories:
-  - 2012
+  - "2012"
 ---
 
 I couldn't resist recounting this particular adventure. I had planned to write about it earlier in the week, but life somehow got in the way. In the spirit of recording the memories before they vacate, here it is - enjoy.

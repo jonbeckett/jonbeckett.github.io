@@ -3,7 +3,7 @@ layout: single
 title: "Tuesday Night Hotel Club"
 date: 2016-12-06
 categories:
-  - 2016
+  - "2016"
 ---
 
 Day two of the great far-flung adventure comes to a close. I've just returned to the hotel room after eating dinner in the restaurant next door. There's something nice about knowing all meals are covered by expenses, even if it will be a few weeks before I see the money again.

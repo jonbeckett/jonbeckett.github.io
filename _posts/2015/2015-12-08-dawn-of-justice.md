@@ -3,7 +3,7 @@ layout: single
 title: "Dawn Of Justice"
 date: 2015-12-08
 categories:
-  - 2015
+  - "2015"
 ---
 
 Late last night I was doing the rounds of the social networks before turning in for the night, when I happened upon the latest trailer for the upcoming Superman vs Batman movie.[youtube=https://www.youtube.com/watch?v=fis-9Zqu2Ro&w=640&h=390]Lots of people seem to be complaining about the spoilers in the trailerbut they are forgetting that this is a movie based on a book (a comic book in this case). While the movie might be billed as "Superman versus Batman", it's real title (and tagline on the posters) is "Dawn of Justice".

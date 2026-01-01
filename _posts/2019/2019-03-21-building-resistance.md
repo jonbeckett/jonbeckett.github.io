@@ -3,7 +3,7 @@ layout: single
 title: "Building Resistance"
 date: 2019-03-21
 categories:
-  - 2019
+  - "2019"
 ---
 
 After tipping myself out of bed at 6:30 this morning, having a shower, putting some coffee on, and cooking a round of bacon sandwiches for the kids, I wondered why Miss 18 had not shown her face.

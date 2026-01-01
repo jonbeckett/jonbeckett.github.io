@@ -3,7 +3,7 @@ layout: single
 title: "Tinkering With Drupal"
 date: 2011-01-09
 categories:
-  - 2011
+  - "2011"
 ---
 
 Still tinkering with jonbeckett.com - at least I have the aggregator working now (after hacking the Drupal 7 database - it didn't like the long titles of Tumblr questions).

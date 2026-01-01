@@ -3,7 +3,7 @@ layout: single
 title: "Emma Watson Hayden Panettiere And Gutter Media Culture"
 date: 2008-04-24
 categories:
-  - 2008
+  - "2008"
 ---
 
 Now and again, something happens in the media that makes me angry, and I can't keep my mouth shut about it. This is one of those times.

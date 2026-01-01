@@ -3,7 +3,7 @@ layout: single
 title: "Teaching Children To Play Chess"
 date: 2009-07-20
 categories:
-  - 2009
+  - "2009"
 ---
 
 One evening last week while our eldest (8 years old) was up late having her hair de-nitted (yep - the week before the summer holidays, all our kids got nits again), I stuck a movie on for her to watch while her Mum rubbed tea tree shampoo into her head. The movie was "Innocent Moves" - otherwise known as "Searching for Bobby Fischer".

@@ -3,7 +3,7 @@ layout: single
 title: "The Slippery Slope"
 date: 2022-11-15
 categories:
-  - 2022
+  - "2022"
 ---
 
 I have become my own worst enemy, but at least I 've caught myself while sliding into the abyss. I should probably explain.

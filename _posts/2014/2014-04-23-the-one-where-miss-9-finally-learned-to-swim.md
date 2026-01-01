@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Miss 9 Finally Learned To Swim"
 date: 2014-04-23
 categories:
-  - 2014
+  - "2014"
 ---
 
 Today will go down on the record as the day Miss Nine finally conquered swimming. She has been swimming (head down, torpedo like) since last summer, but has never quite got the knack of breathinguntil today.

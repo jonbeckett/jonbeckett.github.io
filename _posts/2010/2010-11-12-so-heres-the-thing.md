@@ -3,7 +3,7 @@ layout: single
 title: "So Heres The Thing"
 date: 2010-11-12
 categories:
-  - 2010
+  - "2010"
 ---
 
 This month I'm taking part in "National Blog Posting Month" - also known as NaBloPoMo. There's a website hosted at Ning, and a lot of bloggers taking part... only you would never know - even if you visited the damn website.

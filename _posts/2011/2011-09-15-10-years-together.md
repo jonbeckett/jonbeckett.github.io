@@ -3,7 +3,7 @@ layout: single
 title: "10 Years Together"
 date: 2011-09-15
 categories:
-  - 2011
+  - "2011"
 ---
 
 Somebody asked me earlier if we were doing anything special."I haven't seen W since breakfast time, and I doubt I will see her until 9 this eveningin the meantime, the groceries are arriving, one of the kids is at Brownies, another is at an after school club, and the other will be at a friend's house after school. Our eldest's birthday is on Sunday, so Wend will be making a cake too"The person who asked suddenly looked sheepish"So no, we're not doing anything special. I did order flowers yesterday thoughbeing delivered this morning hopefully to W's work".

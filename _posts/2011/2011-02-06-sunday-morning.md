@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning"
 date: 2011-02-06
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's 9am, the kids are fed, the TV is pumping some kind of rubbish at them across the lounge, I'm showered, washed, shaved, teeth brushed, dressed (if you can call the Smurf Nerd t-shirt "dressed"), and all seems to be well with the world.

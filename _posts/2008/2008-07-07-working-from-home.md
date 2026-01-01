@@ -3,7 +3,7 @@ layout: single
 title: "Working From Home"
 date: 2008-07-07
 categories:
-  - 2008
+  - "2008"
 ---
 
 Due to continual virtual private network connection issues from the company offices, I am working from home unless needed. Thankfully I live 20 minutes by mountain bike from the office, so I can be there rather quickly if the batphone rings.

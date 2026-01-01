@@ -3,7 +3,7 @@ layout: single
 title: "Working On Site"
 date: 2004-10-12
 categories:
-  - 2004
+  - "2004"
 ---
 
 This morning finds me in the offices of a client in west London, working on some bespoke changes to their website.

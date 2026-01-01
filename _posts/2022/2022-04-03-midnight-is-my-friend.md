@@ -3,7 +3,7 @@ layout: single
 title: "Midnight Is My Friend"
 date: 2022-04-03
 categories:
-  - 2022
+  - "2022"
 ---
 
 Here I am again, sitting in front of the computer in the dead of night, only too aware that I haven't posted for several days. The world just seems to be getting away from me at the moment - I'm not sure if I'm just trying to be involved in too many things, or if I'm not pedalling fast enough.

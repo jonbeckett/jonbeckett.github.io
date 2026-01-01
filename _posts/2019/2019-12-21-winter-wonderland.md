@@ -3,7 +3,7 @@ layout: single
 title: "Winter Wonderland"
 date: 2019-12-21
 categories:
-  - 2019
+  - "2019"
 ---
 
 Today was the first day of my Christmas holiday. I had daydreamed about spending the day holed up in the warm, reading the book I bought last week, and doing as little as possible. Rather predictably, life had other plans.

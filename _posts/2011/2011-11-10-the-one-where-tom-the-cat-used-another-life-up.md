@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Tom The Cat Used Another Life Up"
 date: 2011-11-10
 categories:
-  - 2011
+  - "2011"
 ---
 
 We have three catsTom, Sam, and George. Between them they have 27 lives. We should put a totaliser on the kitchen wallbecause it's probably down to 25. I wrote before about George's close encounter with a car, and his rehabilitation. This week it was Tom's turn to cause much worrying, visits to the vet, and gnashing of teeth.

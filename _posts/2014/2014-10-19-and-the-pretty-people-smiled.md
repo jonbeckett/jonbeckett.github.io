@@ -3,7 +3,7 @@ layout: single
 title: "And The Pretty People Smiled"
 date: 2014-10-19
 categories:
-  - 2014
+  - "2014"
 ---
 
 While leaving the supermarket yesterday afternoon, attempting to push a metric ton of groceries towards the car-park while flanked by my other half and several of our tribe of little people, I passed a young couple.

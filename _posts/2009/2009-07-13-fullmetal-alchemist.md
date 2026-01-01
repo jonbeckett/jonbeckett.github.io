@@ -3,7 +3,7 @@ layout: single
 title: "Fullmetal Alchemist"
 date: 2009-07-13
 categories:
-  - 2009
+  - "2009"
 ---
 
 I bought the first series of "Fullmetal Alchemist" at the weekend. I've read a couple of the Manga books in the past, and thought it was interesting. For those who know nothing about it, here's an extract from the synopsis on Wikipedia;

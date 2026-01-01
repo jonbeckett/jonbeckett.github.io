@@ -3,7 +3,7 @@ layout: single
 title: "Reclaiming My Inbox Sort Of"
 date: 2010-11-23
 categories:
-  - 2010
+  - "2010"
 ---
 
 I have lots of email accounts. These days it's almost unavoidable if you want to either have a presence, or protect your username in the various social networks. In no particular order, I have;

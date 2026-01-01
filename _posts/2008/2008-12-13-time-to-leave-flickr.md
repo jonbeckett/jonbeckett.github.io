@@ -3,7 +3,7 @@ layout: single
 title: "Time To Leave Flickr"
 date: 2008-12-13
 categories:
-  - 2008
+  - "2008"
 ---
 
 Yahoo have ended the employment of George Oates - the guy who designed the Flickr interface, and along with Caterina Fake and Stewart Butterfield, made Flickr what it was before Yahoo bought it out, and started meddling.

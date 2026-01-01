@@ -3,7 +3,7 @@ layout: single
 title: "Getting Things Done"
 date: 2008-10-07
 categories:
-  - 2008
+  - "2008"
 ---
 
 For the past several months I have been trying out various tools to help me fight the disorganisation that follows when you have a day job, a freelance gig, and a family of five to support.

@@ -3,7 +3,7 @@ layout: single
 title: "Kindred Spirits"
 date: 2021-11-10
 categories:
-  - 2021
+  - "2021"
 ---
 
 In the early days of the pandemic the office owned by the company I work for was closed, and sold. Ever since I have spent my days sitting in the dark of the junk room at home in front of several computers - writing code, taking part in conference calls, and occasionally wandering into the kitchen to make coffee.

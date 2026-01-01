@@ -3,7 +3,7 @@ layout: single
 title: "Breaking The Cycle"
 date: 2021-06-18
 categories:
-  - 2021
+  - "2021"
 ---
 
 It's been a week since I last posted. After years writing almost every day, it seems strange - standing at the edge of the blog - rummaging around in my mental bag, looking for some words to contribute. It almost feels like the blog has become this place or person that I've had an awkward falling out with, and now I'm not quite sure how to start a conversation.

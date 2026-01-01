@@ -3,7 +3,7 @@ layout: single
 title: "Watching From The Shadows"
 date: 2016-03-28
 categories:
-  - 2016
+  - "2016"
 ---
 
 I often feel like the world is passing me by. I get up each day, go to work, bash my head against the desk for a few hours, return home, do chores and go to bed. At the weekend I do more chores, very rarely go out anywhere, and watch the social internet from afar as friends and acquaintances post updates from days out, bars, music festivals, and endless other exciting destinations.

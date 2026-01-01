@@ -3,7 +3,7 @@ layout: single
 title: "Making it up as we go along"
 date: 2023-10-22
 categories:
-  - 2023
+  - "2023"
 ---
 
 Isn't it funny how you look forward to the weekend, and yet when it arrives you can see it, you know it's there, but somehow it remains just out of reach. Before you know it the next week has arrived and you're pitched into it, trying to make it look like putting one foot in front of the other was some sort of plan.

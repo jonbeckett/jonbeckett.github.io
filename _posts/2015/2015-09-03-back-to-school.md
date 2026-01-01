@@ -3,7 +3,7 @@ layout: single
 title: "Back To School"
 date: 2015-09-03
 categories:
-  - 2015
+  - "2015"
 ---
 
 After a few days going through endless lists, and making seemingly endless trips to stationers, school clothes suppliers, sporting goods stores and so on, the children returned to school this morning.

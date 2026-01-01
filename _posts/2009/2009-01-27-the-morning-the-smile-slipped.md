@@ -3,7 +3,7 @@ layout: single
 title: "The Morning The Smile Slipped"
 date: 2009-01-27
 categories:
-  - 2009
+  - "2009"
 ---
 
 Before going to bed last night, we talked to the children about them getting dressed as soon as they woke in the morning - rather than waiting for us to "help" them (our helping tends to become "we get them dressed"). At the same time as trying to offload some of the things we do to the children, we are also trying to encourage them to be more independent. Getting themselves dressed is something they are easily capable of, even if they do love it when we are there to assist.

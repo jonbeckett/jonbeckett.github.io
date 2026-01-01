@@ -3,7 +3,7 @@ layout: single
 title: "2Am On Christmas Morning"
 date: 2012-12-25
 categories:
-  - 2012
+  - "2012"
 ---
 
 Our middle child is sick. We are both still up at 2am on Christmas morning, trying everything in the book to get her to sleep so we can sneak a stocking into her room, and go to bed ourselves. Luckily this year her younger sister doesn't appear to be on a hair trigger.

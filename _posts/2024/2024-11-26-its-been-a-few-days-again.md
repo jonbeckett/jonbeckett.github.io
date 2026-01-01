@@ -3,7 +3,7 @@ layout: single
 title: "Its been a few days again"
 date: 2024-11-26
 categories:
-  - 2024
+  - "2024"
 ---
 
 Let's keep a long story very short. The new version of the pretend aeroplane game that I make pocket-money out of arrived a week ago (I like calling it a "pretend aeroplane game", because it annoys the "simulator" crowd). That's why I've not written anything for a few days. It's also why I've hardly slept - burning the candle at both ends to create content, and find my way around the "new world".

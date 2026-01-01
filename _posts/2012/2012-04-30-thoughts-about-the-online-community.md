@@ -3,7 +3,7 @@ layout: single
 title: "Thoughts About The Online Community"
 date: 2012-04-30
 categories:
-  - 2012
+  - "2012"
 ---
 
 I'm betting there must be some kind of mathematical model that describes the clumping of users within blogging communities such as WordPress and Tumblr, and I bet it works in a similar way to the same phenomenon elsewhere in the natural world.

@@ -3,7 +3,7 @@ layout: single
 title: "Whats It All About "
 date: 2019-07-15
 categories:
-  - 2019
+  - "2019"
 ---
 
 I'm sitting in the dark of the junk room at home, the soft glow of the computer screen lighting my fingers as they dance over the keyboard. I sat down to write a blog post an hour ago, and don't have anything to show for it.

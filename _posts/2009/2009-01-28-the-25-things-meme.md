@@ -3,7 +3,7 @@ layout: single
 title: "The 25 Things Meme"
 date: 2009-01-28
 categories:
-  - 2009
+  - "2009"
 ---
 
 I honestly thought I had avoided this one - several of the blogs I read had been caught up in it, but I had not received the dreaded instruction. Until ten minutes ago. Drat.

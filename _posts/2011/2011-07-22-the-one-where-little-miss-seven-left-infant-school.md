@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Little Miss Seven Left Infant School"
 date: 2011-07-22
 categories:
-  - 2011
+  - "2011"
 ---
 
 I had a couple of hours off work this morning to attend the leaver's service at the infant school in town. Our middle girl has now officially left infant school, and will be heading to junior school in September.

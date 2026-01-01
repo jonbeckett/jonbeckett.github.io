@@ -3,7 +3,7 @@ layout: single
 title: "Hiding In Plain View"
 date: 2010-09-20
 categories:
-  - 2010
+  - "2010"
 ---
 
 Why do so many people hide behind pseudonyms online? Why are they so scared of being themselves?

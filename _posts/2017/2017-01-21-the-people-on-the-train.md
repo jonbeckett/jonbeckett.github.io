@@ -3,7 +3,7 @@ layout: single
 title: "The People On The Train"
 date: 2017-01-21
 categories:
-  - 2017
+  - "2017"
 ---
 
 Rather than tell the story yet again of how I sat on a number of trains for a number of hours, I thought it might be interesting to record the various people that I shared the journey with. You're going to have to bear with me now, while I look at the two or three words I wrote in my phone for each person, and attempt to re-construct a little of them for your voyeuristic amusement.

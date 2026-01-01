@@ -3,7 +3,7 @@ layout: single
 title: "Back In The Office"
 date: 2010-09-08
 categories:
-  - 2010
+  - "2010"
 ---
 
 Arrived home from client site at 12:30am last night (or should that be "this morning"?), after a 5 hour trip across the country.

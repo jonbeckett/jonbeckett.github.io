@@ -3,7 +3,7 @@ layout: single
 title: "Poking Your Friends"
 date: 2007-06-13
 categories:
-  - 2007
+  - "2007"
 ---
 
 Does nobody else think it's a little weird to "poke" your friends on Facebook?

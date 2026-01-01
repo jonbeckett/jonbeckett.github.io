@@ -3,7 +3,7 @@ layout: single
 title: "Sunday With Char And Jake"
 date: 2006-12-11
 categories:
-  - 2006
+  - "2006"
 ---
 
 We just spent Sunday afternoon and evening with my cousin Charlotte, and her boyfriend Jake...

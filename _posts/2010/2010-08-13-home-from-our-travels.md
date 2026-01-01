@@ -3,7 +3,7 @@ layout: single
 title: "Home From Our Travels"
 date: 2010-08-13
 categories:
-  - 2010
+  - "2010"
 ---
 
 We arrived home at 3pm, unpacked the car, and fell into the house. I immediately turned around, and walked back out of the houseto the corner shop to buy milk while W threw the first of many loads into the washing machine.

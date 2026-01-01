@@ -3,7 +3,7 @@ layout: single
 title: "Time To Go To Bed"
 date: 2019-05-01
 categories:
-  - 2019
+  - "2019"
 ---
 
 The huge project I've been tinkering with during the evenings this week is starting to take shape. What started as a disconnected jumble of bits and pieces is slowly assembling itself into a bizarre machine that Heath Robinson would probably have been quite proud of. There's a perverse reckoning when it comes to software development - the better job you do, the less people notice.

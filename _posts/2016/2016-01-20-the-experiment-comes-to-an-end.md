@@ -3,7 +3,7 @@ layout: single
 title: "The Experiment Comes To An End"
 date: 2016-01-20
 categories:
-  - 2016
+  - "2016"
 ---
 
 I am pulling the plug on WeTheUsers at the end of the week. It's a curious feelingwalking away from something that's quite good, and that lots of other people told you was quite good.

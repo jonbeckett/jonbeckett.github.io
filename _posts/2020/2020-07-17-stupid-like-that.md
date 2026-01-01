@@ -3,7 +3,7 @@ layout: single
 title: "Stupid Like That"
 date: 2020-07-17
 categories:
-  - 2020
+  - "2020"
 ---
 
 After scraping myself out of bed this morning I knocked on Miss 15's bedroom door, and quietly enquired if she might be running. No answer. I then wandered down to Miss 19's room, knocked on the door, and repeated the enquiry - with similar results.

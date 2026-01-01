@@ -3,7 +3,7 @@ layout: single
 title: "The Return Of Thoughtcafe"
 date: 2007-06-16
 categories:
-  - 2007
+  - "2007"
 ---
 
 cross posted from PluggedOut

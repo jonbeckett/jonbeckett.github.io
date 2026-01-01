@@ -3,7 +3,7 @@ layout: single
 title: "November Nablopomo Nanowrimo"
 date: 2010-10-28
 categories:
-  - 2010
+  - "2010"
 ---
 
 It just occurred to me that the title of this post might make you wonder about my spelling skills. I obviously can't spell November at all. I can't even lay claim to one of the cats walking across the keyboard - they are nowhere to be seen.

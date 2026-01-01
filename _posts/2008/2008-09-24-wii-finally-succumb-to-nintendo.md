@@ -3,7 +3,7 @@ layout: single
 title: "Wii Finally Succumb To Nintendo"
 date: 2008-09-24
 categories:
-  - 2008
+  - "2008"
 ---
 
 At some point tomorrow a nice man sent from Amazon will deliver a large box to our doorstep at home containing a Nintendo Wii, and several games for it. The decision was not an easy one to make. For the first time in months we had some "play" money, and I thought long and hard about how to spend it.

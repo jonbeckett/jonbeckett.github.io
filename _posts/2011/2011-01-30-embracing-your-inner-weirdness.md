@@ -3,7 +3,7 @@ layout: single
 title: "Embracing Your Inner Weirdness"
 date: 2011-01-30
 categories:
-  - 2011
+  - "2011"
 ---
 
 While tangled up with the routine, chores, and requirements that fall upon us as expectation earlier, I became increasingly frustrated about the lack of time I get to pursue my own interests. Writing, reading, connecting with friends

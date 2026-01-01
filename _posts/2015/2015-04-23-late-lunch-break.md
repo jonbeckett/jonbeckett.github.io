@@ -3,7 +3,7 @@ layout: single
 title: "Late Lunch Break"
 date: 2015-04-23
 categories:
-  - 2015
+  - "2015"
 ---
 
 The project I have been working on for the last few weeks came screeching to a halt this morning because it became obvious that the client is working to a very different schedule. Suddenly a delivery date of a couple of days is looking more like a couple of months.

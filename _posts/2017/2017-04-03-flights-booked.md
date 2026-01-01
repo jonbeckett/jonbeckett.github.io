@@ -3,7 +3,7 @@ layout: single
 title: "Flights Booked"
 date: 2017-04-03
 categories:
-  - 2017
+  - "2017"
 ---
 
 Cutting a long and boring story very short indeed, this morning I have booked plane tickets and a hotel reservation to travel to Frankfurt in Germany with work. I'll be there for the best part of a week.

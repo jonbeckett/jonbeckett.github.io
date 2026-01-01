@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Eurovision Turned Into A Farce"
 date: 2014-05-12
 categories:
-  - 2014
+  - "2014"
 ---
 
 We got in from the girls dance show late on Saturday night, and sat down with a huge proportion of the rest of the nation to join in the annual idiotic spectacle that is the "Eurovision Song Contest". For those around the rest of the world, it's an annual competition where each country in Europe puts forward a band to play a song, and all of the countries get to vote.

@@ -3,7 +3,7 @@ layout: single
 title: "Goodbye Weekend"
 date: 2016-11-27
 categories:
-  - 2016
+  - "2016"
 ---
 
 It would have been nice to have seen more of this weekend. My other half has been sick, so I've spent the entire weekend washing and drying clothes, taking the children Christmas shopping for each other, dropping into the cinema to watch "Fantastic Beasts", washing dishes, tidying up, grocery shopping, and all the other mundane tasks that seem to eat up every weekend.

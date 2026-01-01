@@ -3,7 +3,7 @@ layout: single
 title: "Halloween"
 date: 2010-10-31
 categories:
-  - 2010
+  - "2010"
 ---
 
 Just to clear this up

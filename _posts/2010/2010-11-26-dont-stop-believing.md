@@ -3,7 +3,7 @@ layout: single
 title: "Dont Stop Believing"
 date: 2010-11-26
 categories:
-  - 2010
+  - "2010"
 ---
 
 Earlier this evening I heard a wonderful song from a more innocent age, and it got me thinking...

@@ -3,7 +3,7 @@ layout: single
 title: "Unintentionally Faking It"
 date: 2018-10-08
 categories:
-  - 2018
+  - "2018"
 ---
 
 After work this evening I wandered back to the hotel, got changed, and made my way up the street towards the faux American bar I've visited a few times during recent visits to Frankfurt - the one with the model railroad in the rafters, the fake signed guitars hanging on the walls, and numerous questionable quotes from famous musicians advertising various beverages. I think my favourite is one attributed to a member of the Black Eye'd Peas - assigning the existence of rock and roll to the existence of Jack Daniels.

@@ -3,7 +3,7 @@ layout: single
 title: "One Exam Down Four To Go"
 date: 2009-01-14
 categories:
-  - 2009
+  - "2009"
 ---
 
 I passed the first of my Microsoft exams this morning. The full title was "Microsoft .

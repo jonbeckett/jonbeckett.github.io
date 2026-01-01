@@ -3,7 +3,7 @@ layout: single
 title: "How To Not Get Followed By Me"
 date: 2010-10-15
 categories:
-  - 2010
+  - "2010"
 ---
 
 While doing a little social network expansion today, I've been looking at a lot of Twitter and Tumblr profiles. It occurred to me while reading that there are particular things that cause me to completely disregard a profile;

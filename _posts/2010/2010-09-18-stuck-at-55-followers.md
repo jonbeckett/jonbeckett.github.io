@@ -3,7 +3,7 @@ layout: single
 title: "Stuck At 55 Followers"
 date: 2010-09-18
 categories:
-  - 2010
+  - "2010"
 ---
 
 Maybe it has something to do with not posting anything recently - which has something to do with life and work taking over. Maybe.

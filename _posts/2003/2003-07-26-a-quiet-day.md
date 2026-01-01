@@ -3,7 +3,7 @@ layout: single
 title: "A Quiet Day"
 date: 2003-07-26
 categories:
-  - 2003
+  - "2003"
 ---
 
 It's Saturday afternoon and my only contribution to the world for the day (so far) was to walk into town this morning and buy a newspaper...

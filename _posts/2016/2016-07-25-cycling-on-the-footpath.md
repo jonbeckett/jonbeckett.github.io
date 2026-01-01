@@ -3,7 +3,7 @@ layout: single
 title: "Cycling On The Footpath"
 date: 2016-07-25
 categories:
-  - 2016
+  - "2016"
 ---
 
 While lying in bed listening to the radio alarm clock this morning, my other half sat up with a start, and nudged my shoulder.

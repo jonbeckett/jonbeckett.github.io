@@ -3,7 +3,7 @@ layout: single
 title: "Well Played Mr Astley"
 date: 2016-06-23
 categories:
-  - 2016
+  - "2016"
 ---
 
 One of my co-workers just informed whoever happened to be listening that Rick Astley has released a new album, and that it was at the top of the album charts. Given that I (quite proudly, in that curmudgeonly way people of a certain age can get away with) don't follow music at all any more, I expressed mock surprise, and set off towards the Amazon website to see what this new album might have on it.

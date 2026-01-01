@@ -3,7 +3,7 @@ layout: single
 title: "Amazon Wish List"
 date: 2010-09-29
 categories:
-  - 2010
+  - "2010"
 ---
 
 Some of the things on my Amazon Wish List

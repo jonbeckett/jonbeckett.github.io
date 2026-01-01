@@ -3,7 +3,7 @@ layout: single
 title: "The Day From Hell"
 date: 2006-10-17
 categories:
-  - 2006
+  - "2006"
 ---
 
 My body woke me at half hourly intervals between 3 and 6am this morning. So much for the idea of a finely tuned body clock.

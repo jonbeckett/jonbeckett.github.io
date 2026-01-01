@@ -3,7 +3,7 @@ layout: single
 title: "Inset Days Ftw"
 date: 2014-06-03
 categories:
-  - 2014
+  - "2014"
 ---
 
 While writing the title of this post, it occurred to me that I used to have real trouble assigning words to the letters "FTW"probably because the acronym is so similar to "WTF", and we all knowthose words. In this case, it means "For The Win", honest.

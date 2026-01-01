@@ -3,7 +3,7 @@ layout: single
 title: "I Am The Chessmaster "
 date: 2003-11-20
 categories:
-  - 2003
+  - "2003"
 ---
 
 I am a little enthused at the moment.

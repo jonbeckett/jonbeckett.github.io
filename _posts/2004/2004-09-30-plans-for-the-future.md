@@ -3,7 +3,7 @@ layout: single
 title: "Plans For The Future"
 date: 2004-09-30
 categories:
-  - 2004
+  - "2004"
 ---
 
 I'm caught in two minds this evening. Having finished building the PluggedOut Penpals website, I am very tempted to do a full-on profile/networking/blogging/forums site - or expand the penpals site to do it all; except of course I have run a site like that before, and come across all kinds of problems with people arguing.

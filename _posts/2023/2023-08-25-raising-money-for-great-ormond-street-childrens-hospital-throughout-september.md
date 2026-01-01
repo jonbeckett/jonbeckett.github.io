@@ -3,7 +3,7 @@ layout: single
 title: "Raising Money for Great Ormond Street childrens hospital throughout September"
 date: 2023-08-25
 categories:
-  - 2023
+  - "2023"
 ---
 
 Since doing the "Couch to 5K" in recent months, various charities have reached out to see if I might join them in their various fund-raising efforts. I finally signed up with Great Ormond Street children's hospital last night - a wonderful cause, and somewhat famous in England - J M Barrie donated the rights to "Peter Pan" to the hospital in 1929.

@@ -3,7 +3,7 @@ layout: single
 title: "Stepping Back From The Mayhem"
 date: 2010-09-26
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's Sunday afternoon, and I have been attempting to avoid anything work related for the day. It occurred to me late last night while tinkering with a freelance project that it's too easy to become focussed on making money, and only engaging in activities aimed towards that end.

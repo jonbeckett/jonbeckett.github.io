@@ -3,7 +3,7 @@ layout: single
 title: "In Between"
 date: 2022-07-25
 categories:
-  - 2022
+  - "2022"
 ---
 
 I've had the strangest feeling recently - that I'm in-between. Not just work projects, or chores, or whatever else. Something bigger. Something you can't quite describe, or relate to.

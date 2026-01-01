@@ -3,7 +3,7 @@ layout: single
 title: "Way Behind"
 date: 2006-05-18
 categories:
-  - 2006
+  - "2006"
 ---
 
 I know - I'm way behind with my blog.

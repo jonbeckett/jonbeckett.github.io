@@ -3,7 +3,7 @@ layout: single
 title: "Lunchtime Runs Out"
 date: 2004-07-06
 categories:
-  - 2004
+  - "2004"
 ---
 
 I've been sat here for the last five minutes thinking that I should really write a "proper" entry for my blog (after putting up the admittedly funny picture of Steve Ballmer this morning). I now have 10 minutes of my lunch break left, so I suppose I should just vent into the keyboard, and see what comes out  (that sounds disgusting, doesn't it).

@@ -3,7 +3,7 @@ layout: single
 title: "Thursday Night"
 date: 2020-10-22
 categories:
-  - 2020
+  - "2020"
 ---
 
 It's two minutes to midnight. I stopped work early this afternoon - I've been battling a cold I caught from the kids, and faced with writing a complicated document, decided to exercise some common sense. Of course this is me we're talking about - so rather than down tools completely, I sat quietly on the sofa with my laptop, and started putting a quiz together for tomorrow night.

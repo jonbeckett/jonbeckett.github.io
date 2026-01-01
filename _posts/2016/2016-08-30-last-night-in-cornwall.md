@@ -3,7 +3,7 @@ layout: single
 title: "Last Night In Cornwall"
 date: 2016-08-30
 categories:
-  - 2016
+  - "2016"
 ---
 
 After a final day spent on the beach (we really cannot believe the weather we have had), we wandered into Looe this evening and had a family meal together. We sat in a 400 year old building and were served good old-fashioned stodgy meals. Afterwards we wandered along the sea front to an amusement arcade and spent our remaining loose change winning all manner of junk.

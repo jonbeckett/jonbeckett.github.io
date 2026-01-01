@@ -3,7 +3,7 @@ layout: single
 title: "Crossing The Finish Line"
 date: 2018-11-14
 categories:
-  - 2018
+  - "2018"
 ---
 
 I wonder if it's against the rules to wrap up this idiotic escapade with a few words about the experience of taking part in NaNoWriMo ?

@@ -3,7 +3,7 @@ layout: single
 title: "Winning The Fundraiser Quiz Night"
 date: 2016-06-10
 categories:
-  - 2016
+  - "2016"
 ---
 
 You know that one where you call home from work, ask if you need to pick anything up on your way home, are requested to buy pizza for the kids because you've forgotten you're heading out, and then you drop in at the supermarket on the way home - buy requisite pizzas - and walk into the house to be greeted by world war three? That pretty much sums up the beginning of the evening.

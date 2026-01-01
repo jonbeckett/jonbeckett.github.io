@@ -3,7 +3,7 @@ layout: single
 title: "Experimenting With Pownce"
 date: 2008-03-02
 categories:
-  - 2008
+  - "2008"
 ---
 
 I am experimenting with the Pownce messaging service as perhaps an alternative or addition to a regular blog. I have written about Pownce at PluggedOut if you would like to know more about it.

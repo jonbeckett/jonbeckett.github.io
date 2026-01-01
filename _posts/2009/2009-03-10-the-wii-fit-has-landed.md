@@ -3,7 +3,7 @@ layout: single
 title: "The Wii Fit Has Landed"
 date: 2009-03-10
 categories:
-  - 2009
+  - "2009"
 ---
 
 After several months thinking about it, we finally succumbed and bought a Wii Fit last week - it arrived on Saturday morning. It was bought as a belated birthday present to myself, but "for everybody", because the cost was a little higher than the amount I might spend on myself.

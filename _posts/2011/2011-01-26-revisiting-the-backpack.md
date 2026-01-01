@@ -3,7 +3,7 @@ layout: single
 title: "Revisiting The Backpack"
 date: 2011-01-26
 categories:
-  - 2011
+  - "2011"
 ---
 
 I wrote a blog post last summer about the contents of my backpack while travelling with work. I thought it might be interesting to revisit it - six months on - and see what I carry at the moment - see how much it has changed.

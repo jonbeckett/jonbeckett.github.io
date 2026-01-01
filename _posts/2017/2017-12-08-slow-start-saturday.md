@@ -3,7 +3,7 @@ layout: single
 title: "Slow Start Saturday"
 date: 2017-12-08
 categories:
-  - 2017
+  - "2017"
 ---
 
 The radio alarm clock exploded into life at 7am, filling the bedroom with the local radio station, playing pre-recorded news from the big networks. I rolled over, groping for my phone on the bedside table, and spent a few moments squinting at the avalanche of notifications that had stacked up overnight - swiping them away one by one.

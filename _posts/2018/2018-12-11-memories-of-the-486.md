@@ -3,7 +3,7 @@ layout: single
 title: "Memories Of The 486"
 date: 2018-12-11
 categories:
-  - 2018
+  - "2018"
 ---
 
 One day, late in the autumn of 1991, my Dad floated the idea with me of selling the Atari ST, and buying a PC to replace it. We hadn't been using the Atari for it's original purpose - music production - for years, and it was obvious from the various magazines we occasionally bought where the future was headed. The Atari ST, and it's long-time rival, the Commodore Amiga, were fast becoming obsolete.

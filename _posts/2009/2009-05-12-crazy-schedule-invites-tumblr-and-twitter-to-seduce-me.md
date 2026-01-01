@@ -3,7 +3,7 @@ layout: single
 title: "Crazy Schedule Invites Tumblr And Twitter To Seduce Me"
 date: 2009-05-12
 categories:
-  - 2009
+  - "2009"
 ---
 
 You read the title correctly. Given the ever increasing demands on my time over the last month or so, the frequency and quality of my blog posts has hit an all time low. Coinciding with all of this, one of my greatest friends on the internet has switched to Tumblr, and most of my friends and colleagues are finally using Twitter.

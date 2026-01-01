@@ -3,7 +3,7 @@ layout: single
 title: "Another Day Another Adventure"
 date: 2016-02-16
 categories:
-  - 2016
+  - "2016"
 ---
 
 After waking up a little after 7 this morning, I dragged myself out of bed, stumbled off in the direction of the shower and re-enacted the morning scenes of the farmer in the "Shaun the Sheep" movie pretty accurately. Half an hour later I stood in the kitchen waiting for the kettle to boil, and for my eyes to focus on he sparkling ocean in the distance.

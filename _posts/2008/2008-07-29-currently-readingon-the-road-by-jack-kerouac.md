@@ -3,7 +3,7 @@ layout: single
 title: "Currently Readingon The Road By Jack Kerouac"
 date: 2008-07-29
 categories:
-  - 2008
+  - "2008"
 ---
 
 After hearing so much about "On The Road" over the years, I thought it was about time I read it - and while wandering around London at lunchtime I stumbled across "Books etc" on the London Wall Road near Moorgate. "On The Road" was in among their summer reads promotion.

@@ -3,7 +3,7 @@ layout: single
 title: "Surprises On Sunday"
 date: 2020-07-12
 categories:
-  - 2020
+  - "2020"
 ---
 
 It's Sunday morning (or rather, what's left of Sunday morning). We are heading out in an hour or so to a surprise destination with the kids. The local rugby club has started serving a barbecue at weekends, with socially distant tables, and an outdoor bar. You have to book tickets in advance, and we have a family ticket!

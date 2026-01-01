@@ -3,7 +3,7 @@ layout: single
 title: "Protests Public Nudity Breast Feeding And Prudishness"
 date: 2014-12-06
 categories:
-  - 2014
+  - "2014"
 ---
 
 I've been reading blog posts and news stories about the breast-feeding protest taking place outside Claridges in London today, and wondering what on earth has gone wrong with the world. Before anybody launches into a protest about me taking one side or the other, and encourages the world and it's dog to protest with them while insulting and defaming me, let me explain.

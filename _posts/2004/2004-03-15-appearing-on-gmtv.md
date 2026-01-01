@@ -3,7 +3,7 @@ layout: single
 title: "Appearing On Gmtv"
 date: 2004-03-15
 categories:
-  - 2004
+  - "2004"
 ---
 
 This morning my wife and I were up at 5am, and were picked up at just gone 6am for the trip to the GMTV studios.

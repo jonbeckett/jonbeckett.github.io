@@ -3,7 +3,7 @@ layout: single
 title: "One Chicken Down"
 date: 2013-01-10
 categories:
-  - 2013
+  - "2013"
 ---
 
 When I left the house this morning, I filled the chicken food bin, opened the door to their run, and only two appeared. Normally we don't worry about itthe remaining chicken is probably laying an egg. This morning something made me check, and there was no trace of her.

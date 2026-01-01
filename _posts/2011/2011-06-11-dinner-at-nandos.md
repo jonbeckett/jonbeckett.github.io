@@ -3,7 +3,7 @@ layout: single
 title: "Dinner At Nandos"
 date: 2011-06-11
 categories:
-  - 2011
+  - "2011"
 ---
 
 After a long day out, I suggested we take the children to Nando's for dinner. The look on W's face was a picture.

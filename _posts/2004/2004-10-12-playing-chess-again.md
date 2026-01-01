@@ -3,7 +3,7 @@ layout: single
 title: "Playing Chess Again"
 date: 2004-10-12
 categories:
-  - 2004
+  - "2004"
 ---
 
 After an uneventful journey home on the trains (which, miraculously connected as designed), I am home once more and sat in front of a bloody computer yet again...

@@ -3,7 +3,7 @@ layout: single
 title: "People Ruin Everything"
 date: 2020-09-09
 categories:
-  - 2020
+  - "2020"
 ---
 
 Slowly but surely, we're headed back towards lockdown - because some people think they know better than everybody else. And yes, I'm absolutely talking about the people who flew to overseas holidays this summer, or travelled long distances over land. Idiots.

@@ -3,7 +3,7 @@ layout: single
 title: "This Is My Filofax"
 date: 2016-07-04
 categories:
-  - 2016
+  - "2016"
 ---
 
 I happened upon a blog post about bullet journaling this evening - a retro inspired scheme to draw up lists in a paper notebook to somehow enforce order on a chaotic world. I watched the introductory video on Youtube, and read a couple of blog posts before deciding that it wasn't for me. Because, you see, I have a Filofax.

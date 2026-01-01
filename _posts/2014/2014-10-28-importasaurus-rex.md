@@ -3,7 +3,7 @@ layout: single
 title: "Importasaurus Rex"
 date: 2014-10-28
 categories:
-  - 2014
+  - "2014"
 ---
 
 I just pulled the last 2 years worth of personal blog posts back into here. Yes, I know I said I wasn't going to, but there's something strangely comforting about having 640-odd posts looming over your back like some kind of literary mountain.

@@ -3,7 +3,7 @@ layout: single
 title: "Ends And Beginnings"
 date: 2022-06-29
 categories:
-  - 2022
+  - "2022"
 ---
 
 My middle daughter officially finished college yesterday.

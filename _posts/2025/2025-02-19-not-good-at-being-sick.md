@@ -3,7 +3,7 @@ layout: single
 title: "Not good at being sick"
 date: 2025-02-19
 categories:
-  - 2025
+  - "2025"
 ---
 
 I’m not entirely sure where today has gone. One of the kids brought a pretty awful virus into the house, and it got me. I think this might be the first day I’ve had off work for over a year.

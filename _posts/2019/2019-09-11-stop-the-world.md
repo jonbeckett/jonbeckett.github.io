@@ -3,7 +3,7 @@ layout: single
 title: "Stop The World"
 date: 2019-09-11
 categories:
-  - 2019
+  - "2019"
 ---
 
 Having been back from holiday for a week and a half, I already feel like I need another holiday. It feels like I've been submerged since my return, and am losing the battle to reach the surface.

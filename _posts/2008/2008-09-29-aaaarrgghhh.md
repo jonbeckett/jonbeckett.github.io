@@ -3,7 +3,7 @@ layout: single
 title: "Aaaarrgghhh"
 date: 2008-09-29
 categories:
-  - 2008
+  - "2008"
 ---
 
 If you haven't read my earlier post about the most simple tasks becoming more complicated, perhaps the last few minutes might be a good example.

@@ -3,7 +3,7 @@ layout: single
 title: "Be Inspired By The Neighbors And Moleskine Notebooks"
 date: 2015-01-15
 categories:
-  - 2015
+  - "2015"
 ---
 
 I'll forgive the intentional spelling mistake in the title, because I'm guessing the majority of the people who might stumble upon this blog post are American (in England, we spell it "Neighbours" - don't ask me why. And yes, I'm English - with the accent and everything). I'm drifting off topic already. Today's exercise for the WordPress Blogging 101 course asks us the following; Write a post that builds on one of the comments you left yesterday. Don't forget to link to the other blog! As per usual, I'm not going to follow the rules to the letter - but I am going to call out a blog, and waffle on about paper notebooks. It's all Jana's fault, following herunexpectedly amazing comment on my last post (p.s. go read her blog - it's wonderful).

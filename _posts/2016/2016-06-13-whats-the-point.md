@@ -3,7 +3,7 @@ layout: single
 title: "Whats The Point"
 date: 2016-06-13
 categories:
-  - 2016
+  - "2016"
 ---
 
 After spending much of the weekend keeping the media at arms length, I felt it was time to write something at least to empty my head of the thoughts swirling around about the mayhem unfolding all over the place.

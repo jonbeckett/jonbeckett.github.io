@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning 9Am"
 date: 2018-09-22
 categories:
-  - 2018
+  - "2018"
 ---
 
 While out for dinner with the newly crowned Miss 18 and the rest of the family and in-laws last night, I suggested that I might take her to London today - to acquire the pair of Doc Marten boots she's had her eye on forever. It just so happens one of their factory stores is on Neal street - between Covent Garden, and Shaftesbury Avenue - a road we have walked many times because it leads to the comic book store.

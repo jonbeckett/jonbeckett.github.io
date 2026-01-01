@@ -3,7 +3,7 @@ layout: single
 title: "Its All About You"
 date: 2015-01-03
 categories:
-  - 2015
+  - "2015"
 ---
 
 While reading various posts published from the bowels of WordPress over the last few days, I happened upon a list of tips for those starting out. I used to take notice of the various tipsters, experts, and luminaries. I don't any more. I realised a blogcould be however you want it to be. If you're marketing a product, perhaps the rules are different, but that's not how blogs started - that's not what they really are.

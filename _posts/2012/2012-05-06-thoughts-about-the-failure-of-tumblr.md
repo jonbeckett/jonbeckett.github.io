@@ -3,7 +3,7 @@ layout: single
 title: "Thoughts About The Failure Of Tumblr"
 date: 2012-05-06
 categories:
-  - 2012
+  - "2012"
 ---
 
 I have been a member of Tumblr since it started. I have walked away and returned many times - each time drawn back by the relationships forged with people all over the world that would not have existed without the platform to share our lives so easily. Tumblr has never been perfect though - the creative minds behind it have almost wilfully designed a broken service. I can only speculate on their motives.

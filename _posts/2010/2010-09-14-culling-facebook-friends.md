@@ -3,7 +3,7 @@ layout: single
 title: "Culling Facebook Friends"
 date: 2010-09-14
 categories:
-  - 2010
+  - "2010"
 ---
 
 This lunchtime I culled my "friends" on Facebook pretty spectacularly - I realised I was losing touch with people I care about (in the real world, or online) because the vast majority of the news feed was filled with all manner of garbage from old school friends, ex colleagues, people I met at a party several years ago, extended family that I will never meet again, and so forth.

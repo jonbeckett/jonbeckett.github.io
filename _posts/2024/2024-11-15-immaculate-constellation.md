@@ -3,7 +3,7 @@ layout: single
 title: "Immaculate Constellation"
 date: 2024-11-15
 categories:
-  - 2024
+  - "2024"
 ---
 
 When I was young I was fascinated with science fiction movies. It's perhaps worth noting that I grew up before the internet - before video recorders even - so my childhood memories are of whatever happened to be shown on broadcast television.

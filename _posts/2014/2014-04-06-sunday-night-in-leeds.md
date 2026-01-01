@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Night In Leeds"
 date: 2014-04-06
 categories:
-  - 2014
+  - "2014"
 ---
 
 It's late on Sunday night, and I find myself in Leeds once more. In months past I would have described the journey herethrough London, and northwardas some kind of enormous adventure. It says something that I have learned enough about the journey now to make the entire thing unremarkable. Even packing the bags (which I did on Thursday night) has become routinenormal.

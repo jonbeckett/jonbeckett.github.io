@@ -3,7 +3,7 @@ layout: single
 title: "The Continuing Blackberry Saga"
 date: 2010-10-20
 categories:
-  - 2010
+  - "2010"
 ---
 
 While travelling back from Reading this afternoon on the train, I took it upon myself to install the Twitter application. Mistake. The phone killed itself with the same error as before; the error where you cannot start the phone, switch it off, or basically do anything with it until you have done a factory restore on it.

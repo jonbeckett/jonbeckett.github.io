@@ -3,7 +3,7 @@ layout: single
 title: "The One Where My Stomach Re Programmed My Brain"
 date: 2017-01-10
 categories:
-  - 2017
+  - "2017"
 ---
 
 I took the remains of last night's pizza with me to the office this morning - wrapped up in the sandwich bags I bought from the supermarket while waiting for the pizza to cook (and thinking myself tremendously clever for thinking of them).

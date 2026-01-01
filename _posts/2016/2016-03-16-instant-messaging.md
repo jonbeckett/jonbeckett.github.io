@@ -3,7 +3,7 @@ layout: single
 title: "Instant Messaging"
 date: 2016-03-16
 categories:
-  - 2016
+  - "2016"
 ---
 
 With a not-very-heavy heart at all, I'm removing KIK from my mobile phone today. I was only using it to keep in touch with a couple ofpeople, and even then perhaps once every other week for a two or three word conversation (does that even count as a conversation?).

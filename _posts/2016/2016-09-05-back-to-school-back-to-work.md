@@ -3,7 +3,7 @@ layout: single
 title: "Back To School Back To Work"
 date: 2016-09-05
 categories:
-  - 2016
+  - "2016"
 ---
 
 The alarm went off at 6:30am this morning, and we scraped ourselves out of bed. I jumped in the shower and had a shave, re-appearing in time to discover the younger children arguing about breakfast.

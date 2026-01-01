@@ -3,7 +3,7 @@ layout: single
 title: "Departures"
 date: 2019-01-24
 categories:
-  - 2019
+  - "2019"
 ---
 
 It's just gone 9am, and you find me sitting at a cafe in the departure lounge of Terminal 1 at Frankfurt Airport in Germany. My flight isn't for another couple of hours, but the rules say you need to arrive two hours before - so I arrive two hours before. Invariably you pass through check-in and security without incident, but I have been caught out in the past. Through a stunning lack of foresight, I tried to leave Germany once on the same day that every family in the surrounding area left for their easter holidays - you can only imagine the mayhem at the airport. I think I made it to the aircraft a minute before they closed the gate.

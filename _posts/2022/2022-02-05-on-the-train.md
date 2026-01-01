@@ -3,7 +3,7 @@ layout: single
 title: "On The Train"
 date: 2022-02-05
 categories:
-  - 2022
+  - "2022"
 ---
 
 I'm currently sitting on a train, watching the world hurtle past at quite some speed. After hiding in the junk room for the better part of two years toiling away on work projects, I'm re-locating to the coast for a week to help my parents. On my own.

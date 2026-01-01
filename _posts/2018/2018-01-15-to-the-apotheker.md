@@ -3,7 +3,7 @@ layout: single
 title: "To The Apotheker"
 date: 2018-01-15
 categories:
-  - 2018
+  - "2018"
 ---
 
 I learned something new this evening. After work I had a splitting headache, so thought "it's fine - I'll buy something to eat from the supermarket, and have a quiet night in the hotel room". I presumed that I would be able to buy headache tablets at the supermarket, just like at home. I was wrong. I left the supermarket with a bottle of multi-vitamin juice drink (read: all the leftovers poured into a huge bottle), pre-packed salad, some fruit, and a box of sushi.

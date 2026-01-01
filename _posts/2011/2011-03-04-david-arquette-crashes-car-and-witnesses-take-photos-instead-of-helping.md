@@ -3,7 +3,7 @@ layout: single
 title: "David Arquette Crashes Car And Witnesses Take Photos Instead Of Helping"
 date: 2011-03-04
 categories:
-  - 2011
+  - "2011"
 ---
 
 What the hell is happening to the world? This evening David Arquette was involved in a car crash, and the bystanders took photos of him rather than check he was ok. Then they sent the photos to the TMZ website.

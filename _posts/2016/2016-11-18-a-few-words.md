@@ -3,7 +3,7 @@ layout: single
 title: "A Few Words"
 date: 2016-11-18
 categories:
-  - 2016
+  - "2016"
 ---
 
 Here I am again - sitting in bed with the old netbook propped on my lap, writing this post in a text editor, rather than trust any of the clever-dick word processors, or online writing environments that so many seem to rely on.

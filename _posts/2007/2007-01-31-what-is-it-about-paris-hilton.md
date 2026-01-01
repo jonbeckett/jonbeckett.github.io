@@ -3,7 +3,7 @@ layout: single
 title: "What Is It About Paris Hilton"
 date: 2007-01-31
 categories:
-  - 2007
+  - "2007"
 ---
 
 Somebody needs to help me here. I am struggling - indeed, have struggled - to understand what the fascination is with Paris Hilton. What does the media see in her? What do the celebrity following public see in her?

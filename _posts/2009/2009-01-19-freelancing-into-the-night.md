@@ -3,7 +3,7 @@ layout: single
 title: "Freelancing Into The Night"
 date: 2009-01-19
 categories:
-  - 2009
+  - "2009"
 ---
 
 I live a strange existence at the moment. My daytimes are filled with either revision for Microsoft certification exams, or requests to add non-existent content to the company website. My evenings are filled with freelance web design work, system upgrades, and a hail of twitter posts bouncing off the windows.

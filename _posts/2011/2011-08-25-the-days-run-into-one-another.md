@@ -3,7 +3,7 @@ layout: single
 title: "The Days Run Into One Another"
 date: 2011-08-25
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's heading towards 2am. I should have been asleep hours ago, and yet here I amsat in the dark, listening to a Tim McGraw album, avoiding the internethaemorrhagingitself over the news from Apple (if you've been living under a rock, Steve Jobs resigned).

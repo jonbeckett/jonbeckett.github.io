@@ -3,7 +3,7 @@ layout: single
 title: "Big Brother Is Back"
 date: 2004-06-01
 categories:
-  - 2004
+  - "2004"
 ---
 
 Yes, that's right - the mind-numbing phenomenon that is Big Brother is back on our TV screens in the UK, so I have decided to make a website for it 

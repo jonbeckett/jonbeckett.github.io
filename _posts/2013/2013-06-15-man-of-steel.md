@@ -3,7 +3,7 @@ layout: single
 title: "Man Of Steel"
 date: 2013-06-15
 categories:
-  - 2013
+  - "2013"
 ---
 
 I had planned on taking our eldest daughter swimming this afternoonbut then the post arrived this morning with her school report, and all plans went out the window. It's only the mid-year report, but it was spectacularenough for us to all gather in the kitchen and throw all manner of praise at her."I think this report deserves something special""Like what?"A couple of hours later we found ourselves sat in the darkness with popcorn, chocolate, and fizzy drinks as a crumbling Krypton unfurled itself before us. "Man of Steel"perhapsthe movie of the summer.

@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Miss 17 Cut Her Own Hair"
 date: 2018-07-21
 categories:
-  - 2018
+  - "2018"
 ---
 
 When I came downstairs this morning I looked in on Miss 17 and reminded her that I had bought a subscription to "Crunchyroll" yesterday, which appeared to be enough to eject her out of bed. If you've never seen it, Crunchyroll is a streaming TV service that plays Anime. The younger children seemed pretty excited too - until they realised the shows are all subtitled - they can't read fast enough to keep up. She got up pretty damn quickly, and I half expected to find her wiping sleep from here eyes in the lounge - instead I found her looking in the mirror in the hallway.

@@ -3,7 +3,7 @@ layout: single
 title: "Christmas Day Ends"
 date: 2006-12-26
 categories:
-  - 2006
+  - "2006"
 ---
 
 As Christmas's go, this one was pretty good (apart from one thing that I will get to in a minute).

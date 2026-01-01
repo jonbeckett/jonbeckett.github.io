@@ -3,7 +3,7 @@ layout: single
 title: "Describing The Problem"
 date: 2006-08-29
 categories:
-  - 2006
+  - "2006"
 ---
 
 Ideas appear within my mind at the most unpredictable moments, and I am left wondering what the triggers are. This evening while cycling home from work an analogy appeared in my head by which I might better describe the complexity of my work to laypeople.

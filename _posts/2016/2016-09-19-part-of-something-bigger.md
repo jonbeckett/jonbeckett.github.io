@@ -3,7 +3,7 @@ layout: single
 title: "Part Of Something Bigger"
 date: 2016-09-19
 categories:
-  - 2016
+  - "2016"
 ---
 
 It often feels like I've written more than most, I've been around longer than most, and yet I've never really sought attention, or garnered any fame. I guess much of the reason for my relative obscurity is because I jumped platforms like a hot potatofrom WordPress, to LiveJournal, Yahoo 360, Blogger, Posterous, Tumblr, Vox, Ghost, Posthaven, Medium. You name it, I wrote there.

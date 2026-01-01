@@ -3,7 +3,7 @@ layout: single
 title: "Rising Like A Phoenix From The Flames"
 date: 2011-09-27
 categories:
-  - 2011
+  - "2011"
 ---
 
 Perhaps a week and a half after being pitched into mayhem I had no part in making, I have emerged today intact, and the project I impacted is spreading greenery and a pleasant atmosphere in much the same way as the genesis planet did in Star Trek II.

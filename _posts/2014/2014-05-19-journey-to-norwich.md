@@ -3,7 +3,7 @@ layout: single
 title: "Journey To Norwich"
 date: 2014-05-19
 categories:
-  - 2014
+  - "2014"
 ---
 
 After walking three miles to work, spending two hours there, and walking three miles home (not the best bit of planning I've ever done), I gathered my various bits and pieces together, and trudged off for a further mile to the local railway station.

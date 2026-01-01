@@ -3,7 +3,7 @@ layout: single
 title: "The Bloggers I Remember"
 date: 2012-02-10
 categories:
-  - 2012
+  - "2012"
 ---
 
 At lunchtime today I was flicking through Darren Rowse's "31 Days to Build a Better Blog" exercises, after passing the link on to a friend who is just starting out with their blog (it's a great series of exercises to get a blog off the ground, if you're wondering). While reading, I happened upon the "Make a List" exercise, and it got me thinking. Not enough thinking to doanything, but it sat there at the back of my brain all afternoon without my knowledge, forming plans.

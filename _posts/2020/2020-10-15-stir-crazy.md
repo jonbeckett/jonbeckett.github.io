@@ -3,7 +3,7 @@ layout: single
 title: "Stir Crazy"
 date: 2020-10-15
 categories:
-  - 2020
+  - "2020"
 ---
 
 Apart from the increasingly rare trips to the supermarket, and a walk to the park with my eldest daughter last weekend, I haven't left the house for perhaps three weeks. I get up each morning, have a shower, eat cereals, drink coffee, load the washing machine, hang clothes to dry, work throughout the day, help with dinner, wash up, then noodle around with the computer until I collapse into bed - day, after day, after day.

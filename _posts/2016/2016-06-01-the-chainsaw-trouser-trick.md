@@ -3,7 +3,7 @@ layout: single
 title: "The Chainsaw Trouser Trick"
 date: 2016-06-01
 categories:
-  - 2016
+  - "2016"
 ---
 
 When I got up this morning I looked outside and made the snap decision to not  wear shorts - for the first time in several days. As long as clients are not visiting the office, we're allowed to wear whatever we want (within reason, obviously). If clients are visiting, it's shirt and tie. I can typically be found in baggy combat shorts, and a nerdy t-shirt. I would like to say I choose the t-shirts based on my mood on a given day, but in reality I just grab the first clean t-shirt I find.

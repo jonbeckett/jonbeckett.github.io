@@ -3,7 +3,7 @@ layout: single
 title: "Remembering Thoughtcafe"
 date: 2017-01-10
 categories:
-  - 2017
+  - "2017"
 ---
 
 In early 2000, while learning about web development, I built a simple website for people to post stories to. The site began with a few pieces of writing of my own, and I then invited a few friends from the internet to contribute. It was like rolling a snowball down a snowy mountain-side. The site became known as "ThoughtCafe".

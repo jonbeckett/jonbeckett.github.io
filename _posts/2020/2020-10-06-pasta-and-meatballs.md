@@ -3,7 +3,7 @@ layout: single
 title: "Pasta And Meatballs"
 date: 2020-10-06
 categories:
-  - 2020
+  - "2020"
 ---
 
 I missed lunch again today. Actually - missed is a bit of an exaggeration. I was working on something more interesting than stopping and eating, so grabbed something quick to eat, and carried on. I'm struggling to remember the last time I properly stopped at lunchtime - perhaps a week ago when I went for a run and the heavens dumped spectacularly on me for half an hour.

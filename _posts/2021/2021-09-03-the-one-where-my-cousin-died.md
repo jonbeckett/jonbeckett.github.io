@@ -3,7 +3,7 @@ layout: single
 title: "The One Where My Cousin Died"
 date: 2021-09-03
 categories:
-  - 2021
+  - "2021"
 ---
 
 My cousin died yesterday morning. The one who's wedding I went to two weeks ago. The wedding was wonderful, but it was pretty obvious he didn't have long left. I'm guessing we'll be returning a lot sooner than we thought for the funeral.

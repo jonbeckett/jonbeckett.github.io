@@ -3,7 +3,7 @@ layout: single
 title: "Almost The Weekend"
 date: 2021-03-05
 categories:
-  - 2021
+  - "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90333146-baf5-45b5-9db7-894724f0ab74_1920x1280.jpeg" />

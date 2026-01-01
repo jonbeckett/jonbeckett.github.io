@@ -3,7 +3,7 @@ layout: single
 title: "Still Coughing Still Sniffing And Sneezing"
 date: 2007-12-05
 categories:
-  - 2007
+  - "2007"
 ---
 
 This is getting beyond a joke - I have now been ill for nearly a month and a half. I'm inclined to think that I have actually had three different colds back to back.

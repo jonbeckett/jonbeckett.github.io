@@ -3,7 +3,7 @@ layout: single
 title: "Uncertainty"
 date: 2012-03-29
 categories:
-  - 2012
+  - "2012"
 ---
 
 News broke this morning that the company I have been working with recently has had the carpet pulled from under it in a sudden and dramatic manner.

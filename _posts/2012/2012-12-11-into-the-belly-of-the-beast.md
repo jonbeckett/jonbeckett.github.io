@@ -3,7 +3,7 @@ layout: single
 title: "Into The Belly Of The Beast"
 date: 2012-12-11
 categories:
-  - 2012
+  - "2012"
 ---
 
 The title of this post isn't entirely true. I wasn't inside the belly of the beast at all... more "across the road" really.

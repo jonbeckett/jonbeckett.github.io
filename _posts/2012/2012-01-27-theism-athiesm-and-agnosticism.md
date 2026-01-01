@@ -3,7 +3,7 @@ layout: single
 title: "Theism Athiesm And Agnosticism"
 date: 2012-01-27
 categories:
-  - 2012
+  - "2012"
 ---
 
 After I got back from my run this morning, while stood in the kitchen making a cup of coffee I switched the television on and half caught a typical "Sunday Morning Religious Debate Show" - you know; the worst kind - where the producers have thrown two groups of people together that are going to argue, and dressed it up as some kind of "high brow" discussion programme.

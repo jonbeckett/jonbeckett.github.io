@@ -3,7 +3,7 @@ layout: single
 title: "The Christmas Party and a Sea of Santas"
 date: 2023-12-03
 categories:
-  - 2023
+  - "2023"
 ---
 
 It's been a few days again, hasn't it. I'm not entirely sure where to start.

@@ -3,7 +3,7 @@ layout: single
 title: "Other Peoples Lives"
 date: 2018-03-14
 categories:
-  - 2018
+  - "2018"
 ---
 
 While walking back from an emergency grocery shopping trip late this evening, I spotted a cafe that opens late, filled with people laughing, smiling, relaxing, and no doubt having all sorts of fun. As I trudged past with my bag of shopping, with the knowledge that my evening was far from over yet, I started to wonder how other people get to have lives like that - how they make it look so easy.

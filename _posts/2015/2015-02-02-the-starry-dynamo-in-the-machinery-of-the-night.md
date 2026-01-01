@@ -3,7 +3,7 @@ layout: single
 title: "The Starry Dynamo In The Machinery Of The Night"
 date: 2015-02-02
 categories:
-  - 2015
+  - "2015"
 ---
 
 For the last year I had grown increasingly disillusioned with the social internet, and it's much talked about power to make the world smaller - to connect people. I would often sit late at night high above the seething network, like some kind of reclusive Bruce Wayne figure, watching from a distance. Not really fitting in. Feeling waves of envy as groups of friends coalesced in bright burst of light, pouring life into the churning tumult.

@@ -3,7 +3,7 @@ layout: single
 title: "Home For The Weekend"
 date: 2011-12-10
 categories:
-  - 2011
+  - "2011"
 ---
 
 After a marathon three days living in a far flung hotel, wrestling with huge complexity all day, and feverishly working into the early hours each night, I finally returned home last night for the weekend.

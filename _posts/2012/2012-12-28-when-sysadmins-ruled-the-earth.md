@@ -3,7 +3,7 @@ layout: single
 title: "When Sysadmins Ruled The Earth"
 date: 2012-12-28
 categories:
-  - 2012
+  - "2012"
 ---
 
 I discovered "When SysAdmins Ruled the Earth" while looking at the ePub digital document format a couple of years ago. I was commuting into and out of London each day, and found myself dipping my toe into the ebook waters. It remains one of the best short stories I have ever read.

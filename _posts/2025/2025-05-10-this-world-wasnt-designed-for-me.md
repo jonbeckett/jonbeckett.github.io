@@ -3,7 +3,7 @@ layout: single
 title: "This world wasnt designed for me"
 date: 2025-05-10
 categories:
-  - 2025
+  - "2025"
 ---
 
 I woke a little after 8 this morning in the grip of the memory foam matress that had mysteriously absorbed my body during the night - forming an odd blacmange mould of my entire frame.

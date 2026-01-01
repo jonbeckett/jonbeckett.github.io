@@ -3,7 +3,7 @@ layout: single
 title: "50 Likes 50 Followers"
 date: 2014-06-08
 categories:
-  - 2014
+  - "2014"
 ---
 
 I must be doing something right with this whole blogging escapadealthough that being said, I have no excuses; I have been writing online since the idea of "blogging" first gained traction about fifteen years ago. I've been "around the block" in blogging terms.

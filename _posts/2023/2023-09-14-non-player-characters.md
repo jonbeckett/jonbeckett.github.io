@@ -3,7 +3,7 @@ layout: single
 title: "Non Player Characters"
 date: 2023-09-14
 categories:
-  - 2023
+  - "2023"
 ---
 
 I'm starting to think a long-standing joke among my family may have some truth to it. The route into town on foot crosses several road junctions - and while you may not see any traffic for entire minutes while walking on the footpath, as you approach junctions, cars "spawn in" within fifty yards of the junction - preventing my crossing. Or at least they do if I'm there. Even my other half has started to laugh about it - if I'm in the car and we approach a junction, we're going to be there for some time.

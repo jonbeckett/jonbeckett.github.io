@@ -3,7 +3,7 @@ layout: single
 title: "New And Interesting Insult"
 date: 2006-10-11
 categories:
-  - 2006
+  - "2006"
 ---
 
 I was just reading the comments to a post on Digg, and came across a new insult to hurl at people...

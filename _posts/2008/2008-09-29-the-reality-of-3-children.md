@@ -3,7 +3,7 @@ layout: single
 title: "The Reality Of 3 Children"
 date: 2008-09-29
 categories:
-  - 2008
+  - "2008"
 ---
 
 While recognising that it's becoming increasingly rare for me to write about family, our children, or life in general, I thought it might be timely to make a few observations on how life has changed from January this year - when we were a couple rattling around a big empty house - to today, when we have three adopted children, a house filled to the rafters with junk, and a negative amount of "free time".

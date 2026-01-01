@@ -3,7 +3,7 @@ layout: single
 title: "Returning To Tumblr"
 date: 2021-08-29
 categories:
-  - 2021
+  - "2021"
 ---
 
 I think it's fair to say I've had something of a chequered history with Tumblr. I've been here since the beginning of the platform, and have been both my own champion, and worst enemy - contributing slices of daily life, or vanishing for months or years.

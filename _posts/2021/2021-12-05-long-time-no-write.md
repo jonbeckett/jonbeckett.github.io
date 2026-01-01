@@ -3,7 +3,7 @@ layout: single
 title: "Long Time No Write"
 date: 2021-12-05
 categories:
-  - 2021
+  - "2021"
 ---
 
 Somehow a week has passed since the last blog post. I can't remember the last time that happened. I suppose I should really fall back on the John Lennon quote - "life is what happens while you're making other plans". I sometimes wonder if the quotes you commonly see attributed to various people are true - if they really said what people claim.

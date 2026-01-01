@@ -3,7 +3,7 @@ layout: single
 title: "Express Yourself"
 date: 2015-01-24
 categories:
-  - 2015
+  - "2015"
 ---
 
 For the past few weeks I have been taking part in the WordPress "Blogging 101" course, which I will freely admit I have used primarily to find new bloggers to read - and it has worked wonderfully. However - the 101 course leaves you to your own devices on weekends, which happens to coincide with the only time I really get to post anything consquence. There's got to be some irony in that somewhere.

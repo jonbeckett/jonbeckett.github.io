@@ -3,7 +3,7 @@ layout: single
 title: "The Millenium Falcon"
 date: 2015-12-22
 categories:
-  - 2015
+  - "2015"
 ---
 
 For our last hurrah of the year, we took the children to Legoland todaywe are fortunate that we live about half an hour away from the UK park, and they are open for a few days over the Christmas period. We ordered the tickets some time ago, with the opportunity of visiting Santa at the park. We delivered the news to the kids via the Scout Elf this morning, via a letter from the North Pole.

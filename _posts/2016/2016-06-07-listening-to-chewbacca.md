@@ -3,7 +3,7 @@ layout: single
 title: "Listening To Chewbacca"
 date: 2016-06-07
 categories:
-  - 2016
+  - "2016"
 ---
 
 When I sat down to write this blog post, I had all the intentions in the world of telling the story of the open night at the brewery - about how we had turned tail after work to walk to the brewery on the edge of town, and drank free beer all night - about how we had quietly waited in line to swap raffle tickets for pints of beer, and about how I had bought a (very expensive) bottle of Chase Vodka to bring home for my other half.

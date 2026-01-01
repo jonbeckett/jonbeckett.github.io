@@ -3,7 +3,7 @@ layout: single
 title: "Midnight In Paris For Valentines"
 date: 2012-02-14
 categories:
-  - 2012
+  - "2012"
 ---
 
 This afternoon a good friend asked if I was doing anything special for Valentines. Her bemused reaction to my amusement required an explanation.

@@ -3,7 +3,7 @@ layout: single
 title: "Homer Simpsons Car Exists"
 date: 2007-02-01
 categories:
-  - 2007
+  - "2007"
 ---
 
 Am I the only person in the world who can see the similarity between these two cars?

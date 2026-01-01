@@ -3,7 +3,7 @@ layout: single
 title: "Oblivious Idiot"
 date: 2025-01-21
 categories:
-  - 2025
+  - "2025"
 ---
 
 The clock will tick past 1am in 4 minutes. I’m sitting in bed, in the dark, tapping away on a laptop - running down the last bit of “awake” I have left.

@@ -3,7 +3,7 @@ layout: single
 title: "Apple Threaten To Close Itunes"
 date: 2008-10-01
 categories:
-  - 2008
+  - "2008"
 ---
 
 Yep. You read it right. Apple are threatening to close iTunes.

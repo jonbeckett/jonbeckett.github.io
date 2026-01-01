@@ -3,7 +3,7 @@ layout: single
 title: "Tuesday Morning At Starbucks With Ethanol Powered Rocket Scooters"
 date: 2012-07-17
 categories:
-  - 2012
+  - "2012"
 ---
 
 Yes, I know the title is rather spectacular. Keep reading - it will all make sense in the end.

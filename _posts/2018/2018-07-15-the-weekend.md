@@ -3,7 +3,7 @@ layout: single
 title: "The Weekend"
 date: 2018-07-15
 categories:
-  - 2018
+  - "2018"
 ---
 
 The weekend. Where to start? I suppose literary history tends to point towards "starting at the beginning", so that's what I'll do.

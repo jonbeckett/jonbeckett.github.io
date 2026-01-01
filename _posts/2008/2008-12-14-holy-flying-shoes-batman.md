@@ -3,7 +3,7 @@ layout: single
 title: "Holy Flying Shoes Batman"
 date: 2008-12-14
 categories:
-  - 2008
+  - "2008"
 ---
 
 Quite apart from being the most entertaining news story in ages, the shoe throwing attack on US President George Bush Jr is generating some of the funniest reporting ever;

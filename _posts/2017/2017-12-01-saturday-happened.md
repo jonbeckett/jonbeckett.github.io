@@ -3,7 +3,7 @@ layout: single
 title: "Saturday Happened"
 date: 2017-12-01
 categories:
-  - 2017
+  - "2017"
 ---
 
 I suppose, strictly speaking, Saturday isn't over yet. Having cleared the fridge ready for groceries to arrive (other half is out shopping right now), helped clear Miss 17's room up, and put yet another load in the washing machine, I'm finally sitting down to do nothing for an hour (he says, furiously typing this into the keyboard while a cup of coffee goes cold in front of him).

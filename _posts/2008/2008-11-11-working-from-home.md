@@ -3,7 +3,7 @@ layout: single
 title: "Working From Home"
 date: 2008-11-11
 categories:
-  - 2008
+  - "2008"
 ---
 
 An eventful day so far (and night).

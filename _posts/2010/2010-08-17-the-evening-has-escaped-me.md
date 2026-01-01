@@ -3,7 +3,7 @@ layout: single
 title: "The Evening Has Escaped Me"
 date: 2010-08-17
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's nearly 11pm. I've been constructing a virtual machine all evening (in Sun/Oracle VirtualBox), with Alpha Five and MySQL on it for an upcoming freelance development job.

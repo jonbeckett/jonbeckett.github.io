@@ -3,7 +3,7 @@ layout: single
 title: "Change Is Good"
 date: 2015-08-08
 categories:
-  - 2015
+  - "2015"
 ---
 
 It feels like we've been here before. Several times. I guess at least this time there is a reason for the scorched earth goings on, and the migration between blogs with different names. It's a reason cloaked in obsessive compulsive behaviour, but at least it's a reason, and that's good, right?

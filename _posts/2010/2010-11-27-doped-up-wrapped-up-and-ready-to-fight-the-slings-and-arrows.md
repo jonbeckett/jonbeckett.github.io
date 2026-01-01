@@ -3,7 +3,7 @@ layout: single
 title: "Doped Up Wrapped Up And Ready To Fight The Slings And Arrows"
 date: 2010-11-27
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's Saturday morning, I'm doped up on "Max Strength" cold and flu remedy, wrapped up like an eskimo, and facing the prospect of taking the children to the local primary school "Christmas Bazaar" after lunch, where Mrs B is running the Grotto, and doing face painting.

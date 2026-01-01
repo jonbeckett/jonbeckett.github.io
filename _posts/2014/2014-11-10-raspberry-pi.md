@@ -3,7 +3,7 @@ layout: single
 title: "Raspberry Pi"
 date: 2014-11-10
 categories:
-  - 2014
+  - "2014"
 ---
 
 I just ordered a Raspberry Pi model B+ from Amazon, for delivery to work later in the week. I have no idea why I have ordered it. I have no real use for it, other than the "excuse" of teaching the kids how computers work - but I could do that without a Raspberry Pi.

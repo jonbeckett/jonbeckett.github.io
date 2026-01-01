@@ -3,7 +3,7 @@ layout: single
 title: "Another Day Starts"
 date: 2007-07-12
 categories:
-  - 2007
+  - "2007"
 ---
 
 My watch ticks past 7am, and I sit on the train once more waiting to leave Marlow - bound for London. A light rain is falling, moistening the air. The world is "soft".

@@ -3,7 +3,7 @@ layout: single
 title: "Off The Radar"
 date: 2016-10-13
 categories:
-  - 2016
+  - "2016"
 ---
 
 I looked at my mobile phone a few minutes ago - it's still reading over 80% battery charge remaining. This wouldn't normally be that remarkable, only the phone hasn't been on charge since 7am this morning - 15 hours ago. I have received little or no email today, no text messages, no instant messages, and no private messages from social networks. This is what it must feel like to wear Harry Potter's invisibility cloak.

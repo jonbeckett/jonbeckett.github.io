@@ -3,7 +3,7 @@ layout: single
 title: "A Second Visit To Azeroth"
 date: 2012-01-31
 categories:
-  - 2012
+  - "2012"
 ---
 
 After dinner yesterday evening I suggested to my better half (having taken a brief look at World of Warcraft last weekend) that it might be a better chill out game than the endless succession of "run your own cake shop" games she has been playing late at night on the iPad.

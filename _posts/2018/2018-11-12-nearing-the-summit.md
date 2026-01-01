@@ -3,7 +3,7 @@ layout: single
 title: "Nearing The Summit"
 date: 2018-11-12
 categories:
-  - 2018
+  - "2018"
 ---
 
 I'm not really sure why I'm trying to write fifty thousand words during November any more - I'm just kind of "doing it", because I thought it would be a romantic, or eccentric thing to do - something to tick off the bucket list.

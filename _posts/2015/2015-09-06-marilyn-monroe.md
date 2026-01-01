@@ -3,7 +3,7 @@ layout: single
 title: "Marilyn Monroe"
 date: 2015-09-06
 categories:
-  - 2015
+  - "2015"
 ---
 
 My other half arrived home from her Mum's late last night with a bag of things that had belonged to her Dad that she thought I might be interested in. Among them was the book"Marilyn" by Norman Mailer. I recognised the cover immediately, and pulled my copy from the bookshelf at the end of the room.

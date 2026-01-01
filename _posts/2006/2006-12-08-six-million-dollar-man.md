@@ -3,7 +3,7 @@ layout: single
 title: "Six Million Dollar Man"
 date: 2006-12-08
 categories:
-  - 2006
+  - "2006"
 ---
 
 Sorry for the absence of a "real" post this evening, but I just came across this on YouTube, and had to share it;

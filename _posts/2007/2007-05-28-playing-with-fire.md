@@ -3,7 +3,7 @@ layout: single
 title: "Playing With Fire"
 date: 2007-05-28
 categories:
-  - 2007
+  - "2007"
 ---
 
 On Friday night I installed a "Massively Multiplayer Online Role Playing Game" (MMORPG) on W's laptop called "Dofus" for her to try out. At the time she said "Are you sure this is a wise thing to give me?", and I laughed. I should perhaps have listened...

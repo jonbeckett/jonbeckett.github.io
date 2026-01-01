@@ -3,7 +3,7 @@ layout: single
 title: "Remember The Milk"
 date: 2008-08-28
 categories:
-  - 2008
+  - "2008"
 ---
 
 In a battle to somehow simplify and also organise my chaotic life somewhat, I have been trying out a task list thingy on the internet called "Remember the Milk". Lots of people swear by it (or at it), so in the grand tradition of trying everything and it's dog out (which sounds perverted), I am doing so.

@@ -3,7 +3,7 @@ layout: single
 title: "10 Random Questions And Answers"
 date: 2012-07-29
 categories:
-  - 2012
+  - "2012"
 ---
 
 If you could change something about your home, without worry about expense or mess, what would you do?

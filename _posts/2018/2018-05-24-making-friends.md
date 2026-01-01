@@ -3,7 +3,7 @@ layout: single
 title: "Making Friends"
 date: 2018-05-24
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's Friday night, I'm on my second glass of wine, and I have the prospect of a week off stretched ahead of me like a glorious savannah full of possibilities. Of course we know that by Tuesday I'll be writing a bitter account of cutting the lawn, the privet hedge, and making numerous trips to the rubbish dump, but that's not the point. At the moment, the immediate future involves wine, and unfounded optimism. Surely the best foundations for a few days off work.

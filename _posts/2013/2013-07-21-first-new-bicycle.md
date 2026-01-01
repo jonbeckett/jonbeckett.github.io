@@ -3,7 +3,7 @@ layout: single
 title: "First New Bicycle"
 date: 2013-07-21
 categories:
-  - 2013
+  - "2013"
 ---
 
 I took our eldest to the bike shop in town yesterday morning to "look" at mountain bikes. She had no idea that I had already agreed a budget, and we might possibly buy a new bike there and then and we did. We were lucky really; the first bike we look at after walking into the shop was on offeran end of line model from Dawes."Shall we buy it then?""What? Right now!"The look on her face was priceless."You're going to need a new helmet too, aren't you."Again the look of shock on her face was worth every penny. Fifteen minutes after setting foot in the shop, we left with the bike, a helmet, a lock, and the biggest smile in the known universe.

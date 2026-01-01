@@ -3,7 +3,7 @@ layout: single
 title: "Hunted Idiocy Abounds"
 date: 2016-09-27
 categories:
-  - 2016
+  - "2016"
 ---
 
 I started watching a television show this evening called "Hunted", where a group of people are given the opportunity to try and win 100,000 by "not getting caught" for 28 days. In the show, a team of "experts" are supposedly using modern methods to track the individuals from their starting point in the middle of a city. Each of the people being hunted has a cameraman with them, and access to a bank account with 250 in it. They can also call on the help of family and friends.

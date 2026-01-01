@@ -3,7 +3,7 @@ layout: single
 title: "My Writing Routine"
 date: 2022-01-28
 categories:
-  - 2022
+  - "2022"
 ---
 
 I thought it might interest others to learn how I go about this whole blogging escapade. How I write, what I use, how I post - that kind of thing.

@@ -3,7 +3,7 @@ layout: single
 title: "The Beatles And Itunes"
 date: 2008-11-25
 categories:
-  - 2008
+  - "2008"
 ---
 
 The news broke today that the deal to put The Beatles catalogue of music onto iTunes has fallen through - after TWO YEARS of negotiations.

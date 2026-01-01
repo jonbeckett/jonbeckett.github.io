@@ -3,7 +3,7 @@ layout: single
 title: "The World Of The Small"
 date: 2007-04-21
 categories:
-  - 2007
+  - "2007"
 ---
 
 It's a wonderful afternoon in the UK - the sun is out, birds are singing, and things are growing in the garden. I grabbed the camera, switched it onto "macro" (hence the title of this post), and had a wander around our back garden - here are the results...

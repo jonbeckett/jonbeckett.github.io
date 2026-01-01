@@ -3,7 +3,7 @@ layout: single
 title: "Weekend Stories"
 date: 2023-05-27
 categories:
-  - 2023
+  - "2023"
 ---
 
 Here we go again.

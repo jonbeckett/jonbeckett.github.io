@@ -3,7 +3,7 @@ layout: single
 title: "Warning Overload Warning Overload"
 date: 2011-01-13
 categories:
-  - 2011
+  - "2011"
 ---
 
 For the last week or so I have been working on a pretty significant software development project for the future. It didn't start out that complicated - what it's doing isn't thatcomplicated, but what you can do with it iscomplicated, and it's doing my head in.

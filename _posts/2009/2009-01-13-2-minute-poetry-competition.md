@@ -3,7 +3,7 @@ layout: single
 title: "2 Minute Poetry Competition"
 date: 2009-01-13
 categories:
-  - 2009
+  - "2009"
 ---
 
 While kicking back, drinking our coffee, and putting the world to rights, myself and a colleague invented a rather fetching poem...

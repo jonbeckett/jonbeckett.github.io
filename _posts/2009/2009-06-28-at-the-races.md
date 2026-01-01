@@ -3,7 +3,7 @@ layout: single
 title: "At The Races"
 date: 2009-06-28
 categories:
-  - 2009
+  - "2009"
 ---
 
 We went to the horse racing at Windsor Royal Race Course today with some friends - first time I have ever been to a horse race, race track, or anything like it really. W looked after betting on the races, and we came home a little better off than when we arrived. More to do with luck than any grand system.

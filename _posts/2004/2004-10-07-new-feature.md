@@ -3,7 +3,7 @@ layout: single
 title: "New Feature"
 date: 2004-10-07
 categories:
-  - 2004
+  - "2004"
 ---
 
 The Blog script has progressed to version 1.6.2 this evening with a new feature;

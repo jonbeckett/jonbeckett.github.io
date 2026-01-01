@@ -3,7 +3,7 @@ layout: single
 title: "Falling Off A Rowing Machine"
 date: 2018-06-16
 categories:
-  - 2018
+  - "2018"
 ---
 
 I'm not quite sure how it happened. One moment I was finding out just how difficult rowing might be, and the next the seat had slipped from under me, and I was propping myself off the floor by one arm - much to the delight of my daughter, who continued rowing alongside, despite nearly wetting herself in an explosion of laughter that caused everybody surrounding us to begin watching.

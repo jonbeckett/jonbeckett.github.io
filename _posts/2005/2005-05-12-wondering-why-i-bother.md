@@ -3,7 +3,7 @@ layout: single
 title: "Wondering Why I Bother"
 date: 2005-05-12
 categories:
-  - 2005
+  - "2005"
 ---
 
 I really can't figure the world out sometimes. I posted to the linux community on LiveJournal earlier about my CMS project, and rather than getting other open source developers having a look and giving constructive comment, the people that have looked have been hostile...

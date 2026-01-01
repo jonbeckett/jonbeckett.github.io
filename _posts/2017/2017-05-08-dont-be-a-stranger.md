@@ -3,7 +3,7 @@ layout: single
 title: "Dont Be A Stranger"
 date: 2017-05-08
 categories:
-  - 2017
+  - "2017"
 ---
 
 Over the past couple of days I began todoubt if my membership of Second Life might go anywhere. I logged in a couple of times, but as is usual, life the universe and everything dumped on me, and I struggled to remain online for more than a few moments. I began to wonder if it was really worth the effort - not only reaching out to the community that inhabits the virtual world, but also the work required to build relationships with people I will almost certainly never meet.

@@ -3,7 +3,7 @@ layout: single
 title: "Wednesday"
 date: 2023-11-01
 categories:
-  - 2023
+  - "2023"
 ---
 
 The last few days have been ever-so-slightly stressful - or rather, our youngest daughter has been learning the hard way about just how manipulative, nasty, and two-faced people can be. Thankfully she's pretty level headed, but I imagine it's still hurtful and confusing to continually find yourself in the middle of other people's mayhem. Add to that a large helping of unwanted attention from predatory boys at college, and she's just about had enough this week.

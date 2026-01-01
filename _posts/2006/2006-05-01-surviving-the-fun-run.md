@@ -3,7 +3,7 @@ layout: single
 title: "Surviving The Fun Run"
 date: 2006-05-01
 categories:
-  - 2006
+  - "2006"
 ---
 
 I took part in a 4.5 mile "fun run" in Oxfordshire this morning. I would like to say I did well, but that would be a bare faced lie.

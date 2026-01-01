@@ -3,7 +3,7 @@ layout: single
 title: "Asus Eee Pc"
 date: 2008-05-15
 categories:
-  - 2008
+  - "2008"
 ---
 
 After finding out that I will be travelling into London again as of next week, I lashed out on a replacement for the Macbook (which has become a "family" computer) to hopefully keep me sane while sat on the train.

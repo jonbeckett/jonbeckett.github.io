@@ -3,7 +3,7 @@ layout: single
 title: "The Failings Of Facebook And Twitter"
 date: 2010-02-03
 categories:
-  - 2010
+  - "2010"
 ---
 
 Over the past few days I've been thinking a lot about social networks - perhaps triggered by the reaction to my recent post about community, and children. I hinted that social networking was in many waysa part of the problem with modern society, and the breaking down of community.

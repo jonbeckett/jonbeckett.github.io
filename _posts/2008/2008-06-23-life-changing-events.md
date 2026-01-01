@@ -3,7 +3,7 @@ layout: single
 title: "Life Changing Events"
 date: 2008-06-23
 categories:
-  - 2008
+  - "2008"
 ---
 
 Today I talked to my employers about the effects my extended absence is having on the children. I voiced my concerns.

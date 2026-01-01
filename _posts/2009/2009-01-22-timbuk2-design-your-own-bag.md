@@ -3,7 +3,7 @@ layout: single
 title: "Timbuk2 Design Your Own Bag"
 date: 2009-01-22
 categories:
-  - 2009
+  - "2009"
 ---
 
 While hunting around the Moo Cards website, I happened upon "Timbuk2" - a company that makes bags...

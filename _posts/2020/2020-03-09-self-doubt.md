@@ -3,7 +3,7 @@ layout: single
 title: "Self Doubt"
 date: 2020-03-09
 categories:
-  - 2020
+  - "2020"
 ---
 
 Buried deep beneath the layers of fake confidence I have covered myself with over the years, I'm really still the same little boy that watched all the popular kids from a distance in the playground. The thing that continues to surprise me - as an adult - is how quickly the carefully constructed facade falls away, and the triggers that cause it to do so.

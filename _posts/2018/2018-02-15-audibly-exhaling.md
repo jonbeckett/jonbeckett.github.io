@@ -3,7 +3,7 @@ layout: single
 title: "Audibly Exhaling"
 date: 2018-02-15
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's late on Friday evening, and I'm racing to write a blog post before Friday becomes Saturday. It's not so much a case of wondering where the evening went, or where the day went - more a case of where on earth the entire week went. I realised earlier that I haven't even written this week into the Bullet Journal.

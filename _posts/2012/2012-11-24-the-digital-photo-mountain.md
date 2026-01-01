@@ -3,7 +3,7 @@ layout: single
 title: "The Digital Photo Mountain"
 date: 2012-11-24
 categories:
-  - 2012
+  - "2012"
 ---
 
 Over the last 12 years I have amassed something in the region of 45000 digital photos (and that number grows by several hundred every time we leave the house with the kids for a "day out"). The only attempt at "organisation" has been dumping the photos into dated folders each time we empty the camera, phone, or whatever device it happened to be.

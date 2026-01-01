@@ -3,7 +3,7 @@ layout: single
 title: "To Begin Again"
 date: 2008-12-28
 categories:
-  - 2008
+  - "2008"
 ---
 
 As the new year approaches, an email has arrived inviting me to renew the hosting account for "The Enormous Waste of Webspace" - the site that has housed my personal blog on the internet for the past ten months or so. I'm wondering what benefits are really derived from hosting my own blog. The temptation to transfer the posts to a generic wordpress blog is a strong one.

@@ -3,7 +3,7 @@ layout: single
 title: "One Virtual World"
 date: 2025-10-10
 categories:
-  - 2025
+  - "2025"
 ---
 
 Today’s WordPress writing prompt asks who you might give a million dollars to, if you had a million dollars to give away.

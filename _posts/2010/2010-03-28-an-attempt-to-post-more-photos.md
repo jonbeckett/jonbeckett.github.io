@@ -3,7 +3,7 @@ layout: single
 title: "An Attempt To Post More Photos"
 date: 2010-03-28
 categories:
-  - 2010
+  - "2010"
 ---
 
 While reading other people's blogs I always find myself making mental notes to take more photos - and to share more of them. This is an attempt to do just that - with a little text to accompany. Enjoy!

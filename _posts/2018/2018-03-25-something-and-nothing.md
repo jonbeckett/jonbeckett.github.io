@@ -3,7 +3,7 @@ layout: single
 title: "Something And Nothing"
 date: 2018-03-25
 categories:
-  - 2018
+  - "2018"
 ---
 
 After a weekend filled with stress, arguments, standing on rugby pitch touchlines, school fundraisers, doing endless chores, and then being accused of doing nothing, it's almost a relief that the world seems to have calmed down somewhat today.

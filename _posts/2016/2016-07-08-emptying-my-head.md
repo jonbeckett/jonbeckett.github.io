@@ -3,7 +3,7 @@ layout: single
 title: "Emptying My Head"
 date: 2016-07-08
 categories:
-  - 2016
+  - "2016"
 ---
 
 It's been a pretty brutal week, and I'm more than happy the weekend has arrived. I thought about describing exactly what I've been working on in the daytime, but fear it might cause you to doze off instantaneously. Or pull your own eyeballs out. Not sure which.

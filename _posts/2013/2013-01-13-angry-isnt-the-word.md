@@ -3,7 +3,7 @@ layout: single
 title: "Angry Isnt The Word"
 date: 2013-01-13
 categories:
-  - 2013
+  - "2013"
 ---
 
 This morning our eldest daughter stood at the side of a football pitch for an hour while the rest of the team played. She stood in near freezing temperatures, physically shaking. During the game the coach told her one story, and at the end of the game he told me another story. I'm guessing he didn't realise I might actually talk to my child as she cried on the way homeor that everybody that watched or was involved in the game realised what they had just seen.

@@ -3,7 +3,7 @@ layout: single
 title: "Some Mornings Just Happen Like That"
 date: 2010-12-06
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's 8:55am, I'm sat in the office, so I'm guessing writing 750 words this morning is going to make me 10 minutes late (at minimum) starting work... ah well. I have a pretty defined set of goals to meet this week, so it should be fairly straightforward. I can always work through a part of lunch.

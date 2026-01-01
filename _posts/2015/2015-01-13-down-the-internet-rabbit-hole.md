@@ -3,7 +3,7 @@ layout: single
 title: "Down The Internet Rabbit Hole"
 date: 2015-01-13
 categories:
-  - 2015
+  - "2015"
 ---
 
 I just registered this blog at Bloglovin. I'm still undecided if I have placed one foot on a polished slide that heads straight to the depths of blogging hell, or if this will be a wonderfulavenue towards discovery ofawesome people. Maybe it's a bit of both.

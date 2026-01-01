@@ -3,7 +3,7 @@ layout: single
 title: "Fresh Air Hills And Crashing Waves"
 date: 2016-02-14
 categories:
-  - 2016
+  - "2016"
 ---
 
 After a trip out to the pub with my parents earlier for lunch, I noticed the sky was slowly clearing, and asked the kids who would like to have a walk down to the sea. Two raised their hands immediatelythe third was engrossed in the unfolding rugby match between England and Italy and wasn't about to go anywhere.

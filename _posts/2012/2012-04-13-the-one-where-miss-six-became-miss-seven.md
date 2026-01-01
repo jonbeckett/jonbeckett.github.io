@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Miss Six Became Miss Seven"
 date: 2012-04-13
 categories:
-  - 2012
+  - "2012"
 ---
 
 I woke this morning at 7am, and figured I had at least another three quarters of an hour before getting up. To be honest, I was surprised the kids didn't wake up at stupid oclock, given that they all knew it was our youngest's birthday. They finally woke at 7:45, and immediately led the charge into our room.

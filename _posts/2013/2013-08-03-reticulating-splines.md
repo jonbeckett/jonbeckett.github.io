@@ -3,7 +3,7 @@ layout: single
 title: "Reticulating Splines"
 date: 2013-08-03
 categories:
-  - 2013
+  - "2013"
 ---
 
 If you're wondering what on earth this post is all about, join the clubI don't have a clue either. The title is a reference to the loading screen of Sim City, where it would throw up various intelligent sounding status messages, which in reality meant nothing at all. Not really knowing why is kind of the guiding principle behind my blogging really, so it seems apt.

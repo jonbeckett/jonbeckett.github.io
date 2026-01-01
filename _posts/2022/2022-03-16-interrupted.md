@@ -3,7 +3,7 @@ layout: single
 title: "Interrupted"
 date: 2022-03-16
 categories:
-  - 2022
+  - "2022"
 ---
 
 This morning a gas engineer arrived to do a service on our boiler. No sooner had he arrived, the boiler started throwing error codes - triggering the most amusing jobsworth description I've heard in some time - "I'm only here to service - not to diagnose faults" .

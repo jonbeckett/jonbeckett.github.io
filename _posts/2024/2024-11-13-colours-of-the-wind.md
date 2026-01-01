@@ -3,7 +3,7 @@ layout: single
 title: "Colours of the Wind"
 date: 2024-11-13
 categories:
-  - 2024
+  - "2024"
 ---
 
 Against all expectation, I'm starting to understand not continually running from one thing to the next. It's interesting though - this "finding a balance" lark - there was a temptation to sit in the nice warm house this morning and not go anywhere - not do anything. I failed.

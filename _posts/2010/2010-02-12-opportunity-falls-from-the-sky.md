@@ -3,7 +3,7 @@ layout: single
 title: "Opportunity Falls From The Sky"
 date: 2010-02-12
 categories:
-  - 2010
+  - "2010"
 ---
 
 Over the past few days a couple of emails have fallen into my in-box requesting help with website design and development projects. Their arrival got me thinking.

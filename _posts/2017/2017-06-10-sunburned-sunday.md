@@ -3,7 +3,7 @@ layout: single
 title: "Sunburned Sunday"
 date: 2017-06-10
 categories:
-  - 2017
+  - "2017"
 ---
 
 It's been a pretty long day. After over-sleeping for the first time in months and not arriving downstairs until 10am, I jumped straight in the shower, had a shave, and then set about clearing the wreckage in the kitchen from Miss 13 baking a cake for the carnival baking competition.

@@ -3,7 +3,7 @@ layout: single
 title: "Rugby Trophy Moms Fashion Blogs And Grumpy Old Men"
 date: 2016-05-28
 categories:
-  - 2016
+  - "2016"
 ---
 
 It's 3:30pm on Saturday afternoon. I am supposed to be cutting the lawn, but the lawn mower has decided to stop working. I've busied myself with repeatedly filling the washing machine and hanging washing out to dry instead. I guess we'll have to call the guy that services lawn mowers. More money. I'll try not to think too much about that.

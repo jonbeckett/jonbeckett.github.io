@@ -3,7 +3,7 @@ layout: single
 title: "Just A Few Words"
 date: 2007-11-13
 categories:
-  - 2007
+  - "2007"
 ---
 
 Just a few words today before heading out into the rain on the streets of London to find something to eat.

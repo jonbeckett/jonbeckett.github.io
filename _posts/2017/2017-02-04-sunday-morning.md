@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning"
 date: 2017-02-04
 categories:
-  - 2017
+  - "2017"
 ---
 
 After an early night to give my body every chance possible of fighting off the virus that's been hanging over it for the last week, I slid out of bed a little before 8 this morning, had a shower, shave, brushed my teeth, made a cup of tea, and then started looking for clothes to re-pack my bag. I still feel awful, but I'm hoping a quiet day at home will help in some way.

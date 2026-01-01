@@ -3,7 +3,7 @@ layout: single
 title: "A Few Days Away"
 date: 2019-08-22
 categories:
-  - 2019
+  - "2019"
 ---
 
 Tomorrow morning we fill the car with bags, and head to the coast to spend a few days with my parents. I'm not entirely sure I'll be posting to the blog while away, so this might be the last words you see from me for the better part of a week.

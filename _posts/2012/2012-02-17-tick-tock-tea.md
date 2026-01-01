@@ -3,7 +3,7 @@ layout: single
 title: "Tick Tock Tea"
 date: 2012-02-17
 categories:
-  - 2012
+  - "2012"
 ---
 
 While out on a secret shopping trip in town to compile goodies for an even more secret parcel I'll be sending to a friend, I spied something. Something I haven't seen for some time, and that I used to like a lot.

@@ -3,7 +3,7 @@ layout: single
 title: "Kasparov Arrested"
 date: 2007-11-26
 categories:
-  - 2007
+  - "2007"
 ---
 
 The former Chess world champion Garry Kasparov has been arrested in Russia for daring to take part in a march against Vladimir Putin.

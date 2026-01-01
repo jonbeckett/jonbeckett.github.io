@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning"
 date: 2016-06-12
 categories:
-  - 2016
+  - "2016"
 ---
 
 I woke a little after 7 this morning, looked at the bedside clock, and quietly wondered how long I could get away with not getting up for. After perhaps half an hour, the curious part of my brain that whispers "you're wasting the weekend" instructed my body to scrape itself out of bed. Ten minutes later I got out of the shower, found some toothpaste (it turns out my other half stole mine when she packed her wash-bag to go camping), and then set about the most important activity of the morning - making coffee.

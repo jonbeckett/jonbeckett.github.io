@@ -3,7 +3,7 @@ layout: single
 title: "Packing Bags"
 date: 2022-02-04
 categories:
-  - 2022
+  - "2022"
 ---
 
 Tomorrow morning I leave for the coast. After a short walk to the local railway station I will board a succession of trains and buses that will (hopefully) deliver me to deepest, darkest cornwall by mid-afternoon.

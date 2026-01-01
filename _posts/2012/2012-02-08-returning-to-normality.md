@@ -3,7 +3,7 @@ layout: single
 title: "Returning To Normality"
 date: 2012-02-08
 categories:
-  - 2012
+  - "2012"
 ---
 
 After the trials and tribulations of travelling with work, today marked a return to "normal". My normal. The one where I fall out of bed before I really want to be doing so, and wage a running battle with little people until the moment I hand them off to the mystery that is school teachers before turning the pedals of my trusty stead towards the well of all souls (read: the office).

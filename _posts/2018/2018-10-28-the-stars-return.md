@@ -3,7 +3,7 @@ layout: single
 title: "The Stars Return"
 date: 2018-10-28
 categories:
-  - 2018
+  - "2018"
 ---
 
 While walking into town this evening with Miss 13 on a doomed mission to purchase tea lights for the pumpkins the children have been carving for Halloween, I happened to look up at the night sky.

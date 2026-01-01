@@ -3,7 +3,7 @@ layout: single
 title: "Ruminations About Blogging Platforms"
 date: 2016-02-26
 categories:
-  - 2016
+  - "2016"
 ---
 
 Since the beginning of the yearI have been experimenting with various blogging platforms. Rather than post my inane ramblings to one platform, I have been cross-posting tothe popular (read:free) platformsTumblr, Blogger, WordPress and LiveJournal. It's a special kind of insanity that I seem to be particularly susceptible to.

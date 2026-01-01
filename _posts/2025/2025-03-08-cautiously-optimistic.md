@@ -3,7 +3,7 @@ layout: single
 title: "Cautiously Optimistic"
 date: 2025-03-08
 categories:
-  - 2025
+  - "2025"
 ---
 
 It’s late on Friday night, and I’m wondering if my body has started to turn a corner. After a week taking steroids and antibiotics, I took the last of them this morning. The cough is nowhere near as bad as it has been, and I have been able to help out a little more with chores.

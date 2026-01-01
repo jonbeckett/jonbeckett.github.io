@@ -3,7 +3,7 @@ layout: single
 title: "Reflections"
 date: 2023-12-29
 categories:
-  - 2023
+  - "2023"
 ---
 
 Tomorrow is almost New Year's Eve. Almost the end of another year. I feel like I should write something about this year, but the words really aren't there. The whole year's been a bit like that really - like something was about to happen - something should happen - but it didn't. A stepping stone year. A year of "on the way to somewhere or something", if that makes any sense at all.

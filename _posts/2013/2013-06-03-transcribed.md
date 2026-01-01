@@ -3,7 +3,7 @@ layout: single
 title: "Transcribed"
 date: 2013-06-03
 categories:
-  - 2013
+  - "2013"
 ---
 
 A few excerpts from today's brain dump in the notebook while sitting in the cafe next to the park; This little dog is running between the tables, off the lead. What is it with some people? There are signs everywhere.

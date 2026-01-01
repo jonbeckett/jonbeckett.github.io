@@ -3,7 +3,7 @@ layout: single
 title: "An Education"
 date: 2011-06-27
 categories:
-  - 2011
+  - "2011"
 ---
 
 [youtube=https://www.youtube.com/watch?v=qn9IMe5jmf0&w=640&h=390]We watched "An Education" last nightand for the first time in living memory I found myself watching a movie with no preconceived ideas of what it might be about, who was in it, or if it might be any good or not. Let's just say I'm still thinking about it this morning, which probably tells you more than a paragraph or two of introverted third-hand movie reviewWithout spoiling the plot too much, here's an excerpt;Headmistress: Nobody does anything worth doing without a degree.

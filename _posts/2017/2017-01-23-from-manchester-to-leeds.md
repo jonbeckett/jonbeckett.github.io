@@ -3,7 +3,7 @@ layout: single
 title: "From Manchester To Leeds"
 date: 2017-01-23
 categories:
-  - 2017
+  - "2017"
 ---
 
 After another day stood at a lectern, pretending to know what I was talking about, I finally escaped late in the afternoon, and began dragging my suitcase along the ten minute walk to the nearest tram station, while trying to install the app that would supposedly let me buy a ticket. It took me the entire ten minute walk, and another ten minutes waiting for a tram to turn up to fill out my details in the app, and purchase a ticket. I should have just put money in the machine on the station platform.

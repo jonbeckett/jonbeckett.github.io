@@ -3,7 +3,7 @@ layout: single
 title: "Avatar Under Attack From All Directions"
 date: 2010-01-13
 categories:
-  - 2010
+  - "2010"
 ---
 
 It would appear that Avatar - one of the best science fiction movies ever made - is under attack from all directions.

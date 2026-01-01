@@ -3,7 +3,7 @@ layout: single
 title: "Selling Everything We Dont Use"
 date: 2010-08-16
 categories:
-  - 2010
+  - "2010"
 ---
 
 Time for the biggest clearout we have ever had - the following will be hitting EBay over the next few days

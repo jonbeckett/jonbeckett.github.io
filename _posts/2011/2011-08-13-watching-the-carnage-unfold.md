@@ -3,7 +3,7 @@ layout: single
 title: "Watching The Carnage Unfold"
 date: 2011-08-13
 categories:
-  - 2011
+  - "2011"
 ---
 
 I've been struggling recently. Struggling to watch a friend on the other side of the world go through a hard time, and know I can't do much to help, and if I did try to help, it would be rejected.

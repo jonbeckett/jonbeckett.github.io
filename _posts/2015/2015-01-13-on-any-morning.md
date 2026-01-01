@@ -3,7 +3,7 @@ layout: single
 title: "On Any Morning"
 date: 2015-01-13
 categories:
-  - 2015
+  - "2015"
 ---
 
 The day began with a squint at the radio alarm clock next to the bed, which had begun filling the bedroom with the local radio station. Ispent a minute or two staring at the ceiling before an elbow met my ribs, accompanied by a muffled voice. An imaginary babel fish translated the noises.

@@ -3,7 +3,7 @@ layout: single
 title: "More News From The Lab"
 date: 2006-01-27
 categories:
-  - 2006
+  - "2006"
 ---
 
 More IVF news 

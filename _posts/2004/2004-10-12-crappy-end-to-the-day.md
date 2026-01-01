@@ -3,7 +3,7 @@ layout: single
 title: "Crappy End To The Day"
 date: 2004-10-12
 categories:
-  - 2004
+  - "2004"
 ---
 
 Today has been a good day.

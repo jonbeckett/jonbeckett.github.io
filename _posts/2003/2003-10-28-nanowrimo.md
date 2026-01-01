@@ -3,7 +3,7 @@ layout: single
 title: "Nanowrimo"
 date: 2003-10-28
 categories:
-  - 2003
+  - "2003"
 ---
 
 For some ridiculous reason, one of my best friends on the internet has talked me into taking part in the nanowrimo competition.

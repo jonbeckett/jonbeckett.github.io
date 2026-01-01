@@ -3,7 +3,7 @@ layout: single
 title: "The Sleepover"
 date: 2019-08-20
 categories:
-  - 2019
+  - "2019"
 ---
 
 At lunchtime yesterday a number of teenage girls - school friends of our youngest daughter - started arriving at our house for a sleepover in a tent in the garden. Because the school is a few miles from town, the only contact the circle of friends have had with each other all summer has been via the internet. We decided a to do something about that.

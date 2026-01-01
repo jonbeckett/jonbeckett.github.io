@@ -3,7 +3,7 @@ layout: single
 title: "A Wanderer Returns"
 date: 2018-02-25
 categories:
-  - 2018
+  - "2018"
 ---
 
 You know the one where you start the year disconnecting yourself from social media, blogging, instant messaging, and everything else - swearing that you're done with it - but then slowly find yourself returning ? That.

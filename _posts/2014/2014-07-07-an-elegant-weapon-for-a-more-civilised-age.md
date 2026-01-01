@@ -3,7 +3,7 @@ layout: single
 title: "An Elegant Weapon For A More Civilised Age"
 date: 2014-07-07
 categories:
-  - 2014
+  - "2014"
 ---
 
 This blog post isn't going to be about what you think. Sorry to ruin your journey here if you were hoping for some kind of Star Wars rat hole blog post obsessing about the story arc of Episode 4 of the George Lucas intergalactic train wreck.

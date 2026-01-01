@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Off"
 date: 2007-03-25
 categories:
-  - 2007
+  - "2007"
 ---
 
 It's 2pm on Sunday afternoon, and I'm having a quiet day at home. I say quiet, but there is the constant rumble of the washing machine and tumble drier in the background.

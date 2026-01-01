@@ -3,7 +3,7 @@ layout: single
 title: "Slowly Seduced By Comic Book Art"
 date: 2015-03-17
 categories:
-  - 2015
+  - "2015"
 ---
 
 Although I can remember reading comic books as a child, they tended to be the throw-away cheap comics sold at the newsagent in the UK alongside the daily newspapers - printed on the same cheap paper, with four colour printing if you were lucky. I remember buying the "The Beano", "The Dandy", "Whizzer and Chips", and various others. The Beano had characters such as "Dennis the Menace", and "The Bash Street Kids" - a middle school comic strip starring such memorable characters as "Fatso", "Pie Face", and "Plug".

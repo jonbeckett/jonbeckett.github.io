@@ -3,7 +3,7 @@ layout: single
 title: "Boxing Day"
 date: 2012-12-26
 categories:
-  - 2012
+  - "2012"
 ---
 
 After the children finally settled down at some time after 3am on Christmas Eve with coughs and colds aided by hair-trigger "Santa Sense", we wereamazed to make it past 8am before the children woke up. I almost made it into the younger children's room with the stockings at about 5am (I have a skill in waking up when I need to), but one of them coughed while I was stood in the middle of the room with the stockings in my hands. You've never seen a grown up move so swiftly and silently.

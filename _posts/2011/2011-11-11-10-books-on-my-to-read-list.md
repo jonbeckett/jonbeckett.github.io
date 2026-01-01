@@ -3,7 +3,7 @@ layout: single
 title: "10 Books On My To Read List"
 date: 2011-11-11
 categories:
-  - 2011
+  - "2011"
 ---
 
 A little while earlier this evening I posted a recommendation for the book I've been reading to our children on Facebookit's called "You're a Bad Man, Mr Gum", by Andy Stanton. One of my friends added it to their "to read" list at GoodReads, and posted that to Facebook too.

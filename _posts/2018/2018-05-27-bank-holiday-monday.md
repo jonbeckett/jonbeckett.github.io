@@ -3,7 +3,7 @@ layout: single
 title: "Bank Holiday Monday"
 date: 2018-05-27
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's a bank holiday in the UK today, so everybody is out in their gardens cutting hedges, moving lawns, and all those other things that are unofficially on the "things to do on a day off" list. Of course I'm already ahead of the game after yesterday's burst of activity, so can gloat somewhat - or at least so I thought. My other half just appeared downstairs and immediately started talking about filling the car with stuff from the back garden, and taking it to the local rubbish tip.

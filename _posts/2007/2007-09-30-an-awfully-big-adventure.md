@@ -3,7 +3,7 @@ layout: single
 title: "An Awfully Big Adventure"
 date: 2007-09-30
 categories:
-  - 2007
+  - "2007"
 ---
 
 After spending the best part of the last two years climbing a seemingly never ending hill towards a very abstract goal - "being allowed to adopt children", we reached the end of the climb on Friday (as I wrote about here).

@@ -3,7 +3,7 @@ layout: single
 title: "Gigabytes Of Memory"
 date: 2007-02-03
 categories:
-  - 2007
+  - "2007"
 ---
 
 Isn't it weird how your memory fails you sometimes.

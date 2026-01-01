@@ -3,7 +3,7 @@ layout: single
 title: "Soaked To The Skin"
 date: 2018-05-23
 categories:
-  - 2018
+  - "2018"
 ---
 
 I was going to write a long, meandering, nerdy post about my writing process - about markdown formatting, and version control, and compiling blog posts into e-books, but then realised I had a much better story to tell. You see - just as I was leaving the office to cycle home, I felt a drop of rain.

@@ -3,7 +3,7 @@ layout: single
 title: "Surrounded By Idiots Again"
 date: 2015-04-14
 categories:
-  - 2015
+  - "2015"
 ---
 
 On my route to work on the mountain bike each morning I travel along a number of old Victorian roads - narrow roads, lined on each side by terraced houses. None of the houses have parking, so people park in the street outside their house - in the already narrow road. We end up with about a mile of suburban road where on-coming traffic cannot pass each other without taking turns to snake through available gaps. Generally this is all fine - but then sometimes the school run maniacs arrive en-masse, and ruin everything for everybody.

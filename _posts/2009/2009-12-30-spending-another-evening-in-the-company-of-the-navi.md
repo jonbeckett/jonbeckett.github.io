@@ -3,7 +3,7 @@ layout: single
 title: "Spending Another Evening In The Company Of The Navi"
 date: 2009-12-30
 categories:
-  - 2009
+  - "2009"
 ---
 
 We went to the cinema in Plymouth this evening with my Dad to see Avatar. It was his first trip to the cinema in at least ten yearsI was hoping Avatar would meet the expectation I had built up in everybody (I saw it a couple of weeks ago when it opened with my colleagues).

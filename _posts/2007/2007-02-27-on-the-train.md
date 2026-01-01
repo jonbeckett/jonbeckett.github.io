@@ -3,7 +3,7 @@ layout: single
 title: "On The Train"
 date: 2007-02-27
 categories:
-  - 2007
+  - "2007"
 ---
 
 I am currently spending 4 hours each day on the train with my MacBook - reading stuff, listening to music, writing inane emails, and fiddling with the odd bit of programming...

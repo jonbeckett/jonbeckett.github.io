@@ -3,7 +3,7 @@ layout: single
 title: "The Desolation Of Smaug"
 date: 2013-12-24
 categories:
-  - 2013
+  - "2013"
 ---
 
 We just got back from taking the children to see the afternoon showing of "The Desolation of Smaug" at the cinema. I'm sure everybody and their dog has written capsule reviews of the movie, so I'm not going toI'm just going to record a few moments that make taking children (and grown-ups) to the movies magic.

@@ -3,7 +3,7 @@ layout: single
 title: "So It Appears The Dance Teacher Reads My Blog"
 date: 2011-09-06
 categories:
-  - 2011
+  - "2011"
 ---
 
 While working on the website design for the local dance teacher this morning, we were sipping coffee and chatting about this and that, and she mentioned that she had alwaysread my blogright from the start.

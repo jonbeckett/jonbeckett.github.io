@@ -3,7 +3,7 @@ layout: single
 title: "When Candybar Phones Ruled The Earth"
 date: 2013-09-09
 categories:
-  - 2013
+  - "2013"
 ---
 
 Late last night my pocket began singing to me. Given that I had not been drinking, I wondered if I was going mad. A far more plausible explanation provided an answermy mobile phone had lost it's mind.

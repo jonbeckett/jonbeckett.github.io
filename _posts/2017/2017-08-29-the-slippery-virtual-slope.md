@@ -3,7 +3,7 @@ layout: single
 title: "The Slippery Virtual Slope"
 date: 2017-08-29
 categories:
-  - 2017
+  - "2017"
 ---
 
 During a break from the regularly scheduled mayhem at work this morning I ran the "Second Life" client software on my work laptop, wondering if it still worked. After a few moments a three dimensional recreation of an Irish bar began reconstructing itself on the screen, along with a number of crazily dressed patrons. Moments later music erupted from the headphones scattered across the desk from me - I think it may have been the Dubliners. Moments later the unfolding scene ground to a half and "Second Life" crashed on it's backside. I suddenly remembered why I hadn't bothered with it for the last couple of months.

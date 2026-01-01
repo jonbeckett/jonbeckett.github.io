@@ -3,7 +3,7 @@ layout: single
 title: "The End Of Summer"
 date: 2006-08-17
 categories:
-  - 2006
+  - "2006"
 ---
 
 It's raining. The sky is grey, it's colder than it's been in days, and it really feels like summer is coming to an end today.

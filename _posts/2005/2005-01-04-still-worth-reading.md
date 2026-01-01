@@ -3,7 +3,7 @@ layout: single
 title: "Still Worth Reading"
 date: 2005-01-04
 categories:
-  - 2005
+  - "2005"
 ---
 
 I just had a quick look at the "Clix" chart on Diarist.

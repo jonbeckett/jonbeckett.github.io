@@ -3,7 +3,7 @@ layout: single
 title: "Three Kilometres"
 date: 2020-01-27
 categories:
-  - 2020
+  - "2020"
 ---
 
 I went for a run this evening with Miss 19. Actually, "run" is something of an exaggeration. It was more of a slow jog - or a fast amble perhaps. While it would be nice to think it had anything to do with fitness, it probably had more to do with mental health. At least we got out of the house though, right?

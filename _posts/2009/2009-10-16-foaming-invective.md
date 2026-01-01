@@ -3,7 +3,7 @@ layout: single
 title: "Foaming Invective"
 date: 2009-10-16
 categories:
-  - 2009
+  - "2009"
 ---
 
 What is it about Fridays? Where does our energy and enthusiasm go?

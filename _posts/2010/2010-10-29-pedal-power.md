@@ -3,7 +3,7 @@ layout: single
 title: "Pedal Power"
 date: 2010-10-29
 categories:
-  - 2010
+  - "2010"
 ---
 
 Not many people know that I cycle to and from work every day - a six mile round trip that takes me through suburban streets, a busy town, and into the countryside. The journey affords me a rare chance to think, and provides a seperation of sorts between work and home - an inbetween time that's mine.

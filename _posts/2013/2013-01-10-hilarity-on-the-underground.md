@@ -3,7 +3,7 @@ layout: single
 title: "Hilarity On The Underground"
 date: 2013-01-10
 categories:
-  - 2013
+  - "2013"
 ---
 
 While stood on the underground train travelling east beneath London, we arrived at one of the stations and a young guy with a beard and headphones scampered past me to claim the last empty seat in the carriage. As he turned into the seat, a large older gentleman (perhaps early 50s) appeared behind him who obviously thought he was going to get the seat. It turned out after a few moments that the big old guy had a bad leg, and couldn't stand easily. A lady behind him offered her seat, he thanked her, and sat down. The old guy the proceeded to sit and stare at the younger guy across from him. Really glare at him. While sitting down he made a point of leaning towards him in the most threatening way a big old guy with a gammy leg probably could. Several things occurred to me.

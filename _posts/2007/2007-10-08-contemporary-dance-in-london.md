@@ -3,7 +3,7 @@ layout: single
 title: "Contemporary Dance In London"
 date: 2007-10-08
 categories:
-  - 2007
+  - "2007"
 ---
 
 While wandering back towards Liverpool Street from Moorgate this lunchtime, I came across a street performer...

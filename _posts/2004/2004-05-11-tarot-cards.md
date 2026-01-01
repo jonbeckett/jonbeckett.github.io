@@ -3,7 +3,7 @@ layout: single
 title: "Tarot Cards"
 date: 2004-05-11
 categories:
-  - 2004
+  - "2004"
 ---
 
 I have a tarot card that came with a Microsoft magazine on my desk today - it's got a drawing of a geek on it, and is called "the developer". You can imagine how it's quietly going down with the more pious people at work (actually, I don't think the real god botherers have seen it yet). No doubt at some point I'll be politely asked to remove it...

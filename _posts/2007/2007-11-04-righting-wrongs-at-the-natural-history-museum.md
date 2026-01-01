@@ -3,7 +3,7 @@ layout: single
 title: "Righting Wrongs At The Natural History Museum"
 date: 2007-11-04
 categories:
-  - 2007
+  - "2007"
 ---
 
 While visiting London with friends recently, we took the chance to visit the British Museum of Natural History. It's a wonderful, cavernous old building in Kensington with mock gothic arches, labarynthine hallways and huge galleries filled with all manner of dinosaurs, fish, reptiles, mammals, invertibrates, and everything else inbetween.

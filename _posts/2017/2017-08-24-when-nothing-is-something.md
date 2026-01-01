@@ -3,7 +3,7 @@ layout: single
 title: "When Nothing Is Something"
 date: 2017-08-24
 categories:
-  - 2017
+  - "2017"
 ---
 
 I have nothing to write about today, so will prove that nothing is something by writing this. Tada!

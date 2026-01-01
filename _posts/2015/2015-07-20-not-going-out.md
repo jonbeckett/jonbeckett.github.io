@@ -3,7 +3,7 @@ layout: single
 title: "Not Going Out"
 date: 2015-07-20
 categories:
-  - 2015
+  - "2015"
 ---
 
 This evening you find me sitting in a hotel hundreds of miles from home, actively using the internet to escape my temporary confinement. I could have wandered along the road to the public house next door, but solitude is often my preferred friend.

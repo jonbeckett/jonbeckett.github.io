@@ -3,7 +3,7 @@ layout: single
 title: "Hitting The Pause Button"
 date: 2007-07-15
 categories:
-  - 2007
+  - "2007"
 ---
 
 I had so many plans this weekend. Go running, go to the cinema, sort the garden out, go and buy clothes. I have done none of these things. I am also aware that I have not written in my own blog or read anybody elses blogs for several days.

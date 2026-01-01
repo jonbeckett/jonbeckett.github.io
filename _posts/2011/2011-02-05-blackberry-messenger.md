@@ -3,7 +3,7 @@ layout: single
 title: "Blackberry Messenger"
 date: 2011-02-05
 categories:
-  - 2011
+  - "2011"
 ---
 
 At some point in the distant past, I got rid of my second broken iPhone, and switched to Blackberry. Apart from being humungously shit at anything except messaging people, it's been a pretty good phone. Google Sync has pretty much saved it from being thrown at the floor and stamped on.

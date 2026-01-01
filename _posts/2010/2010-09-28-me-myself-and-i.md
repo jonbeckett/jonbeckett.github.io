@@ -3,7 +3,7 @@ layout: single
 title: "Me Myself And I"
 date: 2010-09-28
 categories:
-  - 2010
+  - "2010"
 ---
 
 In pursuit of the theme that has been absent within the blog for many months, and was pointed out by a long time reader recently -an absence of me! - I risked life and limb this morning to fulfil my obligations.

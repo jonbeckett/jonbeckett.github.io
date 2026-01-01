@@ -3,7 +3,7 @@ layout: single
 title: "If Blogs Could Talk"
 date: 2011-06-25
 categories:
-  - 2011
+  - "2011"
 ---
 
 Hello blog. I've never addressed you directly before, so thought this might be fun. I haven't given it a great deal of thought before doing so, so you'll forgive me if this turns out to be a really bad/boring/idiotic (delete as appropriate) idea.

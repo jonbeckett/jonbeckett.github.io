@@ -3,7 +3,7 @@ layout: single
 title: "Final Friday"
 date: 2019-12-06
 categories:
-  - 2019
+  - "2019"
 ---
 
 Today is the last day of my week off work - apart from the weekend, but that doesn't count really, does it? I'm spending the day at home listening to the washing machine, folding clothes, tidying up, and noodling around with things on the internet. I feel like I should be doing something with these days off, but then remember why I'm off work in the first place - trying to get better - trying to rest. Not doing things is difficult when you're used to chaos.

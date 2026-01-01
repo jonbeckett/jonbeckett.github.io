@@ -3,7 +3,7 @@ layout: single
 title: "Lunchtime Comes To An End"
 date: 2005-05-04
 categories:
-  - 2005
+  - "2005"
 ---
 
 It's the end of my lunch break and I'm back working on the same stuff I have been picking at for the last couple of days. It's essentially a "plugin" for the PluggedOut CMS scripts that allow PDF files to be checked into the document repository and content indexed. In laymans terms, it means the text that appears in the PDF can then be searched.

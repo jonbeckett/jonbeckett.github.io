@@ -3,7 +3,7 @@ layout: single
 title: "Adventures Yet To Come"
 date: 2021-12-30
 categories:
-  - 2021
+  - "2021"
 ---
 
 The end of one year and the beginning of the next is often associated with the opportunity to make changes. Change to one's surroundings, one's self, or to set out on a journey of some description. After wandering through the online landscape mostly alone, and somewhat aimlessly for the past year, I've decided it's probably time to do something about it. Time to plan a journey of sorts.

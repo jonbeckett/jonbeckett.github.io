@@ -3,7 +3,7 @@ layout: single
 title: "Trying to slow down"
 date: 2025-09-10
 categories:
-  - 2025
+  - "2025"
 ---
 
 After a dinner-table conversation last weekend, somehow I agreed to escort my eldest daughter to a nearby town with a ginormous shopping centre. I didn’t actually need anything, but thought it might be a fun day out, and we’ve not done anything together for a while - so the “everything must be fair” part of my brain kicked in.

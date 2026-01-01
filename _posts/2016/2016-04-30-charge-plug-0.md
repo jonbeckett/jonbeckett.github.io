@@ -3,7 +3,7 @@ layout: single
 title: "Charge Plug 0"
 date: 2016-04-30
 categories:
-  - 2016
+  - "2016"
 ---
 
 After a couple of hours reading reviews, and weighing up the various pros and cons, I put an order in for a new bike this morninga "Charge Plug 0". It's a single speed hybrid road bikelike nothing I have ever owned before.

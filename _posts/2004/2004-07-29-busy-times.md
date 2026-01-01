@@ -3,7 +3,7 @@ layout: single
 title: "Busy Times"
 date: 2004-07-29
 categories:
-  - 2004
+  - "2004"
 ---
 
 It would appear that there is something of a pattern to these journal entries. There have not been many posts recently, and while pondering on this a reason struck me. I tend to write blog entries when I am not fed up with the IT world. Today I am not fed up. Recently I have been, and for a very simple reason - I've been very busy indeed.

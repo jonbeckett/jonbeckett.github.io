@@ -3,7 +3,7 @@ layout: single
 title: "A Social Experiment Ask Me Anything"
 date: 2007-07-05
 categories:
-  - 2007
+  - "2007"
 ---
 
 Here's a challenge. Ask me anything you like in the comments to this post, and I will answer in the next post.

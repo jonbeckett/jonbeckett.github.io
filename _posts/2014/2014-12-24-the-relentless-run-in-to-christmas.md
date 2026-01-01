@@ -3,7 +3,7 @@ layout: single
 title: "The Relentless Run In To Christmas"
 date: 2014-12-24
 categories:
-  - 2014
+  - "2014"
 ---
 
 I'm not quite sure why or how, but the run-in to Christmas this year has seemed relentless. I had visions of finishing work last Friday, and having a few quiet days and eveningsrelaxing into it. That's not quite how it's worked. Every day has involved another trip out to get something or other, and every evening has involved a trip out to somewhere either to see something as a family, or to show our faces at something we have been invited to. It sounds disingenuous to complain, but reallyI'm ready for some down-time now.

@@ -3,7 +3,7 @@ layout: single
 title: "An Uncomfortable Journey"
 date: 2007-06-12
 categories:
-  - 2007
+  - "2007"
 ---
 
 The journey into work this morning was uncomfortable, but not for a reason you might imagine.

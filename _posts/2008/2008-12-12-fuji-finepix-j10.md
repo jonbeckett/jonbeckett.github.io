@@ -3,7 +3,7 @@ layout: single
 title: "Fuji Finepix J10"
 date: 2008-12-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 The postman finally delivered our new camera earlier today - a tiny Fuji Finepix J10 - it replaces the small Sony W55 that I lost somewhere in Oxfordshire a few months ago.

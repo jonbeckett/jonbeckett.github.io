@@ -3,7 +3,7 @@ layout: single
 title: "Linux Rules"
 date: 2004-09-02
 categories:
-  - 2004
+  - "2004"
 ---
 
 I installed Mandrake Linux 10 on my little laptop at home last night - and it has to be said, I'm pretty pleased with it.

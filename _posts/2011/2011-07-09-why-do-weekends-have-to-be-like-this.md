@@ -3,7 +3,7 @@ layout: single
 title: "Why Do Weekends Have To Be Like This"
 date: 2011-07-09
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's heading towards lunchtime on Saturday morning, I've already walked into town once (to pick up a parcel from the sorting office that they couldn't be bothered to deliver to the house), and am now trying to figure out what on earth I'm going to make myself for lunch.

@@ -3,7 +3,7 @@ layout: single
 title: "The Day After Halloween"
 date: 2014-11-01
 categories:
-  - 2014
+  - "2014"
 ---
 
 I fell out of bed a little after 9 this morning, and discovered the younger children camped out in the lounge watching cartoons, surrounded by wrappers, deep in some kind of sugar induced trance. Without saying a word, I wandered from room to room, pulling down fake cobwebs, collecting plastic spiders, and un-sticking zombie warning tape. By mid-morning the house looked like our own again, save for a mountain of washing up.

@@ -3,7 +3,7 @@ layout: single
 title: "Rock Bottom"
 date: 2017-06-24
 categories:
-  - 2017
+  - "2017"
 ---
 
 Contrary to the rather misleading title, this post is not about a personal disaster resulting in "hitting rock bottom" - it's about the local summer music festival we attended yesterday evening.

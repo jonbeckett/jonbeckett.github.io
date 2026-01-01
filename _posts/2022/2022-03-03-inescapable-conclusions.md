@@ -3,7 +3,7 @@ layout: single
 title: "Inescapable Conclusions"
 date: 2022-03-03
 categories:
-  - 2022
+  - "2022"
 ---
 
 If I'm honest, I can't quite figure out how tomorrow is Thursday. Where did the beginning of the week go? Life, work, and everything in-between seems to have conspired to suck the air out of the universe around me, and spin the hands on the clock from the moment I've climbed out of bed on a morning to the moment I've collapsed back into it at night.

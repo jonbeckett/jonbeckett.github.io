@@ -3,7 +3,7 @@ layout: single
 title: "Resurrecting Buried Code"
 date: 2013-06-17
 categories:
-  - 2013
+  - "2013"
 ---
 
 This is one of those rare times when I can talk about what I'm doing at work, although I'm not going to be tremendously specific about it. I'm resurrecting source code I wrote two years ago to hand over to a clientreading it, commenting it, and generally getting it to a state where I am happy they can see it.

@@ -3,7 +3,7 @@ layout: single
 title: "I'm still here"
 date: 2025-07-04
 categories:
-  - 2025
+  - "2025"
 ---
 
 Another week has whistled past. Again, I’m not entirely sure where it went. I didn’t run. I didn’t read. I did listen to music though. I’m listening to music right now - Carly Simon is singing about “coming around again” - she must have seen me running around in circles and thought “I’ve got a song about that for him”.

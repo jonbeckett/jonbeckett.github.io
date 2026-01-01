@@ -3,7 +3,7 @@ layout: single
 title: "Last Day Of The Adventure"
 date: 2006-11-03
 categories:
-  - 2006
+  - "2006"
 ---
 
 Today marks my last day in the metropolis before returning back to the relative quiet of Marlow. Travelling back and forth, and spending each day among the millions has been fun, but I am also looking forward to a return to normality. The peace and quiet of the towns along the Thames through Buckinghamshire feels homely in much the same way that Tolkein described "The Shire" (except of course, Tolkein was writing about Oxfordshire).

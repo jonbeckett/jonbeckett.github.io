@@ -3,7 +3,7 @@ layout: single
 title: "Working Late"
 date: 2006-06-15
 categories:
-  - 2006
+  - "2006"
 ---
 
 It's now 22:06 and I find myself finishing up on some work that I brought home with me. Maybe time for some television, some quality time with my other half, and then turn in for the night.

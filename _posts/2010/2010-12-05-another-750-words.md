@@ -3,7 +3,7 @@ layout: single
 title: "Another 750 Words"
 date: 2010-12-05
 categories:
-  - 2010
+  - "2010"
 ---
 
 You know how I said I would probably not cross-post the 750 words I threw into the same titled internet thing this morning? Ahem....

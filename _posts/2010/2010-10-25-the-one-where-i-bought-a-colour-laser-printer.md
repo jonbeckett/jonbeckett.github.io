@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Bought A Colour Laser Printer"
 date: 2010-10-25
 categories:
-  - 2010
+  - "2010"
 ---
 
 For the past couple of years at home we have been using two printers (actually, I have seldom used either of them - most printing happens for knitting patterns, or for school projects). We have a mono HP laser printer, and a Epson multi-function thing that does all kinds of crap that we have never used.

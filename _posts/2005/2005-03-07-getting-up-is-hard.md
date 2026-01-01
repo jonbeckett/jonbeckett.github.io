@@ -3,7 +3,7 @@ layout: single
 title: "Getting Up Is Hard"
 date: 2005-03-07
 categories:
-  - 2005
+  - "2005"
 ---
 
 Why is getting out of bed on Monday mornings so damn difficult?

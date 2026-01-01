@@ -3,7 +3,7 @@ layout: single
 title: "Paying It Forward"
 date: 2022-10-15
 categories:
-  - 2022
+  - "2022"
 ---
 
 A few years ago (actually quite a few years ago now) there was a popular twenty something TV drama in the UK that made stars of it's cast. It's still on now, but nothing like as popular as it once was. The actors involved were splashed across the internet, newspapers, and the various lifestyle and celebrity magazines - no doubt sold to the tabloid media by their agents to milk as much money from them as possible before they became yesterday's news.

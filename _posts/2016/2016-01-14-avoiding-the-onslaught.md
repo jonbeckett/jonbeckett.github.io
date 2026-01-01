@@ -3,7 +3,7 @@ layout: single
 title: "Avoiding The Onslaught"
 date: 2016-01-14
 categories:
-  - 2016
+  - "2016"
 ---
 
 While checking the news at lunchtime I happened to glance at Twitter as the news broke that the actor Alan Rickman had died. No doubt the massed ranks of the internet are churning as we speaksummoning their armies to deluge social media with a wave of invented griefdesigned to attract attention. They did it a few days ago for David Bowie, and they did it last year for Robin Williamswe can pretty confidently assume they will do it again.

@@ -3,7 +3,7 @@ layout: single
 title: "Watching Wembley From Afar"
 date: 2022-07-31
 categories:
-  - 2022
+  - "2022"
 ---
 
 The greater part of my family travelled to Wembley Stadium today, and witnessed England win the European cup. While the game was going on I checked in on the score from time to time, and convinced myself that my life-long hoodoo about causing anything I root for to lose was still in effect.

@@ -3,7 +3,7 @@ layout: single
 title: "Tuesday Again"
 date: 2004-01-27
 categories:
-  - 2004
+  - "2004"
 ---
 
 What is it about Tuesdays? I seem to write in my blog at some point on a Tuesday these days.

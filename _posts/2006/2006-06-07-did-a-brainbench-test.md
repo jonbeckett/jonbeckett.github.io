@@ -3,7 +3,7 @@ layout: single
 title: "Did A Brainbench Test"
 date: 2006-06-07
 categories:
-  - 2006
+  - "2006"
 ---
 
 After my apparent "success" with the IQ test the other day, I sat down late last night and did a free exam on the Brain Bench website.

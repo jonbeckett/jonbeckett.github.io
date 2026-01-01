@@ -3,7 +3,7 @@ layout: single
 title: "Dinner For One"
 date: 2012-11-20
 categories:
-  - 2012
+  - "2012"
 ---
 
 After arriving back in the hotel room this evening, I changed out of my work clothes, had a wash, and wandered out into the street. For the first time since I can remember, I am not spending a night away from home working in a hotel room until midnight.

@@ -3,7 +3,7 @@ layout: single
 title: "A Self Imposed Night Off"
 date: 2010-04-29
 categories:
-  - 2010
+  - "2010"
 ---
 
 Today I lifted the world onto my shoulders (figuratively speaking), arranged it into a configuration of my choosing, and set it down again.

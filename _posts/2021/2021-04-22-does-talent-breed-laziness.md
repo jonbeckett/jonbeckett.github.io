@@ -3,7 +3,7 @@ layout: single
 title: "Does Talent Breed Laziness "
 date: 2021-04-22
 categories:
-  - 2021
+  - "2021"
 ---
 
 I have been head-down with work for the last several days. Being busy is good. Unfortunately the garden has taken its cue to inject anything that will grow with Captain America growth serum. I'm pretty sure we will have mangrove swamps by the weekend. I've done a deal with my eldest daughter that if she helps me with the garden, I will take part in the internet art course she started some weeks ago. I've already warned her that I'm colourblind, but she hasn't let that dissuade her.

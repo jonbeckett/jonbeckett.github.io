@@ -3,7 +3,7 @@ layout: single
 title: "A Journey Of Discovery On The Wordpress Frontier"
 date: 2010-10-08
 categories:
-  - 2010
+  - "2010"
 ---
 
 A few days ago, I decided it was time to reach out across the vast WordPress landscape. Using their own blog directory, I dug half the way to China and back in pursuit of real people, talking about real lives.

@@ -3,7 +3,7 @@ layout: single
 title: "New Year Feeling Rotten"
 date: 2005-01-04
 categories:
-  - 2005
+  - "2005"
 ---
 
 It's supposed to be my first day back at work for the new year today, and I'm sat at home with a killer headache, and a snotty nose.

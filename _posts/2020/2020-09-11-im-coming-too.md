@@ -3,7 +3,7 @@ layout: single
 title: "Im Coming Too"
 date: 2020-09-11
 categories:
-  - 2020
+  - "2020"
 ---
 
 I meant to write something late last night. I got as far as writing "it's half past midnight", but somehow didn't get any further.

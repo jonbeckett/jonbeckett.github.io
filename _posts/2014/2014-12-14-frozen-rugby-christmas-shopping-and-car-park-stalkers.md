@@ -3,7 +3,7 @@ layout: single
 title: "Frozen Rugby Christmas Shopping And Car Park Stalkers"
 date: 2014-12-14
 categories:
-  - 2014
+  - "2014"
 ---
 
 When we left the house at 9:30 this morning, the frost was thick on the ground, and the car kept flashing "RISK OF ICE" messages on the dashboard. It was -3C, so yeahno shitrisk of ice indeed. We checked email before pulling away from the house, wrapped up like eskimos."Rugby is ON this morning"Damn and blast.

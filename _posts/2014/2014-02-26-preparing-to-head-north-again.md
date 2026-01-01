@@ -3,7 +3,7 @@ layout: single
 title: "Preparing To Head North Again"
 date: 2014-02-26
 categories:
-  - 2014
+  - "2014"
 ---
 
 On Sunday evening I will make the all-too-familiar journey to the train station, and purchase a return ticket to Leeds. The hotel is already booked, and I'll have to start filling a bag with clothes over the next few evenings to last the entirity of the week ahead.

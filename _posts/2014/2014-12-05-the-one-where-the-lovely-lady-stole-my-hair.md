@@ -3,7 +3,7 @@ layout: single
 title: "The One Where The Lovely Lady Stole My Hair"
 date: 2014-12-05
 categories:
-  - 2014
+  - "2014"
 ---
 
 Today got off to a fantastic start. It transpires that if you don't help your 14 year old daughter sort her hair out at the exact moment she wants you to, the combined forces of Satan, Hell, Bruce Lee, and Chuck Norris will be launched at you (they roughly translate to stamping up the stairs screaming "I hate this family", and "I'm glad you're not my real parents"). Who knew that waiting a minute to have her hair brushed would cause such an instant explosion? Minutes before she was happily eating breakfast with her sisters.

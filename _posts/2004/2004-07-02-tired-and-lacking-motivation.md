@@ -3,7 +3,7 @@ layout: single
 title: "Tired And Lacking Motivation"
 date: 2004-07-02
 categories:
-  - 2004
+  - "2004"
 ---
 
 Listless

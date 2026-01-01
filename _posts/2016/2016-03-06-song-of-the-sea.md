@@ -3,7 +3,7 @@ layout: single
 title: "Song Of The Sea"
 date: 2016-03-06
 categories:
-  - 2016
+  - "2016"
 ---
 
 We watched the animated movie "Song of the Sea" this evening with the children. I had desperately wanted to see it at the cinema after seeing the trailers at the cinema a couple of years agobut as is normal around here, life happened, and any thoughts about the movie were swept away.

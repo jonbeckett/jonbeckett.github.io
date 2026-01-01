@@ -3,7 +3,7 @@ layout: single
 title: "Born In The Wrong Era"
 date: 2006-11-30
 categories:
-  - 2006
+  - "2006"
 ---
 
 Is this a myth perpetuated by artwork, or did all women look like the one on the front of this book in the 1950s and 60s ?

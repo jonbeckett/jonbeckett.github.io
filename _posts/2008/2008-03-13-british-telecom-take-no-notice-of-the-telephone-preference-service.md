@@ -3,7 +3,7 @@ layout: single
 title: "British Telecom Take No Notice Of The Telephone Preference Service"
 date: 2008-03-13
 categories:
-  - 2008
+  - "2008"
 ---
 
 In the UK we have a national database called the "Telephone Preference Service" - if you are on the list it is illegal for anybody to try and cold-call you and sell you anything. We are on the list.

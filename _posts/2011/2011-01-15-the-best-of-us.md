@@ -3,7 +3,7 @@ layout: single
 title: "The Best Of Us"
 date: 2011-01-15
 categories:
-  - 2011
+  - "2011"
 ---
 
 The last couple of days have hit me like an imaginary freight train. I nearly fell asleep listening to our eldest daughter read at bedtime. She's reading an Enid Blyton book - I don't have the heart to tell her yet what a horrific old bag Blyton was, and the misery she made of her own children's childhood.

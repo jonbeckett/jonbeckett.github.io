@@ -3,7 +3,7 @@ layout: single
 title: "You Have To Hand It To Apple The Magic Mouse Is Spectacularly Sexy"
 date: 2009-10-20
 categories:
-  - 2009
+  - "2009"
 ---
 
 While catching up with various online acquaintances earlier this evening I came across a friend's post on Twitter about the Apple "Magic Mouse". How do Apple do it? Where do they find the people who think outside the box - who carry on refining the products we thought we were happy with - who make us realise that, no, we are not the sharpest tools in the box.

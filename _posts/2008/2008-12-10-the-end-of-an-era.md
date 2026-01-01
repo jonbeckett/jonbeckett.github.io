@@ -3,7 +3,7 @@ layout: single
 title: "The End Of An Era"
 date: 2008-12-10
 categories:
-  - 2008
+  - "2008"
 ---
 
 I confirmed this morning with my boss in London that I will definitely be finishing next Friday.

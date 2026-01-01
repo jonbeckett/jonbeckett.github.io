@@ -3,7 +3,7 @@ layout: single
 title: "The Witching Hour"
 date: 2022-04-06
 categories:
-  - 2022
+  - "2022"
 ---
 
 According to folklore, midnight marks the time in the day when witches, demons and ghosts are thought to appear, and be at their most powerful. There seems to be some disagreement about which exact hour is the "witching hour" though - with stories ranging from midnight, all the way through into the early hours of the morning.

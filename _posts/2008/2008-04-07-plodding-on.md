@@ -3,7 +3,7 @@ layout: single
 title: "Plodding On"
 date: 2008-04-07
 categories:
-  - 2008
+  - "2008"
 ---
 
 I am at work, the cold I have been suffering with all weekend is worse, but I am plodding on. I guess this was the "reason to get out of bed" that we talked about when we faced the adoption review panel.

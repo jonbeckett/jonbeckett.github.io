@@ -3,7 +3,7 @@ layout: single
 title: "Running And Feeling Good"
 date: 2005-04-18
 categories:
-  - 2005
+  - "2005"
 ---
 
 I feel just a little bit smug this evening. I got in from work (remember, I cycle 3 miles home on a mountain bike), got changed, and went out for a run. Just to make myself feel much better, I ran an 8km route - which means I am can do the Marlow 5 that I've been arm-twisted into entering next month.

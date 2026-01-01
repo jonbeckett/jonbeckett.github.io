@@ -3,7 +3,7 @@ layout: single
 title: "Friday Night"
 date: 2021-07-17
 categories:
-  - 2021
+  - "2021"
 ---
 
 It's nearly midnight on Friday night as I begin writing this post. I'm sitting in the dark of the junk room, typing this into the desktop computer. My other half is watching television in the lounge, and the kids are fast asleep.

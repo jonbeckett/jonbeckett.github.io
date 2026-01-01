@@ -3,7 +3,7 @@ layout: single
 title: "Going Around In Circles"
 date: 2019-07-16
 categories:
-  - 2019
+  - "2019"
 ---
 
 I've returned photos to the WordPress incarnation of my blog. If nothing else, they brighten it up a bit. Publishing purely textual posts becomes awfully repetitive after a while. I'm hoping that I might use the photos as an inspiration of sorts - on the days when I don't think I have much to contribute, I'll look at the front page of the various stock photo sites and see what comes to mind. It's probably no better than daubing my face with facepaint and throwing pieces of bone on the ground, but it's better than nothing.

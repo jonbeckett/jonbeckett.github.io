@@ -3,7 +3,7 @@ layout: single
 title: "A Rare Breed Of Blogger"
 date: 2010-04-06
 categories:
-  - 2010
+  - "2010"
 ---
 
 The more I write and share my own experiences, thoughts, opinions and ideas on the internet, and consume those of others, the more I realise I am something of a rare breed.

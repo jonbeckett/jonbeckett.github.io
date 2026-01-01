@@ -3,7 +3,7 @@ layout: single
 title: "Survived My First Run In Years"
 date: 2011-02-06
 categories:
-  - 2011
+  - "2011"
 ---
 
 In spite of the new running shoes turning up and being too small, I dug my old ones out (which are destroyed, but still), and figured it wouldn't hurt to run a couple of miles on them.

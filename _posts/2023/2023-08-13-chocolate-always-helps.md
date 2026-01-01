@@ -3,7 +3,7 @@ layout: single
 title: "Chocolate always helps"
 date: 2023-08-13
 categories:
-  - 2023
+  - "2023"
 ---
 
 After noodling around with the internet for much of the morning, I looked out at the sky, saw that it was cloudy, and thought "if not now, when?". I have a friend in Canada to thank for that phrase echoing around my head during moments of apathy.

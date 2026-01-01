@@ -3,7 +3,7 @@ layout: single
 title: "Breaking Down"
 date: 2018-12-06
 categories:
-  - 2018
+  - "2018"
 ---
 
 We were supposed to be visiting a foster carer looking after a young cat for the RSPCA today (the "Royal Society for the Protection of Animals, if you live outside the UK). We used this lever to galvanise the children into action - cleaning their rooms, and helping tidy the rest of the house in preparation for the arrival of Christmas (and the cat). After a hectic morning filled with runs to charity shops, and the rubbish dump, we began to glimpse our long lost house.

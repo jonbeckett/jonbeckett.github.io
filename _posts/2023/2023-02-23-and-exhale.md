@@ -3,7 +3,7 @@ layout: single
 title: "And exhale"
 date: 2023-02-23
 categories:
-  - 2023
+  - "2023"
 ---
 
 You know the vague blog post I wrote late last night about magicians pulling rhinocerouses from hats? Not happening. Apparently the universe was playing a bit of a joke on me - the sort of joke that ends up with you sitting in bed, coming to terms with several days of blind panic rather than sleeping soundly.

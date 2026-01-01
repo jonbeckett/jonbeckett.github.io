@@ -3,7 +3,7 @@ layout: single
 title: "Celebratory coffee"
 date: 2025-02-13
 categories:
-  - 2025
+  - "2025"
 ---
 
 I’m sitting in the dark of the junk room at home, sipping a celebratory cup of coffee and listening to a largely forgettable “jazz café” playlist after climbing something of a mountain today. A mountain only I know exists.

@@ -3,7 +3,7 @@ layout: single
 title: "Ubuntu Linux"
 date: 2014-02-27
 categories:
-  - 2014
+  - "2014"
 ---
 
 Given that I work for a Microsoft partner in the daytime, immersed in the worlds of Windows 8, .

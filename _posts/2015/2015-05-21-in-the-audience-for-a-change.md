@@ -3,7 +3,7 @@ layout: single
 title: "In The Audience For A Change"
 date: 2015-05-21
 categories:
-  - 2015
+  - "2015"
 ---
 
 Normally when I set an alarm on the Kindle tablet, I wake up a few minutes it before it. This morning it was set to go off at 5:30am. I woke up at 4:30, 4:45, 5:00, and finally stared at the ceiling for a while before sliding out of bed, and stumbling off in the direction of the shower. By 6:20 I was putting one foot in front of the other in the general direction of the railway station, and by 6:40, had bought a ticket, and set off towards London once more.

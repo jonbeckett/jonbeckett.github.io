@@ -3,7 +3,7 @@ layout: single
 title: "Unexpected Time Off"
 date: 2020-10-28
 categories:
-  - 2020
+  - "2020"
 ---
 
 After several weeks submerged in one of the most complex project design phases I have been involved in for quite some time, a window has opened up in my schedule. A few days. I grabbed them. I have a mountain of unused holiday from last year, so it made sense. A couple of days to kick back, read books, watch movies, write endlessly recursive blog posts, and of course play video games.

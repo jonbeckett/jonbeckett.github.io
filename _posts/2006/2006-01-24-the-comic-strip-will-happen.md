@@ -3,7 +3,7 @@ layout: single
 title: "The Comic Strip Will Happen"
 date: 2006-01-24
 categories:
-  - 2006
+  - "2006"
 ---
 
 I have just decided that a comic strip will happen.

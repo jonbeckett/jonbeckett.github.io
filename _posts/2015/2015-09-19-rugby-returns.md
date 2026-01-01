@@ -3,7 +3,7 @@ layout: single
 title: "Rugby Returns"
 date: 2015-09-19
 categories:
-  - 2015
+  - "2015"
 ---
 
 For the past four years Sunday mornings throughout the autumn, winter and spring have not been filled with late breakfasts, endless cups of tea, and catching up with friends on the internet. Instead they have been all about steaming breath, the thunder of little feet, and stamping back and forth with hands deep in pockets alongside other similarly challenged parents while stood on the touchline of Rugby pitches.

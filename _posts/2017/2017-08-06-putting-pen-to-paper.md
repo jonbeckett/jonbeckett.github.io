@@ -3,7 +3,7 @@ layout: single
 title: "Putting Pen To Paper"
 date: 2017-08-06
 categories:
-  - 2017
+  - "2017"
 ---
 
 Over the last ten years I have emptied my head from time to time into the pages of a paper notebook. I remember buying the first one - a Moleskine, because that's what everybody seemed to be raving about at the time. I had recently bought my first Macbook, and was actually putting effort into the whole "blogging" escapade.

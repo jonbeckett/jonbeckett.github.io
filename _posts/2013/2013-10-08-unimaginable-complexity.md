@@ -3,7 +3,7 @@ layout: single
 title: "Unimaginable Complexity"
 date: 2013-10-08
 categories:
-  - 2013
+  - "2013"
 ---
 
 I wrote an insane chunk of programming todaywhile sickand am quietly pleased with myself. Just the fact that I was able to wrap my head around a multi-dimensional problem was enoughthen when the code worked first time (I envisaged an hour of soul destroying debugging), I could quite happily have cartwheeled around the room. Doing so would have caused an avalanche of brick-a-brack, but that's beside the point.

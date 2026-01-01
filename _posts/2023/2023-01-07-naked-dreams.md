@@ -3,7 +3,7 @@ layout: single
 title: "Naked Dreams"
 date: 2023-01-07
 categories:
-  - 2023
+  - "2023"
 ---
 
 I had quite the strangest dream in quite some time last night, and told my other half about it shortly after waking up. If not for telling her, it would no doubt have ebbed away from my memory.

@@ -3,7 +3,7 @@ layout: single
 title: "Back To Reality"
 date: 2019-08-30
 categories:
-  - 2019
+  - "2019"
 ---
 
 After a week of walking headland footpaths, eating pub lunches, building sandcastles, and paddling in the surf, we finally arrived home late yesterday evening. Back to reality. Back to the real world. Back to mad scrambles to make breakfasts, packed lunches, arm-twisting teenagers into doing their homework, and back to the mountain of chores.

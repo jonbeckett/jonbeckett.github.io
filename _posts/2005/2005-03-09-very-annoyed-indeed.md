@@ -3,7 +3,7 @@ layout: single
 title: "Very Annoyed Indeed"
 date: 2005-03-09
 categories:
-  - 2005
+  - "2005"
 ---
 
 I have discovered (to my horror) that the company I work for holds the intellectual property rights over anything I do involving software development - no matter where or when I have worked on anything.

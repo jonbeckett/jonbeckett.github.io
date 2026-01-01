@@ -3,7 +3,7 @@ layout: single
 title: "Procrastinating With Style"
 date: 2013-06-25
 categories:
-  - 2013
+  - "2013"
 ---
 
 There should be a warning sticker on my forehead when I go to job interviews"if given pens and paper, will get nothing done". While not entirely true, it's true enough that the above collection of doodles happened earlier.

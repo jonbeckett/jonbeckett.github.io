@@ -3,7 +3,7 @@ layout: single
 title: "Returning To Stormwind"
 date: 2020-02-25
 categories:
-  - 2020
+  - "2020"
 ---
 
 While talking to a good friend on the internet a few days ago, they mentioned playing World of Warcraft, and I realised how long it's been since I last played it. Literally years. After re-installing it over the weekend, I am trying not to fall too deeply into it's relentless grip.

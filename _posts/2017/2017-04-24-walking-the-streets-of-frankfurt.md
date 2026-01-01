@@ -3,7 +3,7 @@ layout: single
 title: "Walking The Streets Of Frankfurt"
 date: 2017-04-24
 categories:
-  - 2017
+  - "2017"
 ---
 
 After finishing work unexpectedly early this evening (who knew mainland Europe were all work-shy? I want to move here immediately). Seriously though - I'm used to arriving in the office before 9, and working through often until 6pm. I arrived at 10am, and things were winding down by 4pm. How does that even work? How do people get anything done?

@@ -3,7 +3,7 @@ layout: single
 title: "Re Forming The Writing Habit"
 date: 2015-01-05
 categories:
-  - 2015
+  - "2015"
 ---
 
 For the past few evenings I have been sitting the moleskine notebook in front of me on the desk in the study junk room, and trying to empty my head. It's not happening easily at the moment, but it's getting easier. I'm having to remind myself that writing in the book is different than writing for publication on the internet - there is no self censorship.

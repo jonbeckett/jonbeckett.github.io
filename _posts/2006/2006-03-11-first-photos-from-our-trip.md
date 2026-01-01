@@ -3,7 +3,7 @@ layout: single
 title: "First Photos From Our Trip"
 date: 2006-03-11
 categories:
-  - 2006
+  - "2006"
 ---
 
 We're back! We arrived home a few hours ago, and I've just got around to making a start with sorting the photos out.

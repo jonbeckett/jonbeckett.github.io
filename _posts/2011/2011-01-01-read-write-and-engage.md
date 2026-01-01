@@ -3,7 +3,7 @@ layout: single
 title: "Read Write And Engage"
 date: 2011-01-01
 categories:
-  - 2011
+  - "2011"
 ---
 
 While playing with Tumblr over the last few days, I have been reminded how great the community is, how much creativity is going on, and how much more people share here compared to just about anywhere else online;

@@ -3,7 +3,7 @@ layout: single
 title: "Mind The Gap"
 date: 2010-05-27
 categories:
-  - 2010
+  - "2010"
 ---
 
 I arrived back in England at about 7pm this evening, and began the railway adventure towards home. Seeing "Mind the Gap" painted on the ground reminded me that I really was home. Internationally, it's probably up there with "whoops-a-daisies".

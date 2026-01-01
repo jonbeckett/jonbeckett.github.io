@@ -3,7 +3,7 @@ layout: single
 title: "Half Past My Bedtime"
 date: 2025-10-16
 categories:
-  - 2025
+  - "2025"
 ---
 
 The clock ticked past midnight ten minutes ago. You find me sitting in the dark of the junk room, perched in front of the Mac with a mug of coffee while Joni Mitchell sings “Both Sides Now”. Scratch that. Tony Bennet is now crooning his way through “The Way You Look Tonight”.

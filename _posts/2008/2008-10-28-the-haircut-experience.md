@@ -3,7 +3,7 @@ layout: single
 title: "The Haircut Experience"
 date: 2008-10-28
 categories:
-  - 2008
+  - "2008"
 ---
 
 Yesterday morning, on the way to work I dropped into one of the local barbers to get my hair cut. Little did I know that I would get to meet perhaps the most entertaining person to ever cut my hair.

@@ -3,7 +3,7 @@ layout: single
 title: "150 Posts Continuity"
 date: 2010-08-30
 categories:
-  - 2010
+  - "2010"
 ---
 
 It just occurred to me that this is going to be my 150th post on Tumblr, so I thought a few words might be appropriate.

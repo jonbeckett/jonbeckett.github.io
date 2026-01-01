@@ -3,7 +3,7 @@ layout: single
 title: "Self Isolating"
 date: 2020-10-08
 categories:
-  - 2020
+  - "2020"
 ---
 
 Our entire household has to self isolate for the next day or so - for as long as it takes for my eldest daughter to get her COVID test result back. She has been fighting a bad cold for the last few days, and lost her sense of taste last night. Out of an abundance of caution, she informed her employer (she works as a Nanny), who requested she got a test.

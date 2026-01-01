@@ -3,7 +3,7 @@ layout: single
 title: "Night Fever In The Kitchen"
 date: 2011-09-04
 categories:
-  - 2011
+  - "2011"
 ---
 
 Our youngest daughter erupted in floods of tears this morning after her older sister refused to play Mario Kart with her. I heard the silent stomping through the house, the muffled thud as she hit the couch in the playroom, and then the wail of noise.

@@ -3,7 +3,7 @@ layout: single
 title: "The Journey Home"
 date: 2014-12-02
 categories:
-  - 2014
+  - "2014"
 ---
 
 After leaving the client site this afternoon I walked the all-too familiar route to the railway station, asked the information kiosk which platform my train was going to be at (it wasn't showing on the displays yet), and walked the length of the train looking for unticketed seats.

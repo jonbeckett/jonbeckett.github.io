@@ -3,7 +3,7 @@ layout: single
 title: "Were Still Standing"
 date: 2008-12-27
 categories:
-  - 2008
+  - "2008"
 ---
 
 After spending our first Christmas with children, more toys than most toy shops, a house full of family, and numerous inter-continental webcam calls, we are still here to tell the tale.

@@ -3,7 +3,7 @@ layout: single
 title: "Fake it till you make it"
 date: 2025-05-30
 categories:
-  - 2025
+  - "2025"
 ---
 
 After travelling north with several co-workers this morning, we arrived at our destination and temporary home for the next few days - a typical corporate hotel nestled in the countryside.

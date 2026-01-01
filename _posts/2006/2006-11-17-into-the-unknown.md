@@ -3,7 +3,7 @@ layout: single
 title: "Into The Unknown"
 date: 2006-11-17
 categories:
-  - 2006
+  - "2006"
 ---
 
 Today is the final day of the adoption preparation group, and immediately following it we are travelling to the north of England to visit my brother for the weekend. This might of course impact NaBloPoMo. I am taking my Palm Organiser and mobile phone with me, so with a little luck I will be able to use them to post on Saturday and Sunday.

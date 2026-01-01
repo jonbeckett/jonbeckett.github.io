@@ -3,7 +3,7 @@ layout: single
 title: "Returning To London"
 date: 2008-05-15
 categories:
-  - 2008
+  - "2008"
 ---
 
 It's looking like I'm back off to London for a few days each week to work with the same people I worked with last year.

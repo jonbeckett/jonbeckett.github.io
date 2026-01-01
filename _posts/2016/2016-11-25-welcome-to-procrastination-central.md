@@ -3,7 +3,7 @@ layout: single
 title: "Welcome To Procrastination Central"
 date: 2016-11-25
 categories:
-  - 2016
+  - "2016"
 ---
 
 I have been working on a development "sprint" for the last few weeks - which essentially means you write code as fast as you can, to deploy as fast as you can, to show the customer as fast as you can. The pointy haired boss in Dilbert once accurately described it as "No more planning, no more documentation - just start writing code and complaining".

@@ -3,7 +3,7 @@ layout: single
 title: "Electricity"
 date: 2024-10-22
 categories:
-  - 2024
+  - "2024"
 ---
 
 Exciting times arrived in the hereabouts this morning when a workman smashed and bashed his way around the front of our house. The workman was installing an electric car charging station - hopefully bringing the days of strategically planned trips to car-parks and service-stations to a close.

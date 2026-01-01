@@ -3,7 +3,7 @@ layout: single
 title: "Life The Universe And Everything"
 date: 2010-01-07
 categories:
-  - 2010
+  - "2010"
 ---
 
 While catching up on the various thoughts of those I follow on Facebook, LiveJournal, WordPress, Posterous and Tumblr early this morning (yes, I am mad), I chanced upon a really interesting post on Tumblr.

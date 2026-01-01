@@ -3,7 +3,7 @@ layout: single
 title: "Returning To Stormwind"
 date: 2016-05-13
 categories:
-  - 2016
+  - "2016"
 ---
 
 I must be mad. While writing this, the installer for World of Warcraft is quietly ticking over in the backgroundconstructing a portal to potentially the biggest, most pervasive time-suck ever invented.

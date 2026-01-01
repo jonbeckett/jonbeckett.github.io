@@ -3,7 +3,7 @@ layout: single
 title: "The Quest For Originality"
 date: 2011-08-03
 categories:
-  - 2011
+  - "2011"
 ---
 
 Tumblr is different than most blogging platforms in that it encourages sharing of content through the "reblog" featureI'm guessing the designers never envisaged reblog being used so widely, with so many people acting as librarians of the same content.

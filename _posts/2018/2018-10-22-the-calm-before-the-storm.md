@@ -3,7 +3,7 @@ layout: single
 title: "The Calm Before The Storm"
 date: 2018-10-22
 categories:
-  - 2018
+  - "2018"
 ---
 
 With seven days left until the idiocy of NaNoWriMo begins, it feels very much like the calm before the storm.

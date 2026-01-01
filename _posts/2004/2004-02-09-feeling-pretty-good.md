@@ -3,7 +3,7 @@ layout: single
 title: "Feeling Pretty Good"
 date: 2004-02-09
 categories:
-  - 2004
+  - "2004"
 ---
 
 For the first time in a few weeks I'm actually feeling okay. Still not 100%, but getting there 

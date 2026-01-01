@@ -3,7 +3,7 @@ layout: single
 title: "Embracing The Internet"
 date: 2008-05-21
 categories:
-  - 2008
+  - "2008"
 ---
 
 For those who were not aware, I am back working in London. This means getting up very early, spending several hours commuting each day, and returning very late. I basically get to see our children for about half an hour each evening during the week if I am lucky.

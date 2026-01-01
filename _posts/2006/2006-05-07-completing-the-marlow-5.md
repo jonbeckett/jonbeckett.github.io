@@ -3,7 +3,7 @@ layout: single
 title: "Completing The Marlow 5"
 date: 2006-05-07
 categories:
-  - 2006
+  - "2006"
 ---
 
 I finished the Marlow 5 this morning - amazing considering that I thought about pulling out last weekend. I had only gone out on about 5 training runs in total, so was a bit surprised to make it round.

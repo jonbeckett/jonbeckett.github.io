@@ -3,7 +3,7 @@ layout: single
 title: "Running Around In Circles"
 date: 2017-09-25
 categories:
-  - 2017
+  - "2017"
 ---
 
 Today began with a late start - leaving the house in time to arrive at the local hair cutting establishment just as they opened for the day. I chose the one filled with friendly ladies this time, rather than the alternative round the corner staffed by a grump guy that complains better than a taxi driver if given the chance.

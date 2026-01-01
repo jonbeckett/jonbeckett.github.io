@@ -3,7 +3,7 @@ layout: single
 title: "Taking A Break From The Social Internet"
 date: 2016-06-22
 categories:
-  - 2016
+  - "2016"
 ---
 
 I've had enough of the "social" internet - because it's not really "social" at all.

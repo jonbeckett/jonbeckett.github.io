@@ -3,7 +3,7 @@ layout: single
 title: "Frosty Saturday Morning"
 date: 2012-02-04
 categories:
-  - 2012
+  - "2012"
 ---
 
 The arrival of Saturday was marked by the streaming of sunlight across the bedroom ceiling, and the broadcasting of an easy listening playlist from the radio clock. While staring into space and half listening to Wichita Lineman, the thump of little feet approached unseen.

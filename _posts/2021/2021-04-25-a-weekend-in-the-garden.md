@@ -3,7 +3,7 @@ layout: single
 title: "A Weekend In The Garden"
 date: 2021-04-25
 categories:
-  - 2021
+  - "2021"
 ---
 
 Another weekend is slowly winding down. A weekend filled with gardening, and trips to and from the local rubbish tip. Over the last year, the rubbish tip has been the only place my other half and I have gone together - we have joked about it being a "date" of sorts.

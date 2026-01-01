@@ -3,7 +3,7 @@ layout: single
 title: "Happy New Year"
 date: 2017-12-31
 categories:
-  - 2017
+  - "2017"
 ---
 
 Most people will be waking up this morning to a brand new year. I on the other hand never really went to bed. I can now proudly state that I have passed the parenting milestone known as "staying up all night with your teenager after they drink themselves to a standstill at a party".

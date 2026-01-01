@@ -3,7 +3,7 @@ layout: single
 title: "Gardening On Good Friday"
 date: 2006-04-14
 categories:
-  - 2006
+  - "2006"
 ---
 
 It's "Good Friday" in the UK today. We're off work, and have been working on the garden. W is still out there, digging the far end over.

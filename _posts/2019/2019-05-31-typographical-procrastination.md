@@ -3,7 +3,7 @@ layout: single
 title: "Typographical Procrastination"
 date: 2019-05-31
 categories:
-  - 2019
+  - "2019"
 ---
 
 Yesterday lunchtime I discovered quite by chance that the latest beta of Scrivener for Windows doesn't crash in quite the same way the old version used to - which means I'll be going back on last week's dramatic pronouncement that "Scrivener is dead to me", and trying to convince everybody that I never said it in the first place.

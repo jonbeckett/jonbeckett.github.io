@@ -3,7 +3,7 @@ layout: single
 title: "Remembering More Innocent Times"
 date: 2007-09-23
 categories:
-  - 2007
+  - "2007"
 ---
 
 After a somewhat embattled and stressful week, I found myself slumped on the couch with the first cup of tea of the day this morning, and discovered that one of the satellite television channels was showing back-to-back episodes of "The Partridge Family".

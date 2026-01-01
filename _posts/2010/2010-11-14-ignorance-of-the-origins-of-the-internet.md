@@ -3,7 +3,7 @@ layout: single
 title: "Ignorance Of The Origins Of The Internet"
 date: 2010-11-14
 categories:
-  - 2010
+  - "2010"
 ---
 
 I've just been reading this article in a national newspaper, covering Vint Cerf's remarks about the IPv4 addresses running out. The article is fine, and the subject absolutely news-worthy. What annoys me is the comments from the great unwashed.

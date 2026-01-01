@@ -3,7 +3,7 @@ layout: single
 title: "Dungeons And Dragons"
 date: 2006-11-11
 categories:
-  - 2006
+  - "2006"
 ---
 
 I have a confession to make. I never played "Dungeons and Dragons" when I was younger. Meeting me as an adult, you might suspect otherwise - I own very nearly every video game system back to about 1984, have several Star Wars toys, own several comics, and find complicated things interesting. That just about takes me to the top of the "geek" tree among my peers.

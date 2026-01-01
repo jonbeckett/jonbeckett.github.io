@@ -3,7 +3,7 @@ layout: single
 title: "According To Greta"
 date: 2013-07-13
 categories:
-  - 2013
+  - "2013"
 ---
 
 The living room is dark, the patio doors wide open, the house lights off, a fan is forcing air around the room, and a movie is quietly painting light across the coffee table and far wall. I'm sitting on the couch, the ChromeBook propped on my lap, while the younger children sleep in a tent in the garden.

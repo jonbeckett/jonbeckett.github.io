@@ -3,7 +3,7 @@ layout: single
 title: "Lacking Belief"
 date: 2016-06-22
 categories:
-  - 2016
+  - "2016"
 ---
 
 I was going to title this post "I don't believe in anything, and I'm fine with that", but it seemed a bit long.

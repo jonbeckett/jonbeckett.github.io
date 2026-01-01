@@ -3,7 +3,7 @@ layout: single
 title: "Dropping Google Mail"
 date: 2015-06-26
 categories:
-  - 2015
+  - "2015"
 ---
 
 I moved away from Google Mail last night. I had been using Inbox (Google's whizzy new mail app) in both the browser, and on my mobile phone. If you didn't know, Inbox is the great vision of the future that Google will eventually force on you whether you like it or not (go watch theirpresentation if you have not seen it).

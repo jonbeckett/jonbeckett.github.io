@@ -3,7 +3,7 @@ layout: single
 title: "Being The Devils Advocate"
 date: 2016-03-05
 categories:
-  - 2016
+  - "2016"
 ---
 
 While talking to a friend earlier this evening about the nature of relationships, and interactions between people online, I started thinking about the lines that divide peopleand how commonly I find myself camping out on that line, which probably drives those that know me insane.

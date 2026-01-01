@@ -3,7 +3,7 @@ layout: single
 title: "Late To The Batman Game"
 date: 2013-04-29
 categories:
-  - 2013
+  - "2013"
 ---
 
 While wandering back from the swimming pool on Saturday afternoon we accidentally on purpose found ourselves in the local Computer Exchange place (read: nerd pawn shop) in search of cheap video games. A few minutes later I found myself stood in the queue with "Batman - Arkham Asylum", and "Batman - Arkham City" in my hands - for less than a fifth of their original sale price.

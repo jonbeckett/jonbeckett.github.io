@@ -3,7 +3,7 @@ layout: single
 title: "Why I Dont Like Football"
 date: 2007-03-20
 categories:
-  - 2007
+  - "2007"
 ---
 
 Football is a sport played by under educated, over paid psychophants. When not trying to cheat each other, they run to the referee of a match as small children might to a teacher in a playground, trying to get each other disciplined.

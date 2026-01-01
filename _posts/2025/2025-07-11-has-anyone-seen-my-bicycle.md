@@ -3,7 +3,7 @@ layout: single
 title: "Has anyone seen my bicycle?"
 date: 2025-07-11
 categories:
-  - 2025
+  - "2025"
 ---
 
 I’ve commented in the past about falling off the internet bicycle - somehow not finding the time to keep up with anything, or catch up with anybody. I’ve decided that I’ve not so much fallen off the bicycle than mislaid it completely. Perhaps it was actually stolen? I could use that as an excuse.

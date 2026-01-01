@@ -3,7 +3,7 @@ layout: single
 title: "Late Night Gibberish"
 date: 2017-10-30
 categories:
-  - 2017
+  - "2017"
 ---
 
 I'm sitting on a chair in the corner of my eldest daughter's bedroom at half-past midnight. We both have Chromebooks propped on our laps, and we're both writing blog posts. She's writing something sensible - I'm writing this ridiculously recursive rubbish just to show that if you start writing something - anything - then more will probably come.

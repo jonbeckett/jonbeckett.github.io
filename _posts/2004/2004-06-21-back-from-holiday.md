@@ -3,7 +3,7 @@ layout: single
 title: "Back From Holiday"
 date: 2004-06-21
 categories:
-  - 2004
+  - "2004"
 ---
 
 I'm back at work this morning, and waiting for a process to complete on a remote server - hence writing an entry in this blog.

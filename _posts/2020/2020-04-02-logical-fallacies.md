@@ -3,7 +3,7 @@ layout: single
 title: "Logical Fallacies"
 date: 2020-04-02
 categories:
-  - 2020
+  - "2020"
 ---
 
 I've buggered up posting every day this week, haven't I. Technically it's already Friday 3rd April, but until I fall asleep I'm going to count this still as Thursday. Friday doesn't start until I we get up in the morning - everybody understands that, right?

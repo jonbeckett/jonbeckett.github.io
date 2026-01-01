@@ -3,7 +3,7 @@ layout: single
 title: "Back In The Office"
 date: 2015-04-30
 categories:
-  - 2015
+  - "2015"
 ---
 
 I'm back in the office today. Staring out of the window at the blue sky and cotton wool clouds floating past, wishing I wasn't here. All I seem to have achieved so far today is a review and edit of a long document written by an ex-co-worker (can you have multiple hyphens like that?). I did some other stuff, but I can't really say what, or where, because it would likely land me in trouble knowing my luck.

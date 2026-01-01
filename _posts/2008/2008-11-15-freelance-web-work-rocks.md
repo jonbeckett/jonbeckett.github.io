@@ -3,7 +3,7 @@ layout: single
 title: "Freelance Web Work Rocks"
 date: 2008-11-15
 categories:
-  - 2008
+  - "2008"
 ---
 
 I've spent the afternoon drawing digital artwork for use as background for powerpoint slides. It's good to have such diverse skills and experience.

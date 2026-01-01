@@ -3,7 +3,7 @@ layout: single
 title: "King Of Shaves Turns Up Trumps"
 date: 2007-04-04
 categories:
-  - 2007
+  - "2007"
 ---
 
 "Turns up trumps"? I'm wondering if I need to define what these words mean before continuing with this blog entry... perhaps not - perhaps they use the term elsewhere in the world.

@@ -3,7 +3,7 @@ layout: single
 title: "Running Movies and Marilyn"
 date: 2023-06-26
 categories:
-  - 2023
+  - "2023"
 ---
 
 Another day. Another run. The only window I had to go running today was at lunchtime, which also coincided with the sun coming out. Perhaps the universe is trying to tell me something?

@@ -3,7 +3,7 @@ layout: single
 title: "Finding Balance"
 date: 2024-07-28
 categories:
-  - 2024
+  - "2024"
 ---
 
 I seem to have fallen off the writing bicycle just recently. I know I'll get back on it eventually -- I always do -- I just need to find a bit better balance. It's so easy to get swept up in the next thing, and the next, and the thing after that. Before you know it you're always searching, and never enjoying where you are.

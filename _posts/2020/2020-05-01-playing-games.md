@@ -3,7 +3,7 @@ layout: single
 title: "Playing Games"
 date: 2020-05-01
 categories:
-  - 2020
+  - "2020"
 ---
 
 I didn't post to the blog yesterday, after a "run" of several weeks. I imagine the universe will now fall in on itself. I did begin wondering though - if the kind of feature that announces "woot - you've posted 12 days in a row" was designed by psychologists.

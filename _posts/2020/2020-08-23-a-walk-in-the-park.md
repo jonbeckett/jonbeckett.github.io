@@ -3,7 +3,7 @@ layout: single
 title: "A Walk In The Park"
 date: 2020-08-23
 categories:
-  - 2020
+  - "2020"
 ---
 
 We went for a walk this afternoon in Basildon Park - about an hour from home. Perhaps the highlight of the walk was a dragonfly deciding to land on my knee while sitting on a bench, waiting for the rest of the family to catch up.

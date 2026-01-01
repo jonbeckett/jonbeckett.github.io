@@ -3,7 +3,7 @@ layout: single
 title: "A self destruction and an exodus"
 date: 2024-10-21
 categories:
-  - 2024
+  - "2024"
 ---
 
 In the spirit of Wellybob the Backwards Cat, who starred in a single episode of a british 1970s children's television show called "Jamie and the Magic Torch", I'm going to write this post in reverse order.

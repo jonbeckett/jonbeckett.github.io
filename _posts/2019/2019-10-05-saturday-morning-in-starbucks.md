@@ -3,7 +3,7 @@ layout: single
 title: "Saturday Morning In Starbucks"
 date: 2019-10-05
 categories:
-  - 2019
+  - "2019"
 ---
 
 I overslept this morning. Spectacularly. Well - spectacularly for me. I didn't scrape myself out of bed until 9am, and then my head reminded me that I drank three glasses of wine while watching "It's Always Sunny in Philadelphia" late last night. It's taken me until now (an hour and a half later) to come round. I really can't drink any more.

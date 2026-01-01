@@ -3,7 +3,7 @@ layout: single
 title: "Thinking About Blogfriday"
 date: 2009-06-27
 categories:
-  - 2009
+  - "2009"
 ---
 
 I have had this domain name sat dormant for quite a while - www.blogfriday.net - and have been wondering what to do with it.

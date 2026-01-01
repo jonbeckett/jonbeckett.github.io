@@ -3,7 +3,7 @@ layout: single
 title: "To Begin Again"
 date: 2012-01-27
 categories:
-  - 2012
+  - "2012"
 ---
 
 I've sat here for the last few minutes and re-written this opening sentence several times. How do you start? What should your first words say? How important are they? While dithering, rewriting, changing my mind, and writing the words you are reading now, it occurred to me that I was already doing the right thing; recording thoughts.

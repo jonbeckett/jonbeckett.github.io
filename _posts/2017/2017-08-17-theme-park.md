@@ -3,7 +3,7 @@ layout: single
 title: "Theme Park"
 date: 2017-08-17
 categories:
-  - 2017
+  - "2017"
 ---
 
 Today marked the last "day off work" of my staycation. We decided earlier in the week to gather all of our various coupons together, and spend the day at "Thorpe Park" - a theme park about an hour from home that has roller coasters, rides, stalls, and all the rest of the things you would expect of a sizeable theme park.

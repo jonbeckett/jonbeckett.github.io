@@ -3,7 +3,7 @@ layout: single
 title: "Camping Is Great"
 date: 2003-05-28
 categories:
-  - 2003
+  - "2003"
 ---
 
 We went camping over the weekend (and I had yesterday off - 4 day weekend 

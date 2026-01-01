@@ -3,7 +3,7 @@ layout: single
 title: "Thunderbolts And Lightning"
 date: 2016-07-12
 categories:
-  - 2016
+  - "2016"
 ---
 
 A couple of evenings ago, somebody I know quite well published a post on Facebook that caused perhaps the most entertaining argument I have seen in quite some time. The argument was happening in public, so I saw no shame in watching the drama unfold from my usual perch, high atop the fence I like to sit on.

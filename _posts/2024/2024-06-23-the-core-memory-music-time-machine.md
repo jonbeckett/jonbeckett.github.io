@@ -3,7 +3,7 @@ layout: single
 title: "The core memory music time-machine"
 date: 2024-06-23
 categories:
-  - 2024
+  - "2024"
 ---
 
 The clock is racing towards midnight, and before long my week off will be no more.

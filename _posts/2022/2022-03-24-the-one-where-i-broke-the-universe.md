@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Broke The Universe"
 date: 2022-03-24
 categories:
-  - 2022
+  - "2022"
 ---
 
 Something rather odd happened today. Actually - scratch that - something very odd happened today. You need some back-story first though.

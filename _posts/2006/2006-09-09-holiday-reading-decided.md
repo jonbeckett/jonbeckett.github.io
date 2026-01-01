@@ -3,7 +3,7 @@ layout: single
 title: "Holiday Reading Decided"
 date: 2006-09-09
 categories:
-  - 2006
+  - "2006"
 ---
 
 By the time you read this, I will most likely either be on an aircraft somewhere over europe, or sat on a balcony in the middle of knowhere in deepest Turkey, reading one of the books below. Yes - I finally decided which books to take with me for the week ahead.

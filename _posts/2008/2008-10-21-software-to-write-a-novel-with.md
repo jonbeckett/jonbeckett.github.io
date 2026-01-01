@@ -3,7 +3,7 @@ layout: single
 title: "Software To Write A Novel With"
 date: 2008-10-21
 categories:
-  - 2008
+  - "2008"
 ---
 
 With NaNoWriMo approaching, I have been wondering what to use to write my book. After a cursory search around the internet - looking at products such as yWriter and NewNovelist, I came to a startling conclusion - it's all unnecessary crap.

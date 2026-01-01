@@ -3,7 +3,7 @@ layout: single
 title: "Look For The Helpers"
 date: 2020-03-17
 categories:
-  - 2020
+  - "2020"
 ---
 
 Somebody I have known for years and respect enormously blocked me today, and I feel kind of awful about it. I wrote a comment on one of their blog posts about the media reporting distorted statistics about Novel Coronavirus fatalities, and apparently that was the wrong thing to do.

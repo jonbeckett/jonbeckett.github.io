@@ -3,7 +3,7 @@ layout: single
 title: "And Then The Rain Fell"
 date: 2021-05-16
 categories:
-  - 2021
+  - "2021"
 ---
 
 While the sky remains filled with cold grey blankets, and the cats keep watch on the garden from the warmth of the living room, Spotify fills the study with music from a Paris jazz cafe as I struggle to pour words onto the page in an order that might work well together.

@@ -3,7 +3,7 @@ layout: single
 title: "Wednesday Night Becomes Thursday Morning"
 date: 2011-02-24
 categories:
-  - 2011
+  - "2011"
 ---
 
 As the clock ticks through to the early hours, and I'm still sitting here, coughing, sniffing, and attempting to fight a pretty bad head cold, I'm thinking I should get back on track with writing about life - about the things I've been up to.

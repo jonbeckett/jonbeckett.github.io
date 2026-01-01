@@ -3,7 +3,7 @@ layout: single
 title: "Almost Seduced By The Marketing Monster"
 date: 2019-02-18
 categories:
-  - 2019
+  - "2019"
 ---
 
 In-between conference calls, writing an endless stream of source code, cycling home, washing up, clearing the kitchen, and paying my children to tidy their rooms (no, really), I have been thinking about the email I sent out earlier - offering people the "opportunity" to contribute to my blog's existence on the internet.

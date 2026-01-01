@@ -3,7 +3,7 @@ layout: single
 title: "A Day In My Life Morning"
 date: 2007-03-23
 categories:
-  - 2007
+  - "2007"
 ---
 
 Simpson, being furious.

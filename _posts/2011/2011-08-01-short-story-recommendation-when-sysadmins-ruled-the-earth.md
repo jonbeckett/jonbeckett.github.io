@@ -3,7 +3,7 @@ layout: single
 title: "Short Story Recommendation When Sysadmins Ruled The Earth"
 date: 2011-08-01
 categories:
-  - 2011
+  - "2011"
 ---
 
 If you've never read any of Cory Doctorow's books, you have missed out. I discovered "When Sysadmins Ruled the Earth" amid a compilation of short stories called "Overclocked" while commuting to and from London a couple of years ago, and it remains one of the best short stories I've ever read.

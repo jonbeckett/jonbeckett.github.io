@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Restored Our Tv Reception"
 date: 2010-08-18
 categories:
-  - 2010
+  - "2010"
 ---
 
 We don't have a normal TV aerial - or at least, not for the big TV in the living room - chiefly because it has the worst reception in the known universe.The town we live in rests in the foot of a beautiful rolling valley - and while it provides wonderful walks along the river in summer, it also means we may as well turn the TV aerial on our roof into a coat hangar.

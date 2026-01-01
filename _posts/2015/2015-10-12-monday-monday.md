@@ -3,7 +3,7 @@ layout: single
 title: "Monday Monday"
 date: 2015-10-12
 categories:
-  - 2015
+  - "2015"
 ---
 
 Do you ever wonder what on earth you're doing with your life? I sometimes do. It often feels like I'm on some kind of gigantic treadmill, churning out the steps - one foot in front of the other - again, and again, and again. Thud, thud, thud. Every week day, and every weekend seems to be the same at the moment.

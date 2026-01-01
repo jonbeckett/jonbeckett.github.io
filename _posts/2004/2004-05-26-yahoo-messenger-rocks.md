@@ -3,7 +3,7 @@ layout: single
 title: "Yahoo Messenger Rocks"
 date: 2004-05-26
 categories:
-  - 2004
+  - "2004"
 ---
 
 I have just installed the latest version of Yahoo Messenger on my computer at work, and have to say I've not been this impressed with a piece of software in a long time...

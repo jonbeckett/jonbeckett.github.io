@@ -3,7 +3,7 @@ layout: single
 title: "Google Chrome Tab Pinning"
 date: 2010-10-25
 categories:
-  - 2010
+  - "2010"
 ---
 
 Who knew you can do this with Google Chrome?

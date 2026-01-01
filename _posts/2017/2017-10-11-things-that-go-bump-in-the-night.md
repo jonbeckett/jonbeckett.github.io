@@ -3,7 +3,7 @@ layout: single
 title: "Things That Go Bump In The Night"
 date: 2017-10-11
 categories:
-  - 2017
+  - "2017"
 ---
 
 On Tuesday nights one of our children has a dance class, while another goes to football training. I get home from work, eat whatever is available at quite some speed, and then walk through town to collect from dance before heading back out to collect from the football pitch while my other half goes to Yoga. It's ever so slightly insane, but not unlike the juggling act many parents face each week. Tonight will be a similar story for me.

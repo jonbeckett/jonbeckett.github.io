@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Instant Messaging Became Social Networking"
 date: 2010-11-10
 categories:
-  - 2010
+  - "2010"
 ---
 
 At some point late this afternoon while checking my code in at work, Windows Live Messenger popped up asking if I wanted to upgrade to "Windows Live Messenger 2011". At first I was quite taken aback - and then the same creeping dream that reminds me Christmas is only 6 weeks away reminded me that 2011 isn't far away either.

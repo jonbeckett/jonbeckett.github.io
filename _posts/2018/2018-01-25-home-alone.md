@@ -3,7 +3,7 @@ layout: single
 title: "Home Alone"
 date: 2018-01-25
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's heading towards midnight, the children are fast asleep in bed, and I'm sitting alone in the study typing up a blog post on the old desktop PC. I can hear the tumble dryer rumbling away in the background, and the occasional clunk of the cat-flap as the cats come and go. I'm listening to streaming radio, there's an empty cup of coffee just out of reach, and a tub of ice cream the children knew nothing about hiding in the freezer.

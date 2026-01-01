@@ -3,7 +3,7 @@ layout: single
 title: "Stop The World"
 date: 2014-01-24
 categories:
-  - 2014
+  - "2014"
 ---
 
 At some point over the next few weeks I'm almost certainly going to meet myself travelling in the opposite direction somewhere. Before you start, I know it would contravene the conservation of mass rule, but then Marty McFly did it in Back to the Future, so I'm guessing the physicists must all be wrong.

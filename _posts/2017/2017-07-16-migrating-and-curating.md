@@ -3,7 +3,7 @@ layout: single
 title: "Migrating And Curating"
 date: 2017-07-16
 categories:
-  - 2017
+  - "2017"
 ---
 
 My phone has been sitting on the corner of my desk at work all day, quietly having a nervous breakdown. I installed the Flickr app on it, and told it to start automatically backing up every photo I've ever taken with the phone. I've also moved all of my old Instagram photos - a selection of which are now available to view [https://flickr.com/photos/divergentwords]. Years ago I used to curate all of the photos I uploaded to the internet. After a day out with the camera I would arrive home, upload the photos, caption them, tag them, and put them into albums. Ever since Google Photos arrived, I've let the machinery in the cloud do all that for me - resulting in not remembering what on earth I've taken, or how I might find it again.

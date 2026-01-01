@@ -3,7 +3,7 @@ layout: single
 title: "Running Without Moving"
 date: 2003-11-06
 categories:
-  - 2003
+  - "2003"
 ---
 
 As you will have noticed if you have visited via the "blog" URL, I am in the process of re-writing the Blog script, and have now ditched the old version. Over the next few days I will be adding tons more functionality to it and getting closer to a release version.

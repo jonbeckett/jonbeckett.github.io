@@ -3,7 +3,7 @@ layout: single
 title: "Returning To Instagram"
 date: 2012-11-30
 categories:
-  - 2012
+  - "2012"
 ---
 
 I re-joined Instagram earlier in the week. I'm not really sure why I did it, and I'm not really sure if it's a good idea or not. I don't seem to be sure about a lot of things any more.

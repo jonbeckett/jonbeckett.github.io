@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning On Naboo"
 date: 2011-03-13
 categories:
-  - 2011
+  - "2011"
 ---
 
 Normally Sunday mornings would find me in the playpark while the children race back and forth on rollerskates, skateboards, or bikes, competing for my attention while showing off their latest daredevil antics (perhaps I should qualify - for the youngest, her most dangerous trick is cycling while standing on the pedals - you really need to see her remarkable lack of balance and coordination to understand why we considered it dangerous).

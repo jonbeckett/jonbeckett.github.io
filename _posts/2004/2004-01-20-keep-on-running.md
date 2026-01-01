@@ -3,7 +3,7 @@ layout: single
 title: "Keep On Running"
 date: 2004-01-20
 categories:
-  - 2004
+  - "2004"
 ---
 
 It's mid morning on Tuesday, and I am working on an extension to some software I wrote a llllooonnnggg time ago. It's going fairly well, but it somewhat boring to implement.

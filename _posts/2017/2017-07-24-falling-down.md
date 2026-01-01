@@ -3,7 +3,7 @@ layout: single
 title: "Falling Down"
 date: 2017-07-24
 categories:
-  - 2017
+  - "2017"
 ---
 
 No, this post is not going to be about the Michael Douglas movie from the 1990s where an average guy goes on the rampage and holds up a fast food restaurant because his burger doesn't look like the one in the picture. This post is going to be about me falling on my backside last night. There I was, being Mr "Chorey Mc Chore Pants", taking the rubbish out, washing up, loading the washing machine, folding clothes, and so on - running here, there, and everywhere. Everything was going so well until I threw a pizza in the oven, and made my way out to the rubbish bins, barefoot, to put the cardboard box in the recycling bin.

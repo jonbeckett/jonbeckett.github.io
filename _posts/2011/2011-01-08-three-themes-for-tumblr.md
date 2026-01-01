@@ -3,7 +3,7 @@ layout: single
 title: "Three Themes For Tumblr"
 date: 2011-01-08
 categories:
-  - 2011
+  - "2011"
 ---
 
 While monkeying with Tumblr recently, I have somehow ended up making three different themes

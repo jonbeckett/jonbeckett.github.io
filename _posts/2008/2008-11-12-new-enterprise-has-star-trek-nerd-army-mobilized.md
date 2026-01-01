@@ -3,7 +3,7 @@ layout: single
 title: "New Enterprise Has Star Trek Nerd Army Mobilized"
 date: 2008-11-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 I haven't laughed so hard in ages. Here's the new Star Trek "Enterprise" (from the forthcoming movie);

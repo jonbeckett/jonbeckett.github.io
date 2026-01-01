@@ -3,7 +3,7 @@ layout: single
 title: "September Really "
 date: 2017-08-31
 categories:
-  - 2017
+  - "2017"
 ---
 
 I'm working from home today. This really means I'm answering emails, carrying on the research I was doing yesterday, running back and forth between the washing machine and the washing line, and trying to ignore the children who have brought friends home, and are now re-filling the sink with washing up. My other half is hiding in the lounge, knitting something.

@@ -3,7 +3,7 @@ layout: single
 title: "The Journey Home"
 date: 2010-03-10
 categories:
-  - 2010
+  - "2010"
 ---
 
 1st Mile

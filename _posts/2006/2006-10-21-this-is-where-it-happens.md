@@ -3,7 +3,7 @@ layout: single
 title: "This Is Where It Happens"
 date: 2006-10-21
 categories:
-  - 2006
+  - "2006"
 ---
 
 I thought it might be fun to take a picture of the desk at home in the study... this is where all the geekiness eminates from.

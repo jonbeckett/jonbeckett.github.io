@@ -3,7 +3,7 @@ layout: single
 title: "Buzz Out Loud And The End Of All Things"
 date: 2012-03-23
 categories:
-  - 2012
+  - "2012"
 ---
 
 People often say "all good things come to an end", and I can't help feeling that sometimes they shouldn't. Of course we can't force the present to continue in it's current shape or form, but we often take for granted what we have. The prompt for this avalanche of fond recollection and wistful regret is the news just slipped into the Twitter firehose by Molly Wood - that "Buzz Out Loud" will be no more after April 5th.

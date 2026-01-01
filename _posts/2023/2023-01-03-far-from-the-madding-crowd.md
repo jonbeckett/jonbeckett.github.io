@@ -3,7 +3,7 @@ layout: single
 title: "Far from the madding crowd"
 date: 2023-01-03
 categories:
-  - 2023
+  - "2023"
 ---
 
 It's been a strange sort of day. While the rest of the world went about their very important business I knocked around at home. Yes, I was working - but I was also doing washing, tidying the kitchen up, clearing the lounge up, going emergency shopping for a sick daughter, and generally spinning too many plates at once.

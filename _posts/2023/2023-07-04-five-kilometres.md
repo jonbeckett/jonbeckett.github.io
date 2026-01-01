@@ -3,7 +3,7 @@ layout: single
 title: "Five Kilometres"
 date: 2023-07-04
 categories:
-  - 2023
+  - "2023"
 ---
 
 I ran at lunchtime today. "Officially" I'm on week 7 of "Couch to 5K". Unofficially, I thought "f*ck it", and ran 5K. I went slowly. It hasn't escaped me that I've lost no weight at all while doing this idiot escapade, and still have problems with my left achilles tendon - but it's not been getting any worse.

@@ -3,7 +3,7 @@ layout: single
 title: "Back To Basics"
 date: 2014-08-23
 categories:
-  - 2014
+  - "2014"
 ---
 
 It's been several days since I last wrote anything here, and I think I know whyI'm trying too hard. Rather than just empty my head into here at the end of each day, I keep thinking "is anybody going to be interested in what I might have to say?", and end up not posting. There's also the whole thing about being buried at work recently, and sick for the last several weeks that has resulted in my not particularly wanting to do anything on an evening.

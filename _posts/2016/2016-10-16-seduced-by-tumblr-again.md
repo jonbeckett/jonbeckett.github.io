@@ -3,7 +3,7 @@ layout: single
 title: "Seduced By Tumblr Again"
 date: 2016-10-16
 categories:
-  - 2016
+  - "2016"
 ---
 
 At 2am this morning I sat in bed on my own, gazing at my mobile phone, wondering when sleep would crash into me like anunpredictable freight train. I had just spent an hour catching up with a distant friend. After putting my phone on charge, pulling the covers up, and rolling over, I heard the familiar vibration behind me. The next half hour was filled withan entirely unexpected conversation with the one person I had really missed since leaving Tumblr.

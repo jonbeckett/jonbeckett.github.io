@@ -3,7 +3,7 @@ layout: single
 title: "Seduced By Snapchat"
 date: 2016-05-23
 categories:
-  - 2016
+  - "2016"
 ---
 
 I should have seen it coming. I really should. I installed Snapchat for the first time about a year ago, and removed it within hours because the interface was so hilariously unintuitive. Then about a month ago a few friends from the internet were busy posting ridiculously filtered selfies all over the place, and I installed it once again to take a look - and once again remembered "oh yes, this is Snapchat - that doesn't work like any other app". I think I lasted about two days before removing it again. Then this weekend happened.

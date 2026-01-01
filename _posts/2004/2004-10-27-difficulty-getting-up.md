@@ -3,7 +3,7 @@ layout: single
 title: "Difficulty Getting Up"
 date: 2004-10-27
 categories:
-  - 2004
+  - "2004"
 ---
 
 For some reason I had real trouble getting out of bed this morning. Actually, I've had real trouble getting out of bed for the last few weeks (that doesn't mean I took several weeks to get out of bed - rather that each morning for the last few weeks I have had trouble waking up... just thought I'd clear that one up).

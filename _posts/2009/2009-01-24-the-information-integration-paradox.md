@@ -3,7 +3,7 @@ layout: single
 title: "The Information Integration Paradox"
 date: 2009-01-24
 categories:
-  - 2009
+  - "2009"
 ---
 
 If I was ever going to have a falling down moment over something trivial, now would be the time.

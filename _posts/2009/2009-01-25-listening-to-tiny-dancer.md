@@ -3,7 +3,7 @@ layout: single
 title: "Listening To Tiny Dancer"
 date: 2009-01-25
 categories:
-  - 2009
+  - "2009"
 ---
 
 It's Sunday evening - heading towards 10:30pm - and I'm sat listening to "Tiny Dancer" on the "Madman Across the Water" album by Elton John. There is an interesting story about Elton John that the newspapers never tell. Although he often behaves like a spoiled infant when television cameras are pointed in his direction, the truth is as far removed as you could possibly imagine.

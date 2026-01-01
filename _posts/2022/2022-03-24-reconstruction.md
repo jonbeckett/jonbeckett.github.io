@@ -3,7 +3,7 @@ layout: single
 title: "Reconstruction"
 date: 2022-03-24
 categories:
-  - 2022
+  - "2022"
 ---
 
 After a few days break from the blogging universe - during which time I built myself a rather lovely island on the internet and then quite predictably burned it to the ground - I'm quietly re-connecting a little this evening.

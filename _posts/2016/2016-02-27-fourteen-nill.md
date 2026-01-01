@@ -3,7 +3,7 @@ layout: single
 title: "Fourteen Nill"
 date: 2016-02-27
 categories:
-  - 2016
+  - "2016"
 ---
 
 You know that one where you're standing with some of the other parents at the start of the game, half keeping an eye on your middle daughter who is busy walking somebody elses dog around like she's the luckiest personin the world (no, we are not getting a dog), and half making conversation with somebody you don't really know at all?The subject turned to the town girls teamwhich was only formed a couple of months ago, and their ridiculously successful first matches (6-2 and 7-1 if memory serves). I mentioned to another parent that it would actually do them some good to loseto give them some humility, and some perspective.

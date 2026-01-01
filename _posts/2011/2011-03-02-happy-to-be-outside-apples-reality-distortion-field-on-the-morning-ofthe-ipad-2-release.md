@@ -3,7 +3,7 @@ layout: single
 title: "Happy To Be Outside Apples Reality Distortion Field On The Morning Ofthe Ipad 2 Release"
 date: 2011-03-02
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's going to be an interesting day - a day to avoid the internet perhaps. Even sat here in the UK, several hours ahead of the US east coast waking up the web is already awash with anticipation of the Apple iPad 2 launch. Fevered speculation abounds among both the Apple faithful, and the massed ranks of journalists.

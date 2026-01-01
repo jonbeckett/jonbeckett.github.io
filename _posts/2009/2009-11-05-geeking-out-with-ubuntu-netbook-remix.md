@@ -3,7 +3,7 @@ layout: single
 title: "Geeking Out With Ubuntu Netbook Remix"
 date: 2009-11-05
 categories:
-  - 2009
+  - "2009"
 ---
 
 A couple of evenings ago I slotted a spare hard drive into my ASUS EEE 1000H netbook, and installed the latest build of Ubuntu Netbook Remix. If you have no idea what I'm talking about, Ubuntu Netbook Remix is a distribution of Linux purposely designed for small form factor computers. I was very, very impressed.

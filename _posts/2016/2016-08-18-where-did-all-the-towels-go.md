@@ -3,7 +3,7 @@ layout: single
 title: "Where Did All The Towels Go "
 date: 2016-08-18
 categories:
-  - 2016
+  - "2016"
 ---
 
 This morning was going so well. I woke up at some ridiculous hour, fell back asleep and had quite the most bizarre dream in recent memory, and then woke again within moments of my phone erupting to tell me to get up. I got up, jumped in the shower (which is a ridiculous word to use really - I stepped into the shower while avoiding the jets of propably cold water, which turned out to be fine). I rubbed the free shower gel stuff into my hair and then washed it back out, stepped out of the shower, and reached for a towel.

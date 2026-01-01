@@ -3,7 +3,7 @@ layout: single
 title: "Thursday Morning Brain Dump"
 date: 2014-09-25
 categories:
-  - 2014
+  - "2014"
 ---
 
 I know I was buried under a mountain of workearlier in the week, but how on earth is it Thursday already ? Did the first part of the week happen at all ?For the first time in ages I sat with my other half and watched television last night (after transferring a domain name, because you all know I can't leave the computer alone for an entire nightwe'll write about the hosting account configuration debacle another time). The TV show was some series about a family moving to a new townin the 1950s, and starting a zoo. We watched two episodes in a row, to catch up with those already broadcast, and then ran out. Why on earth are TV shows made available one at a time online? Why not just release the whole lot? I know Netflix do itwhy can't the BBC? (rant over)And they wonder why so many people download entire series via bittorrent (ok I promise rant is really over now).

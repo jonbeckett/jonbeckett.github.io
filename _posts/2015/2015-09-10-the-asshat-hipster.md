@@ -3,7 +3,7 @@ layout: single
 title: "The Asshat Hipster"
 date: 2015-09-10
 categories:
-  - 2015
+  - "2015"
 ---
 
 I thought I might have nothing to write about on the way home this evening, but then the Universe stepped in and may as well have said "we can't have that, let's see what we can throw in your general direction".

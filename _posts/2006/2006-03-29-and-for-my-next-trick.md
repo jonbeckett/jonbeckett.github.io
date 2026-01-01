@@ -3,7 +3,7 @@ layout: single
 title: "And For My Next Trick"
 date: 2006-03-29
 categories:
-  - 2006
+  - "2006"
 ---
 
 I have just spent the morning digging myself out of a development hole.

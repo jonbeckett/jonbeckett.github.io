@@ -3,7 +3,7 @@ layout: single
 title: "Another Blog"
 date: 2008-04-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 Yes, the title of this post is quite correctI have begun writing another blog. I found myself caught between a virtual rock and a hard place. While this blog has become a "day in the life" journal, with an eclectic and varied audience, it limits me in knowing that none of you are remotely interested in what I actually do all day (software and web development).

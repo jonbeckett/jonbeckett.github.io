@@ -3,7 +3,7 @@ layout: single
 title: "Contemplating A Bullet Journal For The New Year"
 date: 2016-12-29
 categories:
-  - 2016
+  - "2016"
 ---
 
 I've been thinking about trying out a "Bullet Journal" for the new year. I have seen lots of friends on the internet start them, and have to admit it's tempting. I'll have to rationalise dumping the Filofax that I just re-filled, but at least a Bullet Journal won't attract the same level of aloof staring that happens when I fish the Filofax from my bag (unless I go full idiot, and double up plans in both the Filofax calendar, and the Bullet Journal).

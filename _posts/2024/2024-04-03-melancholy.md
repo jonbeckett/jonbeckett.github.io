@@ -3,7 +3,7 @@ layout: single
 title: "Melancholy"
 date: 2024-04-03
 categories:
-  - 2024
+  - "2024"
 ---
 
 I'm sitting in the dark of the junk room, lit by the glow of a desk lamp. Taylor Swift is quietly filling the room with wistful songs while I tap away at the keyboard. The clock will tick past midnight in a few moments.

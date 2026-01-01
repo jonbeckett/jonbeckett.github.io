@@ -3,7 +3,7 @@ layout: single
 title: "Departure Lounge"
 date: 2018-09-09
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's 8:55am, and you find me sitting in the middle of the departure lounge at London Heathrow airport. I woke at 6am, had a shower, then made bacon sandwiches for the children before discovering we had run out of milk to make coffee. After a few sips of redbush tea, I spotted a waiting taxi at the end of our driveway, and said goodbye to my family once again.

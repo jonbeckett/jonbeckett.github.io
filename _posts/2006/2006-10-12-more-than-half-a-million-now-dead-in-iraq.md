@@ -3,7 +3,7 @@ layout: single
 title: "More Than Half A Million Now Dead In Iraq"
 date: 2006-10-12
 categories:
-  - 2006
+  - "2006"
 ---
 
 I was going to write a blog entry about feeling awful today (I still have the cold), but events in the news have given me an excuse to write an opinionated blog entry for the first time in ages.

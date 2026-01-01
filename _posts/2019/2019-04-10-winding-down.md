@@ -3,7 +3,7 @@ layout: single
 title: "Winding Down"
 date: 2019-04-10
 categories:
-  - 2019
+  - "2019"
 ---
 
 Tomorrow will be my last day in the office for a week or so. We're headed away on Friday for a "rugby tour" with our middle daughter's rugby team, and then next week I have the week off - the first holiday days I have used in some time.

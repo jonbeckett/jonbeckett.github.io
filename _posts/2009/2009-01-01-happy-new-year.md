@@ -3,7 +3,7 @@ layout: single
 title: "Happy New Year"
 date: 2009-01-01
 categories:
-  - 2009
+  - "2009"
 ---
 
 It's 2009! Just handed the phone over with my parents - now talking to W. Just wanted to wish everybody who reads a happy new year.

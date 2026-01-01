@@ -3,7 +3,7 @@ layout: single
 title: "The apple doesnt fall far"
 date: 2025-06-03
 categories:
-  - 2025
+  - "2025"
 ---
 
 A few days ago my other half mentioned that she had a couple of Macbooks at work that were being retired, and wondered if I might be interested in them. I tentatively said “maybe”, knowing that we have a house full of computers of all shapes and sizes already.

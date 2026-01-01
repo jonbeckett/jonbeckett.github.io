@@ -3,7 +3,7 @@ layout: single
 title: "Getting Fatter By The Second"
 date: 2006-10-30
 categories:
-  - 2006
+  - "2006"
 ---
 
 After a particularly shitty day at work, after dinner I went to the local garage and bought a big bag or rubbish. I can now announce that I just ate a 250 gram bar of Cadbury's chocolate. Yay me.

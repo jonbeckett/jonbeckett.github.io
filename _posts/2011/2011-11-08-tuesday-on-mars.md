@@ -3,7 +3,7 @@ layout: single
 title: "Tuesday On Mars"
 date: 2011-11-08
 categories:
-  - 2011
+  - "2011"
 ---
 
 You probably started reading this post with half a thought about the titleand might be expecting some kind of Ziggy Stardust reference somewhere. You're not going to find it.

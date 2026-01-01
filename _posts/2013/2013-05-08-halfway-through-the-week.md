@@ -3,7 +3,7 @@ layout: single
 title: "Halfway Through The Week"
 date: 2013-05-08
 categories:
-  - 2013
+  - "2013"
 ---
 
 Weeks that begin with bank holidays always seem a little strange. Somehow it's already Wednesday. The morning is whistling past like some kind of fast train - and I don't appear to be on it. I feel oddly detached from the world at large today - I have all week really.

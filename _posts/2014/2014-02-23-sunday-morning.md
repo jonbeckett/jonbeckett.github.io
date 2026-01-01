@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning"
 date: 2014-02-23
 categories:
-  - 2014
+  - "2014"
 ---
 
 It's Sunday Morning, and I'm wondering what the day will bring. Our middle girl has gone to a rugby match, and our youngest is barraging me with requests to visit the playpark in town.

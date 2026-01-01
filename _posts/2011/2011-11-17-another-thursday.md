@@ -3,7 +3,7 @@ layout: single
 title: "Another Thursday"
 date: 2011-11-17
 categories:
-  - 2011
+  - "2011"
 ---
 
 We woke at 7 this morning with the radio alarm clock, and rolled towards each other. My better half surfaced from the bedclothes mole like, and smiled that smile that says "if you make me a cup of tea, I'll love you forever".

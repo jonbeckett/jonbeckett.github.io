@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Bought The Wrong Inner Tube"
 date: 2010-10-05
 categories:
-  - 2010
+  - "2010"
 ---
 
 I walked to work this morning. Three miles through the picturesque back streets of my home town. Why? Because my bike has a flat tyre, and is at the office. I didn't really give it much thought beyond "it will be easier to replace the inner tube than fix the puncture", and the thought stayed that way throughout the day - ticking away at the back of my mind, while I wrestled with programming problems.

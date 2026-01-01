@@ -3,7 +3,7 @@ layout: single
 title: "How Many Screens Is Too Many"
 date: 2008-07-11
 categories:
-  - 2008
+  - "2008"
 ---
 
 It's worth pointing out that in reality the only machines I am using are the Dell and Toshiba laptops for work. Everything else is there for the photo call because it happened to be nearby.

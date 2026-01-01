@@ -3,7 +3,7 @@ layout: single
 title: "Long Time No Blog"
 date: 2004-12-02
 categories:
-  - 2004
+  - "2004"
 ---
 
 This blog has been sadly lacking new entries just recently, so this is the start of an attempt to put that right.

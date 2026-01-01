@@ -3,7 +3,7 @@ layout: single
 title: "On Friendship"
 date: 2007-06-19
 categories:
-  - 2007
+  - "2007"
 ---
 
 Through many times in my life I have struggled to find the place where being a good person ends, and friendship begins - and where friendship ends and love begins.

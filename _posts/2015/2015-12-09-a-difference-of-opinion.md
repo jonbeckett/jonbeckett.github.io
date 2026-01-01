@@ -3,7 +3,7 @@ layout: single
 title: "A Difference Of Opinion"
 date: 2015-12-09
 categories:
-  - 2015
+  - "2015"
 ---
 
 My brother in law invited me to accompany him to the local brewery last night. Every so often they open their doors to "club members" (there is a yearly cost in return for discounts)the club members can bring friends with them, and you get to drink the various beers they make for free. You might think this would cause mayhem, but given that most people have work the next day, and it always takes place mid-week, everybody seems to behave themselves.

@@ -3,7 +3,7 @@ layout: single
 title: "Random Questions On A Saturday Morning"
 date: 2011-03-26
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's been a while since I've done this kind of blog post, but in the absence of anything more interesting to share this morning, here you go...

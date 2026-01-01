@@ -3,7 +3,7 @@ layout: single
 title: "On The Road Again"
 date: 2004-06-10
 categories:
-  - 2004
+  - "2004"
 ---
 
 I went for a run this morning - the start of my training for the 5K runnning race W has entered me into during July. I set off at about 7:30am, and did about a 2 mile lap around town, deliberately going slowly to avoid being too knackered towards the end - I didn't stop to walk though, which was good 

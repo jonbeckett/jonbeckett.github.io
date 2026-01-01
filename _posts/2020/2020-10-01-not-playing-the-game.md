@@ -3,7 +3,7 @@ layout: single
 title: "Not Playing The Game"
 date: 2020-10-01
 categories:
-  - 2020
+  - "2020"
 ---
 
 After an email conversation with an old friend earlier today, I thought it might be worth expanding on the re-appearance of my writing at Substack, and it's disappearance from Wordpress. I'll try to keep it brief, because I'm only too aware that writing about writing is quite possibly the most dull subject in the world. I hear Vogon poetry might be worse, but I don't think many people have survived long enough to warn others.

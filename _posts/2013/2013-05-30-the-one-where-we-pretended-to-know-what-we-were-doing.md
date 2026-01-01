@@ -3,7 +3,7 @@ layout: single
 title: "The One Where We Pretended To Know What We Were Doing"
 date: 2013-05-30
 categories:
-  - 2013
+  - "2013"
 ---
 
 Yesterday evening I raced home from work and set about helping tidy the house up ahead of visitors arriving. Ever since adopting children, from time to time the social workers have asked if we would talk to prospective adopters - to relate our experiences, answer their questions, and perhaps allay their fears.

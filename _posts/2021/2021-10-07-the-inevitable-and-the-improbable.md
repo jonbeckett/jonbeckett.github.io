@@ -3,7 +3,7 @@ layout: single
 title: "The Inevitable And The Improbable"
 date: 2021-10-07
 categories:
-  - 2021
+  - "2021"
 ---
 
 I have created a publication at Medium, and begun cross-posting my almost daily journal entries into it. In the past I've reserved Medium for the long-form "too long, didn't read" essays - perfect examples of "nobody wants to read this, but I'm writing it anyway". Those screeds live behind a pay-wall; attracting an incestuous audience of paying Medium writers consuming a diet of platform dog food while chasing fractions of pennies from the passing torrent of visitors.

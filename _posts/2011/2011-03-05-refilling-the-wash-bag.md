@@ -3,7 +3,7 @@ layout: single
 title: "Refilling The Wash Bag"
 date: 2011-03-05
 categories:
-  - 2011
+  - "2011"
 ---
 
 I don't know if all guys work the same way as me, but I tend to keep using stuff until I'm out of virtually everything, then resupply. Today was resupply day.

@@ -3,7 +3,7 @@ layout: single
 title: "Ever So Slightly Furious"
 date: 2021-09-19
 categories:
-  - 2021
+  - "2021"
 ---
 
 After my youngest daughter returned from rugby practice this morning, I accompanied her to the newspaper shop to hand her notice in.

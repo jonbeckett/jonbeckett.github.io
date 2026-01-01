@@ -3,7 +3,7 @@ layout: single
 title: "Changing Scenery"
 date: 2010-03-10
 categories:
-  - 2010
+  - "2010"
 ---
 
 A higher power than myself has dictated that I must move locations in the office once more - and I find myself sat back at the desk I had early last year. I'm well on my way towards having worked in every office of the entire building over the last nine (years.

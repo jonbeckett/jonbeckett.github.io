@@ -3,7 +3,7 @@ layout: single
 title: "From Selkirk To Euston"
 date: 2015-03-06
 categories:
-  - 2015
+  - "2015"
 ---
 
 I woke ridiculously early this morning. The phone alarm clock went off, and woke me from the most ridiculous dream I had in quite some time.

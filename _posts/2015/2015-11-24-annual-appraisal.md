@@ -3,7 +3,7 @@ layout: single
 title: "Annual Appraisal"
 date: 2015-11-24
 categories:
-  - 2015
+  - "2015"
 ---
 
 I had my "Annual Appraisal" at work today. It didn't get off to the best of starts -I had been fire-fighting a server in a distant server-farm throughout the day, and completely forgot about it. The phone on my desk rang at 3:15, and I ran down to the conference room with the leftovers of my coffeecompletely unprepared.

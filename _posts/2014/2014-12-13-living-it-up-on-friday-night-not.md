@@ -3,7 +3,7 @@ layout: single
 title: "Living It Up On Friday Night Not"
 date: 2014-12-13
 categories:
-  - 2014
+  - "2014"
 ---
 
 In television shows people always seem to have time to meet-up with friends at a local bar on their way home from work on a Friday night, catch up with each other, laugh, tell stories, and generally look like they don't have to be anywhere else. Ok. Maybe I just described the scene that tended to happen in every single episode of "Friends" (or at least, every episode I ever remember seeing).

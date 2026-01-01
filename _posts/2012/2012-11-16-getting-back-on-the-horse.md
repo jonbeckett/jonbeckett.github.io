@@ -3,7 +3,7 @@ layout: single
 title: "Getting Back On The Horse"
 date: 2012-11-16
 categories:
-  - 2012
+  - "2012"
 ---
 
 After a day off work sick (where my entire head turned into a very successful snot factory, breaking several production records over the course of 24 hours), and another day off looking after the children while a vote went on at their school for Police Commissioners, I returned to work today.

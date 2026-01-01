@@ -3,7 +3,7 @@ layout: single
 title: "The One Where The Car Broke Down"
 date: 2010-07-25
 categories:
-  - 2010
+  - "2010"
 ---
 
 An hour later, a nice man in a reflective orange tunic peered at the engine and fiddled with things. He then fetched his latop, plugged it into the car, and asked the car's engine management system what it thought was wrong with itself. "The car says it's a 'random misfire'"Well Duh.

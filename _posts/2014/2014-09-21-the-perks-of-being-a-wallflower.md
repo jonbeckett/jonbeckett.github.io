@@ -3,7 +3,7 @@ layout: single
 title: "The Perks Of Being A Wallflower"
 date: 2014-09-21
 categories:
-  - 2014
+  - "2014"
 ---
 
 Coming up with unique or original titles for posts is really hard. I've taken today's title from the book I bought a copy of while queueing in HMV to buy in-ear headphones for my phone. The old Samsung ones (from before the great switch to Windows Phone) died while out shopping for a suit, so I walked into HMV and picked up a pairof "Skullcandy" headphones. They are rubbish, by the way.

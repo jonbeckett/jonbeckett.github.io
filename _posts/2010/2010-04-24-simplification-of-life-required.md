@@ -3,7 +3,7 @@ layout: single
 title: "Simplification Of Life Required"
 date: 2010-04-24
 categories:
-  - 2010
+  - "2010"
 ---
 
 I read an update on Facebook from a long time friend this morning that she was "turning inward", and it got me thinking - about blogging, online presence, my current situation, and all sorts of other things.

@@ -3,7 +3,7 @@ layout: single
 title: "Meow Meow Beenz"
 date: 2015-05-12
 categories:
-  - 2015
+  - "2015"
 ---
 
 Ever since discovering the "profile rating" number in the profiles at LiveJournal, I've been quietly charting my daily worth as calculated by the secret algorithm in a spreadsheet. I can't help feeling a little like Jeff Winger in the "Meow Meow Beenz" episode of Community.

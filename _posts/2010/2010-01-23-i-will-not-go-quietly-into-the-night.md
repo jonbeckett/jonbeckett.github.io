@@ -3,7 +3,7 @@ layout: single
 title: "I Will Not Go Quietly Into The Night"
 date: 2010-01-23
 categories:
-  - 2010
+  - "2010"
 ---
 
 As I have wrestled over the past year with the idea of stopping all this blogging nonsense, I have been turned around each time by an avalanche of comments and emails. It's very easy to forget while thumping away at a keyboard in the dead of night that your thoughts and opinions will be broadcast across the world when you hit the submit button - in the same manner that you occasionally dig through the flotsam and jettsam for voices that speak to you - your voice may speak to others. Thousands of others.

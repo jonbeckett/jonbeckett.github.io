@@ -3,7 +3,7 @@ layout: single
 title: "Freeway Billboards"
 date: 2024-01-06
 categories:
-  - 2024
+  - "2024"
 ---
 
 Today's Bloganuary prompt asks "If you had a freeway billboard, what would it say?".

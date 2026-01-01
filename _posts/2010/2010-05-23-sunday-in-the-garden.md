@@ -3,7 +3,7 @@ layout: single
 title: "Sunday In The Garden"
 date: 2010-05-23
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's baking hot outside, so we're holed up on the house, doing homework, playing games, and otherwise hiding. I wandered outside briefly with the camera and snapped a few shots....

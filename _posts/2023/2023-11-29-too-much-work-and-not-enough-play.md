@@ -3,7 +3,7 @@ layout: single
 title: "Too Much Work and Not Enough Play"
 date: 2023-11-29
 categories:
-  - 2023
+  - "2023"
 ---
 
 Here we are again.

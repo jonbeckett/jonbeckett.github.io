@@ -3,7 +3,7 @@ layout: single
 title: "The Clothes Shopping Starts"
 date: 2007-04-29
 categories:
-  - 2007
+  - "2007"
 ---
 
 I finally started buying clothes today - not specifically to replace anything in my wardrobe; more to help me survive our camping trip next week. We are going to the Lake District in the UK - perhaps the most rugged landscape in England, and will be camping for the week in a tent, walking many miles each day, and "roughing it" basically.

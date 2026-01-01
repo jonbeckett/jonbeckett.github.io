@@ -3,7 +3,7 @@ layout: single
 title: "End Of Another Day"
 date: 2003-02-17
 categories:
-  - 2003
+  - "2003"
 ---
 
 It's getting near the end of the first day of the week (and as the HR department helpfully pointed out, a fifth of the way towards the weekend).

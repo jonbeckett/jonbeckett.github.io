@@ -3,7 +3,7 @@ layout: single
 title: "Finding Friends In Times Of Trouble"
 date: 2011-03-23
 categories:
-  - 2011
+  - "2011"
 ---
 
 While sat at home feeling sorry for myself yesterday afternoon (off sick again) I looked at my watch, and some flag got raised in my subconscious that somebody important - a long time friend on the other side of the world (the singer songwriter lady) - would be getting up soon. I then felt guilty about not having written for a long time, and decided to do just that.

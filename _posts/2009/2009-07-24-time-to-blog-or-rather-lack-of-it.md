@@ -3,7 +3,7 @@ layout: single
 title: "Time To Blog Or Rather Lack Of It"
 date: 2009-07-24
 categories:
-  - 2009
+  - "2009"
 ---
 
 This blog has been woefully neglected recently, and I can see no immediate opportunity to redress that. Work, life, and the universe in general are conspiring to eat all of my time. I'm belly-aching, aren't I.

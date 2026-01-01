@@ -3,7 +3,7 @@ layout: single
 title: "Dinner With Aunty"
 date: 2007-02-18
 categories:
-  - 2007
+  - "2007"
 ---
 
 Yesterday we travelled to Oxfordshire to have lunch with my Aunty Janet (we joked about me calling her this childhood name all day before setting out yesterday).

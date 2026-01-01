@@ -3,7 +3,7 @@ layout: single
 title: "Holding on to the good"
 date: 2023-08-30
 categories:
-  - 2023
+  - "2023"
 ---
 
 I start the ridiculous charity running escapade on Friday. I'm hoping to run 5km every day for a few days to "get ahead" - knowing that we will be flying out to go on holiday, so I'll lose a couple of days along the way. I'll take it easily on purpose, and hopefully protect myself in the process. People have already started sponsoring me, which as made it all very real.

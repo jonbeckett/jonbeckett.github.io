@@ -3,7 +3,7 @@ layout: single
 title: "Has Anybody Seen The Weekend"
 date: 2011-11-20
 categories:
-  - 2011
+  - "2011"
 ---
 
 Another weekend seems to have whistled past, and I'm struggling to understand where it went. I woke both yesterday (Saturday) and today with the same thought"how much of the weekend is left?".

@@ -3,7 +3,7 @@ layout: single
 title: "After Midnight"
 date: 2023-05-23
 categories:
-  - 2023
+  - "2023"
 ---
 
 Returning to Wordpress and resurrecting my old domain name feels like pulling on a set of comfortable old clothes. It's very strange.

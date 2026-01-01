@@ -3,7 +3,7 @@ layout: single
 title: "Another Monday Another Hotel"
 date: 2009-11-23
 categories:
-  - 2009
+  - "2009"
 ---
 
 Monday night, and I'm sat in a hotel once again. This hotel is not as grand as the previous one from the outside, but the rooms are infinitely better.

@@ -3,7 +3,7 @@ layout: single
 title: "Monsier Mange Tout"
 date: 2006-12-19
 categories:
-  - 2006
+  - "2006"
 ---
 
 I hereby crown my brother with the title "Monsier Mange Tout" (Mr. Eat Everything).

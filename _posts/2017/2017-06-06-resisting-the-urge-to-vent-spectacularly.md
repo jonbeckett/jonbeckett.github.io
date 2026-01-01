@@ -3,7 +3,7 @@ layout: single
 title: "Resisting The Urge To Vent Spectacularly"
 date: 2017-06-06
 categories:
-  - 2017
+  - "2017"
 ---
 
 I got back from travelling around the country with work a couple of hours ago. On the final leg of the journey home I picked up a copy of the "Evening Standard" that had been discarded on the train. It's a free paper printed in London each day. After flicking through the first few pages, I folded it back up - rather more neatly than I found it - and placed it back on the adjacent seat for somebody else to read.

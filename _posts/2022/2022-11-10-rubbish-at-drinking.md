@@ -3,7 +3,7 @@ layout: single
 title: "Rubbish at Drinking"
 date: 2022-11-10
 categories:
-  - 2022
+  - "2022"
 ---
 
 That  s it. I  ve had it with drinking. Or at least, I  ve had it with alcohol - until I forget how rubbish I  ve become at dealing with it. While watching the   Rings of Power   on TV last night I had a couple of glasses of wine. You would have thought this morning that I  d headbutted a brick wall all night.

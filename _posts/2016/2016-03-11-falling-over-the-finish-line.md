@@ -3,7 +3,7 @@ layout: single
 title: "Falling Over The Finish Line"
 date: 2016-03-11
 categories:
-  - 2016
+  - "2016"
 ---
 
 This week has beena slog, for all sorts of reasons that I'm not about to write in a public blog post. I wish I could, but it wouldn't solve anything. Let's just say bringing up children is hardand bringing up adopted children can beinfinitely more difficult.

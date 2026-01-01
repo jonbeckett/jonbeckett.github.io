@@ -3,7 +3,7 @@ layout: single
 title: "Tumblr Needs A Spam Reporting Mechanism"
 date: 2010-09-27
 categories:
-  - 2010
+  - "2010"
 ---
 
 I just had rather an entertaining "question" delivered to my Tumblr account; inviting me to visit a particular URL. It even proclaimed to be making my life easier by assuring me that I didn't need to comment.

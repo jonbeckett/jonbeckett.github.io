@@ -3,7 +3,7 @@ layout: single
 title: "Rearranging All The Things"
 date: 2017-09-19
 categories:
-  - 2017
+  - "2017"
 ---
 
 After an extended game of e-mail ping-pong between three people, one of whom's only function seemed to be the person that talks to the ship's computer and relay messages, I am no longer returning to Germany the week after next. Everything has skidded a couple of weeks. That game of ping-pong resulted in another game of ping pong with a different client. I'll be getting good at ping-pong at this rate. They have been hassling for me to visit for a few weeks, but guess what - as soon as you give them some dates in the near future, they can't make them. So I'll be visiting in about twenty five thousand years time.

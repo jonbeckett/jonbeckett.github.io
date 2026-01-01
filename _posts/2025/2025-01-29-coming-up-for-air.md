@@ -3,7 +3,7 @@ layout: single
 title: "Coming up for air"
 date: 2025-01-29
 categories:
-  - 2025
+  - "2025"
 ---
 
 The clock is ticking towards midnight once more.

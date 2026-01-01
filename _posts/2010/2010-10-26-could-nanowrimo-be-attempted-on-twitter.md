@@ -3,7 +3,7 @@ layout: single
 title: "Could Nanowrimo Be Attempted On Twitter "
 date: 2010-10-26
 categories:
-  - 2010
+  - "2010"
 ---
 
 Just did some mental arithmetic

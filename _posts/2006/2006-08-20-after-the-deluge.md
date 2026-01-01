@@ -3,7 +3,7 @@ layout: single
 title: "After The Deluge"
 date: 2006-08-20
 categories:
-  - 2006
+  - "2006"
 ---
 
 The whole complexion of the weekend changed with a rumble, a flicker of light and an ear-splitting crash yesterday afternoon. The dark clouds that have been rolling past for the past several days decided to call time on us.

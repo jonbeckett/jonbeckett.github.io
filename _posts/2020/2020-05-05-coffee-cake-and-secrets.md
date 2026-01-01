@@ -3,7 +3,7 @@ layout: single
 title: "Coffee Cake And Secrets"
 date: 2020-05-05
 categories:
-  - 2020
+  - "2020"
 ---
 
 I'm sitting in the relative quiet of the junk room at home, listening to spotify, sipping coffee, and finishing off a piece of cinnamon swirl my other half made a few days ago. It's a bit stale now, but still edible. My work laptop is sitting alongside me, with numerous notes filling the screen - the beginnings of the design for something.

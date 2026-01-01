@@ -3,7 +3,7 @@ layout: single
 title: "Photo Journey From Work To Home"
 date: 2005-05-10
 categories:
-  - 2005
+  - "2005"
 ---
 
 I thought it might be fun to do a "photo-journey" from work to home - so those outside of the UK can perhaps see what a typical town is like. Most of the pictures were taken from my mountain bike while cycling one handed - so I apologise in advance for the quality (or lack of).

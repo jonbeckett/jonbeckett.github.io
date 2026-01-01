@@ -3,7 +3,7 @@ layout: single
 title: "Counting Down The Days"
 date: 2017-12-18
 categories:
-  - 2017
+  - "2017"
 ---
 
 Apart from a conference call that will determine much of the year ahead for me, I have little to do this week at work. I'm not entirely sure what I'm going to fill my days with, other than hiding in the office to avoid setting foot in the house and having to deal with everybody else trashing every room, every day.

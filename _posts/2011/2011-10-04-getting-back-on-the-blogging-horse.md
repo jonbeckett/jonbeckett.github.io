@@ -3,7 +3,7 @@ layout: single
 title: "Getting Back On The Blogging Horse"
 date: 2011-10-04
 categories:
-  - 2011
+  - "2011"
 ---
 
 For the past several years I have lived a curious online existencefloating between the various social networks and blog platforms. I've been searching for an appropriate term to describe my behaviour for the last few minutes, and the only one that comes to mind is "journeyman".

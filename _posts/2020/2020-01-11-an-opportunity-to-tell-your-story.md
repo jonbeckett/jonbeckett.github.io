@@ -3,7 +3,7 @@ layout: single
 title: "An Opportunity To Tell Your Story"
 date: 2020-01-11
 categories:
-  - 2020
+  - "2020"
 ---
 
 Following a chance conversation with a distant friend this evening, I've been turning an idea over and over in my head. I have no idea how I might go about proceeding with it, but that's perhaps half the fun of it.

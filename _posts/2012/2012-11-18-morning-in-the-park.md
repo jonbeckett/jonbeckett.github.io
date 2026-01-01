@@ -3,7 +3,7 @@ layout: single
 title: "Morning In The Park"
 date: 2012-11-18
 categories:
-  - 2012
+  - "2012"
 ---
 
 There is a vague recollection of waking up far too early this morning, and hearing a little person ask "can we go downstairs?", followed by a grunt from W, and a retreating "thump thump thump" as the source of the question headed off in search of cartoons.

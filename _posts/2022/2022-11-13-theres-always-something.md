@@ -3,7 +3,7 @@ layout: single
 title: "Theres always something"
 date: 2022-11-13
 categories:
-  - 2022
+  - "2022"
 ---
 
 Over the next few days I'm going to find myself in a curious state of limbo with work - as one project comes to an end, and the next ramps up. Only it won't be one project - the next few months are going to be... interesting.

@@ -3,7 +3,7 @@ layout: single
 title: "Happy New Year"
 date: 2016-01-01
 categories:
-  - 2016
+  - "2016"
 ---
 
 We spent yesterday evening counting down the final hours of 2015 in the company of good friendseating, drinking, and playing ridiculous games (have you heard of "Chicken Charades"?). I tend to do what I'm told in terms of plans and arrangementsbut caught wind half-way through the evening that we had actually been invited to two different friends houses. We ended up at the friend that asked first -I hate letting anybody down.

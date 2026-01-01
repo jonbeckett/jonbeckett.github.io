@@ -3,7 +3,7 @@ layout: single
 title: "Three More Chickens And One Chicken Down"
 date: 2011-02-27
 categories:
-  - 2011
+  - "2011"
 ---
 
 At about midnight last night I heard what I thought was a cat fight in the garden. I wandered through the house and discovered W stood at the patio doors, shielding the light of the room from the sides of her face with her hands.

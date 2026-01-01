@@ -3,7 +3,7 @@ layout: single
 title: "Turning Thirteen"
 date: 2013-09-15
 categories:
-  - 2013
+  - "2013"
 ---
 
 Our eldest daughter becomes a teenager this weekand celebrated her birthday a few days early by being taken shopping with her friends, and having a sleepover. I say "being taken shopping" very loosely; we gave her money, and let the group of them loose in a shopping mall with no other rules than to meet us for dinner later.

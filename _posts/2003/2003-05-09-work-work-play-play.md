@@ -3,7 +3,7 @@ layout: single
 title: "Work Work Play Play"
 date: 2003-05-09
 categories:
-  - 2003
+  - "2003"
 ---
 
 Today I am relaxed. I wouldn't say the work I have been doing is easy, but it's not exactly difficult either. I'm writing a migration program to turn a datafile and several tens of thousands of single page TIF files into multi-page TIF files and meta-data files. The visit to client site to push the files into their document management system isn't until next week.

@@ -3,7 +3,7 @@ layout: single
 title: "Change Is Good"
 date: 2016-05-16
 categories:
-  - 2016
+  - "2016"
 ---
 
 I had all the intentions in the world of switching the name of this blog in readiness for the new WordPress ".blog" domains becoming available later this year. After sleeping on it, I'm wondering about just leaving it as-is.

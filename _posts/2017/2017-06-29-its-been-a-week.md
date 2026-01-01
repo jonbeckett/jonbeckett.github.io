@@ -3,7 +3,7 @@ layout: single
 title: "Its Been A Week"
 date: 2017-06-29
 categories:
-  - 2017
+  - "2017"
 ---
 
 I don't think "drained" is really the right word - "empty" might be a better word. Half an hour before leaving the client site yesterday the code was in pieces. The entire production system was down. Half an hour later I left the building, and began running the mile across the city to the railway station. I fixed it.

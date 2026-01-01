@@ -3,7 +3,7 @@ layout: single
 title: "Exiting Nano Again"
 date: 2016-11-04
 categories:
-  - 2016
+  - "2016"
 ---
 
 This is beginning to be a pattern that repeats every year. I start NaNoWriMo, I get off to something of a flyer (I got to 25,000 words in 4 days this time), and then decide that actually I'm not really enjoying it, and pull the plug before I hate it too much.

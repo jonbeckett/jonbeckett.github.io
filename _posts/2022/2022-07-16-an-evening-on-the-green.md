@@ -3,7 +3,7 @@ layout: single
 title: "An Evening On The Green"
 date: 2022-07-16
 categories:
-  - 2022
+  - "2022"
 ---
 
 We live on the corner of a green - surrounded on all sides by sprawling suburbia. Among the various families living in those houses we have made wonderful friends over the years, and now and again an invitation goes out to anybody that might be able to make it - to find a quiet spot under a tree together, and share a little of each other's world for an hour or two.

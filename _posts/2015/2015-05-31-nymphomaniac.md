@@ -3,7 +3,7 @@ layout: single
 title: "Nymphomaniac"
 date: 2015-05-31
 categories:
-  - 2015
+  - "2015"
 ---
 
 I downloaded the "directors cut" of Nymphomaniac this morning - the controversial Lars von Trier movie - to see what all the fuss was about. I'm kind of a fan of controversial, banned, and/or notorious movies and books.

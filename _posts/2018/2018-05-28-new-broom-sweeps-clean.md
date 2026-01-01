@@ -3,7 +3,7 @@ layout: single
 title: "New Broom Sweeps Clean"
 date: 2018-05-28
 categories:
-  - 2018
+  - "2018"
 ---
 
 This morning I have been going through the various blogs I follow on the internet - removing those that stopped posting some months ago. It feels strange, un-following, because those people are obviously still out there - their life carries on - you're just no longer a part of it. Is reading a blog really being "a part" of somebody's life though? You're only really a part of the life they share through their writing - and that may differ enormously from their real life.

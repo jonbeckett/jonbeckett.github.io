@@ -3,7 +3,7 @@ layout: single
 title: "Powered by Idiocy"
 date: 2023-06-16
 categories:
-  - 2023
+  - "2023"
 ---
 
 I was supposed to go running the day before yesterday, but the weather had other ideas - turning the heat up to 11. We (the British) are famously a bit rubbish at dealing with heat or cold - although given global warming, we're getting a bit better at it. Every summer seems to have broken records in the last few years.

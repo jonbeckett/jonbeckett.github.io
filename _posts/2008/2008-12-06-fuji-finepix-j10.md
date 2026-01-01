@@ -3,7 +3,7 @@ layout: single
 title: "Fuji Finepix J10"
 date: 2008-12-06
 categories:
-  - 2008
+  - "2008"
 ---
 
 I just put an order in with Amazon for a replacement for the camera I lost a while ago. After looking around for something small, inexpensive, and with decent reviews I went with the Fuji Finepix J10.

@@ -3,7 +3,7 @@ layout: single
 title: "Pulling Out Of Nanowrimo Yet Again"
 date: 2015-11-06
 categories:
-  - 2015
+  - "2015"
 ---
 
 You could say I was a fool for even thinking about having a go at it. At least the reasons for not pursuing it are simple enough thoughI need to spend the time I would have spent writing with my family, rather than holed up in the study bashing away at a keyboard.

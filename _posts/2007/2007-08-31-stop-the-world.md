@@ -3,7 +3,7 @@ layout: single
 title: "Stop The World"
 date: 2007-08-31
 categories:
-  - 2007
+  - "2007"
 ---
 
 I seem to find myself writing "Stop the World" posts every so often. This week has been hard - one of the most difficult in a long time.

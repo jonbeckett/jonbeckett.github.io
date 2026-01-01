@@ -3,7 +3,7 @@ layout: single
 title: "Boys Night Out"
 date: 2016-04-10
 categories:
-  - 2016
+  - "2016"
 ---
 
 In order to celebrate the birthday of one of our friends, the "other halves" got together and organised a night out for us all, because apparently if they hadn't done anything about it, we wouldn't have organised anythingwhich is probably true.

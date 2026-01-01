@@ -3,7 +3,7 @@ layout: single
 title: "A Year Of Living Dangerously"
 date: 2013-01-19
 categories:
-  - 2013
+  - "2013"
 ---
 
 Since focusing my blogging efforts over the last few weeks, a tap of sorts has been turned - a tap that pours words. It has left me wondering if my blogging efforts over the coming year will once again become a regular literary performance charged with humility, honesty, wit, intelligence, eccentricity, annoyance, aggravation, hilarity, and perhaps an occasional spoon of levity.

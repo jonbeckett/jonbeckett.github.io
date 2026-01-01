@@ -3,7 +3,7 @@ layout: single
 title: "Its that day again"
 date: 2023-02-14
 categories:
-  - 2023
+  - "2023"
 ---
 
 I snuck out to the shops yesterday afternoon and bought a card and some posh chocolates - as convention dictates - such that my other half might have something nice to discover this morning before leaving for work. In the event she got up first - meaning the discovery turned into a bleary eyed delivery while she sat sipping tea from a colossal mug in the lounge.

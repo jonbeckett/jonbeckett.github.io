@@ -3,7 +3,7 @@ layout: single
 title: "Five French Movies To See Before You Die"
 date: 2011-08-03
 categories:
-  - 2011
+  - "2011"
 ---
 
 I've always had something of a love affair with French cinemathey seem to take far more risks than other countriesresulting in original and enthralling movies that would never have left a studio anywhere else.

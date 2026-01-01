@@ -3,7 +3,7 @@ layout: single
 title: "Back To Basics"
 date: 2004-07-02
 categories:
-  - 2004
+  - "2004"
 ---
 
 I decided this evening to do a bit of a make-over on my blog script. Out go all the table parameters, and in come nice, simple CSS tags.

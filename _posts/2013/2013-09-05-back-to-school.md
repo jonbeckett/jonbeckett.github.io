@@ -3,7 +3,7 @@ layout: single
 title: "Back To School"
 date: 2013-09-05
 categories:
-  - 2013
+  - "2013"
 ---
 
 The alarm clock woke me with the local radio station at 7 this morning. After a few moments daydreaming, and staring aimlessly at the ceiling, my other half poked me in the ribs, and said something along the lines of "come on then"Breakfasts to make. Lunches to pack. School bags to gather.

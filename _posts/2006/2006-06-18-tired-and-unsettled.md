@@ -3,7 +3,7 @@ layout: single
 title: "Tired And Unsettled"
 date: 2006-06-18
 categories:
-  - 2006
+  - "2006"
 ---
 
 I have been working on a project for work all weekend (complex programming geekery), and am finding it difficult to get it out of my head.

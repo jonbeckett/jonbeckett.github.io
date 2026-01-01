@@ -3,7 +3,7 @@ layout: single
 title: "Superman Returns In Style"
 date: 2006-07-14
 categories:
-  - 2006
+  - "2006"
 ---
 
 We just got in from a visit to the cinema to see "Superman Returns". In many ways this evening was all about being a child again. W picked me up from work, we went out to a restaurant where she filled me up with pizza, fizzy drinks and chocolate cake, and then we went to "the pictures".

@@ -3,7 +3,7 @@ layout: single
 title: "Loud Thoughts On A Quiet Weekend"
 date: 2021-01-09
 categories:
-  - 2021
+  - "2021"
 ---
 
 It's been very quiet indeed around here for the last few days. After a scare mid-week where my youngest daughter had to do a COVID test, we have stayed holed up in the house for almost the entire time. I walked to the supermarket last night to get groceries, but other than that we have gone nowhere and done nothing.

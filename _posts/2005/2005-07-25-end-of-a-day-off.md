@@ -3,7 +3,7 @@ layout: single
 title: "End Of A Day Off"
 date: 2005-07-25
 categories:
-  - 2005
+  - "2005"
 ---
 
 It's the end of my day off, and I find myself wondering what I've done all day. I got up at about ten to eight this morning because W had to go to the chiropractor for an early appointment (she forgot about having the day off when she booked it).

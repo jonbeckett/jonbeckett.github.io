@@ -3,7 +3,7 @@ layout: single
 title: "Forgettable Nonsense"
 date: 2023-11-22
 categories:
-  - 2023
+  - "2023"
 ---
 
 It's been five days since I last wrote in the blog. I have nothing to report. I sometimes wonder why I still write. Writers are supposed to be enamoured with a noble mission, aren't they? A crusade to fill books with stories - as painfully as possible if Hemingway is to be believed.

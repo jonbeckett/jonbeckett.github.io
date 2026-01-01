@@ -3,7 +3,7 @@ layout: single
 title: "New Friends And Deep Thoughts"
 date: 2008-12-27
 categories:
-  - 2008
+  - "2008"
 ---
 
 Stepping back into the world of LiveJournal shortly before Christmas has resulted in a number of unexpected new friendships that have renewed my faith somewhat in human nature.

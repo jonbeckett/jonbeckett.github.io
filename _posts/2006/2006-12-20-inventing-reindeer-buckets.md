@@ -3,7 +3,7 @@ layout: single
 title: "Inventing Reindeer Buckets"
 date: 2006-12-20
 categories:
-  - 2006
+  - "2006"
 ---
 
 While having a rather silly conversation this morning about the belief children have in "Father Christmas", I remembered something I invented when I was young - the Reindeer Bucket.

@@ -3,7 +3,7 @@ layout: single
 title: "Planting Things"
 date: 2008-02-16
 categories:
-  - 2008
+  - "2008"
 ---
 
 This morning was occupied with the children's first experience of planting things. We are all growing Sun Flowers in a competition of sorts to see who does the best. For the best part of two hours our kitchen was turned into a potting shed.

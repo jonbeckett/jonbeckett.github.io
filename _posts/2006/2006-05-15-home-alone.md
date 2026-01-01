@@ -3,7 +3,7 @@ layout: single
 title: "Home Alone"
 date: 2006-05-15
 categories:
-  - 2006
+  - "2006"
 ---
 
 Did I write a blog yesterday? I don't recall...

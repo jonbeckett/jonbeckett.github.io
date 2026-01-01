@@ -3,7 +3,7 @@ layout: single
 title: "When the walls fall"
 date: 2023-02-01
 categories:
-  - 2023
+  - "2023"
 ---
 
 It's been a strange sort of day. After an hour clearing the chaos caused by the rest of the family making breakfast, lunches and hot drinks, I settled into an endless round of on-line meetings that took up most of the day.

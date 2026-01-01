@@ -3,7 +3,7 @@ layout: single
 title: "Windows 10 Arrives"
 date: 2015-08-01
 categories:
-  - 2015
+  - "2015"
 ---
 
 This marks something of a departure. This blog is usually filled with nonsensical posts about daily life. Today I'm going to talk about Windows 10. Unless you've been living under a rock for the past several months, you'll know that Microsoft has released the final "major" version of Windows. By "final", they mean that all future changes will be incremental, in the same way that Apple has upgraded their operating systems over the last several years.

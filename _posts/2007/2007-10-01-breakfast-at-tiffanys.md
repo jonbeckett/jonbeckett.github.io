@@ -3,7 +3,7 @@ layout: single
 title: "Breakfast At Tiffanys"
 date: 2007-10-01
 categories:
-  - 2007
+  - "2007"
 ---
 
 Inbetween perusing the internet (which Leo Laporte quite wonderfully described as a "drinking from the firehose" recently), I have been watching "Breakfast at Tiffanys" on Joost.

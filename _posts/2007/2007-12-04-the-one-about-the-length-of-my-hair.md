@@ -3,7 +3,7 @@ layout: single
 title: "The One About The Length Of My Hair"
 date: 2007-12-04
 categories:
-  - 2007
+  - "2007"
 ---
 
 Following a request to put up images comparing the various lengths of my hair over the last two years, I put together a "montage" of sorts.

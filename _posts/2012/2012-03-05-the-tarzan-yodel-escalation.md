@@ -3,7 +3,7 @@ layout: single
 title: "The Tarzan Yodel Escalation"
 date: 2012-03-05
 categories:
-  - 2012
+  - "2012"
 ---
 
 The evening seemed to be going so well. I got in from work after a pretty productive day, was greeted by the chickens while walking my bike to the shed, and found W in the kitchen busy cooking curry - the smell of which was wafting from room to room.

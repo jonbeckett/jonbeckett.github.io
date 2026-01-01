@@ -3,7 +3,7 @@ layout: single
 title: "Truthful Tuesday"
 date: 2011-09-20
 categories:
-  - 2011
+  - "2011"
 ---
 
 I have been reading a number of blogs around the internet for years, and yet somehow or other I've let it slide now for months.

@@ -3,7 +3,7 @@ layout: single
 title: "Friday morning in Starbucks"
 date: 2024-09-13
 categories:
-  - 2024
+  - "2024"
 ---
 
 It's Friday morning, and I find myself sitting at a table in the middle of Starbucks. It just occurred to me that today is Friday 13th. Isn't it interesting how inconsequential hoodoo can stay with you -- ready to resurrect itself at a moment's notice.

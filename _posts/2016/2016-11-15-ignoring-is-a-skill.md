@@ -3,7 +3,7 @@ layout: single
 title: "Ignoring Is A Skill"
 date: 2016-11-15
 categories:
-  - 2016
+  - "2016"
 ---
 
 I spent 2000 to 2008 ignoring complaints about George W Bush, then spent the next 8 years ignoring people complain about Obama, and will probably have to spend the next 4 years ignoring people complaining about Trump.

@@ -3,7 +3,7 @@ layout: single
 title: "writing smiles and bravery"
 date: 2023-04-17
 categories:
-  - 2023
+  - "2023"
 ---
 
 Writing

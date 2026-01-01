@@ -3,7 +3,7 @@ layout: single
 title: "Bringing The Cross Posting Experiment To An End"
 date: 2010-08-14
 categories:
-  - 2010
+  - "2010"
 ---
 
 And so it is done. I just put a figurative machete through the posterous account I have been fooling with for the last several weeks. It was an experiment of sorts - to cross-post my written thoughts across the most popular blog platforms simultaneously.

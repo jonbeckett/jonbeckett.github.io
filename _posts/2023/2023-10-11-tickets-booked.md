@@ -3,7 +3,7 @@ layout: single
 title: "Tickets Booked"
 date: 2023-10-11
 categories:
-  - 2023
+  - "2023"
 ---
 
 A couple of months ago I was talking to my other half about how we might use the mountain of holiday I had accrued at work, and she suggested I visit my parents. They live on the coast, and we try to visit at least once a year as a family, but hate "landing ourselves" on them, so I've gone on my own a couple of times in-between too. There was only one problem - we were still in the middle of the school holidays, and train tickets were impossible to come by - so the idea got shelved until "later in the year".

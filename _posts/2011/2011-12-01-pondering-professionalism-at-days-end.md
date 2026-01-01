@@ -3,7 +3,7 @@ layout: single
 title: "Pondering Professionalism At Days End"
 date: 2011-12-01
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's 11:30pm at the time of writing, and I'm shutting down the work laptop. It will get fired up again just before 9 in the morning, with the knowledge that I am still behind the scheduleyou know; the schedule that three people might have fulfilled, but I'm doing on my own.

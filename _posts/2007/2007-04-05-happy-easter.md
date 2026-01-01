@@ -3,7 +3,7 @@ layout: single
 title: "Happy Easter"
 date: 2007-04-05
 categories:
-  - 2007
+  - "2007"
 ---
 
 I finished work for easter today - I have the long weekend off before returning to work next tuesday. With so many bible bashers climbing out of the woodwork to bang their drum about resurrection, and other such unlikely historical events, I thought it might be worth repeating something I learned a long time ago.

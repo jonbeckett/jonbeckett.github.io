@@ -3,7 +3,7 @@ layout: single
 title: "Single Handed"
 date: 2019-06-07
 categories:
-  - 2019
+  - "2019"
 ---
 
 I'm sailing the ship single handed this weekend - my other half is taking our youngest daughter to France to watch the England ladies football team play in the World Cup. They will be up at 4am tomorrow for a 7am flight. I'm going to try and have a quiet weekend for a change.

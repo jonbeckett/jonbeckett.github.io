@@ -3,7 +3,7 @@ layout: single
 title: "End Of An Era"
 date: 2004-03-31
 categories:
-  - 2004
+  - "2004"
 ---
 
 I have just switched off the ThoughtCafe website.

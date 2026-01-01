@@ -3,7 +3,7 @@ layout: single
 title: "Hailstorm City"
 date: 2020-02-10
 categories:
-  - 2020
+  - "2020"
 ---
 
 A few moments after leaving the office to cycle home, the tail-end of the storm that has shut most of the country down and flooded entire roads of houses in the north passed overhead, and pelted me with hailstones.

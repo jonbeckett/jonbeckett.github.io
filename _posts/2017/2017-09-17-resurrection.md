@@ -3,7 +3,7 @@ layout: single
 title: "Resurrection"
 date: 2017-09-17
 categories:
-  - 2017
+  - "2017"
 ---
 
 I deactivated my Tumblr account a few weeks ago, and then posted on Facebook that I had done so, because I didn't want to lose touch with anybody. A friend messaged me, and told me "so and so says you'll be back - so does whatshername". I laughed, and agreed - yes, I probably would be back.

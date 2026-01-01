@@ -3,7 +3,7 @@ layout: single
 title: "Let There Be Light"
 date: 2019-10-20
 categories:
-  - 2019
+  - "2019"
 ---
 
 If you're visiting this blog post via WordPress, you'll have noticed a rather drastic re-design has happened. Given that autumn colours are surrounding us at the moment, and the site was rather stark, I thought "sod it". I might have thought more colourful words actually, but didn't want to swear in the first paragraph.

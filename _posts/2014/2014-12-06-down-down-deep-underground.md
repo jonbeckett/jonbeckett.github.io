@@ -3,7 +3,7 @@ layout: single
 title: "Down Down Deep Underground"
 date: 2014-12-06
 categories:
-  - 2014
+  - "2014"
 ---
 
 Just when you think you've found a blogger that appears to write thoughtful posts you can relate to, he goes and writes a post about Minecraft. This blog is like Forrest Gump's box of chocolatesyou never know what you're going to get (and this has nothing to do with me having nothing in particular to write about, honest).

@@ -3,7 +3,7 @@ layout: single
 title: "The Amazing Disappearing Man"
 date: 2008-03-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 Since we have had the children, the weight has been falling off us. I am now lighter than I have been in years. Although I will not give W's weight away (I might fear for my life), she is lighter now than she has been in years too.

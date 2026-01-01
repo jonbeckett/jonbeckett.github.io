@@ -3,7 +3,7 @@ layout: single
 title: "Being Dudley Do Right"
 date: 2024-07-15
 categories:
-  - 2024
+  - "2024"
 ---
 
 My other half spent all afternoon and evening sorting through bank statements and downloads of transactions to prepare my tax return for next year. Once upon a time she was a chartered accountant, so is faster with numbers than my brain can really cope with.

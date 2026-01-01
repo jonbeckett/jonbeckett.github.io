@@ -3,7 +3,7 @@ layout: single
 title: "Growing Up"
 date: 2016-03-18
 categories:
-  - 2016
+  - "2016"
 ---
 
 After arriving home from work a little early with a streaming cold, making myself a cup of tea, and slumping down on the couch in the living room, our youngest daughter appeared, resplendent in glittery black tights, a sequined skort, a nerdy t-shirt, a black blazer, and her hair tied up in braids. She never has her hair tied up. She's always been the surfer dude.

@@ -3,7 +3,7 @@ layout: single
 title: "Clocks Go Back"
 date: 2006-10-29
 categories:
-  - 2006
+  - "2006"
 ---
 
 The clocks went back this morning - we are finally back on GMT. We get an hour extra in bed, and the mornings are light once again.

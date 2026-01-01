@@ -3,7 +3,7 @@ layout: single
 title: "What Light Through Yonder Window Breaks"
 date: 2007-11-06
 categories:
-  - 2007
+  - "2007"
 ---
 
 Isn't it wonderful when a day starts out well, turns into a steaming pire of excrement, and then finally bursts forth into a feel good evening, with reminders of what makes you smile, who makes you smile, and what makes you happy.

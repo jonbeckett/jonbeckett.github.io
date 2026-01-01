@@ -3,7 +3,7 @@ layout: single
 title: "Through Caverns Measureless To Man"
 date: 2006-11-27
 categories:
-  - 2006
+  - "2006"
 ---
 
 I woke this morning with a piece of poetry in my head.

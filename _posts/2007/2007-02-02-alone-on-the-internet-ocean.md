@@ -3,7 +3,7 @@ layout: single
 title: "Alone On The Internet Ocean"
 date: 2007-02-02
 categories:
-  - 2007
+  - "2007"
 ---
 
 Sometimes the internet can feel very lonely. I spend the greater part of each day "connected" to the internet - writing e-mails, sending and receiving instant messages, and commenting on blog posts. Being surrounded by these imaginary cities of virtual people, newspapers, stories and conversations does nothing to stop an occasional attack of the lonelies though.

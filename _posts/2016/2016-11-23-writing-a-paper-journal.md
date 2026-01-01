@@ -3,7 +3,7 @@ layout: single
 title: "Writing A Paper Journal"
 date: 2016-11-23
 categories:
-  - 2016
+  - "2016"
 ---
 
 Rather unexpectedly, I pulled the old Moleskine notebook from my bag this evening and began writing. I used to write in it almost every day - recording the thoughts I dare not post to the internet. On the shelf behind me in the junk room I have a small row of notebooks tracing idiotic thoughts, memories and ideas back to about 2006.

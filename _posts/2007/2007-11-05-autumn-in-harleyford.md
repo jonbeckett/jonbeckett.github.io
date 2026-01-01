@@ -3,7 +3,7 @@ layout: single
 title: "Autumn In Harleyford"
 date: 2007-11-05
 categories:
-  - 2007
+  - "2007"
 ---
 
 I walked to work this morning, bedecked in fleece, scarf, woolly hat and backpack (carrying two laptops - I am mad).

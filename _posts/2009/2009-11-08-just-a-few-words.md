@@ -3,7 +3,7 @@ layout: single
 title: "Just A Few Words"
 date: 2009-11-08
 categories:
-  - 2009
+  - "2009"
 ---
 
 It's 11:34pm on Sunday night, and I'm scraping inside the deadline for NaBloWriMo (I have to post every day this month to get away with it). I know I could alter the times/dates of posts, but I would still know I had cheated, which would drive me mad.

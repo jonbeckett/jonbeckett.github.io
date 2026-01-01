@@ -3,7 +3,7 @@ layout: single
 title: "Powered By Chocolate"
 date: 2008-12-11
 categories:
-  - 2008
+  - "2008"
 ---
 
 I have finally arrived at work this afternoon after attending our youngest child's nativity play this morning, getting in trouble with HR for not updating my work calendar, and struggling against a bad cold.

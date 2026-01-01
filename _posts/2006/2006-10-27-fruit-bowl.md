@@ -3,7 +3,7 @@ layout: single
 title: "Fruit Bowl"
 date: 2006-10-27
 categories:
-  - 2006
+  - "2006"
 ---
 
 This is what you get when I am off work, not feeling great, and bored. I know I should be eating this stuff - I just can't face it at the moment.

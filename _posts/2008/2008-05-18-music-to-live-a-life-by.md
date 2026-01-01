@@ -3,7 +3,7 @@ layout: single
 title: "Music To Live A Life By"
 date: 2008-05-18
 categories:
-  - 2008
+  - "2008"
 ---
 
 This evening is filled with preparations for my return to London in the morning - preparations to get up at some ungodly hour, and join a two hour (each way) commute into the heart of the city.

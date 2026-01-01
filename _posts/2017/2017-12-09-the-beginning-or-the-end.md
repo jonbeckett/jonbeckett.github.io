@@ -3,7 +3,7 @@ layout: single
 title: "The Beginning Or The End "
 date: 2017-12-09
 categories:
-  - 2017
+  - "2017"
 ---
 
 This week Deep Mind - the Google team behind the "Alpha Zero" artificial intelligence project - tried out the game of chess on the system.

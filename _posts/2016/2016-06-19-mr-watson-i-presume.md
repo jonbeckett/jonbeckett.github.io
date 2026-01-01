@@ -3,7 +3,7 @@ layout: single
 title: "Mr Watson I Presume"
 date: 2016-06-19
 categories:
-  - 2016
+  - "2016"
 ---
 
 We went out to our local theatre tonight to see Mark Watson - a stand-up comedian of some note. "Of some note" sounds like a tremendously aloof thing to say, but I can't think of another way of saying "he's been on the TV, and he's f*cking brilliant". We've seen him before, he's been on the TV (as I said), he writes books... as far as we are concerned (being nobodies) he's a pretty big deal. Hell - anybody that can half fill a sizeable theatre (I'll come back to this) is a pretty big deal.

@@ -3,7 +3,7 @@ layout: single
 title: "All Good Things"
 date: 2017-10-04
 categories:
-  - 2017
+  - "2017"
 ---
 
 I'm sitting in the study at home while a dehumidifier rumbles away in the remains of the bathroom upstairs. I very nearly went into the office today (the plumber returns tomorrow), but thought better of it after fetching my bike from the shed this morning - leaving an industrial dehumidifier rumbling away upstairs with nobody in the house didn't seem like the best idea in the world.

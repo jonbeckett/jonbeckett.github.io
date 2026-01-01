@@ -3,7 +3,7 @@ layout: single
 title: "Sarah Palin On The Cover Of Vogue"
 date: 2008-09-04
 categories:
-  - 2008
+  - "2008"
 ---
 
 Who would have dreamed that the words "Sarah Palin" would do better than "Britney Spears" to garner hits on the internet? Obviously Britney thinks so, because she's just announced she'll be opening the MTV awards again (car crash television strikes again).

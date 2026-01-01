@@ -3,7 +3,7 @@ layout: single
 title: "With A Little Help From My Friends"
 date: 2022-10-01
 categories:
-  - 2022
+  - "2022"
 ---
 
 We went out last night - to help a good friend celebrate her birthday. We met at her house, summoned a taxi, and had the best night out in quite some time. A lovely meal, a few drinks, and lots of stories, laughter and smiles along the way.

@@ -3,7 +3,7 @@ layout: single
 title: "Drawing A Line Through Past Writing"
 date: 2010-04-07
 categories:
-  - 2010
+  - "2010"
 ---
 
 While attempting to catch up on the increasingly worrisome mountain of unread blogs that cast a dark shadow over much of my online presence, I read something interesting. I would like to share it, but cannot remember for the life of me who wrote it, or where it came from.

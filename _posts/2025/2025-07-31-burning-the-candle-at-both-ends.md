@@ -3,7 +3,7 @@ layout: single
 title: "Burning the Candle at Both Ends"
 date: 2025-07-31
 categories:
-  - 2025
+  - "2025"
 ---
 
 Last weekend I installed a writing app called “Day One” onto my laptop, with thoughts of using it to empty my head into about anything and everything - a place to unload. And then I didn’t write anything at all for nearly a week.

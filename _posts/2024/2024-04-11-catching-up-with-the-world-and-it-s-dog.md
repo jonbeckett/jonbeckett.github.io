@@ -3,7 +3,7 @@ layout: single
 title: "Catching up with the world and it's dog"
 date: 2024-04-11
 categories:
-  - 2024
+  - "2024"
 ---
 
 Today started so well. A lovely quiet morning clearing the decks before sitting down at my work computer to catch up on email. Oh. Why have they written to me? What's this about?

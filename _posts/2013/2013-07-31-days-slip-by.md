@@ -3,7 +3,7 @@ layout: single
 title: "Days Slip By"
 date: 2013-07-31
 categories:
-  - 2013
+  - "2013"
 ---
 
 I took this week off worka gap opened in the calendar, I had days to use up, and I lunged at it. When the email confirmation arrived I was more surprised than most. Of course the problem with taking a week off with no plans of how to spend it is that you end up doing nothing. Nothing at all. The days slip into each other, and before you know it the week is half over, and you have nothing to show for it.

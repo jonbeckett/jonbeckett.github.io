@@ -3,7 +3,7 @@ layout: single
 title: "Falling Into Shadow"
 date: 2015-12-01
 categories:
-  - 2015
+  - "2015"
 ---
 
 For the past several weeks I have been carrying a burden of sortsoneI'm not willing to share just yetbut one that is neverthelesshaving an effect on the words and pictures I post to the socialinternet.

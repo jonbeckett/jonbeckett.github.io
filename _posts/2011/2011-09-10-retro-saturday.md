@@ -3,7 +3,7 @@ layout: single
 title: "Retro Saturday"
 date: 2011-09-10
 categories:
-  - 2011
+  - "2011"
 ---
 
 In between tidying up after the kids, feeding pets, and putting things away, I'm tryingto have a relaxed Saturday.

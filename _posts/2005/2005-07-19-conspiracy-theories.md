@@ -3,7 +3,7 @@ layout: single
 title: "Conspiracy Theories"
 date: 2005-07-19
 categories:
-  - 2005
+  - "2005"
 ---
 
 While sat at work this afternoon one of my colleagues asked if I had ever thought about resurrecting the ThoughtCafe website. I'm starting to wonder if there is some kind of conspiracy going on.

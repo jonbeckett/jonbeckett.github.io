@@ -3,7 +3,7 @@ layout: single
 title: "A Drink With Dad"
 date: 2019-03-30
 categories:
-  - 2019
+  - "2019"
 ---
 
 I remember weekends. Or at least, I have a memory of what I think weekends should be, but I'm not sure if that memory is real or not any more. It involves waking up late, noodling around with my phone for half an hour in bed, eventually getting up and wandering to the local newspaper shop to get one of the broad-sheets, and sitting in the lounge with a coffee for an hour - doing the crossword, and reading the news of the week. After we might wander into town together and grab an early lunch at one of the many restaurants on the high-street, and then go for a walk in the park for an hour - perhaps a little way along the river.

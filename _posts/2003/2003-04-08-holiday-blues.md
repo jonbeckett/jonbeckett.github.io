@@ -3,7 +3,7 @@ layout: single
 title: "Holiday Blues"
 date: 2003-04-08
 categories:
-  - 2003
+  - "2003"
 ---
 
 We got back from our holiday on Saturday night - after a nine hour drive from Scotland. We took it in turns to break the journey up, which worked quite well. W insisted on taking over from me on my last stint though - I was tired, making mistakes on junctions, and becoming quite dangerous probably  I did have to negotiate getting us out of Edinburgh the previous day though, which is probably enough to stress anybody out.

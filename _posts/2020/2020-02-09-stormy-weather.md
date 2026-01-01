@@ -3,7 +3,7 @@ layout: single
 title: "Stormy Weather"
 date: 2020-02-09
 categories:
-  - 2020
+  - "2020"
 ---
 
 If I had believed the weather forecasts last night, I might have imagined waking up to discover some sequin shoed legs extending from underneath the house this morning. Yes, the weather has been bad, but it hasn't been "you're not in Kansas any more" bad.

@@ -3,7 +3,7 @@ layout: single
 title: "Playing With Gt4"
 date: 2005-03-15
 categories:
-  - 2005
+  - "2005"
 ---
 
 Tonight I have been playing with the "Photo Tour" mode in Gran Turismo 4 - the basic idea being that you do a few laps of a given track in one of "your" cars, and can then step out of the replay to a "Photography" mode, where you get full control of the camera angle and camera settings... it really is quite spooky.

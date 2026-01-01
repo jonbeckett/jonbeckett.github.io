@@ -3,7 +3,7 @@ layout: single
 title: "The Morning After Dinner With Friends"
 date: 2014-12-28
 categories:
-  - 2014
+  - "2014"
 ---
 
 Yesterday evening we invited good friends over for dinner. It was hard work, and the washing up was kind of like climbing Annapurna (which in reality I have no idea about, other than an adventure story in a boys-own-adventure-book from my childhood), but it wasworth it.

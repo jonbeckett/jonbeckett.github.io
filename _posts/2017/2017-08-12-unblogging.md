@@ -3,7 +3,7 @@ layout: single
 title: "Unblogging"
 date: 2017-08-12
 categories:
-  - 2017
+  - "2017"
 ---
 
 If you're doing a double take, and wondering where you've seen this post before, you might recall that I posted it back in February 2014. It's in the archive [http://blog.jonbeckett.com/archive]. While reading countless blogs over the last week or so in search of new and interesting writers, I became increasingly disheartened - and then this old post came to mind.

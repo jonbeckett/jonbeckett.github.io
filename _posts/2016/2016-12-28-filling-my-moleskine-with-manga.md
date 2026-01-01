@@ -3,7 +3,7 @@ layout: single
 title: "Filling My Moleskine With Manga"
 date: 2016-12-28
 categories:
-  - 2016
+  - "2016"
 ---
 
 Many moons ago I bought a Moleskine notebook filled with plain paper, and did nothing with it. It's been kicking around the house for months. Over the last couple of days, for no apparent reason, I've started filling it with Manga.

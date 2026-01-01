@@ -3,7 +3,7 @@ layout: single
 title: "Home In The Morning"
 date: 2018-06-06
 categories:
-  - 2018
+  - "2018"
 ---
 
 I made it to the end of three days on-site in Germany. There is already talk of further visits later in the year - another in two weeks that is already booked, followed by two weeks in July, and two in September. Looks like I'm going to be spending quite a bit of time over here. There are also rumors of next year.

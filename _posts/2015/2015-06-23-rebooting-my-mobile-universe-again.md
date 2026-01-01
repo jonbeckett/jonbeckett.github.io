@@ -3,7 +3,7 @@ layout: single
 title: "Rebooting My Mobile Universe Again"
 date: 2015-06-23
 categories:
-  - 2015
+  - "2015"
 ---
 
 About 18 months ago I was carrying a Samsung S3 mobile phone around in my pocket, and struggling to get it to last through the day. Although I "say" it was a Samsung S3, in reality it was anything but - I had replaced the launcher, the keyboard, and the text messaging application with better alternatives than the "special" versions Samsung had baked into their distribution of Android.

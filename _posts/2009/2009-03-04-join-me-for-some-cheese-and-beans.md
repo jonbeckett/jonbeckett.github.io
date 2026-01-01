@@ -3,7 +3,7 @@ layout: single
 title: "Join Me For Some Cheese And Beans"
 date: 2009-03-04
 categories:
-  - 2009
+  - "2009"
 ---
 
 I gone done and did it. Again. (and yes, I am quite aware of how many grammar rules the first sentence breaks. I also know this footnote should not have started with "and").

@@ -3,7 +3,7 @@ layout: single
 title: "We Have Three Chickens"
 date: 2009-03-07
 categories:
-  - 2009
+  - "2009"
 ---
 
 Nestled in the corner of our garden, in their own arc and run, are three new additions to our menagerie - three chickens.

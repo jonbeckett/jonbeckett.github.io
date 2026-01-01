@@ -3,7 +3,7 @@ layout: single
 title: "Frustrating Weekend"
 date: 2009-04-05
 categories:
-  - 2009
+  - "2009"
 ---
 
 I had hoped to make progress with a number of freelance projects this weekend. It didn't happen (or at least it hasn't happened yet - I forsee a very late night ahead).

@@ -3,7 +3,7 @@ layout: single
 title: "The Tumblr Diversion"
 date: 2012-11-17
 categories:
-  - 2012
+  - "2012"
 ---
 
 The title of this post sounds like the title of a Big Bang Theory episode, and it's content is perhaps just as nerdy. I re-joined Tumblr last week, after swearing myself off it a month or so ago. At first it was for entirely selfish reasons; to cross-post this blog into the swirling pool of Tumblrs in order to push my idiotic writing under the nose of unsuspecting acquaintances. Which was fine.

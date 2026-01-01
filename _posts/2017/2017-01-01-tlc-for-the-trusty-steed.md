@@ -3,7 +3,7 @@ layout: single
 title: "Tlc For The Trusty Steed"
 date: 2017-01-01
 categories:
-  - 2017
+  - "2017"
 ---
 
 After splashing out on new tyres and inner tubes for my bike a few days ago, I finally got around to giving it a much needed clean, and swapped the tyres over today. I can't really complain - I bought the bike in the spring, and this is the first time I have had to spend any money at all on it.

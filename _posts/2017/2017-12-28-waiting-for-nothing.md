@@ -3,7 +3,7 @@ layout: single
 title: "Waiting For Nothing"
 date: 2017-12-28
 categories:
-  - 2017
+  - "2017"
 ---
 
 While walking between the lounge and kitchen this morning, wondering if to empty the washing machine next, or empty the dishwasher, there was a thump thump thump at the front door. "Ah, that will be the Nokia 3310", I thought. By the time I got to the door Miss 12 had appeared from thin air, and got to the front door before me.

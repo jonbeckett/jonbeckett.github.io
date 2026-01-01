@@ -3,7 +3,7 @@ layout: single
 title: "Christmas Hits The Beckett Household"
 date: 2006-12-23
 categories:
-  - 2006
+  - "2006"
 ---
 
 We invited friends and neighbors round last night for drinks and mince pies, and it finally feels like Christmas has arrived.

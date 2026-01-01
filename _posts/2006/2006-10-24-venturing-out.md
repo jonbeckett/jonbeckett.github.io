@@ -3,7 +3,7 @@ layout: single
 title: "Venturing Out"
 date: 2006-10-24
 categories:
-  - 2006
+  - "2006"
 ---
 
 This evening I have been venturing out on the the "internet at large". You probably have visions now of me sneaking along the side of the internet high street in a long coat with the collar turned up. In reality, I have been sat in front of the computer in deepest, darkest England, on a hunt for new blogs.

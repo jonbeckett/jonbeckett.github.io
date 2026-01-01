@@ -3,7 +3,7 @@ layout: single
 title: "Slowing Sunday Down"
 date: 2012-03-04
 categories:
-  - 2012
+  - "2012"
 ---
 
 In the spirit of the way most things seem to happen around here at the moment, Sunday rolled straight over me like a truck, rather than heeding any instruction.

@@ -3,7 +3,7 @@ layout: single
 title: "A New Coat Of Paint"
 date: 2010-03-12
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's all change again for my personal blog - gone with the minimalist theme, and in with the loud, in your face theme. I would like to say this was all planned, but of course it wasn't. During a fit of "what can I do next" last night, I ended up looking at the free themes over at WooThemes, and came away with this one - it's called "Mainstream" if you are insterested in slapping it on your wordpress install.

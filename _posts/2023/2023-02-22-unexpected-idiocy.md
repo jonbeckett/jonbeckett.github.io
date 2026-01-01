@@ -3,7 +3,7 @@ layout: single
 title: "Unexpected Idiocy"
 date: 2023-02-22
 categories:
-  - 2023
+  - "2023"
 ---
 
 Today was interesting, in the way that a magician pulling a rhinoceros from a hat instead of a rabbit might be interesting - not least if the magician had been expecting a rabbit too.

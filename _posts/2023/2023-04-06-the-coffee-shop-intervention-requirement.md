@@ -3,7 +3,7 @@ layout: single
 title: "The Coffee Shop Intervention Requirement"
 date: 2023-04-06
 categories:
-  - 2023
+  - "2023"
 ---
 
 Several days have slipped past since I wrote anything of consequence. Once again I find myself sitting in the dark of the junk room, propped in front of the computer a tapping into the keyboard. The clock is ticking towards midnight again.

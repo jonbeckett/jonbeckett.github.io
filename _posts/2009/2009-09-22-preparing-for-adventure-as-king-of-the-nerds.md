@@ -3,7 +3,7 @@ layout: single
 title: "Preparing For Adventure As King Of The Nerds"
 date: 2009-09-22
 categories:
-  - 2009
+  - "2009"
 ---
 
 I'm not actually sure if the next few days of my professional career can be regarded as adventure or not. Of course, given the usual constraints on that which I can share, and that which I cannot, I cannot tell you where I am going, or what exactly I am going to be doing. I can probably share that it involves computers, and a higher level of knowledge than most of a very narrow field of expertise. That means I'm king of the nerds, doesn't it.

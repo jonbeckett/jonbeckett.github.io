@@ -3,7 +3,7 @@ layout: single
 title: "More Commuting Hell"
 date: 2007-09-05
 categories:
-  - 2007
+  - "2007"
 ---
 
 I'm not quite sure what I've done, but it really, really hurts when I lift my left leg. Curiously, I have discovered that while walking, the weight of your leg swinging forwards avoids having to use the muscles that lift it. Climbing steps is the killer... or stepping over anything.

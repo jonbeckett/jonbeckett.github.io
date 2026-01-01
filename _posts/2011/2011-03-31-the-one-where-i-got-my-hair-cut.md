@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Got My Hair Cut"
 date: 2011-03-31
 categories:
-  - 2011
+  - "2011"
 ---
 
 Here's a lesson for anybody who's thinking about having children - getting my hair cut this morning took three and a half hours. While I might have been sat in the chair getting it hacked around for about 15 minutes, getting theretook over three hours.

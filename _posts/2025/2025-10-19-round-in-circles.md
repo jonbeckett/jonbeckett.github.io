@@ -3,7 +3,7 @@ layout: single
 title: "Round in Circles"
 date: 2025-10-19
 categories:
-  - 2025
+  - "2025"
 ---
 
 Sunday

@@ -3,7 +3,7 @@ layout: single
 title: "Indian Restaurant"
 date: 2003-08-21
 categories:
-  - 2003
+  - "2003"
 ---
 
 We went to the "Tiger Garden" indian restaurant in town last night - my Aunt from America was staying over before flying home, so took us out for something to eat 

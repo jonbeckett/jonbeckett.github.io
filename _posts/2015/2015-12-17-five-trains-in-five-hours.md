@@ -3,7 +3,7 @@ layout: single
 title: "Five Trains In Five Hours"
 date: 2015-12-17
 categories:
-  - 2015
+  - "2015"
 ---
 
 I'm finally home from the last trip away of the year. After suffering from headaches all week, I finally jumped in a taxi to the railway station mid-afternoon, and arrived just in time to get a fast train to London. From London onwards I kind of operate on autopilotswitching underground trains and main-line trains to find my way home. My homing instinct is strong.

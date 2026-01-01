@@ -3,7 +3,7 @@ layout: single
 title: "New Year Free Time Tinkering"
 date: 2011-01-01
 categories:
-  - 2011
+  - "2011"
 ---
 
 It was predictable really, wasn't it. Given a few days off work, what happens? A new theme for Tumblr is what happens...

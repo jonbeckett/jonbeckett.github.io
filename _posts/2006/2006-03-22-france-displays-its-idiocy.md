@@ -3,7 +3,7 @@ layout: single
 title: "France Displays Its Idiocy"
 date: 2006-03-22
 categories:
-  - 2006
+  - "2006"
 ---
 
 I have just been reading about the French politicians voting to approve a bill forcing the likes of Apple, Sony, and Microsoft to open their digital media formats to third parties - so that they may compete with hardware sales.

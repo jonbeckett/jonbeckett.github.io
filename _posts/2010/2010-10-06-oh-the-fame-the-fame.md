@@ -3,7 +3,7 @@ layout: single
 title: "Oh The Fame The Fame"
 date: 2010-10-06
 categories:
-  - 2010
+  - "2010"
 ---
 
 While searching for something online earlier, I quite unwittingly stumbled upon a quote on the 37Signals product blog. Forgetting for a moment that they didn't ask (they did attribute and link though), it has made me smile somewhat.

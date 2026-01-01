@@ -3,7 +3,7 @@ layout: single
 title: "Many Sides To Every Story"
 date: 2020-09-25
 categories:
-  - 2020
+  - "2020"
 ---
 
 For the last several years I've become increasingly frustrated with both journalism, and people in general. I think perhaps the root of it comes from publishing platforms targetting demographics, ideologies, or political leanings, and people being deliberately selective in what they read, what they believe, and what they trust as fact.

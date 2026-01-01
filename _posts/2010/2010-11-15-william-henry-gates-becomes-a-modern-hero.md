@@ -3,7 +3,7 @@ layout: single
 title: "William Henry Gates Becomes A Modern Hero"
 date: 2010-11-15
 categories:
-  - 2010
+  - "2010"
 ---
 
 During my final year at college, we were ushered into the server room one day to look at a desktop machine running a new operating system. An alien interface appeared in front of us, with windows, icons, a pointer, and a mouse to move it around the screen. It was Windows 3. For my generation, the story behind Bill Gates and Microsoft was the stuff of folklore - the story of a brilliant drop-out who (although a brilliant programmer) found himself in the right place at the right time.

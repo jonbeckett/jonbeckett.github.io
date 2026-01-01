@@ -3,7 +3,7 @@ layout: single
 title: "Just Ordered Asus Eee 1000H"
 date: 2008-10-19
 categories:
-  - 2008
+  - "2008"
 ---
 
 I just ordered an ASUS EEE 1000H - a "netbook". For those interested in what it is / what it can do, here's the low-down;

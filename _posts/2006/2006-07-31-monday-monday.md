@@ -3,7 +3,7 @@ layout: single
 title: "Monday Monday"
 date: 2006-07-31
 categories:
-  - 2006
+  - "2006"
 ---
 
 It's Monday morning, and I've just discovered I am the only one in my office today (there are normally three of us). What fun.

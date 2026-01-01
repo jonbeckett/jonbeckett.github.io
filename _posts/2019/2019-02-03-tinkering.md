@@ -3,7 +3,7 @@ layout: single
 title: "Tinkering"
 date: 2019-02-03
 categories:
-  - 2019
+  - "2019"
 ---
 
 I jumped down a rabbit hole of my own making today. Before describing the rabbit hole expedition however, it's probably worth filling in some back story.

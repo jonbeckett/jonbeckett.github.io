@@ -3,7 +3,7 @@ layout: single
 title: "Im Not Talking To You Ever Again"
 date: 2011-03-15
 categories:
-  - 2011
+  - "2011"
 ---
 
 I arrived from my windswept bike ride home in pretty dismal spirits. It's quite amazing how being pulled from pillar to post during the day, and headbanging your way through complex programming problems can deplete your levels of cheer and good will.

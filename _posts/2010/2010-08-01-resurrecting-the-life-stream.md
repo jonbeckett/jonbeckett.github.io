@@ -3,7 +3,7 @@ layout: single
 title: "Resurrecting The Life Stream"
 date: 2010-08-01
 categories:
-  - 2010
+  - "2010"
 ---
 
 After a few months experimentation with life streaming earlier in the year, I feel that perhaps I curtailed it a little early. In recent weeks I have been wandering around the various long-form blogging solutions; WordPress, Blogger, LiveJournal, and of course Posterous, where "Cheese and Beans" lives - my personal blog.

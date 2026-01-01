@@ -3,7 +3,7 @@ layout: single
 title: "Missing An Old Friend"
 date: 2004-04-27
 categories:
-  - 2004
+  - "2004"
 ---
 
 I have just lost two games of chess in a row on FICS (the free internet chess server). I played like a complete idiot. My skills are definitely not "impressive" as Darth Vader would not say.

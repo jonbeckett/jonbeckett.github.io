@@ -3,7 +3,7 @@ layout: single
 title: "Why are people so terrible"
 date: 2023-10-29
 categories:
-  - 2023
+  - "2023"
 ---
 
 We went to our wonderful new local cinema this evening to watch Beetlejuice (they show a throw-back movie each week). While watching the movie, I couldn't help thinking of the old saying "be careful what you wish for". I hadn't seen Beetlejuice since it first came out - and it hasn't aged well. While it was enjoyable enough, it made me appreciate just how good film-making has become, and how much the world has changed.

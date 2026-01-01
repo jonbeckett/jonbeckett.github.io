@@ -3,7 +3,7 @@ layout: single
 title: "The almost impossible search for unicorns"
 date: 2025-08-18
 categories:
-  - 2025
+  - "2025"
 ---
 
 I started writing a blog before the word “blog” had entered common parlance.

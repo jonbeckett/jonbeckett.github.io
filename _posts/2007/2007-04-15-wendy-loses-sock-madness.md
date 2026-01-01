@@ -3,7 +3,7 @@ layout: single
 title: "Wendy Loses Sock Madness"
 date: 2007-04-15
 categories:
-  - 2007
+  - "2007"
 ---
 
 W (my wonderful other half) has been taking part in a sock knitting competition on the internet recently called "Sock Madness". It would appear there are far too many people out there though that have either (a) no life, or (b) take competitions far too seriously.

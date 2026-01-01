@@ -3,7 +3,7 @@ layout: single
 title: "Bank Holiday Monday"
 date: 2019-05-27
 categories:
-  - 2019
+  - "2019"
 ---
 
 The rest of the family are out for the day - leaving me here to wallow in my own silence, and hopefully get a bit better. My body still hasn't got the note about stopping the epic snot drive that's been going on for several weeks now. I took some pretty powerful medication last night, which allowed me to sleep, but also resulted in some of the most impressive snoring in recorded history. I woke up at 5am to the rather guilty discovery that my other half had retreated to the sofa at some point in the night.

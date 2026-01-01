@@ -3,7 +3,7 @@ layout: single
 title: "A Week In Pembrokeshire"
 date: 2009-08-16
 categories:
-  - 2009
+  - "2009"
 ---
 
 We spent last week staying in a house in Pembrokeshire, Wales, with W's parents and her brother. I spent most of the week battling the remnants of the cold I had the week before we went away, and managed to ignore it on the most part - although jumping into the sea on one of the days in nothing but a pair of speedos caused such a shock to the system that my head exploded in headache. It was the kind of headache that makes you feel sick, and not know what to do with yourself.

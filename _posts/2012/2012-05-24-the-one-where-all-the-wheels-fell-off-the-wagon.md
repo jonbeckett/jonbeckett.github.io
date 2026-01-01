@@ -3,7 +3,7 @@ layout: single
 title: "The One Where All The Wheels Fell Off The Wagon"
 date: 2012-05-24
 categories:
-  - 2012
+  - "2012"
 ---
 
 Today started with me going nuclear in the kitchen, and ended with me defeatedly reading a stream of emails from work... at 10pm.

@@ -3,7 +3,7 @@ layout: single
 title: "Is Reblogging Lazy"
 date: 2010-12-29
 categories:
-  - 2010
+  - "2010"
 ---
 
 In recent days, while wasting time on the internet (something of a pastime around here), I have been reblogging the odd poster or cartoon that I liked. It doesn't really make for an interesting tumblr feed, does it?

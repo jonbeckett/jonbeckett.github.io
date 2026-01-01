@@ -3,7 +3,7 @@ layout: single
 title: "Overthinking"
 date: 2025-02-09
 categories:
-  - 2025
+  - "2025"
 ---
 
 A few thoughts have been rattling around my head recently. For the most part they keep out of the way, but then during the quiet moments they emerge, throw spanners into any nearby spinning cogs or wheels, and then take a step back to admire their handywork.

@@ -3,7 +3,7 @@ layout: single
 title: "Down The Rabbit Hole"
 date: 2018-07-24
 categories:
-  - 2018
+  - "2018"
 ---
 
 The clock is ticking towards 10pm as I begin writing this, and it's really the first chance I have had all day to empty my head. If I was going to be lazy I would write about how tired I am - weary really - and how the day has knocked the stuffing out of me. That wouldn't be the whole story though - I got a huge amount of complicated work done. Here's the problem though - if I even begin to tell you what I've been working on, your eyes will glaze over, and you'll start wondering what's on Netflix.

@@ -3,7 +3,7 @@ layout: single
 title: "The Invention Of Lying"
 date: 2018-01-20
 categories:
-  - 2018
+  - "2018"
 ---
 
 After playing a spirited game of "Settlers of Catan" with the children last night, I sat down late in the evening with my other half and said "shall we watch a movie?". We rarely sit and watch movies together at home - either the children are wandering in and out of the room, we are running around town fetching and delivering them from clubs, we are doing chores, or we are too tired to even bother.

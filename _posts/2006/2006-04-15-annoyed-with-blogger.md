@@ -3,7 +3,7 @@ layout: single
 title: "Annoyed With Blogger"
 date: 2006-04-15
 categories:
-  - 2006
+  - "2006"
 ---
 
 Okay. I've started using my own blog script again - mainly out of frustration with Blogger, who's servers refuse to publish my blog at the moment.

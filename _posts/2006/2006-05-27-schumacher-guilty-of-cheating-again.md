@@ -3,7 +3,7 @@ layout: single
 title: "Schumacher Guilty Of Cheating Again"
 date: 2006-05-27
 categories:
-  - 2006
+  - "2006"
 ---
 
 During qualifying for the Monaco Formula One Grand Prix today, during the closing minutes of qualifying Michael Schumacher stalled his car on the track, ruining the final laps of his competitors. The stewards of the meeting, after reviewing all the evidence, have found Ferrari and Schumacher guilty of cheating, and have moved him to the back of the grid for the race on Sunday.

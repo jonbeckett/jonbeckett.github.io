@@ -3,7 +3,7 @@ layout: single
 title: "Escaping To The Coast"
 date: 2016-02-13
 categories:
-  - 2016
+  - "2016"
 ---
 
 This morning the alarm clock erupted at 7am, and started playing music from the local radio station. After watching the minutes tick by for a while, I eventually scraped myself out of bed and set about packing bags, filling Kindles with books, and stopping arguments.

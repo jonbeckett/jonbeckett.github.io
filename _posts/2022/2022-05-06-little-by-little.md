@@ -3,7 +3,7 @@ layout: single
 title: "Little By Little"
 date: 2022-05-06
 categories:
-  - 2022
+  - "2022"
 ---
 
 That's two week's of the "Couch to 5K" complete now, and after six months doing very little indeed my body appears to be remembering how the whole "running" lark works. Against my better judgement, I extended this morning's run a little (only by a kilometre), just to see how my legs felt. So far so good.

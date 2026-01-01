@@ -3,7 +3,7 @@ layout: single
 title: "Returning To Frankfurt"
 date: 2018-09-19
 categories:
-  - 2018
+  - "2018"
 ---
 
 I'm returning to Frankfurt again - during the second week of October. I still need to book a taxi transfer to the airport, but everything else is now in place - the flights, and the hotel. Another week of evenings wandering the streets of a foreign city, and sitting alone in restaurants.

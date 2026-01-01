@@ -3,7 +3,7 @@ layout: single
 title: "Making Plans"
 date: 2018-04-27
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's Saturday. The washing machine and tumble dryer are rumbling away in the background. I've just made lunch for everybody - I expect I'll be washing up behind everybody in a few minutes. I'm finally getting the chance to sit down - at 1pm - to write something - to do something for myself. I wonder how many people that are thinking about starting a family would continue with the idea if somebody such as myself sat opposite them, and told the truth about how the life you know will be reduced to filling the gaps around everything and everybody else?

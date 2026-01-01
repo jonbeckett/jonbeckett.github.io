@@ -3,7 +3,7 @@ layout: single
 title: "Searching For A Reason"
 date: 2017-09-20
 categories:
-  - 2017
+  - "2017"
 ---
 
 I have found myself thinking about "the point of things" recently. I'm not sure what brought it on.

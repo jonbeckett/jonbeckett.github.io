@@ -3,7 +3,7 @@ layout: single
 title: "The journey to the dark side is complete"
 date: 2025-07-20
 categories:
-  - 2025
+  - "2025"
 ---
 
 We went out this morning in search of some new tea, coffee and sugar containers for the kitchen. The old ones had been knocking around the kitchen since the children were small, and were starting to show significant signs of battle damage. Quite how we came back with said containers, a biscuit barrel, a new toaster, and a new kettle is something of a mystery.

@@ -3,7 +3,7 @@ layout: single
 title: "A Night Out With Friends"
 date: 2013-04-27
 categories:
-  - 2013
+  - "2013"
 ---
 
 To mark the departure of the girl I have shared an office with for the last three years, a group of us headed out yesterday evening - first to the local pub where the managers would stop by for a drink, and latterly into town to the supposed "bar of the moment".

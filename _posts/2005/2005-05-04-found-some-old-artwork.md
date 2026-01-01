@@ -3,7 +3,7 @@ layout: single
 title: "Found Some Old Artwork"
 date: 2005-05-04
 categories:
-  - 2005
+  - "2005"
 ---
 
 I just found some old artwork on an ancient Yahoo account of mine that I had forgotten about.

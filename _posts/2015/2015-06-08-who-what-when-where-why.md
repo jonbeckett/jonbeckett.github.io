@@ -3,7 +3,7 @@ layout: single
 title: "Who What When Where Why "
 date: 2015-06-08
 categories:
-  - 2015
+  - "2015"
 ---
 
 If you arrived at my blog looking for the technical posts about all sorts of stuff, you'll perhaps have been surprised to find that all manner of idiotic rambling has replaced it. I decided to take the technical posts offlinefor a number of reasons.

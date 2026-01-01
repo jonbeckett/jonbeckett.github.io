@@ -3,7 +3,7 @@ layout: single
 title: "Fourteen Days"
 date: 2020-07-19
 categories:
-  - 2020
+  - "2020"
 ---
 
 I have the next two weeks off work. Ten working days. Fourteen days in all. It all seems a bit giddy at the moment, although I'm mindful of a conversation with my brother-in-law earlier today, who has just had two weeks off - 'I looked forward to it for ages, and then before you know it, it's gone, and you realise you have to go back to work in the morning'.

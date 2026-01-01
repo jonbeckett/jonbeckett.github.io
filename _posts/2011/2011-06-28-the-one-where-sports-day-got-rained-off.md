@@ -3,7 +3,7 @@ layout: single
 title: "The One Where Sports Day Got Rained Off"
 date: 2011-06-28
 categories:
-  - 2011
+  - "2011"
 ---
 
 It all started so well. I left work at 1pm, got to the school at about 1:10pm, ready for the kids activities to start at 1:15. Although I missed our eldest coming out of the school buildings, I found her a few minutes later taking part in her first event, caught her eye, grinned, waved, and all was well.

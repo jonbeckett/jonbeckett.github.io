@@ -3,7 +3,7 @@ layout: single
 title: "Celebrity Big Brother"
 date: 2015-01-08
 categories:
-  - 2015
+  - "2015"
 ---
 
 We have a television hanging from a bracket in the corner of the kitchen, intended to provide distraction while cooking, washing up, or ironing. While ironing a shirt this evening I switched the television on, and the channel it had last been showing popped up on the screen. Channel 5. I didn't recognise the logo that flashed across the screen, but I recognised the music. My first reaction was "another series of Big Brother?".

@@ -3,7 +3,7 @@ layout: single
 title: "And Another Thing"
 date: 2011-09-11
 categories:
-  - 2011
+  - "2011"
 ---
 
 Perhaps I'm just old and unbearably cycnical, but reading the various news outlets today, it's almost a competition to see who can cook up the best mixture of faux emotion, gravitas, and soapbox psychology into their editorial pieces about the September 11th attacks.

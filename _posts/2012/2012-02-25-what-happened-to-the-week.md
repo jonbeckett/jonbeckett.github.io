@@ -3,7 +3,7 @@ layout: single
 title: "What Happened To The Week"
 date: 2012-02-25
 categories:
-  - 2012
+  - "2012"
 ---
 
 It seems like days since I last wrote in the blog. I guess it hasbeen days. When I'm buried in stress during the daytime, it pretty much kills off any thoughts about writing in the evenings - unless I'm staying in a hotel with work.

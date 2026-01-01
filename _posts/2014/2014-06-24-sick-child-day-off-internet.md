@@ -3,7 +3,7 @@ layout: single
 title: "Sick Child Day Off Internet"
 date: 2014-06-24
 categories:
-  - 2014
+  - "2014"
 ---
 
 We spent an hour or so last night trying to bring the temperature of our middle girl down to avoid her spontaneously combusting. After taking antibiotics, sitting in a cold bath, and then sitting downstairs for half the night in front of a fan set to "ludicrous speed" we were on the verge of taking her to hospital when the numbers on the magical ear thermometer finally started to decrease.

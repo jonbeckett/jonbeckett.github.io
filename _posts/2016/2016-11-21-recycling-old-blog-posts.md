@@ -3,7 +3,7 @@ layout: single
 title: "Recycling Old Blog Posts"
 date: 2016-11-21
 categories:
-  - 2016
+  - "2016"
 ---
 
 One of the quite wonderful benefits of splitting my social media endeavours into many parts (and yes, it really does feel like I've created a number of Horcruxes), is that I get to share old blog posts from time to time - to make them new again.

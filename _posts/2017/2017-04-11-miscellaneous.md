@@ -3,7 +3,7 @@ layout: single
 title: "Miscellaneous"
 date: 2017-04-11
 categories:
-  - 2017
+  - "2017"
 ---
 
 Builders were supposed to arrive at our house today to finish replacing the flat roof at the back of our house. I got up at 7, had a shower, shave, brushed my teeth, got dressed, made a coffee, and then called them to find out what time they might be arriving. Tomorrow. Damn. Turns out stuff they were waiting on before finishing the job hadn't arrived yet.

@@ -3,7 +3,7 @@ layout: single
 title: "Contemplating A Second Blog"
 date: 2017-11-19
 categories:
-  - 2017
+  - "2017"
 ---
 
 I've been sitting around a conference room table in a hotel all day with co-workers, taking turns to talk about the various technologies we find ourselves using, for the benefit of the management and sales guys. Also present was the girl that has taken over posting to the social internet accounts on behalf of the company - to fill her head with ideas.

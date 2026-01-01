@@ -3,7 +3,7 @@ layout: single
 title: "Lunchtime Observations"
 date: 2008-07-23
 categories:
-  - 2008
+  - "2008"
 ---
 
 I think perhaps my invisibility field was in full effect today - walking into Liverpool Street to get some lunch just about everybody and their dog walking into me, at me, or I narrowly avoided by getting out of their way.

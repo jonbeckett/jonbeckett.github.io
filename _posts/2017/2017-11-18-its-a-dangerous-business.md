@@ -3,7 +3,7 @@ layout: single
 title: "Its A Dangerous Business"
 date: 2017-11-18
 categories:
-  - 2017
+  - "2017"
 ---
 
 I've just re-written the title of this blog post three times. It started out as "Reflections on a a Few Weeks of Trying Harder", and then "Expending Effort", before finally settling on a paraphrased version of Tolkien's words from The Hobbit.

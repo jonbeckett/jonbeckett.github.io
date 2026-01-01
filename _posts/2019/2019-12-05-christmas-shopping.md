@@ -3,7 +3,7 @@ layout: single
 title: "Christmas Shopping"
 date: 2019-12-05
 categories:
-  - 2019
+  - "2019"
 ---
 
 I went Christmas shopping with our eldest daughter today - armed with a list written late last night by my other half. Of COURSE this was how I wanted to spend my week off. OF COURSE it is.

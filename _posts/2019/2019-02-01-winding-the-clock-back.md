@@ -3,7 +3,7 @@ layout: single
 title: "Winding The Clock Back"
 date: 2019-02-01
 categories:
-  - 2019
+  - "2019"
 ---
 
 I've been playing with the old Apple Mac this morning - the one I used for NaNoWriMo last year - the one I told myself would provide a distraction free writing environment. Such a good idea - pretending to be George R R Martin running his copy of Wordstar on an old PC - right until I discovered a website called "Macintosh Garden" full of abandonware. The Mac now has AppleWorks, iWork, Filemaker, Stuffit, WriteRoom, and a host of other long-forgotten applications installed on it (all applications I used to own, I might add). A bit later on today a very, very old version of Adobe Creative Suite (InDesign, Illustrator, Photoshop, etc) will appear on it. You might wonder why I'm bothering. I'm asking myself the same question. I'll go with "curiosity", "reminiscing", and "tinkering".

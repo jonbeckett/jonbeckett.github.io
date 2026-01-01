@@ -3,7 +3,7 @@ layout: single
 title: "Final Day Off"
 date: 2011-04-26
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's my final day off work today. While I would like to kick back and do as little as possible, reality is dictating otherwise. The presence of three little people in the house is having a siesmic impact on any plans.

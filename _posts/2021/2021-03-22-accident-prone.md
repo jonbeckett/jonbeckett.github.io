@@ -3,7 +3,7 @@ layout: single
 title: "Accident Prone"
 date: 2021-03-22
 categories:
-  - 2021
+  - "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1a0a80-a226-4509-aeb9-842e8730d5a2_1024x768.jpeg" />

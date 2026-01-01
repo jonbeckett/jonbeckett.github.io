@@ -3,7 +3,7 @@ layout: single
 title: "Kylie Has Breast Cancer"
 date: 2005-05-17
 categories:
-  - 2005
+  - "2005"
 ---
 
 I just read on the news that Kylie Minogue has breast cancer... quite a shock.

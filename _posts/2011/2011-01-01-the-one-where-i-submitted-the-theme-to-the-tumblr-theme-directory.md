@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Submitted The Theme To The Tumblr Theme Directory"
 date: 2011-01-01
 categories:
-  - 2011
+  - "2011"
 ---
 
 I doubt very much that there are any staff beyond skeleton support staff at Tumblr today, so don't expect the theme this blog is based on to appear any time soon in the Theme Directory.

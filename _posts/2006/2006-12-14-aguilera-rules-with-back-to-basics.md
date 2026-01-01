@@ -3,7 +3,7 @@ layout: single
 title: "Aguilera Rules With Back To Basics"
 date: 2006-12-14
 categories:
-  - 2006
+  - "2006"
 ---
 
 While off work today I decided I needed some good tunes to accompany my surfing and free-wheeling across the world-wide-web. I chose "Back To Basics", the new Christina Aguilera album.

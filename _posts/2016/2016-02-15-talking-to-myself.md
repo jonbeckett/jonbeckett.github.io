@@ -3,7 +3,7 @@ layout: single
 title: "Talking To Myself"
 date: 2016-02-15
 categories:
-  - 2016
+  - "2016"
 ---
 
 If you read the perceived wisdom of professional bloggers on the internet, they emphasise the importance of having an "about" page. I'm not sure I entirely agree or disagree based on recent experience.

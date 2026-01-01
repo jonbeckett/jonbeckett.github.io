@@ -3,7 +3,7 @@ layout: single
 title: "The One Where The Name Changed"
 date: 2019-11-05
 categories:
-  - 2019
+  - "2019"
 ---
 
 After dithering about it for several weeks, I finally changed the name of this blog last night. I've been thinking about doing it for some time - to create some separation from the professional me, and the personal me.

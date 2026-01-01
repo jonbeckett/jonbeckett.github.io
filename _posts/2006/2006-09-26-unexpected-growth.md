@@ -3,7 +3,7 @@ layout: single
 title: "Unexpected Growth"
 date: 2006-09-26
 categories:
-  - 2006
+  - "2006"
 ---
 
 Over the last few weeks I have been busy re-styling the PluggedOut website, and have started writing regular posts over there on the thing that interests me most - "interesting stuff I find on the internet".

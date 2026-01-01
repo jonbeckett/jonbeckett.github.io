@@ -3,7 +3,7 @@ layout: single
 title: "Black Cats"
 date: 2018-11-18
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's now a couple of weeks since we said goodbye to Sam, and whispered conversations have begun to gather pace around the house - wondering if George, the remaining brother, might be lonely - and wondering if we might start looking for some company for him.

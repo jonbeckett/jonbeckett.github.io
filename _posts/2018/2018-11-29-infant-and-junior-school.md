@@ -3,7 +3,7 @@ layout: single
 title: "Infant And Junior School"
 date: 2018-11-29
 categories:
-  - 2018
+  - "2018"
 ---
 
 While sitting at the departure gate in Frankfurt Airport, waiting for my flight home, is occurred to me that I might release another chunk of this year's NaNoWriMo - an autobiography of sorts. Today's excerpt takes you through infant and junior school with me. Enjoy!

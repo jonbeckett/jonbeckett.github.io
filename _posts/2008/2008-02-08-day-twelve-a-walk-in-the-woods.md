@@ -3,7 +3,7 @@ layout: single
 title: "Day Twelve A Walk In The Woods"
 date: 2008-02-08
 categories:
-  - 2008
+  - "2008"
 ---
 
 We took the kids out for a walk in a nearby meadow today. Several square miles of open land with no roads, and very few people. We encouraged them to explore, do their own thing, and afforded them the major thing they have not had - freedom. We thought it might be interesting to see how each one reacted.

@@ -3,7 +3,7 @@ layout: single
 title: "Curmudgeonly"
 date: 2007-04-11
 categories:
-  - 2007
+  - "2007"
 ---
 
 I have just spent the last two hours on the train home from London trying not to cause an argument over a number of small children that got on the train with their two women who I'm guessing were their mothers.

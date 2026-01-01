@@ -3,7 +3,7 @@ layout: single
 title: "Staying Out All Night"
 date: 2010-10-14
 categories:
-  - 2010
+  - "2010"
 ---
 
 At about 11pm last night we realised one of the cats was missing - Tom, who you might describe as having rather too much character for such a small cat. I often describe him using lots of other words that I don't use in front of the children.

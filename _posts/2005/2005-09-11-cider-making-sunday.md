@@ -3,7 +3,7 @@ layout: single
 title: "Cider Making Sunday"
 date: 2005-09-11
 categories:
-  - 2005
+  - "2005"
 ---
 
 We have just spent our entire Sunday pressing apples from our tree in the back garden to have a go at making Cider. The following photos illustrate the steps we have gone through today while following the cider making book we bought from CAMRA (the Campaign for Real Ales). EnjoyI was up and picking apples at 9am.

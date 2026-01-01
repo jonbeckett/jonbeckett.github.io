@@ -3,7 +3,7 @@ layout: single
 title: "Perhaps A Coffee Will Help "
 date: 2016-09-02
 categories:
-  - 2016
+  - "2016"
 ---
 
 I'm not sure if I'm coming or going at the moment. My other half has been back at work yesterday and today - I go back on Monday. The washing machine has been on constantly, I've modified and re-hung a door, re-fitted the TV in our eldest's new room, tidied up and cleaned most of the house, been grocery shopping, and now can't figure out what to do next. A voice on one shoulder is telling me to sit and watch a movie with the kids. A voice on the other shoulder is telling me to get on with the next thing, and the next thing.

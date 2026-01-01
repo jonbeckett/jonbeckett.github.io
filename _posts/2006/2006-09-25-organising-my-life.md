@@ -3,7 +3,7 @@ layout: single
 title: "Organising My Life"
 date: 2006-09-25
 categories:
-  - 2006
+  - "2006"
 ---
 
 For the past couple of days I have been looking at various means of organising my life a little better. I tend to forget where I should be or what I should be doing rather too often.

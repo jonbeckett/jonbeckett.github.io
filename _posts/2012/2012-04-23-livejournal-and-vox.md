@@ -3,7 +3,7 @@ layout: single
 title: "Livejournal And Vox"
 date: 2012-04-23
 categories:
-  - 2012
+  - "2012"
 ---
 
 After much dicking around (something I seem to be particularly talented at), I renamed my LiveJournal account to my real name. I don't like "hiding" online - as anybody will know that's seen me change my Tumblr account in the past. I always revert to being "me".

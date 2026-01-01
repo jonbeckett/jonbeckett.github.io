@@ -3,7 +3,7 @@ layout: single
 title: "Re-programming my brain"
 date: 2025-06-11
 categories:
-  - 2025
+  - "2025"
 ---
 
 The Mac mini arrived. And the iPhone. The biggest barrier at the moment seems to be my own ability to learn new ways of doing things, or to forget the ways I used to do things. In some ways switching over has been a good exercise - forcing me to “clean house” - sorting out passwords, bookmarks, file shares - you name it.

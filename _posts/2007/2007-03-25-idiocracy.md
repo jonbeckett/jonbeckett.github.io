@@ -3,7 +3,7 @@ layout: single
 title: "Idiocracy"
 date: 2007-03-25
 categories:
-  - 2007
+  - "2007"
 ---
 
 After hearing about it on the MacBreak podcast a couple of weeks ago, I have aquired a copy of the movie "Idiocracy". It's one of the funniest movies I have ever seen...

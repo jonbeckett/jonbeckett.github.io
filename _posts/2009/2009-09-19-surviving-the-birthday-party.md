@@ -3,7 +3,7 @@ layout: single
 title: "Surviving The Birthday Party"
 date: 2009-09-19
 categories:
-  - 2009
+  - "2009"
 ---
 
 I arrived home last night a little early to help out with our eldest daughter's birthday party. It seemed like a simple enough idea for a birthday; 3 friends, movie, and junk food. For some reason our circle of friends and various parents were wishing us luck with eyebrows raised.

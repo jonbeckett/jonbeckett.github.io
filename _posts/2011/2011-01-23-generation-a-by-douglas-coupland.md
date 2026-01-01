@@ -3,7 +3,7 @@ layout: single
 title: "Generation A By Douglas Coupland"
 date: 2011-01-23
 categories:
-  - 2011
+  - "2011"
 ---
 
 Bought this from the Kindle store last night. Completely forgot I did it until I noticed the receipt in my email this morning.

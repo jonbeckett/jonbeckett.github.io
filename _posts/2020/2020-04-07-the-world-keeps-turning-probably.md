@@ -3,7 +3,7 @@ layout: single
 title: "The World Keeps Turning Probably"
 date: 2020-04-07
 categories:
-  - 2020
+  - "2020"
 ---
 
 Why the 'probably' in the title? Because I haven't stepped outside today. I'm pretty sure the world is still out there, getting on with what it does. I wouldn't know. The closest I got was standing in the doorway at the back of the house late this afternoon, while waiting for the kettle to boil, watching our younger daughters play rugby tennis.

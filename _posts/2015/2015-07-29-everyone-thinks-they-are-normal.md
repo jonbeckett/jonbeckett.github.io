@@ -3,7 +3,7 @@ layout: single
 title: "Everyone Thinks They Are Normal"
 date: 2015-07-29
 categories:
-  - 2015
+  - "2015"
 ---
 
 I had no clue what I was going to write about this evening, but then read a stream of comments on Tumblr about choices of pizza, and start writing this nonsensical, disjointed post about nothing in particular. I don't even know where to start.

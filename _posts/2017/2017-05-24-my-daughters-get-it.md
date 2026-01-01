@@ -3,7 +3,7 @@ layout: single
 title: "My Daughters Get It"
 date: 2017-05-24
 categories:
-  - 2017
+  - "2017"
 ---
 
 I have three girls - aged 16, 13, and 12. Tonight they made me perhaps the most proud I have been of them in quite some time. We were talking about the bombing in Manchester - and if there was anything we could do. I suggested that we might buy some of Ariana Grande's albums.

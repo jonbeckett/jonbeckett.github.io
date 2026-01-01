@@ -3,7 +3,7 @@ layout: single
 title: "Not Leaving The House"
 date: 2018-02-28
 categories:
-  - 2018
+  - "2018"
 ---
 
 I'm "working" from home today. While sitting in the junk room, surrounded by my work laptop and phone, a cup of tea, the bullet journal, and the various bits and bobs that clutter the desk, snow is steadily falling outside. It's forecast to continue all day. An email went out to all staff this morning, inviting us to work from home if we want (read: if we possibly can).

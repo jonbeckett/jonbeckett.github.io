@@ -3,7 +3,7 @@ layout: single
 title: "Week One Run One"
 date: 2025-06-02
 categories:
-  - 2025
+  - "2025"
 ---
 
 After tipping myself out of bed at 7am this morning, I pulled on some running shorts, and headed out of the door to re-start the “Couch to 5K” programme. It’s only been… oh, 20 months since running anywhere at all?

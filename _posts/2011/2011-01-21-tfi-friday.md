@@ -3,7 +3,7 @@ layout: single
 title: "Tfi Friday"
 date: 2011-01-21
 categories:
-  - 2011
+  - "2011"
 ---
 
 Just got in from work. It's been a fairly brainiac end to the week; trying to understand and add to a mass of code that has been mashed up over many months, between many other projects. Not fun.

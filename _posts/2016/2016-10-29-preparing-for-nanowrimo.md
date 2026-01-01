@@ -3,7 +3,7 @@ layout: single
 title: "Preparing For Nanowrimo"
 date: 2016-10-29
 categories:
-  - 2016
+  - "2016"
 ---
 
 Before describing what I've spent the greater part of the evening doing, it's probably worth dispelling a few myths, or preconceptions. I work as a software and web developer in the daytime - because of that you might think that I have some kind of state-of-the-art computer setup at home. And you would be wrong.

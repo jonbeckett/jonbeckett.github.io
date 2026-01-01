@@ -3,7 +3,7 @@ layout: single
 title: "To The North"
 date: 2014-01-15
 categories:
-  - 2014
+  - "2014"
 ---
 
 After dosing myself up with all manner of medication over the last few days, I had to make a decision on travelling for work this morning. Going against the thoughts of my other half, but based on the fact that I have been getting better each day, I packed my bag.

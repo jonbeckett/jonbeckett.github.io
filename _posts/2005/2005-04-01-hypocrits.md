@@ -3,7 +3,7 @@ layout: single
 title: "Hypocrits"
 date: 2005-04-01
 categories:
-  - 2005
+  - "2005"
 ---
 
 Does it not occur to anybody else in the world how hypocritical the church is being about the Pope?

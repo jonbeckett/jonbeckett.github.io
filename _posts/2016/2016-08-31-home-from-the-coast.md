@@ -3,7 +3,7 @@ layout: single
 title: "Home From The Coast"
 date: 2016-08-31
 categories:
-  - 2016
+  - "2016"
 ---
 
 We are finally home from my parents on the south-west coast of England. Back to the rat race, and back to a world of expectation, obligation, and "who can piss the highest". A few friends (my other half included) think I have a chip on my shoulder about the "who can piss the heighest" part, and I'll freely admit to it. I guess my absence from Facebook over the last few months has been mostly to avoid the continually competitive posts of many I know in the hereabouts.

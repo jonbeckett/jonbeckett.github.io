@@ -3,7 +3,7 @@ layout: single
 title: "Medium Publication And Letters"
 date: 2015-06-10
 categories:
-  - 2015
+  - "2015"
 ---
 
 A few days ago I wrote about the decision to stop the cross-posting madness, and concentrate on writing in one place (here). I confidently predicted at the time that within days a new platform would come along to force a re-evaluation.

@@ -3,7 +3,7 @@ layout: single
 title: "Weekends Rule"
 date: 2008-06-29
 categories:
-  - 2008
+  - "2008"
 ---
 
 We are approaching the end of a long weekend (I had Friday off), and yet I don't really recall much about it - although I know it was packed with activities.

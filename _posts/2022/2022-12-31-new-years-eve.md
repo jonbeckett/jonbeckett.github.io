@@ -3,7 +3,7 @@ layout: single
 title: "New Years Eve"
 date: 2022-12-31
 categories:
-  - 2022
+  - "2022"
 ---
 
 I woke in the early hours of the morning with a cramp in my right calf, leapt out of bed and hopped around the bedroom like a demented one-legged race participant. Today my calf still hurts. Go figure. Perhaps this is a warning about sitting in front of a computer too much and a guide for the year ahead.

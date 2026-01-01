@@ -3,7 +3,7 @@ layout: single
 title: "Book Crossing And The Beginning Of The Exodus"
 date: 2009-10-02
 categories:
-  - 2009
+  - "2009"
 ---
 
 As can be deduced from the photo above without too many Sherlock Holmesian skills, we have a lot of books in our house. While the photo doesn't actually look that bad, you have to realise that it's one corner of one room. I'm not saying any more because your mouth will gawp open, and your eyes will become circular as you realised the true extent of the problem.

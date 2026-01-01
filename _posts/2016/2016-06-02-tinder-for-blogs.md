@@ -3,7 +3,7 @@ layout: single
 title: "Tinder For Blogs"
 date: 2016-06-02
 categories:
-  - 2016
+  - "2016"
 ---
 
 I spent the greater part of last night on a damn fool crusade to find new and interesting blogs to read. The "very clever" plan I formed - or rather stumbled upon - was to find a few good blogs, and then look at every blog they said they were following. After some ninja level copying, pasting, sorting, and de-duplicating, I ended up with a list of about 600 blogs.

@@ -3,7 +3,7 @@ layout: single
 title: "Charlie Brown And Half A Bottle Of Sherry"
 date: 2021-12-16
 categories:
-  - 2021
+  - "2021"
 ---
 
 It's a few minutes before midnight, and you find me sitting in the dark, drinking a glass of sherry, eating leftover crips, and listening to the Charlie Brown christmas movie soundtrack (which happens to be a pretty epic Jazz playlist).

@@ -3,7 +3,7 @@ layout: single
 title: "And Another Five Kilometres"
 date: 2021-08-05
 categories:
-  - 2021
+  - "2021"
 ---
 
 I meant to write something earlier today, but work, home, chores, and everything in-between got in the way. Before you know it the day vanishes, and it's nearly midnight.

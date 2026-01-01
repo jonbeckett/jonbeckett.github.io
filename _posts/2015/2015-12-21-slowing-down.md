@@ -3,7 +3,7 @@ layout: single
 title: "Slowing Down"
 date: 2015-12-21
 categories:
-  - 2015
+  - "2015"
 ---
 
 The children have finishedschool, I have finished work, and we are finally slowing down. The groceries arrived today. The presents are bought (but not all wrapped yet), and for the first time ever we have reservations to eat at a pub in town on Christmas Day.

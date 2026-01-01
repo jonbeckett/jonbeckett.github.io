@@ -3,7 +3,7 @@ layout: single
 title: "Publishing A Half Serious Blog"
 date: 2014-09-26
 categories:
-  - 2014
+  - "2014"
 ---
 
 It's been a while since I unleashed the nerdy side of my brain on this blog.

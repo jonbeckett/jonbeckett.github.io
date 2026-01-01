@@ -3,7 +3,7 @@ layout: single
 title: "Turning Into A Cat"
 date: 2021-02-21
 categories:
-  - 2021
+  - "2021"
 ---
 
 I think I'm turning into a cat. You know how cats have favourite places to curl up or "be" that last for a few days at a time, before they move on to somewhere else? I'm like that with writing. For a while I was writing at Evernote, then a text editor for a little while, then Notion, and now I'm back at Google Docs, where I've been writing on-and-off for years.

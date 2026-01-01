@@ -3,7 +3,7 @@ layout: single
 title: "Dinner For One"
 date: 2017-06-05
 categories:
-  - 2017
+  - "2017"
 ---
 
 The world malfunctioned this morning - instead of deciding to rain, or to be sunny, it got stuck on the "sprinkler" setting, and drenched the world with a fine mist. It was the kind of fine mist that results in a refreshingly different "just climbed out of the river" look when you arrive at a client's office in the shirt and tie that looked quite smart twenty minutes earlier.

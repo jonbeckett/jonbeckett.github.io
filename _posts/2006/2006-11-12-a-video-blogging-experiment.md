@@ -3,7 +3,7 @@ layout: single
 title: "A Video Blogging Experiment"
 date: 2006-11-12
 categories:
-  - 2006
+  - "2006"
 ---
 
 After reading The 13th Apostle this morning, I looked at the webcam over on the corner of the desk, and wondered if I could figure out how to record something too. Something vaguely interesting - such as the blogs I read and would recommend to others.

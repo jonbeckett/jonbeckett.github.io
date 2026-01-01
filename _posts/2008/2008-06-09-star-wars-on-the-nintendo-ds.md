@@ -3,7 +3,7 @@ layout: single
 title: "Star Wars On The Nintendo Ds"
 date: 2008-06-09
 categories:
-  - 2008
+  - "2008"
 ---
 
 I finally have a copy of Star Wars for the Nintendo DS - complete with swishy light sabre noises, and tinny but thunderous music.

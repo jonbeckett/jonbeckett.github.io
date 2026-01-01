@@ -3,7 +3,7 @@ layout: single
 title: "Storms Lash England"
 date: 2007-01-18
 categories:
-  - 2007
+  - "2007"
 ---
 
 Today has been rather exciting for a change. The day would probably have been even more exciting if I had (a) not overslept, (b) not had a headache all day, and (c) had not been half asleep all day.

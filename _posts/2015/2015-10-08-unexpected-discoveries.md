@@ -3,7 +3,7 @@ layout: single
 title: "Unexpected Discoveries"
 date: 2015-10-08
 categories:
-  - 2015
+  - "2015"
 ---
 
 Quite some time ago I talked to a good friend who is a teacher about Kerbal Space Program, and how it might make a great activity day at school during their "Space" topic. She agreed, but as with most great ideas, they are easily forgotten.

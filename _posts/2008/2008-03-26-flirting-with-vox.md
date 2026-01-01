@@ -3,7 +3,7 @@ layout: single
 title: "Flirting With Vox"
 date: 2008-03-26
 categories:
-  - 2008
+  - "2008"
 ---
 
 Over the last couple of evenings I have been flirting with Vox again - looking at it, at it's ready built community, and wondering about stepping a little sideways from the blog writing world.

@@ -3,7 +3,7 @@ layout: single
 title: "The Arrival Of Poppy The Hamster"
 date: 2017-12-02
 categories:
-  - 2017
+  - "2017"
 ---
 
 I thought I was going to be standing on the touchline of a rugby pitch at 10am this morning. After sliding out of bed a little after 8am, and finding my way to the shower, I heard my other half shuffle path the downstairs bathroom door towards the kitchen.

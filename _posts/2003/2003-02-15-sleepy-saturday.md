@@ -3,7 +3,7 @@ layout: single
 title: "Sleepy Saturday"
 date: 2003-02-15
 categories:
-  - 2003
+  - "2003"
 ---
 
 Woohoo! I cooked dinner last night and it was great (I didn't poison W!!). We had Chilli, made with Quorn mince (veggie substitute - W doesn't eat meat), kidney beans, tomato puree, chopped tomatoes, onion, peppers and garlic. I got the amount of "Lazy Chillies" just about right... kind of a kick to it but not enough to burn your mouth out  It tasted amazing and I couldn't quite believe I cooked it.

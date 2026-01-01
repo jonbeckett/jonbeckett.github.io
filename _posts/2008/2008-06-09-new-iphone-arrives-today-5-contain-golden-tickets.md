@@ -3,7 +3,7 @@ layout: single
 title: "New Iphone Arrives Today 5 Contain Golden Tickets"
 date: 2008-06-09
 categories:
-  - 2008
+  - "2008"
 ---
 
 Apple will finally release the new iPhone later today - so I thought it might be fun to make a list of the rumours and speculated features that are buzzing around the internet. Later this evening we can go back through the list and find out what was accurate, and what was not.

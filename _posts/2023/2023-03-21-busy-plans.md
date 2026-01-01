@@ -3,7 +3,7 @@ layout: single
 title: "Busy Plans"
 date: 2023-03-21
 categories:
-  - 2023
+  - "2023"
 ---
 
 While sitting at the dinner table this evening our youngest daughter came up with best excuse I've ever heard for why she couldn't help her sisters with something:

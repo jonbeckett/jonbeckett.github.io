@@ -3,7 +3,7 @@ layout: single
 title: "Normality Resumes"
 date: 2022-04-19
 categories:
-  - 2022
+  - "2022"
 ---
 
 I returned to work today. Or rather I cleared the chores, had a shower, helped our youngest with feeding animals at a neighbours house, and then sat at the same desk I've been sitting at for the last week - just with a different computer in front of me.

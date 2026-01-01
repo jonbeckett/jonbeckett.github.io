@@ -3,7 +3,7 @@ layout: single
 title: "Revisiting An Old Story"
 date: 2015-12-04
 categories:
-  - 2015
+  - "2015"
 ---
 
 Before starting out on this, it's worth pointing out that the people I'm about to write about bear no resemblance to the people in the photo accompanying this post at allother than they are a man, and a woman. I just thought I would get that out of the way before somebody asks me "how did you get that photo?"I got the photo by searching on Google Images. When I receive a take-down notice, I'll remove it.

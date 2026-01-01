@@ -3,7 +3,7 @@ layout: single
 title: "What Day Is It Again"
 date: 2011-07-05
 categories:
-  - 2011
+  - "2011"
 ---
 
 I should have guessed today was going to slip by unnoticed when I woke up half an hour late this morning. Actually, that's not the whole truth; I woke up when I should have, turned the alarm off, and went back to sleep.

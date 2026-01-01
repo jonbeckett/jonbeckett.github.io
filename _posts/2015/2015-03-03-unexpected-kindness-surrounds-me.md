@@ -3,7 +3,7 @@ layout: single
 title: "Unexpected Kindness Surrounds Me"
 date: 2015-03-03
 categories:
-  - 2015
+  - "2015"
 ---
 
 And low, he did mark the passing of his 42nd tour of a fairly typical main sequence star by sitting in his hotel room alone, drinking forgettable instant coffee, eating cheap chocolate, and writing an insufferably introspective blog post.

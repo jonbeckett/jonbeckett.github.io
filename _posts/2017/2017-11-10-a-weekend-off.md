@@ -3,7 +3,7 @@ layout: single
 title: "A Weekend Off"
 date: 2017-11-10
 categories:
-  - 2017
+  - "2017"
 ---
 
 Well this is unexpected. No scheduled football match for Miss 13, rugby cancelled due to lack of numbers, and football called off for Miss 12 due to an unplayable pitch this morning (of course the call went out as we were all running around the house shouting at each other - "you SAID you got your kit ready last NIGHT!" - the common refrain on a weekend morning).

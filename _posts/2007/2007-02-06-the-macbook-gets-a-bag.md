@@ -3,7 +3,7 @@ layout: single
 title: "The Macbook Gets A Bag"
 date: 2007-02-06
 categories:
-  - 2007
+  - "2007"
 ---
 
 Since getting the Apple MacBook a couple of weeks ago, I have been making do with carrying it around in the bag that was bought for W's Windows laptop some time ago.

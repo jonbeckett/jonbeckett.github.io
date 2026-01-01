@@ -3,7 +3,7 @@ layout: single
 title: "The Day After The Night Before"
 date: 2016-05-21
 categories:
-  - 2016
+  - "2016"
 ---
 
 At perhaps 7pm last night we arrived alongside the river in a nearby town to board a huge river-boat for the evening - to meet up with all the current, and some of the past staff from the company I work for, along with their better halves for a relaxed evening celebrating 30 years since the founding of the company.

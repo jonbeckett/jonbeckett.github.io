@@ -3,7 +3,7 @@ layout: single
 title: "4 Burswin Road"
 date: 2016-11-02
 categories:
-  - 2016
+  - "2016"
 ---
 
 Until I was 5 years old, we lived in a small bungalow near the corner of a quiet road, in a sleepy town in the middle of the Cotswolds called Carterton. Until I was 5 years old I really had no idea about the wider world, because the limits of my existence were pretty much the front gate of the house, and the seemingly vast expanse of the back garden.

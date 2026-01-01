@@ -3,7 +3,7 @@ layout: single
 title: "Tiredness Frustration And Working Away"
 date: 2011-10-27
 categories:
-  - 2011
+  - "2011"
 ---
 
 I've written the opening sentence of this blog post five times now, and deleted it each time. This is the sixth try. It's not that I have nothing to writequite the opposite in fact.

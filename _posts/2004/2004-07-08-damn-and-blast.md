@@ -3,7 +3,7 @@ layout: single
 title: "Damn And Blast"
 date: 2004-07-08
 categories:
-  - 2004
+  - "2004"
 ---
 
 I was halfway through writing an entry for this damned Blog when I stopped to go and have something to eat. I got back, finished writing, clicked on "submit" and the session had timed out - goodbye all my thoughts for today.

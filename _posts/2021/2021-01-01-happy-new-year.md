@@ -3,7 +3,7 @@ layout: single
 title: "Happy New Year"
 date: 2021-01-01
 categories:
-  - 2021
+  - "2021"
 ---
 
 The clock is just ticking past 11am on New Years Day, and I'm still trying to wake up. I think we eventually went to bed some time after 2am. I hosted a quiz for friends on Zoom during the evening - and what started out as a 2 hour video call somehow turned into 6 hours, with friends dropping in along the way, playing games together, and eventually ringing in the New Year together.

@@ -3,7 +3,7 @@ layout: single
 title: "Anna Nicole Smith"
 date: 2007-02-09
 categories:
-  - 2007
+  - "2007"
 ---
 
 When I got in from work this evening I discovered that America's celebrity media had chalked up another casualty.

@@ -3,7 +3,7 @@ layout: single
 title: "No Hair Dont Care"
 date: 2021-02-04
 categories:
-  - 2021
+  - "2021"
 ---
 
 I got the clippers out this evening and cut all my hair off again. It was approaching "toilet brush" levels of sticky-uppiness, so I thought I should do something about it. Given that it's been raining for the last twenty eight years, I stripped off to the waist, and leaned through the shower door to complete the job - running the clippers endlessly through my hair in the blind hope of cutting it somewhere near evenly.

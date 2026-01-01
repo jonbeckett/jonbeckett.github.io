@@ -3,7 +3,7 @@ layout: single
 title: "In Search Of The Weekend"
 date: 2019-07-28
 categories:
-  - 2019
+  - "2019"
 ---
 
 I wish I knew where the weekend went. There seems to be some sort of anomaly in the space time continuum - specifically located at the cross section of me, and weekends in general. If I had done physics at college, I might be able to investigate - unfortunately the closest I ever got was learning the formulas for particle dynamics while pretending I could do applied maths.

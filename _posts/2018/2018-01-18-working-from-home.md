@@ -3,7 +3,7 @@ layout: single
 title: "Working From Home"
 date: 2018-01-18
 categories:
-  - 2018
+  - "2018"
 ---
 
 After a mammoth session recording expenses for this week's adventures in Germany, I returned home after lunch to keep Miss 17 company. Her teenage friends seem intent on turning her inside out at the moment, so of course I'm going up to bat for her again, and again, and again. None of this is in the parent instruction book (not that I read it anyway).

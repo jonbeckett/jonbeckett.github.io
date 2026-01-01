@@ -3,7 +3,7 @@ layout: single
 title: "Theres Something In The Air"
 date: 2019-10-02
 categories:
-  - 2019
+  - "2019"
 ---
 
 I've been here before. When life gets in the way, I think about shutting the blog down. I've followed through on it in the past, only to return a few weeks or months later. Thoughts of ending the almost seventeen year unbroken run of idiocy have been resurfacing again recently - I have confided in one or two close friends, and they pretty much laughed in my face.

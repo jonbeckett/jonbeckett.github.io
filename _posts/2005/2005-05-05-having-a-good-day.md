@@ -3,7 +3,7 @@ layout: single
 title: "Having A Good Day"
 date: 2005-05-05
 categories:
-  - 2005
+  - "2005"
 ---
 
 This morning I went for a run with a friend - "G" - who is just starting out. We went for about a 2k run down to the edge of town and back just for him to find out how he felt. I deliberately went slow and tried to enforce on him the idea that you go slow enough to hold a conversation, and if you feel knackered, just slow it down even more.

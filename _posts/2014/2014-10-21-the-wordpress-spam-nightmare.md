@@ -3,7 +3,7 @@ layout: single
 title: "The Wordpress Spam Nightmare"
 date: 2014-10-21
 categories:
-  - 2014
+  - "2014"
 ---
 
 I decided to move my blog back to WordPress at lunchtime, and unwittingly came across the spam bug in WordPresswhen you re-publish a post that has previously been published, it emails everybody following the blog AGAIN. Way to go WordPress. That's going to make sure nobody follows the blog again. Thankyou to the kind person that let me knowyou know who you are (quite how you didn't shout at me is anybody's guess).

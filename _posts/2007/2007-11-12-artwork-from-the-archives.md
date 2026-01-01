@@ -3,7 +3,7 @@ layout: single
 title: "Artwork From The Archives"
 date: 2007-11-12
 categories:
-  - 2007
+  - "2007"
 ---
 
 Many years ago I studied art at college. While digging around in the loft recently, what once was lost became found once more.

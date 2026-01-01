@@ -3,7 +3,7 @@ layout: single
 title: "Trying Scrivener"
 date: 2018-08-05
 categories:
-  - 2018
+  - "2018"
 ---
 
 I've owned a copy of Scrivener for years - since my first proper tilt at NaNoWriMo back in about 2007 if memory serves. If you've not heard of it, Scrivener is a word processor designed for writers, where you can organise your writing projects into binders with research, chapters, and so on. It's all rather wonderful, and lovely.

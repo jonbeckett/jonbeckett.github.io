@@ -3,7 +3,7 @@ layout: single
 title: "Has It Really Been A Week "
 date: 2020-07-03
 categories:
-  - 2020
+  - "2020"
 ---
 
 Has it really been a week since the last blog post? You would think the absence of pretty much anything from me over the last few days would mean an impending avalanche of thoughts, ideas, stories, and idiocy. The truth? I'm coming up blank.

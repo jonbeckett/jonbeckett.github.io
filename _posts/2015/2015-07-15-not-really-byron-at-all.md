@@ -3,7 +3,7 @@ layout: single
 title: "Not Really Byron At All"
 date: 2015-07-15
 categories:
-  - 2015
+  - "2015"
 ---
 
 Well that's the end of that then. I paid the princely sum of 5 last night for high speed internet access in my hotel room, and the 24 hours just ran out. The Tumblr dashboard ground to a mysterious halt in the middle of rendering a cat gif, and then scrolled no more. A cryptic message from the WiFi gods informed me that I was no longer connected to a trustworthy network (or words to that effect - I didn't read it properly).

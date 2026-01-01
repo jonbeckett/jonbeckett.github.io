@@ -3,7 +3,7 @@ layout: single
 title: "Things That Go Bump In The Night"
 date: 2018-09-04
 categories:
-  - 2018
+  - "2018"
 ---
 
 After reading a few posts about various people's personal experiences with ghosts recently, I thought it might be interesting to share my own. Only they are not really my experiences - I have never seen anything myself. I need to tell a story first.

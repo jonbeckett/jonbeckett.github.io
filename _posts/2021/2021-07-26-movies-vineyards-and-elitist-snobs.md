@@ -3,7 +3,7 @@ layout: single
 title: "Movies Vineyards And Elitist Snobs"
 date: 2021-07-26
 categories:
-  - 2021
+  - "2021"
 ---
 
 Last night we went out for the first time in 18 months.

@@ -3,7 +3,7 @@ layout: single
 title: "Football And Dance Shows"
 date: 2015-05-09
 categories:
-  - 2015
+  - "2015"
 ---
 
 After dragging myself out of bed this morning at 7am, I wandered into the kids room, opened the curtains, and started shouting the usual roll-call. On any weekday 7am would be fine - normal, in fact - but this was a Saturday. It seemed insane.

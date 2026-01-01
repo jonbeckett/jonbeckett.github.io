@@ -3,7 +3,7 @@ layout: single
 title: "Four Chickens"
 date: 2010-05-28
 categories:
-  - 2010
+  - "2010"
 ---
 
 When the children awoke early this morning and saw me walk past on the upstairs landing, they didn't greet me with "Dad!". They shouted "we got new chickens!".

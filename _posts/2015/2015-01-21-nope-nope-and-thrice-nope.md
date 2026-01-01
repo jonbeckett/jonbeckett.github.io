@@ -3,7 +3,7 @@ layout: single
 title: "Nope Nope And Thrice Nope"
 date: 2015-01-21
 categories:
-  - 2015
+  - "2015"
 ---
 
 I'm not doing the WordPress Blogging 101 exercise today, because it's not really about writing - it's about commenting - and commenting elsewhere isn't about me, so it doesn't really fit any kind of contorted attempt to make it enough about me to bother writing about. I think that's probably the worst constructed sentence I've ever written too. Ah well.

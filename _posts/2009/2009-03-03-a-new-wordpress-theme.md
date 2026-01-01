@@ -3,7 +3,7 @@ layout: single
 title: "A New Wordpress Theme"
 date: 2009-03-03
 categories:
-  - 2009
+  - "2009"
 ---
 
 It's not actually a "theme" as such yet - just an HTML and CSS file sat on my hard drive that I came up with over lunch. You can click on the image to see the full size one in Flickr...

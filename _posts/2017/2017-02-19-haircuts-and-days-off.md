@@ -3,7 +3,7 @@ layout: single
 title: "Haircuts And Days Off"
 date: 2017-02-19
 categories:
-  - 2017
+  - "2017"
 ---
 
 I had a day of leave booked today, so took the opportunity to get my hair cut. I also took the snap decision to get my hair cut somewhere completely different than normal, and it was... interesting.

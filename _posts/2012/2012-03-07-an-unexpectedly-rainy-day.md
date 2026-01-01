@@ -3,7 +3,7 @@ layout: single
 title: "An Unexpectedly Rainy Day"
 date: 2012-03-07
 categories:
-  - 2012
+  - "2012"
 ---
 
 While making a cup of tea for my co-workers this morning, I stood daydreaming at the kitchen window - wondering if I should write a few minutes worth of thoughts into the blog every morning. Empty my head before the strains of the day take their toll.I very much doubt I would have enough to share everyday, but it's a nice idea.

@@ -3,7 +3,7 @@ layout: single
 title: "Where Do I Get My Medal From"
 date: 2019-11-07
 categories:
-  - 2019
+  - "2019"
 ---
 
 I just got in from running with my eldest daughter - the one that fell off the "Couch to 5K" wagon spectacularly over the last couple of weeks. She really, really didn't want to go running tonight, but somehow I talked her into it - even though I've still got the ridiculous head-cold that seems intent on answering the "missing mass in the universe" question (it's all the damn snot in my head).

@@ -3,7 +3,7 @@ layout: single
 title: "Something I Struggle With"
 date: 2017-06-21
 categories:
-  - 2017
+  - "2017"
 ---
 
 When any of you post a nice photo, or tell a funny story, I'm invariably late to the game. I think "I have to write a comment on that" - "awesome photo", "beautiful", "gorgeous", "huge hugs", or something along those lines. And then I see the usual suspects have already plastered comments all over it, and I walk away.

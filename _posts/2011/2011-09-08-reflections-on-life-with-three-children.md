@@ -3,7 +3,7 @@ layout: single
 title: "Reflections On Life With Three Children"
 date: 2011-09-08
 categories:
-  - 2011
+  - "2011"
 ---
 
 Not many people know that our children are adopted. We went from being two lonely souls bouncing around a big empty house to "the five of us" overnight a few years ago (I keep thinking it was only a couple of years ago, but the christmases are flying by with increasing speed).

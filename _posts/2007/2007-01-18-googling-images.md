@@ -3,7 +3,7 @@ layout: single
 title: "Googling Images"
 date: 2007-01-18
 categories:
-  - 2007
+  - "2007"
 ---
 
 I saw this idea on Alex's Vox blogto visit Google Images, search for your name, and post the first picture that comes up.

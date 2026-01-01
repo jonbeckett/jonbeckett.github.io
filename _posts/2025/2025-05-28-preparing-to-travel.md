@@ -3,7 +3,7 @@ layout: single
 title: "Preparing to Travel"
 date: 2025-05-28
 categories:
-  - 2025
+  - "2025"
 ---
 
 I have to get up sensibly early tomorrow - to meet at a co-worker’s house ahead of a fairly long journey “up country”. Everybody vaguely technical in the company I work for is travelling to a hotel for a couple of days - a tech conference “of the staff, for the staff” - or something like that. I’m not entirely sure, if I’m entirely honest. I’m going to be presenting during the afternoon, which will be fun.

@@ -3,7 +3,7 @@ layout: single
 title: "Returning To London"
 date: 2015-05-18
 categories:
-  - 2015
+  - "2015"
 ---
 
 I've written about the morning routine when working in London so many times in the past, I can't imagine it is interesting to anybody any more. I'll give it a shot though - you never know - I might recall something of interest while writing.

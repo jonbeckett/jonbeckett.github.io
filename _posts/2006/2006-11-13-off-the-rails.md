@@ -3,7 +3,7 @@ layout: single
 title: "Off The Rails"
 date: 2006-11-13
 categories:
-  - 2006
+  - "2006"
 ---
 
 Today started fine. I got up, had a shower, got dressed, made some lunch, packed my bag, and went to work.

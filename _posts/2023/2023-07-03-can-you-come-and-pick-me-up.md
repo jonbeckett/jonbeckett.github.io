@@ -3,7 +3,7 @@ layout: single
 title: "Can you come and pick me up"
 date: 2023-07-03
 categories:
-  - 2023
+  - "2023"
 ---
 
 After spending the last several months either holed up in the study at home, or occasionally venturing to a nearby cafe, I boarded a train this morning and headed off in the direction of London to meet-up with co-workers. A social gathering to thank the small team that had worked on a recent project together.

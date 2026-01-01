@@ -3,7 +3,7 @@ layout: single
 title: "Where Did It All Go Wrong "
 date: 2011-09-09
 categories:
-  - 2011
+  - "2011"
 ---
 
 The picture above is of a cartridge for the Atari VCS 2600 video game that everybodyhad in the early 1980s. It was the first successful home video game machine, and introduced millions of living rooms to Space Invaders, Pacman, Missile Command, Asteroids, and more. I can still remember mum becoming hopelessly addicted to Pinball, and getting pretty nasty about letting anybody else have a go.

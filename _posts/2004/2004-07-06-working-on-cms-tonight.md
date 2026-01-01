@@ -3,7 +3,7 @@ layout: single
 title: "Working On Cms Tonight"
 date: 2004-07-06
 categories:
-  - 2004
+  - "2004"
 ---
 
 This evening I am holed up in the front room of the house with my laptop, working on changes to the CMS system to make it more suitable for commercial use.

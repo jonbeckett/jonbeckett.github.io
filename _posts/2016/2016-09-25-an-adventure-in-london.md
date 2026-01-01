@@ -3,7 +3,7 @@ layout: single
 title: "An Adventure In London"
 date: 2016-09-25
 categories:
-  - 2016
+  - "2016"
 ---
 
 Miss 16 received quite a bit of money for her birthday - both from ourselves, and from extended family - and hadn't really had a chance to spend anything yet. I sent her a message from work on Friday lunchtime, asking "what do you think about going to Forbidden Planet at the weekend to spend some of your birthday money?"... Immediate "Yes!!!" in response.

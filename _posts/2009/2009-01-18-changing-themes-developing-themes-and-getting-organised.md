@@ -3,7 +3,7 @@ layout: single
 title: "Changing Themes Developing Themes And Getting Organised"
 date: 2009-01-18
 categories:
-  - 2009
+  - "2009"
 ---
 
 If you're wondering why I changed back to "The Journalist" theme on my personal blog, it's purely because it's easy to read, and it doesn't get in your way - not that I write anything worth reading, but there you go. Oh - quick reminder - if you have a bookmark or link pointing at www.ewows.net, it won't work at all soon - the hosting expiry is in a few days time and I'm not renewing it.

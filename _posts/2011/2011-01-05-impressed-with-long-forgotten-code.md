@@ -3,7 +3,7 @@ layout: single
 title: "Impressed With Long Forgotten Code"
 date: 2011-01-05
 categories:
-  - 2011
+  - "2011"
 ---
 
 About six months ago I started noodling around with some top secret programming (I was going to write "secret squirrel programming", but guessed that nobody would understand the reference), but client project work got in the way, and I ended up putting it to one side.

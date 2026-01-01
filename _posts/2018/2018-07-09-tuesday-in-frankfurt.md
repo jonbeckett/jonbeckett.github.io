@@ -3,7 +3,7 @@ layout: single
 title: "Tuesday In Frankfurt"
 date: 2018-07-09
 categories:
-  - 2018
+  - "2018"
 ---
 
 It's 7:34am on Tuesday morning and I'm sitting in the hotel room. It's cold outside - for the first time in weeks. Although I slept with the window open last night, I have closed it now. The weather forecast says 20 something degrees - it feels like half that - I may even put a sweater on.

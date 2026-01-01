@@ -3,7 +3,7 @@ layout: single
 title: "Now I Have Seen Everything"
 date: 2005-07-08
 categories:
-  - 2005
+  - "2005"
 ---
 
 You know there is a saying "I thought I'd seen everything but..." - well now I have.

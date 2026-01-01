@@ -3,7 +3,7 @@ layout: single
 title: "School Summer Fte"
 date: 2010-06-26
 categories:
-  - 2010
+  - "2010"
 ---
 
 We just got back from the junior school summer fte - part of our annual jam packed itinerary of school fund raisers, parents evenings, sports days, PTA events, and other stuff that conspires to make sure we never have an empty weekend.

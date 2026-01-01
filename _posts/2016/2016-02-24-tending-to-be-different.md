@@ -3,7 +3,7 @@ layout: single
 title: "Tending To Be Different"
 date: 2016-02-24
 categories:
-  - 2016
+  - "2016"
 ---
 
 Following recurring thoughts about separation of blogging concerns in recent days, I finally caved last night and began pulling apart the components I had so carefully fitted together. Within an hour the motherlode of everything I have written since 2003 re-surfaced at WordPress, and a hastily improvised message was pasted to the front page of Squarespace to explain the sudden disappearance of almost everything.

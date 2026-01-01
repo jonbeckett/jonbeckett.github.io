@@ -3,7 +3,7 @@ layout: single
 title: "Hello Again"
 date: 2017-07-04
 categories:
-  - 2017
+  - "2017"
 ---
 
 Well this is an unexpected turn of events. If you arrived here via an email I sent you, or a blog post you read elsewhere, you've just learned that I upped sticks from where I used to write, and have begun writing here instead. If you've seen me do this before, you're probably rolling your eyes, and getting ready to delete me from your bookmarks or feed aggregator, because you've had enough. Let's get straight to it - why did I move the blog (again) ? Because the previous one had slowly but surely descended into a vanilla load of rubbish about nothing at all. Don't get me wrong - the blog will still be about nothing at all - I'm good at nothing at all - but it will be a little less vanilla. Oh, and I won't be attaching stock photos to the start of every post either. I'm still not entirely sure why I started doing that.

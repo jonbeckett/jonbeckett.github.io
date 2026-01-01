@@ -3,7 +3,7 @@ layout: single
 title: "Crap Weekend"
 date: 2004-10-18
 categories:
-  - 2004
+  - "2004"
 ---
 
 What a Crap Weekend.

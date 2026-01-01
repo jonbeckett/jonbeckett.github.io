@@ -3,7 +3,7 @@ layout: single
 title: "The One Where My Little Corner Of The Internet Came Screeching To Ajuddering Halt"
 date: 2014-10-18
 categories:
-  - 2014
+  - "2014"
 ---
 
 While browsing the internet this afternoon I tripped over a Tumblr post from a distant friend that brought the world to a screeching halt. I'm not going to name anybody, or quote anythinglet's just say it was the "it's all over" message.

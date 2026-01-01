@@ -3,7 +3,7 @@ layout: single
 title: "The motherlode"
 date: 2023-12-21
 categories:
-  - 2023
+  - "2023"
 ---
 
 Unlike many people I worked straight through the pandemic. I wasn't furloughed, but I did reduce to a shorter working week for a while - keeping myself busy by persuing interests that I had been studiously avoiding - among them the "Couch to 5K" running escapade, and trying my hand at writing.

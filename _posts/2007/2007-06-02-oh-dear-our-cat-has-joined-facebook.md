@@ -3,7 +3,7 @@ layout: single
 title: "Oh Dear Our Cat Has Joined Facebook"
 date: 2007-06-02
 categories:
-  - 2007
+  - "2007"
 ---
 
 I don't believe it... our cat is on Facebook...

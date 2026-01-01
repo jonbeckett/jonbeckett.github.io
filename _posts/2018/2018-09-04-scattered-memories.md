@@ -3,7 +3,7 @@ layout: single
 title: "Scattered Memories"
 date: 2018-09-04
 categories:
-  - 2018
+  - "2018"
 ---
 
 Today is the last "official" day of my holiday. My other half has returned to work, our middle girl has returned to school, Miss 17 starts her new college course in the morning, and Miss 13 returns to school tomorrow too. I'm busy going from one chore to the next around the house, trying to return our lives to some sort of normality.

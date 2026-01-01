@@ -3,7 +3,7 @@ layout: single
 title: "Standing On The Precipice"
 date: 2013-05-17
 categories:
-  - 2013
+  - "2013"
 ---
 
 I seem to be an agent of change this week. I deleted my Tumblr and Instagram accounts, removed KIK from my mobile, dived headlong into the newly recharged Google+, talked to distant friends in "Hangouts", and resurrected the technical blog. I wonder what might be next ?

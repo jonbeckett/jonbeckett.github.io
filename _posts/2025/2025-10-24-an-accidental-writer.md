@@ -3,7 +3,7 @@ layout: single
 title: "An Accidental Writer"
 date: 2025-10-24
 categories:
-  - 2025
+  - "2025"
 ---
 
 Today's Wordpress writing prompt asks what alternative career paths you have considered, or are interested in.

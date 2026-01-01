@@ -3,7 +3,7 @@ layout: single
 title: "Memories Of The Adoption Process"
 date: 2011-02-28
 categories:
-  - 2011
+  - "2011"
 ---
 
 I've spent the last hour or so reading my own blog posts from late 2007 and early 2008 - the months when our adoption quest came to an end, and little people changed our lives.

@@ -3,7 +3,7 @@ layout: single
 title: "High Speed Clothes Shopping"
 date: 2015-02-19
 categories:
-  - 2015
+  - "2015"
 ---
 
 It's been a year or so since I bought any new clothes for myself. Actually, when I say it has been a year, it's probably been two or three years. When you're a parent of three kids, and have an other half that looks down on any kind of "time to yourself" pretty dismally, you end up doing what I did this morning - leaving first thing on a rare day off to go clothes shopping, buying everything inside half an hour, and going home again. Of course it wasn't as straightforward as that - that would be silly.

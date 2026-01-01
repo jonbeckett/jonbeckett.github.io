@@ -3,7 +3,7 @@ layout: single
 title: "Chapter 5 Inventing Damon"
 date: 2008-11-05
 categories:
-  - 2008
+  - "2008"
 ---
 
 Sam neatened the paperwork in his hands by dropping it through his fingers onto the desk.

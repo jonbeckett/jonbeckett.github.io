@@ -3,7 +3,7 @@ layout: single
 title: "Experimenting With Tumblr"
 date: 2019-02-05
 categories:
-  - 2019
+  - "2019"
 ---
 
 I've put my mad professor coat on this lunchtime, and set an experiment up. After leaving Tumblr a couple of months ago, swearing I would not return, I have inevitably returned. There is a reason though. Honest. This isn't just me messing around. Ok, maybe it is, but I'll explain anyway.

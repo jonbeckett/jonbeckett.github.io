@@ -3,7 +3,7 @@ layout: single
 title: "The Emperors New Movie Clerks"
 date: 2009-09-30
 categories:
-  - 2009
+  - "2009"
 ---
 
 While listening to a podcast a few days ago, the movie "Clerks" came up, and I realised I had not seen it. A quick search on Amazon revealed it for a reasonable price, so I clicked the infamous Buy It Now button. Amazon were evidently in a generous mood, because they sent me two copies for twice the price.

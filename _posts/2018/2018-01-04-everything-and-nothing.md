@@ -3,7 +3,7 @@ layout: single
 title: "Everything And Nothing"
 date: 2018-01-04
 categories:
-  - 2018
+  - "2018"
 ---
 
 I'm sitting at the desk in my office, kicking around various bits and pieces - researching cloud stuff, brainstorming, and talking with the other developers about possibilities for future projects. I know several projects will be kicking off in the coming weeks, meaning travel both to the other end of the country and overseas, so this is really the calm before the storm.

@@ -3,7 +3,7 @@ layout: single
 title: "The Art Of Sorayama"
 date: 2006-05-28
 categories:
-  - 2006
+  - "2006"
 ---
 
 After talking to a new friend on messenger earlier, I realised that I know quite a bit about various artists and their work, and I never impart this knowledge to anybody. Time to do something about it!

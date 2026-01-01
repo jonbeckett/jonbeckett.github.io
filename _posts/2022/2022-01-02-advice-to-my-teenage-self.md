@@ -3,7 +3,7 @@ layout: single
 title: "Advice To My Teenage Self"
 date: 2022-01-02
 categories:
-  - 2022
+  - "2022"
 ---
 
 *While wandering the halls of Wordpress late last night I stumbled upon [Bloganuary](https://bloganuary.wordpress.com/) - a series of writing prompts that will be published throughout the month. I've decided to take part. I'm a day late, so playing catch-up already. Enjoy!*

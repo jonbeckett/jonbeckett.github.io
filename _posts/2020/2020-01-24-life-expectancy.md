@@ -3,7 +3,7 @@ layout: single
 title: "Life Expectancy"
 date: 2020-01-24
 categories:
-  - 2020
+  - "2020"
 ---
 
 We have a rescue cat at home - named Kaspar, after the cat in a Michael Morpurgo children's book. He's small, black, and scared of everything. While not pretending to sleep at various covert locations around the house, he seems to be poised on a hair trigger - always planning escape routes from uncomfortably close encounters with humans.

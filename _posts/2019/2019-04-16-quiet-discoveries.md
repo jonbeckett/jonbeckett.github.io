@@ -3,7 +3,7 @@ layout: single
 title: "Quiet Discoveries"
 date: 2019-04-16
 categories:
-  - 2019
+  - "2019"
 ---
 
 I have this week off work. I suppose in some ways today was the first "real" day off - because until now each day has been a bit manic - packing clothes, traveling, socialising, unpacking clothes, washing, grocery shopping, and so on. It probably seems a little strange, listing "socialising" as a chore, but in many ways that's exactly how I see the real world - hard work.

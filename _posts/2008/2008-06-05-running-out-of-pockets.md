@@ -3,7 +3,7 @@ layout: single
 title: "Running Out Of Pockets"
 date: 2008-06-05
 categories:
-  - 2008
+  - "2008"
 ---
 
 While attempting to organise myself before leaving the house this morning I ran out of pockets. While this normally wouldn't be such a huge problem, if you're about to sit on a train for several hours, as I have done rather too frequently recently, you will know exactly why I might need so many pockets.

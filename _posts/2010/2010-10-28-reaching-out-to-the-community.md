@@ -3,7 +3,7 @@ layout: single
 title: "Reaching Out To The Community"
 date: 2010-10-28
 categories:
-  - 2010
+  - "2010"
 ---
 
 Following an influx of new visitors to my personal blog over the last 24 hours, I have been taking on Darren Rowse's advice (he of ProBlogger fame), and reaching out to those who have taken the time to comment.

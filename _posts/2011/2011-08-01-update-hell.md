@@ -3,7 +3,7 @@ layout: single
 title: "Update Hell"
 date: 2011-08-01
 categories:
-  - 2011
+  - "2011"
 ---
 
 I re-installed Windows 7 on the netbook late last night. Google Chromium was great, but there were a few things that just didn't work properly (like sound, the webcam, and the internal microphone). Sure, I could get them working if I broke out "console mode", but the idea of a netbook is it's a utilitycomputer.

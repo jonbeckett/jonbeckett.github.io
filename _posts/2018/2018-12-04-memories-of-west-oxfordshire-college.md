@@ -3,7 +3,7 @@ layout: single
 title: "Memories Of West Oxfordshire College"
 date: 2018-12-04
 categories:
-  - 2018
+  - "2018"
 ---
 
 The secondary school I went to didn't have a sixth form - so after taking your GCSE exams, you had to make a choice between moving to the sixth form at Burford - the pretend grammar school a few miles away, or West Oxforshire Technical College - a few miles in the other direction. During the summer before I went there, it's name to West Oxfordshire College. Everybody still called it "Witney Tech" though.

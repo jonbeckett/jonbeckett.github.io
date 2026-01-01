@@ -3,7 +3,7 @@ layout: single
 title: "An Update On The Bullet Journal"
 date: 2017-11-05
 categories:
-  - 2017
+  - "2017"
 ---
 
 For the past few months I have been trying out a "Bullet Journal". Rather than re-purpose my pre-existing Moleskine notebook, I went out and bought an official Leuchtturm1917 notebook with requisite pages for future logs, indexes, and so on. While there have been a lot of positives to take from the experiene, I'm still not convinced. I will admit that one of the reasons I have stuck at it is because the book cost so much money (I hate wasting money).

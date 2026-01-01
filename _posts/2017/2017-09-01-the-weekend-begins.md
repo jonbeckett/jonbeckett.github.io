@@ -3,7 +3,7 @@ layout: single
 title: "The Weekend Begins"
 date: 2017-09-01
 categories:
-  - 2017
+  - "2017"
 ---
 
 After much thought and deliberation last night - you know - a few seconds worth - I have decided to stop writing draft blog posts in a text editor and storing them in a ridiculous obsessive compulsive storage system. This will of course have no impact on you as a reader, so I don't know why I'm telling you - and god forbid I write an interminably boring post about how I write my blog posts. I guess this opening paragraph is straying ever so close to that line though, isn't it - so I better change subject quickly.

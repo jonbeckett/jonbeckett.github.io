@@ -3,7 +3,7 @@ layout: single
 title: "Testing Blog 165 Out"
 date: 2005-02-18
 categories:
-  - 2005
+  - "2005"
 ---
 
 I'm trying out the latest version of Blog - and making it jump through hoops to work correctly with legacy data from the old version...

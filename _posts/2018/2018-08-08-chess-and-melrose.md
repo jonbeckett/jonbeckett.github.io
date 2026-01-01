@@ -3,7 +3,7 @@ layout: single
 title: "Chess And Melrose"
 date: 2018-08-08
 categories:
-  - 2018
+  - "2018"
 ---
 
 Welcome to the junk room. I'm one can of cider down, and have just closed the web browser in order to remove distractions. It's just me, Scrivener, and the light from an angle-poise lamp standing guard on the corner of the desk.

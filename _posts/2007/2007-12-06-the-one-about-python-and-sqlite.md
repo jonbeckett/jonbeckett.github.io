@@ -3,7 +3,7 @@ layout: single
 title: "The One About Python And Sqlite"
 date: 2007-12-06
 categories:
-  - 2007
+  - "2007"
 ---
 
 This marks the first time I have written a technical post in the blog since I "crossed the streams" (in true Ghostbusters fashion) a little while ago. Many of you will be unaware that I work as a software developer in the daytime, and like many other developers I know, it's more an obsession than a career.

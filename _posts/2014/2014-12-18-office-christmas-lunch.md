@@ -3,7 +3,7 @@ layout: single
 title: "Office Christmas Lunch"
 date: 2014-12-18
 categories:
-  - 2014
+  - "2014"
 ---
 
 In half an hour or so we are all heading out for the annual office Christmas lunch. The office seems to be filled with people we haven't seen in agesmany of the staff work "on the road" for much of the year. Everybody is mysteriously happy at the prospect of a free lunchcan't imagine why.

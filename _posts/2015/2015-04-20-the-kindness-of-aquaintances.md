@@ -3,7 +3,7 @@ layout: single
 title: "The Kindness Of Aquaintances"
 date: 2015-04-20
 categories:
-  - 2015
+  - "2015"
 ---
 
 Today a girl I vaguely know on the other side of the world bought me a "paid" LiveJournal account for a couple of months, and I'm kind of speechless. Of course I could afford a paid membership if I really wanted one, but the email announcing the membership came as a huge surprise. I was incredibly touched.

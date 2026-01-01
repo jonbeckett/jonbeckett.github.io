@@ -3,7 +3,7 @@ layout: single
 title: "Overwhelmed By Stuff And Nonsense Or How To Waste A Saturday"
 date: 2009-04-25
 categories:
-  - 2009
+  - "2009"
 ---
 
 I've spent the last hour looking at Tumblr after a far flung friend (laurenmalone.tumblr.com) voiced her admiration of it. I was surprised - she has been hosting her blog on Squarespace for the last couple of years - Squarespace is widely regarded as perhaps the best blogging platform in existence. As an aside, how Lauren isn't an A-List blogger up with the Dooce's of this world is anybody's guess - go read her blog for yourself - you'll ask yourself the same question.

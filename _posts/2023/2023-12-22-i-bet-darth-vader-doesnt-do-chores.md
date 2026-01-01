@@ -3,7 +3,7 @@ layout: single
 title: "I bet Darth Vader doesnt do chores"
 date: 2023-12-22
 categories:
-  - 2023
+  - "2023"
 ---
 
 That's it. No more work until the new year. A few days to relax into the holidays now - to slow down (har har). There is a chore mountain ahead of us - and only a couple of days to complete them.

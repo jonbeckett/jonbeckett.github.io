@@ -3,7 +3,7 @@ layout: single
 title: "This Isnt Lonely This Is Wallowing With Style"
 date: 2006-11-22
 categories:
-  - 2006
+  - "2006"
 ---
 
 I sit down, take a sip from my cup of tea, and light bathes my face. Fingers dance across keys. Within the machine virtual cogs turn, pipes open, and information bursts forth. Nobody.

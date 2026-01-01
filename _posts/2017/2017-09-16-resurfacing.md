@@ -3,7 +3,7 @@ layout: single
 title: "Resurfacing"
 date: 2017-09-16
 categories:
-  - 2017
+  - "2017"
 ---
 
 I re-installed Tumblr on my mobile phone last night. I'm still not sure if it was a wise thing to do or not, or if I will use it much. After deactivating my account a few weeks ago I didn't really miss the platform as a whole - but I did miss a few of the people I only knew through the platform, if that makes any sense. I guess we'll see how it goes. Every instinct tells me I will deactivate it entirely within a few days.

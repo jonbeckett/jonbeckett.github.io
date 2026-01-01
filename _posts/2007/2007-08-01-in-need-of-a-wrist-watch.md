@@ -3,7 +3,7 @@ layout: single
 title: "In Need Of A Wrist Watch"
 date: 2007-08-01
 categories:
-  - 2007
+  - "2007"
 ---
 
 On Monday evening my watch stopped. I'm tempted to recite lines from "My Grandfather's Clock" but seeing as I have no plans on dropping dead in the near future, the words don't really fit. I therefore find myself on the several-yearly quest to find a new wrist watch.

@@ -3,7 +3,7 @@ layout: single
 title: "Monday Night Hotel Club"
 date: 2015-08-10
 categories:
-  - 2015
+  - "2015"
 ---
 
 So, here we are again. Two hundred miles from home, holed up in a hotel for the night, ahead of a day sitting in an office pretending to be clever once more.

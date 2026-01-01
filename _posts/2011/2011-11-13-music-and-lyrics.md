@@ -3,7 +3,7 @@ layout: single
 title: "Music And Lyrics"
 date: 2011-11-13
 categories:
-  - 2011
+  - "2011"
 ---
 
 After yet another crazy Saturday, I suggested after we got the children to bed that we just sit and watch a moviesomething that might not require too much effort to watch, that we hadn't seen for a while. After perusing the few hundred DVDs we have accumulated over the years, I somehow settled on "Music and Lyrics".

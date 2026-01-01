@@ -3,7 +3,7 @@ layout: single
 title: "Meetups And Tweetups"
 date: 2012-02-19
 categories:
-  - 2012
+  - "2012"
 ---
 
 Over the past couple of years I have dipped into and out of the community of bloggers writing at Tumblr, and vicariously witnessed the various meetups that the New York contingent in particular seem so prevalent in organising and attending. It's interesting because it doesn't seem to happen anywhere else.

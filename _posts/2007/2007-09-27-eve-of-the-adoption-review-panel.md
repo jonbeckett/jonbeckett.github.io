@@ -3,7 +3,7 @@ layout: single
 title: "Eve Of The Adoption Review Panel"
 date: 2007-09-27
 categories:
-  - 2007
+  - "2007"
 ---
 
 We go up in front of the adoption review panel tomorrow morning - to get the final rubber stamp on us being able to adopt children. If they approve us, we move straight on to "matching" (in this case, matching means "matching us with children").

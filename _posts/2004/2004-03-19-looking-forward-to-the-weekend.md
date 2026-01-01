@@ -3,7 +3,7 @@ layout: single
 title: "Looking Forward To The Weekend"
 date: 2004-03-19
 categories:
-  - 2004
+  - "2004"
 ---
 
 I have had what many would call "one hell of a week".

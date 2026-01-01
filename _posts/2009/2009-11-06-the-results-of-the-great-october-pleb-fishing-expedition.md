@@ -3,7 +3,7 @@ layout: single
 title: "The Results Of The Great October Pleb Fishing Expedition"
 date: 2009-11-06
 categories:
-  - 2009
+  - "2009"
 ---
 
 Over the course of the last month, I have been investing a little more effort than normal into both writing hopefully interesting posts for my personal blog at Cheese and Beans, and marketing it - with the idea that I could look back after a month or so, and reflect. It's an odd thing to do because I don't have a huge narcissistic streak in me, but the availability of free tools to give easy data makes the task of reflection a lot easier than it might have been (read: I am lazy, and this is an easy post to write).

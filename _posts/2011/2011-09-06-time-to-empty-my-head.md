@@ -3,7 +3,7 @@ layout: single
 title: "Time To Empty My Head"
 date: 2011-09-06
 categories:
-  - 2011
+  - "2011"
 ---
 
 I go back to work tomorrowI've been away for eleven days. I'm not looking forward to returning. Given the hours ticking down, I thought it might be a good opportunity to empty my head. Apologies for the forthcoming navel gazage in advance (and yes, before I start, I know "gazage" isn't a real word).

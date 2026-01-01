@@ -3,7 +3,7 @@ layout: single
 title: "Miscellaneous"
 date: 2018-09-20
 categories:
-  - 2018
+  - "2018"
 ---
 
 Memory is a curious thing. While clearing the kitchen up last night I had a really good idea for a blog post. Unfortunately all I can now remember is that I had a really good idea - I have no recollection of what the idea was.

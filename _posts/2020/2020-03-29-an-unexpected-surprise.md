@@ -3,7 +3,7 @@ layout: single
 title: "An Unexpected Surprise"
 date: 2020-03-29
 categories:
-  - 2020
+  - "2020"
 ---
 
 A few minutes ago our eldest daughter wandered in, and asked if it might be a good idea to do some online courses while stuck at home over the next weeks and months - to learn some new skills. After falling off my chair, I struggled to compose myself. Some explanation is probably required.

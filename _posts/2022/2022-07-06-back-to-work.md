@@ -3,7 +3,7 @@ layout: single
 title: "Back To Work"
 date: 2022-07-06
 categories:
-  - 2022
+  - "2022"
 ---
 
 It's day five since the symptoms of COVID arrived like a car crash, and I'm back working. My brain is been in a bit of a fog for most of the day, but to be honest having something to get on with has been really good.

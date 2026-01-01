@@ -3,7 +3,7 @@ layout: single
 title: "The Future or the Past"
 date: 2024-01-05
 categories:
-  - 2024
+  - "2024"
 ---
 
 Today's Bloganuary writing prompt asks "do you spend more time thinking about the future or the past? Why?".

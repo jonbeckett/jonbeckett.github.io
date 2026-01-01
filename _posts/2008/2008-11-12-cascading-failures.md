@@ -3,7 +3,7 @@ layout: single
 title: "Cascading Failures"
 date: 2008-11-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 As a part of our final run-in towards getting the adoption done and finished, we have to prepare various documents for the courts - in triplicate.

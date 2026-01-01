@@ -3,7 +3,7 @@ layout: single
 title: "Mobile Phone Madness"
 date: 2017-08-16
 categories:
-  - 2017
+  - "2017"
 ---
 
 While sitting in Starbucks with Miss 16 this morning, taking the regulation photograph of my coffee cup that all people with Instagram accounts are required to by law, it occurred to my young assistant that she too has an Instagram account, and taking a photo of the wonderfully swirly pattern made by the barista in her coffee might also be a very good idea - so she fished her phone from her pocket.

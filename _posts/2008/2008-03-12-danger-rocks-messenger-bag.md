@@ -3,7 +3,7 @@ layout: single
 title: "Danger Rocks Messenger Bag"
 date: 2008-03-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 cross-posted from PluggedOut

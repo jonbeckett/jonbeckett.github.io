@@ -3,7 +3,7 @@ layout: single
 title: "Nothing Disappears Without A Trace"
 date: 2020-01-31
 categories:
-  - 2020
+  - "2020"
 ---
 
 wp:heading  Blogging

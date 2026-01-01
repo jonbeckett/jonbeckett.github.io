@@ -3,7 +3,7 @@ layout: single
 title: "Fathers Day With The Brownies"
 date: 2010-06-17
 categories:
-  - 2010
+  - "2010"
 ---
 
 Partly as a result of my other half being "Brown Owl", and party so our kids didn't miss out, I took part in the annual Brownies father's day event this evening.

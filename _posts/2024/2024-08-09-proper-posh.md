@@ -3,7 +3,7 @@ layout: single
 title: "Proper Posh"
 date: 2024-08-09
 categories:
-  - 2024
+  - "2024"
 ---
 
 While messaging back and forth with a good friend this morning I opined that I used to write in the blog almost every day -- and that somewhere along the line I fell off the blogging bicycle. Life happened. It's interesting how life tends to do that -- you look away for a moment and it fills the gaps.

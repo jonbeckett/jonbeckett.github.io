@@ -3,7 +3,7 @@ layout: single
 title: "Magic The Gathering"
 date: 2020-01-13
 categories:
-  - 2020
+  - "2020"
 ---
 
 Our middle daughter is 16 years old tomorrow. I still think of her as the unsure little girl clinging to my leg at infant school - I probably always will. There is a small bundle of wrapped presents waiting for her in the living room - among them a card game we have been looking at for as long as I can remember.

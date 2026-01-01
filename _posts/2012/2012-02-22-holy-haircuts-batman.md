@@ -3,7 +3,7 @@ layout: single
 title: "Holy Haircuts Batman"
 date: 2012-02-22
 categories:
-  - 2012
+  - "2012"
 ---
 
 I will neither confirm or deny that somebody stole most of my hair this morning.

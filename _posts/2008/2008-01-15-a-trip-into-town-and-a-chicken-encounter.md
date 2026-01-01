@@ -3,7 +3,7 @@ layout: single
 title: "A Trip Into Town And A Chicken Encounter"
 date: 2008-01-15
 categories:
-  - 2008
+  - "2008"
 ---
 
 Videos recorded to as part of a DVD for our future children to help them get through the next couple of weeks while waiting for the adoption introductions to begin - and to hopefully let them know us and where we live a little better. We also thought it might be nice to share with readers who live elsewhere in the world...

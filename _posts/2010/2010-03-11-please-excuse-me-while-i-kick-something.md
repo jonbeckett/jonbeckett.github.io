@@ -3,7 +3,7 @@ layout: single
 title: "Please Excuse Me While I Kick Something"
 date: 2010-03-11
 categories:
-  - 2010
+  - "2010"
 ---
 
 For some unknown reason (and remember this is a professional software developer and web designer talking) the web server this installation of wordpress is sat on will no longer let me upload files.

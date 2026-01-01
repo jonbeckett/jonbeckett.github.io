@@ -3,7 +3,7 @@ layout: single
 title: "Be The Change"
 date: 2015-01-03
 categories:
-  - 2015
+  - "2015"
 ---
 
 In response to The Daily Post's writing prompt: "Be the Change." While exploring the "Daily Post" WordPress site this afternoon in search of some kind of "Event" to take part in - partly as an excuse to force me into writing more often - I stumbled upon the "Daily Prompt", and the title of this post - "Be the Change". The title doesn't really explain what the post is supposed to be about, but the tagline does; "what change, big or small, would you like your blog to make in the world?".

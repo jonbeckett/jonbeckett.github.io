@@ -3,7 +3,7 @@ layout: single
 title: "Its Good To Talk"
 date: 2007-02-14
 categories:
-  - 2007
+  - "2007"
 ---
 
 My spirits have been lifted today by something rather simple - a telephone call from W.

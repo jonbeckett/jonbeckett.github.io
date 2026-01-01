@@ -3,7 +3,7 @@ layout: single
 title: "Friday Morning"
 date: 2020-05-15
 categories:
-  - 2020
+  - "2020"
 ---
 
 It's Friday, and you find me holed up in the junk room at home, putting together another quiz. This evening the company I work for are having a "virtual social" on Zoom, and I volunteered myself as quiz-master. Although I have run several quizes recently, I'm putting together an entirely new set of questions, so the rest of my family can take part.

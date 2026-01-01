@@ -3,7 +3,7 @@ layout: single
 title: "Annoyed On A Plane"
 date: 2019-02-10
 categories:
-  - 2019
+  - "2019"
 ---
 
  * The card not working in the ticket machine in the railway station  * People walking up to me, starting conversations in German

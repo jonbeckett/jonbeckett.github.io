@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Ironing Hell"
 date: 2011-03-27
 categories:
-  - 2011
+  - "2011"
 ---
 
 What wasI thinking of last night when I told W that I would do the ironing today? After six hours of ironing, the washing machine and dryer still going, and the washing line outside still being loaded to breaking point, I'm starting to question my own sanity.

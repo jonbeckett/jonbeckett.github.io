@@ -3,7 +3,7 @@ layout: single
 title: "End Of A Long Day"
 date: 2005-07-07
 categories:
-  - 2005
+  - "2005"
 ---
 
 It's the end of a pretty long and boring day today. My spirits seem to be a bit up-and-down recently. Yesterday I had a great day - and although I didn't really do much different today, it seemed much more difficult to remain motivated.

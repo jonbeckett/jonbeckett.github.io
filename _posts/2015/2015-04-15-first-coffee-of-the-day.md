@@ -3,7 +3,7 @@ layout: single
 title: "First Coffee Of The Day"
 date: 2015-04-15
 categories:
-  - 2015
+  - "2015"
 ---
 
 It's nearly 10am, and I just made my first coffee of the day. I could do with another one.

@@ -3,7 +3,7 @@ layout: single
 title: "Saturday Morning"
 date: 2006-01-21
 categories:
-  - 2006
+  - "2006"
 ---
 
 Where to start? The photo I guess... it was taken a couple of weeks ago in Higginson park - about 15 minutes walk from our house in the middle of Marlow. I was out playing with the new camera.

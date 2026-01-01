@@ -3,7 +3,7 @@ layout: single
 title: "Armageddon And New Beginnings"
 date: 2010-12-04
 categories:
-  - 2010
+  - "2010"
 ---
 
 Apart from the obvious biblical references, most dictionaries define "Armageddon" as variations on "the end of all things", and that's exactly what has occurred for my technical blog.

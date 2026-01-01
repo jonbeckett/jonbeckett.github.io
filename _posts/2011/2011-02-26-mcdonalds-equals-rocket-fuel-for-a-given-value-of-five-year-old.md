@@ -3,7 +3,7 @@ layout: single
 title: "Mcdonalds Equals Rocket Fuel For A Given Value Of Five Year Old"
 date: 2011-02-26
 categories:
-  - 2011
+  - "2011"
 ---
 
 At quarter to eleven this morning I found myself trudging through the spitting rain with our youngest to deliver her to a friend's house for the day. She proudly carried a tin of plastic farm animals she had inherited earlier in the week (found in a dark corner of a friend's attic during a clear out - we estimate from the rusty tin that the ragtag collection of toys is perhaps 40 years old).

@@ -3,7 +3,7 @@ layout: single
 title: "Working From Home"
 date: 2016-06-06
 categories:
-  - 2016
+  - "2016"
 ---
 
 While reminding the children to get their school bags ready last night after a week off for half-term, my other half turned to me.

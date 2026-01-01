@@ -3,7 +3,7 @@ layout: single
 title: "Winds Blow Pedals Turn And The World Carries On"
 date: 2012-01-27
 categories:
-  - 2012
+  - "2012"
 ---
 
 I woke in the early hours to a performance of operatic magnitude outside the bedroom window. I can't recall the wind ever putting on such an impressive show. During the daytime I would have listened with a smile on my face (and probably worried about roof tiles vanishing) - at 3am I wasn't quite so appreciative.

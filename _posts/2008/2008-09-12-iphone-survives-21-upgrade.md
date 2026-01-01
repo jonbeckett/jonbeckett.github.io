@@ -3,7 +3,7 @@ layout: single
 title: "Iphone Survives 21 Upgrade"
 date: 2008-09-12
 categories:
-  - 2008
+  - "2008"
 ---
 
 Among the various scare stories abounding on the internet, I upgraded both iTunes and my iPhone this evening.

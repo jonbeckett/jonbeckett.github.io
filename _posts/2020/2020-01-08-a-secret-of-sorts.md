@@ -3,7 +3,7 @@ layout: single
 title: "A Secret Of Sorts"
 date: 2020-01-08
 categories:
-  - 2020
+  - "2020"
 ---
 
 On Sunday afternoon I will travel into London with my daughter, arrive at a location I am not allowed to share with anybody, and will be greeted in a back street by one or more of a group of kids that walked straight out of the 1980s. We will then walk into a shopping mall that nobody knows about, and spend the next several hours in 1985, Hawkins, Indiana.

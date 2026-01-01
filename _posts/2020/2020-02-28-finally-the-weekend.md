@@ -3,7 +3,7 @@ layout: single
 title: "Finally The Weekend"
 date: 2020-02-28
 categories:
-  - 2020
+  - "2020"
 ---
 
 I worked from home today. I have an arrangement over the next few weeks to work from home in order to take our eldest daughter to a regular therapist appointment - she's getting help to deal with the anxiety she has been battling with for the last few years. She's doing "cognitive behavioral therapy" - I find the whole premise really interesting - that instead of trying to fix the anxiety itself, you instead work out coping techniques, and train yourself to use them when things are getting on top of you.

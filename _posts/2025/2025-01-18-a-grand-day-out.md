@@ -3,7 +3,7 @@ layout: single
 title: "A grand day out"
 date: 2025-01-18
 categories:
-  - 2025
+  - "2025"
 ---
 
 After scraping myself out of bed this morning, and standing rather conspicuously in the middle of the kitchen in my underwear sipping coffee - while waiting for a turn in the shower - I pulled some clothes on, and prepared to set out with the rest of the family for a day in London together.

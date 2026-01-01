@@ -3,7 +3,7 @@ layout: single
 title: "The Night Watch"
 date: 2012-12-03
 categories:
-  - 2012
+  - "2012"
 ---
 
 I'm sitting in our eldest daughter's bedroom, using her netbook while she pretends to be getting tired. It's heading towards 10pm. It's all my fault, and I expect to hear about it in the morning too. I let her watch an episode of "The X Files".

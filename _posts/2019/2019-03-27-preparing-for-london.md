@@ -3,7 +3,7 @@ layout: single
 title: "Preparing For London"
 date: 2019-03-27
 categories:
-  - 2019
+  - "2019"
 ---
 
 A suit, a pair of shoes, and a dark grey t-shirt are hanging behind me in the junk room at home - waiting for me to return home early from work tomorrow afternoon, and head into London to meet friends. You might wonder why I might wear a suit - and I would counter that we are headed to a cocktail bar in Mayfair - one of the most exclusive properties on the British monopoly board. If plans work out, we will meet at "Mr Fogg's Residence" - a bar themed after the literary character "Phileas Fogg", from Jules Verne's novel "Around the World in 80 Days".

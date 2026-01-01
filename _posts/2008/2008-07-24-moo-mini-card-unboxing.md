@@ -3,7 +3,7 @@ layout: single
 title: "Moo Mini Card Unboxing"
 date: 2008-07-24
 categories:
-  - 2008
+  - "2008"
 ---
 
 Continuing with the line of thought that I should farm out anything that I can to external services - allowing me to concentrate on only that which is important, I ordered a set of Moo mini-cards a few days ago to assist in my freelance activities.

@@ -3,7 +3,7 @@ layout: single
 title: "Learning To Be Called Daddy"
 date: 2008-01-28
 categories:
-  - 2008
+  - "2008"
 ---
 
 We survived. We have now met our children, who called us "Mummy and Daddy" straight off the bat. Very, very weird - but not the biggy.

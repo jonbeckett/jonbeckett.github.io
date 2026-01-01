@@ -3,7 +3,7 @@ layout: single
 title: "Pictures Of The Garden"
 date: 2005-08-23
 categories:
-  - 2005
+  - "2005"
 ---
 
 It was a nice afternoon, and I had a few minutes to kill after cleaning my mountain bike (did I mention for the 50th time that I have the whole week off work), so went out in the sunshine with the camera... here's the results;

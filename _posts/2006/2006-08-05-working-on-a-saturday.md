@@ -3,7 +3,7 @@ layout: single
 title: "Working On A Saturday"
 date: 2006-08-05
 categories:
-  - 2006
+  - "2006"
 ---
 
 It's saturday morning, and I find myself firing the computer up to carry on with my work.

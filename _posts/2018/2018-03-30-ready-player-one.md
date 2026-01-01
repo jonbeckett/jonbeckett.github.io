@@ -3,7 +3,7 @@ layout: single
 title: "Ready Player One"
 date: 2018-03-30
 categories:
-  - 2018
+  - "2018"
 ---
 
 I finally got to the cinema yesterday to see Ready Player One, and came away not really disappointed, but not enthused either.

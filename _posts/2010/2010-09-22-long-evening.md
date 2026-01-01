@@ -3,7 +3,7 @@ layout: single
 title: "Long Evening"
 date: 2010-09-22
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's been a long evening;

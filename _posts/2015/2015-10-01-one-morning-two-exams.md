@@ -3,7 +3,7 @@ layout: single
 title: "One Morning Two Exams"
 date: 2015-10-01
 categories:
-  - 2015
+  - "2015"
 ---
 
 An email arrived in my work email box just before I left yesterday afternoon, announcing that one of the technologies I am a so-called "expert" at now had certification exams available. This morning I arrived in the office, found the email, and did both the "pro", and "admin" exams back-to-back. I now have two more certificates to shove in the drawer, and to add to the list on LinkedIn. I didn't revise for either exam, and now find myself wondering why I bothered even doing them. It's all a gigantic pissing competition really, isn't it.

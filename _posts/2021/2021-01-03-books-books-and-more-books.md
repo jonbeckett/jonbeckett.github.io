@@ -3,7 +3,7 @@ layout: single
 title: "Books Books And More Books"
 date: 2021-01-03
 categories:
-  - 2021
+  - "2021"
 ---
 
 My other half just got back from visiting her family, who we have not seen since the end of last summer due to the lockdown. They met at a National Trust property in the middle of nowhere to go for a walk, and exchanged Christmas presents in the car park. I can't help smiling - it must have looked like the most festive mafia handover ever.

@@ -3,7 +3,7 @@ layout: single
 title: "Day Two Were Still Standing"
 date: 2008-01-29
 categories:
-  - 2008
+  - "2008"
 ---
 
 Observation of day two? Probably that it's all getting a lot easier.

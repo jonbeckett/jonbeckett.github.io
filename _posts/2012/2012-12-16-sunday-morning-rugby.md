@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning Rugby"
 date: 2012-12-16
 categories:
-  - 2012
+  - "2012"
 ---
 
 Over the last year Sunday mornings have transformed from late breakfasts, endless cups of tea, and catching up with friends on the internet to steaming breath, the thunder of little feet, and stamping back and forth with hands deep in pockets alongside other similarly challenged parents.

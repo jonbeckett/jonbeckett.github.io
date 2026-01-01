@@ -3,7 +3,7 @@ layout: single
 title: "Remembering The First Nablopomo"
 date: 2015-09-26
 categories:
-  - 2015
+  - "2015"
 ---
 
 About a year ago I stumbled upon a photo of a friend that died several years previously. She was driving early in the morning with her son in the back of the car, and left the road. Nobody ever found out what happened. She died at the scene. I remember finding out the next day when it hit the social networks, and scratched through the local news reports on the internet. I still think about her from time to time. Her name was Lisa.

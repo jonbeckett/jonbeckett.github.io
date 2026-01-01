@@ -3,7 +3,7 @@ layout: single
 title: "Football Celebrities And Instant Rage"
 date: 2016-10-08
 categories:
-  - 2016
+  - "2016"
 ---
 
 It's been an eventful Saturday. We arrived at the local soccer pitches at 9:20am, expecting half an hour of warm-up before a 10am kick-off for both Miss 11 and Miss 12's teams. Turns out we got the times a bit wrong. The first match started ten minutes after our arrival. Oops.

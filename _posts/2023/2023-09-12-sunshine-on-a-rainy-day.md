@@ -3,7 +3,7 @@ layout: single
 title: "Sunshine on a Rainy Day"
 date: 2023-09-12
 categories:
-  - 2023
+  - "2023"
 ---
 
 A message from an old friend appeared in my phone this morning. I was walking to the corner shop to buy bread when it arrived - the gentle vibration causing my brow to furrow as I made my way across the green outside our house. After fishing the phone from my pocket, the name in the notification caused the biggest smile to spread across my face.

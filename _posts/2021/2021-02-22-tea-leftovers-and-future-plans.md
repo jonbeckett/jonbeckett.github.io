@@ -3,7 +3,7 @@ layout: single
 title: "Tea Leftovers And Future Plans"
 date: 2021-02-22
 categories:
-  - 2021
+  - "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F632af1b2-2468-4de9-b86f-f5ed7c6431d8_1920x1442.jpeg" />

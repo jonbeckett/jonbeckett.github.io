@@ -3,7 +3,7 @@ layout: single
 title: "Experimenting"
 date: 2019-07-08
 categories:
-  - 2019
+  - "2019"
 ---
 
 While writing these words, a python script of my own invention is slowly delivering the motherload of all blog backups to write.as - the blogging platform I have been experimenting for the last few days. Rather than hide the programming under a rock and forget all about it, I've made it available as open source code.

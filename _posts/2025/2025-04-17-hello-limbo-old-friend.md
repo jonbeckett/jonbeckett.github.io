@@ -3,7 +3,7 @@ layout: single
 title: "Hello limbo, old friend"
 date: 2025-04-17
 categories:
-  - 2025
+  - "2025"
 ---
 
 Every day seems to crash into the next at the moment. A never ending trudge towards nowhere in particular.  Somehow almost a week has passed since I last wrote. Life keeps happening. Or rather, work keeps happening.

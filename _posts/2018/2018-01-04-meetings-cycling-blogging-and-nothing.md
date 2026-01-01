@@ -3,7 +3,7 @@ layout: single
 title: "Meetings Cycling Blogging And Nothing"
 date: 2018-01-04
 categories:
-  - 2018
+  - "2018"
 ---
 
 I survived my first day back in the office! The expected meeting to plan out the next year happened, and thankfully didn't really decide anything beyond another meeting to decide what we want to do, how we will do it, when we will do it, and so on. I know. Madness. Apologies if I'm being vague.

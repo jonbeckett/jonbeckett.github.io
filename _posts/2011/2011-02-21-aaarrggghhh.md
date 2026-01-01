@@ -3,7 +3,7 @@ layout: single
 title: "Aaarrggghhh"
 date: 2011-02-21
 categories:
-  - 2011
+  - "2011"
 ---
 
 The Tumblr theme bugs resurfaced this morning and destroyed the theme I was using.

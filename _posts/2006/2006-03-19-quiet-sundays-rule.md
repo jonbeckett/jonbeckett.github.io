@@ -3,7 +3,7 @@ layout: single
 title: "Quiet Sundays Rule"
 date: 2006-03-19
 categories:
-  - 2006
+  - "2006"
 ---
 
 I got up at 6:30am this morning to watch the Formula One race in Malaysia. What a complete and utter waste of time that was.

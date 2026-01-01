@@ -3,7 +3,7 @@ layout: single
 title: "What If We Hadnt Adopted Them"
 date: 2012-03-09
 categories:
-  - 2012
+  - "2012"
 ---
 
 While making a cup of coffee earlier, a co-worker asked me what we are doing at the weekend. I laughed, and she frowned.

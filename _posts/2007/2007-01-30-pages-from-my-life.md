@@ -3,7 +3,7 @@ layout: single
 title: "Pages From My Life"
 date: 2007-01-30
 categories:
-  - 2007
+  - "2007"
 ---
 
 While out on the road with work, I have been filling the quiet moments by writing in a notebook. I thought it might be fun to share some excerpts from it with you;

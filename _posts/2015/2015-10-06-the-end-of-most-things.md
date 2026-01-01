@@ -3,7 +3,7 @@ layout: single
 title: "The End Of Most Things"
 date: 2015-10-06
 categories:
-  - 2015
+  - "2015"
 ---
 
 Until very recently I posted regularly to both Tumblr, and WordPress. I have been a member of Tumblr on-and-off since launch in 2007, and of WordPress on-and-off since launch in 2005. Along the way I have left to experiment with Blogger, Moveable Type, Posterous, Posthaven, Ghost, and a variety of other online publishing platforms, but I always returned to either Tumblr, WordPress, or both.

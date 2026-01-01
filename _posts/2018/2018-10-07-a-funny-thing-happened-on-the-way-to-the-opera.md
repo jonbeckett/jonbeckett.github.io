@@ -3,7 +3,7 @@ layout: single
 title: "A Funny Thing Happened On The Way To The Opera"
 date: 2018-10-07
 categories:
-  - 2018
+  - "2018"
 ---
 
 If you were expecting a blog post vaguely resembling the plot of the little known movie "A Funny Thing Happened on the Way to the Forum", you're going to be sadly disappointed. This "funny thing" was more of a "chance discovery".

@@ -3,7 +3,7 @@ layout: single
 title: "Recuperating"
 date: 2004-10-06
 categories:
-  - 2004
+  - "2004"
 ---
 
 It would appear that I am actually getting better today... thank god!

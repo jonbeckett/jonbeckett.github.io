@@ -3,7 +3,7 @@ layout: single
 title: "Finally Its Friday"
 date: 2005-06-10
 categories:
-  - 2005
+  - "2005"
 ---
 
 It's finally friday and I am looking forward to the weekend.

@@ -3,7 +3,7 @@ layout: single
 title: "Let There Be Pictures"
 date: 2018-07-29
 categories:
-  - 2018
+  - "2018"
 ---
 
 This morning I took the earth shattering decision to start adding photos to my blog posts, and set about working backwards through the first few, choosing suitable pictures to accompany them. I'm not sure pictures really serve any purpose - I don't really "do" photo-blogging. If nothing else, the pictures brighten the blog up a bit.

@@ -3,7 +3,7 @@ layout: single
 title: "School Reunion Madness"
 date: 2010-04-20
 categories:
-  - 2010
+  - "2010"
 ---
 
 While taking a few minutes out at lunchtime today, I checked Facebook and discovered a message about the laughable attempts to organise a school reunion of my year, and the year that followed. I say laughable because it's already fallen through at least twice, and has now moved dates several times.

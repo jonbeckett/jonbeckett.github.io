@@ -3,7 +3,7 @@ layout: single
 title: "The Beatles"
 date: 2015-12-24
 categories:
-  - 2015
+  - "2015"
 ---
 
 I've not been online much over the last 48 hours, but it appears the people in charge of the Beatles back catalog have. Their music has appeared on all of the streaming services overnightmeaning Spotify just improved out of all recognition.

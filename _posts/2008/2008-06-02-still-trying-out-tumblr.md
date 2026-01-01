@@ -3,7 +3,7 @@ layout: single
 title: "Still Trying Out Tumblr"
 date: 2008-06-02
 categories:
-  - 2008
+  - "2008"
 ---
 
 I'm still trying Tumblr out - it's an alternative blogging platform to WordPress, and when allied with the Disqus commenting platform it seems to work very well indeed.

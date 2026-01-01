@@ -3,7 +3,7 @@ layout: single
 title: "A Mountain Of Text Files"
 date: 2016-07-28
 categories:
-  - 2016
+  - "2016"
 ---
 
 Hidden away in Dropbox I have a neatly organised collection of every written post I have published on the internet since the beginning of 2003. Each individual post has it's own text file, formatted in markdown format, beginning with the title, then the date, then the body text. Yes, I know I'm a lunatic.

@@ -3,7 +3,7 @@ layout: single
 title: "Second Life In The Playpark"
 date: 2009-10-12
 categories:
-  - 2009
+  - "2009"
 ---
 
 I'm considering setting up a comfy armchair, table, and permanent supply of flasks of tea in the nearby playpark. Despite being off work today with a head full of cold, I still found myself sat out there this afternoon when our youngest returned from school (to allow my better half to get anything done at all).

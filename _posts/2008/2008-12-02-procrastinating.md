@@ -3,7 +3,7 @@ layout: single
 title: "Procrastinating"
 date: 2008-12-02
 categories:
-  - 2008
+  - "2008"
 ---
 
 After working for something in the region of 12 hours yesterday, and then commuting into London today on the usual 5am / 7pm schedule, I think I've earned the right to do as little as possible this evening.

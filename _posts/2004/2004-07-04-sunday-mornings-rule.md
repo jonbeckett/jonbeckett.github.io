@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Mornings Rule"
 date: 2004-07-04
 categories:
-  - 2004
+  - "2004"
 ---
 
 Aren't sunday mornings great... I finally got up at just gone 9 this morning, and have sat here with a cup of earl grey and the internet for the last hour... it's now gone 10, and I'm still here in my dressing gown.

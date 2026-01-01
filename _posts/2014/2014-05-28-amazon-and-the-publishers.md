@@ -3,7 +3,7 @@ layout: single
 title: "Amazon And The Publishers"
 date: 2014-05-28
 categories:
-  - 2014
+  - "2014"
 ---
 
 While walking in to work this week, I listened to "This Week in Tech", and rather than bang on about the various net neutrality issues that will likely kill the free internet in the US, they got sidetracked talking about Amazon, and the problems some publishers are facing selling their books through the site.

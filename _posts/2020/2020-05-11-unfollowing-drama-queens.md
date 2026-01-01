@@ -3,7 +3,7 @@ layout: single
 title: "Unfollowing Drama Queens"
 date: 2020-05-11
 categories:
-  - 2020
+  - "2020"
 ---
 
 I'm sitting at the dining table this morning, opposite our youngest daughter who is getting on with school work. My other half is in the junk room, working. I have the day off. So far I have thrown a couple of loads through the washing machine, cleared the washing up, been for a cycle around town, and had a shower.

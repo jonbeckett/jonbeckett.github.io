@@ -3,7 +3,7 @@ layout: single
 title: "Falling Apart At The Seams"
 date: 2012-04-03
 categories:
-  - 2012
+  - "2012"
 ---
 
 The weekend before last I was playing football on the green outside our house, and the bright idea popped into my head to see if you could kick a football while hopping. After I collapsed in a heap on the ground, I figured it wasn't such a great idea after all.

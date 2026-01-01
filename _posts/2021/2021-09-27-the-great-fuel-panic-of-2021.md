@@ -3,7 +3,7 @@ layout: single
 title: "The Great Fuel Panic Of 2021"
 date: 2021-09-27
 categories:
-  - 2021
+  - "2021"
 ---
 
 A pretty ridiculous story has been unfolding in the UK this week. One I thought I might write a few words about for the entertainment and amusement of international readers who might want something to read while they sip their coffee.

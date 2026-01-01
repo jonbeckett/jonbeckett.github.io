@@ -3,7 +3,7 @@ layout: single
 title: "A Few Minutes"
 date: 2022-01-27
 categories:
-  - 2022
+  - "2022"
 ---
 
 I'm grabbing a few minutes from my day to empty my head into the keyboard. If I don't do it now, something will crop up, and it won't happen.

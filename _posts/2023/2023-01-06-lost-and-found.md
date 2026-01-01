@@ -3,7 +3,7 @@ layout: single
 title: "Lost and Found"
 date: 2023-01-06
 categories:
-  - 2023
+  - "2023"
 ---
 
 I am perhaps the most rational, pragmatic, sensible person I know. I am also eccentric, whistful, romantic, and quite the explorer of rabbit holes and daydreams.

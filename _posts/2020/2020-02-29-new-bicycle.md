@@ -3,7 +3,7 @@ layout: single
 title: "New Bicycle"
 date: 2020-02-29
 categories:
-  - 2020
+  - "2020"
 ---
 
 There comes a point in the life of most bicycles when the cost of repairing, or servicing them starts to approach the cost of replacing them entirely. I bit the bullet this morning, and wandered into our local bike shop.

@@ -3,7 +3,7 @@ layout: single
 title: "More than this"
 date: 2025-03-09
 categories:
-  - 2025
+  - "2025"
 ---
 
 I’m sitting in the dark of the junk room, bathed in the light from the computer screen, surrounded by silence throughout the house. Everybody else is already in bed, and the clocks are ticking inexorably towards Monday. if I sit still and keep my mouth shut, the infection that has plagued me for the last several weeks seems to leave me alone.

@@ -3,7 +3,7 @@ layout: single
 title: "A Day On The Beach"
 date: 2016-08-24
 categories:
-  - 2016
+  - "2016"
 ---
 
 We lucked into blue skies this morning, so dragged the kids out of their beds first thing, and headed to the local sandy beach. We feared not being able to find anywhere to park after our eldest caused us to be an hour later leaving the house than we planned, but our fears were unfounded - it turns out most people don't turn up at the beach until after lunch.

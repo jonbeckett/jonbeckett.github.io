@@ -3,7 +3,7 @@ layout: single
 title: "Homework Rivalry And Taking Away"
 date: 2011-10-04
 categories:
-  - 2011
+  - "2011"
 ---
 
 After dinner this evening I found myself sat at the dinner table with our eldest daughter (the artist formerly known as Miss 10). I had just finished washing up, and wandered in with the iPad to continue listening to Leo Laporte and the gang's coverage of the iPhone 4S announcement.

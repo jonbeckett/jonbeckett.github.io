@@ -3,7 +3,7 @@ layout: single
 title: "On Site In Manchester"
 date: 2003-07-13
 categories:
-  - 2003
+  - "2003"
 ---
 
 It's 14th July, I'm sat in the offices of BUPA in Manchester, and I'm tired. I'm also bored.

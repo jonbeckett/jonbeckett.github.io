@@ -3,7 +3,7 @@ layout: single
 title: "Embracing Your Inner Weirdness"
 date: 2012-01-27
 categories:
-  - 2012
+  - "2012"
 ---
 
 In recent months the various pulls on my time have regularly conspired to erode the blogging community I know and love to a silent crowd viewed from a passing car window. I contemplated parcelling the blog up, labelling it neatly, and placing it somewhere safe - to take out from time to time and admire.

@@ -3,7 +3,7 @@ layout: single
 title: "Tick Tock Tick Tock"
 date: 2016-09-11
 categories:
-  - 2016
+  - "2016"
 ---
 
 I ordered a new watch from Amazon yesterday afternoon - to replace the Casio digital watch I've been wearing for the last year. I spent three times as much on this one, choosing a model with a metal body and a leather strap. It still cost less than a meal out.

@@ -3,7 +3,7 @@ layout: single
 title: "Game The System"
 date: 2007-07-09
 categories:
-  - 2007
+  - "2007"
 ---
 
 I have just been taking a look at the Bloggers Choice Awards website, and never realised before that the number of votes received by the "top blogs" tails off so rapidly.

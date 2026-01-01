@@ -3,7 +3,7 @@ layout: single
 title: "Too Many Screens"
 date: 2008-06-26
 categories:
-  - 2008
+  - "2008"
 ---
 
 How many screens on a desktop would you consider too many?

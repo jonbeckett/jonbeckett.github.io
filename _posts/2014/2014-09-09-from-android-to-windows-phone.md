@@ -3,7 +3,7 @@ layout: single
 title: "From Android To Windows Phone"
 date: 2014-09-09
 categories:
-  - 2014
+  - "2014"
 ---
 
 After watching the battery on my Samsung Galaxy S3 run down to perhaps 20% by late evening without actively using itto do anything a few days ago, I finally snapped. Yesterday lunchtime I walked into our local mobile phone store, put the S3 on the counter, and asked "how much will you part exchange this for?".

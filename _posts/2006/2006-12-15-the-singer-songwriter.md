@@ -3,7 +3,7 @@ layout: single
 title: "The Singer Songwriter"
 date: 2006-12-15
 categories:
-  - 2006
+  - "2006"
 ---
 
 While writing a comment on Lauren's blog last night, I thought about an artist I have not listened to for a long time - Billy Joel.

@@ -3,7 +3,7 @@ layout: single
 title: "The Day After Boxing Day"
 date: 2019-12-27
 categories:
-  - 2019
+  - "2019"
 ---
 
 It's the day after Boxing Day, the clock is ticking towards 10am, and I was supposed to be going out for a run this morning with my eldest daughter. She is still asleep in bed.

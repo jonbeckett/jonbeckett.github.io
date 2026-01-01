@@ -3,7 +3,7 @@ layout: single
 title: "Mediocrity"
 date: 2009-02-10
 categories:
-  - 2009
+  - "2009"
 ---
 
 If you look up mediocrity in the dictionary, you find the following;

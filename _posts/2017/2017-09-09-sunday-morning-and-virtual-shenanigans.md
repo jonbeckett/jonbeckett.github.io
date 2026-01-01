@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Morning And Virtual Shenanigans"
 date: 2017-09-09
 categories:
-  - 2017
+  - "2017"
 ---
 
 It's a fairly normal Sunday morning - the younger children have gone to rugby training, the washing machine is on, clothes are already hanging on the line, piles of folded washing are slowly assembling on the dining room table, and I'll be getting the iron out in a while to start ironing clothes straight into a suitcase for the flight to Germany tomorrow.

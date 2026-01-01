@@ -3,7 +3,7 @@ layout: single
 title: "Pizza And A Movie"
 date: 2021-02-05
 categories:
-  - 2021
+  - "2021"
 ---
 
 I started the week wondering if I would have anything to do - exploring a research and development project, but not having anything concrete to get on with. The entire world seems to be on a go-slow at the moment. I can't imagine what it's going to be like when the world finally wakes from this impenetrable fog. Slowly but surely as the week progressed work appeared. It's funny how the cogs of the universe work sometimes.

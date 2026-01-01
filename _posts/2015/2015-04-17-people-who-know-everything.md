@@ -3,7 +3,7 @@ layout: single
 title: "People Who Know Everything"
 date: 2015-04-17
 categories:
-  - 2015
+  - "2015"
 ---
 
 I keep seeing blog posts on the internet explaining everything about every single aspect of life - things nobody has probably ever thought about, and perhaps crucially, things most people don't really care about - and by "most people", I mean everybody except the author.

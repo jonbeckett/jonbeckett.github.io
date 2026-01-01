@@ -3,7 +3,7 @@ layout: single
 title: "After Effects"
 date: 2021-04-20
 categories:
-  - 2021
+  - "2021"
 ---
 
 After receiving the first COVID vaccine injection on Sunday evening, the side effects began mid-morning on Monday. Throughout Monday, my body began to slowly seize up. The famous "aches and pains" friends and neighbours had talked about.

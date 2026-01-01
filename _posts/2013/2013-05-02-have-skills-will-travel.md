@@ -3,7 +3,7 @@ layout: single
 title: "Have Skills Will Travel"
 date: 2013-05-02
 categories:
-  - 2013
+  - "2013"
 ---
 
 For the past couple of days I have been falling out of bed at a ridiculous hour, thundering across the fields towards London, diving underneath the ground, and flying out the other side of the city via Kings Cross to a far flung client site.

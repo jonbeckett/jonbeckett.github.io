@@ -3,7 +3,7 @@ layout: single
 title: "Berry Head and Sharkham Point"
 date: 2024-10-19
 categories:
-  - 2024
+  - "2024"
 ---
 
 Today's adventure took us along the coast path from Brixham to Berry Head and Sharkham Point. We left mid-morning in no hurry at all, and slowly made our way out past the marina and breakwater before picking our way along the footpaths that snake their way from beach to cove along the coast.

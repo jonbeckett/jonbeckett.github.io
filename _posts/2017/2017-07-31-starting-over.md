@@ -3,7 +3,7 @@ layout: single
 title: "Starting Over"
 date: 2017-07-31
 categories:
-  - 2017
+  - "2017"
 ---
 
 Over the last few months I experimented with writing under an assumed name - not for the first time. While it was fun to contemplate the idea of writing about subjects I might otherwise avoid, the reality proved to be somewhat different. I wouldn't say I grew fearful of emptying the unfiltered contents of my head - more that I grew tired of choosing "who to be" when sharing something with the wider world.

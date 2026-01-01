@@ -3,7 +3,7 @@ layout: single
 title: "Saying Goodbye To Google Chromium On The Netbook"
 date: 2011-07-31
 categories:
-  - 2011
+  - "2011"
 ---
 
 It was fun while it lasted, but there are just too many things that don't quite work right (which was expected, to be honestit's a development build of an operating system that's supposed to only work on approved hardwarethe rather lovely Google Chromebook machines).

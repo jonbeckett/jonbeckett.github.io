@@ -3,7 +3,7 @@ layout: single
 title: "The Beginning Of The End For Print Media"
 date: 2008-10-21
 categories:
-  - 2008
+  - "2008"
 ---
 
 I read with interest this evening a post at ValleyWag about Forbes magazine, who have been running two operations for the last several years - both in Fifth Avenue - one dealing with the print publication of "Forbes Magazine", and the other dealing with it's online incarnation - "Forbes.com". The staff do not speak, communicate or socialise. They may as well be on seperate continents.

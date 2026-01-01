@@ -3,7 +3,7 @@ layout: single
 title: "Announcing The Cms Project"
 date: 2004-02-19
 categories:
-  - 2004
+  - "2004"
 ---
 
 Hi all,

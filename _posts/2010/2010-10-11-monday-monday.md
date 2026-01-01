@@ -3,7 +3,7 @@ layout: single
 title: "Monday Monday"
 date: 2010-10-11
 categories:
-  - 2010
+  - "2010"
 ---
 
 Ba daaa, baa da daa daa...

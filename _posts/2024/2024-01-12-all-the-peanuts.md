@@ -3,7 +3,7 @@ layout: single
 title: "All the peanuts"
 date: 2024-01-12
 categories:
-  - 2024
+  - "2024"
 ---
 
 Today's prompt asks "what snack would you eat right now?" - which I think might just set the low bar so far in terms of the writing prompts fed from Wordpress's cavernous bowels (now there's something to imagine). Seriously - who comes up with the writing prompts? What happened to the big questions about life, the universe, and everything?

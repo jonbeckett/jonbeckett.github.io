@@ -3,7 +3,7 @@ layout: single
 title: "Shiny New Ipod Fat Wide Nano"
 date: 2008-09-09
 categories:
-  - 2008
+  - "2008"
 ---
 
 I'm guessing everybody has now seen the photos leaked onto the internet of the new iPod Nano that Apple will be announcing this afternoon.

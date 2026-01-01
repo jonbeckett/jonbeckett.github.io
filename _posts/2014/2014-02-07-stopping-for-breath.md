@@ -3,7 +3,7 @@ layout: single
 title: "Stopping For Breath"
 date: 2014-02-07
 categories:
-  - 2014
+  - "2014"
 ---
 
 Another week has passed. Another week without writing. Another week filled with trains, crowds, cities, code, computers, stress, and unimaginable tiredness.

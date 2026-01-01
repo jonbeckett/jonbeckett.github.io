@@ -3,7 +3,7 @@ layout: single
 title: "Chores Pastimes And The Fediverse"
 date: 2022-02-19
 categories:
-  - 2022
+  - "2022"
 ---
 
 After going to bed somewhat early last night, you might think I would have woken early this morning - and you would have been wrong. I slept like an absolute log for about eight hours, and struggled to wake up when I finally did scrape myself out of bed.

@@ -3,7 +3,7 @@ layout: single
 title: "Late Night"
 date: 2005-08-16
 categories:
-  - 2005
+  - "2005"
 ---
 
 Last night I finally called my cousin in California after missing each other with various phone calls over the last few weeks. It transpired that she has MSN Messenger and Skype installed, so it's no problem to keep in touch now. We spent about an hour talking on Skype - I switched my webcam on too, which blew my uncle away; he's never really got involved in the whole computer thing, let alone the internet.

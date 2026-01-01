@@ -3,7 +3,7 @@ layout: single
 title: "Dogs Have Owners Cats Have Staff"
 date: 2006-11-04
 categories:
-  - 2006
+  - "2006"
 ---
 
 Have you ever decided to take a day out from your normal life? I did today, and I have decided I need to do it more often.

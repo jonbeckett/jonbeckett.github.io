@@ -3,7 +3,7 @@ layout: single
 title: "Stuck In A Rut"
 date: 2006-10-24
 categories:
-  - 2006
+  - "2006"
 ---
 
 My life at the moment seems to be a never ending series of "things to do". I need to make some kind of change before I go mad. Perhaps getting out of the house for at least one evening during the week might be a good idea - even if it's just down to the local pub for a pint.

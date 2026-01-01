@@ -3,7 +3,7 @@ layout: single
 title: "Nanowrimo Nablopomo Old Friends And Responsibility"
 date: 2014-07-03
 categories:
-  - 2014
+  - "2014"
 ---
 
 Back in 2006 Eden Kennedy started "National Blog Posting Month"a lesser version of "National Novel Writing Month". While "NaNoWriMo" challenged participants to write a 50,000 word novel during the calendar month of November each year, all "NaBloPoMo" asked was that you post something on your blog every day during the same month.

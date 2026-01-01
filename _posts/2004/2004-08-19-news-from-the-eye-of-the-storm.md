@@ -3,7 +3,7 @@ layout: single
 title: "News From The Eye Of The Storm"
 date: 2004-08-19
 categories:
-  - 2004
+  - "2004"
 ---
 
 The last couple of weeks probably need to go down in history as the most stressful of my professional career - and probably give a reason for so few postings to this online journal over that time period.

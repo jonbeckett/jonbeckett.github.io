@@ -3,7 +3,7 @@ layout: single
 title: "The Web Developer Exhales"
 date: 2016-12-07
 categories:
-  - 2016
+  - "2016"
 ---
 
 I think the project I am working on has turned a corner today. After a colossal "sprint" over the last month, I pushed the fruits of my endless headbanging sessions onto the production servers this afternoon.

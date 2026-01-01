@@ -3,7 +3,7 @@ layout: single
 title: "Lionesses"
 date: 2016-06-04
 categories:
-  - 2016
+  - "2016"
 ---
 
 This evening we went on a family outing to watch the England women's team play against Serbia in a qualifying match for the European Championships. My other half had somehow ended up being in charge of acquiring tickets for all of the families connected with the youth football teams in town, and getting them into the hands of parents on match day at the football ground.

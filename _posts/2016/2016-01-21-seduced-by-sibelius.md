@@ -3,7 +3,7 @@ layout: single
 title: "Seduced By Sibelius"
 date: 2016-01-21
 categories:
-  - 2016
+  - "2016"
 ---
 
 Earlier this week I decided I needed to detach from the internet for at least a couple of evenings, so did the natural thing that any self respecting couch potato would dobinge watched a TV show from the internet. Heyat least I was sitting on the couch instead of in front of the computer, right?After digging through the various TV shows available on either Netflix, or Amazon Prime, I ended up picking at random. There had been this big banner for "Mozart in the Jungle" splashed across the Prime interface for a while, and I had taken no noticeadvertising rarely has that much of an effect on mebut for whatever reason this time, I clicked on it.

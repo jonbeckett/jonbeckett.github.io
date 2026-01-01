@@ -3,7 +3,7 @@ layout: single
 title: "Most Software Developers Are Rubbish"
 date: 2014-08-11
 categories:
-  - 2014
+  - "2014"
 ---
 
 Before anybody throws their hands in the air and starts ranting, I'm going to include myself in the rubbish pile, and I'm also going to make the whole title argument much more complicated.

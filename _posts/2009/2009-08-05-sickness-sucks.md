@@ -3,7 +3,7 @@ layout: single
 title: "Sickness Sucks"
 date: 2009-08-05
 categories:
-  - 2009
+  - "2009"
 ---
 
 I hadn't been off work sick since the girls arrived with us 18 months ago. Thanks to a wandering cold virus that chanced upon me and grinned wickedly, I am at home doing combat with it, and have lost my record of non-sickness. Dammit. I was sent home on Monday amid fears of the Swine Flu outbreak.

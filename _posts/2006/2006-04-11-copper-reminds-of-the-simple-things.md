@@ -3,7 +3,7 @@ layout: single
 title: "Copper Reminds Of The Simple Things"
 date: 2006-04-11
 categories:
-  - 2006
+  - "2006"
 ---
 
 I just wanted to take the opportunity to direct you over the wonderful online comic strip that is "Copper"...

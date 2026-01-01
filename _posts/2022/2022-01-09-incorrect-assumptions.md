@@ -3,7 +3,7 @@ layout: single
 title: "Incorrect Assumptions"
 date: 2022-01-09
 categories:
-  - 2022
+  - "2022"
 ---
 
 *This year I'm taking part in "*[*Bloganuary*](https://bloganuary.wordpress.com/)*" - a series of writing prompts published throughout the month by* [*Mindy Postoff*](https://bloganuary.wordpress.com/author/mindywoothemes/)*. Today's writing prompt is "What do people incorrectly assume about you ?".*

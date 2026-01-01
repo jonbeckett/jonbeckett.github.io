@@ -3,7 +3,7 @@ layout: single
 title: "Watching From Afar"
 date: 2018-11-06
 categories:
-  - 2018
+  - "2018"
 ---
 
 The last 24 hours have been an interesting experience - watching results roll in from the American mid-term elections. I have no part in the circus - I live on the other side of the world - and should really be worrying about the ridiculous situation my own country finds itself in. And yet here I am, sitting high atop a fence, watching everything unfold, and wondering how the news is sinking in for so many that I know.

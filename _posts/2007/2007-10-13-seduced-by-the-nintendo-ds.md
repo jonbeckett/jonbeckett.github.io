@@ -3,7 +3,7 @@ layout: single
 title: "Seduced By The Nintendo Ds"
 date: 2007-10-13
 categories:
-  - 2007
+  - "2007"
 ---
 
 Finally, after watching my other half play on hers for several years, I have succumbed to temptation. It happened while wandering around Gamestation in Maidenhead earlier today. The neat little white boxes began talking to me. Whispering "you know you want me" - just like the voice in Field of Dreams.

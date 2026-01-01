@@ -3,7 +3,7 @@ layout: single
 title: "Banned Books Week"
 date: 2010-09-26
 categories:
-  - 2010
+  - "2010"
 ---
 
 While reading about Banned Books Week, I've just been looking a the list of books that have either been banned, or challenged in the American Libraries Association "Banned or Challenged Books" list. It makes pretty astounding reading

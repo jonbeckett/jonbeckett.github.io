@@ -3,7 +3,7 @@ layout: single
 title: "Advertising Isnt What It Used To Be"
 date: 2010-01-04
 categories:
-  - 2010
+  - "2010"
 ---
 
 While we all know that advertising standards exist for a reason, I can't help thinking that advertisements were better when the world was morenaive, even if they were all full of shit.

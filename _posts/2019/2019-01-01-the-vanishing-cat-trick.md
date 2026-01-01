@@ -3,7 +3,7 @@ layout: single
 title: "The Vanishing Cat Trick"
 date: 2019-01-01
 categories:
-  - 2019
+  - "2019"
 ---
 
 The phone on my desk at work rang at lunchtime - it was my other half. Miss 18 was at home (she goes back to work tomorrow) - and was freaking out, because she couldn't find the cat - the 1 year old nutcase we took delivery of from the local rescue centre before Christmas. I called home in response and spoke to her.

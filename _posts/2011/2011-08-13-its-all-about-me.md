@@ -3,7 +3,7 @@ layout: single
 title: "Its All About Me"
 date: 2011-08-13
 categories:
-  - 2011
+  - "2011"
 ---
 
 "Turning the Pedals" is all about me. Just me. It's not about the family guy, the father, the husband, the professional software developer, and the thousand other titles that might hang around my head in the real world.

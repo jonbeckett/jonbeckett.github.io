@@ -3,7 +3,7 @@ layout: single
 title: "Have Headache Will Sit Quietly"
 date: 2010-11-28
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's Sunday afternoon, and the rest of the family have headed off to visit their grandparents. Owing to me being pretty fantastically ill, but not really going on about it, I'm staying home - in the warm - and trying not to do too much with myself. That being said, I still spent the first couple of hours after getting up this morning tidying the house up, washing up, and the rest of the chores that tend to fall in my direction.

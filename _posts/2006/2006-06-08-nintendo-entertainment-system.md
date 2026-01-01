@@ -3,7 +3,7 @@ layout: single
 title: "Nintendo Entertainment System"
 date: 2006-06-08
 categories:
-  - 2006
+  - "2006"
 ---
 
 When I got home from work last night there was a parcel at the back door, and even though it had my name on it, I thought W must have bought something on E-Bay, and thought no more of it.

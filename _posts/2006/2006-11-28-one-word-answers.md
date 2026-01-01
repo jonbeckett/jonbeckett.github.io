@@ -3,7 +3,7 @@ layout: single
 title: "One Word Answers"
 date: 2006-11-28
 categories:
-  - 2006
+  - "2006"
 ---
 
 While making the daily rounds, commenting on my friends blogs I came across a challenge too good to pass up from Sarcomical (photo above taken from her wonderful Flickr archive)- to answer her questions with one word answers. Here are my results...

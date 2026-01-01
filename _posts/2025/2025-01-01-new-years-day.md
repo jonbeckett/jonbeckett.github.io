@@ -3,7 +3,7 @@ layout: single
 title: "New Years Day"
 date: 2025-01-01
 categories:
-  - 2025
+  - "2025"
 ---
 
 Last night we were invited to bring in the new year with neighbours. We hadn’t planned on going anywhere or doing anything, but thought “you know what - why not?”. After pitching ourselves into their party, their circle of friends, several rounds of tequila, a few rounds of “Cards Against Humanity”, and some idiotic dancing in their kitchen in the run-up towards “The Bongs”, we said our goodbyes and retreated home - glad to have met new people, perhaps made some new friends, and were also very, very tired.

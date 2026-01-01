@@ -3,7 +3,7 @@ layout: single
 title: "Five And A Half Kilometres"
 date: 2020-09-28
 categories:
-  - 2020
+  - "2020"
 ---
 
 After waking with a start at my other half's alarm clock this morning, I scraped myself out of bed, pulled some shorts on, and wandered downstairs in search of my running shoes. I hadn't planned on going running. The thought appeared in my head while staring straight through the bedside clock - half watching the minute hand slowly move around it's face.

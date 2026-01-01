@@ -3,7 +3,7 @@ layout: single
 title: "Watching and Waiting"
 date: 2025-01-20
 categories:
-  - 2025
+  - "2025"
 ---
 
 I’ve spent much of the day watching a long running process on a distant server farm slowly report onward progress. It’s been interesting - wanting to find better things to do, but not wanting to look away, should it mysteriously run off the rails as computers tend to when given the chance.

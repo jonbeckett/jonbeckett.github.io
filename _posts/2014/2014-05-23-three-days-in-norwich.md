@@ -3,7 +3,7 @@ layout: single
 title: "Three Days In Norwich"
 date: 2014-05-23
 categories:
-  - 2014
+  - "2014"
 ---
 
 For the past week I have been working on-site, "teaching" professionals to do clever stuff. I'm being deliberately vague, because I can't imagine you'rereally interested in what I do in the daytimeapart from the bits where I swear a lot, thump the desk with both hands, and storm off in the general direction of the kitchen, coffee cup in hand."On site" this week meant Norwich, about 150 miles from home. It doesn't sound that far until you realise that half of that distance is a tortuous journey through numerous villages, wildernesses, and barren wastelands (ok, I may have made the last bit up). I travelled by train to get there, which meant an equally tortuous journey into and out of London, but at least you get to do something useful likeread a book goof around on your phone andtablet for the entire journey.

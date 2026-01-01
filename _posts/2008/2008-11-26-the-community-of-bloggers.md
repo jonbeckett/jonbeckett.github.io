@@ -3,7 +3,7 @@ layout: single
 title: "The Community Of Bloggers"
 date: 2008-11-26
 categories:
-  - 2008
+  - "2008"
 ---
 
 A couple of years ago I built a forum - mainly because people asked me to - for people who write blogs to create their own community. It never had it's own domain name, or a real "identity" as such, and so eventually fell by the wayside.

@@ -3,7 +3,7 @@ layout: single
 title: "Finishing Early"
 date: 2016-05-17
 categories:
-  - 2016
+  - "2016"
 ---
 
 A little after 2:30pm the phone rang on my desk at work. I picked up pretty much staight away, and stumbled over saying good morning, or good afternoon - still trying to decide which as I began talking. My other half's voice was on the other end.

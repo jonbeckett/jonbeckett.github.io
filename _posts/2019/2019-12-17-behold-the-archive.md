@@ -3,7 +3,7 @@ layout: single
 title: "Behold The Archive"
 date: 2019-12-17
 categories:
-  - 2019
+  - "2019"
 ---
 
 After posting quite the most forgettable collection of words to the blog earlier today, I found myself with a few minutes to spare this lunchtime. Rather than mindlessly scroll Facebook, Twitter, or Instagram, for some reason I ended up looking at the backup of my blog posts, and wondering how I might get them back into the published blog on the internet.

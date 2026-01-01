@@ -3,7 +3,7 @@ layout: single
 title: "Contemplating Another Twitter Cull"
 date: 2009-09-26
 categories:
-  - 2009
+  - "2009"
 ---
 
 Back when twitter was shiny, new and horrendously unstable, it was also interesting; or rather the people who frequented it were. Popularity heralded the arrival of the marketeers though, and with them the idea that twitter could somehow be used as a marketing tool. Over time, people who had been writing interesting, open and honest posts read too many articles about monetising their twitter presenceor became self proclaimed experts on social media.

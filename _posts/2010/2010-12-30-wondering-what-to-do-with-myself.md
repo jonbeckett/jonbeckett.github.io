@@ -3,7 +3,7 @@ layout: single
 title: "Wondering What To Do With Myself"
 date: 2010-12-30
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's the Thursday between Christmas and New Year, and I'm back in the office - wondering what to do with myself. I have no scheduled work as such, so I'm using the time to do housekeeping - registry cleaning, defragging and so on.

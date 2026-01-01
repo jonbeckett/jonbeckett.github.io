@@ -3,7 +3,7 @@ layout: single
 title: "Working From Home"
 date: 2016-03-08
 categories:
-  - 2016
+  - "2016"
 ---
 
 I'm working from home for the greater part of this weekto provide a catch-net for our eldest daughter again. Let's just say she's finding growing up harder than most. We've had school staff visiting the house, a kids counsellor took her for a walk yesterday, and we dropped everything for a "pizza and movie night" last night with everybody together (watched "National Treasure : Book of Secrets"). She's back in school today. Fingers crossed this is the beginning of the road back to "normal" (whatever "normal" is).

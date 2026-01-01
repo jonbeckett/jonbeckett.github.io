@@ -3,7 +3,7 @@ layout: single
 title: "One Dimensional Dance Show Shenanigans"
 date: 2013-05-11
 categories:
-  - 2013
+  - "2013"
 ---
 
 For the last several weeks we have been keeping a secret from our children - a secret that nearly got blown on Friday morning, when several T-Shirts were accidentally left out after another late night sewing machine andstencilingsession. It didn't take long for our middle daughter to figure out who the stenciled names on the shirts belonged to - "Harry", "Niall", "Liam", "Louis", and "Zayn"...

@@ -3,7 +3,7 @@ layout: single
 title: "One Step At A Time"
 date: 2020-04-15
 categories:
-  - 2020
+  - "2020"
 ---
 
 I stayed up late last night and watched TV with my eldest daughter - we watched several episodes in a row of 'Friday Night Dinner', drank tea, and ate chocolate. In a way it was a 'life hack' - my way of lifting her out of the funk she had been in throughout the day. Quite how I then managed to get up this morning is something of a mystery. I did though - I always do. Of course I have no commute to speak of at the moment.

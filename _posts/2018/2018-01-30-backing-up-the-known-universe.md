@@ -3,7 +3,7 @@ layout: single
 title: "Backing Up The Known Universe"
 date: 2018-01-30
 categories:
-  - 2018
+  - "2018"
 ---
 
 After completing the epic Tuesday night slog yesterday evening (meet Miss 17, go for coffee, buy groceries, pick up Miss 13, change her into football kit, drop her a football, walk Miss 17 home, clear up kitchen, pick up Miss 13 from football, go home, make dinner, eat, wash up, etc, etc, etc), I started sorting out the files on my other half's laptop.

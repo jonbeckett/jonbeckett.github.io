@@ -3,7 +3,7 @@ layout: single
 title: "From A Distance"
 date: 2016-05-13
 categories:
-  - 2016
+  - "2016"
 ---
 
 The office I work from is in the depths of a country estate alongside the River Thames, which snakes past on it's way towards London, the south east of England, and eventually the sea. The building is relatively modernI say relatively, because it is surrounded by cottages that would once have been the residence for gardeners, gamekeepers, and so forth. The service staff for the estate.

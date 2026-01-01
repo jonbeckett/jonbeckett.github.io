@@ -3,7 +3,7 @@ layout: single
 title: "Saturday Morning"
 date: 2020-04-11
 categories:
-  - 2020
+  - "2020"
 ---
 
 I was going to title this post "Saturday Morning, 9am" - like the Simon and Garfunkel song - but that was already an hour and a half ago, so it seems a little disingenuous. After finishing the morning round of chores, I'm sitting at the dining table at the end of the lounge with my trusty laptop, listening to Scala radio drifting into the room from the Amazon Echo in the kitchen.

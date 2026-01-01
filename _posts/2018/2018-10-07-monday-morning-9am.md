@@ -3,7 +3,7 @@ layout: single
 title: "Monday Morning 9Am"
 date: 2018-10-07
 categories:
-  - 2018
+  - "2018"
 ---
 
 The clock has just ticked around to 9am. I'm sitting in the heart of Heathrow Airport in London, a few yards away from one of the departures boards. My flight is steadily moving up the board - with a note that the gate will be shown in about three quarters of an hour. As is usual, I flew through check-in and security, so find myself with time to spare now.

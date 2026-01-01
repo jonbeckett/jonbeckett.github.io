@@ -3,7 +3,7 @@ layout: single
 title: "A Few Words"
 date: 2008-03-25
 categories:
-  - 2008
+  - "2008"
 ---
 
 I received news today that one of my closest friends is climbing out of perhaps the bleakest time of their life.

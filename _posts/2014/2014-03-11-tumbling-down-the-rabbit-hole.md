@@ -3,7 +3,7 @@ layout: single
 title: "Tumbling Down The Rabbit Hole"
 date: 2014-03-11
 categories:
-  - 2014
+  - "2014"
 ---
 
 It all started innocently enough. Given that the guy I have been working with in London was working from home, there was no reason for me to make the journey in either. An extra hour in bed!As 9am approached I swept the final remnants of breakfast into the dishwasher, and set about clearing the desk in the study. The client laptop connected successfully via VPN, and I was away and running only I soon needed to retrieve code from the source code repository at the officewhich meant firing up a different laptop, with a different VPN client installed.

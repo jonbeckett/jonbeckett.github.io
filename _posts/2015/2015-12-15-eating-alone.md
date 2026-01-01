@@ -3,7 +3,7 @@ layout: single
 title: "Eating Alone"
 date: 2015-12-15
 categories:
-  - 2015
+  - "2015"
 ---
 
 This evening you find me sitting alone in my hotel room, surrounded by the leftovers of a rather ramshackle dinner. Seeing as I have very little else to do this evening, I'll regale you with my culinary choices.

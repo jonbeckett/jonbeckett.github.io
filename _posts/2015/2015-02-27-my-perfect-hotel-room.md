@@ -3,7 +3,7 @@ layout: single
 title: "My Perfect Hotel Room"
 date: 2015-02-27
 categories:
-  - 2015
+  - "2015"
 ---
 
 While staying in a hotel this week with work, I've started to realise the things that really count in a hotel roomfor me. I was going to title this post "The Perfect Hotel Room", but then started to realise that most of these thoughts are very individual. Anyway - here's the list of things I would like to see.

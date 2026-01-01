@@ -3,7 +3,7 @@ layout: single
 title: "Now Yahoo Are At It"
 date: 2006-04-13
 categories:
-  - 2006
+  - "2006"
 ---
 
 When I arrived at work this morning, I was browsing the "latest news" on Yahoo, and came across the story about Tom Cruise's baby being born... the second paragraph goes as follows...

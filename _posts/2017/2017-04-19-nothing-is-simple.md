@@ -3,7 +3,7 @@ layout: single
 title: "Nothing Is Simple"
 date: 2017-04-19
 categories:
-  - 2017
+  - "2017"
 ---
 
 I have meetings until 4pm today, and then I'm out of here. I have no reservations on the train, so will most likely be standing up for the first three hours of the journey. Go me. Before I even get there though, I have to sit in a conference room and try to dissuade a client from being too clever about the thing they want us to build them. I like simple things - I have to convince them that simple things are good too.

@@ -3,7 +3,7 @@ layout: single
 title: "Everything, Everywhere"
 date: 2025-09-07
 categories:
-  - 2025
+  - "2025"
 ---
 
 After watching the inexorable march of Substack towards the same commercially driven hellscape as countless platforms before it, I’ve been scouting around for alternatives.

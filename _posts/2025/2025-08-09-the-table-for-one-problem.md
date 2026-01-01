@@ -3,7 +3,7 @@ layout: single
 title: "The table for one problem"
 date: 2025-08-09
 categories:
-  - 2025
+  - "2025"
 ---
 
 It’s Saturday morning, and you find me sitting in the middle of the huge Wetherspoons in town - escaping the house for a cooked breakfast and a “bottomless” coffee. After a couple of weeks burning the candle at both ends, I’m “treating myself” (that episode of Parks and Recreation will never leave my brain - I very much doubt I’ll buy a Batman suit for myself though).

@@ -3,7 +3,7 @@ layout: single
 title: "Inviting Questions"
 date: 2006-11-24
 categories:
-  - 2006
+  - "2006"
 ---
 
 Here's an idea. I am inviting you to ask me up to 4 questions each in the comments, and this evening I will answer the first 20 questions.

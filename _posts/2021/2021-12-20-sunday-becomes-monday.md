@@ -3,7 +3,7 @@ layout: single
 title: "Sunday Becomes Monday"
 date: 2021-12-20
 categories:
-  - 2021
+  - "2021"
 ---
 
 The weekend is almost over. I'm sitting in the dark of the junk room in front of the computer, scratching around the darker corners of the recent past for anything worth reporting. There really isn't much.-? 1/2 

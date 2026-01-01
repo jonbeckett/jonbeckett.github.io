@@ -3,7 +3,7 @@ layout: single
 title: "Bored And Lonesome"
 date: 2006-05-28
 categories:
-  - 2006
+  - "2006"
 ---
 
 Do you ever have days when you just run out of cheer and optimism? I seem to be having one today.

@@ -3,7 +3,7 @@ layout: single
 title: "Our Mouse Murdering Cat"
 date: 2003-09-15
 categories:
-  - 2003
+  - "2003"
 ---
 
 If you want to read about our murderous cat, scroll down a bit...

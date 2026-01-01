@@ -3,7 +3,7 @@ layout: single
 title: "The Great Swirling Tuesday Vortex"
 date: 2015-10-20
 categories:
-  - 2015
+  - "2015"
 ---
 
 I got parachuted into somebody else's project today. I was supposed to "make changes", but ended up re-writing the whole damn thing in order to get a handle on any of it. It didn't help that the Star Wars trailer appeared on the internet early this morning, so of course I sat and watched that in the few minutes between the morning wall-of-death breakfast and lunch making routine, and leaving the house to cycle to work.

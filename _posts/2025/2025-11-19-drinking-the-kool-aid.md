@@ -3,7 +3,7 @@ layout: single
 title: "Drinking the Kool Aid"
 date: 2025-11-19
 categories:
-  - 2025
+  - "2025"
 ---
 
 I left Cornwall mid-morning yesterday after a long promised visit to my parents. The journey home felt oddly detached - with no mobile signal and no data connection on the train for several hours. The “free wifi” on the train was marginally funnier than my trains to and from Cornwall running an hour late - and the crew repeatedly informing passengers how they could refund their tickets.

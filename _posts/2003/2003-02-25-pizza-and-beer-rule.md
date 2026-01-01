@@ -3,7 +3,7 @@ layout: single
 title: "Pizza And Beer Rule"
 date: 2003-02-25
 categories:
-  - 2003
+  - "2003"
 ---
 
 Today is a good day.

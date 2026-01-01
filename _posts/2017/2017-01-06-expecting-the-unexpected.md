@@ -3,7 +3,7 @@ layout: single
 title: "Expecting The Unexpected"
 date: 2017-01-06
 categories:
-  - 2017
+  - "2017"
 ---
 
 Both of our younger daughters play football for town teams. Football was completely their own idea - when the kids were little we imagined a future filled with dance classes, hockey, swimming, ice skating, horse riding, or whatever other stereotypical activities you fill your head with when girls come along. By the time they were in junior school we were taking the youngest to Judo, the middle daughter to Rugby, and the eldest to Football.

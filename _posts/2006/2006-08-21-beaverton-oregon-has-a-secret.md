@@ -3,7 +3,7 @@ layout: single
 title: "Beaverton Oregon Has A Secret"
 date: 2006-08-21
 categories:
-  - 2006
+  - "2006"
 ---
 
 In a world filled with people working their nine to five jobs like orwellian automatons, we all sometimes wish that we had pursued a dream, an interest or a talent, and perhaps found an escape from the prison that so many modern lives can become.

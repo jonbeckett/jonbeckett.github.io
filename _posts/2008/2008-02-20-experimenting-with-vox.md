@@ -3,7 +3,7 @@ layout: single
 title: "Experimenting With Vox"
 date: 2008-02-20
 categories:
-  - 2008
+  - "2008"
 ---
 
 Many moons ago I had an account at Vox - I was one of the beta testers when it was being developed too.

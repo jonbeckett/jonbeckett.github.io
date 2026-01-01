@@ -3,7 +3,7 @@ layout: single
 title: "The Absence Of Time"
 date: 2015-11-25
 categories:
-  - 2015
+  - "2015"
 ---
 
 I have half an hour until I leave work for the day. Half an hour until I pull on my coat, bike helmet, and gloves, and do battle with the evening traffic in town. I called home a few moments ago, and received my ordersI'll be stopping at the supermarket on the journey home to get something for dinner.

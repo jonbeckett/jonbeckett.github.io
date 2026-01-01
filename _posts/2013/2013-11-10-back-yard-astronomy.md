@@ -3,7 +3,7 @@ layout: single
 title: "Back Yard Astronomy"
 date: 2013-11-10
 categories:
-  - 2013
+  - "2013"
 ---
 
 After promising myself not to post photographs in the blog, I couldn't resist sharing this one.

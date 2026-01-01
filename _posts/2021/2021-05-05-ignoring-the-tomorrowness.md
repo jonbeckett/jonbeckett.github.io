@@ -3,7 +3,7 @@ layout: single
 title: "Ignoring The Tomorrowness"
 date: 2021-05-05
 categories:
-  - 2021
+  - "2021"
 ---
 
 May the fifth be with you. Doesn't sound quite as good, does it. At the time of writing it's eight minutes past midnight, so I suppose it's already tomorrow. The sixth. Perhaps I'll ignore the tomorrowness of it all, and pretend it's still tonight.

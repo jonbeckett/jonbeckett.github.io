@@ -3,7 +3,7 @@ layout: single
 title: "More Photographs"
 date: 2007-03-11
 categories:
-  - 2007
+  - "2007"
 ---
 
 Okay - after finally scraping myself out of bed at about 8:30, and watching rubbish television for an hour I finally had a shower, got dressed, cleaned the kitchen up, and then set about trying the new camera phone (okay, okay, playing with it...).

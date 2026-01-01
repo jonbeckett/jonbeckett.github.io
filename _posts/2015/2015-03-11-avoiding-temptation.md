@@ -3,7 +3,7 @@ layout: single
 title: "Avoiding Temptation"
 date: 2015-03-11
 categories:
-  - 2015
+  - "2015"
 ---
 
 I'm sitting on my hands today - avoiding the temptation to "build a better homepage" on the internet. I own my own name as a .com URL, and have a freebie site from Weebly sat on it, with links out to Twitter, Facebook, Google+, LinkedIn, and WordPress - all under my real name, and all filled with geeky rubbish related to my job (apart from Facebook, which is filled with old school friends, relatives, and acquaintances that have no idea I have blocked them).

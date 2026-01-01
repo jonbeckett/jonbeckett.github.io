@@ -3,7 +3,7 @@ layout: single
 title: "One Week After Another"
 date: 2021-09-12
 categories:
-  - 2021
+  - "2021"
 ---
 
 I'm getting a little too good at "not writing" at the moment. It's easy to say there are too many distractions, when the reality is that I'm just not setting aside time to write anything. Life is happening around me.

@@ -3,7 +3,7 @@ layout: single
 title: "Oooh Shiny"
 date: 2006-03-22
 categories:
-  - 2006
+  - "2006"
 ---
 
 Unless you are completely blind, or are reading this blog entry via RSS, you will notice that I have changed the template. It's still a similar layout to before, but is a bit cleaner and easier to read. I can't claim any credit for it - it's one of the "stock" blogger templates; although I did tweak it here and there.

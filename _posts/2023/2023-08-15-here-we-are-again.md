@@ -3,7 +3,7 @@ layout: single
 title: "Here we are again"
 date: 2023-08-15
 categories:
-  - 2023
+  - "2023"
 ---
 
 I'm not entirely sure what Wordpress are up to, but they have badly broken the session programming behind their wonderfully dysfunctional platform once again. We've been here before.

@@ -3,7 +3,7 @@ layout: single
 title: "Wendys Birthday"
 date: 2009-03-22
 categories:
-  - 2009
+  - "2009"
 ---
 
 In celebrations normally reserved for the Queen, W is having two celebrations this year - the first (today) on her actual birthday, and the second next weekend at the party I'm throwing for her on account of it being a rather special number this time.

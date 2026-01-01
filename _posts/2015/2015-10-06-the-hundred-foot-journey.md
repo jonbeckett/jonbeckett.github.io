@@ -3,7 +3,7 @@ layout: single
 title: "The Hundred Foot Journey"
 date: 2015-10-06
 categories:
-  - 2015
+  - "2015"
 ---
 
 After getting the children into bed, clearing the kitchen, and finally sitting down yesterday evening, we discovered there was nothing on the television, so pressed the little button on the remote that turns the TV into "Amazon Fire TV". After a few minutes flicking through the various movies available, I randomly picked a movie I had heard nothing about. You might call it a methodsometimes it works, sometimes it doesn't.

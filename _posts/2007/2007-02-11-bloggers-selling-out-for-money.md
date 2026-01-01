@@ -3,7 +3,7 @@ layout: single
 title: "Bloggers Selling Out For Money"
 date: 2007-02-11
 categories:
-  - 2007
+  - "2007"
 ---
 
 While reading some of the blogs listed on the "Great Wall of Blogs" at FuelMyBlog this morning, I kept tripping over the same money making scheme again and again - PayPerPost.

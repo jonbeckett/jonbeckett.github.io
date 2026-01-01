@@ -3,7 +3,7 @@ layout: single
 title: "Online Training Exposes A Hangup"
 date: 2012-01-27
 categories:
-  - 2012
+  - "2012"
 ---
 
 Today was the first of three spent holed up in the study at home, taking part in an online training course for a technology platform I've been using for the last few months. It's the first time I have done product training remotely, and I'm not sure if I like it or not.

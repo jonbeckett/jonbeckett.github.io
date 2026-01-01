@@ -3,7 +3,7 @@ layout: single
 title: "Wonderful Sunday"
 date: 2006-09-03
 categories:
-  - 2006
+  - "2006"
 ---
 
 Today was the kind that you remember with a smile.

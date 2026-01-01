@@ -3,7 +3,7 @@ layout: single
 title: "Fifteen Thousand Hits"
 date: 2009-01-26
 categories:
-  - 2009
+  - "2009"
 ---
 
 Can you believe this blog has been visited 15,000 times ? What on earth is so interesting about the words I write or the pictures I occasionally post? The worrying thing is that that the number would be far higher if I had kept my blog in one place (to give you some idea, my old PluggedOut blog used to generate over 1000 hits a day, before I gave it away and it was idiotically left to rot).

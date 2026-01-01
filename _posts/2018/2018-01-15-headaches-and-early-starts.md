@@ -3,7 +3,7 @@ layout: single
 title: "Headaches And Early Starts"
 date: 2018-01-15
 categories:
-  - 2018
+  - "2018"
 ---
 
 I'm supposed to be in the office at 8:30 this morning - not a huge problem, seeing as the hotel is directly across the road from the office. This is why I like travelling on my own - I get to choose where I stay, and will always choose location over comfort. Yes, the hotel is very basic, but IT'S NEXT F*CKING DOOR!

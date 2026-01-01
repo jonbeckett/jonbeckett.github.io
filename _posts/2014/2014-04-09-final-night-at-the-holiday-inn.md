@@ -3,7 +3,7 @@ layout: single
 title: "Final Night At The Holiday Inn"
 date: 2014-04-09
 categories:
-  - 2014
+  - "2014"
 ---
 
 Tonight is my the final night at the Holiday Inn Expressperhaps for some time. After returning from the office this evening I got changed, packed clothes into the bag, and only left enough clothes out to change into in the morning. While doing so I became amused at my own behaviourmy continual attempts to make the world around me neat, tidy, orderly, and simple.

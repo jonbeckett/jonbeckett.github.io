@@ -3,7 +3,7 @@ layout: single
 title: "Rudderless"
 date: 2016-04-01
 categories:
-  - 2016
+  - "2016"
 ---
 
 I'm sitting in the lounge, with the iPad and the Bluetooth keyboard propped on my lap. Figure this one outas I type, the keyboard slides gently to the rightvery, very slowlyuntil the left hand side of the keyboard falls between my legs. Why on earth might it do that?I've done nothing this evening. I got in from work at about 6pm, started washing up immediately, got shouted at for making my other half feel bad (get thiseverybody had been in all day, but they hadn't even got the milk off the doorstep). We then ate dinner, and I washed up again. Washing up took over an hour. You might wonder why nobody helped me, but I actually prefer to do the washing up on my ownbecause at least then I know things will get washed properly, get put away in the right places, and that everything will get done. The kids washed up for me earlier in the week, and I found myself washing up again several hours laterthey had only washed the dinner plates and cutlerynone of the saucepans or oven trays.

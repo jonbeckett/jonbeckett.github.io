@@ -3,7 +3,7 @@ layout: single
 title: "First Ever Medical"
 date: 2007-09-03
 categories:
-  - 2007
+  - "2007"
 ---
 
 As a part of the marathon-like journey towards adopting children, we both had to get full medicals from our doctors today. Having never had a medical in my life before, I will admit to a certain amount of trepidation before walking to the health center this afternoon.

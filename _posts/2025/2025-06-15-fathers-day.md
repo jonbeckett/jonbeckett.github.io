@@ -3,7 +3,7 @@ layout: single
 title: "Fathers Day"
 date: 2025-06-15
 categories:
-  - 2025
+  - "2025"
 ---
 
 It’s “Father’s Day” in the UK today - a tradition that seems to have been adopted from the US at some point in the distant past - quite obviously a commercial tactic to sell stationery and chocolates, because what says “I love you Dad” more than a rectangle of cardboard with your handwriting on it? (actually - scratch that thought - the likes of Moonpig will now print the handwriting for you).

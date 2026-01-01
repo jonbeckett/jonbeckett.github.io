@@ -3,7 +3,7 @@ layout: single
 title: "Inventing Chocolate Egg Fairies"
 date: 2016-03-27
 categories:
-  - 2016
+  - "2016"
 ---
 
 What is Easter to you ? To me it's a time or the year when we eat enough chocolate to render a large Rhinoceros very poorly indeed. To many others it's a time to go and sit in a cold, damp building and be preached at endlessly about some political dissident being strung up by the Romans two thousand years ago.

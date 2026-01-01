@@ -3,7 +3,7 @@ layout: single
 title: "The Journey Home"
 date: 2021-08-24
 categories:
-  - 2021
+  - "2021"
 ---
 
 We left the coast a little before 10am, and arrived home a little before 4pm. Allowing for an hour in a rest area at lunchtime, about 5 hours on the road.

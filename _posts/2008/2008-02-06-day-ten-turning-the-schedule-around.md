@@ -3,7 +3,7 @@ layout: single
 title: "Day Ten Turning The Schedule Around"
 date: 2008-02-06
 categories:
-  - 2008
+  - "2008"
 ---
 
 We turned the children's schedule around today, and made life very much easier for ourselves.

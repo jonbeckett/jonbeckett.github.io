@@ -3,7 +3,7 @@ layout: single
 title: "Fifteen Minutes"
 date: 2025-11-26
 categories:
-  - 2025
+  - "2025"
 ---
 
 I started writing this blog post fifteen minutes before the end of my lunch break at work - after losing the rest of my lunch break washing clothes, clearing the kitchen up, and so on. After writing a few words my work computer sang forth a message notification, and like a fool I looked. The fifteen minutes vanished without trace.

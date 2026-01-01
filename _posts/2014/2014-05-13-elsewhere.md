@@ -3,7 +3,7 @@ layout: single
 title: "Elsewhere"
 date: 2014-05-13
 categories:
-  - 2014
+  - "2014"
 ---
 
 Do you ever have days when you get up, go through the motions of going to work, but your entire head is elsewhere?This morning I made bacon rolls for everybody for breakfast, and packed lunches for everybody before anybody even came downstairs. When they did finally arrive I was making everybody a cup of tea (which I only drank half of) before heading out the door.

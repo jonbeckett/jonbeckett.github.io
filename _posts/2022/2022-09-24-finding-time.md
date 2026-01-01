@@ -3,7 +3,7 @@ layout: single
 title: "Finding Time"
 date: 2022-09-24
 categories:
-  - 2022
+  - "2022"
 ---
 
 As a few might have noticed, I've returned to Wordpress. This had absolutely nothing to do with platforms - more about separation of concerns. I needed to use Substack for something else, and would rather have something of a dividing wall between my personal blog, and other endeavours.

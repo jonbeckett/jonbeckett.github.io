@@ -3,7 +3,7 @@ layout: single
 title: "Seduced By Minecraft"
 date: 2019-09-06
 categories:
-  - 2019
+  - "2019"
 ---
 
 If you're wondering where I have been for the last several days - while not working, travelling, working some more, travelling some more, picking things up, filling the washing machine, or chasing my tail in the endless fashion I seem to from day-to-day, wonder no more.

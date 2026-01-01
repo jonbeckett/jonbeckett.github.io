@@ -3,7 +3,7 @@ layout: single
 title: "Monday Morning"
 date: 2011-09-05
 categories:
-  - 2011
+  - "2011"
 ---
 
 I was on orders to take the kids into town today to buy various bits and bobsor at least I would have been if somebody had washed any of their underwear.

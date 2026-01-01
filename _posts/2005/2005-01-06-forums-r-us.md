@@ -3,7 +3,7 @@ layout: single
 title: "Forums R Us"
 date: 2005-01-06
 categories:
-  - 2005
+  - "2005"
 ---
 
 During my lunch hour yesterday, and a few hours last night, I managed to get a forum solution up and running on my PluggedOut webspace.

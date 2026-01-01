@@ -3,7 +3,7 @@ layout: single
 title: "That Friday Feeling"
 date: 2019-05-17
 categories:
-  - 2019
+  - "2019"
 ---
 
 It's Friday afternoon, and I'm taking a break from work for a bit to empty my head into the keyboard. The chest infection is slowly clearing up, replaced by a head cold. Go me. I'm battling on though - fuelled mostly by chocolate bars, cups of tea, and badly made sandwiches. I have a can of Dr Pepper sitting on the corner of my desk at work, but hot tea seems like a better idea at the moment.

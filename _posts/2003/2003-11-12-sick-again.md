@@ -3,7 +3,7 @@ layout: single
 title: "Sick Again"
 date: 2003-11-12
 categories:
-  - 2003
+  - "2003"
 ---
 
 I came home from work at lunchtime today - W is off work too; we both have pretty bad colds. When I got in she was quite shocked - apparently I have dark lines under my eyes.

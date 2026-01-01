@@ -3,7 +3,7 @@ layout: single
 title: "Unblogging"
 date: 2014-02-28
 categories:
-  - 2014
+  - "2014"
 ---
 
 I'm going to start a new movement on the internet. It's not going to be anything big, grand, or visionary. It's going to be about not doing thingsnot trying too hard, not trying to fit in, not conforming, not doing what people say.

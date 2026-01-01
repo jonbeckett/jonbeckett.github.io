@@ -3,7 +3,7 @@ layout: single
 title: "Invitations And Discoveries"
 date: 2016-05-31
 categories:
-  - 2016
+  - "2016"
 ---
 
 I was invited to write blog posts for a commercial organisation this morning. For a few moments my head grew to such a size that I was already considering an emergency carpentry course to fit my head back through the door-posts to leave the office, but then a modicum of reality kicked in - just in time to intercept my fingers as they began replying to the invitational email.

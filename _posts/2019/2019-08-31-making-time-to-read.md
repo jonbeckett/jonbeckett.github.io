@@ -3,7 +3,7 @@ layout: single
 title: "Making Time To Read"
 date: 2019-08-31
 categories:
-  - 2019
+  - "2019"
 ---
 
 It's been twelve years since I began commuting into London with work each day. For the better part of two years I would get up at 6am each day, catch the 7am train towards London, traverse the Underground network, and arrive at Liverpool Street a little before 9am. Two hours each way - four hours on trains each day. 

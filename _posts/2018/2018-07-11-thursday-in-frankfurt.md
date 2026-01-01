@@ -3,7 +3,7 @@ layout: single
 title: "Thursday In Frankfurt"
 date: 2018-07-11
 categories:
-  - 2018
+  - "2018"
 ---
 
 It feels like I've been in some sort of bubble during this visit to Frankfurt. Since arriving from the airport on Monday afternoon, I haven't really gone anywhere, or done anything outside of visiting the supermarket, the office, and a nearby restaurant. I have seen no "life". Perhaps if the weather improves this evening (as it looks like it might), I will go for a walk around the city - explore a little.

@@ -3,7 +3,7 @@ layout: single
 title: "Leaving Town Alive"
 date: 2017-03-17
 categories:
-  - 2017
+  - "2017"
 ---
 
 It's just gone midnight on Friday night. I arrived home a couple of hours ago. The first train headed south from Leeds after work was cancelled - after queueing to talk to two different people at the railway station (because of course the first person couldn't answer me), I discovered another train would be along in half an hour. I bought some food and drink from a kiosk, and sat on my own in a seating area, watching the minutes tick by.

@@ -3,7 +3,7 @@ layout: single
 title: "8 Years Together"
 date: 2009-09-16
 categories:
-  - 2009
+  - "2009"
 ---
 
 We went out for dinner last night at Bangkok Lounge in Bourne End to celebrate surviving 8 years of marriage without killing each other. Apart from being the only people in the entire restaurant all night, we had a great time. It was nice just to sit, talk, and have no arm tugging, no repeated trips to the toilet, and no requirement to tell anybody off.

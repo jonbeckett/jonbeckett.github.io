@@ -3,7 +3,7 @@ layout: single
 title: "When Fellow Bloggers Collide"
 date: 2008-01-21
 categories:
-  - 2008
+  - "2008"
 ---
 
 Do you ever wonder if somebody will tap you on the shoulder in the street, and whisper "I read your blog" ? I do. I can't really call it a fear as such, more a trepidation.

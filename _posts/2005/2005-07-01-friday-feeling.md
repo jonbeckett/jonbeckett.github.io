@@ -3,7 +3,7 @@ layout: single
 title: "Friday Feeling"
 date: 2005-07-01
 categories:
-  - 2005
+  - "2005"
 ---
 
 It's Friday, things are slowing down, and I find myself sorting little details out here and there.

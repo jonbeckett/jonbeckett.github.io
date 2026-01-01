@@ -3,7 +3,7 @@ layout: single
 title: "Two More Sleeps"
 date: 2018-12-22
 categories:
-  - 2018
+  - "2018"
 ---
 
 The last few days have been a blur. After visiting friends on Friday night for drinks and curry, I spent most of Saturday washing clothes, tidying the house, and running errands. I had been invited to visit another friend's house for drinks in the evening, and almost didn't go - but then changed my mind at the last minute. It's SO easy to not go out sometimes - to stay in, watch rubbish movies, or disappear down internet rabbit holes. After receiving a text message from another friend - asking if I was going - I thought "what the hell", jumped in the shower, had a shave, found some clean clothes, and wandered out into the evening air.

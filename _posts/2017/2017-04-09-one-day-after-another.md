@@ -3,7 +3,7 @@ layout: single
 title: "One Day After Another"
 date: 2017-04-09
 categories:
-  - 2017
+  - "2017"
 ---
 
 I have the week off work. You would imagine that would lead to a deluge of blog posts from me - unloading the darkest corners of my brain into the internet in a steady torrent of ultimately forgettable garbage. It hasn't happened.

@@ -3,7 +3,7 @@ layout: single
 title: "Another Normal"
 date: 2018-09-12
 categories:
-  - 2018
+  - "2018"
 ---
 
 After escaping late from the office this evening I returned to the hotel, folded my work clothes back into my case instead of preparing them for the morning - I fly home tomorrow - and set off into the evening air to find something to eat. It struck me that staying in a less comfortable hotel is a great incentive to eat out every night.

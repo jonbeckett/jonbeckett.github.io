@@ -3,7 +3,7 @@ layout: single
 title: "Slowly Losing Track Of The Days"
 date: 2016-02-10
 categories:
-  - 2016
+  - "2016"
 ---
 
 The journey in this morning was almost entirely uneventfulalthough I am starting to devote a dark corner of my brain to the behaviour of the staff that sell tickets on the train each morning. Back when I worked in London all the time I bought monthly tickets, which absolved me from having to worry about it at allsince then I've had to buy a ticket for each journey because I only ever buy a few days in a row.

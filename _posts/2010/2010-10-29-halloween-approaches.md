@@ -3,7 +3,7 @@ layout: single
 title: "Halloween Approaches"
 date: 2010-10-29
 categories:
-  - 2010
+  - "2010"
 ---
 
 After walking in the door from work last night, I was asked "did you see them?". "See what?"... an audience of puzzled and dismayed faces looked hopefully back.

@@ -3,7 +3,7 @@ layout: single
 title: "An Alternative Christmas Message"
 date: 2014-12-20
 categories:
-  - 2014
+  - "2014"
 ---
 
 Let me preface this by saying I am not religious (implying a belief in some kind of creatorwho's existence cannot be proven), and I am not atheist either (implying a belief in no creatorwho's lack of existence cannot be proven).

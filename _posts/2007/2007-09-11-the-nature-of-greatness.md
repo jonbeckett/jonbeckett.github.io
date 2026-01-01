@@ -3,7 +3,7 @@ layout: single
 title: "The Nature Of Greatness"
 date: 2007-09-11
 categories:
-  - 2007
+  - "2007"
 ---
 
 I missed the train this morningor rather, I forgot to pick my work laptop up when I left the house, and by the time I had remembered and returned for it there was no chance that I would make it back to the station in time.

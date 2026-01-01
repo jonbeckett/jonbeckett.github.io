@@ -3,7 +3,7 @@ layout: single
 title: "Time With Friends"
 date: 2011-02-22
 categories:
-  - 2011
+  - "2011"
 ---
 
 It's heading towards 9am on my final day off from work, and I'm trying to wake up. The children are slowly appearing from their bedroom, stumbling through the house with theirpajamason - heading towards the lounge to watch Sponge Bob. I'm about to make a second cup of tea.

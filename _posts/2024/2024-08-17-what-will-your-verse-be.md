@@ -3,7 +3,7 @@ layout: single
 title: "What will your verse be"
 date: 2024-08-17
 categories:
-  - 2024
+  - "2024"
 ---
 
 Tonight is all about having nothing to write, but writing anyway - in the vague hope that forcing words into the keyboard will somehow cause them to self-organise into something either insightful, thoughtful, or perhaps at least relatable.

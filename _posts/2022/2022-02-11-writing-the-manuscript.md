@@ -3,7 +3,7 @@ layout: single
 title: "Writing The Manuscript"
 date: 2022-02-11
 categories:
-  - 2022
+  - "2022"
 ---
 
 It's the final evening of my stay with my parents. For the past two weeks my brother and I have stayed with them to help out - to take the pressure off my Mum while my Dad has recovered from a viral infection that resulted in a hospital stay.

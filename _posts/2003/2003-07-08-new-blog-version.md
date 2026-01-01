@@ -3,7 +3,7 @@ layout: single
 title: "New Blog Version"
 date: 2003-07-08
 categories:
-  - 2003
+  - "2003"
 ---
 
 Hi all,

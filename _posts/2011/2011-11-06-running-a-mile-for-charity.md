@@ -3,7 +3,7 @@ layout: single
 title: "Running A Mile For Charity"
 date: 2011-11-06
 categories:
-  - 2011
+  - "2011"
 ---
 
 This morning we were up bright and earlyW was helping man the drink stations for the local half marathon along with the Girl Guides, and I took our younger children down to the central park the half marathon left from for the children's 1 mile fun run.

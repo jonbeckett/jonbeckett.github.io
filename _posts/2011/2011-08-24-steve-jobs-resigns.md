@@ -3,7 +3,7 @@ layout: single
 title: "Steve Jobs Resigns"
 date: 2011-08-24
 categories:
-  - 2011
+  - "2011"
 ---
 
 The following resignation letter from Steve Jobs just crossed the wires.

@@ -3,7 +3,7 @@ layout: single
 title: "Putting The Work In"
 date: 2019-10-15
 categories:
-  - 2019
+  - "2019"
 ---
 
 Four sets of six minutes running, and one minute walking around the back streets of town this evening with the running club. The running intervals are slowly ramping up. I'm guessing the ultimate aim is to get the group running for half an hour without rest.

@@ -3,7 +3,7 @@ layout: single
 title: "Pizza Netflix And Self Isolation"
 date: 2020-10-30
 categories:
-  - 2020
+  - "2020"
 ---
 
 Day two of the unplanned stay-cation.

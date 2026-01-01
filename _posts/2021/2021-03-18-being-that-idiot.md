@@ -3,7 +3,7 @@ layout: single
 title: "Being That Idiot"
 date: 2021-03-18
 categories:
-  - 2021
+  - "2021"
 ---
 
 <img src="https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c42fc5-cb11-4b42-be5e-9b3277a7af97_1280x853.jpeg" />

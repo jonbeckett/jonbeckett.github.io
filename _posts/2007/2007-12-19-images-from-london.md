@@ -3,7 +3,7 @@ layout: single
 title: "Images From London"
 date: 2007-12-19
 categories:
-  - 2007
+  - "2007"
 ---
 
 With one day left on my contract in London, I have started taking photographs of colleagues and places - and writing a lot in my notebook.

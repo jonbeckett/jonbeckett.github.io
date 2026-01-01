@@ -3,7 +3,7 @@ layout: single
 title: "Hyper Japan"
 date: 2024-07-21
 categories:
-  - 2024
+  - "2024"
 ---
 
 On Saturday morning we dragged the entire family out of the house, jumped on a train, and headed towards Olympia in London -- one of the biggest exhibition venues in the city.

@@ -3,7 +3,7 @@ layout: single
 title: "Very Busy Indeed"
 date: 2006-06-06
 categories:
-  - 2006
+  - "2006"
 ---
 
 I'm just taking the chance (while waiting for some software to install) to write a few words in my blog.

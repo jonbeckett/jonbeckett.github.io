@@ -3,7 +3,7 @@ layout: single
 title: "Watching Again"
 date: 2017-07-06
 categories:
-  - 2017
+  - "2017"
 ---
 
 I started watching "The OA" again tonight. I originally watched it on my own while holed up in a hotel with work - the entire series in one night on Netflix - eight hours. This time I'm watching it with our eldest daughter.

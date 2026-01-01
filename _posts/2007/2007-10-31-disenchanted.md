@@ -3,7 +3,7 @@ layout: single
 title: "Disenchanted"
 date: 2007-10-31
 categories:
-  - 2007
+  - "2007"
 ---
 
 In perhaps the first openly critical blog post I have ever written, I wrote this earlier this evening over on my technical blog.

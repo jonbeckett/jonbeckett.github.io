@@ -3,7 +3,7 @@ layout: single
 title: "5 Years Old New Bicycle"
 date: 2010-04-13
 categories:
-  - 2010
+  - "2010"
 ---
 
 A certain little girl wandered into our bedroom this morning, rubbing her eyes.

@@ -3,7 +3,7 @@ layout: single
 title: "Like A Rolling Stone"
 date: 2014-11-26
 categories:
-  - 2014
+  - "2014"
 ---
 
 The Blogger experiment is over. I'm back at WordPress again. I'm not going to explain why, because anybody that knows me with stop listening (I move blog platforms every other month on average). Let's just say Blogger was fun, and so is WordPress, and we can all get along together, and the sun (isn't) shining, and it (isn't) a hummy kind of day.

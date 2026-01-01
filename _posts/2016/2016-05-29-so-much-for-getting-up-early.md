@@ -3,7 +3,7 @@ layout: single
 title: "So Much For Getting Up Early"
 date: 2016-05-29
 categories:
-  - 2016
+  - "2016"
 ---
 
 While flicking through movies looking for something to watch last night, I almost fell asleep, and thought "what the hell am I doing?". I remember going to bed, and I remember pulling the covers over me as I thought "I must put my phone on charge". I woke this morning at 6am, and looked across at my phone on the bedside table. I didn't plug it in. I must have fallen asleep immediately.

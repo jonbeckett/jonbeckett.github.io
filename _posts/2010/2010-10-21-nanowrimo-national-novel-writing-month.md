@@ -3,7 +3,7 @@ layout: single
 title: "Nanowrimo National Novel Writing Month"
 date: 2010-10-21
 categories:
-  - 2010
+  - "2010"
 ---
 
 The impending arrival of November also marks the arrival of National Novel Writing Month - or "NaNoWriMo", to it's thousands of participants.

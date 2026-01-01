@@ -3,7 +3,7 @@ layout: single
 title: "Blog Version 16 Breaks Cover"
 date: 2004-05-26
 categories:
-  - 2004
+  - "2004"
 ---
 
 After a long coding session last night, I got the templating system up and running in Blog, and incremented the version number to 1.6.

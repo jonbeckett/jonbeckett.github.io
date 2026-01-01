@@ -3,7 +3,7 @@ layout: single
 title: "Entitled And Aloof"
 date: 2019-06-09
 categories:
-  - 2019
+  - "2019"
 ---
 
 While walking back from town earlier with groceries I turned a corner and came across a man in his mid-thirties walking his dog. The dog was attached to him via an extending lead. Both he and the dog were causing people to scatter in all directions to avoid becoming ensnared in the lead. The dog owner had no idea of any of this, because his gaze was fixed on his phone throughout. Two of us stopped, looked at him, and then at each other, shaking our heads.

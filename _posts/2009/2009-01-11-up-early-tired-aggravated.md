@@ -3,7 +3,7 @@ layout: single
 title: "Up Early Tired Aggravated"
 date: 2009-01-11
 categories:
-  - 2009
+  - "2009"
 ---
 
 I have been up since 7:30am today (Sunday) after the kids all woke up and started making a noise like the house falling down from about 6am onwards. I didn't actually get much sleep because my other half is becoming nocturnal - particularly so last night after I showed her the "Professor Layton" game on the Nintendo DS. I fell asleep at about 2 o'clock, but she was up later than that even.

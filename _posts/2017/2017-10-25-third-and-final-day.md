@@ -3,7 +3,7 @@ layout: single
 title: "Third And Final Day"
 date: 2017-10-25
 categories:
-  - 2017
+  - "2017"
 ---
 
 Here I am again, sitting in the junk room at home, emptying my head into the keyboard. I have no adventures to relate as such - other than wanting to kill next door's dog, which has barking non-stop all morning. I've turned Spotify up to eleven to drown it out. An eighties playlist is waking the children up - Paul Simon is singing "You Can Call Me Al".

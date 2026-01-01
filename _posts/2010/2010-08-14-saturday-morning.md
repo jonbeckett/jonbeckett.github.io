@@ -3,7 +3,7 @@ layout: single
 title: "Saturday Morning"
 date: 2010-08-14
 categories:
-  - 2010
+  - "2010"
 ---
 
 It's Saturday morning, and the rain is falling.Hopes of cooking on the barbecue later have vanished.

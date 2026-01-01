@@ -3,7 +3,7 @@ layout: single
 title: "Blogfriday Breaks Cover"
 date: 2007-09-25
 categories:
-  - 2007
+  - "2007"
 ---
 
 I travelled home on the train tonight with an idea in my head. An idea for a blogging website.

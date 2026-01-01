@@ -3,7 +3,7 @@ layout: single
 title: "1am is an old friend"
 date: 2024-07-25
 categories:
-  - 2024
+  - "2024"
 ---
 
 How is it that I don't write anything for days, and then the urge to write something appears an hour after I should have already been asleep?

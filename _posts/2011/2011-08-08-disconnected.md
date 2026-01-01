@@ -3,7 +3,7 @@ layout: single
 title: "Disconnected"
 date: 2011-08-08
 categories:
-  - 2011
+  - "2011"
 ---
 
 While I'm sat several floors up in a rented house, high in the mountains of Cumbria in the north of England, and have been marching up hill and down dale through sunshine, rain, and biting winds over the last few days, a lot of the vague names I kind-of-know on the internet attended Snark in New York this past weekend.

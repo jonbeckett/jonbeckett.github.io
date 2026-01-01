@@ -3,7 +3,7 @@ layout: single
 title: "The Urge To Tinker"
 date: 2008-07-20
 categories:
-  - 2008
+  - "2008"
 ---
 
 I have been tinkering with the "Beckett Web Design" website here and there over the weekend (check out what happens when you click on the screenshots now), and populating contacts into my HighRise account.

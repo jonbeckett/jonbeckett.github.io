@@ -3,7 +3,7 @@ layout: single
 title: "Organising The Archives"
 date: 2016-04-18
 categories:
-  - 2016
+  - "2016"
 ---
 
 I've decided to start out on a somewhat long, somewhat arduous process, which will be helped in no uncertain terms by the skill-set I bring to it. I'm probably making no sense.

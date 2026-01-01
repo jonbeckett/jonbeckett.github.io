@@ -3,7 +3,7 @@ layout: single
 title: "Tired But Happy"
 date: 2005-04-21
 categories:
-  - 2005
+  - "2005"
 ---
 
 I got up at about ten to seven this morning, and went straight out the door for a run (well - I put some clothes and shoes on first, obviously). I misjudged how cold it was a bit; I just had my normal running shorts and vest on, and was conscious by about halfway of how cold I was feeling - not good.

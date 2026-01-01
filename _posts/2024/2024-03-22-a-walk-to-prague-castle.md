@@ -3,7 +3,7 @@ layout: single
 title: "A Walk to Prague Castle"
 date: 2024-03-22
 categories:
-  - 2024
+  - "2024"
 ---
 
 Yesterday morning we were up and out early for a walk to Prague Castle. Given we are staying in the old town, this meant picking out way through the city streets, crossing a river, and climbing a sizeable hill. The guide book estimated 45 minutes on foot. They must have been basing that on either a one-legged octagenarian, or my eldest daughter (who walks slower than the Witch from the Mr Gumm books).

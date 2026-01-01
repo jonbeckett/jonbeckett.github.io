@@ -3,7 +3,7 @@ layout: single
 title: "Balancing The World On My Shoulders"
 date: 2016-12-08
 categories:
-  - 2016
+  - "2016"
 ---
 
 Tonight marked a milestone of sorts for the project I have been working on for the last several weeks. I finally pulled the curtains back, and started letting users in to wreck everything try everything out. To say I'm burned out would be something of an understatement.

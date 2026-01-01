@@ -3,7 +3,7 @@ layout: single
 title: "Bootstrapping"
 date: 2021-10-27
 categories:
-  - 2021
+  - "2021"
 ---
 
 The first computer science teacher I had was called Mr Nicholls. He died young, as far as I remember - a few years after I left school. My memories of him are starting to fade. He played in a band, had a neatly trimmed ginger beard, and must have had the patience of a saint.

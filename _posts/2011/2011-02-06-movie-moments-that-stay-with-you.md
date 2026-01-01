@@ -3,7 +3,7 @@ layout: single
 title: "Movie Moments That Stay With You"
 date: 2011-02-06
 categories:
-  - 2011
+  - "2011"
 ---
 
 I was just reading a post by Stephie Hell about Karate Kid, and it got me thinking about "movie moments that stay with you". You know - the scenes that change you, or shape you as a person.

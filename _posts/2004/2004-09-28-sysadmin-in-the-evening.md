@@ -3,7 +3,7 @@ layout: single
 title: "Sysadmin In The Evening"
 date: 2004-09-28
 categories:
-  - 2004
+  - "2004"
 ---
 
 This evening I have been performing the necessary evil tasks that most people should probably do when they get a new computer...

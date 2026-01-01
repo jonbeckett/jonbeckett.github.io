@@ -3,7 +3,7 @@ layout: single
 title: "Two More Sleeps"
 date: 2019-12-24
 categories:
-  - 2019
+  - "2019"
 ---
 
 We finally made it to the cinema this afternoon to watch the final Star Wars movie (except of course it's NOT the final Star Wars movie, because the Obiwan movie is in production right now). I'm wondering - beyond the Mandalorian TV show - how Disney will milk the franchise until everybody is sick of it? I mean - it's not like they have turned a huge area of their amusement park into a Star Wars fantasy land for the incredibly wealthy, is it - oh... wait...

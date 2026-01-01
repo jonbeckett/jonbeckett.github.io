@@ -3,7 +3,7 @@ layout: single
 title: "The Online Friendship Dilemma"
 date: 2019-07-20
 categories:
-  - 2019
+  - "2019"
 ---
 
 We empty our heads into the keyboard, or share brief moments in photos and videos, and often come to know each other better than those that surround us in the real world.

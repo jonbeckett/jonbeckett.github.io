@@ -3,7 +3,7 @@ layout: single
 title: "Hello Midnight, Old Friend"
 date: 2025-08-02
 categories:
-  - 2025
+  - "2025"
 ---
 
 I’m sitting in the dark of the junk room - the last person standing in the house as the new day arrives. I’m listening to “Seasons of Love” from the original cast recording of “Rent”. Love this song.

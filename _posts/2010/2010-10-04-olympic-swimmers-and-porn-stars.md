@@ -3,7 +3,7 @@ layout: single
 title: "Olympic Swimmers And Porn Stars"
 date: 2010-10-04
 categories:
-  - 2010
+  - "2010"
 ---
 
 While wandering around the shops today, enjoying a day off work to spend some time with my parents (who live several hundred miles away), I noticed something rather odd. I'm not sure if I noticed it because we have rapidly growing children, or because I was in an oddly more observant mood than normal.

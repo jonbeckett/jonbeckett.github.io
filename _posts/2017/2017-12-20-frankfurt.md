@@ -3,7 +3,7 @@ layout: single
 title: "Frankfurt"
 date: 2017-12-20
 categories:
-  - 2017
+  - "2017"
 ---
 
 In spring this year I was assigned to a project that involved travelling to Frankfurt in Germany to spend several days on a client site doing "proof of concept" work. I had never been to Germany before, didn't speak a word of the language (outside of comedy phrases learned from TV shows), and certainly couldn't read or write any German what-so-ever. I also hadn't been through an airport, or flown on an aircraft in years.

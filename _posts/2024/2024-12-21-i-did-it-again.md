@@ -3,7 +3,7 @@ layout: single
 title: "I did it again"
 date: 2024-12-21
 categories:
-  - 2024
+  - "2024"
 ---
 
 You know the one where you post the right thing to the wrong blog, or the wrong thing to the right blog? I'll pretend that sentence makes some sense to me (it sort of does).

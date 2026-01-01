@@ -3,7 +3,7 @@ layout: single
 title: "Front Page On Newsvine"
 date: 2006-08-05
 categories:
-  - 2006
+  - "2006"
 ---
 
 I don't believe it. I wrote a story on Newsvine and it hit the front page...

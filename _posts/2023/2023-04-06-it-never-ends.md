@@ -3,7 +3,7 @@ layout: single
 title: "it never ends"
 date: 2023-04-06
 categories:
-  - 2023
+  - "2023"
 ---
 
 After a long and somewhat idiotic search over the last several years, I appear to have found a half-decent text editor for writing purposes that doesn't annoy me too much. It's called "Jotterpad". I'll let you look it up yourself, rather than go on endlessly about it. The world has enough mansplaining niche interest evangelists in it already.

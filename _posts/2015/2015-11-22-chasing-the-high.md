@@ -3,7 +3,7 @@ layout: single
 title: "Chasing The High"
 date: 2015-11-22
 categories:
-  - 2015
+  - "2015"
 ---
 
 It's happened twice in my life so farthe high. The first time I still lived with my parents.It all started on the floor of the lounge one eveningI was about eighteen years old. Itended in the early hours of the next morning after staying up all night, slumped in a leather recliner. The second time was during a long distance train journey with workwhile thundering across the country the world around me became impossibly distant and unimportant.

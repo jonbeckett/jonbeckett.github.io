@@ -3,7 +3,7 @@ layout: single
 title: "Marmalade on Toast"
 date: 2023-01-24
 categories:
-  - 2023
+  - "2023"
 ---
 
 I didn't used to eat breakfast. Back when I cycled to work I would scrape myself out of bed each morning, have a shower, wrap up warm, down a hastily made coffee, then fetch the bicycle from the shed.

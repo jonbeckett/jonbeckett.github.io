@@ -3,7 +3,7 @@ layout: single
 title: "Fighting Mediocrity"
 date: 2016-04-08
 categories:
-  - 2016
+  - "2016"
 ---
 
 For the last several weeks and months this blog has been a shadow of it's former self. I used to write at length about nothing in particularI used to be good at it. Of course it might be that people didn't read the huge swathes of mundane clap-trap that I routinely wrote, but it somehow feels that I've lost my way.

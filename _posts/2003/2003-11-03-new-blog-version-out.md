@@ -3,7 +3,7 @@ layout: single
 title: "New Blog Version Out"
 date: 2003-11-03
 categories:
-  - 2003
+  - "2003"
 ---
 
 I have finally released the first beta of the re-written Blog script 

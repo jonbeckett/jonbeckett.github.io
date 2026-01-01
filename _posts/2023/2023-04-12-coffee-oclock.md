@@ -3,7 +3,7 @@ layout: single
 title: "coffee oclock"
 date: 2023-04-12
 categories:
-  - 2023
+  - "2023"
 ---
 
 While busy minding my own business yesterday evening, an email arrived in my in-box notifying me that "Substack Notes" had been unleashed on the world. I had read about it a couple of days previously - apparently Elon Musk had something of a hissy fit - making noises about banning any mention of it from Twitter (you know, in the same way he had a hissy fit about Mastodon a couple of months ago).

@@ -3,7 +3,7 @@ layout: single
 title: "Headaches Rain And Programming"
 date: 2013-11-06
 categories:
-  - 2013
+  - "2013"
 ---
 
 I've been working flat out on a programming project at work all morning (I'll spare you the details), and now find myself wondering where the morning went. Programming feels like jumping down the rabbit hole sometimes.

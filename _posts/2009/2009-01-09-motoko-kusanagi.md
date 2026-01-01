@@ -3,7 +3,7 @@ layout: single
 title: "Motoko Kusanagi"
 date: 2009-01-09
 categories:
-  - 2009
+  - "2009"
 ---
 
 While waiting on the phone the other day, I found myself looking at the drawing of Motoko Kusanagi (character from Ghost in the Shell) that I drew last week - and it started bugging me that it didn't look like her.

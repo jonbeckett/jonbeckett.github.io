@@ -3,7 +3,7 @@ layout: single
 title: "Not All Friendships Are Equal"
 date: 2016-03-26
 categories:
-  - 2016
+  - "2016"
 ---
 
 I wrote some time agothat writing a public blog on the internet feels a lot like sitting in the middle of the street, with your life scattered around for passers by to rummage through as they might at a garage sale.

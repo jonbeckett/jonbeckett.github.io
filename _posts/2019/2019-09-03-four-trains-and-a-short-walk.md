@@ -3,7 +3,7 @@ layout: single
 title: "Four Trains And A Short Walk"
 date: 2019-09-03
 categories:
-  - 2019
+  - "2019"
 ---
 
 After a dash home from work late this morning, and a madcap run around the house clearing up, tidying up, washing up, and fighting the on-going battle against the fleas (they are losing heavily), I grabbed my bags and set off for the railway station.

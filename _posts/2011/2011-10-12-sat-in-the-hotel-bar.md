@@ -3,7 +3,7 @@ layout: single
 title: "Sat In The Hotel Bar"
 date: 2011-10-12
 categories:
-  - 2011
+  - "2011"
 ---
 
 This evening I'm sat in the foyer of the hotel with a glass of cider, killing time until my colleague appears a little later for a meal in the restaurant.

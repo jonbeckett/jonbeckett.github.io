@@ -3,7 +3,7 @@ layout: single
 title: "Cleared For Departure"
 date: 2022-02-02
 categories:
-  - 2022
+  - "2022"
 ---
 
 Somehow there is only an hour of the working day left, and I find myself in the curious position of not having stopped at all yet. You might think - working from home - that I would be afforded all the opportunities in the world to procrastinate, but no. I'm not that clever.

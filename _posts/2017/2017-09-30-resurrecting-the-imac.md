@@ -3,7 +3,7 @@ layout: single
 title: "Resurrecting The Imac"
 date: 2017-09-30
 categories:
-  - 2017
+  - "2017"
 ---
 
 While my other half was standing at the side of a rugby pitch in the middle of nowhere this afternoon I took it upon myself to tidy up the junk room at home.

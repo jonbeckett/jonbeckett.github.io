@@ -3,7 +3,7 @@ layout: single
 title: "Coming Home Early"
 date: 2017-11-26
 categories:
-  - 2017
+  - "2017"
 ---
 
 I came home from work early today. It turns out spending the whole of Saturday with somebody fighting a terrible cold pretty successfully transfers the germs to you. Who knew? I was fine until lunchtime, then throughout the afternoon it has felt like somebody pulled my power cable out.

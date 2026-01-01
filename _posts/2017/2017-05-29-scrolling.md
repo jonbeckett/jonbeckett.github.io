@@ -3,7 +3,7 @@ layout: single
 title: "Scrolling"
 date: 2017-05-29
 categories:
-  - 2017
+  - "2017"
 ---
 
 I have just spent the last twenty minutes scrolling through other people's lives on Tumblr - watching their thoughts, dreams, nightmares, hopes, wishes, memories and worries stutter past. I lit the heart icon on some, and commented on others.

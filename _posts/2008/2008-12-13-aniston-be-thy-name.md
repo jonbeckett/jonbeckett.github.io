@@ -3,7 +3,7 @@ layout: single
 title: "Aniston Be Thy Name"
 date: 2008-12-13
 categories:
-  - 2008
+  - "2008"
 ---
 
 I know, I know... this post lowers the bar from the usual posts about programming, life, stress, gadgets and so on - but just look at her.

@@ -3,7 +3,7 @@ layout: single
 title: "Final Night In Frankfurt"
 date: 2017-10-18
 categories:
-  - 2017
+  - "2017"
 ---
 
 I fly home tomorrow morning.

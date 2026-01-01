@@ -3,7 +3,7 @@ layout: single
 title: "The One Where We Bought Three Laptops"
 date: 2014-12-15
 categories:
-  - 2014
+  - "2014"
 ---
 
 We have been agonising over the decision to buy our children laptops for Christmas for the last week. We talked about it over the weekend, and pretty much decided "what the hell". My mind was made up for me on Saturday morning while walking back from town with our eldest."What do you want for Christmas?""You keep asking that. I have NO idea.""There must be something you would like?""Ok. My own computer."I laughed."Just joking. I know they cost too much."I smiled as we walked along a little further, and changed the subject. I told my other half about our exchange later in the day and we both kind of resigned ourselves to it. While we appreciate that the kids will get a LOT of use from the computers, they seem like a very insular thing to have. When they share the desktop computers at home (we have two), or the iPad, they either work together, or figure out who's turn it isand there is value in doing that. There is also value in not having everything. Only our eldest (14 years old now) has an iPod, but we wouldn't spend the money on an iPhone for her. Maybe if she can look after a half-decent phone for a couple of years, we might consider it for her 16th birthday, but not before.

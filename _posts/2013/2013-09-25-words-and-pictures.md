@@ -3,7 +3,7 @@ layout: single
 title: "Words And Pictures"
 date: 2013-09-25
 categories:
-  - 2013
+  - "2013"
 ---
 
 I've been wondering how much benefit photographs really bring to a "journal" style blog. Are they really necessary?At Tumblr you almosthave to post photos to attract any kind of attention to your posts at all (which I think is kind of sadboth wanting to attract attention, and being attracted by photos in the first placebut that's another subject for another day).

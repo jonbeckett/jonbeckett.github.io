@@ -3,7 +3,7 @@ layout: single
 title: "Contents Of The Bag Of Holding"
 date: 2011-08-14
 categories:
-  - 2011
+  - "2011"
 ---
 
 I have this green bag that accompanies me most places (apparently it's a Rothco bag, the same as that used by Jack Bauer, but having never seen an episode of 24, I have no idea).

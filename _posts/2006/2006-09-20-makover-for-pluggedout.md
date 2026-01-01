@@ -3,7 +3,7 @@ layout: single
 title: "Makover For Pluggedout"
 date: 2006-09-20
 categories:
-  - 2006
+  - "2006"
 ---
 
 I have spent most of this evening working on a makeover for the PluggedOut website. The general idea has been to make it more simple to navigate (everything within a click), and simple to look at.

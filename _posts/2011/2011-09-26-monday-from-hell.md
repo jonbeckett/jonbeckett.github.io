@@ -3,7 +3,7 @@ layout: single
 title: "Monday From Hell"
 date: 2011-09-26
 categories:
-  - 2011
+  - "2011"
 ---
 
 I don't make a habit of writing about my day job in the blog for pretty obvious professional and ethical reasons, although I have been seriously tempted on occasion. While it would be so easy to set off on entertaining rants about technology, clients, and co-workers, it would also become a smoking gun.

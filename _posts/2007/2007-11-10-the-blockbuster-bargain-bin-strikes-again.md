@@ -3,7 +3,7 @@ layout: single
 title: "The Blockbuster Bargain Bin Strikes Again"
 date: 2007-11-10
 categories:
-  - 2007
+  - "2007"
 ---
 
 While struggling into town with a bad cold to buy medicine, tissues, and food earlier I stopped at Blockbuster to raid their bargain bin for second hand video games. Something to help us through the weekend while feeling like crap.

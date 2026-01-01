@@ -3,7 +3,7 @@ layout: single
 title: "A Few Words"
 date: 2022-05-22
 categories:
-  - 2022
+  - "2022"
 ---
 
 It's been a few days since I last polluted the internet with any thoughts. I think the biggest surprise to me is that I haven't really missed writing. I thought I would.

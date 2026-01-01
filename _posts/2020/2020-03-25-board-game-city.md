@@ -3,7 +3,7 @@ layout: single
 title: "Board Game City"
 date: 2020-03-25
 categories:
-  - 2020
+  - "2020"
 ---
 
 A remarkably quiet day in the Beckett household. I was joined in the junk room by my other half, while the children sat at the dining table and got on with school work via the internet.

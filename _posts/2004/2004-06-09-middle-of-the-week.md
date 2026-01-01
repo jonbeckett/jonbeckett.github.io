@@ -3,7 +3,7 @@ layout: single
 title: "Middle Of The Week"
 date: 2004-06-09
 categories:
-  - 2004
+  - "2004"
 ---
 
 For some reason I find myself writing this in an old copy of Microsoft Works on my old steam powered laptop. Some people probably think that because I am a software developer in the daytime, I have some kind of amazing computer system at home... well that's sort of true - we have have a very clever setup of old hardware.

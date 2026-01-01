@@ -3,7 +3,7 @@ layout: single
 title: "Stepping Back From The Edge"
 date: 2005-07-05
 categories:
-  - 2005
+  - "2005"
 ---
 
 After giving it a couple of hours thought, I have decided that if a site like ThoughtCafe does happen again, I am not going to be directly involved in it.

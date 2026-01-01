@@ -3,7 +3,7 @@ layout: single
 title: "Monday Monday Na Naaa Na Na Na Na"
 date: 2021-12-13
 categories:
-  - 2021
+  - "2021"
 ---
 
 It's Monday, and that's all I have to say about that. The morning has been filled with meetings and administration work ahead of the start of a new project. It's exciting in a way, but also draining.

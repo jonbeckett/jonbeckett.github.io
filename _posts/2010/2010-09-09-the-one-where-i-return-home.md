@@ -3,7 +3,7 @@ layout: single
 title: "The One Where I Return Home"
 date: 2010-09-09
 categories:
-  - 2010
+  - "2010"
 ---
 
 For the last month I have been either holed up in hotels, on client sites, or travelling across the country on a variety of trains. At some point during the hostilities, I took it upon myself to begin recording the various things I saw along the way... enjoy!

@@ -3,7 +3,7 @@ layout: single
 title: "Photo Journey From Work To Home"
 date: 2008-05-08
 categories:
-  - 2008
+  - "2008"
 ---
 
 For the benefit of those who live in various other places around the world, I thought it might be fun to do a photo journey from the office to home, using my mobile phone to snap photos along the way.

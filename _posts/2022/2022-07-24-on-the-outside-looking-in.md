@@ -3,7 +3,7 @@ layout: single
 title: "On The Outside Looking In"
 date: 2022-07-24
 categories:
-  - 2022
+  - "2022"
 ---
 
 As I grow older a realisation of sorts has happened - that the world will continue on with or without me, and that my participation in it is largely inconsequential. I think perhaps as you get older you begin to appreciate that it's not all about you.

@@ -3,7 +3,7 @@ layout: single
 title: "Nuremberg"
 date: 2025-11-12
 categories:
-  - 2025
+  - "2025"
 ---
 
 We went to the cinema this evening, and watched an advance screening of "Nuremberg", starring Russell Crowe, Rami Malek, and Michael Shannon.

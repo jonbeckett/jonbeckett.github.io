@@ -3,7 +3,7 @@ layout: single
 title: "Escaping For A Walk"
 date: 2022-02-10
 categories:
-  - 2022
+  - "2022"
 ---
 
 Being away from my family is strange. You would think I would sleep more heavily in a room on my own, but the opposite has been true this week - usually up before the sun, making breakfast and coffee for my parents.

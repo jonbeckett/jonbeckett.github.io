@@ -3,7 +3,7 @@ layout: single
 title: "A New Chapter For Tumblr And Wordpress"
 date: 2019-08-14
 categories:
-  - 2019
+  - "2019"
 ---
 
 While cycling to work I typically listen to podcasts. You might think this a rather dangerous thing to do while cycling, but the reality that most non-cyclists don't seem to understand is that you can't hear a damn thing on a bike anyway. If you're traveling any faster than about ten miles an hour, the wind noise is deafening. This is why you don't typically see cyclists traveling two abreast - there's no point - they wouldn't be able to hear each other unless they shouted.

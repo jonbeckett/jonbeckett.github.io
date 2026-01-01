@@ -3,7 +3,7 @@ layout: single
 title: "A Day On The Beach"
 date: 2022-08-21
 categories:
-  - 2022
+  - "2022"
 ---
 
 After a slow day rattling around my parents house, we escaped to the beach yesterday. A day of sun, sea, sand, and ice creams. We guessed that Saturday may be "change-over" day for many families visiting the coast, so might be the best day to visit the beach - and suspect we were proven right. Not only did we find a parking space in a nearby car-park - we also found space on the beach without difficulty to set-up camp for the day.

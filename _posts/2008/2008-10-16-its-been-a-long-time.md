@@ -3,7 +3,7 @@ layout: single
 title: "Its Been A Long Time"
 date: 2008-10-16
 categories:
-  - 2008
+  - "2008"
 ---
 
 A few weeks ago a face popped up on Facebook's "people you might know" panel. Somebody I had not seen for at least 20 years, and that my main memory of is probably of sitting next to at the side of the infant playground in - ooh - perhaps 1978 ?

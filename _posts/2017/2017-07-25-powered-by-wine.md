@@ -3,7 +3,7 @@ layout: single
 title: "Powered By Wine"
 date: 2017-07-25
 categories:
-  - 2017
+  - "2017"
 ---
 
 It's heading towards 10pm, and I have acheived very little this evening other than eat a curry, an entire family bag of peanut M&Ms, and drink half a bottle of cheap white wine. I stopped at the supermarket on my way home from work this evening. I didn't plan on buying wine, but my eyes were drawn to a bottle that was on offer as I passed it en-route to the ready meals.

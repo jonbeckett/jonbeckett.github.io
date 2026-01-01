@@ -3,7 +3,7 @@ layout: single
 title: "The Last Of Three Brothers"
 date: 2020-06-15
 categories:
-  - 2020
+  - "2020"
 ---
 
 Our enormous ginger tom cat "George" is back in hospital tonight. After a major operation last week to save his life, complications arose over the weekend. We did the math, and it came down to saving his life for a second time and wiping our savings out, or having a difficult conversation with the children.
