@@ -4,9 +4,9 @@ title: Blog Archive
 permalink: /archive/
 ---
 
-This archive contains blog posts spanning from 2003 to 2025.
+Welcome to the archive of everything I've written (and managed not to lose) since 2003. The blog actually existed since at least 2001 - one day I'll go on a trawling expedition through old ZIP disks (yes, I kept my old ZIP drive) to see if I can find any of it.
 
-## Browse by Year
+Click on a year:
 
 {% for year in (2003..2025) reversed %}
 - [{{ year }}](/categories/{{ year }}/)
