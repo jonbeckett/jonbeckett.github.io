@@ -4,7 +4,13 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-Stay updated with the latest posts by subscribing to email notifications. You'll receive new posts directly in your inbox.
+I use **follow.it** to send email updates to subscribers, because it provides more than just a standard newsletter. While ensuring you never miss a post, it gives you total control over your inbox.
+
+When you subscribe, you’ll be able to:
+
+* **Choose your frequency** - get an email the moment a post goes live, or bundle them into a single daily digest.
+* **Filter your feed** -  if you’re only interested in specific categories, you can set filters so you only receive what matters to you.
+* **Pick your platform** - while you're signing up for email now, **follow.it** also allows you to move your subscription to RSS, Telegram, or other news readers later if you prefer.
 
 <style>
 .email-subscribe-form {
