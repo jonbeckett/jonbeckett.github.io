@@ -87,6 +87,12 @@ author:
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://bit.ly/jonbeckettwhatsapp"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/jonbeckett"
 # Site Footer
 footer:
   links:
@@ -108,6 +114,12 @@ footer:
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://bit.ly/jonbeckettwhatsapp"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/jonbeckett"
 
 # Reading Files
 include:
