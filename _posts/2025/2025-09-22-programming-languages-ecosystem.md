@@ -44,13 +44,13 @@ In the beginning, programmers worked directly with machine code—numeric instru
 
 Assembly language established several important concepts that persist today:
 
-**Direct Memory Management**: Programmers had complete control over memory allocation and deallocation, leading to both tremendous power and the potential for catastrophic errors.
+- **Direct Memory Management**: Programmers had complete control over memory allocation and deallocation, leading to both tremendous power and the potential for catastrophic errors.
 
-**Explicit Control Flow**: Every jump, loop, and function call required explicit management, making program logic crystal clear but verbose.
+- **Explicit Control Flow**: Every jump, loop, and function call required explicit management, making program logic crystal clear but verbose.
 
-**Hardware Awareness**: Programs were written with intimate knowledge of the target processor's capabilities and limitations.
+- **Hardware Awareness**: Programs were written with intimate knowledge of the target processor's capabilities and limitations.
 
-**Performance Predictability**: The relationship between code and execution was direct and predictable, enabling highly optimized programs.
+- **Performance Predictability**: The relationship between code and execution was direct and predictable, enabling highly optimized programs.
 
 These characteristics still influence modern systems programming languages like C, Rust, and Zig, which aim to provide higher-level abstractions while maintaining the performance and predictability of assembly.
 
@@ -60,13 +60,13 @@ The development of FORTRAN (1957) and COBOL (1959) marked the beginning of high-
 
 These early languages introduced crucial concepts:
 
-**Abstraction**: Programs could be written in terms of mathematical formulas or business logic rather than machine operations.
+- **Abstraction**: Programs could be written in terms of mathematical formulas or business logic rather than machine operations.
 
-**Portability**: Code could theoretically run on different machines with appropriate compilers.
+- **Portability**: Code could theoretically run on different machines with appropriate compilers.
 
-**Increased Productivity**: Programmers could express complex logic more concisely and clearly.
+- **Increased Productivity**: Programmers could express complex logic more concisely and clearly.
 
-**Domain Specificity**: Languages could be designed for specific problem domains rather than general machine control.
+- **Domain Specificity**: Languages could be designed for specific problem domains rather than general machine control.
 
 The development of ALGOL (1958) and later C (1972) refined these concepts, introducing the structured programming paradigm that emphasized clear control flow, modularity, and systematic program organization. C, in particular, became enormously influential by combining high-level expressiveness with low-level control, creating a template that influenced countless subsequent languages.
 
@@ -78,25 +78,25 @@ C++ (1985) brought object-oriented programming to the mainstream by extending C 
 
 The object-oriented paradigm contributed several lasting concepts:
 
-**Encapsulation**: Bundling data and methods together while controlling access to internal implementation details.
+- **Encapsulation**: Bundling data and methods together while controlling access to internal implementation details.
 
-**Inheritance**: Creating new classes based on existing ones, enabling code reuse and hierarchical relationships.
+- **Inheritance**: Creating new classes based on existing ones, enabling code reuse and hierarchical relationships.
 
-**Polymorphism**: Allowing objects of different types to be used interchangeably through common interfaces.
+- **Polymorphism**: Allowing objects of different types to be used interchangeably through common interfaces.
 
-**Modularity**: Organizing programs into discrete, interacting components that could be developed and tested independently.
+- **Modularity**: Organizing programs into discrete, interacting components that could be developed and tested independently.
 
 ### The Functional Influence: Mathematical Foundations
 
 While object-oriented programming was gaining mainstream adoption, functional programming languages like LISP (1958), ML (1973), and Haskell (1990) were exploring different approaches based on mathematical concepts from lambda calculus. These languages emphasized:
 
-**Immutability**: Data structures that don't change after creation, eliminating entire classes of bugs related to unexpected state changes.
+- **Immutability**: Data structures that don't change after creation, eliminating entire classes of bugs related to unexpected state changes.
 
-**First-Class Functions**: Functions as values that can be passed as arguments, returned from other functions, and stored in data structures.
+- **First-Class Functions**: Functions as values that can be passed as arguments, returned from other functions, and stored in data structures.
 
-**Declarative Style**: Expressing what should be computed rather than how it should be computed.
+- **Declarative Style**: Expressing what should be computed rather than how it should be computed.
 
-**Mathematical Rigor**: Strong type systems and formal semantics that enable powerful static analysis and optimization.
+- **Mathematical Rigor**: Strong type systems and formal semantics that enable powerful static analysis and optimization.
 
 Initially confined to academic and research settings, functional programming concepts began infiltrating mainstream languages in the 1990s and 2000s. Languages like JavaScript, Python, and even Java began incorporating functional features, while newer languages like Scala, F#, and Clojure brought functional programming to enterprise development.
 
@@ -110,11 +110,11 @@ Programming languages can be understood through multiple classification systems,
 
 Imperative languages express computation as sequences of statements that change program state. This paradigm maps naturally to how processors execute instructions, making it intuitive for many programmers and efficient for many types of problems.
 
-**Procedural Languages**: C, Pascal, FORTRAN organize imperative code into procedures or functions that operate on shared data.
+- **Procedural Languages**: C, Pascal, FORTRAN organize imperative code into procedures or functions that operate on shared data.
 
-**Object-Oriented Languages**: Java, C#, C++ extend imperative programming with objects that encapsulate state and behavior.
+- **Object-Oriented Languages**: Java, C#, C++ extend imperative programming with objects that encapsulate state and behavior.
 
-**Multi-Paradigm Languages**: Python, JavaScript, Swift support multiple programming styles within a single language.
+- **Multi-Paradigm Languages**: Python, JavaScript, Swift support multiple programming styles within a single language.
 
 Imperative languages excel at:
 - System programming where direct control over resources is important
@@ -126,11 +126,11 @@ Imperative languages excel at:
 
 Declarative languages express what should be computed rather than how to compute it, allowing the language implementation to determine execution strategies.
 
-**Functional Languages**: Haskell, Clojure, F# treat computation as the evaluation of mathematical functions.
+- **Functional Languages**: Haskell, Clojure, F# treat computation as the evaluation of mathematical functions.
 
-**Logic Languages**: Prolog expresses problems as sets of logical rules and facts.
+- **Logic Languages**: Prolog expresses problems as sets of logical rules and facts.
 
-**Domain-Specific Languages**: SQL for database queries, CSS for styling, HTML for document structure.
+- **Domain-Specific Languages**: SQL for database queries, CSS for styling, HTML for document structure.
 
 Declarative languages excel at:
 - Complex data transformations and analysis
@@ -142,13 +142,13 @@ Declarative languages excel at:
 
 Most modern languages combine elements from multiple paradigms, recognizing that different programming styles are optimal for different types of problems.
 
-**Scala**: Seamlessly combines object-oriented and functional programming on the JVM.
+- **Scala**: Seamlessly combines object-oriented and functional programming on the JVM.
 
-**Swift**: Integrates procedural, object-oriented, and functional features with strong type safety.
+- **Swift**: Integrates procedural, object-oriented, and functional features with strong type safety.
 
-**Rust**: Combines systems programming capabilities with functional programming features and modern safety guarantees.
+- **Rust**: Combines systems programming capabilities with functional programming features and modern safety guarantees.
 
-**JavaScript**: Supports procedural, object-oriented, and functional styles with flexible syntax.
+- **JavaScript**: Supports procedural, object-oriented, and functional styles with flexible syntax.
 
 ### Type System Classifications
 
@@ -158,19 +158,33 @@ A language's type system fundamentally shapes how programs are written and what 
 
 **Static Typing**: Types are checked at compile time, preventing type-related errors from occurring during execution.
 
-*Advantages*: Early error detection, better performance through optimization, improved tooling support, self-documenting code.
+*Advantages*:
+- Early error detection
+- Better performance through optimization
+- Improved tooling support
+- Self-documenting code
 
 *Examples*: Java, C#, Rust, Haskell, TypeScript
 
-*Trade-offs*: More verbose code, longer development cycles for exploratory programming, complexity in handling polymorphism.
+*Trade-offs*:
+- More verbose code
+- Longer development cycles for exploratory programming
+- Complexity in handling polymorphism
 
 **Dynamic Typing**: Types are checked during program execution, providing flexibility at the cost of runtime error possibilities.
 
-*Advantages*: Faster development cycles, more flexible and expressive code, easier metaprogramming, simpler polymorphism.
+*Advantages*:
+- Faster development cycles
+- More flexible and expressive code
+- Easier metaprogramming
+- Simpler polymorphism
 
 *Examples*: Python, JavaScript, Ruby, PHP
 
-*Trade-offs*: Runtime errors for type mismatches, performance overhead from runtime type checking, less tooling support.
+*Trade-offs*:
+- Runtime errors for type mismatches
+- Performance overhead from runtime type checking
+- Less tooling support
 
 #### Strong vs. Weak Typing
 
@@ -178,25 +192,33 @@ A language's type system fundamentally shapes how programs are written and what 
 
 *Examples*: Python, Haskell, Java
 
-*Benefits*: Fewer surprising behaviors, clearer error messages, more predictable program behavior.
+*Benefits*:
+- Fewer surprising behaviors
+- Clearer error messages
+- More predictable program behavior
 
 **Weak Typing**: The language performs implicit type conversions, sometimes with surprising results.
 
 *Examples*: JavaScript, C, PHP
 
-*Benefits*: More flexible code, fewer explicit conversions required, easier integration between different data types.
+*Benefits*:
+- More flexible code
+- Fewer explicit conversions required
+- Easier integration between different data types
 
-*Challenges*: Unexpected behaviors from implicit conversions, harder to debug type-related issues.
+*Challenges*:
+- Unexpected behaviors from implicit conversions
+- Harder to debug type-related issues
 
 #### Gradual and Optional Typing
 
 Modern language design increasingly recognizes that both static and dynamic typing have benefits, leading to hybrid approaches:
 
-**TypeScript**: Adds optional static typing to JavaScript, allowing gradual adoption in existing codebases.
+- **TypeScript**: Adds optional static typing to JavaScript, allowing gradual adoption in existing codebases.
 
-**Python with type hints**: Supports optional static type annotations that can be checked by tools like mypy.
+- **Python with type hints**: Supports optional static type annotations that can be checked by tools like mypy.
 
-**Flow**: Facebook's static type checker for JavaScript that adds type annotations.
+- **Flow**: Facebook's static type checker for JavaScript that adds type annotations.
 
 ### Memory Management Models
 
@@ -204,33 +226,33 @@ How languages handle memory allocation and deallocation significantly impacts th
 
 #### Manual Memory Management
 
-**Languages**: C, C++, Rust (with ownership system)
+- **Languages**: C, C++, Rust (with ownership system)
 
-**Characteristics**: Programmers explicitly allocate and deallocate memory, providing maximum control and performance.
+- **Characteristics**: Programmers explicitly allocate and deallocate memory, providing maximum control and performance.
 
-**Benefits**: Predictable performance, minimal runtime overhead, precise resource control.
+- **Benefits**: Predictable performance, minimal runtime overhead, precise resource control.
 
-**Challenges**: Memory leaks, double-free errors, use-after-free bugs, increased development complexity.
+- **Challenges**: Memory leaks, double-free errors, use-after-free bugs, increased development complexity.
 
 #### Garbage Collection
 
-**Languages**: Java, C#, Python, JavaScript, Go
+- **Languages**: Java, C#, Python, JavaScript, Go
 
-**Characteristics**: Runtime automatically manages memory, freeing programmers from explicit memory management.
+- **Characteristics**: Runtime automatically manages memory, freeing programmers from explicit memory management.
 
-**Benefits**: Eliminates memory management bugs, faster development, safer programming.
+- **Benefits**: Eliminates memory management bugs, faster development, safer programming.
 
-**Challenges**: Unpredictable pause times, memory overhead, reduced performance in some scenarios.
+- **Challenges**: Unpredictable pause times, memory overhead, reduced performance in some scenarios.
 
 #### Ownership and Borrowing
 
-**Languages**: Rust
+- **Languages**: Rust
 
-**Characteristics**: Compile-time system that ensures memory safety without garbage collection.
+- **Characteristics**: Compile-time system that ensures memory safety without garbage collection.
 
-**Benefits**: Memory safety without runtime overhead, prevents data races in concurrent code.
+- **Benefits**: Memory safety without runtime overhead, prevents data races in concurrent code.
 
-**Challenges**: Learning curve, restrictions on certain programming patterns, compile-time complexity.
+- **Challenges**: Learning curve, restrictions on certain programming patterns, compile-time complexity.
 
 ## The Modern Language Landscape: Major Players
 
@@ -244,59 +266,52 @@ JavaScript's journey from a simple browser scripting language to a universal pro
 
 JavaScript's initial success came from being the only programming language that could add interactivity to web pages. Despite early limitations and design quirks, the language's ubiquity in browsers created an enormous user base and drove continuous improvement.
 
-**DOM Manipulation**: JavaScript's primary early use case was manipulating web page elements, leading to rich, interactive user interfaces.
+- **DOM Manipulation**: JavaScript's primary early use case was manipulating web page elements, leading to rich, interactive user interfaces.
 
-**Event-Driven Programming**: The browser's event model shaped JavaScript's asynchronous programming patterns.
+- **Event-Driven Programming**: The browser's event model shaped JavaScript's asynchronous programming patterns.
 
-**Cross-Platform Compatibility**: Running in every browser created pressure for standardization and compatibility.
+- **Cross-Platform Compatibility**: Running in every browser created pressure for standardization and compatibility.
 
 #### The Node.js Revolution
 
 Ryan Dahl's Node.js (2009) fundamentally changed JavaScript's trajectory by bringing it to server-side development. Node.js demonstrated that JavaScript's event-driven, non-blocking I/O model could create highly performant server applications.
 
-**Unified Development Stack**: Developers could use the same language for both frontend and backend development.
+- **Unified Development Stack**: Developers could use the same language for both frontend and backend development.
 
-**NPM Ecosystem**: Node's package manager became the largest repository of reusable code in any programming language.
+- **NPM Ecosystem**: Node's package manager became the largest repository of reusable code in any programming language.
 
-**Microservices Architecture**: Node.js's lightweight nature made it ideal for microservices and containerized deployments.
+- **Microservices Architecture**: Node.js's lightweight nature made it ideal for microservices and containerized deployments.
 
 #### Modern JavaScript Evolution
 
 ECMAScript 2015 (ES6) and subsequent versions transformed JavaScript from a quirky scripting language into a modern, full-featured programming language:
 
-**Arrow Functions**: More concise function syntax that preserves lexical `this` binding.
+- **Arrow Functions**: More concise function syntax that preserves lexical `this` binding.
 
-**Promises and Async/Await**: Elegant solutions to callback hell and asynchronous programming challenges.
+- **Promises and Async/Await**: Elegant solutions to callback hell and asynchronous programming challenges.
 
-**Modules**: Native module system eliminating the need for external module loaders.
+- **Modules**: Native module system eliminating the need for external module loaders.
 
-**Classes**: Object-oriented syntax familiar to developers from other languages.
+- **Classes**: Object-oriented syntax familiar to developers from other languages.
 
-**Template Literals**: String interpolation and multi-line strings.
+- **Template Literals**: String interpolation and multi-line strings.
 
-**Destructuring**: Elegant syntax for extracting values from objects and arrays.
+- **Destructuring**: Elegant syntax for extracting values from objects and arrays.
 
 #### JavaScript's Strengths and Applications
 
-**Web Development**: Remains the only option for client-side web programming, with frameworks like React, Vue, and Angular providing sophisticated development platforms.
-
-**Full-Stack Development**: Node.js enables complete applications written in JavaScript, from database access to user interfaces.
-
-**Rapid Prototyping**: Dynamic typing and flexible syntax enable quick experimentation and iteration.
-
-**Large Community**: Enormous developer community provides extensive resources, libraries, and support.
-
-**Ecosystem Diversity**: From simple websites to complex enterprise applications, machine learning (TensorFlow.js), and mobile apps (React Native).
+- **Web Development**: Remains the only option for client-side web programming, with frameworks like React, Vue, and Angular providing sophisticated development platforms.
+- **Full-Stack Development**: Node.js enables complete applications written in JavaScript, from database access to user interfaces.
+- **Rapid Prototyping**: Dynamic typing and flexible syntax enable quick experimentation and iteration.
+- **Large Community**: Enormous developer community provides extensive resources, libraries, and support.
+- **Ecosystem Diversity**: From simple websites to complex enterprise applications, machine learning (TensorFlow.js), and mobile apps (React Native).
 
 #### JavaScript's Challenges
 
-**Type Safety**: Dynamic typing can lead to runtime errors that would be caught at compile time in statically typed languages.
-
-**Performance**: While significantly improved, JavaScript still lags behind compiled languages for CPU-intensive tasks.
-
-**Complexity**: The language's flexibility can lead to inconsistent code styles and maintainability challenges in large applications.
-
-**Browser Compatibility**: Despite standards, subtle differences between JavaScript engines can create compatibility issues.
+- **Type Safety**: Dynamic typing can lead to runtime errors that would be caught at compile time in statically typed languages.
+- **Performance**: While significantly improved, JavaScript still lags behind compiled languages for CPU-intensive tasks.
+- **Complexity**: The language's flexibility can lead to inconsistent code styles and maintainability challenges in large applications.
+- **Browser Compatibility**: Despite standards, subtle differences between JavaScript engines can create compatibility issues.
 
 ### Python: The Language of Simplicity and Power
 
@@ -306,57 +321,51 @@ Python's philosophy of readable, simple code has made it one of the most popular
 
 Python's design principles, codified in "The Zen of Python," emphasize clarity and simplicity:
 
-**Readability Counts**: Python code should be easy to read and understand, even for developers unfamiliar with the specific codebase.
+- **Readability Counts**: Python code should be easy to read and understand, even for developers unfamiliar with the specific codebase.
 
-**Explicit is Better Than Implicit**: Code should be clear about its intentions rather than relying on hidden behaviors or conventions.
+- **Explicit is Better Than Implicit**: Code should be clear about its intentions rather than relying on hidden behaviors or conventions.
 
-**Simple is Better Than Complex**: Prefer simple solutions over complex ones, but recognize when complexity is necessary.
+- **Simple is Better Than Complex**: Prefer simple solutions over complex ones, but recognize when complexity is necessary.
 
-**There Should Be One Obvious Way to Do It**: Unlike languages that provide multiple ways to accomplish the same task, Python generally favors having one clear, idiomatic approach.
+- **There Should Be One Obvious Way to Do It**: Unlike languages that provide multiple ways to accomplish the same task, Python generally favors having one clear, idiomatic approach.
 
 #### Python's Diverse Applications
 
-**Data Science and Machine Learning**: Libraries like NumPy, Pandas, Scikit-learn, and TensorFlow have made Python the dominant language for data analysis and machine learning.
+- **Data Science and Machine Learning**: Libraries like NumPy, Pandas, Scikit-learn, and TensorFlow have made Python the dominant language for data analysis and machine learning.
 
-**Web Development**: Frameworks like Django and Flask provide robust platforms for web application development.
+- **Web Development**: Frameworks like Django and Flask provide robust platforms for web application development.
 
-**Scientific Computing**: Python's readability and extensive libraries make it popular in research and scientific applications.
+- **Scientific Computing**: Python's readability and extensive libraries make it popular in research and scientific applications.
 
-**Automation and Scripting**: Python's simple syntax and standard library make it ideal for automation tasks and system administration.
+- **Automation and Scripting**: Python's simple syntax and standard library make it ideal for automation tasks and system administration.
 
-**Education**: Python's readable syntax makes it an excellent first programming language.
+- **Education**: Python's readable syntax makes it an excellent first programming language.
 
 #### The Ecosystem Advantage
 
 Python's success stems not just from language design, but from its rich ecosystem:
 
-**PyPI (Python Package Index)**: Central repository with hundreds of thousands of packages for virtually every domain.
+- **PyPI (Python Package Index)**: Central repository with hundreds of thousands of packages for virtually every domain.
 
-**Jupyter Notebooks**: Interactive development environment that's become essential for data science and research.
+- **Jupyter Notebooks**: Interactive development environment that's become essential for data science and research.
 
-**Community**: Welcoming community with extensive documentation, tutorials, and support resources.
+- **Community**: Welcoming community with extensive documentation, tutorials, and support resources.
 
-**Cross-Platform**: Runs on virtually every platform and architecture.
+- **Cross-Platform**: Runs on virtually every platform and architecture.
 
 #### Python's Strengths
 
-**Rapid Development**: High-level abstractions and extensive libraries enable quick development cycles.
-
-**Versatility**: Single language can handle web development, data analysis, machine learning, system administration, and more.
-
-**Integration**: Excellent interoperability with other languages and systems through various binding mechanisms.
-
-**Mature Ecosystem**: Decades of development have produced stable, well-tested libraries for most common tasks.
+- **Rapid Development**: High-level abstractions and extensive libraries enable quick development cycles.
+- **Versatility**: Single language can handle web development, data analysis, machine learning, system administration, and more.
+- **Integration**: Excellent interoperability with other languages and systems through various binding mechanisms.
+- **Mature Ecosystem**: Decades of development have produced stable, well-tested libraries for most common tasks.
 
 #### Python's Limitations
 
-**Performance**: Interpreted nature and dynamic typing create performance overhead compared to compiled languages.
-
-**Global Interpreter Lock (GIL)**: Limits true multithreading capabilities for CPU-bound tasks.
-
-**Mobile Development**: Limited options for mobile application development compared to other platforms.
-
-**Large Applications**: Dynamic typing can make maintenance challenging in very large codebases.
+- **Performance**: Interpreted nature and dynamic typing create performance overhead compared to compiled languages.
+- **Global Interpreter Lock (GIL)**: Limits true multithreading capabilities for CPU-bound tasks.
+- **Mobile Development**: Limited options for mobile application development compared to other platforms.
+- **Large Applications**: Dynamic typing can make maintenance challenging in very large codebases.
 
 ### Java: Enterprise Reliability and Cross-Platform Reach
 
@@ -366,23 +375,23 @@ Java emerged in the mid-1990s with the ambitious goal of "write once, run anywhe
 
 Java's success stems from treating the language and platform as an integrated whole:
 
-**Java Virtual Machine (JVM)**: Provides a consistent runtime environment across different operating systems and hardware platforms.
+- **Java Virtual Machine (JVM)**: Provides a consistent runtime environment across different operating systems and hardware platforms.
 
-**Standard Library**: Comprehensive set of APIs covering everything from networking to GUI development.
+- **Standard Library**: Comprehensive set of APIs covering everything from networking to GUI development.
 
-**Enterprise APIs**: Extensive specifications for enterprise development including servlets, persistence, messaging, and web services.
+- **Enterprise APIs**: Extensive specifications for enterprise development including servlets, persistence, messaging, and web services.
 
-**Tooling Ecosystem**: Mature development tools, IDEs, profilers, and deployment platforms.
+- **Tooling Ecosystem**: Mature development tools, IDEs, profilers, and deployment platforms.
 
 #### Java's Design Principles
 
-**Object-Oriented**: Everything is an object (with some primitive type exceptions), promoting code organization and reuse.
+- **Object-Oriented**: Everything is an object (with some primitive type exceptions), promoting code organization and reuse.
 
-**Static Typing**: Compile-time type checking prevents many runtime errors and enables powerful development tools.
+- **Static Typing**: Compile-time type checking prevents many runtime errors and enables powerful development tools.
 
-**Automatic Memory Management**: Garbage collection eliminates manual memory management while providing predictable behavior.
+- **Automatic Memory Management**: Garbage collection eliminates manual memory management while providing predictable behavior.
 
-**Security**: Built-in security model designed for running untrusted code safely (originally for applets).
+- **Security**: Built-in security model designed for running untrusted code safely (originally for applets).
 
 **Platform Independence**: Bytecode compilation enables deployment across different platforms without recompilation.
 
@@ -390,53 +399,53 @@ Java's success stems from treating the language and platform as an integrated wh
 
 Java became the dominant language for enterprise development through several factors:
 
-**Performance**: JVM optimizations provide performance competitive with native code for many applications.
+- **Performance**: JVM optimizations provide performance competitive with native code for many applications.
 
-**Reliability**: Strong typing and mature runtime provide stability crucial for business applications.
+- **Reliability**: Strong typing and mature runtime provide stability crucial for business applications.
 
-**Scalability**: Platform designed from the ground up to handle large, complex applications.
+- **Scalability**: Platform designed from the ground up to handle large, complex applications.
 
-**Vendor Support**: Strong commercial support from Oracle, IBM, and other enterprise vendors.
+- **Vendor Support**: Strong commercial support from Oracle, IBM, and other enterprise vendors.
 
-**Talent Pool**: Large number of experienced Java developers in the job market.
+- **Talent Pool**: Large number of experienced Java developers in the job market.
 
 #### Modern Java Evolution
 
 Recent Java versions have significantly modernized the language:
 
-**Lambda Expressions**: Functional programming features added in Java 8.
+- **Lambda Expressions**: Functional programming features added in Java 8.
 
-**Stream API**: Functional-style operations for processing collections of data.
+- **Stream API**: Functional-style operations for processing collections of data.
 
-**Module System**: Java 9 introduced modules for better encapsulation and dependency management.
+- **Module System**: Java 9 introduced modules for better encapsulation and dependency management.
 
-**Local Variable Type Inference**: `var` keyword reduces verbosity while maintaining static typing.
+- **Local Variable Type Inference**: `var` keyword reduces verbosity while maintaining static typing.
 
-**Record Classes**: Concise syntax for immutable data classes.
+- **Record Classes**: Concise syntax for immutable data classes.
 
-**Pattern Matching**: Gradually introducing more sophisticated pattern matching capabilities.
+- **Pattern Matching**: Gradually introducing more sophisticated pattern matching capabilities.
 
 #### Java's Applications
 
-**Enterprise Applications**: Banking, finance, e-commerce, and other business-critical systems.
+- **Enterprise Applications**: Banking, finance, e-commerce, and other business-critical systems.
 
-**Android Development**: Primary language for Android mobile applications (though Kotlin is increasingly preferred).
+- **Android Development**: Primary language for Android mobile applications (though Kotlin is increasingly preferred).
 
-**Big Data**: Hadoop, Spark, and other big data frameworks are built on the JVM.
+- **Big Data**: Hadoop, Spark, and other big data frameworks are built on the JVM.
 
-**Web Services**: RESTful APIs and microservices using Spring Boot and similar frameworks.
+- **Web Services**: RESTful APIs and microservices using Spring Boot and similar frameworks.
 
 **Scientific Computing**: Numerical computing and simulation applications.
 
 #### Java's Challenges
 
-**Verbosity**: Requires more code to express simple concepts compared to more modern languages.
+- **Verbosity**: Requires more code to express simple concepts compared to more modern languages.
 
-**Innovation Pace**: Conservative approach to language evolution can make Java feel dated compared to newer languages.
+- **Innovation Pace**: Conservative approach to language evolution can make Java feel dated compared to newer languages.
 
-**Startup Time**: JVM startup overhead can be problematic for short-lived processes and serverless deployments.
+- **Startup Time**: JVM startup overhead can be problematic for short-lived processes and serverless deployments.
 
-**Memory Usage**: Higher memory overhead compared to native languages can be costly in cloud environments.
+- **Memory Usage**: Higher memory overhead compared to native languages can be costly in cloud environments.
 
 ### C++: Power, Performance, and Complexity
 
@@ -480,23 +489,17 @@ C++ has undergone significant evolution, particularly since C++11:
 
 #### C++'s Strengths
 
-**Performance**: Compile-time optimizations and low-level control enable maximum performance.
-
-**Flexibility**: Multiple programming paradigms allow developers to choose appropriate styles for different problems.
-
-**Legacy Integration**: Compatibility with C enables integration with existing systems and libraries.
-
-**Standard Library**: Rich standard library with containers, algorithms, and system interfaces.
+- **Performance**: Compile-time optimizations and low-level control enable maximum performance.
+- **Flexibility**: Multiple programming paradigms allow developers to choose appropriate styles for different problems.
+- **Legacy Integration**: Compatibility with C enables integration with existing systems and libraries.
+- **Standard Library**: Rich standard library with containers, algorithms, and system interfaces.
 
 #### C++'s Challenges
 
-**Complexity**: Enormous language with many features and subtle interactions between them.
-
-**Memory Safety**: Manual memory management enables powerful optimizations but creates opportunities for serious bugs.
-
-**Learning Curve**: Steep learning curve due to language complexity and need to understand low-level concepts.
-
-**Compilation Time**: Complex template system and header-based compilation can result in slow build times.
+- **Complexity**: Enormous language with many features and subtle interactions between them.
+- **Memory Safety**: Manual memory management enables powerful optimizations but creates opportunities for serious bugs.
+- **Learning Curve**: Steep learning curve due to language complexity and need to understand low-level concepts.
+- **Compilation Time**: Complex template system and header-based compilation can result in slow build times.
 
 ### Rust: Safety Without Sacrifice
 
@@ -596,37 +599,26 @@ Go's approach to concurrency is based on Tony Hoare's Communicating Sequential P
 
 #### Go Applications
 
-**Cloud Native Development**: Docker, Kubernetes, and many other cloud infrastructure tools are written in Go.
-
-**Microservices**: Simple deployment and excellent concurrency make Go ideal for microservice architectures.
-
-**DevOps Tools**: Command-line tools, deployment systems, and infrastructure automation.
-
-**Network Programming**: HTTP servers, proxies, and other network-intensive applications.
-
-**System Administration**: Replacement for shell scripts and system utilities with better error handling and performance.
+- **Cloud Native Development**: Docker, Kubernetes, and many other cloud infrastructure tools are written in Go.
+- **Microservices**: Simple deployment and excellent concurrency make Go ideal for microservice architectures.
+- **DevOps Tools**: Command-line tools, deployment systems, and infrastructure automation.
+- **Network Programming**: HTTP servers, proxies, and other network-intensive applications.
+- **System Administration**: Replacement for shell scripts and system utilities with better error handling and performance.
 
 #### Go's Strengths
 
-**Learning Curve**: Simple syntax and small feature set enable rapid productivity.
-
-**Deployment**: Single binary deployment eliminates dependency management issues.
-
-**Performance**: Compiled language with garbage collection provides good performance with memory safety.
-
-**Standard Library**: Comprehensive standard library covers most common programming tasks.
-
-**Tooling**: Excellent built-in tools for formatting, testing, profiling, and documentation.
+- **Learning Curve**: Simple syntax and small feature set enable rapid productivity.
+- **Deployment**: Single binary deployment eliminates dependency management issues.
+- **Performance**: Compiled language with garbage collection provides good performance with memory safety.
+- **Standard Library**: Comprehensive standard library covers most common programming tasks.
+- **Tooling**: Excellent built-in tools for formatting, testing, profiling, and documentation.
 
 #### Go's Limitations
 
-**Expressiveness**: Intentionally limited feature set can make some programming patterns verbose.
-
-**Generics**: Only recently added, limiting code reuse patterns for years.
-
-**Error Handling**: Explicit error checking can be verbose and repetitive.
-
-**Object-Oriented**: Limited support for traditional OOP patterns compared to languages like Java or C#.
+- **Expressiveness**: Intentionally limited feature set can make some programming patterns verbose.
+- **Generics**: Only recently added, limiting code reuse patterns for years.
+- **Error Handling**: Explicit error checking can be verbose and repetitive.
+- **Object-Oriented**: Limited support for traditional OOP patterns compared to languages like Java or C#.
 
 ### Swift: Modern Language for Apple Ecosystems
 

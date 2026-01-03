@@ -31,13 +31,13 @@ Perhaps no note-taking system has captured the imagination of knowledge workers 
 
 The beauty of the Zettelkasten lies in its simplicity and power:
 
-**Atomic Notes**: Each note contains one idea, making it reusable across different contexts. This atomicity ensures that ideas can be recombined in unexpected ways, leading to novel insights.
+- **Atomic Notes**: Each note contains one idea, making it reusable across different contexts. This atomicity ensures that ideas can be recombined in unexpected ways, leading to novel insights.
 
-**Unique Identifiers**: Every note gets a unique ID (traditionally numbers, now often timestamps or random strings), creating a permanent address for each idea.
+- **Unique Identifiers**: Every note gets a unique ID (traditionally numbers, now often timestamps or random strings), creating a permanent address for each idea.
 
-**Linking Over Hierarchy**: Instead of organizing notes into folders, the Zettelkasten relies on links between related concepts. This creates a web of knowledge that can be navigated in multiple directions.
+- **Linking Over Hierarchy**: Instead of organizing notes into folders, the Zettelkasten relies on links between related concepts. This creates a web of knowledge that can be navigated in multiple directions.
 
-**No Orphans**: Every note should connect to at least one other note in the system, ensuring that no idea exists in isolation.
+- **No Orphans**: Every note should connect to at least one other note in the system, ensuring that no idea exists in isolation.
 
 ### The Magic of Emergence
 
@@ -75,13 +75,13 @@ Tiago Forte's PARA method takes a different approach, focusing on actionability 
 
 ### The Four Categories
 
-**Projects**: Things with a deadline and specific outcome. These are your active work items that require regular attention.
+- **Projects**: Things with a deadline and specific outcome. These are your active work items that require regular attention.
 
-**Areas**: Ongoing responsibilities without specific end dates. Think health, finances, professional development—areas you need to maintain but don't necessarily "complete."
+- **Areas**: Ongoing responsibilities without specific end dates. Think health, finances, professional development—areas you need to maintain but don't necessarily "complete."
 
-**Resources**: Topics of ongoing interest that might be useful in the future. This is your reference library of potentially relevant information.
+- **Resources**: Topics of ongoing interest that might be useful in the future. This is your reference library of potentially relevant information.
 
-**Archive**: Everything else—completed projects, inactive areas, and resources you no longer actively use but might want to reference someday.
+- **Archive**: Everything else—completed projects, inactive areas, and resources you no longer actively use but might want to reference someday.
 
 ### The Actionability Spectrum
 
@@ -143,10 +143,10 @@ The Digital Garden movement represents a philosophy as much as a methodology. In
 
 ### Gardening Metaphors
 
-**Seeds**: Initial ideas or observations that might grow into something larger
-**Saplings**: Developing thoughts that need more cultivation
-**Evergreens**: Well-developed ideas that remain relevant over time
-**Compost**: Old ideas that may decompose and feed new growth
+- **Seeds**: Initial ideas or observations that might grow into something larger
+- **Saplings**: Developing thoughts that need more cultivation
+- **Evergreens**: Well-developed ideas that remain relevant over time
+- **Compost**: Old ideas that may decompose and feed new growth
 
 ### Learning in Public
 
@@ -202,10 +202,10 @@ With so many approaches available, how do you choose the right note-taking metho
 
 ### Consider Your Primary Use Cases
 
-**Research and Writing**: Zettelkasten or LYT systems excel at developing complex ideas over time
-**Project Management**: PARA or GTD integration helps balance knowledge work with execution
-**Learning and Exploration**: Digital gardens encourage experimentation and growth
-**Information Processing**: Cornell or progressive summarization techniques help extract value from sources
+- **Research and Writing**: Zettelkasten or LYT systems excel at developing complex ideas over time
+- **Project Management**: PARA or GTD integration helps balance knowledge work with execution
+- **Learning and Exploration**: Digital gardens encourage experimentation and growth
+- **Information Processing**: Cornell or progressive summarization techniques help extract value from sources
 
 ### Hybrid Approaches
 

@@ -48,27 +48,27 @@ The Waterfall model, formalized by Winston Royce in 1970, represented an attempt
 
 Waterfall wasn't created arbitrarily—it reflected sensible thinking about complex projects:
 
-**Risk Mitigation**: By planning extensively upfront, teams could identify and address potential problems before expensive implementation began.
+- **Risk Mitigation**: By planning extensively upfront, teams could identify and address potential problems before expensive implementation began.
 
-**Resource Management**: Sequential phases allowed organizations to allocate specialists (analysts, designers, programmers, testers) efficiently across projects.
+- **Resource Management**: Sequential phases allowed organizations to allocate specialists (analysts, designers, programmers, testers) efficiently across projects.
 
-**Quality Assurance**: Formal documentation and review processes at each phase gate ensured quality standards were maintained.
+- **Quality Assurance**: Formal documentation and review processes at each phase gate ensured quality standards were maintained.
 
-**Predictability**: Detailed upfront planning enabled accurate cost and timeline estimates, crucial for business planning.
+- **Predictability**: Detailed upfront planning enabled accurate cost and timeline estimates, crucial for business planning.
 
-**Communication**: Comprehensive documentation facilitated communication across large, distributed teams and with external stakeholders.
+- **Communication**: Comprehensive documentation facilitated communication across large, distributed teams and with external stakeholders.
 
 #### When Waterfall Works Well
 
 Despite its reputation in Agile circles, Waterfall remains appropriate for certain contexts:
 
-**Regulatory Environments**: Industries with strict compliance requirements often need extensive upfront documentation.
+- **Regulatory Environments**: Industries with strict compliance requirements often need extensive upfront documentation.
 
-**Hardware-Software Integration**: Projects involving physical hardware often require detailed specifications before implementation.
+- **Hardware-Software Integration**: Projects involving physical hardware often require detailed specifications before implementation.
 
-**Large, Distributed Teams**: When coordination costs are high, upfront planning can be more efficient than iterative discovery.
+- **Large, Distributed Teams**: When coordination costs are high, upfront planning can be more efficient than iterative discovery.
 
-**Well-Understood Domains**: For problems with well-established solutions, extensive exploration may be unnecessary.
+- **Well-Understood Domains**: For problems with well-established solutions, extensive exploration may be unnecessary.
 
 **Fixed-Scope Projects**: When requirements are truly stable and well-understood, Waterfall's efficiency can be advantageous.
 
@@ -76,15 +76,15 @@ Despite its reputation in Agile circles, Waterfall remains appropriate for certa
 
 Experience revealed significant limitations with Waterfall approaches:
 
-**Late Feedback**: Problems were often discovered late in the process when they were expensive to fix.
+- **Late Feedback**: Problems were often discovered late in the process when they were expensive to fix.
 
-**Changing Requirements**: Business needs evolved during development, but Waterfall was poorly equipped to handle change.
+- **Changing Requirements**: Business needs evolved during development, but Waterfall was poorly equipped to handle change.
 
-**Integration Problems**: Bringing together components developed separately often revealed unexpected issues.
+- **Integration Problems**: Bringing together components developed separately often revealed unexpected issues.
 
-**User Disconnect**: End users had limited involvement until delivery, leading to systems that met specifications but not actual needs.
+- **User Disconnect**: End users had limited involvement until delivery, leading to systems that met specifications but not actual needs.
 
-**Risk Concentration**: Problems were often discovered all at once during integration and testing phases.
+- **Risk Concentration**: Problems were often discovered all at once during integration and testing phases.
 
 ### The V-Model: Improving Waterfall with Better Testing
 
@@ -97,11 +97,11 @@ The V-Model emerged as an enhancement to Waterfall, emphasizing the relationship
 
 #### Advantages of the V-Model
 
-**Early Test Planning**: Test strategies were developed alongside system design, improving test coverage and effectiveness.
+- **Early Test Planning**: Test strategies were developed alongside system design, improving test coverage and effectiveness.
 
-**Clear Verification**: Each development phase had explicit verification criteria, reducing ambiguity about completion.
+- **Clear Verification**: Each development phase had explicit verification criteria, reducing ambiguity about completion.
 
-**Risk Reduction**: Earlier consideration of testing reduced the risk of discovering major problems late in the process.
+- **Risk Reduction**: Earlier consideration of testing reduced the risk of discovering major problems late in the process.
 
 #### Limitations Inherited from Waterfall
 
@@ -118,13 +118,13 @@ Barry Boehm's Spiral Model, introduced in 1986, was one of the first methodologi
 
 #### The Spiral Model's Contributions
 
-**Risk Focus**: Made risk management a central concern throughout development.
+- **Risk Focus**: Made risk management a central concern throughout development.
 
-**Iterative Refinement**: Allowed for refinement of requirements and design through successive iterations.
+- **Iterative Refinement**: Allowed for refinement of requirements and design through successive iterations.
 
-**Prototype Integration**: Incorporated prototyping as a risk reduction technique.
+- **Prototype Integration**: Incorporated prototyping as a risk reduction technique.
 
-**Flexible Process**: Could incorporate elements from other methodologies as appropriate.
+- **Flexible Process**: Could incorporate elements from other methodologies as appropriate.
 
 The Spiral Model represented an important step toward more adaptive approaches, though it was still quite heavyweight and process-focused.
 
@@ -134,25 +134,22 @@ RUP, developed by IBM, attempted to combine the discipline of traditional method
 
 #### RUP's Approach to Complexity
 
-**Use Case Driven**: Focused development around user scenarios rather than technical features.
+- **Use Case Driven**: Focused development around user scenarios rather than technical features.
 
-**Architecture-Centric**: Emphasized the importance of sound architectural decisions early in the process.
+- **Architecture-Centric**: Emphasized the importance of sound architectural decisions early in the process.
 
-**Iterative and Incremental**: Delivered working software in iterations while building capabilities incrementally.
+- **Iterative and Incremental**: Delivered working software in iterations while building capabilities incrementally.
 
-**Tool-Supported**: Provided extensive tool support for modeling, documentation, and process guidance.
+- **Tool-Supported**: Provided extensive tool support for modeling, documentation, and process guidance.
 
 #### The Challenge of Heavyweight Processes
 
 While RUP addressed many Waterfall limitations, it introduced new challenges:
 
-**Process Overhead**: The methodology was complex, requiring significant training and discipline to implement effectively.
-
-**Tool Dependency**: Heavy reliance on expensive, complex tooling created barriers to adoption.
-
-**Documentation Burden**: Despite iterative development, RUP still required extensive documentation.
-
-**Scalability Issues**: The process worked better for large organizations than small, agile teams.
+- **Process Overhead**: The methodology was complex, requiring significant training and discipline to implement effectively.
+- **Tool Dependency**: Heavy reliance on expensive, complex tooling created barriers to adoption.
+- **Documentation Burden**: Despite iterative development, RUP still required extensive documentation.
+- **Scalability Issues**: The process worked better for large organizations than small, agile teams.
 
 ## The Agile Revolution: Embracing Change and Uncertainty
 
@@ -162,13 +159,13 @@ The Agile movement emerged from practitioners' frustrations with heavyweight met
 
 The Agile Manifesto articulated four key values that distinguished Agile approaches from traditional methodologies:
 
-**Individuals and Interactions over Processes and Tools**: Recognizing that software development is fundamentally a human activity requiring communication, collaboration, and creativity.
+- **Individuals and Interactions over Processes and Tools**: Recognizing that software development is fundamentally a human activity requiring communication, collaboration, and creativity.
 
-**Working Software over Comprehensive Documentation**: Emphasizing that the primary measure of progress is working software, not documents or artifacts.
+- **Working Software over Comprehensive Documentation**: Emphasizing that the primary measure of progress is working software, not documents or artifacts.
 
-**Customer Collaboration over Contract Negotiation**: Advocating for ongoing partnership with customers rather than adversarial relationships focused on contract compliance.
+- **Customer Collaboration over Contract Negotiation**: Advocating for ongoing partnership with customers rather than adversarial relationships focused on contract compliance.
 
-**Responding to Change over Following a Plan**: Acknowledging that change is inevitable and valuable, not a problem to be avoided.
+- **Responding to Change over Following a Plan**: Acknowledging that change is inevitable and valuable, not a problem to be avoided.
 
 #### The Twelve Principles
 
@@ -202,15 +199,15 @@ The Manifesto was supported by twelve principles that provided more specific gui
 
 Several factors contributed to the conditions that made Agile methodologies both possible and necessary:
 
-**Technological Changes**: Improved development tools, programming languages, and testing frameworks made rapid iteration more feasible.
+- **Technological Changes**: Improved development tools, programming languages, and testing frameworks made rapid iteration more feasible.
 
-**Business Environment**: Accelerating business change meant that long development cycles often delivered obsolete solutions.
+- **Business Environment**: Accelerating business change meant that long development cycles often delivered obsolete solutions.
 
-**Team Dynamics**: Smaller, co-located teams became more common, enabling high-bandwidth communication.
+- **Team Dynamics**: Smaller, co-located teams became more common, enabling high-bandwidth communication.
 
-**Customer Expectations**: Users became accustomed to frequent updates and expected to influence product direction.
+- **Customer Expectations**: Users became accustomed to frequent updates and expected to influence product direction.
 
-**Competitive Pressure**: Companies needed to deliver features faster to maintain competitive advantage.
+- **Competitive Pressure**: Companies needed to deliver features faster to maintain competitive advantage.
 
 ## Scrum: The Most Widely Adopted Agile Framework
 
@@ -222,29 +219,29 @@ Scrum organizes work around three roles, four ceremonies, and three artifacts:
 
 #### Roles
 
-**Product Owner**: Responsible for maximizing product value by managing the product backlog and making prioritization decisions.
+- **Product Owner**: Responsible for maximizing product value by managing the product backlog and making prioritization decisions.
 
-**Scrum Master**: Serves the team by facilitating the Scrum process, removing impediments, and helping the team improve.
+- **Scrum Master**: Serves the team by facilitating the Scrum process, removing impediments, and helping the team improve.
 
-**Development Team**: Self-organizing group of professionals who deliver the product increment.
+- **Development Team**: Self-organizing group of professionals who deliver the product increment.
 
 #### Ceremonies (Events)
 
-**Sprint Planning**: Team plans the work to be performed in the upcoming Sprint.
+- **Sprint Planning**: Team plans the work to be performed in the upcoming Sprint.
 
-**Daily Scrum**: Brief daily meeting for team coordination and impediment identification.
+- **Daily Scrum**: Brief daily meeting for team coordination and impediment identification.
 
-**Sprint Review**: Team demonstrates completed work to stakeholders and gathers feedback.
+- **Sprint Review**: Team demonstrates completed work to stakeholders and gathers feedback.
 
-**Sprint Retrospective**: Team reflects on their process and identifies improvements.
+- **Sprint Retrospective**: Team reflects on their process and identifies improvements.
 
 #### Artifacts
 
-**Product Backlog**: Prioritized list of features, requirements, enhancements, and fixes.
+- **Product Backlog**: Prioritized list of features, requirements, enhancements, and fixes.
 
-**Sprint Backlog**: Items selected for the current Sprint plus the plan for delivering them.
+- **Sprint Backlog**: Items selected for the current Sprint plus the plan for delivering them.
 
-**Increment**: The sum of all completed backlog items during a Sprint.
+- **Increment**: The sum of all completed backlog items during a Sprint.
 
 ### The Philosophy Behind Scrum
 
@@ -264,11 +261,11 @@ This approach acknowledges that software development is too complex for purely d
 
 Scrum uses fixed time periods (time-boxes) to create rhythm and forcing functions:
 
-**Sprints**: Fixed-length iterations (usually 1-4 weeks) that provide regular delivery cadence.
+- **Sprints**: Fixed-length iterations (usually 1-4 weeks) that provide regular delivery cadence.
 
-**Time-boxed Ceremonies**: Meetings have maximum durations to prevent over-discussion and maintain focus.
+- **Time-boxed Ceremonies**: Meetings have maximum durations to prevent over-discussion and maintain focus.
 
-**Definition of Done**: Clear criteria for when work is complete, preventing endless perfectionism.
+- **Definition of Done**: Clear criteria for when work is complete, preventing endless perfectionism.
 
 #### Self-Organization
 
@@ -468,37 +465,26 @@ Lean Software Development, popularized by Mary and Tom Poppendieck, applies Lean
 
 #### Eliminate Waste
 
-**Partially Done Work**: Incomplete features that don't deliver value to users.
-
-**Extra Processes**: Documentation, meetings, and procedures that don't add value.
-
-**Extra Features**: Functionality that users don't want or need.
-
-**Task Switching**: Context switching between multiple projects or priorities.
-
-**Waiting**: Delays in getting information, decisions, or resources.
-
-**Motion**: Inefficient communication or handoffs between people or systems.
-
-**Defects**: Bugs and quality problems that require rework.
+- **Partially Done Work**: Incomplete features that don't deliver value to users.
+- **Extra Processes**: Documentation, meetings, and procedures that don't add value.
+- **Extra Features**: Functionality that users don't want or need.
+- **Task Switching**: Context switching between multiple projects or priorities.
+- **Waiting**: Delays in getting information, decisions, or resources.
+- **Motion**: Inefficient communication or handoffs between people or systems.
+- **Defects**: Bugs and quality problems that require rework.
 
 #### Amplify Learning
 
-**Rapid Feedback**: Quick cycles to test assumptions and validate decisions.
-
-**Experimentation**: Trying multiple approaches to find what works best.
-
-**Reflection**: Regular retrospectives and learning from both successes and failures.
-
-**Knowledge Sharing**: Spreading learning throughout the organization.
+- **Rapid Feedback**: Quick cycles to test assumptions and validate decisions.
+- **Experimentation**: Trying multiple approaches to find what works best.
+- **Reflection**: Regular retrospectives and learning from both successes and failures.
+- **Knowledge Sharing**: Spreading learning throughout the organization.
 
 #### Decide as Late as Possible
 
-**Options Thinking**: Keeping multiple options open until you have enough information to decide.
-
-**Reversible Decisions**: Preferring decisions that can be changed if new information emerges.
-
-**Last Responsible Moment**: Making decisions when delaying would eliminate important options.
+- **Options Thinking**: Keeping multiple options open until you have enough information to decide.
+- **Reversible Decisions**: Preferring decisions that can be changed if new information emerges.
+- **Last Responsible Moment**: Making decisions when delaying would eliminate important options.
 
 #### Deliver as Fast as Possible
 

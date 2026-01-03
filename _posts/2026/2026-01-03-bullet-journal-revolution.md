@@ -167,7 +167,13 @@ Carroll himself has taken a balanced approach to this debate, emphasizing that t
 
 ### Bullet Journal Meetups and Conferences
 
-The global community has spawned real-world gatherings: local meetups, planning parties, and even international conferences. These events demonstrate the depth of connection that people feel with both the method and the community it has created.
+The global community has spawned real-world gatherings:
+
+- Local meetups
+- Planning parties
+- International conferences
+
+These events demonstrate the depth of connection that people feel with both the method and the community it has created.
 
 The annual "Bullet Journal Con" and similar events feature workshops, vendor halls, and opportunities for practitioners to share techniques in person. These gatherings highlight how bullet journaling has evolved from a personal productivity system to a lifestyle and community identity.
 
@@ -189,7 +195,15 @@ The book reveals Carroll's deeper intentions for the system. While many people h
 
 ### The Ecosystem of Products
 
-The popularity of bullet journaling has created a substantial market for related products: specialized pens, stickers, rulers, templates, and countless accessories. While none of these products are necessary for bullet journaling, they represent the enthusiasm and creativity that the system has inspired.
+The popularity of bullet journaling has created a substantial market for related products:
+
+- Specialized pens
+- Stickers
+- Rulers
+- Templates
+- Countless accessories
+
+While none of these products are necessary for bullet journaling, they represent the enthusiasm and creativity that the system has inspired.
 
 Some critics argue that this commercialization runs counter to the system's minimalist origins. Others see it as a natural evolution that provides options for people who want to enhance their practice with specialized tools.
 

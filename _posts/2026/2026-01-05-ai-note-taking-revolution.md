@@ -109,6 +109,7 @@ Let's examine some of the specific tools and platforms that are driving this tra
 ### Notion AI and Smart Blocks
 
 Notion's AI integration demonstrates how artificial intelligence can be embedded directly into note-taking workflows. Users can:
+
 - Generate summaries of long documents with a single command
 - Ask questions about their database contents in natural language
 - Automatically format and organize imported information
@@ -117,6 +118,7 @@ Notion's AI integration demonstrates how artificial intelligence can be embedded
 ### Obsidian with AI Plugins
 
 The Obsidian ecosystem has embraced AI through various plugins that:
+
 - Generate automatic backlinks based on content similarity
 - Suggest related notes based on semantic analysis
 - Create visual knowledge graphs with AI-identified relationships
@@ -125,6 +127,7 @@ The Obsidian ecosystem has embraced AI through various plugins that:
 ### Roam Research and GPT Integration
 
 Roam Research's block-based structure proved particularly amenable to AI integration:
+
 - AI can generate connections between blocks across the entire database
 - Natural language queries can find information regardless of how it was originally organized
 - Pattern recognition can identify recurring themes and concepts
@@ -133,6 +136,7 @@ Roam Research's block-based structure proved particularly amenable to AI integra
 ### Microsoft 365 Copilot
 
 Microsoft's integration of AI across their productivity suite demonstrates enterprise-scale AI note-taking:
+
 - Meeting recordings automatically generate structured notes with action items
 - Email threads are summarized with key decisions highlighted
 - Document analysis provides insights across entire organizational knowledge bases
@@ -141,6 +145,7 @@ Microsoft's integration of AI across their productivity suite demonstrates enter
 ### Google Workspace AI Features
 
 Google's AI integration focuses on seamless, context-aware assistance:
+
 - Smart Compose suggests complete thoughts based on document context
 - Auto-generated meeting summaries include participant contributions and decisions
 - Cross-platform search finds information regardless of whether it's in email, docs, or drive
@@ -477,37 +482,37 @@ While we consider these larger implications, there are practical steps individua
 
 ### For Individuals
 
-**Start Gradually**: Don't completely overhaul your note-taking system overnight. Experiment with AI tools for specific use cases and gradually expand their role as you understand their capabilities and limitations.
+- **Start Gradually**: Don't completely overhaul your note-taking system overnight. Experiment with AI tools for specific use cases and gradually expand their role as you understand their capabilities and limitations.
 
-**Maintain Manual Skills**: Continue practicing manual note-taking, synthesis, and analysis to maintain cognitive abilities that complement AI capabilities.
+- **Maintain Manual Skills**: Continue practicing manual note-taking, synthesis, and analysis to maintain cognitive abilities that complement AI capabilities.
 
-**Develop Critical Evaluation**: Learn to critically evaluate AI-generated insights and recommendations. Develop your own frameworks for assessing the quality and relevance of AI analysis.
+- **Develop Critical Evaluation**: Learn to critically evaluate AI-generated insights and recommendations. Develop your own frameworks for assessing the quality and relevance of AI analysis.
 
-**Protect Privacy**: Be thoughtful about what information you share with AI systems. Use privacy controls and understand how your data is being used and stored.
+- **Protect Privacy**: Be thoughtful about what information you share with AI systems. Use privacy controls and understand how your data is being used and stored.
 
 **Stay Informed**: Keep up with developments in AI technology and their implications for your work and thinking.
 
 ### For Organizations
 
-**Develop AI Strategies**: Create comprehensive strategies for integrating AI into knowledge work that consider both opportunities and risks.
+- **Develop AI Strategies**: Create comprehensive strategies for integrating AI into knowledge work that consider both opportunities and risks.
 
-**Invest in Training**: Provide training for employees on effective human-AI collaboration and AI literacy.
+- **Invest in Training**: Provide training for employees on effective human-AI collaboration and AI literacy.
 
-**Establish Governance**: Create clear policies and procedures for the use of AI in sensitive or critical applications.
+- **Establish Governance**: Create clear policies and procedures for the use of AI in sensitive or critical applications.
 
-**Maintain Human Skills**: Ensure that important human cognitive skills are maintained and developed even as AI handles more routine tasks.
+- **Maintain Human Skills**: Ensure that important human cognitive skills are maintained and developed even as AI handles more routine tasks.
 
 **Consider Equity**: Address potential equity issues in access to AI tools and capabilities.
 
 ### For Educators
 
-**Reimagine Curricula**: Consider how educational objectives and methods need to change in an AI-augmented world.
+- **Reimagine Curricula**: Consider how educational objectives and methods need to change in an AI-augmented world.
 
-**Emphasize Uniquely Human Skills**: Focus on developing skills that complement rather than compete with AI capabilities.
+- **Emphasize Uniquely Human Skills**: Focus on developing skills that complement rather than compete with AI capabilities.
 
-**Teach AI Literacy**: Help students understand how to work effectively with AI systems.
+- **Teach AI Literacy**: Help students understand how to work effectively with AI systems.
 
-**Address Academic Integrity**: Develop new frameworks for academic integrity that account for AI assistance.
+- **Address Academic Integrity**: Develop new frameworks for academic integrity that account for AI assistance.
 
 **Prepare for Uncertainty**: Help students develop adaptability and learning skills for a rapidly changing technological landscape.
 

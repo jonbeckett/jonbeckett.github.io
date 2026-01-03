@@ -92,24 +92,25 @@ The organization pillar involves creating a structure that supports quick, confi
 
 GTD prescribes specific lists, each serving a distinct purpose:
 
-**Next Actions**: Specific, physical actions you can take, organized by context (calls, computer, errands, etc.)
+- **Next Actions**: Specific, physical actions you can take, organized by context (calls, computer, errands, etc.)
 
-**Projects**: Multi-step outcomes you're committed to achieving, each with at least one associated next action
+- **Projects**: Multi-step outcomes you're committed to achieving, each with at least one associated next action
 
-**Waiting For**: Items you're waiting for others to complete or respond to
+- **Waiting For**: Items you're waiting for others to complete or respond to
 
-**Someday/Maybe**: Things you might want to do but aren't committed to at present
+- **Someday/Maybe**: Things you might want to do but aren't committed to at present
 
-**Calendar**: Only for items that must be done on a specific date or time—appointments, deadlines, and day-specific information
+- **Calendar**: Only for items that must be done on a specific date or time—appointments, deadlines, and day-specific information
 
 #### Context-Based Organization
 
 One of GTD's key innovations is organizing next actions by context rather than priority. Instead of a single to-do list, you have lists like:
-- @Calls (things you can only do when you can make phone calls)
-- @Computer (tasks requiring a computer)
-- @Errands (things to do when you're out)
-- @Office (actions that require being at the office)
-- @Home (tasks that can only be done at home)
+
+- **@Calls** (things you can only do when you can make phone calls)
+- **@Computer** (tasks requiring a computer)
+- **@Errands** (things to do when you're out)
+- **@Office** (actions that require being at the office)
+- **@Home** (tasks that can only be done at home)
 
 This context-based approach ensures that when you have time and energy to work, you can immediately see all the actions available in your current situation.
 
@@ -120,6 +121,7 @@ The reflection pillar ensures your system stays current and trustworthy through 
 #### Daily Review
 
 Each day should begin with a brief review of:
+
 - Calendar appointments
 - Next action lists relevant to today's contexts
 - Any urgent items that have emerged
@@ -136,6 +138,7 @@ This weekly appointment with yourself ensures that your system remains a trusted
 #### Periodic Reviews
 
 Longer-term reviews help maintain perspective:
+
 - Monthly reviews for larger projects and goals
 - Quarterly reviews for life areas and roles
 - Annual reviews for purposes and principles
@@ -377,23 +380,23 @@ Like any productivity system, GTD has faced criticism that's worth addressing.
 
 ### "Too Complex"
 
-**Criticism**: GTD has too many lists and procedures
-**Response**: Start simple with basic capture and clarification. Complexity can be added gradually as needed.
+- **Criticism**: GTD has too many lists and procedures
+- **Response**: Start simple with basic capture and clarification. Complexity can be added gradually as needed.
 
 ### "Maintenance Heavy"
 
-**Criticism**: The system requires too much ongoing maintenance
-**Response**: The maintenance cost is front-loaded. Once habits are established, maintenance becomes natural and less time-consuming than managing chaos.
+- **Criticism**: The system requires too much ongoing maintenance
+- **Response**: The maintenance cost is front-loaded. Once habits are established, maintenance becomes natural and less time-consuming than managing chaos.
 
 ### "Not Goal-Oriented"
 
-**Criticism**: GTD focuses on tasks rather than goals
-**Response**: The Horizons of Focus provide goal integration, and GTD is designed to support any goal-setting system by ensuring effective execution.
+- **Criticism**: GTD focuses on tasks rather than goals
+- **Response**: The Horizons of Focus provide goal integration, and GTD is designed to support any goal-setting system by ensuring effective execution.
 
 ### "Technology Dependent"
 
-**Criticism**: Modern GTD implementations require too much technology
-**Response**: GTD works equally well with paper systems, and the methodology is tool-agnostic by design.
+- **Criticism**: Modern GTD implementations require too much technology
+- **Response**: GTD works equally well with paper systems, and the methodology is tool-agnostic by design.
 
 ## Measuring GTD Success
 
