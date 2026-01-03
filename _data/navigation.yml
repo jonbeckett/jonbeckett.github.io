@@ -2,5 +2,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /category/
   - title: "Archive"
     url: /archive/
