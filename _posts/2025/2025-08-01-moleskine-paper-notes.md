@@ -1,7 +1,7 @@
 ---
 title: "The Enduring Power of Paper: Why Moleskine and Analog Note-Taking Thrive in Our Digital Age"
 layout: single
-date: 2026-01-04
+date: 2025-08-01
 categories:
   - analog-planning
   - creativity

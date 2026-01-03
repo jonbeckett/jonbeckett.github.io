@@ -1,7 +1,7 @@
 ---
 title: "Getting Things Done: The Art of Stress-Free Productivity"
 layout: single
-date: 2026-01-02
+date: 2025-06-01
 categories:
   - productivity
   - workflow

@@ -1,7 +1,7 @@
 ---
 title: "The AI Revolution in Note-Taking: How Artificial Intelligence is Reshaping Knowledge Work"
 layout: single
-date: 2026-01-05
+date: 2026-01-03
 categories:
   - technology
   - productivity

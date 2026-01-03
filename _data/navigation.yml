@@ -6,5 +6,3 @@ main:
     url: /category/
   - title: "Tags"
     url: /tags/
-  - title: "Archive"
-    url: /archive/

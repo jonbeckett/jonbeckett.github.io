@@ -1,7 +1,7 @@
 ---
 title: "The Bullet Journal Revolution: How Ryder Carroll Transformed Analog Planning for the Digital Age"
 layout: single
-date: 2026-01-03
+date: 2025-07-01
 categories:
   - productivity
   - analog-planning
