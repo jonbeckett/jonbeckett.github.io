@@ -13,7 +13,7 @@ permalink: /tags/
   {% assign tag_name = tag[0] %}
   {% assign posts = tag[1] %}
   
-<h2>{{ tag_name }} ({{ posts.size }} posts)</h2>
+<h2><a href="/tags/{{ tag_name | slugify }}/">{{ tag_name }}</a> ({{ posts.size }} posts)</h2>
 <ul>
 {% for post in posts %}
   <li>
@@ -30,6 +30,36 @@ permalink: /tags/
 <p>No tags found. Tags will appear here as you add them to your posts.</p>
 
 {% endif %}
+
+<style>
+.post-meta {
+  color: #666;
+  font-size: 0.9em;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+h2 a {
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+</style>
 
 <style>
 .post-meta {
