@@ -1,9 +1,10 @@
 ---
 title: "The Art and Science of Note-Taking: A Deep Dive into Modern Knowledge Management Systems"
 layout: single
-date: 2026-01-03
+date: 2026-01-01
 categories:
-  - "2026"
+  - productivity
+  - knowledge-management
 tags:
   - productivity
   - knowledge-management
