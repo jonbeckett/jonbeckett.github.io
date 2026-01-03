@@ -65,11 +65,11 @@ At its heart, the Bullet Journal Method rests on four key concepts that work tog
 
 The foundation of bullet journaling is rapid logging—a symbolic shorthand system that allows you to quickly capture and categorize information. Carroll developed a simple set of symbols:
 
-**• (Bullet)** = Task
-**○ (Circle)** = Event
-**— (Dash)** = Note
-**✶ (Star)** = Priority
-**! (Exclamation)** = Inspiration
+- **• (Bullet)** = Task
+- **○ (Circle)** = Event
+- **— (Dash)** = Note
+- **✶ (Star)** = Priority
+- **! (Exclamation)** = Inspiration
 
 These symbols can be modified with additional markers:
 - **X** = Task Complete

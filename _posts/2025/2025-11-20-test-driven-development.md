@@ -158,7 +158,7 @@ class Calculator {
 
 This might seem ridiculous—we're returning a hard-coded value rather than actually adding the numbers. But this is intentional. TDD emphasizes doing the simplest thing that could possibly work. The idea is that additional tests will force the implementation to become more general.
 
-**Why Minimal Implementation?**
+- **Why Minimal Implementation?**
 
 - **Prevents Over-Engineering**: It's easy to anticipate future requirements and build more than necessary. TDD keeps you focused on current requirements.
 - **Ensures Tests Drive Implementation**: If you implement more than the tests require, you're not really doing TDD anymore.
@@ -188,7 +188,7 @@ During refactoring, you might:
 
 In real development, the TDD cycle happens very quickly. Experienced TDD practitioners often complete the Red-Green-Refactor cycle in just a few minutes. Here's what a more realistic sequence might look like:
 
-**Test 1: Basic Addition**
+- **Test 1: Basic Addition**
 ```javascript
 test('should add two positive numbers', () => {
   const calculator = new Calculator();
@@ -196,7 +196,7 @@ test('should add two positive numbers', () => {
 });
 ```
 
-**Test 2: Handle Zero**
+- **Test 2: Handle Zero**
 ```javascript
 test('should handle zero correctly', () => {
   const calculator = new Calculator();
@@ -205,7 +205,7 @@ test('should handle zero correctly', () => {
 });
 ```
 
-**Test 3: Handle Negative Numbers**
+- **Test 3: Handle Negative Numbers**
 ```javascript
 test('should handle negative numbers', () => {
   const calculator = new Calculator();
@@ -283,7 +283,7 @@ This might seem counterintuitive—surely writing tests slows development down? 
 
 - **Usage Examples**: Tests show how code is intended to be used, serving as examples for future developers (including your future self).
 
-**Behavior Documentation**: Tests document what the code does in specific situations, which is often more useful than comments that describe how it works.
+- **Behavior Documentation**: Tests document what the code does in specific situations, which is often more useful than comments that describe how it works.
 
 ### Reduced Fear of Change
 
@@ -343,7 +343,7 @@ Mastering TDD involves learning various patterns and techniques that make the pr
 
 ### Test Organization Patterns
 
-**Arrange-Act-Assert (AAA)**
+- **Arrange-Act-Assert (AAA)**
 This pattern provides a clear structure for tests:
 
 ```javascript
@@ -362,7 +362,7 @@ test('should calculate compound interest correctly', () => {
 });
 ```
 
-**Given-When-Then**
+- **Given-When-Then**
 Similar to AAA but with more natural language:
 
 ```javascript
@@ -384,11 +384,11 @@ test('should send welcome email when user registers', () => {
 
 Test doubles are objects that stand in for real dependencies during testing. They're essential for testing code in isolation:
 
-**Dummy Objects**: Objects that are passed but never used
-**Fake Objects**: Working implementations with shortcuts (like in-memory databases)
-**Stubs**: Objects that return predetermined responses
-**Spies**: Objects that record information about how they're called
-**Mocks**: Objects with predetermined behavior and expectations
+- **Dummy Objects**: Objects that are passed but never used
+- **Fake Objects**: Working implementations with shortcuts (like in-memory databases)
+- **Stubs**: Objects that return predetermined responses
+- **Spies**: Objects that record information about how they're called
+- **Mocks**: Objects with predetermined behavior and expectations
 
 ```javascript
 // Example using Jest mocks
@@ -404,7 +404,7 @@ test('should log user actions', () => {
 
 ### Testing Strategies for Different Code Types
 
-**Testing Pure Functions**
+- **Testing Pure Functions**
 Pure functions (functions without side effects) are the easiest to test:
 
 ```javascript
@@ -415,7 +415,7 @@ test('should format currency correctly', () => {
 });
 ```
 
-**Testing Classes with Dependencies**
+- **Testing Classes with Dependencies**
 Use dependency injection and test doubles:
 
 ```javascript
@@ -431,7 +431,7 @@ test('should save user to database', () => {
 });
 ```
 
-**Testing Asynchronous Code**
+- **Testing Asynchronous Code**
 Modern testing frameworks handle async code well:
 
 ```javascript
@@ -448,10 +448,10 @@ test('should fetch user data from API', async () => {
 
 ### Refactoring Patterns
 
-**Extract Method**: Breaking large functions into smaller, focused functions
-**Extract Class**: Moving related methods and data into separate classes
-**Replace Magic Numbers with Constants**: Making code more readable and maintainable
-**Remove Duplication**: Consolidating repeated code patterns
+- **Extract Method**: Breaking large functions into smaller, focused functions
+- **Extract Class**: Moving related methods and data into separate classes
+- **Replace Magic Numbers with Constants**: Making code more readable and maintainable
+- **Remove Duplication**: Consolidating repeated code patterns
 
 ```javascript
 // Before refactoring
@@ -520,7 +520,7 @@ TDD can be applied in various contexts, each with its own considerations and cha
 
 ### TDD for Web Development
 
-**Frontend TDD**
+- **Frontend TDD**
 Testing user interfaces presents unique challenges:
 
 ```javascript
@@ -535,7 +535,7 @@ test('should display error message when form is invalid', () => {
 });
 ```
 
-**Backend API TDD**
+- **Backend API TDD**
 Testing REST APIs and services:
 
 ```javascript
@@ -559,7 +559,7 @@ test('should create new user via POST /users', async () => {
 
 Mobile TDD involves testing both business logic and user interface interactions:
 
-**iOS TDD with XCTest**
+- **iOS TDD with XCTest**
 ```swift
 func testLoginValidation() {
     let viewModel = LoginViewModel()
@@ -572,7 +572,7 @@ func testLoginValidation() {
 }
 ```
 
-**Android TDD with JUnit**
+- **Android TDD with JUnit**
 ```kotlin
 @Test
 fun `should validate email format correctly`() {
@@ -644,9 +644,9 @@ As you become more comfortable with basic TDD, several advanced concepts can mak
 
 ### Outside-In vs. Inside-Out TDD
 
-**Inside-Out TDD** starts with the lowest level components (like domain objects) and works outward toward the user interface. This is often more natural for developers because it builds from familiar, concrete concepts toward more abstract interfaces.
+- **Inside-Out TDD** starts with the lowest level components (like domain objects) and works outward toward the user interface. This is often more natural for developers because it builds from familiar, concrete concepts toward more abstract interfaces.
 
-**Outside-In TDD** starts with the user-facing interface and works inward toward the implementation details. This approach is more closely aligned with user needs but can be more challenging because it requires thinking about interfaces before implementations.
+- **Outside-In TDD** starts with the user-facing interface and works inward toward the implementation details. This approach is more closely aligned with user needs but can be more challenging because it requires thinking about interfaces before implementations.
 
 ```javascript
 // Outside-In: Start with the controller test
@@ -790,7 +790,7 @@ The effectiveness of TDD often depends on having good tools and frameworks that 
 - **Gradle/Maven**: Build tool integration for Java projects
 - **dotnet test**: .NET testing integration
 
-**CI/CD Integration**
+- **CI/CD Integration**
 Modern CI/CD pipelines make TDD more effective by running tests automatically:
 
 ```yaml
@@ -814,13 +814,13 @@ jobs:
 
 Modern IDEs provide excellent TDD support:
 
-**Features to Look For**
+- **Features to Look For**
 - **Test running**: Run tests directly from the editor
 - **Test debugging**: Set breakpoints and debug failing tests
 - **Test coverage**: Visual coverage indicators
 - **Refactoring support**: Safe refactoring with test validation
 
-**Popular IDEs with TDD Support**
+- **Popular IDEs with TDD Support**
 - **Visual Studio Code**: With extensions for various languages
 - **IntelliJ IDEA**: Excellent Java and JavaScript support
 - **Visual Studio**: Strong .NET testing integration
@@ -832,13 +832,13 @@ Understanding common TDD mistakes helps avoid pitfalls that can make TDD less ef
 
 ### The Ice Cream Cone
 
-**Problem**: Most tests are end-to-end tests with few unit tests
-**Why It's Bad**: E2E tests are slow, brittle, and provide poor error localization
-**Solution**: Follow the test pyramid—most tests should be fast unit tests
+- **Problem**: Most tests are end-to-end tests with few unit tests
+- **Why It's Bad**: E2E tests are slow, brittle, and provide poor error localization
+- **Solution**: Follow the test pyramid—most tests should be fast unit tests
 
 ### Testing Implementation Details
 
-**Problem**: Tests are coupled to implementation rather than behavior
+- **Problem**: Tests are coupled to implementation rather than behavior
 ```javascript
 // Bad: Testing implementation details
 test('should call database.save with user object', () => {
@@ -863,29 +863,29 @@ test('should persist user data', async () => {
 
 ### The Mockist Trap
 
-**Problem**: Overusing mocks to the point where tests don't reflect reality
-**Solution**: Use real objects when possible, mocks only when necessary
+- **Problem**: Overusing mocks to the point where tests don't reflect reality
+- **Solution**: Use real objects when possible, mocks only when necessary
 - Mock external dependencies (databases, APIs, file systems)
 - Use real objects for value objects and simple collaborators
 
 ### Test-Induced Design Damage
 
-**Problem**: Making design decisions solely to make code testable, even when it hurts the design
-**Solution**: Balance testability with good design principles
+- **Problem**: Making design decisions solely to make code testable, even when it hurts the design
+- **Solution**: Balance testability with good design principles
 - If code is hard to test, it might indicate design problems
 - But don't sacrifice clarity and simplicity just for testability
 
 ### The Ugly Baby
 
-**Problem**: Keeping poorly written tests because they were hard to write
-**Solution**: Treat test code with the same quality standards as production code
+- **Problem**: Keeping poorly written tests because they were hard to write
+- **Solution**: Treat test code with the same quality standards as production code
 - Refactor tests to improve readability and maintainability
 - Delete tests that don't add value
 
 ### Test Hoarding
 
-**Problem**: Writing too many tests at the wrong level
-**Solution**: Focus on testing behavior that matters to users
+- **Problem**: Writing too many tests at the wrong level
+- **Solution**: Focus on testing behavior that matters to users
 - Don't test every getter and setter
 - Don't test framework code
 - Focus on business logic and edge cases
@@ -896,31 +896,31 @@ TDD works best when practiced consistently by entire teams. Here's how to make T
 
 ### Building TDD Culture
 
-**Start with Training**: Ensure all team members understand TDD principles and practices
-**Pair Programming**: Use pair programming to spread TDD knowledge and practices
-**Code Reviews**: Include test quality in code review criteria
-**Lead by Example**: Have experienced developers model good TDD practices
+- **Start with Training**: Ensure all team members understand TDD principles and practices
+- **Pair Programming**: Use pair programming to spread TDD knowledge and practices
+- **Code Reviews**: Include test quality in code review criteria
+- **Lead by Example**: Have experienced developers model good TDD practices
 
 ### Establishing Team Standards
 
-**Testing Conventions**: Agree on testing patterns, naming conventions, and organization
-**Coverage Goals**: Set reasonable coverage targets (usually 80-90%)
-**Tool Choices**: Standardize on testing frameworks and tools
-**CI/CD Integration**: Make tests a required part of the development pipeline
+- **Testing Conventions**: Agree on testing patterns, naming conventions, and organization
+- **Coverage Goals**: Set reasonable coverage targets (usually 80-90%)
+- **Tool Choices**: Standardize on testing frameworks and tools
+- **CI/CD Integration**: Make tests a required part of the development pipeline
 
 ### Handling Legacy Code
 
-**Characterization Tests**: Write tests that capture existing behavior before making changes
-**Seams**: Identify points where you can insert tests into existing code
-**Refactoring**: Gradually improve code structure while maintaining test coverage
-**Boy Scout Rule**: Leave code a little better than you found it
+- **Characterization Tests**: Write tests that capture existing behavior before making changes
+- **Seams**: Identify points where you can insert tests into existing code
+- **Refactoring**: Gradually improve code structure while maintaining test coverage
+- **Boy Scout Rule**: Leave code a little better than you found it
 
 ### Dealing with Resistance
 
-**Start Small**: Begin with new features or bug fixes rather than trying to retrofit entire systems
-**Show Benefits**: Demonstrate how TDD prevents bugs and enables safer refactoring
-**Address Concerns**: Listen to legitimate concerns about TDD and address them systematically
-**Measure Success**: Track metrics like bug rates, deployment frequency, and developer confidence
+- **Start Small**: Begin with new features or bug fixes rather than trying to retrofit entire systems
+- **Show Benefits**: Demonstrate how TDD prevents bugs and enables safer refactoring
+- **Address Concerns**: Listen to legitimate concerns about TDD and address them systematically
+- **Measure Success**: Track metrics like bug rates, deployment frequency, and developer confidence
 
 ## The Economics of TDD
 
@@ -928,30 +928,30 @@ Understanding the economic impact of TDD helps make the case for its adoption an
 
 ### Short-term Costs
 
-**Learning Curve**: Initial productivity drop as developers learn TDD practices
-**Tool Investment**: Testing frameworks, CI/CD setup, training materials
-**Time Investment**: Writing tests takes time upfront
+- **Learning Curve**: Initial productivity drop as developers learn TDD practices
+- **Tool Investment**: Testing frameworks, CI/CD setup, training materials
+- **Time Investment**: Writing tests takes time upfront
 
 ### Long-term Benefits
 
-**Reduced Debugging**: Less time spent tracking down bugs in complex systems
-**Faster Feature Development**: Well-tested code is easier to extend and modify
-**Reduced Production Issues**: Comprehensive testing catches more bugs before deployment
-**Improved Team Velocity**: Teams can move faster with confidence in their changes
+- **Reduced Debugging**: Less time spent tracking down bugs in complex systems
+- **Faster Feature Development**: Well-tested code is easier to extend and modify
+- **Reduced Production Issues**: Comprehensive testing catches more bugs before deployment
+- **Improved Team Velocity**: Teams can move faster with confidence in their changes
 
 ### ROI Calculation
 
 Research suggests that TDD can provide significant return on investment:
 
-**IBM Study**: Found that TDD reduced defect rates by 40-90% while increasing development time by only 15-35%
-**Microsoft Study**: Showed similar results with 20-25% increase in development time but 40-90% reduction in defects
+- **IBM Study**: Found that TDD reduced defect rates by 40-90% while increasing development time by only 15-35%
+- **Microsoft Study**: Showed similar results with 20-25% increase in development time but 40-90% reduction in defects
 
 ### When TDD Might Not Be Worth It
 
-**Prototypes**: Quick throwaway code might not justify the TDD investment
-**Simple Scripts**: One-off automation scripts might not need comprehensive testing
-**UI-Heavy Applications**: Heavy UI applications might benefit more from other testing approaches
-**Performance-Critical Code**: Some performance optimizations might conflict with testable design
+- **Prototypes**: Quick throwaway code might not justify the TDD investment
+- **Simple Scripts**: One-off automation scripts might not need comprehensive testing
+- **UI-Heavy Applications**: Heavy UI applications might benefit more from other testing approaches
+- **Performance-Critical Code**: Some performance optimizations might conflict with testable design
 
 ## TDD and Modern Development Practices
 
@@ -959,24 +959,24 @@ TDD integrates well with other modern development practices and methodologies.
 
 ### TDD and Agile Development
 
-**User Stories**: TDD tests can directly implement acceptance criteria from user stories
-**Sprint Planning**: Test writing effort should be included in story estimates
-**Definition of Done**: Test coverage and quality should be part of completion criteria
-**Retrospectives**: Regular reflection on testing practices and their effectiveness
+- **User Stories**: TDD tests can directly implement acceptance criteria from user stories
+- **Sprint Planning**: Test writing effort should be included in story estimates
+- **Definition of Done**: Test coverage and quality should be part of completion criteria
+- **Retrospectives**: Regular reflection on testing practices and their effectiveness
 
 ### TDD and DevOps
 
-**Continuous Integration**: Automated test runs on every code change
-**Continuous Deployment**: High test coverage enables confident automated deployments
-**Monitoring**: Production monitoring can validate that tested behavior works in practice
-**Infrastructure as Code**: Even infrastructure changes can be test-driven
+- **Continuous Integration**: Automated test runs on every code change
+- **Continuous Deployment**: High test coverage enables confident automated deployments
+- **Monitoring**: Production monitoring can validate that tested behavior works in practice
+- **Infrastructure as Code**: Even infrastructure changes can be test-driven
 
 ### TDD and Microservices
 
-**Contract Testing**: Tests verify that service interfaces work correctly together
-**Service Isolation**: TDD naturally promotes loose coupling between services
-**Independent Deployment**: Comprehensive tests enable confident independent deployments
-**End-to-End Testing**: Careful balance between unit tests and broader integration tests
+- **Contract Testing**: Tests verify that service interfaces work correctly together
+- **Service Isolation**: TDD naturally promotes loose coupling between services
+- **Independent Deployment**: Comprehensive tests enable confident independent deployments
+- **End-to-End Testing**: Careful balance between unit tests and broader integration tests
 
 ## The Psychology of TDD
 
@@ -984,24 +984,24 @@ Understanding the psychological aspects of TDD helps explain why it works and ho
 
 ### Cognitive Benefits
 
-**Reduced Cognitive Load**: Tests externalize requirements, freeing mental capacity for problem-solving
-**Clear Success Criteria**: Green tests provide clear feedback about progress
-**Smaller Problems**: TDD breaks complex problems into manageable pieces
-**Flow State**: The TDD rhythm can promote flow state through clear goals and immediate feedback
+- **Reduced Cognitive Load**: Tests externalize requirements, freeing mental capacity for problem-solving
+- **Clear Success Criteria**: Green tests provide clear feedback about progress
+- **Smaller Problems**: TDD breaks complex problems into manageable pieces
+- **Flow State**: The TDD rhythm can promote flow state through clear goals and immediate feedback
 
 ### Emotional Benefits
 
-**Confidence**: Comprehensive tests provide confidence in code changes
-**Reduced Anxiety**: Less worry about breaking existing functionality
-**Sense of Progress**: Frequent test passes provide regular positive reinforcement
-**Professional Pride**: High-quality, well-tested code is satisfying to create
+- **Confidence**: Comprehensive tests provide confidence in code changes
+- **Reduced Anxiety**: Less worry about breaking existing functionality
+- **Sense of Progress**: Frequent test passes provide regular positive reinforcement
+- **Professional Pride**: High-quality, well-tested code is satisfying to create
 
 ### Overcoming Psychological Barriers
 
-**Perfectionism**: TDD's "good enough" approach helps overcome perfectionist tendencies
-**Fear of Change**: Tests provide safety net that reduces fear of modifying code
-**Impostor Syndrome**: Systematic approach builds confidence in development abilities
-**Analysis Paralysis**: TDD forces action through its disciplined cycle
+- **Perfectionism**: TDD's "good enough" approach helps overcome perfectionist tendencies
+- **Fear of Change**: Tests provide safety net that reduces fear of modifying code
+- **Impostor Syndrome**: Systematic approach builds confidence in development abilities
+- **Analysis Paralysis**: TDD forces action through its disciplined cycle
 
 ## Teaching and Learning TDD
 
@@ -1009,24 +1009,24 @@ TDD is a skill that requires practice to master. Here's how to effectively learn
 
 ### Learning TDD
 
-**Start Simple**: Begin with simple problems like mathematical functions or string manipulation
-**Practice Regularly**: TDD is a skill that requires regular practice to maintain
-**Read Tests**: Study well-written test suites to understand good testing patterns
-**Join Communities**: Participate in TDD communities and discussions
+- **Start Simple**: Begin with simple problems like mathematical functions or string manipulation
+- **Practice Regularly**: TDD is a skill that requires regular practice to maintain
+- **Read Tests**: Study well-written test suites to understand good testing patterns
+- **Join Communities**: Participate in TDD communities and discussions
 
 ### Teaching TDD
 
-**Kata Practice**: Use coding katas to practice TDD in a low-stakes environment
-**Pair Programming**: Work with experienced TDD practitioners
-**Code Reviews**: Get feedback on both production and test code
-**Gradual Introduction**: Start with simple examples before moving to complex systems
+- **Kata Practice**: Use coding katas to practice TDD in a low-stakes environment
+- **Pair Programming**: Work with experienced TDD practitioners
+- **Code Reviews**: Get feedback on both production and test code
+- **Gradual Introduction**: Start with simple examples before moving to complex systems
 
 ### Common Learning Challenges
 
-**Over-Engineering**: New practitioners often write overly complex tests or implementations
-**Under-Testing**: Missing edge cases or testing at the wrong level
-**Test Design**: Learning what to test and how to test it effectively
-**Refactoring Skills**: Learning to recognize and improve code smells
+- **Over-Engineering**: New practitioners often write overly complex tests or implementations
+- **Under-Testing**: Missing edge cases or testing at the wrong level
+- **Test Design**: Learning what to test and how to test it effectively
+- **Refactoring Skills**: Learning to recognize and improve code smells
 
 ## The Future of TDD
 
@@ -1034,23 +1034,23 @@ TDD continues to evolve as software development practices and tools improve.
 
 ### AI and TDD
 
-**Test Generation**: AI tools might automatically generate test cases from specifications
-**Test Maintenance**: AI could help maintain test suites as code changes
-**Mutation Testing**: AI-powered mutation testing could become more sophisticated
-**Code Review**: AI assistants might help review both production and test code
+- **Test Generation**: AI tools might automatically generate test cases from specifications
+- **Test Maintenance**: AI could help maintain test suites as code changes
+- **Mutation Testing**: AI-powered mutation testing could become more sophisticated
+- **Code Review**: AI assistants might help review both production and test code
 
 ### Language and Framework Evolution
 
-**Better Testing DSLs**: Domain-specific languages for testing might become more sophisticated
-**Framework Integration**: Testing frameworks might become more tightly integrated with development environments
-**Language Support**: Programming languages might add better built-in testing support
+- **Better Testing DSLs**: Domain-specific languages for testing might become more sophisticated
+- **Framework Integration**: Testing frameworks might become more tightly integrated with development environments
+- **Language Support**: Programming languages might add better built-in testing support
 
 ### Industry Adoption
 
-**Education**: TDD might become more commonly taught in computer science curricula
-**Tooling**: Better tooling might make TDD more accessible to more developers
-**Metrics**: Better metrics might help organizations understand TDD's impact
-**Culture Change**: Industry culture might shift to expect comprehensive testing
+- **Education**: TDD might become more commonly taught in computer science curricula
+- **Tooling**: Better tooling might make TDD more accessible to more developers
+- **Metrics**: Better metrics might help organizations understand TDD's impact
+- **Culture Change**: Industry culture might shift to expect comprehensive testing
 
 ## Conclusion: The Rhythm of Better Code
 

@@ -70,15 +70,15 @@ Raw capture is just the beginning. The clarification step involves processing ea
 
 For each captured item, Allen prescribes a specific workflow:
 
-**Is it actionable?**
+- **Is it actionable?**
 - If no: Delete it, file it for reference, or add it to a "Someday/Maybe" list
 - If yes: Continue to the next question
 
-**What's the next action?**
+- **What's the next action?**
 - If it takes less than 2 minutes: Do it now
 - If it takes longer: Decide whether to delegate it or defer it
 
-**Is it a single action or a project?**
+- **Is it a single action or a project?**
 - Single actions go into your action lists
 - Projects (anything requiring more than one step) go into your project list with the next action identified
 
@@ -164,23 +164,23 @@ Beyond day-to-day task management, GTD provides a framework for thinking through
 
 ### The Five Phases of Natural Planning
 
-**1. Purpose and Principles**
+- **1. Purpose and Principles**
 - Why are we doing this?
 - What are the guidelines and boundaries?
 
-**2. Outcome Visioning**
+- **2. Outcome Visioning**
 - What would success look like?
 - How will we know we're done?
 
-**3. Brainstorming**
+- **3. Brainstorming**
 - What are all the things we could do?
 - What ideas and possibilities exist?
 
-**4. Organizing**
+- **4. Organizing**
 - What are the key components and sequences?
 - What are the priorities and dependencies?
 
-**5. Next Actions**
+- **5. Next Actions**
 - What's the very next physical action required?
 - Who's responsible and when will it happen?
 
@@ -245,17 +245,17 @@ Effective GTD tools should provide:
 
 ### Popular GTD Tools
 
-**Simple Digital Tools:**
+- **Simple Digital Tools:**
 - Todoist with GTD templates
 - Things (Mac/iOS)
 - OmniFocus (Mac/iOS)
 
-**Paper-Based Systems:**
+- **Paper-Based Systems:**
 - Basic notebook with index system
 - Bullet Journal adapted for GTD
 - Tickler file (43 folders)
 
-**Comprehensive Platforms:**
+- **Comprehensive Platforms:**
 - Notion with GTD templates
 - Obsidian with task management plugins
 - Custom spreadsheet systems
