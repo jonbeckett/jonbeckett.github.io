@@ -96,6 +96,9 @@ footer:
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "Disclaimer"
+      icon: "fas fa-fw fa-info-circle"
+      url: "/disclaimer/"
 
 # Reading Files
 include:
