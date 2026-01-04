@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Jon Beckett Blog</title>
+    <link>https://jonbeckett.github.io</link>
+    <description>Personal blog posts</description>
+    <pubDate>Fri, 02 Jan 2026 20:58:05 +0000</pubDate>
+    <language>en-US</language>
+    <wp:version>1.2</wp:version>
+    <wp:base_site_url>https://jonbeckett.github.io</wp:base_site_url>
+    <wp:base_blog_url>https://jonbeckett.github.io</wp:base_blog_url>
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login>admin</wp:author_login>
+      <wp:author_email>admin@jonbeckett.github.io</wp:author_email>
+      <wp:author_display_name><![CDATA[Jon Beckett]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:term_id>1</wp:term_id>
+      <wp:category_nicename>2025</wp:category_nicename>
+      <wp:category_parent></wp:category_parent>
+      <wp:cat_name><![CDATA[2025]]></wp:cat_name>
+      <wp:category_description><![CDATA[]]></wp:category_description>
+    </wp:category>
+    <wp:category>
+      <wp:term_id>2</wp:term_id>
+      <wp:category_nicename>2026</wp:category_nicename>
+      <wp:category_parent></wp:category_parent>
+      <wp:cat_name><![CDATA[2026]]></wp:cat_name>
+      <wp:category_description><![CDATA[]]></wp:category_description>
+    </wp:category>
+    <item>
+      <title><![CDATA[Pottering]]></title>
+      <link>https://jonbeckett.github.io/pottering</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/pottering</guid>
+      <description></description>
+      <content:encoded><![CDATA[I’m having a day off from everything today. Well... I say everything, but I’ve filled the washing machine three times. Who knew that chores are a great excuse to avoid getting on with other things?
+
+I’m half expecting somebody to notice the title of the post, and write an acerbic email about J K Rowling without reading far enough to find out the post isn’t about Harry Potter. Maybe I’ll attach a picture of Hogwarts to tip them over the edge. It’s almost like an angry minority spend the greater part of their free time searching for opportunities to vent their fury.
+
+I’ve always found it interesting - how the “social internet” seems to amplify minorities, rather than sizeable majorities - about all sorts of things. It seems the louder you shout, and the less you appreciate any view or opinion other than your own, the more your nonsensical rants become amplified.
+
+People with an axe to grind preach to their favourite echo chambers online, and the rest of us have to put up with their noise as we might a noisy neighbour - mostly because we’re busy getting on with our own lives.  That doesn’t mean anybody in particular is right or wrong - or that we should take more notice of this or that happening - it’s just that we all have our own battles - our own challenges.
+
+I can’t fight everybody’s battles.
+
+Now and again something happens, and I can’t help noticing how it re-factors what is seen as important. Mass starvation, civil war, or the rise of a dictatorship tend to re-calibrate the news cycles - rather than circular arguments about the importance of using the correct pronoun.
+
+Anyway.
+
+How on earth did I get from listening to tunes and hanging washing out to tip-toeing around the edge of gender politics and hate speech?
+
+I guess it’s difficult to ignore the news at the moment - especially when so many friends are affected by their own friends and relatives “fucking around and finding out” at the ballot box - or things not turning out the way they might have wished, and spending the next few years spouting anger and bile at anybody that will listen.
+
+It’s happening everywhere - not just in the US - where the most vocal presume the rest of the room is on their side while standing atop self-made soap-boxes spouting poorly informed nonsensical rubbish.
+
+Maybe artificial intelligence could not only check spelling and grammar, but also estimate how much anybody might care about what’s being written? That it would refuse to publish this blog post is not lost on me.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2025-09-21 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-09-21 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>pottering</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Six Days]]></title>
+      <link>https://jonbeckett.github.io/six-days</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/six-days</guid>
+      <description></description>
+      <content:encoded><![CDATA[Six Days
+Six days have somehow passed since I last wrote - there’s quite a lot to unpack. I’m not really sure where to start, if I’m honest.
+
+Somehow a visit to London last week completely escaped the blog. The company I work for has moved offices - to a space near Paddington Station. Finding the new location was something of an adventure, given that I’ve rarely if ever explored the area around Paddington - my usual exit has been out towards Kensington Gardens and Hyde Park with the children.
+
+It’s always interesting - meeting up with co-workers. Because I work from home I’ve only met the majority a handful of times in the “real world” - we predominantly meet through video calls. Somehow it’s ok for people to remark if somebody is bigger than they thought (I’m quite tall) - but I would never dream of telling anybody “you’re far smaller than I thought”... Maybe this is a part of the “law of the giants” ?
+
+I survived, and was back home in time for tea and medals.
+
+On Tuesday night I met up with old co-workers for a night out. We used to share an office together - before the pandemic - and before “working from home” became a thing. Since then a lot of water has passed under the bridge - the company was acquired, and we have slowly migrated from being important cogs in a small machine to somewhat insignificant footnotes in a leviathan.
+
+Having known each other (for the most part) for over a decade, we became far more than just co-workers. We know each other’s families, and have shared the stories of meeting partners, getting married, and raising children along the way. My other half accompanied me - and worried she would be the only woman there. Thankfully another partner arrived a little later.
+
+Before we knew it the pub called last orders, and we all looked at our watches - surprised.
+
+“I thought it was perhaps 9pm - how is it 11pm already?”
+
+We looked at each other and laughed.
+
+You know the funny thing about meeting up with people you haven’t seen for ages? You catch everything off each other. Within twenty four hours I could feel my body going down-hill. I guess the up-side to working from home is you rarely catch whatever is doing the rounds - but the downside is you lose out on the immunity against all the rubbish that’s doing the rounds. You can’t win.
+
+The next day - against every sensible thought in my head - I went for a run.
+
+I had started back on the “Couch to 5K” programme a little while ago, but stalled after work and home pretty much trampled my life (a long story I won’t be telling here).
+
+Following encouragement from a friend, I pulled my running shoes back on, and headed out. I won’t deny - it felt good - even though I got worse the next day. A part of me was sticking my fingers up at the virus I knew I had - asking it why it had shown up the moment I planned to do anything for me?
+
+It’s funny how the universe does that.
+
+I’ll survive. It’s only a cold. I do feel properly rubbish though. In tandem with it, my other half then caught (we think) the same thing at her work too. I hadn’t said anything about how bad I had been feeling - because what does that achieve - but when she came home on Friday feeling rotten, I confessed.
+
+While feeling sorry for myself on Thursday night I took it upon myself to do something about the multitude of parallel blogs I had conjured a month or so ago. While not able to make my mind up about Substack, Ghost, Wordpress, or Tumblr, I invented a Hydra of sorts - and started posting the same content to all of them. A proper “fuck around and find out” tactic if ever there was one.
+
+It’s amazing how feeling rubbish concentrates your mind on doing as little as possible though - and wielding a wrecking ball to anything outside of that became unexpectedly freeing. I said goodbye to Ghost (which was lovely, but slow and expensive), and Substack (which is slowly morphing into the same hell as every other social swamp on the internet).
+
+So yes. I’m back at Wordpress. Back where I started.
+
+Actually - that’s not entirely true. Back before 2003, my blog began as a hand-written PHP script (which you can still find, if you know where to look - the last time I looked, it had been downloaded half a million times!). There’s a back-story that I won’t bore you with.
+ 
+If you’re reading this via email - your subscription was automagically transferred (by me - so not really magic). You don’t need to do anything.
+
+Today... Saturday... Today has been a slow day.
+
+I did make it to Wetherspoons this morning, to grab a cooked breakfast and perhaps write this. I arrived an hour later than usual though, and the entire place was filled with young families not controlling their children. Normally my patience is pretty good - but add a cold and a temperature to the melting pot, and I was kind of “out of fucks”. I ate my “small American” (which still makes me laugh, writing it down), and left.
+
+We both know that chasing our own tail and ignoring being sick never ends well, so have taken our own advice for a change.
+
+We were supposed to go to the pub to watch the rugby this afternoon (well done Red Roses!), and were supposed to visit a neighbour to help celebrate his birthday this evening. Instead we’re holed up at home, wrapped up warm, sipping hot drinks, and watching rubbish on the TV. Well... my other half is watching the TV - I’m obviously writing this.
+
+I don’t really watch much television any more. Sure, the occasional series might catch my interest, but it’s rare. In recent years Mr Robot, Halt and Catch Fire, Westworld, the OA, Silo, For All Mankind, and Fallout have been the only stand-outs that come to mind.
+
+Instead of force feeding myself a steady diet of forgettable television, I tend to spend my evenings tinkering with content for YouTube, or reading. Not always books - quite often the news. I have a free trial of Apple News+ at the moment, which scrapes stories from all corners and removes the worst of the advertising that typically pervades modern journalism. It doesn’t get rid of it entirely - because news organisations sold out a very long time ago - but it’s infinitely better (at a cost) than the web.
+
+The worst part about reading the news? You quickly realise which side each journalist or network is on - and how they have re-framed every story to fit their narrative. It’s tiring - picking slivers of truth from bias, spite, vitriol and hubris.
+
+Anyway.
+
+After not writing for six days, I’ve ended up writing several hundred more words than I was planning to. I’ll shut up now.
+
+I hope you’re well, and will try to write more often in the days to come - because nobody wants to wade through a blog post his long. As Norah Ephron once wrote - blogs are sort of like an exhale - not an opera with encores.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2025-09-27 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-09-27 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>six-days</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[An Evening at the Theatre]]></title>
+      <link>https://jonbeckett.github.io/an-evening-at-the-theatre</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/an-evening-at-the-theatre</guid>
+      <description></description>
+      <content:encoded><![CDATA[After spending much of the weekend hiding from the world with a nasty cold, we ventured out tonight rather than waste the theatre tickets we bought over a year ago and promptly forgot all about. If the theatre hadn’t sent an email reminder yesterday, there would have been two empty seats in row C this evening.
+
+Hiding from the world isn’t all it’s cracked up to be, in case you were wondering. If you’re not feeling great, and then shut yourself in the house with somebody else that’s not feeling great either, there’s a temptation (at least for the other person it seems) to berate you for anything and everything.
+
+It doesn’t help that I really don’t like negativity. I’ve written in the past about the temptation to ignore disasters and look at the next thing, and the next.
+
+Anyway.
+
+After surviving an entire weekend of slings and arrows, this evening we snuck off to the theatre together to see Jack Dee.
+
+If you’re not from the UK, or you’re younger than thirty, you’re probably wondering who Jack Dee is.
+
+Jack Dee is a stand-up comedian - only he really doesn’t tell jokes as such - he complains about things. Endlessly. Now, given that I’ve just said I don’t like negativity, you’re probably wondering why I might be able to withstand a couple of hours barrage of his misgivings and misadventures.
+
+There’s a difference between complained at, and being witness to somebody complaining to nobody in particular. A huge difference. And my word were his complaints relatable. My face hurt from laughter as he descended further and further into a rant laden monologue about anything and everything.
+
+By the time we left, we both agreed that laughter really is the best medicine.
+
+After a few days of feeling pretty rotten and driving each other up the wall, we wandered out of the theatre with toothy grins and endless recollections about this bit, or that bit, or the other.
+
+Of course that all came to a screeching halt after climbing to the sixth floor of the multi-storey car-park filled with every other audience member, who seemed to be suffering from a collective case of “you’re not pushing out in front of me - I’ll die on the sixth storey of the car park rather than lose out on moving my car ten feet further forward before you do”...
+
+Honestly - how do these people function in a normal world? When I used to ride a bicycle to work I became de-sensitised to it - I guess in the intervening period I’ve forgotten just what colossal assholes people can be.
+
+Deep breaths.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2025-09-28 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-09-28 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>an-evening-at-the-theatre</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[The Need to Slow Down]]></title>
+      <link>https://jonbeckett.github.io/the-need-to-slow-down</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/the-need-to-slow-down</guid>
+      <description></description>
+      <content:encoded><![CDATA[While racing from one thing to another throughout a typical day, I rarely give any thought to what I might not do – I’m invariably consumed with what I have not done – or what others might be able to accuse me of not doing.
+
+It never occurs to me to not do something – to tell anybody no. I’m not sure if that’s a character failing specific to me, or if everybody suffers from the same problem to an extent.
+
+Whenever I visit the city, I’m always curious about people endlessly rushing to get somewhere – to do something. I wonder what they are rushing towards – what their very important mission involves.
+
+When we travel to visit my parents, we can feel the world slow down – the further we get from London. Perhaps all big cities imbue their inhabitants with the same mania?
+
+In the same way that former professional sports-people seem to have problems with weight when they finish competing (it turns out sitting in an office chair doesn’t burn as many calories as circuit training), I have a similar problem with books. I used to read a lot. For several years I commuted into and out of London each day – four hours on the train – two hours each way. I started by reading the latest books out, and then side-tracked into reading a succession of banned or notorious books – the likes of Lolita, Crash, and Catcher in the Rye. I also read a lot of classics – Anna Karenina, On the Road, and Ulysses among them.
+
+When I stopped commuting, it never occurred to me to stop buying books. I still buy books now – but I don’t make time to read them. I’m too busy trying to do this, that, or the other thing during a typical day.
+
+Just last night I sat in bed doom-scrolling the news on an iPad until 1am. I was back up at 7am, dragging the bins down the driveway, and patting our neighbour’s labrador on the head.
+
+In the couple of hours before work I emptied the dishwasher, half-re-filled it, tidied the lounge up, picked up shoes and coats from the hallway floor, checked email, took more rubbish out, and countless other things.
+
+It’s got to the point where I don’t even realise I’m doing it – I can’t just “be” – there’s always something that needs doing. Something to pick up, something to wash, something to put away, something to throw in the bin, something, something, something…
+
+I know I need to slow down.
+
+Even when I collapse in front of the home-computer on an evening, there’s a hundred and one videos that might be made for the YouTube channel (last night I showed newbies how to borrow a 747, in case they ever come across one with the keys left in it)… They don’t have keys, if you were wondering.
+
+I need to slow down, sit down, and just be. I kind of did a little bit last weekend – but then I had a bad cold, which is perhaps my body’s way of saying “you know those hundred things you were going to do this weekend?” (cue sinister giggle).
+
+Perhaps I should write a self help book on slowing down – and just fill every page with “no, really – slow down”.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2025-09-30 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-09-30 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>the-need-to-slow-down</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Life without Computers]]></title>
+      <link>https://jonbeckett.github.io/life-without-computers</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/life-without-computers</guid>
+      <description></description>
+      <content:encoded><![CDATA[Can you imagine what life would be like without a computer? I’m old enough that I don’t need to imagine it – I can remember it.
+
+Our family’s first computer arrived when I was about 11 years old. I was part of the 1980s home computer boom in the UK – the generation that grew up with the BBC Micro, Sinclair ZX Spectrum, Commodore 64, and Amstrad CPC 464. We didn’t have any of those. My Dad bought an “MSX” – an attempt by the electronics giants of the day (Sony, Toshiba, Sanyo, Yamaha, Panasonic, etc) to create compatible computers. It didn’t go well.
+
+The MSX was eventually upstaged by an Atari ST, and then a succession of PCs, video game consoles, mobile phones, tablets, laptops, and whatever else. There’s a Raspberry Pi propped on the desk behind me – which many might argue is a spiritual descendent of the BBC that sort-of started it all in the UK (if you’ve not seen the dramatisation “Micro Men”, I implore you to look it up).
+
+So yes. I was around before.
+
+A childhood without computers was filled with all sorts of activities that people with very thick rose tinted spectacles spend inordinate amounts of time reminiscing about – invariably claiming that somehow life was somehow much better then. I tend to disagree, for all sorts of reasons.
+
+Most of the weekends and early evenings during my formative years were spent climbing trees, visiting friends houses, going on bike rides, playing games in the street with neighbourhood kids, visiting nearby play parks, and so on.
+
+My world was small.
+
+Looking back, from the moment we were out-of-sight of the house, our parents had no clue where we were, or how to find us. Our knowledge of anybody in town was via hearsay. An awful lot of local wisdom was the result of whispers, lies, and wild speculation.
+
+If you wanted to find out somebody’s address or phone number, you looked in “the phone book” – a giant printed tome that listed everybody’s phone number in the local area. If you wanted to find a business, you looked in the “Yellow Pages” – a giant printed tome listing every business in the local area. If you wanted to find out how to spell a word, you looked it up in a dictionary.
+
+If you wanted to watch something on the television, you had to wait for it to be broadcast. We didn’t own a video recorder until I was perhaps 10 years old. Before that, if you missed a show, you missed it. Tough luck. I remember staying in one Saturday to watch “The Valley of Gwanji” – a Ray Harryhousen monster movie (I was a dinosaur nut). For whatever reason, the BBC pulled the movie at the last moment. They received thousands of letters of complaint from children across the country.
+
+Those letters of complaint would have been hand-written, or typed on mechanical typewriters and posted in postboxes that still stand on most street corners across the country.
+
+My Uncle moved to the United States when I was very young. Throughout my childhood our only contact with him was either through letters, or a once a year transatlantic phone call that cost a significant amount of money. I remember patiently waiting in turn for a few seconds to say hello.
+
+Banking involved going to the bank. End of story. The bank was only open during certain hours of the day, and there were no cashpoints. Most people were paid in cash, and paid it into the bank to earn interest. If you ran out of money, and the bank was shut, that was it – you couldn’t do anything that involved money until it re-opened. Paying for anything directly from your bank account involved writing a cheque, or filling in a receipt with a carbon paper duplicate kept by the store. Transferring money via paper cheques took days.
+
+My Aunt worked for the family business as a book-keeper. She wrote T accounts, day books, ledgers, and journals by hand. Trial balances and balance sheets were written and calculated on huge pieces of lined paper, relying on mental arithmetic. Did you know that if your answer for a calculation is out by a quantity divisible by 9, it means you’ve transposed some digits somewhere? Well now you do…
+
+All of these experiences have been made immeasurably better by computers, and latterly the internet (computers talking to computers).
+
+At a moment’s notice I can find out where my children are, and can tell them when dinner will be. I can talk to my American family any time I want. I can see and hear them as clearly as if they were sitting in the room with me. I can send messages to the other side of the world instantaneously. I can pay, and be paid to or from anybody in the world, instantaneously, at any time of day. I can find out almost anything about a breaking news story immediately – and get different perspectives on the story from different sources. Accounting has been transformed – with spreadsheets and accounting software changing the world of business immeasurably. I can watch any TV show I want, when I want, and jump to any moment in the show instantaneously. I can listen to any music I want by any artist, at a moment’s notice. I can buy any book I want, and have it in my hand to read in seconds.
+
+None of these things were possible before computers.
+
+Having all of these abilities and opportunities isn’t without cost though. We are never truly disconnected any more. We are never completely offline. We are always aware that a cacophonous, fast, chaotic world is turning all around us, all the time. It’s no surprise that anxiety has become such a prevalent issue.
+
+A few years ago I downgraded from a smartphone to a basic Nokia candy bar phone for a few months. It was glorious. And frustrating.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2025-10-02 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-02 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>life-without-computers</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Taylor and the quiet rebellion]]></title>
+      <link>https://jonbeckett.github.io/taylor-and-the-quiet-rebellion</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/taylor-and-the-quiet-rebellion</guid>
+      <description></description>
+      <content:encoded><![CDATA[Taylor Swift’s new album “The Life of a Showgirl” arrived this morning. As a fifty-something guy that invariably listens to retro radio stations targeted at people of a certain age, I probably have no business listening to songs sung by a girl twenty years younger than me. Or so expectation would have you believe.
+
+I’ve never been one to conform entirely to expectation.
+
+Do I feel a little out of place in my enthusiasm to support somebody or something that opens me to ridicule from family and friends? A little. I sometimes feel that we are ruled so much by that which is deemed acceptable that having at least something that is our own is kind of important.
+
+It really doesn’t matter what it is.
+
+There’s a part of me that’s utterly fed up with being attacked for my thoughts, opinions, actions or inactions. There was a moment while out with friends a while ago when the entire table turned on me – telling me what I should be doing – how I should be thinking. I can’t remember ever having done that to somebody else – I would never dream of it. I sat and smiled. Inside I was furious.
+
+So yes. I’ll figuratively die on Taylor’s hill. In a world filled with so much hate, division, obligation, and expectation, I’m going to listen to songs I like, watch movies I like, read books I like, eat food I like, and spend time with people I like.
+
+Perhaps if more people invested in themselves rather than trying to shape and bend those around them to their preconceptions, the world might be a very different place.
+
+I’ll be over here, engaging in my quiet rebellion. The music is great. You’re welcome to visit.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_date>2025-10-03 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-03 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>taylor-and-the-quiet-rebellion</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[One computer to rule them all]]></title>
+      <link>https://jonbeckett.github.io/one-computer-to-rule-them-all</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/one-computer-to-rule-them-all</guid>
+      <description></description>
+      <content:encoded><![CDATA[I’m sitting, writing this post while holed up in the junk room at home. I’m sitting in front of a desk with two monitors on it – one connected to a hulking PC that can out-perform most supercomputers, and the other connected to a svelte brushed aluminium slab – a Mac mini. Across the room my work laptop sits on a stand next to a monitor and keyboard, and behind me a Raspberry Pi 500 sits connected to yet another monitor.
+
+The eleven year old me would have loved this room.
+
+When I was younger, I was quite opinionated about computers. Looking back, this was driven mostly by “what we had”, “what others had”, and a healthy dose of “defence of self”. It’s the same defensive countermeasures that kick in when anybody with a Playstation argues with anybody that owns an Xbox. It’s been going on for decades.
+
+I am old enough to remember school friends with Spectrums, Commodores, Amstrads, and various other computers all arguing about what was better. I’m also old enough to remember the Atari ST being compared against the Amiga, and the PC being compared against the Mac (remember the “I’m a Mac” ads?).
+
+Time has brought a certain amount of perspective to all of these debates. I now realise that most arguments come down to “I chose this one, and I’m going to die on the hill defending my decision”. It doesn’t really matter what it is.
+
+I’ve now owned pretty much everything I might have once derided. I’ve stood on almost every patch of greener grass. I’ve learned the hard way that nowhere is particularly better than anywhere else.
+
+I guess that makes me a technology agnostic of sorts, which probably annoys the more opinionated enthusiasts far more than it should. It never ceases to amaze me how much effort some people will put into constructing their own hills to die on.
+
+Just for the record, the Amiga was at least 30 years ahead of the curve. I only discovered this 30 years later – because I didn’t have one back in the day. It was better than the Atari ST, the Mac, or the PC, and very few knew – because Commodore couldn’t have found their own ass with both hands with instructions.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_date>2025-10-04 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-04 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>one-computer-to-rule-them-all</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Sunday morning in Spoons]]></title>
+      <link>https://jonbeckett.github.io/sunday-morning-in-spoons</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/sunday-morning-in-spoons</guid>
+      <description></description>
+      <content:encoded><![CDATA[I’m sitting in Wetherspoons this morning, feeling incredibly smug to have bagged a table in a booth. Doing so seems to depend on arriving before 9:30.
+
+I had planned to be here for breakfast yesterday morning, but overslept. That seems to happen when you work 18 hour days all week. I looked at the bedside alarm clock, saw 9:15 on its display, and realised Spoons had gone. Arriving mid-morning – especially on a Saturday – would tip me into chaotic family breakfast hell.
+
+The rest of yesterday unfolded much as I imagine a supermarket trolley full of brick-a-brack being dipped down a steep rocky hillside might unfold.
+
+We hired a carpet cleaning machine – a “Rug Doctor”. It looks like a heavy duty bouncer robot from Wall-E movie. You fill it with water and detergent, then pull it slowly backwards over carpets while it makes thunderous gurgling, roaring, and sucking sounds. You don’t want to know how horrifyingly brown the resulting water in its reservoir became.
+
+After turning half the house inside out and opening all the windows, we then set off to the shop of dreams – John Lewis – to order a new cooker.
+
+Our brave old cooker is over twenty years old. We bought it shortly after getting married. It’s been slowly failing for the last decade – propped up by spare parts from various engineers that have come out to look at it. Perhaps it’s most entertaining moment came when I called the manufacturer service department to get a replacement part for it, and they calmly informed me that they stopped manufacturing that model seven years previously.
+
+We tried to get the interest free credit they advertised, and tried to get fitting, and disposal of the old cooker included. It turns out this is almost impossible to achieve because of some logistical black-hole peculiar to John Lewis. While talking at some length to the lovely floor cooker sales person, another family wandered over with exactly the same request. You might think it quite common to want to take advantage of interest free credit and cooker fitting and disposal – apparently not in the mind of the geniuses that advertise such plans.
+
+We came away with the promise of a phone call on Tuesday. We’ll see what happens.
+
+Looking around John Lewis is always entertaining. While my other half had the circular conversation in the cooker department I wandered over to the coffee machines. I thought our Dolce Gusto machine was quite snazzy. Apparently not as snazzy as a brushed metal artisan bean-to-cup machine that costs as much as a small family car. I nearly fell over.
+
+You know the funny thing – as I gazed incredulously at the coffee machines, the one thing that went through my mind, other than “these must be for people that want to play at being a Starbucks barista at home”, was how horrific they must be to clean. I then began to wonder if people that own them also have stocks of cardboard mugs to write their family members names on – or their own name, if they live on their own. Perhaps they ask themselves if they want chocolate on their cappuccino too?
+
+We left John Lewis shortly after I spotted pepper grinders that cost more than a year’s subscription to any of the popular TV movie channels.
+
+In other news, my other half had COVID earlier in the week. She was sick throughout last weekend, but it only really showed up properly in the first half of the week. Apparently two new strains have been ripping through the general population. I seemed to escape with nothing more than feeling rubbish for a few days.
+
+We are back up to a household of six again at home, which is making every day a bit of an adventure. I suspected I might have company this morning for the Spoons escape, but apparently getting up any earlier than mid-morning on a weekend is somewhat challenging.
+
+The predicted arrival of countless young families has begun. I need to get out of here. A group of… (I try to count them without looking too obvious)… nine just sat down on the adjacent table to my booth. Another similarly sized group has arrived behind them.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_date>2025-10-05 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-05 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>sunday-morning-in-spoons</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Be Careful What You Wish For]]></title>
+      <link>https://jonbeckett.github.io/be-careful-what-you-wish-for</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/be-careful-what-you-wish-for</guid>
+      <description></description>
+      <content:encoded><![CDATA[Aviation has been a common thread throughout my life – from the giant red encyclopedia that was ever present in our house, to the balsa Tiger Moth my Dad made at the kitchen table when we were small (the smell of dope still brings that memory back), and my brother building countless plastic model kits from the local toy shop.
+
+I still have the encyclopaedia. It’s in a sorry state, but I have never quite been able to part with it. I just pulled it from the shelf – it was published in 1977.
+
+My own involvement in aviation took a lot longer to materialise, coinciding with the arrival of 16 bit computers, and a game called “Sublogic Flight Simulator” in the late 1980s. It was basic. Filled wireframe graphics, and a cursory representation of the world and your aircraft within it.
+
+Over the years that followed, I played around with the various aviation video games that followed – “simulating” everything from gliders, to stunt-planes, jumbo jets, and all manner of military aircraft.
+
+And then children came along.
+
+When children entered our lives, spending any money on ourselves, or anything we were interested in became something of an afterthought. For the better part of a decade we came last on every list – and the computer I had access to at home became affectionately known as “Trigger’s Broom” (a long story).
+
+And then – about five years ago – my Dad upgraded his computer, and asked if I might like his old one. It’s worth noting that he was upgrading because after retiring a few years previously, he too had become interested in flight simulator video games – and had joined a group that met up online to “fly” together. When we visited for holidays, we would crack jokes about the radio telephony language we heard from my Dad’s room while taking part in events with his friends.
+
+So yes – I inherited my Dad’s old computer – which was quite capable of running a flight simulator. And it became the start of an enormously steep slippery slope.
+While trying to learn the ropes and play catch up with a decade’s worth of flight simulation video game development, I ended up acquiring a pretty complicated aeroplane – a faithful recreation of the Boeing 737 – where most of the simulated systems within the cockpit worked just like the real thing.
+
+Given the nature of my work – I’m a software developer in the real world – I took to the complexity of 150 ton airliners like a duck to water – learning how to operate them, navigate around the sky with them, and most importantly programme them. Within weeks I was being asked if I could record an instructional video to help the various members of my Dad’s group.
+
+I had only ever recorded my computer screen once before – for a demonstration at work – so that was something of a learning curve too. I uploaded the resulting video to YouTube (because it was free), and didn’t think much more about it.
+Within days the video started getting likes and comments – so I recorded another one – and another. It became somewhat addictive – sharing knowledge about whatever I was learning on a given week with the internet community.
+
+After several months of uploading videos, YouTube informed me one day that I had enough followers to “monetise”. This apparently meant that I made a cut of the advertising revenue from the adverts that YouTube injects in the middle of videos.
+
+I was quite excited about this new development. My other half rolled her eyes, and laughed when the first month’s very small payment arrived. She wasn’t laughing a few months later when it became obvious we would have to declare everything properly to the tax man. Thankfully she was a chartered accountant in a previous life, so started doing my books for me.
+
+And so the last few years have progressed – more subscribers – more money – more tax declared. The little YouTube channel that could is slowly grinding towards 50,000 subscribers. Its associated blog has over two thousand email subscribers. It’s all a bit mad really.
+
+And so we come to the title of the post – being careful what you wish for.
+
+While out for dinner with some co-workers a few months back, somebody asked how the whole YouTube thing was going. I was brutally honest – explaining that while any of them had watched any TV shows or movies for the last few months – I had not. On most evenings and weekends – the moment I finish work, and get through dinner and washing up – I sit down to start creating more content for the channel – often until the early hours.
+
+It has become a second job. A difficult second job, that’s sometimes draining, and sometimes intimidating.
+
+As time has gone on, I’ve learned more about aviation, and more has become expected of me. I’m now not only trying to operate and fly all manner of aircraft – to share with the community – but also interacting with air traffic controllers, planning routes, getting clearances, and so on. I’m also writing guides to various aircraft – detailing how to get them up and running.
+
+None of this was planned.
+
+The simulators have become accurate enough that real-world pilots have emailed me privately – thanking me for refreshers on the various avionics systems. They also share the most wonderful stories with me about the various aircraft they have flown. They are invariably surprised to learn that I am not, and have never been either a private or professional pilot.
+
+Before anybody asks, I have no plans to fly a real-world aircraft, other than perhaps to validate that I can. I already proved it years ago – going for a flight with a neighbour who was trying to get his hours up. I helped fund a flight, and he couldn’t quite believe how good I was, given no lessons. I didn’t have the heart to tell him the real thing was exactly the same as the simulator.
+
+The funny thing? Although sometimes stressful, and sometimes daunting, I still love flight – everything about it – from getting into new aircraft for the first time, to finding my around their cockpit, getting their systems and engines up and running, to taking them for first flights and beyond.
+
+There’s something about flying in the worst conditions – when you can’t see where you’re going – navigating via instruments – trusting in everything you know to get you safely to a destination. There’s also something about recovering from failures – when things start to go south, and you’re forced to think laterally as quickly as possible.
+
+Perhaps the most important lesson learned while sharing content with such a wide and diverse audience is that failure is a part of the process. I never edit, and I never re-do. If something goes wrong, it goes wrong. Every failure is a learning opportunity – something to improve on next time. Sometimes you need an incredibly thick skin.
+
+Anyway.
+
+There you go.
+
+My favourite (read: only) hobby – pretending to fly all manner of aircraft all over the world, and sharing it with the world via a YouTube channel, while making enough pocket money for it to become a problem.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_date>2025-10-06 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-06 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>be-careful-what-you-wish-for</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Decompression]]></title>
+      <link>https://jonbeckett.github.io/decompression</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/decompression</guid>
+      <description></description>
+      <content:encoded><![CDATA[I’m having a “night off” tonight. Trying to slow down. Listening to music. Noodling around with this and that on the Mac. Not really achieving anything, and not worrying too much about that.
+
+It’s harder than it sounds.
+
+So much of my life is dictated by struggling from one thing to the next.
+
+While eating dinner this evening, I prompted the conversation around the table - asking how everybody’s day had been. While listening to others, I started to panic - trying to remember what I had actually been doing all day. I know the day was busy - but unless prompted, might struggle to piece the day back together.
+
+There have been too many days like that recently.
+
+Earlier this week I switched tracks to a different project at work for a couple of days. Honestly, it was like a mini-break of sorts. A smaller project, for a smaller client, without anywhere near as much chaos. A known quantity. Working on my own to progress changes without needing to consult, discuss, invent, problem solve, or herd any digital cats.
+
+Of course then I returned to the gargantuan, chaotic, messy, vast, hydra-like project that seems to be chewing people up at an alarming rate. Rather perversely, I enjoy the bigger projects too. There’s something about lifting a colossal machine with many parts into your head, and piecing together an understanding of it’s scale, shape, and workings.
+
+Anyway.
+
+If you’ll excuse me, I have some very serious nothing to get on with before collapsing into bed. It all begins again tomorrow.
+
+p.s. we’re going to an 80s themed party at the weekend - I’m going to look like a proper idiot.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_date>2025-10-08 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-08 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>decompression</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[One Virtual World]]></title>
+      <link>https://jonbeckett.github.io/one-virtual-world</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/one-virtual-world</guid>
+      <description></description>
+      <content:encoded><![CDATA[Today’s WordPress writing prompt asks who you might give a million dollars to, if you had a million dollars to give away.
+
+I wouldn’t give it to an individual, and I wouldn’t give it to an organisation or charity, because I see far too many top-heavy charities where a sizeable portion of the donations pay the salaries of the charity staff, rather than making it anywhere near the intended participants.
+
+I also have problems with charities that prey on the vulnerable – exploiting people and their families during end of life, or while recently bereaved. I once had an acquaintance approach me about building a website to take advantage of people in those circumstances, and was predictably horrified – especially as the person in question liked to portray themselves as a paragon of virtue.
+
+I wouldn’t setup a bursary, or anything like that either – paying for somebody to go to college just encourages the college to increase their fees. It probably doesn’t help that I’m from a country with very good state education. I think education should be available to all – paid for by all. Helping the 1% doesn’t help anybody else. And yes, I do have a chip in my shoulder about elitism.
+
+So.
+
+How best to spend a million dollars?
+
+Fund the setup of a grass-roots non-profit foundation to set out the design of virtual worlds that everybody can access and use for free, and anybody can host and extend for free. We’re really talking about establishing the protocols and standards needed – so that clients can be built that adhere to those protocols, which will allow anybody, anywhere to join and move between virtual world(s) and interact with one another without friction.
+
+The various attempts thus far at world building have always been lead by commercial interests – the likes of Second Life, There, Horizon Worlds, and so on. They are re-treading the path walked by the earliest social networks – who all tried to build monolithic commercial offerings – AOL, CiX, Compuserve, Prestel, the Microsoft Network – they all failed because they were walled gardens, and people aren’t stupid.
+
+I’ve often looked at Minecraft, and wondered what it could have been, if the founders had looked just a little further than the game they wanted to play. Imagine if it had been a massively multiplayer world – they were only a couple of steps away from it, with such a simple world building mechanic – and yet they missed the chance.
+
+It was obvious that Mark Zuckerberg had read Ready Player One when he acquired first Occulus, and then started work on Horizon Worlds. That those efforts have failed falls squarely on the problems faced by all commercial organisations – they don’t like other people playing with their toys, and they have to get a return on the investment at some point.
+
+Before anybody comments – I know VRML exists – it doesn’t go far enough.
+
+What we need is a similar leap to that made by Tim Berners Lee back in the early 1990s. We need an agreed method of both describing, and interacting with a virtual world – and we need for those methods to be protected, and not subject to commercial interests.
+
+Social networks are only just beginning to accept that people don’t want silos – and are half-heartedly integrating federation features into their platforms – but they are still trying to encourage users to “live” on their platform, and integrate with others. At their core, their stripes haven’t changed.
+
+It’s madness that we have X, Threads, Facebook, Instagram, Substack, Medium, TikTok, Snapchat, and more – all essentially doing the same thing – letting people talk to one-another – all slowly copying each other’s feature-sets in order to perhaps steal users from each other – rather than opening their borders to each other, and letting anybody, anywhere talk to anybody, anywhere else.
+
+Thankfully email was a standard right from the start. So was instant messaging, if you’re interested – but then it fragmented in the same way the browsers did years ago – but never came together again. Google tried to get the other major platforms to adopt common messaging protocols – none of them would play nicely.
+
+So yes. Anyway.
+
+That’s how I would spend a million dollars – I would use it to help solve one of the biggest unsolved problems of the internet – I would establish a foundation to design and protect the mechanisms through which universally compatible and accessible virtual worlds could be defined and implemented.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_date>2025-10-10 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-10 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>one-virtual-world</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[A Step Back in Time]]></title>
+      <link>https://jonbeckett.github.io/a-step-back-in-time</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/a-step-back-in-time</guid>
+      <description></description>
+      <content:encoded><![CDATA[We attended the party of a wonderful friend yesterday evening to help celebrate her 50th birthday. The invitation requested 80s themed fancy dress.
+
+Her costume resurrected her exact look from a student photo during the era - wearing a Wham t-shirt, denim jacket, huge plastic jewellery, and layers of various neon coloured gauze. Oh - and massive hair.
+
+My costume was mostly accurately described by a friend shortly after assembling it for the first time as “Pound Shop Patrick Swayze”. They weren’t wrong. I had a fake Shell suit, mullet wig (nick-named “Roland Rat”), and real Nike high-top trainers. You really can find anything on the internet. The fake Shell suit was more water proof than track attire - meaning it caused my body to run about 110 degrees throughout the evening. It was… uncomfortable to say the least.
+
+Memorable moments of the evening?
+
+Leaving the hotel in full costume to wait for our taxi. I passed a mid-twenties guy in the corridor that looked genuinely terrified. I laughed, and explained our mission. He grinned - “you guys look great!” - I think he actually started walking faster after saying it.
+
+Two of our friends dressed as Axl Rose and Slash, with the best costumes I’ve seen in quite some time. During the evening the DJ played Paradise City - and the entire place turned into a mosh pit - surrounding the unlikely heroes and belting out the words together.
+
+It was nice just to step outside of our normal lives for the evening. Normal life has been a bit of a slog for so long now I can’t really remember when it wasn’t. It was just good to spend time with friends, and be horrified that the 1980s were forty years ago now. The music is still amazing though.
+
+At the end of the night we called an Uber, returned to our hotel, and sat in the bed watching TV, drinking water (forty years teaches you at least a few things), and stuffing chocolate from the vending machine in the hallway. Mid conversation my other half fell asleep. Soon after, I did too - dropping the TV remote, which ricocheted off everything in the room so loudly that it woke us both back up.
+
+I really don’t know how we didn’t have a hangover this morning. Perhaps it had something to do with measures at the bar being somewhat economical. Or the three hundred degree shell suit private sauna worn throughout the evening. During a break from the evening’s shenanigans I wandered out into the fresh air and found several other people wearing shell suits, all laughing at each other’s thermonuclear struggles.
+
+We stood in the dark for some time - sharing stories of our favourite music of the era. I’ll probably never see them again, but I’ll remember that one of them had been a massive Gary Numan fan, and another a competitive figure skater than once danced on ice to Oxygene 4 by Jean Michel Jarre. The first Jean Michel Jarre fan - other than myself - that I have ever met.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_date>2025-10-12 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-12 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>a-step-back-in-time</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[One Foot in Front Of The Other]]></title>
+      <link>https://jonbeckett.github.io/one-foot-in-front-of-the-other</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/one-foot-in-front-of-the-other</guid>
+      <description></description>
+      <content:encoded><![CDATA[Today’s writing prompt asks what principles define how you live. I wouldn’t say I necessarily have many principals – but I have coping mechanisms.
+
+I don’t tend to look back, and I don’t tend to panic too much about what might be. Sure, I might have the occasional falling down moment, as anybody else does – tilting at the many windmills of the world – but on the whole I look forward. I deal with the next thing, and then the next.
+
+I don’t have many dreams. No big plans. I’m happiest when I get to tomorrow more or less unscathed, and without disappointing too many people along the way.
+
+I never set out to “meet a girl”, never set out to bring up three daughters, and never planned to become a software and web developer – it all just kind of happened along the way.
+
+The only real down-side to taking the quiet path is that you’re easily taken advantage of. The climbers of this world won’t think twice before standing on your head to continue their relentless pursuit of wherever they think they need to be.
+
+While drifting along, not really finding my way, I’m fortunate to have crossed paths with a few kindred spirits along the way. Islands in our respective streams. I think you know who you are. I hope you realise how valued you are.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_date>2025-10-14 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-14 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>one-foot-in-front-of-the-other</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Half Past My Bedtime]]></title>
+      <link>https://jonbeckett.github.io/half-past-my-bedtime</link>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/half-past-my-bedtime</guid>
+      <description></description>
+      <content:encoded><![CDATA[The clock ticked past midnight ten minutes ago. You find me sitting in the dark of the junk room, perched in front of the Mac with a mug of coffee while Joni Mitchell sings “Both Sides Now”. Scratch that. Tony Bennet is now crooning his way through “The Way You Look Tonight”.
+
+I’ve always loved music from the 50s and 60s. Not the early pop music – more the “easy listening” Jazz ballads. Tony Bennett, Frank Sinatra, Miles Davis…
+
+I just switched to “On Green Dolphin Street” – from Miles Davis “Kind of Blue” album. It’s become a late-night go-to of sorts. It somehow teleports you to the New York of Woody Allen movies – quiet back streets in the rain.
+
+A fellow late-night internet escapologist recently asked about my late night blogging escapades – where I write, what I write about, why I do it… and I referred back to Norah Ephron’s article in the Huffington Post back in 2006 – the source of “kind of like an exhale”. She had such a way with words.
+
+If you’re wondering who she is or was, she wrote When Harry Met Sally, Sleepless in Seattle, You’ve Got Mail and more. She was an amazing journalist throughout her career too. She was married to Carl Bernstein for a time (the same Carl Bernstein of Watergate reporting fame along with Bob Woodward).
+
+A few years back there was a TV mini-series about the group of female writers that sued Newsweek in the 1970s for sexual discrimination. I think it was called “Good Girls Revolt”. Norah is portrayed in the series as one of the writers – played by Meryl Streep’s daughter Grace. It’s worth looking up – it was very good.
+
+Talking of unexpectedly good TV shows, I started watching “Palm Royale” earlier this evening – set in the late 1960s – starring Kristen Wiig as a social climber that moves to Palm Beach and finds herself rubbing shoulders with the ridiculously wealthy, and predictably horrendous stepford wives that occupy it’s private members clubs.
+
+John Coltrane is going off on a tangent with his saxophone at the moment. If my late father-in-law was still around, he would no doubt have disappeared off to rummage around for albums I might be interested in. He was a life-long jazz fan, and collected enormous numbers of vinyl jazz records.
+
+Anyway.
+
+It’s getting late. Time for me to stop typing, hit publish, and go brush my teeth. I just looked at the clock – how on earth is it 1am already?]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_date>2025-10-16 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-16 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>half-past-my-bedtime</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Round in Circles]]></title>
+      <link>https://jonbeckett.github.io/round-in-circles</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/round-in-circles</guid>
+      <description></description>
+      <content:encoded><![CDATA[Sunday
+Earlier this year - at home - I switched my phone from a Google Pixel to an Apple iPhone, my desktop computer from a PC to a Mac mini, my laptop from a Chromebook to a MacBook, and my tablet from a Fire Tablet to an iPad.
+
+I wrote about it at the time - about the reasoning - about having something completely different from work (I work for a Microsoft partner, so between breakfast and dinner every day, I tend to live an breathe Microsoft stuff wether I like it or not).
+
+Let’s get something straight - there is nothing inherently wrong about Windows - it’s a fine operating system. There’s also nothing wrong with Chromebooks, or Android Phones, or Amazon tablets, or the various Alexa devices. I still use them all now and again. I’m not about to become another one of the evangelical zealots that so commonly mansplain from self-built soap-boxes about what the world and it’s dog should be using, and how everything else is either evil or stupid.
+
+It’s all good.
+
+I just fancied a change - and after working my arse off for the last few years, was able to make that change happen.
+
+After landing in the middle of “Apple World” after so many years away (I had a MacBook about twenty years ago, and still have an iMac in the attic), I had a bit of catching up to do - deciding which were the best apps to use for this, that or the other.
+
+A few weeks after starting out with the stock Apple apps that all their devices come with - Mail, Calendar, Notes, Reminders, etc - I started to scroll through the various replacements that might make my life easier. This is of course a ridiculous thing to be tempted to do, but there we are.
+
+Within a few weeks I had purchased subscriptions or licenses for Things, Bear, and Day One. I’m still not quite sure why, because I’ve stopped using all of them already, and gone back to the “out of the box” apps.
+
+A late night conversation with a friend who also went the Apple route at home succinctly described the reasons they have never invested in alternatives either - while the out-of-the-box Apple apps have shortcomings, they integrate better than any of the third party alternatives.
+
+Just a few quick examples...
+
+“Things” is a wonderful to-do list app. Things looks prettier than Apple Reminders, and is perhaps more slick. An Apple note with a date on it will also appear in the Calendar app though. Things can’t do that.
+
+“Bear” is a wonderful note taking app. Bear is prettier than  Apple Notes, and uses markdown - which, coming from a software development background is huge. Here’s the deal-breaker that annoyed the hell out of me though - Bear uses tags instead of folders, rather than in addition to them. This isn’t such a bad idea, but it also means that if you want to file notes against a category that doesn’t exist yet, you need to create the category when creating the note - you can’t have empty tags. When you’re planning out an area (to implement “PARA” for example), it becomes massively counter-intuitive.
+
+Oh - one more thing - you can’t draw inside a note in Bear. You can in Apple Notes.
+
+Before anybody starts mansplaining at me about alternative apps, or ways of using the ones I’ve already been playing with - I’ve probably already tried them. I use Obsidian at work, and continue to dick around with Notion now and again. I’ve tried all of the similar apps too. I tried Obsidian Sync at home, and realised very quickly that it was pretty terrible (Bear is MUCH better in that regard, if you’re interested).
+
+There’s a part of me that loves Notion - that has always loved Notion - it’s just the effort that would be involved in moving over to it that stops me from doing it. And the fact that they will eventually pivot, just like Evernote, and Substack are busy doing, to monetise abso-bloody-lutely everything.
+
+So.
+
+I’ve ended up just using the stock apps in the Apple ecosystem, and putting up with their shortcomings - because the benefits massively outweigh them.
+
+The only area I’m still flip-flopping around all over the place, and will probably continue to do so is writing. At the moment I use a mixture of Scrivener (a wonderful writing app, really designed for writing bigger projects), Day One (a wonderful journalling app), and Visual Studio Code. I even write in Apple Notes from time to time.
+
+You’re probably thinking “why the hell is he using Visual Studio Code for writing?” - and it’s a good question. The answer lies in its integration with Github - the cloud based version control system that programmers rely on, and much of the writing world has no clue about. You can configure Visual Studio Code to become pretty much anything - and it seemlessly synchronises a version controlled collection of files up to the cloud for you, from anywhere, for free. The backup of my blog posts has been a curated set of markdown text files for at least the last ten years, which plays straight into its hands.
+
+At the moment I have all of my old blog posts - stretching back to 2003 - in Github, Day One, and Scrivener. The only thing that scares me about either Scrivener or Day One is that they are proprietary - which is why I occasionally dump out the last few weeks worth of posts as markdown, and load them into Github - as a “safety deposit box” of sorts.
+
+While playing around with Bear a few weeks ago, I loaded everything I’ve ever written into it - to see how it might handle the “motherlode”. It worked surprisingly well (although gave it a bit of a heart attack). I just caught myself in the middle of doing it though, and thought “what am I doing - this is a note taking app - not a writing app - why am I trying to make it be something it is not”...
+
+There’s this huge temptation among the online productivity mavens - to conjure up a “second brain” solution of some sort - one app to rule them all. For some people it seems to be Notion, for others, it appears to be Obsidian. Every year or so another shiny new solution comes along, and they all tell you that the new thing is the shit.
+
+I’ve kind of figured out for myself that there is no “one app to rule them all” - there’s not even “one way better than another” - it’s just whatever happens to work for you, at a given time. Anything else is just pushing the same block of cheese do different corners of the fridge.
+
+I remember reading Ryder Carroll’s book about the bullet journal method - back when I used to use one every day - and being impressed with his opening comments that “the system” he came up with isn’t a set of rules - it’s a collection of things he does, that work for him - and he encourages others to pick from them, extend them, and adapt them to suit themselves.
+
+Wow. How have I written so much about nothing that anybody else will be remotely interested in? It’s a skill, probably.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>15</wp:post_id>
+      <wp:post_date>2025-10-19 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-19 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>round-in-circles</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[While Making Other Plans]]></title>
+      <link>https://jonbeckett.github.io/while-making-other-plans</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/while-making-other-plans</guid>
+      <description></description>
+      <content:encoded><![CDATA[In early 2006, after discovering I have a rare genetic defect, after a third and final unsuccessful attempt at IVF, and after gazing into the yawning crater that had once been our bank account, we resigned ourselves to either never having children, or perhaps, maybe talking about adoption.
+
+We had always liked the idea of adoption – but knew nothing at all about it – how it happened, who you talked to, where you went to find out more. We knew nothing.
+
+The internet of course stepped in, and rapidly solved the who, where and when of it all.
+
+We visited the local council offices a few weeks later for an introductory session on the adoption process – an open “this is how the journey works” forum presented by a group of senior social workers. When the floor was opened for questions I remember being shocked by several couples who asked for accurate statistics on their chances of adopting a baby. What I didn’t appreciate at the time was that the meeting was the first of many attempts to weed out those that might not be appropriate adoptive parents.
+
+We never saw the couples looking for babies again.
+
+Over time, minds immesurably superior to our own – that no doubt pick up the pieces of broken families on a regular basis – planned everything we would see, remembered everything they asked, and dug incredibly deeply into who you were, what we thought about things, where we came from, and where we thought we were going.
+
+None of that happened immediately though.
+
+Several months later we had a week off work and attended an “Adoption Preparation Group” – along with several other couples (many of which became close friends). At the time we imagined we were being tested on our answers to questions, or the part we took in group discussions. Looking back, it was an acid test.
+
+Each day we were confronted with stories of neglect and abuse, horrific case studies, and invited to confront our own prejudices, fears, and biases. By the midpoint of the week, I remember being physically and mentally exhausted.
+
+We learned that there really are two sides to every story, and that “blame” isn’t really a term you can apply to many people when a child ends up in care.
+
+What followed was months of interviews at home – some with both of us together, some with each of us individually, and some with our friends and close family. Every stone was lifted. Every dark corner poked with a stick. Relationships were examined, childhood memories recounted, views and opinions expounded and pulled to pieces.
+
+The interviews contributed to an official report that was given to the “Adoption Review Panel” – where a room full of strangers would read about the minutiae of our life, and make an informed decision on not only our suitability to adopt children, but how many, what ages, and (possibly) which sexes.
+
+Although you were not required to attend the review panel, we were glad we did – because we knew our presence would afford the members of the panel the opportunity to ask questions, and again assess our responses. One thing we hadn’t anticipated was the number of people in the room.
+Policemen, councillors, psychologists, social workers, teachers, sociologists, doctors, healthcare workers…
+
+My one abiding memory is the chairwoman of the meeting jovially remarking that we all have bad days when we don’t want to get our of bed and go to work and then asking me how having a family might impact that.
+
+“I would like to think my family will become the reason I get out of bed each day”
+I remember seeing the psychologist smile through his beard, and begin writing something.
+Ten minutes later, while sat on couches out in the corridor nervously drinking horrific tea from a machine, the chairwoman walked in smiling and informed us;
+
+“We are more than pleased to approve you for the adoption of up to three children”.
+Relief. Total and utter relief. I can still remember the couch, the taste of the tea, and walking back through the building holding hands.
+
+Having become well aware of the next step of our journey, we anticipated a lengthy wait – perhaps months – while we were potentially “matched” with children.
+
+We didn’t wait months though.
+
+While stood in the foyer of the council offices putting our coats on, and wrapping up warm for the walk back to the car, we asked our social worker what happens next.
+
+She didn’t look at us. She had been looking through the window for the last few moments.
+
+“There are these three girls”
+
+That was eighteen years ago. Eighteen years that have passed in the blink of an eye.
+
+What was it John Lennon said? “Life is what happens while you’re making other plans”. He was right.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>16</wp:post_id>
+      <wp:post_date>2025-10-22 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-22 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>while-making-other-plans</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Long Weekend]]></title>
+      <link>https://jonbeckett.github.io/long-weekend</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/long-weekend</guid>
+      <description></description>
+      <content:encoded><![CDATA[The clock ticked into Friday ten minutes ago, and you find me almost giddy with the prospect of not returning to work until Tuesday next week. A long weekend away.
+
+Don’t get me wrong - I love the project I’m working on at the moment, but it’s been all-consuming for months now - renting out space in my head twenty four hours a day. I go to bed turning over challenges and problems, and wake up in the morning with a head full of new ideas.
+
+I just need a break.
+
+We didn’t have a summer holiday this year, which hasn’t helped. Our last trip away was a few days in Hay-on-Wye in the spring (a wonderful village filled with bookshops). Not going on holiday has of course resulted in me struggling to use any holidays up.
+
+I’ll have much of tomorrow to myself - watch out for a blog post over a pub breakfast in the morning. We make our escape on Saturday morning - we’ve hired a small cottage in Wells near Glastonbury for the weekend. A quiet bolt-hole from a busy world for a couple of days.
+
+I’ll pack my bag tomorrow - nothing special - just warm jumpers, jeans, shirts, a wash bag, and a few books to read.
+
+If the weather is horrible we’ll hole ourselves up in pubs and cafes. If it’s nice we’ll perhaps go for walks. We’re consciously not planning anything though - it’s all about escaping and slowing down for a bit. No chores. No errands. No asks. No washing up. No picking up or tidying up after others.
+
+I know nothing about Wells, beyond the map that appeared when picking the cottage. I booked it through AirBnB. I had to join their website to book it - I was surprised they wanted my passport. I guess it’s all good though - stops idiots trashing houses.
+
+I’ve never quite understood people that have such a chip on their shoulder about sharing their identity online. I always suspect they much have something to hide - either that or they believe the ridiculous right wing idiocy that a certain demographic surround themselves with online. Fear, uncertainty, doubt, and lies pedalled as truth to the most gullible and vulnerable.
+
+I wonder if AI could be employed to fact-check the slop that has ruined the social networks, rather than help generate it? A “TRON” of sorts.
+
+I’ve always thought the name TRON was quite humorous. I’m guessing most people don’t know where the name TRON came from… it means “trace on” - a command that told basic language interpreters to output the line numbers that were being executed. Another bit of useless pub-quiz trivia for you.
+
+Anyway.
+
+It’s getting late.
+
+It will surprise nobody to learn I’m the last person up once again.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_date>2025-10-23 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-23 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>long-weekend</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[An Accidental Writer]]></title>
+      <link>https://jonbeckett.github.io/an-accidental-writer</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/an-accidental-writer</guid>
+      <description></description>
+      <content:encoded><![CDATA[Today's Wordpress writing prompt asks what alternative career paths you have considered, or are interested in.
+
+I’ve always loved the act of writing. I would never claim to be particularly good at it - passable maybe - but have always loved the act of sitting down and emptying my head into a keyboards, an paper notebook, or whatever the tool or method might be. And therein lies the problem. I’m a serial “tinkerer”.
+
+Rather than settle for a given notebook, or writing app, I’m always trying the next thing out. For years I carried Moleskine notebooks around with me - filling the pages with observations, thoughts, ideas, and doodles. When bullet journals became popular, I read Ryder Carroll’s book, and invested myself in them - “rapid logging” and “migrating” my way from day to day, week to week, and month to month.
+
+Writing on paper has of course been an anachronism of sorts - in parallel with the moleskine notebooks and bullet journals, I’ve been witness to the arrival of smartphones, tablets, and all manner of note taking apps into our lives. The list is long - Evernote, Notion, Obsidian, Bear, Ulysses, Scrivener… name a “second brain” note taking or writing app, and I’ve probably tried it.
+
+But what was all this writing for? The common thread throughout all of the head emptying has always been the blog. My blog. My almost daily expounding of idiot opinions, and inconsequential contemplation.
+
+During the pandemic - while not furloughed like so many colleagues - I happened upon the commercial writing model at Medium, and thought “I could do that” (you know, in addition to everything else, because I’m an idiot like that). For a few months I threw myself at Medium, and wrote no-end of articles about whatever I thought anybody might want to read - and got paid for it.
+
+The money was good, but also hard work, relentless, and utterly unpredictable. The articles I was most proud of earned pennies. One or two badly written afterthoughts went massively viral.
+
+Perhaps the biggest lesson of that time is that most commercial writing is a race to the bottom of a barrel. While writing stories about subjects I cared about, I became increasingly aware of the preponderance of stories about “how to make money at Medium”, or “how to attract readers”. Looking back, it was obvious - those with the largest following were not the best writers - they were the best influencers - and they preyed on the most vulnerable - those that wished to be as popular as them.
+
+They were the cool kids.
+
+Suddenly Seymour Hoffman’s “Lester Bangs” spoke from the depths of my brain;
+
+“they make you feel cool. And hey. I met you. You’re not cool”
+
+“The only true currency in this bankrupt world is what you share with someone else when you're uncool.”
+
+I left Medium soon after, and consigned myself to never making money through writing - not if it meant selling out and churning out the same awful sausage machine slop. I wonder what those famous-for-five-minutes writers think of the AI slop machines that write better offal in a fraction of the time? They’re probably using it to help destroy the once wonderful social internet.
+
+I wonder what happens if you ask an AI slop machine to generate an essay about why AI slop generation is so self defeating? Would it become self aware and sink into a Marvin level depression? Perhaps that’s how we defeat AI - we wait for it to become self aware, and realise just how vaccuous and meaningless it’s existence really is.
+
+In more recent times I hosted my blog at Substack too - and watched in mock horror (not really surprised) as it slowly pivoted towards the same idiot capitalist grifting hellscape that Medium had descended into.
+
+Perhaps money really does ruin everything?
+
+I should probably mention that I’ve had several attempts at NaNoWriMo too - the annual writing slog, where people are encouraged to try and write 50,000 words in a month. It starts again next week - it runs during November.
+
+I completed NaNoWriMo a few years ago - I wrote the beginning of my own autobiography - recording memories of growing up, school, first jobs, and so on. I made it to 50,000 words in two weeks. It turns out if you have something to write about, it’s not difficult at all - writing something anybody else might want to read is another matter entirely.
+
+It turns out writing your own autobiography is a wonderful form of self therapy. I wonder if we only really remember the good parts of our own lives - because I still find myself smiling when I read any of it back.
+
+Anyway.
+
+I think I’ve covered “alternative career paths”. It hasn’t been so much an alternative, as much as something I did “as well” - which as I’ve already mentioned, is something I’m particularly adept at. Why spin one plate well, when you can spin many badly? Perhaps that should be the tagline on my blog.
+
+You never know - perhaps one day a wealthy publisher will read my forgettable nonsense, and offer me a huge advance to stop the software development and content creation nonsense, and double down on emptying my head.
+
+We can dream, can’t we?]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>18</wp:post_id>
+      <wp:post_date>2025-10-24 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-24 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>an-accidental-writer</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[The Journey West]]></title>
+      <link>https://jonbeckett.github.io/the-journey-west</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/the-journey-west</guid>
+      <description></description>
+      <content:encoded><![CDATA[After a wonderfully unplanned night out with friends last night, we scraped ourselves out of bed this morning, threw clothes into travel bags, and set off towards Wells in Somerset - a small town near Glastonbury.
+
+After a somewhat eventful journey spent partly behind a tractor for ten miles of winding countryside roads, we eventually crested a hill and the entirety of Wells and Glastonbury spread out before us - with Glastonbury Tor silhouetted against the distant skyline.
+
+After picking our way towards the centre of Wells and finding a car-park - our Air BnB wouldn’t be available until mid-afternoon - we then spent a good few minutes losing the plot entirely with a car park charging station, and car park payment mobile app. At last count we have seven electric car charging apps, and as many car-park payment apps. It’s madness.
+
+Wells is lovely.
+
+We wandered along the high-street looking for somewhere to stop for lunch, and happened upon “The Crown” - the pub made famous in the movie “Hot Fuzz”. My other half delighted in telling me that it was only used for exterior shots (she knows these sorts of things - she works for a movie production company). It didn’t stop them selling a locally produced beer called “Hot Fuzz”.
+
+While wandering along we discovered the “Bishop’s Palace”, and wandered in to explore its vaulted ceilings and rambling gardens. There were promises of views of Glastonbury Tor from the garden wall. Perhaps you can see the Tor in winter when the trees are bereft of leaves - in the autumn, not so much (or at all, it turned out).
+
+After stopping for a pit-stop at the palace cafe - which might or might not have also involved Bakewell tart - we wandered back into the town, where I somehow found myself in a book-shop. I have no idea how it happened. It’s a mystery.
+
+I bought the new “Impossible Creatures” book by Katherine Rundell. I heard about it on the radio a few days ago; apparently Disney have gone all in on the series and bought the movie rights - causing the author to now have more money than Croesus. It was only after buying the book that I discovered it’s book two in a series - so sat down with the Kindle a few minutes ago to order the first.
+
+We stopped en-route to the house at a supermarket to pick up essentials - milk, bread, snacks, and so on. It turned out to be a mistake - given the owner had filled the kitchen with food for us. We couldn’t quite believe it.
+
+The house is wonderful.
+
+A quiet bolt-hole for a few days, tucked away at the end of a residential road on the outskirts of Wells. It’s clean, tidy, and homely - with lots of books dotted around the various rooms. I love seeing books in houses.
+
+We’re going to walk back into Wells this evening - we booked a table at the restaurant in The Crown before leaving at lunchtime, and will try not to imagine Simon Pegg and Nick Frost arresting half the town’s teenagers while eating dinner.
+
+Just after arriving, exploring the house, and unpacking my bag in the bedroom, I wandered into the lounge with nothing to do, and nowhere to go. It felt really strange.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_date>2025-10-25 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-25 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>the-journey-west</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Quiet Days Vogon Poetry and Impossible Creaters]]></title>
+      <link>https://jonbeckett.github.io/quiet-days-vogon-poetry-and-impossible-creaters</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/quiet-days-vogon-poetry-and-impossible-creaters</guid>
+      <description></description>
+      <content:encoded><![CDATA[After spending so many years surrounded by chaos at home, it always feels a little bit odd when travelling to find life suddenly becalmed. So much so that I slept in this morning. I can’t remember the last time I slept through until 9 in the morning - especially as the clocks changed last night - winding back an hour.
+
+Thankfully the house we are staying in is more modern than the cottage we stayed in during our visit to Hay on Wye. I keep wondering how or why the cottage came to be - if the owner perhaps lives in it for part of the year, and opens it to visitors at other times. There are clothes in the bedroom, craft materials in the study, and food in the kitchen cupboards.
+
+The kitchen certainly caught us out - we stopped at a supermarket en-route to buy some basic groceries for breakfasts and then discovered a filled fridge and a sticky note to help ourselves.
+
+I’m always amazed at the “put together” nature of houses where there are no children. One of my co-workers doesn’t have children, and I’m always a little envious of the lack of clutter throughout his house. Perhaps he’s envious of our chaotic family too.
+
+There was a moment a few days ago - while out with close friends - when we were congratulated for making it to nearly twenty five years together - and having brought up three children that were not our own for the greater part of that time. I suppose you don’t really think about it when you’re in the thick of it - and not everybody is lucky enough to have the same experience.
+
+Except it’s not all luck. It’s f*cking hard sometimes. Nobody has good days every day. Nobody is the best version of themselves every day. Although I tend to avoid any sort of self congratulation, I will admit to character traits that help enormously. I tend to be happiest when those around me are happy - or rather, if I can keep everybody else happy enough, many they’ll leave me alone for at least some of the time.
+
+I’ve written in the past about “going to the well” though - that if you’re doing it too often, you start to worry how much water might be left.
+
+Like I said - we all have our good days. We all gave doubtful days too.
+
+Anyway.
+
+We eventually made it out this morning, and wandered around Wells together. After walking into town last night, we chose the car today. It’s a little over a mile walk, and bad weather was forecast for later in the day. We almost didn’t make it any further than the long stay car park though - I stood with another family for quite some time, trying to install yet another mobile app for a car park while holding phones in the air to get one bar of mobile signal, and then filling out more information than a passport application. I thought my other half was going to burst into flames in temper.
+
+After exploring every single clothes shop in Wells - don’t ask - I suggested we might get something to eat, and we ended up sitting high about the street from a part of the Bishop’s Palace walls, in a small cafe called “The Bishop’s Eye”.
+
+We chose a vegetarian sharing platter, which turned out to be quite incredible. The only thing not quite so incredible was a group of writers sitting behind us that insisted on reading their writing to each other out loud - for the entire cafe to “enjoy”. The lines from the Hitchhike’s Guide to the Galaxy came to mind - about Vogon Poetry being the second worst in the known universe - causing listeners to gnaw their own arms off. I suspect I have now heard the worst poetry in the known universe. Quite how I made it out with both arms intact is still something of a mystery.
+
+Rather than eat out this evening, I bought food from the supermarket, and cooked back at the house. A pasta tray-bake that turned out remarkably well. I fixed the cooker clock while doing it - setting cooker clocks seems to be my speciality when visiting other people’s houses.
+
+This evening I’ve started reading “Impossible Creatures” - a book I picked up in the wonderful book-store in Wells high-street earlier today. It’s really a children’s book, but I don’t hold with any of the snobbishness that seems to pervade the literary world. A good story is a good story, and can be enjoyed by anybody if they drop their prejudices.
+
+Now if you’ll excuse me, I’m going to go and polish off the left-over pasta we had for dinner, before heading to bed. I fully expect over-sleeping in the morning. Of course, having said that, I’ll wake up like an automaton at 6am, and wonder how my brain manages to do that so reliably.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>20</wp:post_id>
+      <wp:post_date>2025-10-26 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-26 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>quiet-days-vogon-poetry-and-impossible-creaters</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Lights in the Sky]]></title>
+      <link>https://jonbeckett.github.io/lights-in-the-sky</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/lights-in-the-sky</guid>
+      <description></description>
+      <content:encoded><![CDATA[One of the current WordPress writing prompts asks “what historical event fascinates you the most ?”
+
+Where to begin?
+
+When I was young I was a huge science fiction fan. I read all manner of books by the likes of Arthur C Clarke, Isaac Asimov and Robert Heinlein, and consumed a steady diet of whatever movies happened to be shown on television.
+
+In the days before everybody had video recorders, I remember the BBC showing a series of classic science fiction movies on Thursday evenings – and it coinciding with the night we would typically visit my grandparents. I remember sitting on the hearth rug in front of the television – which had already been turned down so the grown-ups could talk – straining to listen to The Day The Earth Stood Still, This Island Earth, Earth vs the Flying Saucers, Invasion of the Bodysnatchers, and more.
+
+As I grew older, I became interested in astronomy and space travel – borrowing all manner of books from the library that told the stories of Copernicus, Tycho Brahe, Kepler, and Newton. It’s only just occurred to me that this period probably coincided with me realising that everything I had been taught at school – I went to a Church of England school – might have been wrong.
+
+Fast forward another few years – into my early 20s – and I became aware of a book in the paranormal section of the local public library by a physicist called Stanton Friedman – called “Crash at Corona”. It told the story of a rancher in New Mexico finding wreckage strewn across his land, and reporting it to the local sheriff’s office – who reported it to the local army air force base – who reported it to the world.
+
+We know it now as “The Roswell Incident”.
+
+It captured my imagination, and has done ever since.
+
+There are so many questions…
+
+Why were pieces of the crashed weather balloon – which went up every day from the air base – confiscated from anybody who had them? Why did the first army air force officer on the scene decide to tell his family decades later – when he was terminally ill – that the weather balloon had been a cover up? Why had the mortician in the nearby town been called with questions about the availability of child sized coffins, and advice for embalming recent remains? Why was the rancher that called the sheriff’s office held in custody and questioned for several days? Why did he then change his story?
+
+Why in the late 1980s did a man called Robert Lazar go to the press after losing his job working on an engineering contract – after taking friends to watch “the nightly light show” on the edge of Groom Lake outside of Las Vegas ?
+
+He claimed he had been hired to help reverse engineer the engine of something much more exotic than the Stealth Fighter that the public found out about later that year – he claimed to have been working on the remains of something perhaps more similar to the craft that had come to ground years earlier in New Mexico. He knew when and where the test flights were. Unfortunately Groom Lake security knew where he and his friends were too.
+
+Over the years my opinions of what might or might not have happened have swung in different directions. I remember talking to a friend of the family late one night, and pulling out some of the books I had amassed. While flicking through them, he volunteered that he had once been as enthusiastic as me about the possibilities of “what might be out there” – but as he had grown older, he had become jaded – cynical about it all.
+
+You known the strangest thing? Every time I have started to wonder if any of it really happened, another piece of the historic puzzle has come to light that has proven a small part of the larger story from the past – be that through a first hand account, or the uncovering of evidence that has disproven something else.
+
+In recent years we’ve seen hearings in the US Congress about “Unidentified Aerial Phenomena”, secret programmes such as “Immaculate Constellation”, and hither-to unknown departments of the US military complex such as AATIP – the Advanced Aerospace Threat Identification Programme.
+
+Aerospace experts have spoken on the record about a “credible threat” to national airspaces – which always makes me smile. If somebody or something has the ability to cross either vast distance, time, or dimensions to visit us, I very much doubt they are a threat to us – if they were, we wouldn’t still be here.
+
+If there’s one thing we can say, it’s that humans have a history of thinking an awful lot of themselves.
+
+Anyway.
+
+There we are. The Roswell Incident. The “incident” that started it all.
+
+Only it really didn’t because there are numerous prior incidents in history – including perhaps most famously the “Book of Enoch” – one of the apocrypha – the books that were removed from the Old Testament of the Christian Bible when it was canonised. Enoch tells of angels falling to earth from the heavens and siring children that were giants (of intellect?). It tells of magical tablets, and knowledge of the mechanics of the universe. It tells of them leaving in a blaze of light, and making everybody present sick. Or perhaps it doesn’t – because it very much depends what you believe, and how you choose to interpret the story.
+
+While me might never know – or be allowed to know – what happened in 1947, it’s fun to speculate.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>21</wp:post_id>
+      <wp:post_date>2025-10-27 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-27 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>lights-in-the-sky</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[To By Young]]></title>
+      <link>https://jonbeckett.github.io/to-by-young</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/to-by-young</guid>
+      <description></description>
+      <content:encoded><![CDATA[What is the “right” age to act? What if the most authentic version of “you” is still a little bit… sticky-fingered and prone to spontaneous laughter?
+
+It strikes me that refusing to grow up isn’t about throwing tantrums, or asking for a juice box at a formal dinner party (though, let’s be honest, sometimes the urge is strong) – it’s a deeper, more profound commitment to a certain way of navigating the world. It’s about a refusal to let cynicism set like concrete – to keep the doors labeled “wonder” and “curiosity” unlocked and open – even when the world tries its best to slam them shut.
+
+Think about it. When you were young, a cardboard box wasn’t just a box. It was a spaceship. It was a fort. It was a time machine. The possibilities were limited only by the boundless expanse of your imagination.
+
+A child doesn’t looking at an obstacle and see a problem – rather they question how the obstacle might become part of the unfolding game – or ignored entirely en-route to something far more interesting.
+
+It’s about the willingness to be surprised and delighted.
+
+It’s about finding joy in the smallest of things: a perfectly shaped cloud, a sudden downpour, the shape of a cast shadow.
+
+It’s about uninhibited laughter that bubbles up from deep inside, unrestrained by social norms or the perceived need to maintain a sophisticated facade.
+
+It’s about singing loudly and off-key in the kitchen while doing chores – because, well, why not?
+It’s not just about the frivolous.
+
+Being young also means retaining an unabashed vulnerability – and the capacity to exhibit unbridled emotion – to get genuinely excited about anything, and to share sadness and loss without pause.
+
+It’s about the readiness to learn, to ask “why?”, and to admit you don’t know.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>22</wp:post_id>
+      <wp:post_date>2025-10-29 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-10-29 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>to-by-young</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Parties and Leftovers at Chore City]]></title>
+      <link>https://jonbeckett.github.io/parties-and-leftovers-at-chore-city</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/parties-and-leftovers-at-chore-city</guid>
+      <description></description>
+      <content:encoded><![CDATA[Two of our oldest friends hosted a joint 50th birthday party at the rowing club in town last night. If I’m entirely honest, neither of us really wanted to go - we’ve both had a pretty draining few weeks/months/year, and would quite happily have had a quite night in.
+
+We know how that goes though - when you organise a party and then worry that people will turn up - so we pulled ourselves up by our bootstraps, had a wash, put on some nice clothes, and headed out during a break in the rain that had fallen incessantly earlier in the evening.
+
+The evening was unexpectedly wonderful.
+
+We saw friends we haven’t seen for years, and made new ones along the way. One of the couples had been present at our last night out before adoption. Another couple had been at a music festival with us when the children were little. Several were retired co-workers.
+
+We hadn’t planned on staying at the party long - agreeing that we would “show our faces”. We ended up staying to the end - past last orders at the bar - and wandered home laden with trays of left-over finger food.
+
+On the way home we shared stories of our conversations throughout the evening, and I quizzed my other half on who-on-earth half the people I had been talking to were. It turned out the lovely Finnish blonde lady that had somehow attached herself to me throughout the middle part of the evening had been a Mum at the infant school where she used to work - but beyond that, we had no clue how we had common friends.
+
+One conversation that has stayed with me today was with a couple who have risked everything to run two holiday cottages in the south west. We have stayed in one of them in the past - they are wonderful. The down-side of running a holiday cottage for let, that your family uses for the rest of the year? A total an utter erosion of your expectations of people in general. You know when you half-expect what might unfold, but quietly hope isn’t true? That. Times ten.
+
+After sleeping in this morning, I was up a little after 9am and started putting one load after another through the washing machine. Writing this at lunchtime, the structural integrity of the poor old washing line outside is struggling somewhat. It’s sunny and breezy though, so seemed like too good an opportunity to miss.
+
+I’ve been pottering around the house doing this and that all morning - trying to right the ship before my other half appears. The kids were supposed to be cooking us lunch, but have mysteriously vanished to the pub together to buy their own lunch with money they don’t have. In a couple of weeks they’ll no doubt be asking for money, and we’ll no doubt lecture them yet again about living beyond their means (and refusing to help them unless absolutely necessary).
+
+It’s difficult sometimes - you obviously aren’t going to let your children struggle too much - but by the same token you want them to struggle - because otherwise they won’t learn. They need to go without. The reason we don’t have to go without is because we’ve been working our arses off for the last thirty years. Of course as soon as you try to tell them any of that, they roll their eyes and tune out.
+
+The entitled generation is all too real.
+
+Anyway. Time for a coffee, and perhaps a dib into the party leftovers from the fridge.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_date>2025-11-02 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-02 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>parties-and-leftovers-at-chore-city</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[How is it nearly Thursday already?]]></title>
+      <link>https://jonbeckett.github.io/how-is-it-nearly-thursday-already</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/how-is-it-nearly-thursday-already</guid>
+      <description></description>
+      <content:encoded><![CDATA[I just looked at the clock in the corner of the computer screen after consciously trying to figure out what day of the week it was. Where did Wednesday go? Never mind Monday and Tuesday - how is it nearly Thursday? Where did Wednesday evening go? Has anybody seen it?
+
+I’m writing a few words just to keep the blog ticking over. I don’t really have much to report - but when has having nothing to write about stopped me writing about it in the past?
+
+A singer-songwriter playlist is quietly filling the room with a selection of soporific nonsense. Bob Dylan just finished ranting about something to whoever might listen. James Taylor is now singing about Fire and Rain. I know he’s not trendy, and his music is a throwback of sorts - to the 1970s, country music, folk music, and songs that told stories - but I’ve always liked him.
+
+It just occurred to me - I don’t have a Carly Simon record in my collection (she was married to James Taylor). I can imagine my other half eye-rolling now, if a vinyl album with her face on it appeared through the post. That’s almost enough reason to buy one.
+
+Maybe I really will cut this short, rather than waffle on about a load of inconsequential idiocy. I bought a children’s book the other weekend, and have hardly made a dent in it. I love young adult fiction - it’s somehow more transparent - more direct. I think there’s a temptation among “serious” writers to be clever for the sake of it - which often backfires and makes their writing almost impregnable.
+
+There’s a reason Harry Potter sold a bazillion copies.
+
+It’s funny - when I write late at night, I end up wondering how people are that I’ve not heard from or written to in ages - and invariably end up writing emails into the early hours. I’m resisting the temptation at the moment. I’ll file the idea right up there next to “another thing to try to do at the same time as everything else you don’t really have time for at the moment”.
+
+I don’t really believe in “not enough time” though. You make time if something is important to you.
+
+I had a review today at work - and the only constructive feedback was that I tend to throw myself under the bus too often - agreeing to help everybody - with everything - all the time. I agreed instantly. I know I do it. I like helping people though. I like sharing knowledge. I love the moment when somebody “gets” what you’re showing them - and how they can use it to benefit themselves.
+
+There’s also the thing that I just don’t stop.
+
+I need to force myself to slow down a bit. Stop burning the candle at both ends. I know I’ve written it before, but I really do. It doesn’t really matter what I choose to do instead of relentlessly working on this, that, or the other - it could be running, listening to music, reading - anything really. I just need to do something for myself from time to time.
+
+Anyway.
+
+Maybe it’s time to go to bed.
+
+See. Told you I would find a way to fill a page with nothing in particular. It’s a skill.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_date>2025-11-05 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-05 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>how-is-it-nearly-thursday-already</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Half Past Lunchtime on Sunday]]></title>
+      <link>https://jonbeckett.github.io/half-past-lunchtime-on-sunday</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/half-past-lunchtime-on-sunday</guid>
+      <description></description>
+      <content:encoded><![CDATA[It’s half past lunchtime on Sunday, and you find me hiding out in the junk room at home, listening to a singer-songwriter playlist. Randy Newman is singing that he thinks it’s going to rain today. He’s not wrong - it looks pretty miserable outside. Never mind. I’ll stay in the warm with a mug of coffee.
+
+The last few days have been pretty relentless. I’m taking a day off today (apart from chores of course) - trying to invest a little in myself. Writing this blog post is a part of that plan.
+
+I’m still flip-flopping between the various apps on the Mac that purport to help my organise the chaos a little. I’m still on the fence about switching to Things and Bear over Apple Reminders and Notes. I also found myself using Notion again at work this week, and reminded myself just how good it is. The only thing that stops me settling for Apple Reminders and Notes is the knowledge that they’re terrible at importing and exporting anything. Then of course there’s Obsidian…
+
+In all honesty, I kind of miss using a paper bullet journal. It’s the reason I still do “rapid logging” in Obsidian at work - and it’s kind of its killer feature as far as I’m concerned.
+
+See… even on a day off, when I’m supposed to not be thinking about any of this stuff, I end up thinking about it. I really am my own worst enemy.
+
+(Three and a half hours pass)
+
+My youngest daughter was struggling to make roast dinner on her own, so I had to get involved to go rescue her. Her boyfriend was also supposed to be helping, but his help seemed to consist of not being present for whatever reason while she struggled. We got there in the end, but not before my other half arrived back from a supermarket trip, discovered dinner was not on schedule, and started shouting at everybody.
+
+Pretty normal Sunday then really.
+
+I just finished washing up, and putting everything back away again - which entails discovering along the way that others haven’t put things away properly, so you end up pretty much emptying every cupboard you open to put them back properly (or wash things that have been hidden in cupboards without being washed properly).
+
+I wonder how old kids get before they start to care? Or if they need their own house before that happens? I worry that our youngest will flounder badly when she gets her own place… Don’t get me wrong - she can do all the important things - cook, wash clothes, etc - but without somebody supporting her along the way, she’s going to find it hard.
+
+I’m sure all parents have the same worries, no matter the age of their children. Life doesn’t have an instruction book, does it. I just hope I don’t turn into the previous generations that I see and hear all too often - complaining about the generations that have followed them rather than offering to help.
+
+Don’t get me started about the “it was better in my day” crowd either - I’m firmly in the Louis C K camp - that we live in by far the best time that has ever existed. Sure, it’s scary at times - because change is happening faster than ever before - but just because the world is different, doesn’t meant mean it’s better or worse - it’s just different. There’s a wonderful TED talk on YouTube that applies a lot of statistics to the argument, and clearly shows that by any meaningful measure, the world is far better now than it has ever been before. Try telling that to anybody that consumes (and believes) the news presented to them on social media sites though…
+
+Anyway.
+
+Time to relax for at least a little of Sunday evening, before another work week starts. Who knows - maybe I’ll get the chance to catch up with one or two friends. I’m more than aware that I’ve fallen off the social bicycle in the last few months.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_date>2025-11-09 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-09 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>half-past-lunchtime-on-sunday</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Nuremberg]]></title>
+      <link>https://jonbeckett.github.io/nuremberg</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/nuremberg</guid>
+      <description></description>
+      <content:encoded><![CDATA[We went to the cinema this evening, and watched an advance screening of "Nuremberg", starring Russell Crowe, Rami Malek, and Michael Shannon.
+
+Ooft.
+
+Incredible movie. Exceptional performances by all involved. I can't imagine how difficult an actor must find it sometimes - to inhabit a persona, or put themselves in a situation that most of us would retreat from pretty damn quickly.
+
+On the walk home we found ourselves struggling to unpack what we had just seen. Normally we talk endlessly about good movies - about how this part was, or that part was. This time we were just quiet.
+
+A lot to process.
+
+There's a famous saying that all that is needed for evil to triumph is for good people to do nothing. It was good to be reminded - and I think some people are already feeling a bit triggered - given what's going on in the world right now.
+
+I read a couple of reviews of the movie at lunchtime today, and was surprised in-amongst the mostly glowing comments where one or two people had completely slated the movie - and then I realised which side of the political divide they probably inhabited, and they were awake enough to realise how the world now sees them.
+	
+All it takes is for good people to do nothing. The trick would seem to be realising you're on the wrong side in the first place.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>26</wp:post_id>
+      <wp:post_date>2025-11-12 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-12 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>nuremberg</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[South West]]></title>
+      <link>https://jonbeckett.github.io/south-west</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/south-west</guid>
+      <description></description>
+      <content:encoded><![CDATA[After working throughout the entire summer, and disappearing for one long weekend during that time, I finally shut my computer down on Friday evening with no intention of switching it back on  for the coming week.
+
+This morning I threw a few clothes into a backpack, and am now sitting on a train, heading towards the south-west for the weekend - to visit my parents. The train is growing increasingly late - with the driver apologising endlessly over the PA system. I’ve already called my parents and told them I’ll know more when I reach Plymouth. I change trains at Plymouth, and head onwards over the Tamar bridge into deepest darkest Cornwall.
+
+At least I have a seat. I’ve somehow bagged an entire table to myself - which seems outlandingly luxurious in comparison to past journeys where I found myself wedged into corners of the entrance and exit way while the train lurched like an over-filled sardine can on it’s four hour journey.
+
+As the journey takes me further from London, you can feel the world slowing down. The mayhem and chaos are slowly dissipating. People don’t seem to be in as much of a rush to get to the next thing, and the next. While walking to the cinema in the week I laughed with my other half about our seeming invisibility in town. People aren’t just self-obsessed any more - they’re oblivious to anybody or anything outside of their bubble.
+
+I’m looking forward to reaching the coast (in the next hour or so). As the train travels travels further south west it will skirt the English Channel, and Atlantic ocean - whistling past beaches and breakwaters along the way.
+
+We’re approaching Exeter St. Davids.
+
+When I was young my Dad had a yacht moored at Exmouth - just inside the protective arc of Dawlish Warren (a huge nature preserve). We would visit each weekend and potter around nearby harbours and ports - a bit like going on a nautical caravanning holiday every weekend.
+
+According to family, I learned to walk on a boat (my Dad had a succession of boats when we were young). My other half would contend that’s the reason my sense of balance is so poor. My Dad sold his final boat a couple of years ago. It feels strange - not having a boat somewhere, after so many years with one. 
+
+I’m just smiling to myself. As the train becomes increasingly late, the observation about life slowing down is coming true. I wonder if Einstein accounted for the Great Western Railway timetable in his general theory of relativity? I think it might have messed with his equations quite a lot.
+
+I very much doubt I’ll be able to publish this post anywhere near the internet until this evening, because although Great Western Trains advertise “free wifi” on their trains, the only service it appears to be able to provide is indicating their might be a wifi signal somewhere along the train somewhere, on a good day, with a following wind. Read: there is no wifi.
+
+Let’s give it a try, and see what happens…
+
+(three hours pass)
+
+I'm now safely ensconced at my parent's house. The train journey turned into an epic trek of sorts, after another train broke down, and the one I was aboard changed route to save the other train's passengers.
+
+My Dad met me at Liskeard railway station, and we carried on towards home. A few hours later, and I've managed to arm-twist them into letting me pay for a Chinese takeaway, and am now trying to stop my Mum re-filling my glass repeatedly.
+
+I've switched to coffee now - otherwise I'll struggle to get up in the morning. Early start to visit my Dad's flight simulator club. I'll be in charge of eating biscuits and drinking coffee throughout the day.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>27</wp:post_id>
+      <wp:post_date>2025-11-15 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-15 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>south-west</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Drinking the Kool Aid]]></title>
+      <link>https://jonbeckett.github.io/drinking-the-kool-aid</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/drinking-the-kool-aid</guid>
+      <description></description>
+      <content:encoded><![CDATA[I left Cornwall mid-morning yesterday after a long promised visit to my parents. The journey home felt oddly detached - with no mobile signal and no data connection on the train for several hours. The “free wifi” on the train was marginally funnier than my trains to and from Cornwall running an hour late - and the crew repeatedly informing passengers how they could refund their tickets.
+
+While rumbling across the countryside with no internet connection, I found myself thinking about this whole blogging escapade, and came to the realisation that it doesn’t really matter where your writing lives. I’m kind of done with the idiocy of “platform building” - I just want to write and share. If I can remove friction from that, I’ll do it.
+
+What does this mean? That I’m climbing back under my rock somewhat. Back to a simple Substack account, rather than “playing the game” at Wordpress, Tumblr, or wherever else. Substack isn’t perfect, but it’s simple - anybody can read, subscribe by email, and reply if they wish.
+
+I’ll stop writing about writing now.
+
+It was a good break - the weekend. A couple of days with my parents, catching up on their news, and sharing some of ours.
+
+I’m not sure I’ve shared on the blog (or anywhere, actually), but my youngest daughter is (very) pregnant. At some point in January - if the little one arrives on time - I’ll become a grandparent. It feels weird - writing that.
+
+I gave my Mum the URL of the wish-list my other half is curating for our daughter - making sure that only useful things go onto it. My Mum started chanting all sorts of generational hoodoo about not buying anything until the baby is safely here. I kind of agree with her, but there are some things we’ll need immediately on arrival. I guess that’s what “the bank of Dad” is for.
+
+Although my daughter and her boyfriend are trying to get their own place, it’s looking increasingly like we’ll have a baby in the house for at least a few months. Quite how that’s going to impact “life as we know it” is a complete unknown.
+
+We’ll do our best.
+
+Anyway.
+
+It’s Tuesday, and I’m chewing through day two of a week away from work - using up some of the holidays I didn’t use in the summer. Yes, I worked all summer. I have another week off in early December.
+
+I bagged a booth table at Wetherspoons this morning - leaving my other half working from home. She’s taken over the study at home, and has half-taken over the Mac too.
+
+I’m holed up at the dining room table with my laptop, having done chores for much of the day so far. The weather seems to be cooperating with our efforts to wash just about every piece of clothing in the known universe - or at least that’s what it feels like.
+Wish us luck!]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>28</wp:post_id>
+      <wp:post_date>2025-11-19 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-19 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>drinking-the-kool-aid</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[The Importance of Being Earnest]]></title>
+      <link>https://jonbeckett.github.io/the-importance-of-being-earnest</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/the-importance-of-being-earnest</guid>
+      <description></description>
+      <content:encoded><![CDATA[We made our way into London yesterday evening to watch Stephen Fry starring as Lady Bracknell in “The Importance of Being Earnest”. It didn’t quite work out as planned, but I’ll get to that.
+
+The Elizabeth line delivered us into the depths of the city during the late afternoon, and we had planned on nosing around Covent Garden for a little while - but the weather was so bitterly cold we dived into a cosy little Italian restaurant near the theatre, ordered a bottle of wine, and had a wonderful meal. It was interesting - we almost chose a huge chain cafe/restaurant across the way, but took a chance on the little family restaurant - and were glad we did.
+
+After dinner we walked around the corner to the theatre - the Noel Coward theatre - booked our coats into the cloakroom, and then found our way through to “Lionel’s Bar” (named after Lionel Bart - the writer of Oliver!).
+
+Along the way my other half spotted a paper notice pinned to the wall - “Stephen Fry will not be appearing in tonight’s performance”. She deflated like a party balloon. I felt so sorry for her - but then I suppose that’s the risk you take with live productions - there’s a reason for understudies.
+
+While nursing our drinks in the bar, we people-watched the great and good of London theatre society. I recognised at least one journalist, and thought I might have recognised a well known actor too. I didn’t tell my other half because she goes nuts when I point out actors in shows she’s watching - “oh he was in this”, or “she was in that!”.
+
+There were quite a lot of people in the bar that were there to be seen. One couple in particular made me smile - he was about fifty five with very expensive leather jacket, perfectly turned up jeans, and a floppy “Peaky Blinders” hat. She had a long cashmere coat, and a Stella McCartney handbag - carefully positioned so nobody could miss that it was a Stella McCartney handbag.
+
+It’s worth noting that I knew nothing about “The Importance of Being Earnest” on the way in. I kept it that way on purpose. I knew my other half loved it - and loves most Oscar Wilde plays - but I hadn’t even thought about it before we sat down.
+
+So. The curtains drew back, the lights came on, and Olly Alexander appeared half-naked playing a piano. Okaaay…
+
+Suddenly it made sense why so many single-sex parties of friends were in the audience. I really am that slow on the uptake sometimes. A play written by Oscar Wilde, being performed the Noel Coward theatre. It adds up, doesn’t it.
+
+It was interesting - watching the play through modern eyes - and recalling what I had read elsewhere about both Oscar Wilde and Noel Coward. Obviously the modern staging of the play ladled on the double meanings with an industrial loading shovel, but it was still fun to see the “unexpected” relationships form throughout.
+
+Perhaps the stand-out actor of the entire performance for me was Kitty Hawthorne as Gwendolen Fairfax - who shone, shocked, and disrupted the show seemingly at will. The set piece cake kiss between Miss Fairfax and Miss Cardew was brilliantly done, and helped put together the final jigsaw pieces in my head about what the play is really about - and why people return to it.
+
+The Importance of Being Earnest isn’t just a play on words. The play - written during the Victorian era - is a scathing satire of the victorian hypocrisy and obsession with social appearances. That every character is living a lie - save for Lady Bagshaw, who seems only too ready to accept lies if they make the right impression - makes for some wonderful moments.
+
+Given the comical aphrodisiac qualities the name “Earnest” has on upon Miss Fairfax throughout the play, the unveiling of the “true Earnest” in the final act, and her resulting explosive orgasm brought the house down.
+
+After retrieving our coats we stepped back out into the cold evening air and began our journey home. My other half asked what I thought of the play, and I didn’t know how to answer her.
+
+“You didn’t like it did you”
+
+“It wasn’t that - it was just… a bit thin”
+
+I know why too. Given the time it was written, authors questioning the status quo, or trying to push society forwards had to be very careful. It’s a paper thin plot, loaded with unwritten meaning, and unsaid sentiment. Experiencing it through modern eyes left me feeling a little bit empty. It could have been so much more - but of course it’s how it was written - through the lens of what could be said then.
+
+Anyway.
+
+A wonderful night out. A wonderful meal. A good play. And back home in time for a cup of hot chocolate, and bed.
+
+I would still regard “Noises Off” as my favourite theatre performance of all time. We saw it with a stellar cast before it went to the West End. I won’t ruin it for you - I’ll leave it for you to find and experience for yourself.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>29</wp:post_id>
+      <wp:post_date>2025-11-20 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-20 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>the-importance-of-being-earnest</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[An Early Night]]></title>
+      <link>https://jonbeckett.github.io/an-early-night</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/an-early-night</guid>
+      <description></description>
+      <content:encoded><![CDATA[After an early night last night, I have been up since 3:45 this morning. I got up to watch the Grand Prix in Las Vegas - which turned out to be not worth watching at all. Oh well.
+
+Several hours have now passed. It’s still ridiculously early. I’m the only person up and about. I’m wondering how long I should leave it until I have a shower - the sound of the hot water pipes throughout the house will probably wake people up.
+
+I caved.
+
+Freshly showered, shaved, bacon sandwich made and eaten, cooker cleaned, dishwasher emptied, and two loads through the washing machine already - all before 8am on a Sunday. I must be mad.
+
+Sabrina Carpenter is singing about her ex-boyfriend on a playlist. I do hope younger people aren’t as completely filled with spite and vitriol as her songs suggest. In a strange sort of ways her songs remind me of a review I once read about “Twilight” - I think it might have been Mark Kermode that wrote that the underlying message throughout the books and movies is how important it is to have a boyfriend.
+
+I remember the furore years ago when it turned out parents had been letting their teen and pre-teen children read Twilight - before they realised it had numerous passages filled with sexual tension and desire. I’m guessing most parents forget what they were like at that age? I wonder how many kids grew up with Twilight and remembered the page numbers of “favourite scenes” ?
+
+I guess with the modern internet, children are probably more worldly wise now than they have ever been - particularly as most parents (certainly true when our kids were young) don’t enforce the age restrictions of the major social networks.
+
+It always amazed me - when the kids were young - that you could clearly see the learned behaviours that some of their friends exhibited - particularly among the girls. Being popular seemed to be the most important thing in the world, and some of them were master manipulators in that regard.
+
+(Ten minutes pass while I empty the air dryer and re-fill it with the next load from the washing machine)
+
+We don’t have a tumble dryer any more. For the most part we get by with an air-dryer in the kitchen - a glorified combination of a towel rail, and a tent that stands in the middle of the kitchen most-days. It takes all day to dry clothes in it, but it’s still much cheaper to run than a tumble dryer. Of course if the weather wasn’t so horrific we could hang clothes outside.
+
+Anyway.
+
+Sunday is rapidly vanishing in front of my eyes. Somehow the clock is ticking past 9am already. How has this blog post taken over two hours to write, and yet not really covered anything at all?
+
+I’m fine. We’re all fine. Well… mostly. That’s not too bad, is it?]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>30</wp:post_id>
+      <wp:post_date>2025-11-22 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-22 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>an-early-night</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Fifteen Minutes]]></title>
+      <link>https://jonbeckett.github.io/fifteen-minutes</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/fifteen-minutes</guid>
+      <description></description>
+      <content:encoded><![CDATA[I started writing this blog post fifteen minutes before the end of my lunch break at work - after losing the rest of my lunch break washing clothes, clearing the kitchen up, and so on. After writing a few words my work computer sang forth a message notification, and like a fool I looked. The fifteen minutes vanished without trace.
+
+I really am my own worst enemy sometimes. If somebody needs me - for whatever reason - I very rarely say no. Perhaps if I went for a run at lunchtime, it would prevent anybody from calling me, then I couldn’t be coerced into anything. I have taken to walking to the supermarket to buy a sandwich sometimes - not because we need the food - more as an excuse to get off my backside.
+
+Anyway. Enough about all of that.
+
+I’ve been struggling to come up with a Christmas list. All of my daughters have been asking me to come up with something, so I sat down with Amazon earlier and started searching for books. You can’t go wrong with books.
+
+Classics.
+
+I’ve always loved reading classics. I guess a huge part of it is curiosity - to find out why some books are revered, or notorious. I think I’ve mentioned on the blog in the past - that years ago I commuted into London every day, and read more during that couple of years than at any other time in my life. Thats when I became interested in both “the classics”, and the most notorious books - the banned books.
+
+I remember sitting on the train reading “Tropic of Cancer”, and “Lolita”, and thinking myself very daring. I felt sure that somebody would notice the book title, and be suitably horrified. If you’ve never heard of, or read them, Tropic of Cancer charts Henry Miller’s life, living in the red light district of Paris, and Lolita tells the story of a man who becomes besotted with an under-age girl - and spends most of the book agonising over his own guilt.
+
+My main memory of the most notorious books is that they were only notorious in their own time. The world is immeasurably more accepting and free than it once was.
+
+Sometimes cultural differences are apparent too. When the kids were young, I read the Chronicles of Narnia to them - and remember being surprised by the language used in “The Magician’s Nephew” (the movie is in production, in case you are interested). Let’s just say time has not been kind to it - it’s very much the product of it’s era.
+
+I have found myself searching out Hemingway. He’s become something of a weakness in recent years. A Moveable Feast has become one of my favourite books. There’s just something about the way he writes - the way he describes a person, or a scene. It’s so straightforward - and so unlike anything else I’ve ever read.
+
+Oh crikey - look at the time - I had promised to go to bed about half an hour ago.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>31</wp:post_id>
+      <wp:post_date>2025-11-26 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-26 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>fifteen-minutes</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[It wasn't always this way]]></title>
+      <link>https://jonbeckett.github.io/it-wasn-t-always-this-way</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/it-wasn-t-always-this-way</guid>
+      <description></description>
+      <content:encoded><![CDATA[You know the one where you’ve been promising to yourself to write *something* for days, but then this interesting thing appears in your peripheral vision, or that total and under disaster unfolds directly in front of you, or an entire universe of washing falls from the sky on your head, or you leave the kitchen for ten minutes and apparently an entire army of borrowers silently trash the place…
+
+That.
+
+At the start of the month I wondered about trying to write a blog post every day - as a replacement of sorts for “NaNoWriMo”. It’s kind of sad that NaNoWriMo is no more as an official thing - but also kind of comforting that it has gone full circle.
+
+I probably need to explain (not that anybody wants to hear an explanation, but I can feel a rant coming and if I don’t write it somewhere it will just boil away inside me, then come out as an over-reaction to something else).
+
+When anything “happens” on the social internet that reaches a peculiar sort of popularity tipping point, enterprising (read: predatory) individuals will try to “own” whatever it is. It happened with NaNoWriMo, and it happened with “NaBloPoMo” too. As soon as anybody tries to own anything, their true intentions typically become apparently - to make bank on whatever it was, and en-shittify it for everybody. There’s no guilt about the en-shittification of whatever was good, because it’s all about making bank and walking away.
+
+Very few people seem to do anything for altruistic reasons any more, and that makes me a little bit sad.
+
+I guess once the en-shittification of anything eventually collapses in on itself, it gives the original idea another chance to happen again - and that’s what I’m hoping will happen with NaNoWriMo.
+
+I should probably explain that too. NaNoWriMo is a contraction of “National Novel Writing Month”. Even the name is short sighted - it should have been IntNoWriMo (because… you know… international).
+
+Perhaps if something is a good idea, it will live on - and re-seed itself in the collective consciousness. NaNoWriMo started as a meme. So did NaBloPoMo. Just people, tagging their content with the hashtag, and making it discoverable. Life found a way.
+
+Of course it used to happen a lot more easily than it does now, because the entire social internet has been en-shittified - with platforms funnelling users into ever more restrictive silos to turn them into solyent green content sausage machines that can be monetised and eventually turned into slop.
+
+Oh my word I sound angry.
+
+I suppose I am actually. I remember the earliest days of the internet - of the web - and the enlightened moment when we all left the previous walled gardens of AOL, Compuserve, CiX, and countless bulletin boards - and had our “Holland Tunnel” moments.
+
+I’ll drop the Holland Tunnel reference in for those that have not seen it:]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>32</wp:post_id>
+      <wp:post_date>2025-11-30 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-11-30 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>it-wasn-t-always-this-way</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Copenhagen]]></title>
+      <link>https://jonbeckett.github.io/copenhagen</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/copenhagen</guid>
+      <description></description>
+      <content:encoded><![CDATA[After a 5am alarm call, a taxi at 6am, and breakfast at Heathrow airport, we finally took off a little before 9am, and set off towards Copenhagen, Denmark. We thought we were being clever travelling light - only bringing carry-on bags with us- so you can imagine our reaction at the departure gate when we were informed that our bags would need to be checked in.
+
+The flight was mercifully routine. British airways really broke the bank - handing everybody on board a biscuit, and a small bottle of water each.
+
+After a little over an hour in the air we descended through thick cloud and rain towards Copenhagen Kastrup airport - and amused ourselves watching the entirely predictable bun fight to get off the aircraft first. Why do people do that?
+
+Security at Kastrup was equally amusing - with four security officers dealing with an entire airport’s worth of arrivals. After forming four orderly queues, two of the security officers finished their shift - which triggered everybody in the queue over a certain age into predictably hilarious grumbling and bellyaching.
+
+The nice lady that eventually let us set foot in Copenhagen asked us where we were staying, and the nature of our stay - while staring at us with the same smile a Great White shark might flash at its next meal. Thankfully she let us go.
+
+After dropping our bags at the hotel, we set off on foot into the heart of the city with no map and no guide book - because after buying the best Lonely Planet guide that money can buy, we forgot to bring it with us. Genius.
+
+We spent the afternoon wandering the city - hopping from cafe to cafe - and somehow found our way to the Copenhagen city museum, and then visited the cafe inside the museum - just to complete the journey really.
+
+We’re back at the hotel now - checked in and holed up in the room. We’re eating in the hotel restaurant tonight before venturing out tomorrow towards the city harbour, and perhaps some more cafes. Tuesday will take us to Tivoli Gardens.
+
+p.s. writing this on an iPad. It’s painful.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>33</wp:post_id>
+      <wp:post_date>2025-12-07 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-07 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>copenhagen</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Oats, Harbours, Mermaids and Glogg]]></title>
+      <link>https://jonbeckett.github.io/oats-harbours-mermaids-and-glogg</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/oats-harbours-mermaids-and-glogg</guid>
+      <description></description>
+      <content:encoded><![CDATA[Today was very much a day of new things. A breakfast of overnight oats, a pilgrimage of sorts, a marching military band, a mermaid, an open sandwich and a glass of glogg.
+
+After filling ourselves with quite wonderful oats first thing we wrapped up against the cold and set out on foot across the city. After threading our way through myriad streets we arrived at the old city harbour - lined with colourful buildings, boats, market stalls, bars and restaurants.
+
+After breaking the bank on two pairs of hand knitted Scandinavian socks (and memories of Forrest Gump’s advice about them), we continued onwards through the city and unwittingly encountered several hundred people congregating in the King’s Square. After a quick google search we heard pipes and drums in the distance, and became accidental front row witnesses to the changing of the guard at the royal palaces.
+
+After admiring the best and brightest of the Danish army marching band, and experiencing the worst of pushy, rude tourists, we escaped first to the Marble Church (where we were once again reminded on the thoughtlessness of SO many tourists) before heading out of the city to the waterfront,and perhaps the most famous tiny lump of bronze in the whole of Denmark - if not Europe.
+
+While walking past tour buses delivering countless travellers on their own pilgrimages, suddenly there she was - the bronze statue of Hans Christian Andersen’s Little Mermaid - perched on a rock, looking out over the harbour.
+
+I hadn’t expected it to be so affecting - but it was. There was a strange quiet in the crowd too. A silence as they took turns to approach close and take photographs. A reverence of sorts. I’ve never seen anything like it for a fictional character. It made me realise that an idea - or an ideal - is far more important than any person or thing.
+
+She seemed so sad - and no wonder. I read the story to our children when they were young, and regretted it. There are so few positives to take from it. I guess we have all loved and lost at some point in our lives though - perhaps that’s what connects her to us all.
+
+Afterwards we picked our way back towards the old harbour, found a cosy restaurant, and set down next to their heaters with hot soup, open sandwiches, and glasses of glogg - the famous Scandinavian spiced wine that has fortified sailors for hundreds of year. It was as wonderful as we ever imagined. I imagine being cold, tired and hungry helped.
+
+We spent the remainder of the day window shopping our way through the most commercial part of the city - surrounded by waves of tourists on foot, commuters on bicycle, and endless buses while gazing at the millions of twinkling lights throughout the thoroughfares. We knew we were in trouble when tourist tat shops began to look appealing, so retreated to a cafe near Tivoli gardens before returning to our hotel.
+
+It’s been a good day. A tiring day, but a good day. And an unexpectedly thoughtful day.
+I might have to go and look up Mr Andersen’s books later.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>34</wp:post_id>
+      <wp:post_date>2025-12-08 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-08 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>oats-harbours-mermaids-and-glogg</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[The Glyptotek and Tivoli Gardens]]></title>
+      <link>https://jonbeckett.github.io/the-glyptotek-and-tivoli-gardens</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/the-glyptotek-and-tivoli-gardens</guid>
+      <description></description>
+      <content:encoded><![CDATA[Yesterday morning we set out bright and early for the “Glyptotek” - a vanity project built by Carl Jacobsen - the son of the founder of the Carlsberg breweries - to house his art collection. While wandering around the museum I found myself wondering if art is a really good tax break. It must be - judging by the corridors of sculptures and paintings.
+
+After wandering around for a couple of hours we stopped for a cup of tea and a cookie in the central museum cafe, and conversation turned to the historic portrayal of the human body. Yes - we have the weirdest conversations sometimes. I expressed my curiosity that countless artists have portrayed every angle of the human body over the years - but very rarely particular corners - which is amazing to me, given those areas are pivotal to our continued existence. Thinking back, the only artist I’ve ever seen portray anything between a woman’s legs was Rodin - and then only in his museum in Paris. And why does classical sculpture always portray grown men with children’s reproductive body parts?
+
+I wonder if the last few “taboos” will be dropped soon, and the hoodoo around our bodies normalised entirely for future generations. It’s madness that medieval censorship still controls what is seen as right or proper. It’s always seemed to me that the more you try to control anything, the more it will be sought out.
+
+Anyway.
+
+After the Glyptotek we wandered back to the old harbour and were recognised at the previous days cafe by the pretty blonde girl running tables. We stopped for Smorrebrod and Glogg, and people watched for an hour before wandering back towards the hotel - with plans to visit Tivoli Gardens as soon as darkness fell.
+
+Tivoli was wonderful.
+
+A theme park in the centre of Copenhagen - surrounded by the city on all sides, and lit with a million twinkling lights. We ventured no further than a carousel, and a children’s tour of the world of Hans Christian Andersen in our exploration - but visited countless shops, watched a marching band, had a wonderful traditional Danish roast dinner, and drank far too much Glogg.
+
+While wandering from one thing to the next around Tivoli, we realised that the best memories of our visit had not been planned. We have just happened to be at various places as events have unfolded around us. It’s been kind of wonderful. I’m sure there’s a message there somewhere.
+
+My very clever smartwatch told me this morning that I had my best sleep ever last night. It obviously doesn’t correlate blood alcohol levels with sleep patterns. It doesn’t require a genius to figure that one out.
+
+This morning our bags are packed and we are counting the minutes until checkout from the hotel, and the reversal of the route that brought us here.
+
+Copenhagen has been kind of wonderful. Expensive, yes, but lovely too.
+
+Now to return to our normal. Fingers crossed the kids haven’t wrecked the house.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>35</wp:post_id>
+      <wp:post_date>2025-12-10 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-10 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>the-glyptotek-and-tivoli-gardens</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Unnecessarily Difficult]]></title>
+      <link>https://jonbeckett.github.io/unnecessarily-difficult</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/unnecessarily-difficult</guid>
+      <description></description>
+      <content:encoded><![CDATA[A few months ago I switched from Android to iPhone. In the process of doing so, somebody somewhere sold my phone number to a marketing moron, and before I knew it, I was receiving multiple calls per day from random numbers. Perhaps the most annoying were from a pre-teen telling me to call a random number to avoid being fined for something or other.
+
+This all coincided with the update to iOS that allows you to have a virtual receptionist take calls from anybody not on your contact list. Problem solved. And another problem created.
+
+For some reason known only to Apple, I can now listen to recorded messages taken by my virtual assistant, but if I call those people back via the options while listening to recorded messages, I cannot see those outgoing calls in the call history. Genius move.
+
+This only really takes hold when you’ve just got through passport control at the airport, and you try to call the taxi you booked several weeks ago - that left a message with your virtual assistant, because nobody you don’t know is allowed to call you any more, because some idiot marketer sold your information several months ago and ruined the world for everybody.
+
+Don’t even get me started about the taxi company - that used to meet you at the gate years ago - and now you have to call while they stay somewhere near the airport, because they don’t want to stop, because that will incur hilarious fees at the terminal. You end up having a broken conversation with a non-english-speaking driver as they try to tell you that they will pick you up from departures - not arrivals - for that specific reason, but without telling you that’s why.
+
+And another thing…
+
+Why is it the more expensive the hotel, the more utter garbage their IT infrastructure is? We stayed in a really nice hotel in Copenhagen. To connect to the WiFi I had to remove all protections from my phone, and completely disable VPN. I had to do this every time my other half wanted to watch television, because the TV wouldn’t remember who I was at all. Except it did the day we left, when I got home and found out somebody in our hotel room in Copenhagen was watching TV on my Netflix account. I stopped their fun as soon as I found out.
+
+Why? Why does everything have to be so damn difficult all the time?
+
+I’ll stop ranting now. Deep breaths.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>36</wp:post_id>
+      <wp:post_date>2025-12-11 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-11 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>unnecessarily-difficult</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[A Moveable Feast]]></title>
+      <link>https://jonbeckett.github.io/a-moveable-feast</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/a-moveable-feast</guid>
+      <description></description>
+      <content:encoded><![CDATA[It occurred to me this morning that I’m becoming invisible. As wave after wave of new generations enter the scene from stage left, I’m increasingly the fool on the hill - recounting past adventures, and rolling my eyes at the surrounding cacophony.
+
+It got me thinking - about Midnight in Paris, and the book it’s based upon - and the all too common human condition to chase the way things once were.
+
+Ernest Hemingway famously lived several lives, and perhaps crucially for us, wrote personal journals throughout his adventures. In his later years he re-discovered a collection of old notebooks - long thought lost - which became the basis for “A Moveable Feast” - the book upon which Midnight in Paris is based.
+
+The interesting thing to me - is that Hemingway didn’t recount the stories about the Paris of his youth until his autumn years. In a strange sort of way, his narration of the world inhabited by his younger self, the Fitzgeralds, and the upcoming artists who would change the world is no different than Gil Pender’s yearning for a time long past, or anybody else’s.
+
+I sometimes go back and read my own past journal entries, and wonder how much my views have changed - about the world, and about my place in it. It’s difficult to say.
+
+I think it’s dangerous to look back too much. It seems all too easy to make unfair comparisons - cherry-picking the best of the past against the worst of the present - and of course it’s all subjective.
+
+While the past has shaped who I am, it’s not who I am.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>37</wp:post_id>
+      <wp:post_date>2025-12-12 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-12 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>a-moveable-feast</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[In search of my lost tribe]]></title>
+      <link>https://jonbeckett.github.io/in-search-of-my-lost-tribe</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/in-search-of-my-lost-tribe</guid>
+      <description></description>
+      <content:encoded><![CDATA[I don’t recognise the internet any more. Walled cities have proliferated, filled with newcomers, settlers, and homesteaders - who invariably join each other in a race to the bottom - chasing just enough engagement to inflate their numbers without having to invest too much effort in establishing any sort of “real” relationship with anybody.
+
+When the social internet first evolved and people began connecting through “friending”, “following”, and “subscribing”, I remember a common statistic being thrown around - a human limit of sorts. It was posited that nobody could support more than 100 friends.
+
+I would often look around, count the people I kept in touch with on the fingers of one hand - sometimes two - and wonder if the statistics were inflated by an order of magnitude.
+
+I became a “blogger” before the “social internet” happened. We would bookmark each other, write in each other’s guestbooks, and leave comments on each other’s posts. We would maintain blog-rolls - pages of links to those we regularly read - to help others find their way.
+
+I can still remember the front pages of “Belgian Waffling”, “Dooce”, “Petite Anglaise”, and “Belle de Jour”. None of those blogs exist any more.
+
+To my knowledge, only two of us still share an almost daily journal on the internet - myself, and a girl in Canada. We crossed paths back when then web was shiny and new - and took part in “NaBloPoMo” ~ “National Blog Posting Month” - a reaction to “NaNoWriMo”, or “National Novel Writing Month”. I still remember becoming friends with Lisa. I remember sitting in the office one morning, reading about her car accident. I still look in on her orphaned son from time to time - to see how he’s doing - twenty years later.
+
+Somewhere along the way our “tribe” didn’t so much disband, as disintegrate. I suppose - thinking back - we were all “of an age” that suited the time required to share the quiet moments with each other. Life happened. Families happened. Work happened. One by one, we fell like dominoes.
+
+Writing on the web was once dominated by either self published blogs (I wrote one of the first open source blog scripts), or one of the few “platforms” that would slowly gestate into the walled gardens that proliferate today. Wordpress, TypePad, Blogger, and LiveJournal dominated during those early years - with “Really Simple Syndication” delivering our friends words to us across open borders each day. They gave rise to everything that came afterwards - MySpace, Vox, Yahoo 360, Facebook, Tumblr, Medium, Twitter, Jaiku, Plurk, Threads, Substack, Mastodon, BlueSky, and more.
+
+I miss the early days of the web - before the “social” networks came into being. Perhaps the thing I really miss is having the time to spend reading, commenting, and contributing to the river of consciousness that the internet unlocked.
+
+Every few months I find myself searching for those I once knew - usually late at night - with the hope of finding perhaps one or two of the names I recall. While doing so, I invariably discover new voices, new stories, and new characters - and add them to the towering list of content I won’t keep on top of.
+
+I wonder if “my tribe” is still out there somewhere - or if indeed it ever went away. Perhaps it’s been here all along and I’ve chosen not to see it - or more likely it has been diluted and drowned out by hordes of engagement seeking sausage machine operators pumping industrial quantities of AI generated slop into the firmament while chasing one more like, one more follower, or one more subscriber.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>38</wp:post_id>
+      <wp:post_date>2025-12-14 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-14 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>in-search-of-my-lost-tribe</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[On the outside, looking in]]></title>
+      <link>https://jonbeckett.github.io/on-the-outside-looking-in</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/on-the-outside-looking-in</guid>
+      <description></description>
+      <content:encoded><![CDATA[I went to my other half’s work Christmas party as her “plus one” last night. It was interesting - being the person on the outside, looking in on the work friendships and relationships - not having to “be present”, or “show up”.
+
+I learned so much about a room full of strangers - a collection of wonderful people who somehow decided to empty their head - sharing their stories while standing with drinks, or sitting together to eat.
+
+The good will and smiles around the room were infectious, and went some way towards filling the hole left by missing my own work Christmas party (we were flying back from Copenhagen).
+
+It a strangely hollow feeling though - being on the outside. You learn names that you’ll quickly forget. You hear stories that you’ll attribute to the wrong faces in your recollections. You wish you could know some of the people better, and you find yourself quite glad you don’t have to get to know others any further than absolutely necessary.
+
+We left the party late in the evening, and wandered through the night to the nearest railway station - where a concert crowd at Wembley Stadium had turned every railway carriage into a gigantic game of sardines.
+
+We crammed into the middle of a carriage, and tried not to listen to a drunk family heading home after a night out - with a mid-twenties daughter repeatedly challenging her retired father on anything and everything that left his mouth. I felt so sorry for. No doubt when he’s grand-standing on social media’s algorithmic timelines, his racist, bigoted views are laughed at and encouraged - when surrounded by a cross-section of society on a train, not so much.
+
+Anyway.
+
+We got home at about half past midnight. I forgot to drink water. Somehow I woke this morning with no headache, and no after-effects. Miraculous really.
+
+This evening I’ve started to watch the clock. Back to work in the morning. Back to normality. Back to the treadmill. I can feel the stress building towards the moment I login to Outlook and Teams, and watch the screens fill with pages of email, messages, conversations, and chaos.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>39</wp:post_id>
+      <wp:post_date>2025-12-14 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-14 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>on-the-outside-looking-in</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Work, chores and strictly]]></title>
+      <link>https://jonbeckett.github.io/work-chores-and-strictly</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/work-chores-and-strictly</guid>
+      <description></description>
+      <content:encoded><![CDATA[It’s been a few days again. A few days since I last emptied my head into the keyboard. I’m not sure where the last week went, to be honest. Work, chores, and errands rapidly conspire if you let them - and I tend to let them.
+
+I’m trying to re-wind in my head - to remember what happened this week.
+
+Monday through Wednesday were consumed by work, and running ragged around the house during “coffee breaks” to get washing through the machine, loads through the dishwasher, and so on. I really am my own worst enemy - I can’t leave things for others to do - if I have even a minute, I’ll invariably fill it with something or other. This is how I end up emptying the dishwasher first thing in the morning while waiting for the kettle to boil. It’s also how I end up folding clothes while waiting for the kettle to boil during the day - or re-filling the washing machine, emptying the bins, or whatever else needs doing.
+
+There’s a sprint most days to get the house somewhat cleared by the time my other half gets in from work - a short window in-between me finishing work, and her arriving - then either she or the kids will cook, and I’ll be on washing up duty immediately afterwards. We try to sit down for dinner together most days, and share our day with each other. Of course nobody ever asks what I did during the day - because how do you even scratch the surface of telling them about cloud infrastructure, testing frameworks, corporate databases, document management systems, automation workflows, or whatever the hell else you’ve been submerged in all day?
+
+Just to add to all the fun, our middle daughter is recovering from surgery at the moment (ACL if you’re wondering - she has had her knee re-built following a rugby injury about six months ago) - so she’s off work for the month, and holed up in the lounge watching TV, scrolling TikTok, and building LEGO kits. She’s going properly stir crazy. On Friday I dropped work and accompanied her to a succession of hospital appointments around the county - firstly to visit a physio, then to get the staples from the surgery removed, and then a consultant to get prodded and poked at, and new X-Rays done.
+
+Yesterday was partly filled with a trip to the local rubbish dump. I took an old HP Deskjet printer, and tried to drop it at the “re-use” shop. The guy on the desk informed me that they don’t take printers - so it went into land-fill. Before you ask - I tried to give it away for months - nobody wanted it. It’s sad, isn’t it - that printers are deemed so unreliable, high maintenance, high ink prices, and usually have such poor support and compatibility, that they cannot be re-sold.
+
+Anyway.
+
+Last night we sat down and watched Karen Carney win Strictly. So pleased for her. I’ve been reading articles this morning about her journey after retiring from playing football - about her being trolled, and losing all her confidence. Something needs to be done about trolls online. Personally, I always agreed with Google+ stance - that people should use their real identity online - not be able to hide behind invented facades.
+
+We saw Karen play towards the end of her career - we have a programme signed by her, and photos of her with the girls. She was one of the most talented football players I’ve ever seen. An inspiration for a generation. Like I said - so pleased for her. In a world where the loudest, most obnoxious, and seemingly most awful people hog the headlines, it’s wonderful to see a genuinely good person do something hard, do it well, and be recognised for it.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>40</wp:post_id>
+      <wp:post_date>2025-12-20 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-20 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>work-chores-and-strictly</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Christmas Day]]></title>
+      <link>https://jonbeckett.github.io/christmas-day</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/christmas-day</guid>
+      <description></description>
+      <content:encoded><![CDATA[Somehow we’ve made it through Christmas in one piece.
+
+We all congregated in the lounge by mid-morning. There had been strict instructions to cap the budget at a sensible amount per person this year - because we all work now (well… all except our youngest daughter, who is heavily pregnant) - so none of us really need anything. The kids have slowly realised the idiocy of buying people “things” they don’t particularly want or need - so there were lots of aftershave, bubblebath, socks, chocolate, and whatever else.
+
+Of course the unborn baby received more presents than the rest of us put together. Let’s just say it’s not going to need anything of consequence bought for the first several months of it’s life.
+Lunch was something of a success. After spending much of the morning feeding the cooker with trays of potatoes, sprouts, carrots, and whatever else, we all sat down and ate enough for a small army. Somehow I don’t think we’ll be eating anything later today.
+
+After spending much of the day together eating, drinking, and playing various board games, we have now disbanded. You find me holed up in the study - listening to music, catching up on email, and writing this blog post. Other half and middle daughter are watching Indiana Jones, youngest and her boyfriend have passed out upstairs. Eldest is sitting on top of her pile of presents like Smaug the dragon in her room.
+
+Seeing as I didn’t actually need anything for Christmas, I asked my daughters for chocolate for Christmas - and oh boy did they deliver. I have enough to cause a major heart problem by Boxing Day (don’t worry - I won’t be touching any of it, any time soon).
+
+You know that thing where you stockpile all the rich food for Christmas, and then within hours of unleashing it, you’re sick of it? That. The remains of Christmas dinner will no doubt end up in a frying pan tomorrow morning for “Bubble and Squeak”. I gather Bubble and Squeak might be a very British thing, so I should probably explain. Throw all the leftover veggies in a frying pan the next day, crack an egg over it, and fry it into a big fat pancake of sorts. Add ketchup, and it’s the BEST.
+
+My other half bought me a Commodore 64 t-shirt. I think this is reason enough for me to go and order a shiny new Commodore 64 from the newly resurrected Commodore, isn’t it? I know… I don’t actually need a new computer, but hell - a NEW Commodore 64 would be a thing of beauty, wouldn’t it?
+
+For anybody wondering what on earth I’m blathering on about, the Commodore 64 was a popular home computer in the early to mid 1980s. I didn’t have one. To be honest, I would sell my left arm for a Commodore Amiga, but they are as rare as hens teeth theses days (at least for a sensible price) - not least because technology of that era actively tries to kill itself. Capacitors leak onto the motherboards, and destroy them beyond repair.
+
+A new C64 though. That would be quite wonderful.
+
+Somebody talk me out of it before I end up putting the order in tomorrow morning. This is the reason I have the YouTube channel, isn’t it - so I can re-live my youth through retro hardware that I don’t have time to play with…
+
+In other news, we snuck out for a drink with good friends yesterday evening before dinner. I got talking to one of them about her taking part in park run, and agreed that it would be a damn good idea if we went running together - for no other reason than to keep each other honest. Neither of us are competitive - but without at least SOME reason to get up and head out the door, you just know that one day you won’t bother, and that will lead to another day, and we know where that ends - 2 years since you last ran any distance at all.
+
+I miss running. And yes, I know I’ve mentioned getting back at it several times.
+
+It’s about putting myself first at least 1% of the time, isn’t it.
+
+Anyway.
+
+Merry Christmas all. Let’s hope for peace, quiet, and as few family arguments as possible over the next little while.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>41</wp:post_id>
+      <wp:post_date>2025-12-25 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-25 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>christmas-day</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Boxing Day]]></title>
+      <link>https://jonbeckett.github.io/boxing-day</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/boxing-day</guid>
+      <description></description>
+      <content:encoded><![CDATA[After falling off the internet in recent days, I reached out to a few friends around the world this morning - wishing them a happy “Boxing Day”, and none of them outside the UK had a clue what I was referring to.
+
+In the UK, the day after Christmas Day is “Boxing Day”. I just looked it up - because I had no idea of its origins either. The most popular theory is rooted in the Victorian era. In those days, domestic servants were required to work on Christmas Day to serve their employers’ grand feasts. As a “thank you,” they were given December 26th off to visit their own families. Before they left, their masters would give them a “Christmas Box” - a wooden box containing gifts, bonuses, and sometimes leftover food from the Christmas dinner.
+There you go.
+
+Anyway.
+
+You find me sitting in the lounge listening to Vinyl records on my own. My other half has taken our post-surgery middle-daughter to visit her Mum. I’ve spent much of the morning taking the opportunity to clear the decks - washing up (again), throwing packaging away, discovering clothes stuffed behind bathroom doors, and re-uniting them with the washing machine.
+
+Sabrina Carpenter’s “Man’s Best Friend” album is spinning around on the turntable, filling the lounge with music while our aged ginger cat sits in the patio door atop a blank-box, looking out over the garden. He’s become such a home-body. Our other cat - Kaspar - is out in the garden somewhere, ruining Christmas for a family of mice no doubt.
+
+From time to time our youngest daughter appears - waddling from room to room in her heavily pregnant state. We’re counting down the days now. She seems to be sailing through the whole pregnancy journey - let’s keep our fingers crossed the remainder of the journey is equally uneventful.
+After falling into bed at stupid o’clock last night, I didn’t wake up until 9am this morning - unheard of for me. I wandered downstairs, had a shower, then made bacon sandwiches for myself and my eldest daughter. It’s almost miraculous - how the smell of bacon can summon her like a demon from the underworld.
+
+Sabrina has finished singing about her boyfriend(s) now - I’ve changed the record over to a guilty pleasure - Jean Michel Jarre’s “Oxygene”.
+George - our many storied cat - is listening to it with me. Or at least, I think he is. He’s sitting across from me, curled up in a ball. I think he’s quite enjoying the peace and quiet while everybody else is out too. His full name should be “George of the 27 lives”. He used to have two brothers - both of which died young - we think he inherited their lives, given the scrapes he has survived so far.
+
+I should probably get on with something. There must be a rubbish movie on or something. Maybe I’ll go read some blogs - try to catch up. I’ve been off grid for so long, it’s kind of difficult to find my way back.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>42</wp:post_id>
+      <wp:post_date>2025-12-26 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-26 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>boxing-day</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Far from the madding crowd]]></title>
+      <link>https://jonbeckett.github.io/far-from-the-madding-crowd</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/far-from-the-madding-crowd</guid>
+      <description></description>
+      <content:encoded><![CDATA[As the final hours of 2025 ebbed away, I sat on the sofa with a laptop, quietly lifting 22 years worth of blog posts into the air - to land them far from the madding crowd.
+
+After a rather horrendous run through the end of the year - more of a stagger than a run if I'm honest - I came very close to ending the blog entirely. Not by choice, either.
+
+I do want to shout out those that reached out to me during the darkest recent days. It meant far more than you'll ever know.
+
+Anyway...
+
+The sun rises tomorrow on a new year! I'm not going to spout any ridiculous resolutions, or goals. I'm just going to try and get through the coming year in one piece.
+
+Fingers crossed.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>43</wp:post_id>
+      <wp:post_date>2025-12-31 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-31 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>far-from-the-madding-crowd</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2025"><![CDATA[2025]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Reconnecting]]></title>
+      <link>https://jonbeckett.github.io/reconnecting</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/reconnecting</guid>
+      <description></description>
+      <content:encoded><![CDATA[Well, here we are again. Another January 1st has rolled around, and with it, that familiar hum of "new year, new me." This is where many people launch into grand declarations about resolutions, goals, and all the exciting things they are going to do this year. Not me. This year feels... different.
+
+Instead of looking outward, I've been feeling a strong inward pull in recent months. A desire to strip away the noise - to quiet the constant hum. My revelation - or resolution - isn't really very big or clever - it's just an acceptance that I need to go off-grid - or at least, step away from the loudest parts of the grid.
+
+The pressure to constantly share, curate, and perform becomes exhausting. Don't get me wrong - I love connecting with people - but that's where this all gets a bit paradoxical. The closest friendships of my life have been forged online - through blogging, or social networks. The people I have crossed paths with have taught me so much - inspired me - and kept me going on days when the world hasn't been the friendliest of places.
+
+It doesn't help that every time I go anywhere near a social network, I'm immediately annoyed by the continual attempts by so many to be the funniest person in the room - to have a hot take on anything and everything. Everybody seems to want to take sides about everything and anything. It's exhausting.
+
+So... I’m building my own little digital cabin in the woods. This blog is going to be my sanctuary. My place to write, to explore, to be. No algorithms, and no endless scrolling - just words - from me to you - whenever you or they decide to show up.
+
+I’m not entirely sure what this experiment will bring. It might be lonely at times. I might miss the instant feedback, the casual banter - but I also know that the very best things I've written have emerged from the dark silence of late night introspection - not from the continuous and cacophonous roar of the social internet firehose.
+
+So, if you’re reading this, thank you for finding me in my new little digital hideaway. I hope you'll stick around. I’ve got a feeling this is going to be an interesting year.]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>44</wp:post_id>
+      <wp:post_date>2026-01-01 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>reconnecting</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2026"><![CDATA[2026]]></category>
+    </item>
+    <item>
+      <title><![CDATA[Breakfast, Bookshops, and Stranger Things]]></title>
+      <link>https://jonbeckett.github.io/friday</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[Jon Beckett]]></dc:creator>
+      <guid isPermaLink="false">https://jonbeckett.github.io/friday</guid>
+      <description></description>
+      <content:encoded><![CDATA[After clearing the decks at chore-city this morning I walked (very slowly) into town with my middle daughter. She's on crutches at the moment - recovering from anterior cruciate ligament surgery - a repair on an injury sustained in a rugby match about 18 months ago. It's probably going to take a year to recover fully, but at least she's up and about.
+
+The reason for our journey was to drop leftover painkillers at the pharmacy. Given they were hugely powerful post-surgery drugs, apparently they are best disposed of by the authorities, rather than ending up in land-fill and being scavenged by drug users.
+
+We continued on into town - about a mile walk - and had a late breakfast at the huge pub where she normally works. One of the managers came by to say hello, which lifted her spirits enormously. She's been going a bit stir-crazy at home, so getting out into the world for the first time in weeks was kind of huge really.
+
+Afterwards we wandered over to the book-shop and I very nearly bought a copy of "The Full Moon Coffee Shop" by Mai Mochizuki. Rather than buy any more, I'm trying to just write down the names of books that look interesting in a list, and I'll re-visit it when I've caught up (like that's ever going to happen).
+
+While out I did pick up a calendar re-fill for my old paper filofax. I know it's a bit of a throw-back, but I still tend to double-up whatever is in Google into a paper filofax on the corner of my desk. It never goes wrong, and it doesn't require any batteries.
+
+When we got home I put the order in for a new bullet journal - it should arrive on Sunday. Rather than live ALL of my life in the computer, I'm returning to using a bullet journal this year. I used them for years before switching over to modern toys like Obsidian, Bear, or Notion - and have missed them ever since. The book by Ryder Carroll about how the idea of the "bullet journal" came about is a fascinating read, if you've not read it. A lot more thought went into it than you might expect.
+
+I might have also ordered a retro keyboard and mouse that I've been looking at for months this afternoon. I've gone through so many keyboards in recent years it's getting a bit ridiculous. I usually buy the cheapest standard-shape keyboards from Logitech, but after having two in a row exhibit the same problems with bouncing keys, I foolishly walked into PC World a few months back and bought an HP keyboard - which looks nice, but is strangely horrible to type on. The retro keyboard that will arrive on Sunday is much more like the kind of keyboard you might have seen twenty or thirty years ago - with clacky keys, and more shape to it. I don't get the obsession with flat keyboards.
+
+Anyway.
+
+Just wanted to empty a few thoughts out of my head about "Stranger Things". I finally made it through the last few episodes last night. Am I really alone in thinking that it kind of "jumped the shark" at some point in season 5? What started several years ago as a goonies type adventure into the paranormal with a group of children, somehow pivoted in the final episodes to the chief of police machine-gunning a room full of mercenary soldiers in cold blood? And the final plot point (which I won't ruin) was massively contrived.
+
+The only good thing that came out of Season 5 was Mrs Wheeler - who turned into a complete and utter bad-ass while defending her youngest daughter from one of the monsters in (I think) the first episode.
+
+Onwards and upwards. Fallout season 2 has arrived on Amazon. I wonder if myself and my other half can binge-watch it over the weekend?]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>45</wp:post_id>
+      <wp:post_date>2026-01-02 00:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-02 00:00:00</wp:post_date_gmt>
+      <wp:comment_status>open</wp:comment_status>
+      <wp:ping_status>open</wp:ping_status>
+      <wp:post_name>friday</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+      <category domain="category" nicename="2026"><![CDATA[2026]]></category>
+    </item>
+  </channel>
+</rss>
