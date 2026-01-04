@@ -4,9 +4,7 @@ title: Disclaimer
 permalink: /disclaimer/
 ---
 
-## Disclaimer
-
-All opinions, views, and content expressed on this blog are my own personal opinions and do not reflect the views, opinions, or policies of any employer, organization, or institution with which I may be affiliated, whether past, present, or future.
+**All opinions, views, and content expressed on this blog are my own personal opinions and do not reflect the views, opinions, or policies of any employer, organization, or institution with which I may be affiliated, whether past, present, or future.**
 
 The information and commentary provided on this blog are offered for general informational and educational purposes only. While I strive to provide accurate and up-to-date information, I make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information contained on this blog.
 
