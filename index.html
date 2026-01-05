@@ -6,16 +6,45 @@ author_profile: true
 {% assign latest_post = site.posts.first %}
 
 {% if latest_post.header.overlay_color or latest_post.header.overlay_image or latest_post.header.image %}
-  {% assign page_header = latest_post.header %}
-  {% assign page_title = latest_post.title %}
-  {% assign page_excerpt = latest_post.excerpt %}
-  {% assign page_url = latest_post.url %}
+  {% comment %} Map latest post header data to page variables {% endcomment %}
+  {% capture page_header %}
+  {
+    "overlay_color": "{{ latest_post.header.overlay_color }}",
+    "overlay_image": "{{ latest_post.header.overlay_image }}",
+    "overlay_filter": "{{ latest_post.header.overlay_filter }}",
+    "image": "{{ latest_post.header.image }}",
+    "caption": "{{ latest_post.header.caption }}",
+    "show_overlay_excerpt": {{ latest_post.header.show_overlay_excerpt | default: true }}
+  }
+  {% endcapture %}
   
-  {% if page_header.overlay_color or page_header.overlay_image or page_header.image %}
-    {% include page__hero.html %}
-  {% elsif page_header.video.id and page_header.video.provider %}
-    {% include page__hero_video.html %}
-  {% endif %}
+  <div class="page__hero{% if latest_post.header.overlay_color or latest_post.header.overlay_image %} page__hero--overlay{% endif %}"
+       {% if latest_post.header.overlay_color %} style="background-color: {{ latest_post.header.overlay_color | default: 'transparent' }};"{% endif %}>
+    {% if latest_post.header.overlay_image %}
+      <div class="page__hero-image" style="background-image: {% if latest_post.header.overlay_filter %}{{ latest_post.header.overlay_filter }}, {% endif %}url('{{ latest_post.header.overlay_image }}');">
+    {% elsif latest_post.header.image %}
+      <div class="page__hero-image" style="background-image: url('{{ latest_post.header.image }}');">
+    {% endif %}
+      <div class="wrapper">
+        <h1 id="page-title" class="page__title">{{ latest_post.title }}</h1>
+        {% if latest_post.excerpt and latest_post.header.show_overlay_excerpt != false %}
+          <p class="page__lead">{{ latest_post.excerpt | markdownify | strip_html | strip | truncate: 200 }}</p>
+        {% endif %}
+        {% if latest_post.header.actions %}
+          {% for action in latest_post.header.actions %}
+            <a href="{% if action.url contains 'http' %}{{ action.url }}{% else %}{{ action.url | relative_url }}{% endif %}" class="btn btn--light-outline btn--large">{{ action.label | default: "Learn More" }}</a>
+          {% endfor %}
+        {% else %}
+          <a href="{{ latest_post.url | relative_url }}" class="btn btn--light-outline btn--large">Read Full Post</a>
+        {% endif %}
+        {% if latest_post.header.caption %}
+          <span class="page__hero-caption">{{ latest_post.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+        {% endif %}
+      </div>
+    {% if latest_post.header.overlay_image or latest_post.header.image %}
+      </div>
+    {% endif %}
+  </div>
 {% endif %}
 
 <div id="main" role="main">
