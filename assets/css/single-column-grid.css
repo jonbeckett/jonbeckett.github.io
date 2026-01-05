@@ -1,0 +1,25 @@
+/* Single column grid layout for homepage */
+.single-column-grid .entries-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.single-column-grid .archive__item {
+  width: 100%;
+}
+
+.single-column-grid .archive__item-teaser {
+  width: 200px;
+  height: 120px;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  border-radius: 4px;
+}
+
+.single-column-grid .archive__item-excerpt {
+  margin-left: 0;
+}
