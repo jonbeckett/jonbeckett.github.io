@@ -230,6 +230,33 @@ Before publishing, search for and correct these American spellings:
 - [ ] Compelling excerpt written
 - [ ] Markdown formatting correct throughout
 
+## Site Configuration Requirements
+
+### Category and Tag Archives
+**CRITICAL**: This site is hosted on GitHub Pages, which does NOT support the `jekyll-archives` plugin. The site configuration MUST use the Liquid method for category and tag archives:
+
+```yaml
+# CORRECT configuration for GitHub Pages
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid  
+  path: /tags/
+
+# NEVER use jekyll-archives on GitHub Pages (will break links)
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+```
+
+**Important Notes:**
+- Using `type: jekyll-archives` will break all category and tag links site-wide
+- The `liquid` method creates anchor links like `/categories/#productivity` and `/tags/#gtd`
+- Category and tag pages use anchor links within the same page, not separate pages
+- Do NOT modify the archive configuration in `_config.yml` without understanding the implications
+
 ## Research and Fact-Checking
 
 ### Source Requirements
