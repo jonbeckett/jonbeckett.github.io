@@ -10,7 +10,9 @@ I'm a software and web developer who's spent more years than I'll easily admit c
 
 My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. Much of my time is spent in the Microsoft ecosystem, wrangling document and content management systems, writing PowerShell scripts to automate the things that should already have been automated, and building workflows with PowerAutomate that occasionally do exactly what they're supposed to. I've spent considerable time with workflow platforms such as K2 and Nintex in the past - convincing them to play nicely with the rest of the technological world.
 
-More recently, I've been diving into the world of TypeScript, writing Gherkin scenarios that make sense to humans, wrestling with Cucumber to turn those scenarios into actual tests, and using Playwright to automate web interfaces. I also spend a fair amount of time tinkering with DevOps pipelines that promise to make deployments seamless—and occasionally deliver on that promise. It's a glamorous life, really.
+More recently, I've been diving into the world of TypeScript, writing Gherkin scenarios that make sense to humans, wrestling with Cucumber to turn those scenarios into actual tests, and using Playwright to automate web interfaces. I also spend a fair amount of time tinkering with DevOps pipelines that promise to make deployments seamless—and occasionally deliver on that promise.
+
+Behind all this modern technology sits a rather longer history of tinkering with Linux systems and open source software — a journey that goes back far enough that I once accidentally wrote one of the first popular blogging platforms. Yes, accidentally. Turns out that solving your own problems and then sharing the solution sometimes leads to unexpected consequences. It's a glamorous life, really.
 
 ## What I Think About
 
