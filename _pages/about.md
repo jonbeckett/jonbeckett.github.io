@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+## Who I am
+
+My name's Jonathan - variously known as a software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, and occasional player of retro video games. You may know me via my YouTube channel, or personal blog - where I rarely mention anything about what I spend the majority of my life doing. I guess this site resolves that somewhat.
+
+
 ## What I Do
 
 I'm a software and web developer who's spent more years than I'll easily admit convincing computers to do arguably useful things - although they don't always cooperate as enthusiastically as I'd like.
