@@ -13,7 +13,7 @@ permalink: /categories/
   {% assign category_name = category[0] %}
   {% assign posts = category[1] %}
   
-<h2><a href="/categories/{{ category_name | slugify }}/">{{ category_name }}</a> ({{ posts.size }} posts)</h2>
+<h2 id="{{ category_name | slugify }}"><a href="#{{ category_name | slugify }}">{{ category_name }}</a> ({{ posts.size }} posts)</h2>
 <ul>
 {% for post in posts %}
   <li>

@@ -13,7 +13,7 @@ permalink: /tags/
   {% assign tag_name = tag[0] %}
   {% assign posts = tag[1] %}
   
-<h2><a href="/tags/{{ tag_name | slugify }}/">{{ tag_name }}</a> ({{ posts.size }} posts)</h2>
+<h2 id="{{ tag_name | slugify }}"><a href="#{{ tag_name | slugify }}">{{ tag_name }}</a> ({{ posts.size }} posts)</h2>
 <ul>
 {% for post in posts %}
   <li>
