@@ -8,13 +8,15 @@ permalink: /about/
 
 **Software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, retro video games player. Pizza solves most things.**
 
-Welcome to my little corner of the internet! I'm Jon (though my mum still calls me Jonathan when I'm in trouble), and if you've stumbled across this blog, there's a fair chance you're either interested in software development, productivity systems, or you've made a delightful navigation error. Either way, you're very welcome here.
+Welcome to my little corner of the internet! I'm Jonathan - and if you've stumbled across this blog there's a fair chance you're either interested in software development, productivity, or you've made a delightful navigation error. Either way, you're very welcome.
 
 ## What I Do
 
 By day, I wrestle with code and pretend to understand why servers occasionally decide to have existential crises. I'm a software and web developer who's spent more years than I care to count convincing computers to do useful things—though they don't always cooperate as enthusiastically as I'd like.
 
-My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. It's a glamorous life, really.
+My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. Much of my time is spent in the Microsoft ecosystem, wrangling SharePoint into submission, writing PowerShell scripts to automate the things that should have been automated years ago, and building workflows with PowerAutomate that occasionally do exactly what they're supposed to. I've also spent considerable time with workflow platforms like K2 and Nintex, convincing them to play nicely with the rest of the technology stack.
+
+More recently, I've been diving into the world of TypeScript, writing Gherkin scenarios that make sense to humans, wrestling with Cucumber to turn those scenarios into actual tests, and using Playwright to automate web interfaces. I also spend a fair amount of time tinkering with DevOps pipelines that promise to make deployments seamless—and occasionally even deliver on that promise. It's a glamorous life, really.
 
 ## What I Think About
 
