@@ -15,7 +15,7 @@ tags:
 excerpt: "From personal struggle to global phenomenon—the remarkable story of how one designer's learning differences led to a revolutionary planning system that has transformed millions of lives."
 header:
   overlay_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
   caption: "Photo by [Estée Janssens](https://unsplash.com/@esteejanssens) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

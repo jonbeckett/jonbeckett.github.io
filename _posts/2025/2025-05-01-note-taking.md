@@ -13,7 +13,7 @@ tags:
 excerpt: "Exploring the evolution of note-taking from simple lists to sophisticated knowledge management systems that can transform how we think, learn, and create."
 header:
   overlay_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
   caption: "Photo by [Green Chameleon](https://unsplash.com/@craftedbygc) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

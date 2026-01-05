@@ -16,7 +16,7 @@ tags:
 excerpt: "In a world dominated by screens and keyboards, the humble paper notebook continues to hold a sacred place in the lives of thinkers, creators, and innovators. Here's why the analogue experience remains irreplaceable."
 header:
   overlay_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
   caption: "Photo by [Aaron Burden](https://unsplash.com/@aaronburden) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
