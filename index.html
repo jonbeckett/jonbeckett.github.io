@@ -1,34 +1,40 @@
 ---
-layout: home
+layout: default
 author_profile: true
 ---
 
 {% assign latest_post = site.posts.first %}
 
 {% if latest_post.header.overlay_color or latest_post.header.overlay_image or latest_post.header.image %}
-  {% assign header = latest_post.header %}
+  {% assign page_header = latest_post.header %}
   {% assign page_title = latest_post.title %}
   {% assign page_excerpt = latest_post.excerpt %}
   {% assign page_url = latest_post.url %}
   
-  <div class="page__hero{% if header.overlay_color or header.overlay_image %} page__hero--overlay{% endif %}"
-    {% if header.overlay_color %} style="background-color: {{ header.overlay_color | default: 'transparent' }};"{% endif %}>
-    {% if header.overlay_image %}
-      <div class="page__hero-image" style="background-image: url('{{ header.overlay_image }}'); {% if header.overlay_filter %}background-image: {{ header.overlay_filter }}, url('{{ header.overlay_image }}');{% endif %}">
-    {% endif %}
-    {% if header.image and header.overlay_image == nil %}
-      <div class="page__hero-image" style="background-image: url('{{ header.image }}');">
-    {% endif %}
-      <div class="wrapper">
-        <h1 id="page-title" class="page__title">{{ page_title }}</h1>
-        {% if page_excerpt and header.show_overlay_excerpt != false %}
-          <p class="page__lead">{{ page_excerpt | markdownify | strip_html | strip | truncate: 200 }}</p>
-        {% endif %}
-        <p><a href="{{ page_url | relative_url }}" class="btn btn--light-outline btn--large">Read Full Post</a></p>
-        {% if header.caption %}
-          <span class="page__hero-caption">{{ header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-        {% endif %}
-      </div>
-    </div>
-  </div>
+  {% if page_header.overlay_color or page_header.overlay_image or page_header.image %}
+    {% include page__hero.html %}
+  {% elsif page_header.video.id and page_header.video.provider %}
+    {% include page__hero_video.html %}
+  {% endif %}
 {% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+    {% if paginator %}
+      {% assign posts = paginator.posts %}
+    {% else %}
+      {% assign posts = site.posts %}
+    {% endif %}
+
+    {% assign entries_layout = page.entries_layout | default: 'list' %}
+    <div class="entries-{{ entries_layout }}">
+      {% include documents-collection.html entries=posts type=entries_layout %}
+    </div>
+
+    {% include paginator.html %}
+  </div>
+</div>
