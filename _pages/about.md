@@ -4,28 +4,24 @@ title: About
 permalink: /about/
 ---
 
-# Hello, I'm Jonathan Beckett
-
-**Software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, retro video games player. Pizza solves most things.**
-
-Welcome to my little corner of the internet! I'm Jonathan - and if you've stumbled across this blog there's a fair chance you're either interested in software development, productivity, or you've made a delightful navigation error. Either way, you're very welcome.
+Hi - welcome to my little corner of the internet!
 
 ## What I Do
 
-By day, I wrestle with code and pretend to understand why servers occasionally decide to have existential crises. I'm a software and web developer who's spent more years than I care to count convincing computers to do useful things—though they don't always cooperate as enthusiastically as I'd like.
+I'm a software and web developer who's spent more years than he easily admits convincing computers to do useful things - though they don't always cooperate as enthusiastically as I'd like.
 
-My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. Much of my time is spent in the Microsoft ecosystem, wrangling SharePoint into submission, writing PowerShell scripts to automate the things that should have been automated years ago, and building workflows with PowerAutomate that occasionally do exactly what they're supposed to. I've also spent considerable time with workflow platforms like K2 and Nintex, convincing them to play nicely with the rest of the technology stack.
+My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. Much of my time is spent in the Microsoft ecosystem, wrangling document and content management systems, writing PowerShell scripts to automate the things that should already have been automated, and building workflows with PowerAutomate that occasionally do exactly what they're supposed to. I've spent considerable time with workflow platforms such as K2 and Nintex in the past - convincing them to play nicely with the rest of the technological world.
 
-More recently, I've been diving into the world of TypeScript, writing Gherkin scenarios that make sense to humans, wrestling with Cucumber to turn those scenarios into actual tests, and using Playwright to automate web interfaces. I also spend a fair amount of time tinkering with DevOps pipelines that promise to make deployments seamless—and occasionally even deliver on that promise. It's a glamorous life, really.
+More recently, I've been diving into the world of TypeScript, writing Gherkin scenarios that make sense to humans, wrestling with Cucumber to turn those scenarios into actual tests, and using Playwright to automate web interfaces. I also spend a fair amount of time tinkering with DevOps pipelines that promise to make deployments seamless—and occasionally deliver on that promise. It's a glamorous life, really.
 
 ## What I Think About
 
 When I'm not debugging someone else's "temporary" fix from 2019, you'll find me thinking and writing about:
 
 - **Software development methodologies** that actually work in the real world (spoiler: most of them need significant adaptation)
-- **Productivity systems** and note-taking methods, because apparently I collect these like some people collect stamps
+- **Productivity** and note-taking methods, because apparently I collect these like some people collect stamps
 - **Technology evolution** and how we got from punch cards to artificial intelligence having opinions about our code
-- **The eternal quest** for the perfect development workflow that doesn't involve crying into my keyboard
+- **The eternal quest** for the perfect development workflow that doesn't involve crying into my keyboard or headbutting the desk too much
 
 I write about these topics because they fascinate me, but also because explaining complex ideas helps me understand them better. If my rambling thoughts occasionally help someone else figure out their own challenges, that's a delightful bonus.
 
