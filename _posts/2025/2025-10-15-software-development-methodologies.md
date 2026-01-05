@@ -17,6 +17,11 @@ tags:
   - project-management
   - team-dynamics
 excerpt: "A comprehensive exploration of how software development methodologies have evolved over the decades, examining their strengths, weaknesses, and the contexts where each approach thrives."
+header:
+  overlay_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # The Evolution of Software Development Methodologies: From Waterfall to Agile and Beyond

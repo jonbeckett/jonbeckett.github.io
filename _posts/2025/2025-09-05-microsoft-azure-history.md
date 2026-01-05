@@ -18,6 +18,11 @@ tags:
   - digital-transformation
   - enterprise-computing
 excerpt: "From a company synonymous with Windows and Office to a cloud-first enterprise giant—Microsoft's Azure transformation represents one of the most remarkable corporate reinventions in tech history. Here's how Microsoft learned to compete in the cloud era."
+header:
+  overlay_image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Domenico Loia](https://unsplash.com/@domenicoloia) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # The Azure Ascent: Microsoft's Journey from Windows-Centric to Cloud-First—How Redmond Reinvented Itself for the Digital Age

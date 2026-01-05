@@ -18,6 +18,11 @@ tags:
   - history
   - workflow
 excerpt: "Version control systems are the invisible backbone of modern software development. From the primitive file-locking systems of the 1970s to today's sophisticated distributed repositories, the evolution of version control tells the story of how we learned to collaborate on code at scale."
+header:
+  overlay_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Yancy Min](https://unsplash.com/@yancymin) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # The Evolution of Version Control: From RCS to Git and Beyond—How We Learned to Manage Code

@@ -19,10 +19,10 @@ tags:
   - headquarters-feature
 excerpt: "Microsoft's ambitious vision for enterprise AI agents isn't just about creating smarter assistants—it's about orchestrating entire ecosystems of autonomous digital workers. As organisations grapple with managing hundreds or thousands of AI agents, Microsoft's emerging 'Frontier' approach represents a fundamental shift toward centralised agent governance, monitoring, and control at enterprise scale."
 header:
-  overlay_image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "0.5"
-  caption: "Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com)"
-  teaser: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+  caption: "Photo by [Rock'n Roll Monkey](https://unsplash.com/@rocknrollmonkey) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # Microsoft's AI Agent Frontier: Building the Enterprise Command Centre for Autonomous Intelligence

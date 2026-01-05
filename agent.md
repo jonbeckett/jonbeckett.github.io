@@ -41,6 +41,26 @@ excerpt: "A compelling 1-2 sentence summary that captures the essence and value 
 ---
 ```
 
+### Header Images from Unsplash
+For posts requiring banner images, add a header section with Unsplash images:
+
+```yaml
+header:
+  overlay_image: "https://images.unsplash.com/photo-[PHOTO-ID]?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Photographer Name](https://unsplash.com/@username) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-[PHOTO-ID]?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+```
+
+**Important Notes:**
+- Use the **same photo ID** for both `overlay_image` and `teaser` fields
+- The `overlay_image` uses 1200x400 dimensions for the full-width banner
+- The `teaser` uses 600x300 dimensions for homepage/archive listings
+- Always include proper attribution in the `caption` field
+- Use `overlay_filter: "0.5"` for consistent text readability over images
+- Search for images that relate to your post topic but avoid overly literal matches
+- Choose high-quality, professional photos that complement the content
+
 ### Standard Post Structure
 ```markdown
 # Post Title: Descriptive Subtitle
