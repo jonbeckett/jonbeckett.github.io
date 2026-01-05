@@ -57,9 +57,26 @@ I've updated 6 blog posts with thematically appropriate banner images:
 
 The banner images will appear:
 - **On Individual Posts**: Full-width header banner at the top of each article
-- **On Homepage**: Thumbnail/teaser versions in the post listing
+- **On Homepage/Archives**: Thumbnail versions in post listings via the `teaser` field
 - **In RSS Feeds**: Images are included in feed metadata
 - **Social Sharing**: Images appear when posts are shared on social media
+
+### Updated Header Configuration
+
+Based on Minimal Mistakes theme documentation, posts now include both overlay and teaser images:
+
+```yaml
+header:
+  overlay_image: "https://images.unsplash.com/photo-ID?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Photographer Name](https://unsplash.com/@username) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-ID?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
+```
+
+**Key Points:**
+- `overlay_image`: Used for full-width banners on individual post pages (1200x400px)
+- `teaser`: Used for thumbnails in archive/homepage listings (600x300px)
+- Same photo ID, different dimensions for optimal display in each context
 
 ## How to Add Banners to More Posts
 
