@@ -217,12 +217,8 @@ defaults:
       toc_label: "Table of Contents"
       toc_icon: "cog"
       toc_sticky: false
-      header:
-        overlay_filter: "0.5"
-        overlay_image: /assets/images/banners/banner-1.jpg
-        # To use different banners per post, add this to the post's front matter:
-        # header:
-        #   overlay_image: /assets/images/banners/banner-2.jpg
+      # Default header settings removed to allow individual posts to set their own
+      # header images including teaser images for archive displays
   # _pages
   - scope:
       path: "_pages"
