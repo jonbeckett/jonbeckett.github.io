@@ -22,6 +22,7 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "0.5"
   caption: "Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com)"
+  teaser: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
 # Microsoft's AI Agent Frontier: Building the Enterprise Command Centre for Autonomous Intelligence
