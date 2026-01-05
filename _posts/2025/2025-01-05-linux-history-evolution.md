@@ -18,6 +18,10 @@ tags:
   - computing
   - software-freedom
 excerpt: "From a hobby project in a Finnish university dorm room to powering everything from smartphones to supercomputers, Linux represents one of the most successful collaborative efforts in human history. This is the story of how free software changed the world."
+header:
+  overlay_image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Clint Patterson](https://unsplash.com/@cbpsc1) on [Unsplash](https://unsplash.com)"
 ---
 
 # The Linux Revolution: How a Finnish Student's Weekend Project Became the Foundation of the Digital World

@@ -14,6 +14,10 @@ tags:
   - software-engineering
   - ai-testing
 excerpt: "A comprehensive exploration of how software testing has evolved from manual processes to sophisticated AI-driven quality assurance systems, and what the future holds for ensuring software quality."
+header:
+  overlay_image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Adi Goldstein](https://unsplash.com/@adigold1) on [Unsplash](https://unsplash.com)"
 ---
 
 # The Evolution of Software Testing: From Manual QA to AI-Driven Quality Assurance

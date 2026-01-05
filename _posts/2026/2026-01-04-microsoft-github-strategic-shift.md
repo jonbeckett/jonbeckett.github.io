@@ -16,6 +16,10 @@ tags:
   - enterprise-software
   - headquarters-feature
 excerpt: "Microsoft's $7.5 billion GitHub acquisition in 2018 wasn't just about owning the world's largest code repository—it was the beginning of a fundamental strategic shift that's reshaping how developers work. As Azure DevOps quietly fades into legacy status, GitHub's new HQ functionality signals Microsoft's complete commitment to a unified developer platform."
+header:
+  overlay_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Carlos Muza](https://unsplash.com/@kmuza) on [Unsplash](https://unsplash.com)"
 ---
 
 # Microsoft's GitHub-First Future: The Strategic Abandonment of Azure DevOps
