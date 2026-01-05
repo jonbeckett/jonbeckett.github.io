@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's AI Agent Frontier: Building the Enterprise Command Centre for Autonomous Intelligence"
 layout: single
-date: 2026-01-06
+date: 2026-01-05
 categories:
   - technology
   - artificial-intelligence

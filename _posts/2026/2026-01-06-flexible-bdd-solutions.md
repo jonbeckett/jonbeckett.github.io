@@ -1,7 +1,7 @@
 ---
 title: "Building Flexible BDD Solutions: The Power of Gherkin, Cucumber, Playwright, NodeJS, and Allure Reports"
 layout: single
-date: 2026-01-05
+date: 2026-01-06
 categories:
   - software-development
   - testing
