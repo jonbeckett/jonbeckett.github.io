@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi - welcome to my little corner of the internet!
-
 ## What I Do
 
 I'm a software and web developer who's spent more years than he easily admits convincing computers to do useful things - though they don't always cooperate as enthusiastically as I'd like.
