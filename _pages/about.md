@@ -6,7 +6,7 @@ permalink: /about/
 
 ## What I Do
 
-I'm a software and web developer who's spent more years than he easily admits convincing computers to do useful things - though they don't always cooperate as enthusiastically as I'd like.
+I'm a software and web developer who's spent more years than I'll easily admit convincing computers to do arguably useful things - although they don't always cooperate as enthusiastically as I'd like.
 
 My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. Much of my time is spent in the Microsoft ecosystem, wrangling document and content management systems, writing PowerShell scripts to automate the things that should already have been automated, and building workflows with PowerAutomate that occasionally do exactly what they're supposed to. I've spent considerable time with workflow platforms such as K2 and Nintex in the past - convincing them to play nicely with the rest of the technological world.
 
