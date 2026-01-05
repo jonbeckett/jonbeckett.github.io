@@ -96,7 +96,7 @@ The organization pillar involves creating a structure that supports quick, confi
 
 GTD prescribes specific lists, each serving a distinct purpose:
 
-- **Next Actions**: Specific, physical actions you can take, organized by context (calls, computer, errands, etc.)
+- **Next Actions**: Specific, physical actions you can take, organised by context (calls, computer, errands, etc.)
 - **Projects**: Multi-step outcomes you're committed to achieving, each with at least one associated next action
 - **Waiting For**: Items you're waiting for others to complete or respond to
 - **Someday/Maybe**: Things you might want to do but aren't committed to at present
@@ -145,7 +145,7 @@ Longer-term reviews help maintain perspective:
 
 ### 5. Engage
 
-The final pillar is about making good choices about what to do moment to moment, using your organized system to engage confidently with your work.
+The final pillar is about making good choices about what to do moment to moment, using your organised system to engage confidently with your work.
 
 #### The Four Criteria for Action Selection
 
@@ -192,7 +192,7 @@ This model can be applied to everything from planning a vacation to launching a 
 
 ## The Horizons of Focus
 
-GTD recognizes that effective action management must be grounded in clarity about larger commitments and purposes. Allen describes six "Horizons of Focus" that provide context for day-to-day actions:
+GTD recognises that effective action management must be grounded in clarity about larger commitments and purposes. Allen describes six "Horizons of Focus" that provide context for day-to-day actions:
 
 ### Horizon 1: Current Actions (Ground Level)
 Your current next actions and calendar commitments—the immediate "stuff" you need to handle.
@@ -282,7 +282,7 @@ GTD aligns with cognitive load theory from psychology, which suggests that human
 
 ### The Completion Tendency
 
-Humans have a natural tendency to want to complete tasks once they've been clearly defined and organized. GTD leverages this by breaking large, vague commitments into specific, actionable steps.
+Humans have a natural tendency to want to complete tasks once they've been clearly defined and organised. GTD leverages this by breaking large, vague commitments into specific, actionable steps.
 
 ### Flow State Prerequisites
 
@@ -506,7 +506,7 @@ While GTD is often viewed as a productivity system, practitioners often discover
 
 ### The Mind Like Water Concept
 
-Allen's concept of "mind like water" describes the ideal state of mental engagement—responding appropriately to inputs without overreacting or underreacting. Like water, which flows around obstacles and settles to stillness when undisturbed, the well-organized mind adapts fluidly to circumstances while maintaining inner calm.
+Allen's concept of "mind like water" describes the ideal state of mental engagement—responding appropriately to inputs without overreacting or underreacting. Like water, which flows around obstacles and settles to stillness when undisturbed, the well-organised mind adapts fluidly to circumstances while maintaining inner calm.
 
 ### Stress-Free Productivity as a Lifestyle
 

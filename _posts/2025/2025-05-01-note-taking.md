@@ -15,7 +15,7 @@ excerpt: "Exploring the evolution of note-taking from simple lists to sophistica
 
 # The Art and Science of Note-Taking: A Deep Dive into Modern Knowledge Management Systems
 
-In our information-saturated world, the ability to effectively capture, organize, and retrieve knowledge has become a crucial skill. What began as simple note-taking has evolved into sophisticated personal knowledge management systems that can fundamentally transform how we think, learn, and create. Today's note-taking methodologies aren't just about recording information—they're about building external minds that enhance our cognitive capabilities.
+In our information-saturated world, the ability to effectively capture, organise, and retrieve knowledge has become a crucial skill. What began as simple note-taking has evolved into sophisticated personal knowledge management systems that can fundamentally transform how we think, learn, and create. Today's note-taking methodologies aren't just about recording information—they're about building external minds that enhance our cognitive capabilities.
 
 ---
 
@@ -73,7 +73,7 @@ LYT provides a practical workflow for developing ideas:
 3. **Create** new insights through the collision of ideas
 4. **Communicate** those insights in various forms
 
-This methodology recognizes that knowledge work isn't just about storage—it's about transformation. The goal isn't just to remember what you've learned, but to use that knowledge to generate new understanding.
+This methodology recognises that knowledge work isn't just about storage—it's about transformation. The goal isn't just to remember what you've learned, but to use that knowledge to generate new understanding.
 
 ---
 
@@ -97,7 +97,7 @@ What makes PARA powerful is its focus on actionability. Information flows throug
 
 - Current projects get the most attention and organization
 - Areas receive periodic review and maintenance
-- Resources are organized for easy retrieval when needed
+- Resources are organised for easy retrieval when needed
 - Archives are searchable but don't clutter active workspace
 
 This system works particularly well for people who need to balance knowledge work with execution, ensuring that learning supports action rather than becoming an end in itself.
@@ -112,17 +112,17 @@ Tiago Forte's Building a Second Brain methodology encompasses PARA but extends b
 Keep what resonates. Don't try to capture everything—focus on information that sparks curiosity, challenges assumptions, or connects to your current interests and projects.
 
 ### Organize
-Save for actionability. Use the PARA structure to ensure information is organized around potential use rather than theoretical categories.
+Save for actionability. Use the PARA structure to ensure information is organised around potential use rather than theoretical categories.
 
 ### Distill
-Find the essence. As you review and work with information, progressively summarize and highlight the most important elements.
+Find the essence. As you review and work with information, progressively summarise and highlight the most important elements.
 
 ### Express
 Show your work. The ultimate goal is to use your captured knowledge to create and share new insights.
 
-### Progressive Summarization
+### Progressive Summarisation
 
-A key technique within BASB is progressive summarization—the practice of iteratively distilling information through multiple passes:
+A key technique within BASB is progressive summarisation—the practice of iteratively distilling information through multiple passes:
 
 1. **First pass**: Save the original source
 2. **Second pass**: Bold the most important passages
@@ -164,7 +164,7 @@ The Digital Garden movement represents a philosophy as much as a methodology. In
 
 ### Learning in Public
 
-Many digital gardeners embrace "learning in public"—sharing their developing thoughts and partial ideas rather than waiting for complete, polished articles. This approach recognizes that knowledge development is inherently social and benefits from feedback and connection.
+Many digital gardeners embrace "learning in public"—sharing their developing thoughts and partial ideas rather than waiting for complete, polished articles. This approach recognises that knowledge development is inherently social and benefits from feedback and connection.
 
 ### Tool Agnosticism
 
@@ -227,7 +227,7 @@ With so many approaches available, how do you choose the right note-taking metho
 - **Research and Writing**: Zettelkasten or LYT systems excel at developing complex ideas over time
 - **Project Management**: PARA or GTD integration helps balance knowledge work with execution
 - **Learning and Exploration**: Digital gardens encourage experimentation and growth
-- **Information Processing**: Cornell or progressive summarization techniques help extract value from sources
+- **Information Processing**: Cornell or progressive summarisation techniques help extract value from sources
 
 ### Hybrid Approaches
 
@@ -235,7 +235,7 @@ Many successful knowledge workers combine elements from multiple systems. You mi
 - PARA for overall organization
 - Zettelkasten principles for developing specific research areas
 - Maps of Content for navigation
-- Progressive summarization for processing sources
+- Progressive summarisation for processing sources
 
 ### Start Simple, Evolve Gradually
 
@@ -248,9 +248,9 @@ The biggest mistake people make is trying to implement a complex system all at o
 While methodology matters more than tools, the right software can significantly enhance your note-taking practice. Here's a brief overview of popular options:
 
 ### Graph-Based Tools
-- **Obsidian**: Local files with powerful linking and visualization
+- **Obsidian**: Local files with powerful linking and visualisation
 - **Roam Research**: Block-based structure with bidirectional linking
-- **Logseq**: Open-source with block-based notes and graph visualization
+- **Logseq**: Open-source with block-based notes and graph visualisation
 
 ### Structured Tools
 - **Notion**: Database-driven with flexible templates and properties
@@ -307,7 +307,7 @@ The best note-taking system is one that captures and nurtures your natural curio
 
 ### Focus on Connection
 
-Whether you're using a Zettelkasten, digital garden, or PARA system, prioritize connection over collection. The value lies not in what you capture, but in how ideas relate and combine.
+Whether you're using a Zettelkasten, digital garden, or PARA system, prioritise connection over collection. The value lies not in what you capture, but in how ideas relate and combine.
 
 ### Review Regularly
 

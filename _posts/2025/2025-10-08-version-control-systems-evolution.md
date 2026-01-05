@@ -28,7 +28,7 @@ This chaos wasn't just inefficient—it was actively destructive. Countless hour
 
 Version control systems emerged from this necessity. They represent humanity's systematic approach to one of the fundamental challenges of collaborative knowledge work: How do we track changes, coordinate concurrent modifications, and maintain a reliable history of our work over time?
 
-The story of version control is more than just a technical evolution—it's a chronicle of how software development transformed from a largely solitary craft to the massively collaborative, distributed endeavor it is today. Each generation of version control systems enabled new ways of working, new scales of collaboration, and ultimately new kinds of software that would have been impossible to create without them.
+The story of version control is more than just a technical evolution—it's a chronicle of how software development transformed from a largely solitary craft to the massively collaborative, distributed endeavour it is today. Each generation of version control systems enabled new ways of working, new scales of collaboration, and ultimately new kinds of software that would have been impossible to create without them.
 
 Understanding this evolution isn't just historical curiosity. The design decisions, trade-offs, and workflows embedded in our version control systems shape how we think about code, how we collaborate with others, and even how we structure our software projects. The tools we use to manage change inevitably influence how we approach change itself.
 
@@ -157,7 +157,7 @@ BitKeeper, a commercial distributed version control system, played a crucial but
 BitKeeper demonstrated several key concepts:
 
 - **Full Local History**: Every developer had a complete copy of the project history, enabling full version control operations without network access.
-- **Peer-to-Peer Synchronization**: Changes could be pushed and pulled between any repositories, not just to/from a central server.
+- **Peer-to-Peer Synchronisation**: Changes could be pushed and pulled between any repositories, not just to/from a central server.
 - **Automatic Merging**: BitKeeper had sophisticated algorithms for automatically merging changes from different developers.
 - **Cryptographic Integrity**: Every change was identified by a cryptographic hash, making it impossible to alter history without detection.
 
@@ -231,9 +231,9 @@ Git's cheap branching capabilities enabled new development workflows that would 
 - **Git Flow**: A branching model that uses separate branches for features, releases, and hotfixes, providing structure for complex release processes.
 - **GitHub Flow**: A simpler model focusing on feature branches and pull requests, optimized for continuous deployment.
 - **GitLab Flow**: A workflow that combines elements of Git Flow and GitHub Flow with environment-specific branches.
-- **Trunk-Based Development**: An approach that minimizes branching in favor of frequent integration to the main branch.
+- **Trunk-Based Development**: An approach that minimises branching in favour of frequent integration to the main branch.
 
-These workflows demonstrate how version control systems shape not just how we store code, but how we organize development work itself.
+These workflows demonstrate how version control systems shape not just how we store code, but how we organise development work itself.
 
 ### The Impact on Open Source
 
@@ -376,6 +376,6 @@ Understanding version control is understanding a crucial piece of the software d
 
 The story of version control is far from over. As we face new challenges in software development—from AI-assisted coding to quantum computing—our tools for managing change will need to evolve as well. But the lessons we've learned from decades of version control evolution provide a solid foundation for whatever comes next.
 
-In the end, version control systems reflect something fundamental about how humans work together on complex projects. They embody our need to experiment while maintaining stability, to collaborate while maintaining individual ownership, and to move forward while preserving the wisdom of the past. These are challenges that extend far beyond software development, and the solutions we've developed in version control have implications for managing change in any complex collaborative endeavor.
+In the end, version control systems reflect something fundamental about how humans work together on complex projects. They embody our need to experiment while maintaining stability, to collaborate while maintaining individual ownership, and to move forward while preserving the wisdom of the past. These are challenges that extend far beyond software development, and the solutions we've developed in version control have implications for managing change in any complex collaborative endeavour.
 
 The next time you commit code, create a branch, or merge changes, remember that you're participating in a rich tradition of human ingenuity dedicated to managing change and enabling collaboration. Version control may be invisible infrastructure, but it's the foundation upon which the entire software world is built.

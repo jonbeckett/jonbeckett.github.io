@@ -387,7 +387,7 @@ Leadership and improvement initiatives can come from anyone in the organization.
 
 ### Kanban Practices
 
-#### Visualize Work
+#### Visualise Work
 
 - **Kanban Board**: Visual representation of work items and their progression through process stages.
 
@@ -804,13 +804,13 @@ The proliferation of methodologies raises an important question: how do you choo
 
 - **End User Access**: Direct access to users enables user-centered design approaches.
 
-- **B2B vs B2C**: Different customer relationships may favor different approaches.
+- **B2B vs B2C**: Different customer relationships may favour different approaches.
 
 ### Business Context
 
 #### Time Pressure
 
-- **Aggressive Timelines**: May favor rapid delivery approaches with minimal documentation.
+- **Aggressive Timelines**: May favour rapid delivery approaches with minimal documentation.
 
 - **Flexible Timelines**: Allow for more experimentation and learning-focused approaches.
 
@@ -818,7 +818,7 @@ The proliferation of methodologies raises an important question: how do you choo
 
 #### Budget Constraints
 
-- **Limited Budgets**: Favor lightweight approaches with minimal overhead.
+- **Limited Budgets**: Favour lightweight approaches with minimal overhead.
 
 - **Fixed Budgets**: May require traditional approaches with detailed cost estimation.
 
@@ -826,7 +826,7 @@ The proliferation of methodologies raises an important question: how do you choo
 
 #### Competitive Environment
 
-- **Fast-Moving Markets**: Favor rapid iteration and quick response to market changes.
+- **Fast-Moving Markets**: Favour rapid iteration and quick response to market changes.
 
 - **Stable Markets**: May allow for more deliberate, comprehensive approaches.
 

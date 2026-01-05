@@ -49,7 +49,7 @@ Working initially on a discarded PDP-7 computer, Thompson began developing a sim
 Unix introduced several revolutionary concepts that would profoundly influence all subsequent operating system design:
 
 - **Everything is a File**: Unix treated devices, network connections, and even processes as files, providing a uniform interface for interacting with all system resources.
-- **Small, Composable Tools**: Instead of monolithic programs that tried to do everything, Unix provided small, focused utilities that could be combined in powerful ways using pipes and redirection.
+- **Small, Composable Tools**: Instead of monolithic programs that tried to do everything, Unix provided small, focussed utilities that could be combined in powerful ways using pipes and redirection.
 - **Hierarchical File System**: Unix pioneered the tree-like directory structure that we take for granted today.
 - **Multi-user, Multi-tasking**: Unix was designed from the ground up to support multiple users running multiple programs simultaneously.
 - **Portable Code**: When Dennis Ritchie created the C programming language and rewrote Unix in C (rather than assembly language), Unix became portable across different hardware platforms—a revolutionary concept at the time.
@@ -77,9 +77,9 @@ However, this golden age of sharing would soon face challenges as Unix became co
 
 ---
 
-## The Commercialization Problem: When Freedom Met Business
+## The Commercialisation Problem: When Freedom Met Business
 
-As Unix matured and demonstrated its commercial potential, the environment that had fostered its growth began to change. AT&T, freed from some antitrust restrictions, began to assert more control over Unix and charge higher licensing fees. Universities and researchers who had grown accustomed to freely sharing and modifying Unix code found themselves constrained by increasingly restrictive licenses.
+As Unix matured and demonstrated its commercial potential, the environment that had fostered its growth began to change. AT&T, freed from some antitrust restrictions, began to assert more control over Unix and charge higher licencing fees. Universities and researchers who had grown accustomed to freely sharing and modifying Unix code found themselves constrained by increasingly restrictive licences.
 
 ### The Fragmentation Wars
 
@@ -102,13 +102,13 @@ This was the environment that a young Finnish computer science student would enc
 
 ## Enter Richard Stallman: The Philosopher of Free Software
 
-While Unix was undergoing commercialization, Richard Stallman at MIT was experiencing firsthand the problems created by proprietary software. His attempts to modify a Xerox laser printer to notify users when print jobs were complete were thwarted by the fact that the printer's software was proprietary and couldn't be modified.
+While Unix was undergoing commercialisation, Richard Stallman at MIT was experiencing firsthand the problems created by proprietary software. His attempts to modify a Xerox laser printer to notify users when print jobs were complete were thwarted by the fact that the printer's software was proprietary and couldn't be modified.
 
 This seemingly small frustration crystallized a larger concern for Stallman: software was becoming a tool of control rather than empowerment. Users were becoming dependent on software they couldn't understand, modify, or share.
 
 ### The GNU Project: A Complete Free Operating System
 
-In 1983, Stallman announced the GNU Project (GNU's Not Unix—a recursive acronym typical of hacker humor). The goal was ambitious: create a complete operating system that would be free for anyone to use, study, modify, and distribute.
+In 1983, Stallman announced the GNU Project (GNU's Not Unix—a recursive acronym typical of hacker humour). The goal was ambitious: create a complete operating system that would be free for anyone to use, study, modify, and distribute.
 
 Stallman didn't just want to create free software—he wanted to create a movement. He articulated a philosophy of software freedom based on four essential freedoms:
 
@@ -156,9 +156,9 @@ In early 1991, Torvalds purchased a new 80386-based PC—a significant investmen
 
 ### The First Commits
 
-Frustrated by these limitations, Torvalds decided to create his own operating system kernel. He wasn't trying to change the world—he just wanted a Unix-like system that could fully utilize his new computer's capabilities.
+Frustrated by these limitations, Torvalds decided to create his own operating system kernel. He wasn't trying to change the world—he just wanted a Unix-like system that could fully utilise his new computer's capabilities.
 
-Torvalds started small. His initial work focused on basic hardware abstraction—understanding how to switch between protected mode and real mode on the 80386, how to handle interrupts, and how to implement basic system calls. He drew heavily on Intel's 80386 programming manual and studied MINIX source code to understand operating system concepts.
+Torvalds started small. His initial work focussed on basic hardware abstraction—understanding how to switch between protected mode and real mode on the 80386, how to handle interrupts, and how to implement basic system calls. He drew heavily on Intel's 80386 programming manual and studied MINIX source code to understand operating system concepts.
 
 The first version of what would become Linux was incredibly minimal—just a kernel that could switch between two processes that printed "A" or "B" to the screen. But it worked, and it ran on Torvalds' hardware.
 
@@ -186,7 +186,7 @@ The first public release of Linux (version 0.01) in September 1991 was barely fu
 
 What happened next was unprecedented in the software industry. Instead of a traditional software development model where a company controls the codebase and releases updates periodically, Linux development happened in the open, with anyone able to contribute.
 
-Torvalds didn't initially use the GPL for Linux, instead creating his own license that prohibited commercial use. However, he quickly realized the benefits of the GPL's copyleft approach and relicensed Linux under GPL version 2 in early 1992. This decision was crucial—it meant that all improvements to Linux would remain free and available to everyone.
+Torvalds didn't initially use the GPL for Linux, instead creating his own licence that prohibited commercial use. However, he quickly realised the benefits of the GPL's copyleft approach and relicensed Linux under GPL version 2 in early 1992. This decision was crucial—it meant that all improvements to Linux would remain free and available to everyone.
 
 The early Linux community developed organically around mailing lists and newsgroups. Developers from around the world began downloading the source code, making improvements, and sending patches back to Torvalds. The pace of development was astonishing:
 
@@ -233,7 +233,7 @@ As Linux became more capable, different groups began creating "distributions"—
 
 - **Slackware** (1993): Created by Patrick Volkerding, one of the earliest distributions, known for its simplicity and Unix-like approach.
 - **Debian** (1993): Founded by Ian Murdock with a focus on stability, quality, and social responsibility. Debian pioneered package management and established a rigorous community governance structure.
-- **Red Hat** (1994): Founded by Bob Young and Marc Ewing, Red Hat focused on making Linux commercially viable for businesses.
+- **Red Hat** (1994): Founded by Bob Young and Marc Ewing, Red Hat focussed on making Linux commercially viable for businesses.
 - **SUSE** (1994): A German distribution that became popular in Europe and later became a major enterprise Linux provider.
 
 Each distribution made different choices about package management, default configurations, and target audiences. This diversity was both a strength and a weakness—users had choice, but compatibility between distributions was sometimes an issue.
@@ -321,7 +321,7 @@ In 2005, Google acquired Android Inc., a startup working on mobile operating sys
 Android was built on the Linux kernel, but Google made some controversial decisions:
 
 - **Custom User Space**: Instead of using GNU tools, Android used a custom userspace designed for mobile devices.
-- **Apache License**: Core Android components used the Apache license rather than GPL, allowing manufacturers to create proprietary modifications.
+- **Apache Licence**: Core Android components used the Apache licence rather than GPL, allowing manufacturers to create proprietary modifications.
 - **Google Services**: While Android itself was open source, Google's mobile services (Play Store, Gmail, Maps) remained proprietary.
 
 ### The Smartphone Explosion
@@ -402,10 +402,10 @@ Today's Linux ecosystem is remarkably diverse, with specialized distributions fo
 
 While Linux never achieved significant desktop market share, it remains popular among developers and enthusiasts:
 
-- **Ubuntu**: Canonical's distribution focused on ease of use and regular releases.
+- **Ubuntu**: Canonical's distribution focussed on ease of use and regular releases.
 - **Fedora**: Red Hat's community distribution featuring cutting-edge technologies.
 - **Arch**: A rolling-release distribution popular with advanced users.
-- **Elementary**: Focused on design and user experience.
+- **Elementary**: Focussed on design and user experience.
 
 ### Enterprise Linux
 
@@ -475,7 +475,7 @@ The Linux community developed several responses to security challenges:
 - **Security-focused Organizations**: Groups like the Core Infrastructure Initiative (now part of the Open Source Security Foundation) fund security audits and improvements to critical open source software.
 - **Automated Security Testing**: Tools for static analysis, fuzzing, and automated vulnerability detection are now standard parts of the development process.
 - **Responsible Disclosure**: Processes for handling security vulnerabilities privately until patches are available.
-- **Security Distributions**: Specialized Linux distributions focused on security applications.
+- **Security Distributions**: Specialised Linux distributions focussed on security applications.
 
 ### Ongoing Challenges
 

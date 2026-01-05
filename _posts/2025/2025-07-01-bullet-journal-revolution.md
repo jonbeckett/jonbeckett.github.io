@@ -31,13 +31,13 @@ Ryder Carroll's story begins with a challenge that millions of people face but f
 
 Growing up in the 1980s and 1990s, Carroll experienced the frustration familiar to many with learning differences: being intelligent and capable but feeling constantly scattered, overwhelmed by the competing demands of school, work, and life. Traditional planning systems assumed a level of natural organization that felt foreign to his experience.
 
-"I've always had a hard time focusing," Carroll has explained in interviews. "I needed to figure out a way to be more organized, more productive, but in a way that worked with my brain, not against it."
+"I've always had a hard time focussing," Carroll has explained in interviews. "I needed to figure out a way to be more organised, more productive, but in a way that worked with my brain, not against it."
 
 ### The Digital Designer's Analog Solution
 
 Ironically, Carroll's professional life was deeply embedded in the digital world. As a digital product designer working in New York City, he spent his days creating user interfaces and digital experiences for major brands. He understood the power of technology and the allure of digital solutions. Yet when it came to managing his own life, he found that analog tools—specifically, pen and paper—provided something that digital systems couldn't: a direct, unmediated connection between thought and action.
 
-This realization led to years of experimentation. Carroll tried countless systems, modified existing methods, and gradually developed techniques that worked with his particular cognitive style. What started as personal survival strategies slowly evolved into a comprehensive methodology.
+This realisation led to years of experimentation. Carroll tried countless systems, modified existing methods, and gradually developed techniques that worked with his particular cognitive style. What started as personal survival strategies slowly evolved into a comprehensive methodology.
 
 ### The Fifteen-Year Refinement Process
 
@@ -69,7 +69,7 @@ At its heart, the Bullet Journal Method rests on four key concepts that work tog
 
 ### Rapid Logging: The Language of the Bullet Journal
 
-The foundation of bullet journaling is rapid logging—a symbolic shorthand system that allows you to quickly capture and categorize information. Carroll developed a simple set of symbols:
+The foundation of bullet journaling is rapid logging—a symbolic shorthand system that allows you to quickly capture and categorise information. Carroll developed a simple set of symbols:
 
 - **• (Bullet)** = Task
 - **○ (Circle)** = Event
@@ -82,7 +82,7 @@ These symbols can be modified with additional markers:
 - **>** = Task Migrated
 - **<** = Task Scheduled
 
-This symbolic language serves multiple purposes. It's faster than writing full sentences. It provides instant visual categorization. Most importantly, it removes the friction between having a thought and capturing it—a crucial consideration for anyone who struggles with traditional note-taking methods.
+This symbolic language serves multiple purposes. It's faster than writing full sentences. It provides instant visual categorisation. Most importantly, it removes the friction between having a thought and capturing it—a crucial consideration for anyone who struggles with traditional note-taking methods.
 
 ### The Index: Your GPS System
 
@@ -125,7 +125,7 @@ Research in cognitive psychology has shown that we remember information better w
 
 The analog nature of bullet journaling creates what Carroll calls "mindful engagement." Unlike digital systems where information can be entered quickly and forgotten, handwriting requires deliberate attention. This slower, more intentional process helps ensure that you're truly present with your commitments and priorities.
 
-### Progress Visualization
+### Progress Visualisation
 
 The physical nature of a bullet journal makes progress tangible. You can see the pages filling up, watch patterns emerge over time, and literally feel the weight of your accumulated thoughts and accomplishments. This physicality provides a type of satisfaction that digital systems struggle to match.
 
@@ -209,7 +209,7 @@ The book reveals Carroll's deeper intentions for the system. While many people h
 
 The popularity of bullet journaling has created a substantial market for related products:
 
-- Specialized pens
+- Specialised pens
 - Stickers
 - Rulers
 - Templates
@@ -217,7 +217,7 @@ The popularity of bullet journaling has created a substantial market for related
 
 While none of these products are necessary for bullet journaling, they represent the enthusiasm and creativity that the system has inspired.
 
-Some critics argue that this commercialization runs counter to the system's minimalist origins. Others see it as a natural evolution that provides options for people who want to enhance their practice with specialized tools.
+Some critics argue that this commercialisation runs counter to the system's minimalist origins. Others see it as a natural evolution that provides options for people who want to enhance their practice with specialised tools.
 
 ---
 
@@ -234,7 +234,7 @@ Students have found bullet journaling particularly valuable for managing the com
 - Integration of academic and personal commitments
 - Tracking of grades, assignments, and study habits
 
-Many students create specialized collections for each class, tracking assignments, notes, and important dates. The migration process helps them regularly review and prioritize their academic commitments.
+Many students create specialised collections for each class, tracking assignments, notes, and important dates. The migration process helps them regularly review and prioritise their academic commitments.
 
 ### Parents and Family Bullet Journaling
 
@@ -338,7 +338,7 @@ The physical act of handwriting encourages what Carroll calls "mindful productiv
 This mindful engagement serves multiple purposes:
 - It encourages reflection on the value and importance of each commitment
 - It creates a pause between impulse and commitment
-- It builds awareness of patterns in your thinking and behavior
+- It builds awareness of patterns in your thinking and behaviour
 
 ### The Practice of Intention
 
@@ -346,7 +346,7 @@ Through the migration process and regular reviews, bullet journaling encourages 
 
 ### Self-Knowledge Through Documentation
 
-Over time, a bullet journal becomes a record of your thoughts, priorities, and experiences. This documentation can provide valuable insights into patterns in your behavior, changes in your interests and values, and progress toward your goals.
+Over time, a bullet journal becomes a record of your thoughts, priorities, and experiences. This documentation can provide valuable insights into patterns in your behaviour, changes in your interests and values, and progress toward your goals.
 
 Many long-term practitioners describe their journals as invaluable records of personal growth and development—documents that help them understand how they've changed over time and what has been most meaningful in their lives.
 
@@ -362,7 +362,7 @@ Research has consistently shown that handwriting activates different neural path
 
 ### The Psychology of Completion
 
-The visual satisfaction of crossing off completed tasks activates reward centers in the brain, releasing small amounts of dopamine that reinforce productive behavior. The bullet journal's system of task symbols provides multiple opportunities for this type of positive reinforcement.
+The visual satisfaction of crossing off completed tasks activates reward centres in the brain, releasing small amounts of dopamine that reinforce productive behaviour. The bullet journal's system of task symbols provides multiple opportunities for this type of positive reinforcement.
 
 ### Pattern Recognition and Self-Awareness
 
@@ -463,7 +463,7 @@ As the method approaches its second decade of public existence, several trends a
 ### Technology Integration
 
 While maintaining its analog core, bullet journaling is likely to see increased integration with digital tools:
-- Apps that digitize handwritten content
+- Apps that digitise handwritten content
 - Smart pens that capture analog writing digitally
 - Augmented reality apps that enhance physical journals
 

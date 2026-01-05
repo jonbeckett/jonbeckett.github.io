@@ -736,7 +736,7 @@ Quality assurance involves identifying, assessing, and mitigating risks that cou
 - **Resource risks**: Team skills, availability, budget constraints
 
 - **Risk Assessment:**
-- **Probability**: How likely is the risk to materialize?
+- **Probability**: How likely is the risk to materialise?
 - **Impact**: What would be the consequences if the risk occurs?
 - **Mitigation cost**: How much would it cost to prevent or mitigate the risk?
 - **Detection**: How easily can we detect if the risk is materializing?
@@ -744,7 +744,7 @@ Quality assurance involves identifying, assessing, and mitigating risks that cou
 - **Risk Mitigation Strategies:**
 - **Prevention**: Practices that prevent risks from occurring
 - **Detection**: Early warning systems that identify risks as they emerge
-- **Response**: Plans for how to respond when risks materialize
+- **Response**: Plans for how to respond when risks materialise
 - **Recovery**: Processes for recovering from risk events
 
 ### Metrics and Measurement

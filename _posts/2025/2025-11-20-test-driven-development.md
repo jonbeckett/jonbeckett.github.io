@@ -70,7 +70,7 @@ At the heart of TDD is a simple three-step cycle that Beck called "Red-Green-Ref
 
 - **Refactor**: Clean up the code you just wrote, removing duplication and improving structure while ensuring all tests continue to pass.
 
-This cycle, typically completed in minutes, becomes the heartbeat of TDD practice. It creates a rhythm of work that keeps developers focused on small, incremental changes while maintaining confidence through comprehensive test coverage.
+This cycle, typically completed in minutes, becomes the heartbeat of TDD practice. It creates a rhythm of work that keeps developers focussed on small, incremental changes while maintaining confidence through comprehensive test coverage.
 
 ---
 
@@ -82,9 +82,9 @@ To truly understand TDD, you need to understand its underlying philosophy. TDD i
 
 In traditional development, tests are often written after code to verify that it works correctly. In TDD, tests serve as specifications that define what the code should do before it's written. This reversal has profound implications:
 
-- **Clarity of Intent**: Writing a test forces you to think clearly about what you're trying to accomplish. You can't write a meaningful test without understanding the expected behavior of your code.
+- **Clarity of Intent**: Writing a test forces you to think clearly about what you're trying to accomplish. You can't write a meaningful test without understanding the expected behaviour of your code.
 
-- **User-Focused Design**: Tests represent the perspective of code users (which might be other parts of your program, not human users). This naturally leads to designing code from the outside in, focusing on how it will be used rather than how it will be implemented.
+- **User-Focussed Design**: Tests represent the perspective of code users (which might be other parts of your program, not human users). This naturally leads to designing code from the outside in, focussing on how it will be used rather than how it will be implemented.
 
 - **Living Documentation**: Tests serve as executable documentation that's always up to date. Unlike written documentation, tests can't become stale because outdated tests will fail.
 
@@ -128,7 +128,7 @@ Understanding TDD's philosophy is important, but mastering TDD requires understa
 
 The TDD cycle begins with writing a failing test. This might seem trivial, but there's more to it than you might expect:
 
-- **Start Small**: The test should specify the smallest possible piece of functionality. In TDD, you build complex behavior by accumulating many small, simple behaviors.
+- **Start Small**: The test should specify the smallest possible piece of functionality. In TDD, you build complex behaviour by accumulating many small, simple behaviours.
 
 - **Make It Specific**: The test should be specific about what it expects. Vague tests lead to vague implementations.
 
@@ -166,7 +166,7 @@ This might seem ridiculous—we're returning a hard-coded value rather than actu
 
 - **Why Minimal Implementation?**
 
-- **Prevents Over-Engineering**: It's easy to anticipate future requirements and build more than necessary. TDD keeps you focused on current requirements.
+- **Prevents Over-Engineering**: It's easy to anticipate future requirements and build more than necessary. TDD keeps you focussed on current requirements.
 - **Ensures Tests Drive Implementation**: If you implement more than the tests require, you're not really doing TDD anymore.
 - **Reveals Incomplete Tests**: If a hard-coded return value makes your test pass, it might indicate that your test is too specific or that you need additional tests.
 
@@ -187,7 +187,7 @@ During refactoring, you might:
 
 - **Remove Duplication**: Look for repeated code patterns and extract them into functions or classes
 - **Improve Naming**: Make variable and function names more descriptive
-- **Simplify Logic**: Break complex functions into smaller, more focused functions
+- **Simplify Logic**: Break complex functions into smaller, more focussed functions
 - **Improve Structure**: Reorganize code for better readability and maintainability
 
 ### The Rhythm in Practice
@@ -253,7 +253,7 @@ TDD provides numerous benefits that extend far beyond just having good test cove
 
 - **Reduced Coupling**: To make code testable in isolation, you naturally reduce coupling between components. This makes the system more modular and flexible.
 
-- **Higher Cohesion**: TDD encourages writing focused, single-purpose functions and classes because they're easier to test and understand.
+- **Higher Cohesion**: TDD encourages writing focussed, single-purpose functions and classes because they're easier to test and understand.
 
 - **Cleaner Interfaces**: When you write tests first, you're designing the interface to your code from the user's perspective, leading to cleaner, more intuitive APIs.
 
@@ -261,7 +261,7 @@ TDD provides numerous benefits that extend far beyond just having good test cove
 
 - **High Code Coverage**: TDD typically results in very high code coverage (often 90%+ line coverage) because every line of production code is written to make a failing test pass.
 
-- **Meaningful Tests**: Unlike tests written after code, TDD tests are written to specify behavior, making them more meaningful and less likely to be brittle.
+- **Meaningful Tests**: Unlike tests written after code, TDD tests are written to specify behaviour, making them more meaningful and less likely to be brittle.
 
 - **Edge Case Coverage**: The TDD process naturally leads to thinking about and testing edge cases as they arise during development.
 
@@ -291,7 +291,7 @@ This might seem counterintuitive—surely writing tests slows development down? 
 
 - **Usage Examples**: Tests show how code is intended to be used, serving as examples for future developers (including your future self).
 
-- **Behavior Documentation**: Tests document what the code does in specific situations, which is often more useful than comments that describe how it works.
+- **Behaviour Documentation**: Tests document what the code does in specific situations, which is often more useful than comments that describe how it works.
 
 ### Reduced Fear of Change
 
@@ -309,7 +309,7 @@ Despite its benefits, TDD is challenging to master. Understanding these challeng
 
 ### The Learning Curve
 
-- **Mindset Shift**: TDD requires thinking about problems differently. Instead of "how do I implement this?" the question becomes "how do I specify this behavior?"
+- **Mindset Shift**: TDD requires thinking about problems differently. Instead of "how do I implement this?" the question becomes "how do I specify this behaviour?"
 - **New Skills**: TDD requires learning testing frameworks, mocking libraries, and test design techniques that many developers haven't used before.
 - **Discipline Required**: TDD requires discipline to follow the Red-Green-Refactor cycle even when it feels like it would be faster to just write the implementation directly.
 - **Unlearning Habits**: Experienced developers often need to unlearn ingrained habits about how to approach coding problems.
@@ -318,7 +318,7 @@ Despite its benefits, TDD is challenging to master. Understanding these challeng
 
 - **What to Test**: Knowing what tests to write and at what level of granularity is a skill that takes time to develop.
 - **Testing Difficult Code**: Some types of code (UI interactions, database operations, network calls) are inherently difficult to test and require special techniques.
-- **Avoiding Brittle Tests**: Writing tests that verify behavior without being overly sensitive to implementation details is a subtle skill.
+- **Avoiding Brittle Tests**: Writing tests that verify behaviour without being overly sensitive to implementation details is a subtle skill.
 - **Test Organization**: As test suites grow, organizing and maintaining them becomes a significant challenge.
 
 ### Performance Concerns
@@ -400,7 +400,7 @@ Test doubles are objects that stand in for real dependencies during testing. The
 - **Fake Objects**: Working implementations with shortcuts (like in-memory databases)
 - **Stubs**: Objects that return predetermined responses
 - **Spies**: Objects that record information about how they're called
-- **Mocks**: Objects with predetermined behavior and expectations
+- **Mocks**: Objects with predetermined behaviour and expectations
 
 ```javascript
 // Example using Jest mocks
@@ -460,7 +460,7 @@ test('should fetch user data from API', async () => {
 
 ### Refactoring Patterns
 
-- **Extract Method**: Breaking large functions into smaller, focused functions
+- **Extract Method**: Breaking large functions into smaller, focussed functions
 - **Extract Class**: Moving related methods and data into separate classes
 - **Replace Magic Numbers with Constants**: Making code more readable and maintainable
 - **Remove Duplication**: Consolidating repeated code patterns
@@ -761,7 +761,7 @@ The effectiveness of TDD often depends on having good tools and frameworks that 
 **JavaScript/TypeScript**
 - **Jest**: Comprehensive testing framework with built-in assertions, mocking, and coverage
 - **Mocha**: Flexible framework that can be combined with various assertion libraries
-- **Jasmine**: Behavior-driven development framework
+- **Jasmine**: Behaviour-driven development framework
 - **Vitest**: Fast testing framework for Vite projects
 
 **Python**
@@ -780,7 +780,7 @@ The effectiveness of TDD often depends on having good tools and frameworks that 
 - **MSTest**: Microsoft's integrated testing framework
 
 **Ruby**
-- **RSpec**: Behavior-driven development framework
+- **RSpec**: Behaviour-driven development framework
 - **Minitest**: Lightweight testing framework included with Ruby
 
 ### Mocking and Test Double Libraries
@@ -858,7 +858,7 @@ Understanding common TDD mistakes helps avoid pitfalls that can make TDD less ef
 
 ### Testing Implementation Details
 
-- **Problem**: Tests are coupled to implementation rather than behavior
+- **Problem**: Tests are coupled to implementation rather than behaviour
 ```javascript
 // Bad: Testing implementation details
 test('should call database.save with user object', () => {
@@ -870,7 +870,7 @@ test('should call database.save with user object', () => {
   expect(mockDb).toHaveBeenCalledWith({ name: 'John' });
 });
 
-// Good: Testing behavior
+// Good: Testing behaviour
 test('should persist user data', async () => {
   const userService = new UserService(testDatabase);
   
@@ -905,7 +905,7 @@ test('should persist user data', async () => {
 ### Test Hoarding
 
 - **Problem**: Writing too many tests at the wrong level
-- **Solution**: Focus on testing behavior that matters to users
+- **Solution**: Focus on testing behaviour that matters to users
 - Don't test every getter and setter
 - Don't test framework code
 - Focus on business logic and edge cases
@@ -932,7 +932,7 @@ TDD works best when practiced consistently by entire teams. Here's how to make T
 
 ### Handling Legacy Code
 
-- **Characterization Tests**: Write tests that capture existing behavior before making changes
+- **Characterisation Tests**: Write tests that capture existing behaviour before making changes
 - **Seams**: Identify points where you can insert tests into existing code
 - **Refactoring**: Gradually improve code structure while maintaining test coverage
 - **Boy Scout Rule**: Leave code a little better than you found it
@@ -994,7 +994,7 @@ TDD integrates well with other modern development practices and methodologies.
 
 - **Continuous Integration**: Automated test runs on every code change
 - **Continuous Deployment**: High test coverage enables confident automated deployments
-- **Monitoring**: Production monitoring can validate that tested behavior works in practice
+- **Monitoring**: Production monitoring can validate that tested behaviour works in practice
 - **Infrastructure as Code**: Even infrastructure changes can be test-driven
 
 ### TDD and Microservices
