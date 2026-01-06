@@ -47,7 +47,7 @@ For posts requiring banner images, add a header section with Unsplash images:
 ```yaml
 header:
   overlay_image: "https://images.unsplash.com/photo-[PHOTO-ID]?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "0.5"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
   caption: "Photo by [Photographer Name](https://unsplash.com/@username) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-[PHOTO-ID]?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ```
@@ -57,9 +57,37 @@ header:
 - The `overlay_image` uses 1200x400 dimensions for the full-width banner
 - The `teaser` uses 600x300 dimensions for homepage/archive listings
 - Always include proper attribution in the `caption` field
-- Use `overlay_filter: "0.5"` for consistent text readability over images
+- Use `overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"` for consistent gradient overlay
 - Search for images that relate to your post topic but avoid overly literal matches
 - Choose high-quality, professional photos that complement the content
+
+### Extracting Photo URLs from Unsplash Pages
+
+When given an Unsplash page URL (e.g., `https://unsplash.com/photos/description-PHOTO_ID`), you need to extract the correct photo ID for the images.unsplash.com URL format:
+
+**Common Photo ID Formats:**
+- Standard format: `photo-1234567890123-abcdef123456` (numeric timestamp + alphanumeric)
+- Working examples from the site:
+  - `photo-1461749280684-dccba630e2f6` (programming/coding)
+  - `photo-1555066931-4365d14bab8c` (technology)
+  - `photo-1517842645767-c639042777db` (productivity)
+
+**How to Find the Correct Photo ID:**
+1. **From Unsplash Page URL**: The ID at the end may not be the correct format
+2. **Fetch the page content** using tools to find the actual image URL
+3. **Look for img src URLs** that contain `images.unsplash.com/photo-[ID]`
+4. **Extract the photo ID** from those URLs (the part after `photo-`)
+
+**Troubleshooting Photo URLs:**
+- If a photo URL doesn't work, it may be a premium/plus image with different ID format
+- Premium images use `premium_photo-` prefix and won't work with standard format
+- Find alternative similar-themed images with standard IDs that work
+- Test the URL by checking if `https://images.unsplash.com/photo-[ID]` loads
+
+**URL Parameters to Use:**
+- Banner: `?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80`
+- Teaser: `?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80`
+- These parameters ensure optimal sizing and quality for the site
 
 ### Standard Post Structure
 ```markdown
