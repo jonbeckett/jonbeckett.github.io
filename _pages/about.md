@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Who I am
 
+![Jonathan Beckett](/assets/images/jonbeckett_newsprint.jpg)
+
 My name's Jonathan - variously known as a software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, and occasional player of retro video games. You may know me via my YouTube channel, or personal blog - where I rarely mention anything about what I spend the majority of my life doing. I guess this site resolves that somewhat.
 
 
