@@ -243,7 +243,9 @@ When a test fails due to a changed UI element, the **Self-Healing Agent** spring
 2. **Element Re-discovery**: Using the original semantic intent, the agent searches for the element in its new location or form.
 3. **Locator Update**: The agent updates the locator strategy and validates the change across related tests.
 4. **Confidence Scoring**: Each self-healing action includes a confidence score, flagging changes that might need human review.
+
 The self-healing implementation demonstrates how Playwright's AI agents automatically recover from UI changes that would normally break tests. This code shows the complete workflow: failure analysis, element rediscovery using semantic understanding, locator updates, and confidence-based decision making about whether to auto-heal or escalate to human review.
+
 ```typescript
 // Self-healing in action
 const healingAgent = new PlaywrightSelfHealingAgent({
