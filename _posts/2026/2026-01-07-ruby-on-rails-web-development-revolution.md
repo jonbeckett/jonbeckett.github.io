@@ -40,6 +40,7 @@ These principles weren't just theoretical—they were battle-tested solutions to
 Perhaps Rails' most revolutionary contribution to web development was popularizing the "Convention over Configuration" principle. While frameworks like Microsoft's early ASP.NET MVC required extensive XML configuration files and explicit mapping of every component, Rails worked out of the box with sensible defaults.
 
 For example, if you have a `User` model in Rails, the framework automatically assumes:
+
 - Your database table is named `users` (pluralized)
 - Your controller is `UsersController`
 - Your views are in the `app/views/users/` directory
@@ -60,6 +61,7 @@ Compare this to the verbose, error-prone database code common in other framework
 ### 3. Integrated Testing Framework
 
 From day one, Rails made testing a first-class citizen. While other frameworks treated testing as an afterthought, Rails included:
+
 - Unit tests for models
 - Functional tests for controllers
 - Integration tests for full user workflows
@@ -103,6 +105,7 @@ Rails demonstrated that web applications didn't need to be complex to be powerfu
 [Basecamp](https://basecamp.com/) remains one of the most successful Rails applications ever built. What started as an internal project management tool for 37signals became a multi-million dollar SaaS business serving millions of users worldwide. Basecamp's success proved that Rails could scale both technically and commercially.
 
 The application showcases many of Rails' strengths:
+
 - Clean, intuitive user interface
 - Real-time updates and collaboration features
 - Reliable performance at scale
