@@ -17,7 +17,7 @@ tags:
 excerpt: "As AI becomes increasingly sophisticated, it's fundamentally changing how we capture, process, and interact with information. But what does this mean for the future of human thinking and knowledge work?"
 header:
   overlay_image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

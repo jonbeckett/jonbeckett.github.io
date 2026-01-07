@@ -6,7 +6,7 @@ categories: [web development, frameworks, ruby]
 tags: [ruby on rails, mvc, web frameworks, david heinemeier hansson, basecamp, gov uk]
 header:
   overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Ilya Pavlov](https://unsplash.com/@ilyapavlov) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

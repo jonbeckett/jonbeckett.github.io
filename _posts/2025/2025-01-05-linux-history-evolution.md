@@ -20,7 +20,7 @@ tags:
 excerpt: "From a hobby project in a Finnish university dorm room to powering everything from smartphones to supercomputers, Linux represents one of the most successful collaborative efforts in human history. This is the story of how free software changed the world."
 header:
   overlay_image: "https://images.unsplash.com/photo-1673598906049-50dd978ac11c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Andrew Pons](https://unsplash.com/@imandrewpons) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1673598906049-50dd978ac11c?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

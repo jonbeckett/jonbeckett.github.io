@@ -20,7 +20,7 @@ tags:
 excerpt: "Microsoft's ambitious vision for enterprise AI agents isn't just about creating smarter assistants—it's about orchestrating entire ecosystems of autonomous digital workers. As organisations grapple with managing hundreds or thousands of AI agents, Microsoft's emerging 'Frontier' approach represents a fundamental shift toward centralised agent governance, monitoring, and control at enterprise scale."
 header:
   overlay_image: "https://images.unsplash.com/photo-1644325349124-d1756b79dd42?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Conny Schneider](https://unsplash.com/@choys_) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1644325349124-d1756b79dd42?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

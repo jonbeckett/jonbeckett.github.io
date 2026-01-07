@@ -20,7 +20,7 @@ tags:
 excerpt: "Microsoft Playwright has evolved far beyond traditional browser automation into an intelligent testing ecosystem powered by AI agents that can autonomously crawl websites, map user interfaces, design comprehensive test suites, and even perform self-healing when applications change. This revolutionary approach transforms testing from a manual craft into an autonomous, adaptive process."
 header:
   overlay_image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---

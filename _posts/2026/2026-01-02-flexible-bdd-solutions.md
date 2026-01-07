@@ -20,7 +20,7 @@ tags:
 excerpt: "Discover how combining Gherkin, Cucumber, Playwright, NodeJS, and Allure Reports creates a powerful, flexible BDD solution that bridges the gap between business requirements and technical implementation."
 header:
   overlay_image: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   teaser: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=400&h=250&fit=crop&crop=entropy&auto=format&q=80"
 ---
 

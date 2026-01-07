@@ -17,7 +17,7 @@ tags:
 excerpt: "Test-Driven Development isn't just a testing technique—it's a fundamental shift in how we think about code, design, and problem-solving. Here's everything you need to know about TDD and why it might change how you approach software development forever."
 header:
   overlay_image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
-  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 100%)"
+  overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Zan](https://unsplash.com/@zanilic) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
