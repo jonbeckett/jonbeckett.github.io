@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ruby on Rails: The Framework That Revolutionized Web Development"
-date: 2026-01-07 10:00:00 +0000
+date: 2026-01-07 00:00:00 +0000
 categories: [web development, frameworks, ruby]
 tags: [ruby on rails, mvc, web frameworks, david heinemeier hansson, basecamp, gov uk]
 header:
