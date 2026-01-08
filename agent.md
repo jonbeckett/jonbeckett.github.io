@@ -42,7 +42,7 @@ excerpt: "A compelling 1-2 sentence summary that captures the essence and value 
 ```
 
 ### Header Images from Unsplash
-For posts requiring banner images, add a header section with Unsplash images:
+All posts require banner and teaser images - add a header section with Unsplash images, and always check that the image URL loads before using it:
 
 ```yaml
 header:
@@ -51,6 +51,7 @@ header:
   caption: "Photo by [Photographer Name](https://unsplash.com/@username) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-[PHOTO-ID]?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ```
+
 
 **Important Notes:**
 - Use the **same photo ID** for both `overlay_image` and `teaser` fields
