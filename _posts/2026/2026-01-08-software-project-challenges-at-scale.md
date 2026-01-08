@@ -129,11 +129,7 @@ Successful large projects invest heavily in testing infrastructure: fast test ru
 
 ## Moving Forward: Embracing Complexity
 
-The challenges facing large software projects can feel overwhelming, but they're not insurmountable. The most successful projects share common characteristics: they acknowledge complexity rather than pretending it doesn't exist, they:
-
-- invest in infrastructure and processes that reduce friction
-- cultivate cultures of communication and continuous improvement
-- make technical excellence a priority rather than a luxury
+The challenges facing large software projects can feel overwhelming, but they're not insurmountable. The most successful projects share common characteristics: they acknowledge complexity rather than pretending it doesn't exist, they invest in infrastructure and processes that reduce friction, they cultivate cultures of communication and continuous improvement, and they make technical excellence a priority rather than a luxury.
 
 They recognize that software development at scale is as much about people and process as it is about code. They understand that the problems described here aren't exceptions—they're the norm, and planning for them is part of building software that lasts.
 
