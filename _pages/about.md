@@ -4,57 +4,59 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+# Hello, I'm Jonathan Beckett
 
-![Jonathan Beckett](/assets/images/jonbeckett_newsprint.jpg)
+**Software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, retro video games player. Pizza solves most things.**
 
-My name is Jonathan Beckett. I am a software and web developer with extensive experience in building enterprise solutions, automation systems, and web applications. You may also know me through my [YouTube channel](https://youtube.com/@jonbeckett) or my personal blog at [Recursive Words](https://recursivewords.com).
+Welcome to my little corner of the internet! I'm Jon (though my mum still calls me Jonathan when I'm in trouble), and if you've stumbled across this blog, there's a fair chance you're either interested in software development, productivity systems, or you've made a delightful navigation error. Either way, you're very welcome here.
 
+## What I Do
 
-## Professional Background
+By day, I wrestle with code and pretend to understand why servers occasionally decide to have existential crises. I'm a software and web developer who's spent more years than I care to count convincing computers to do useful things—though they don't always cooperate as enthusiastically as I'd like.
 
-I am a software and web developer with many years of experience designing, building, and maintaining software systems across a range of platforms and technologies.
+My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. It's a glamorous life, really.
 
-My professional work centres on the Microsoft ecosystem, where I specialise in document and content management systems, PowerShell automation, and workflow development using PowerAutomate. I have also worked extensively with enterprise workflow platforms including K2 and Nintex, integrating them with broader organisational systems.
+## What I Think About
 
-More recently, my focus has expanded to include TypeScript development, behaviour-driven development using Gherkin and Cucumber, and browser automation with Playwright. I also work with DevOps pipelines to streamline deployment processes and improve software delivery.
+When I'm not debugging someone else's "temporary" fix from 2019, you'll find me thinking and writing about:
 
-My background includes significant experience with Linux systems and open source software. Earlier in my career, I developed one of the first widely-used blogging platforms—a project that began as a personal solution and grew into something much larger.
+- **Software development methodologies** that actually work in the real world (spoiler: most of them need significant adaptation)
+- **Productivity systems** and note-taking methods, because apparently I collect these like some people collect stamps
+- **Technology evolution** and how we got from punch cards to artificial intelligence having opinions about our code
+- **The eternal quest** for the perfect development workflow that doesn't involve crying into my keyboard
 
-## Areas of Interest
+I write about these topics because they fascinate me, but also because explaining complex ideas helps me understand them better. If my rambling thoughts occasionally help someone else figure out their own challenges, that's a delightful bonus.
 
-My writing and research focus on several key areas:
+## What I Do When I'm Not Computing
 
-- **Software development methodologies** and their practical application in real-world projects
-- **Productivity systems** and note-taking methods, with particular interest in how they support knowledge work
-- **Technology history and evolution**, exploring how current tools and practices emerged from earlier innovations
-- **Development workflows** and the ongoing pursuit of more effective ways to build software
+Life isn't all semicolons and merge conflicts, thankfully. When I manage to drag myself away from screens:
 
-I write about these topics both to share knowledge and to deepen my own understanding. Technical writing is a valuable way to clarify complex ideas and engage with others working in similar fields.
+- **Running** keeps me sane and gives me time to think through thorny problems (or plan what to have for dinner)
+- **Coffee** is both fuel and social lubricant—I'm convinced good code is directly proportional to caffeine quality
+- **Reading** feeds my curiosity about everything from ancient history to quantum physics
+- **Terrible movies** provide essential balance to all the serious thinking—sometimes you just need zombies or explosions
+- **Retro video games** remind me why I fell in love with computers in the first place
+- **Retro tech** fascinates me endlessly—there's something deeply satisfying about the elegant simplicity of old 8-bit computers
+- **Cat wrangling** is a full-time job disguised as pet ownership
 
-## Beyond Technology
+## The Blog Bit
 
-Outside of professional work, I maintain a range of interests:
+This blog is where I collect my thoughts on technology, productivity, and the occasionally absurd world of software development. I try to write substantial, thoughtful pieces rather than quick hot takes—partly because complex topics deserve proper exploration, and partly because I'm constitutionally incapable of writing anything short.
 
-- **Running** provides both physical exercise and time for reflection
-- **Reading** spans topics from history to science, supporting broader intellectual curiosity
-- **Retro computing** and vintage technology offer insight into the foundations of modern systems
-- **Flight simulation** provides an engaging technical hobby
+You'll find deep dives into development methodologies, explorations of productivity systems, and probably more thoughts about note-taking than any reasonable person should have. I write in British English because that's how I think, and I try to make technical topics accessible without dumbing them down.
 
-## About This Blog
+If you enjoy the technical and productivity content here, you might also be interested in my personal blog at [Recursive Words](https://recursivewords.com), where I share more personal reflections and day-to-day observations. And for those who prefer watching to reading, I occasionally venture into video content on my [YouTube channel](https://youtube.com/@jonbeckett)—where you'll find me fumbling my way through various flight simulators and pretending I know how to land aircraft without creating craters. I make no promises about production values or my ability to speak coherently on camera, especially when I'm trying to work out why the autopilot has decided to take us on an unscheduled tour of the countryside.
 
-This blog focuses on technology, software development, and productivity. Articles tend toward longer, more detailed explorations of topics rather than brief commentary. The goal is to provide substantive content that offers genuine value to readers working in technology and related fields.
+## The Personal Bit
 
-Content is written in British English and aims to make technical subjects accessible while maintaining appropriate depth and rigour.
+I'm married to someone far more sensible than me, father to offspring who have inherited my stubborn streak, and servant to cats who have strong opinions about my working schedule. We live somewhere in Britain where it rains frequently enough to make indoor hobbies essential.
 
-For more personal content and day-to-day reflections, visit my blog at [Recursive Words](https://recursivewords.com). Video content, primarily focused on flight simulation, is available on my [YouTube channel](https://youtube.com/@jonbeckett).
+I believe pizza solves most problems (the remainder require proper version control), that good code is written for humans not computers, and that the best productivity system is the one you'll actually use.
 
-## Personal
+## Getting in Touch
 
-I live in the United Kingdom with my family.
+If you'd like to chat about any of the topics I write about, argue with my methodology choices, or share your own experiences with the eternal quest for better productivity systems, I'd love to hear from you. You can find me on most of the usual social networks, over at [Recursive Words](https://recursivewords.com), or even lurking in the comments section of my [YouTube channel](https://youtube.com/@jonbeckett)—though I'm gradually retreating from the noisier corners of the internet in favour of more thoughtful conversations.
 
-## Contact
+Thanks for reading, and I hope you find something useful in my digital ramblings. Now, if you'll excuse me, I need to go explain to a server why it shouldn't randomly restart itself during business hours.
 
-I welcome correspondence on the topics covered in this blog. You can reach me through my personal blog at [Recursive Words](https://recursivewords.com) or via the comments on my [YouTube channel](https://youtube.com/@jonbeckett).
-
-Thank you for visiting.
+*Coffee count today: Lost track after the fourth cup.*
