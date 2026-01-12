@@ -4,18 +4,13 @@ layout: single
 date: 2025-10-15
 categories:
   - software-development
-  - methodology
-  - project-management
 tags:
+  - methodology
   - agile
   - scrum
   - kanban
-  - waterfall
   - devops
-  - lean
   - software-engineering
-  - project-management
-  - team-dynamics
 excerpt: "A comprehensive exploration of how software development methodologies have evolved over the decades, examining their strengths, weaknesses, and the contexts where each approach thrives."
 header:
   overlay_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

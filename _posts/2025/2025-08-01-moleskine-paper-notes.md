@@ -3,16 +3,13 @@ title: "The Enduring Power of Paper: Why Moleskine and Analogue Note-Taking Thri
 layout: single
 date: 2025-08-01
 categories:
-  - analog-planning
-  - creativity
+  - productivity
 tags:
-  - moleskine
+  - productivity
   - analog-planning
   - handwriting
   - notebooks
   - creativity
-  - productivity
-  - paper-vs-digital
 excerpt: "In a world dominated by screens and keyboards, the humble paper notebook continues to hold a sacred place in the lives of thinkers, creators, and innovators. Here's why the analogue experience remains irreplaceable."
 header:
   overlay_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

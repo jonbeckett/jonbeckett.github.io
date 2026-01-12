@@ -2,8 +2,13 @@
 layout: single
 title: "From Paper to Power Platform: The Revolutionary History of Business Automation and Workflow"
 date: 2026-01-11 00:00:00 +0000
-categories: [technology, business, automation]
-tags: [workflow, automation, filenet, opentext, livelink, metastorm, k2, nintex, power automate, power apps, bpm, enterprise, digital transformation]
+categories:
+  - enterprise
+tags:
+  - automation
+  - workflow
+  - enterprise
+  - business-process
 header:
   overlay_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"

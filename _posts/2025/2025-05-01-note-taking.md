@@ -4,11 +4,10 @@ layout: single
 date: 2025-05-01
 categories:
   - productivity
-  - knowledge-management
 tags:
   - productivity
-  - knowledge-management
   - note-taking
+  - knowledge-management
   - learning
 excerpt: "Exploring the evolution of note-taking from simple lists to sophisticated knowledge management systems that can transform how we think, learn, and create."
 header:

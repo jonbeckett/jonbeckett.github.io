@@ -2,8 +2,13 @@
 layout: single
 title: "Ruby on Rails: The Framework That Revolutionized Web Development"
 date: 2026-01-07 00:00:00 +0000
-categories: [web development, frameworks, ruby]
-tags: [ruby on rails, mvc, web frameworks, david heinemeier hansson, basecamp, gov uk]
+categories:
+  - web-development
+tags:
+  - web-development
+  - ruby
+  - frameworks
+  - mvc
 header:
   overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"

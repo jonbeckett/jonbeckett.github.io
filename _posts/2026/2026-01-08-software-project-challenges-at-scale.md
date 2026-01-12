@@ -2,8 +2,13 @@
 layout: single
 title: "The Hidden Challenges of Large-Scale Software Development: Navigating Complexity in the Real World"
 date: 2026-01-08 00:00:00 +0000
-categories: [software development, project management, engineering]
-tags: [technical debt, code standards, requirements management, team collaboration, enterprise software]
+categories:
+  - software-development
+tags:
+  - software-engineering
+  - project-management
+  - collaboration
+  - enterprise
 header:
   overlay_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"

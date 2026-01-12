@@ -3,20 +3,14 @@ title: "The Azure Ascent: Microsoft's Journey from Windows-Centric to Cloud-Firs
 layout: single
 date: 2025-09-05
 categories:
-  - cloud-computing
-  - microsoft
   - technology
+  - enterprise
 tags:
-  - azure
-  - cloud-services
   - microsoft
-  - aws
-  - google-cloud
-  - saas
-  - paas
-  - iaas
-  - digital-transformation
-  - enterprise-computing
+  - azure
+  - cloud-computing
+  - enterprise
+  - history
 excerpt: "From a company synonymous with Windows and Office to a cloud-first enterprise giant—Microsoft's Azure transformation represents one of the most remarkable corporate reinventions in tech history. Here's how Microsoft learned to compete in the cloud era."
 header:
   overlay_image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

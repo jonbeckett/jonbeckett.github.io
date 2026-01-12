@@ -3,20 +3,13 @@ title: "Microsoft's AI Agent Frontier: Building the Enterprise Command Centre fo
 layout: single
 date: 2026-01-05
 categories:
-  - technology
   - artificial-intelligence
-  - enterprise-software
+  - enterprise
 tags:
-  - microsoft
   - artificial-intelligence
-  - autonomous-agents
-  - enterprise-ai
-  - copilot-studio
-  - agent-orchestration
-  - ai-governance
-  - business-automation
-  - azure-ai
-  - headquarters-feature
+  - microsoft
+  - automation
+  - enterprise
 excerpt: "Microsoft's ambitious vision for enterprise AI agents isn't just about creating smarter assistants—it's about orchestrating entire ecosystems of autonomous digital workers. As organisations grapple with managing hundreds or thousands of AI agents, Microsoft's emerging 'Frontier' approach represents a fundamental shift toward centralised agent governance, monitoring, and control at enterprise scale."
 header:
   overlay_image: "https://images.unsplash.com/photo-1644325349124-d1756b79dd42?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

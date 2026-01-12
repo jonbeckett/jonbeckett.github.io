@@ -2,8 +2,14 @@
 layout: single
 title: "From CERN to Chrome: The Revolutionary History of the World Wide Web and Web Browsers"
 date: 2026-01-09 00:00:00 +0000
-categories: [technology, internet, history]
-tags: [world wide web, web browsers, tim berners-lee, mosaic, netscape, internet explorer, firefox, chrome, safari, html, http]
+categories:
+  - technology
+tags:
+  - web-development
+  - browsers
+  - html
+  - http
+  - history
 header:
   overlay_image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"

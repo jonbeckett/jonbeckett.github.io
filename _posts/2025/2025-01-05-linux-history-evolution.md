@@ -4,19 +4,13 @@ layout: single
 date: 2025-01-05
 categories:
   - technology
-  - open-source
-  - operating-systems
 tags:
+  - technology
   - linux
   - unix
   - open-source
-  - linus-torvalds
-  - gnu
-  - kernel
+  - operating-systems
   - history
-  - technology-revolution
-  - computing
-  - software-freedom
 excerpt: "From a hobby project in a Finnish university dorm room to powering everything from smartphones to supercomputers, Linux represents one of the most successful collaborative efforts in human history. This is the story of how free software changed the world."
 header:
   overlay_image: "https://images.unsplash.com/photo-1673598906049-50dd978ac11c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

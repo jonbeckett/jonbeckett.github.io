@@ -2,8 +2,13 @@
 layout: single
 title: "JavaScript Everywhere: The Revolutionary History of Node.js and Full-Stack JavaScript"
 date: 2026-01-10 00:00:00 +0000
-categories: [technology, programming, web-development]
-tags: [nodejs, javascript, v8, express, react, npm, ryan dahl, server-side, full-stack, web frameworks]
+categories:
+  - web-development
+tags:
+  - javascript
+  - nodejs
+  - web-development
+  - frameworks
 header:
   overlay_image: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"

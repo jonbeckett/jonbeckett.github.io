@@ -4,15 +4,13 @@ layout: single
 date: 2025-12-15
 categories:
   - technology
-  - software-development
-  - quality-assurance
+  - testing
 tags:
   - testing
-  - qa
+  - quality-assurance
   - automation
-  - methodology
   - software-engineering
-  - ai-testing
+  - artificial-intelligence
 excerpt: "A comprehensive exploration of how software testing has evolved from manual processes to sophisticated AI-driven quality assurance systems, and what the future holds for ensuring software quality."
 header:
   overlay_image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

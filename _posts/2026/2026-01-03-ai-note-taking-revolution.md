@@ -3,17 +3,13 @@ title: "The AI Revolution in Note-Taking: How Artificial Intelligence is Reshapi
 layout: single
 date: 2026-01-03
 categories:
-  - technology
-  - productivity
   - artificial-intelligence
+  - productivity
 tags:
   - artificial-intelligence
   - note-taking
   - productivity
-  - knowledge-management
   - automation
-  - cognition
-  - future-of-work
 excerpt: "As AI becomes increasingly sophisticated, it's fundamentally changing how we capture, process, and interact with information. But what does this mean for the future of human thinking and knowledge work?"
 header:
   overlay_image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

@@ -4,15 +4,11 @@ layout: single
 date: 2025-11-20
 categories:
   - software-development
-  - methodology
-  - productivity
 tags:
+  - testing
   - tdd
-  - test-driven-development
-  - unit-testing
-  - refactoring
-  - code-quality
   - software-engineering
+  - methodology
   - agile
 excerpt: "Test-Driven Development isn't just a testing technique—it's a fundamental shift in how we think about code, design, and problem-solving. Here's everything you need to know about TDD and why it might change how you approach software development forever."
 header:

@@ -3,17 +3,12 @@ layout: single
 title: "The Chess Machine Awakens: From Turing's Dreams to Silicon Consciousness"
 date: 2026-01-12
 categories:
-  - technology
-  - ai
-  - chess
-  - history
+  - artificial-intelligence
 tags:
   - artificial-intelligence
-  - computer-chess
   - machine-learning
-  - deep-blue
-  - alphazero
-  - turing
+  - chess
+  - history
 excerpt: "From Alan Turing's handwritten algorithms to AlphaZero's neural networks, the evolution of computer chess charts humanity's journey toward artificial consciousness—one calculated move at a time."
 header:
   overlay_image: "https://images.unsplash.com/photo-1702728342803-ac333f679545?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

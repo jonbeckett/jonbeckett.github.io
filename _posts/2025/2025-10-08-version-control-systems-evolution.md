@@ -4,19 +4,12 @@ layout: single
 date: 2025-10-08
 categories:
   - software-development
-  - tools
-  - technology
 tags:
   - version-control
   - git
-  - svn
-  - cvs
-  - mercurial
-  - development-tools
-  - collaboration
   - software-engineering
+  - collaboration
   - history
-  - workflow
 excerpt: "Version control systems are the invisible backbone of modern software development. From the primitive file-locking systems of the 1970s to today's sophisticated distributed repositories, the evolution of version control tells the story of how we learned to collaborate on code at scale."
 header:
   overlay_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

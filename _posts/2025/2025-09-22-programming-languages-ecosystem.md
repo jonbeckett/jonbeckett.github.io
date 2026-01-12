@@ -3,20 +3,16 @@ title: "The Programming Language Ecosystem: Understanding the Forces That Shape 
 layout: single
 date: 2025-09-22
 categories:
-  - software-development
-  - programming-languages
   - technology
+  - software-development
 tags:
+  - programming
   - python
   - javascript
   - java
-  - c++
   - rust
   - go
-  - programming-paradigms
   - software-engineering
-  - technology-trends
-  - computer-science
 excerpt: "An in-depth exploration of the modern programming language landscape—examining how languages evolve, influence each other, and shape the software we build and the problems we can solve."
 header:
   overlay_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"

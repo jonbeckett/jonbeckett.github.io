@@ -4,13 +4,11 @@ layout: single
 date: 2025-07-01
 categories:
   - productivity
-  - analog-planning
 tags:
-  - bullet-journal
   - productivity
+  - bullet-journal
   - analog-planning
   - organization
-  - mindfulness
   - creativity
 excerpt: "From personal struggle to global phenomenon—the remarkable story of how one designer's learning differences led to a revolutionary planning system that has transformed millions of lives."
 header:
