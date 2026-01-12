@@ -3,10 +3,10 @@ layout: single
 title: "The Chess Machine Awakens: From Turing's Dreams to Silicon Consciousness"
 date: 2026-01-12
 categories:
-  - Technology
-  - AI
-  - Chess
-  - History
+  - technology
+  - ai
+  - chess
+  - history
 tags:
   - artificial-intelligence
   - computer-chess
