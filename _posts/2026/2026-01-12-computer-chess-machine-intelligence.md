@@ -22,8 +22,6 @@ header:
   teaser: "https://images.unsplash.com/photo-1702728342803-ac333f679545?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
-*"I've seen things you people wouldn't believe. Chess engines blazing off the shoulder of Silicon Valley. I watched grandmaster tears glitter in the dark near algorithmic gates."* - A paraphrase that captures the awe and melancholy of humanity's relationship with artificial intelligence on the 64-square battlefield.
-
 The story of computer chess isn't merely about games won and lost—it's the chronicle of machine consciousness awakening, one calculated move at a time. From the theoretical musings of Alan Turing to the neural networks that now play with an almost alien intuition, chess has served as humanity's most visible arena for measuring the growth of artificial minds.
 
 ## The Promethean Fire: Turing's Vision (1940s-1950s)
