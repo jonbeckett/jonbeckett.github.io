@@ -88,7 +88,7 @@ Davies successfully built a local packet-switched network at NPL in 1969, demons
 
 The mathematical underpinnings of packet switching came from Leonard Kleinrock, a graduate student at MIT who developed queueing theory for message switching networks in his 1961 doctoral dissertation. Kleinrock's work, published as "Communication Nets: Stochastic Message Flow and Delay" in 1964, provided the theoretical framework for analyzing packet network performance.
 
-Kleinrock joined UCLA in 1963 and would later host the first ARPANET node. His mathematical models proved that packet switching could work efficiently—a crucial validation when selling the concept to sceptical funders and engineers.
+Kleinrock joined UCLA in 1963 and would later host the first ARPANET node. His mathematical models proved that packet switching could work efficiently—a crucial validation when selling the concept to skeptical funders and engineers.
 
 ---
 
@@ -136,7 +136,7 @@ The UCLA team, led by Kleinrock and including graduate students like Charley Kli
 
 ### Node Two: Stanford Research Institute
 
-On October 1, 1969, IMP #2 arrived at Stanford Research Institute (SRI), led by Douglas Engelbart—the inventor of the computer mouse and creator of the oN-Line System (NLS), a pioneering hypertext system. The distance between UCLA and SRI—about 350 miles—would be bridged by a 50-kilobit-per-second leased phone line.
+On October 1, 1969, IMP #2 arrived at Stanford Research Institute (SRI), led by Douglas Engelbart—the inventor of the computer mouse and creator of the oNLine System (NLS), a pioneering hypertext system. The distance between UCLA and SRI—about 350 miles—would be bridged by a 50-kilobit-per-second leased phone line.
 
 ### The First Message
 
@@ -317,7 +317,7 @@ This separation allowed each network to evolve according to its users' needs. MI
 
 The National Science Foundation (NSF) recognized the internet's potential for connecting researchers. In 1986, NSF launched NSFNET, a network connecting supercomputer centres at universities across America. NSFNET adopted TCP/IP and interconnected with ARPANET, forming a larger internet.
 
-Crucially, NSF's "Acceptable Use Policy" initially prohibited commercial use of NSFNET—it was for research and education only. This policy would soon be challenged by the internet's growing utility for business.
+Crucially, NSF's "Acceptable Use Policy" initially prohibited commercial use of NSFNET—the network could only be used for research, education, and government purposes, explicitly forbidding "for-profit" activities or business transactions. This policy would soon be challenged by the internet's growing utility for business.
 
 NSFNET was faster than ARPANET—its backbone operated at 56 kbps initially, then upgraded to 1.5 Mbps (T1) and eventually 45 Mbps (T3). This increased capacity enabled new applications and attracted more users. By 1990, ARPANET was decommissioned—NSFNET and other networks had superseded the original network.
 
@@ -417,7 +417,7 @@ The Web's explosive growth drove rapid evolution in HTTP and web technologies. F
 
 The original Internet Protocol (IPv4) used 32-bit addresses, providing about 4.3 billion unique addresses. In the 1980s, this seemed infinite. By the 2000s, address exhaustion loomed.
 
-The solution, IPv6, used 128-bit addresses—enough for 340 undecillion addresses (340 trillion trillion trillion). IPv6 was designed in the 1990s, standardized in 1998, but adoption proceeded slowly. In 2026, the internet runs on a mixture of IPv4 (with extensive use of Network Address Translation) and IPv6.
+The solution, IPv6, used 128-bit addresses—enough for approximately 3.4 × 10³⁸ addresses (340 undecillion, or 340 billion billion billion billion). IPv6 was designed in the 1990s, standardized in 1998, but adoption proceeded slowly. In 2026, the internet runs on a mixture of IPv4 (with extensive use of Network Address Translation) and IPv6.
 
 ### Security: Not an Original Concern
 
