@@ -63,10 +63,10 @@ Traditional telephone networks used circuit switching—establishing a dedicated
 
 Baran proposed a radically different approach:
 
-1. **Break messages into small blocks** (later called "packets") of standard size
-2. **Distribute these packets** across multiple pathways through a meshed network
-3. **Let each node independently route packets** towards their destination
-4. **Reassemble packets** at the receiving end
+- **Break messages into small blocks** (later called "packets") of standard size
+- **Distribute these packets** across multiple pathways through a meshed network
+- **Let each node independently route packets** towards their destination
+- **Reassemble packets** at the receiving end
 
 This distributed architecture had profound implications. No single point of failure existed—packets could route around damaged nodes. Network capacity could be utilized efficiently—multiple messages could share the same links. And the system was inherently scalable—adding nodes increased capacity and redundancy.
 
@@ -220,13 +220,10 @@ Their solution, developed between 1973 and 1974, was TCP (Transmission Control P
 
 The key innovations included:
 
-**Datagrams**: Self-contained packets that could be routed independently through multiple networks
-
-**Gateways** (later called "routers"): Specialized computers that connected different networks, forwarding packets based on destination addresses
-
-**End-to-end principle**: Networks would provide best-effort delivery; reliability would be implemented at the endpoints (the communicating computers)
-
-**Layering**: Separating concerns into distinct protocol layers—applications wouldn't need to know about underlying network details
+- **Datagrams**: Self-contained packets that could be routed independently through multiple networks
+- **Gateways** (later called "routers"): Specialized computers that connected different networks, forwarding packets based on destination addresses
+- **End-to-end principle**: Networks would provide best-effort delivery; reliability would be implemented at the endpoints (the communicating computers)
+- **Layering**: Separating concerns into distinct protocol layers—applications wouldn't need to know about underlying network details
 
 Cerf presented their work at a symposium in September 1973, and they published a detailed specification in IEEE Transactions on Communications in May 1974. The paper, "A Protocol for Packet Network Intercommunication," laid the foundation for the modern internet.
 
@@ -260,45 +257,23 @@ This decision proved momentous. By mandating TCP/IP, ARPA ensured a single stand
 
 The internet's creation involved dozens of contributors, but several figures played particularly crucial roles:
 
-### J.C.R. Licklider (1915-1990)
+- **J.C.R. Licklider (1915-1990)**: The visionary who imagined networked computing before it was technically feasible. Licklider's "Intergalactic Network" concept and his leadership at ARPA's IPTO created the institutional support and intellectual framework for ARPANET. His emphasis on human-computer interaction shaped the internet's user-centric design philosophy.
 
-The visionary who imagined networked computing before it was technically feasible. Licklider's "Intergalactic Network" concept and his leadership at ARPA's IPTO created the institutional support and intellectual framework for ARPANET. His emphasis on human-computer interaction shaped the internet's user-centric design philosophy.
+- **Bob Taylor (1932-2017)**: ARPA director who secured funding for ARPANET and recruited Larry Roberts. Taylor later led Xerox PARC's Computer Science Laboratory, where his team developed the Alto (the first personal computer with a graphical interface) and Ethernet. His frustration with incompatible computers directly motivated the network project.
 
-### Bob Taylor (1932-2017)
+- **Larry Roberts (1937-2018)**: The architect who turned vision into engineering reality. Roberts designed ARPANET's structure, managed its development, and drove its expansion. His 1967 plan provided the roadmap that engineers followed. Without Roberts' leadership, ARPANET might have remained a theoretical concept.
 
-ARPA director who secured funding for ARPANET and recruited Larry Roberts. Taylor later led Xerox PARC's Computer Science Laboratory, where his team developed the Alto (the first personal computer with a graphical interface) and Ethernet. His frustration with incompatible computers directly motivated the network project.
+- **Leonard Kleinrock (1934-)**: The queueing theorist whose mathematical work proved packet switching could work efficiently. As host of the first ARPANET node at UCLA, Kleinrock's Network Measurement Center tested and optimized the network. His team sent the first message and conducted the early experiments that validated the technology.
 
-### Larry Roberts (1937-2018)
+- **Paul Baran (1926-2011)**: The RAND Corporation engineer who invented distributed packet switching to create a survivable communications network. Though his proposals were rejected by AT&T, his "On Distributed Communications" reports provided the theoretical foundation for ARPANET. Baran later said: "The process of technological developments is like building a cathedral. Over the course of several hundred years, new people come along and each lays down a block on top of the old foundations, each saying, 'I built a cathedral.'"
 
-The architect who turned vision into engineering reality. Roberts designed ARPANET's structure, managed its development, and drove its expansion. His 1967 plan provided the roadmap that engineers followed. Without Roberts' leadership, ARPANET might have remained a theoretical concept.
+- **Donald Davies (1924-2000)**: The British scientist who independently developed packet switching and coined the term "packet." Davies built a working packet-switched network at NPL and directly influenced ARPANET's design through his presentations and publications.
 
-### Leonard Kleinrock (1934-)
+- **Robert Kahn (1938-)**: The BBN engineer who helped build the IMP, then moved to ARPA where he identified the internetworking problem and co-invented TCP/IP. Kahn's vision of connecting diverse networks transformed ARPANET into the internet. He served as director of ARPA's IPTO from 1979 to 1985, guiding the internet's early expansion.
 
-The queueing theorist whose mathematical work proved packet switching could work efficiently. As host of the first ARPANET node at UCLA, Kleinrock's Network Measurement Center tested and optimized the network. His team sent the first message and conducted the early experiments that validated the technology.
+- **Vint Cerf (1943-)**: Co-inventor of TCP/IP with Robert Kahn, Cerf provided the detailed protocol design and mathematical analysis that made internetworking practical. Often called the "Father of the Internet," Cerf's work on addressing, routing, and reliability enabled the internet to scale globally. In 2026, he continues to advocate for internet openness and accessibility as Google's Chief Internet Evangelist.
 
-### Paul Baran (1926-2011)
-
-The RAND Corporation engineer who invented distributed packet switching to create a survivable communications network. Though his proposals were rejected by AT&T, his "On Distributed Communications" reports provided the theoretical foundation for ARPANET. Baran later said:
-
-> "The process of technological developments is like building a cathedral. Over the course of several hundred years, new people come along and each lays down a block on top of the old foundations, each saying, 'I built a cathedral.'"
-
-### Donald Davies (1924-2000)
-
-The British scientist who independently developed packet switching and coined the term "packet." Davies built a working packet-switched network at NPL and directly influenced ARPANET's design through his presentations and publications.
-
-### Robert Kahn (1938-)
-
-The BBN engineer who helped build the IMP, then moved to ARPA where he identified the internetworking problem and co-invented TCP/IP. Kahn's vision of connecting diverse networks transformed ARPANET into the internet. He served as director of ARPA's IPTO from 1979 to 1985, guiding the internet's early expansion.
-
-### Vint Cerf (1943-)
-
-Co-inventor of TCP/IP with Robert Kahn, Cerf provided the detailed protocol design and mathematical analysis that made internetworking practical. Often called the "Father of the Internet," Cerf's work on addressing, routing, and reliability enabled the internet to scale globally. In 2026, he continues to advocate for internet openness and accessibility as Google's Chief Internet Evangelist.
-
-### Jon Postel (1943-1998)
-
-The internet's "numbers czar" who managed IP address allocation, DNS root zone files, and the RFC process for decades. Postel's RFC 791 (1981) defined the Internet Protocol. His commitment to open standards and collaborative development shaped the internet's governance model. Postel's obituary in the New York Times quoted his colleagues:
-
-> "Jon was the Internet's technical conscience. He made sure we did things right."
+- **Jon Postel (1943-1998)**: The internet's "numbers czar" who managed IP address allocation, DNS root zone files, and the RFC process for decades. Postel's RFC 791 (1981) defined the Internet Protocol. His commitment to open standards and collaborative development shaped the internet's governance model. Postel's obituary in the New York Times quoted his colleagues: "Jon was the Internet's technical conscience. He made sure we did things right."
 
 ---
 
@@ -509,15 +484,11 @@ Yet the core protocols—IP, TCP, DNS—remain fundamentally the same. The archi
 
 The internet faces new challenges in 2026:
 
-**Security and Privacy**: Balancing connectivity with protection from cyber threats and surveillance
-
-**Governance**: Determining who makes decisions about internet standards and policies
-
-**Infrastructure**: Deploying next-generation networks (6G and beyond) while maintaining backward compatibility
-
-**Sustainability**: Reducing the environmental impact of massive data centres and network infrastructure
-
-**Artificial Intelligence**: Integrating AI capabilities while addressing concerns about automation, bias, and control
+- **Security and Privacy**: Balancing connectivity with protection from cyber threats and surveillance
+- **Governance**: Determining who makes decisions about internet standards and policies
+- **Infrastructure**: Deploying next-generation networks (6G and beyond) while maintaining backward compatibility
+- **Sustainability**: Reducing the environmental impact of massive data centres and network infrastructure
+- **Artificial Intelligence**: Integrating AI capabilities while addressing concerns about automation, bias, and control
 
 ### The Unfulfilled Vision
 
@@ -536,15 +507,11 @@ The internet represents one of humanity's most significant technological achieve
 
 Several lessons emerge from this history:
 
-**Collaboration trumps competition**: The internet succeeded because people shared ideas, published open specifications, and built on each other's work.
-
-**Long-term vision matters**: Licklider imagined networked computing in 1963, but the realization took decades. Patience and persistence were essential.
-
-**Simple, flexible designs scale better than complex, rigid ones**: TCP/IP succeeded where proprietary protocols failed because it was simple enough to implement widely and flexible enough to support unanticipated applications.
-
-**Open standards enable innovation**: Because TCP/IP specifications were public, thousands of organizations could build compatible systems, creating network effects that locked in the technology.
-
-**Unintended consequences shape technology**: Email wasn't planned; it emerged organically. The Web wasn't part of the original internet design. The most transformative applications often aren't foreseen by creators.
+- **Collaboration trumps competition**: The internet succeeded because people shared ideas, published open specifications, and built on each other's work.
+- **Long-term vision matters**: Licklider imagined networked computing in 1963, but the realization took decades. Patience and persistence were essential.
+- **Simple, flexible designs scale better than complex, rigid ones**: TCP/IP succeeded where proprietary protocols failed because it was simple enough to implement widely and flexible enough to support unanticipated applications.
+- **Open standards enable innovation**: Because TCP/IP specifications were public, thousands of organizations could build compatible systems, creating network effects that locked in the technology.
+- **Unintended consequences shape technology**: Email wasn't planned; it emerged organically. The Web wasn't part of the original internet design. The most transformative applications often aren't foreseen by creators.
 
 The internet that emerged from the Cold War defence project bears little resemblance to its origins. ARPANET was built to ensure military communications could survive nuclear war. Instead, it became a platform for commerce, entertainment, education, and human connection. In this transformation lies a profound truth: technologies, once released, take on lives of their own, shaped by users in ways creators never anticipated.
 
