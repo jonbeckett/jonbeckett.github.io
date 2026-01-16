@@ -240,43 +240,34 @@ Technical strategies alone aren't sufficient for managing the moving target prob
 
 Teams that successfully manage test automation in rapidly changing environments treat test maintenance as a first-class concern, not an afterthought. This manifests in several ways:
 
-**Definition of Done includes test updates**: Features aren't considered complete until tests are updated to reflect any requirement changes that occurred during development.
-
-**Shared ownership of tests**: While specialized testers may write complex test scenarios, developers share responsibility for maintaining the test suite. When a requirement change necessitates test updates, the developer implementing the change updates the tests.
-
-**Test health in retrospectives**: Sprint retrospectives include discussions of test suite health—flaky tests, maintenance burden, coverage gaps. Teams allocate time in upcoming sprints to address test quality issues.
-
-**Celebrating test improvements**: Just as teams celebrate shipping new features, they acknowledge work that improves test reliability or reduces maintenance burden. Refactoring brittle tests or implementing page objects might not be glamorous, but it's valuable.
+- **Definition of Done includes test updates**: Features aren't considered complete until tests are updated to reflect any requirement changes that occurred during development.
+- **Shared ownership of tests**: While specialized testers may write complex test scenarios, developers share responsibility for maintaining the test suite. When a requirement change necessitates test updates, the developer implementing the change updates the tests.
+- **Test health in retrospectives**: Sprint retrospectives include discussions of test suite health—flaky tests, maintenance burden, coverage gaps. Teams allocate time in upcoming sprints to address test quality issues.
+- **Celebrating test improvements**: Just as teams celebrate shipping new features, they acknowledge work that improves test reliability or reduces maintenance burden. Refactoring brittle tests or implementing page objects might not be glamorous, but it's valuable.
 
 ### Effective Change Communication
 
 The moving target problem is amplified when requirement changes are poorly communicated. Teams can mitigate this through:
 
-**Living documentation**: Maintaining up-to-date specifications (ideally as BDD scenarios) that reflect current understanding of requirements. When requirements change, specifications change first, and tests change to match.
-
-**Change impact analysis**: Before implementing a requirement change, teams assess its impact on existing tests. This impact estimate informs planning and helps allocate sufficient time for test maintenance.
-
-**Pairing and knowledge sharing**: When complex tests need updating due to requirement changes, having the original test author (if available) pair with the developer implementing the change reduces errors and knowledge transfer overhead.
+- **Living documentation**: Maintaining up-to-date specifications (ideally as BDD scenarios) that reflect current understanding of requirements. When requirements change, specifications change first, and tests change to match.
+- **Change impact analysis**: Before implementing a requirement change, teams assess its impact on existing tests. This impact estimate informs planning and helps allocate sufficient time for test maintenance.
+- **Pairing and knowledge sharing**: When complex tests need updating due to requirement changes, having the original test author (if available) pair with the developer implementing the change reduces errors and knowledge transfer overhead.
 
 ### Incremental Migration and Refactoring
 
 Large test suites with significant technical debt can seem overwhelming. Rather than attempting wholesale rewrites—which usually fail—successful teams adopt incremental improvement:
 
-**Test quarantine**: Flaky or obsolete tests are moved to a separate suite that doesn't block builds. This prevents them from creating noise while they await proper maintenance.
-
-**Boy Scout Rule**: Each time developers touch a test for any reason, they improve it slightly—adding better selectors, reducing flakiness, improving readability.
-
-**Targeted refactoring sprints**: Rather than trying to fix all tests at once, teams allocate specific sprints to addressing the worst offenders—the flakiest tests, the most brittle tests, the areas with highest change frequency.
+- **Test quarantine**: Flaky or obsolete tests are moved to a separate suite that doesn't block builds. This prevents them from creating noise while they await proper maintenance.
+- **Boy Scout Rule**: Each time developers touch a test for any reason, they improve it slightly—adding better selectors, reducing flakiness, improving readability.
+- **Targeted refactoring sprints**: Rather than trying to fix all tests at once, teams allocate specific sprints to addressing the worst offenders—the flakiest tests, the most brittle tests, the areas with highest change frequency.
 
 ### Stakeholder Alignment
 
 Finally, managing the moving target problem requires that non-technical stakeholders understand the relationship between requirement stability and test automation effectiveness. Product managers and business sponsors should understand:
 
-**Test automation has a cost**: Building and maintaining automated tests requires investment. Frequent requirement changes increase this investment significantly.
-
-**Stability enables velocity**: While the ability to change requirements quickly seems like it should increase velocity, the test maintenance burden it creates can actually slow teams down. There's an optimal balance.
-
-**Test coverage is a lagging indicator**: When requirements change frequently, test coverage naturally lags as teams update existing tests before creating new ones. This isn't a failure of the testing team; it's an inherent consequence of the moving target problem.
+- **Test automation has a cost**: Building and maintaining automated tests requires investment. Frequent requirement changes increase this investment significantly.
+- **Stability enables velocity**: While the ability to change requirements quickly seems like it should increase velocity, the test maintenance burden it creates can actually slow teams down. There's an optimal balance.
+- **Test coverage is a lagging indicator**: When requirements change frequently, test coverage naturally lags as teams update existing tests before creating new ones. This isn't a failure of the testing team; it's an inherent consequence of the moving target problem.
 
 This understanding helps align expectations and ensures that time spent on test maintenance is recognized as valuable work, not waste.
 
