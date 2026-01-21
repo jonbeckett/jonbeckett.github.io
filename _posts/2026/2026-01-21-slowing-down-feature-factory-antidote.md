@@ -3,6 +3,10 @@ title: "Slowing Down: The Antidote to the Feature Factory"
 date: 2026-01-21
 categories: [software-development, product-management, philosophy]
 tags: [37signals, basecamp, feature-creep, product-development, minimalism, rework, getting-real]
+header:
+  overlay_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  overlay_filter: "0.5"
+  caption: "Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com)"
 ---
 
 In an industry obsessed with velocity metrics, sprint burndowns, and shipping cadences, there's a radical idea that's often overlooked: **slowing down**. While most companies are racing to release feature upon feature, some of the most successful software products have been built by teams that deliberately chose to move more thoughtfully.
