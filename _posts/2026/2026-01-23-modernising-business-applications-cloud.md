@@ -37,15 +37,15 @@ Traditional business applications were typically built as monoliths—large, int
 
 But what started as strengths have become liabilities:
 
-**Technical Debt Accumulation:** Over years or decades, monolithic applications accrue layers of modifications, patches, and workarounds. The original architects have moved on, documentation lags behind reality, and seemingly simple changes ripple through interconnected components in unpredictable ways.
+- **Technical Debt Accumulation:** Over years or decades, monolithic applications accrue layers of modifications, patches, and workarounds. The original architects have moved on, documentation lags behind reality, and seemingly simple changes ripple through interconnected components in unpredictable ways.
 
-**Deployment Risk:** When everything is coupled together, every deployment puts the entire system at risk. A minor bug fix to the reporting module can crash the order processing system. This risk makes teams conservative, slowing the pace of improvement and innovation.
+- **Deployment Risk:** When everything is coupled together, every deployment puts the entire system at risk. A minor bug fix to the reporting module can crash the order processing system. This risk makes teams conservative, slowing the pace of improvement and innovation.
 
-**Scaling Limitations:** Monolithic applications scale vertically—by adding more resources to the server running them. But there's a ceiling to vertical scaling, and it's often reached long before demand peaks. When your invoicing and inventory systems must run on the same hardware, you can't scale them independently based on actual load.
+- **Scaling Limitations:** Monolithic applications scale vertically—by adding more resources to the server running them. But there's a ceiling to vertical scaling, and it's often reached long before demand peaks. When your invoicing and inventory systems must run on the same hardware, you can't scale them independently based on actual load.
 
-**Team Bottlenecks:** All developers work in the same codebase, creating coordination overhead and merge conflicts. Teams must carefully choreograph their work to avoid stepping on each other, and release cycles become negotiated affairs where everyone's changes must align.
+- **Team Bottlenecks:** All developers work in the same codebase, creating coordination overhead and merge conflicts. Teams must carefully choreograph their work to avoid stepping on each other, and release cycles become negotiated affairs where everyone's changes must align.
 
-**Technology Lock-in:** Monoliths entrench technology choices made years ago. The Java framework chosen in 2010 might be obsolete today, but rewriting the entire system is prohibitively expensive. Teams are stuck maintaining expertise in aging technologies rather than adopting modern tools better suited to current challenges.
+- **Technology Lock-in:** Monoliths entrench technology choices made years ago. The Java framework chosen in 2010 might be obsolete today, but rewriting the entire system is prohibitively expensive. Teams are stuck maintaining expertise in aging technologies rather than adopting modern tools better suited to current challenges.
 
 ### The Infrastructure Burden
 
@@ -108,29 +108,29 @@ Each service is independently deployable, scalable, and maintainable. Teams can 
 
 ### The Advantages of Decomposition
 
-**Independent Scalability:** The order service might need to scale during sales events whilst the notification service runs at constant capacity. Microservices allow each component to scale based on its actual demand.
+- **Independent Scalability:** The order service might need to scale during sales events whilst the notification service runs at constant capacity. Microservices allow each component to scale based on its actual demand.
 
-**Technology Diversity:** Different problems favour different technologies. The real-time inventory service might use an in-memory database for speed, whilst the order service uses a traditional relational database for transaction consistency, and the analytics service uses a columnar database optimised for complex queries.
+- **Technology Diversity:** Different problems favour different technologies. The real-time inventory service might use an in-memory database for speed, whilst the order service uses a traditional relational database for transaction consistency, and the analytics service uses a columnar database optimised for complex queries.
 
-**Fault Isolation:** When a single service fails, it doesn't bring down the entire system. The notification service experiencing issues doesn't prevent customers from placing orders—they simply won't receive immediate confirmation emails, which can be sent once the service recovers.
+- **Fault Isolation:** When a single service fails, it doesn't bring down the entire system. The notification service experiencing issues doesn't prevent customers from placing orders—they simply won't receive immediate confirmation emails, which can be sent once the service recovers.
 
-**Team Autonomy:** Small teams can own services end-to-end, making architectural decisions, choosing technologies, and deploying independently. This reduces coordination overhead and accelerates development velocity.
+- **Team Autonomy:** Small teams can own services end-to-end, making architectural decisions, choosing technologies, and deploying independently. This reduces coordination overhead and accelerates development velocity.
 
-**Incremental Modernisation:** Rather than rewriting the entire monolith, organisations can extract services incrementally. Start with a high-value, low-risk component—perhaps the notification system. Build it as a microservice, integrate it with the monolith, validate it in production, and learn from the experience before tackling more complex services.
+- **Incremental Modernisation:** Rather than rewriting the entire monolith, organisations can extract services incrementally. Start with a high-value, low-risk component—perhaps the notification system. Build it as a microservice, integrate it with the monolith, validate it in production, and learn from the experience before tackling more complex services.
 
 ### The Challenges of Distribution
 
 Microservices aren't a panacea. Distributing functionality across services introduces complexity that doesn't exist in monolithic applications:
 
-**Network Reliability:** When components communicate over networks, those communications can fail. Services must handle timeouts, retries, and partial failures gracefully. What was a simple function call in a monolith becomes a remote procedure call that might fail for reasons outside the application's control.
+- **Network Reliability:** When components communicate over networks, those communications can fail. Services must handle timeouts, retries, and partial failures gracefully. What was a simple function call in a monolith becomes a remote procedure call that might fail for reasons outside the application's control.
 
-**Data Consistency:** In a monolith, transactions can span multiple components using database transactions. In a microservices architecture, each service typically owns its data, and maintaining consistency across services requires distributed transaction patterns or eventual consistency models.
+- **Data Consistency:** In a monolith, transactions can span multiple components using database transactions. In a microservices architecture, each service typically owns its data, and maintaining consistency across services requires distributed transaction patterns or eventual consistency models.
 
-**Operational Complexity:** A monolith might involve deploying one application to a handful of servers. A microservices architecture might involve deploying dozens of services across hundreds of containers, each with its own configuration, dependencies, and monitoring requirements.
+- **Operational Complexity:** A monolith might involve deploying one application to a handful of servers. A microservices architecture might involve deploying dozens of services across hundreds of containers, each with its own configuration, dependencies, and monitoring requirements.
 
-**Debugging Challenges:** Tracing a request through a distributed system as it flows across multiple services requires sophisticated monitoring and observability infrastructure. Understanding why an order failed might require correlating logs across a dozen services.
+- **Debugging Challenges:** Tracing a request through a distributed system as it flows across multiple services requires sophisticated monitoring and observability infrastructure. Understanding why an order failed might require correlating logs across a dozen services.
 
-**API Versioning:** Services communicate through APIs, and those APIs must evolve without breaking existing clients. Managing API versions, ensuring backwards compatibility, and coordinating deployments across services require careful planning.
+- **API Versioning:** Services communicate through APIs, and those APIs must evolve without breaking existing clients. Managing API versions, ensuring backwards compatibility, and coordinating deployments across services require careful planning.
 
 ---
 
@@ -140,27 +140,27 @@ Microservices aren't a panacea. Distributing functionality across services intro
 
 Successful modernisation begins with understanding what you have and what you need:
 
-**Application Portfolio Analysis:** Catalogue existing applications, their business criticality, technical debt levels, and integration dependencies. Not every application should be migrated—some might be better retired or replaced with commercial solutions.
+- **Application Portfolio Analysis:** Catalogue existing applications, their business criticality, technical debt levels, and integration dependencies. Not every application should be migrated—some might be better retired or replaced with commercial solutions.
 
-**Business Value Mapping:** Identify which applications directly support revenue generation, customer experience, or competitive differentiation. These are candidates for early modernisation to maximise business impact.
+- **Business Value Mapping:** Identify which applications directly support revenue generation, customer experience, or competitive differentiation. These are candidates for early modernisation to maximise business impact.
 
-**Technical Assessment:** Evaluate each application's architecture, technology stack, and dependencies. Applications already somewhat modular are easier to decompose than those with tightly coupled components.
+- **Technical Assessment:** Evaluate each application's architecture, technology stack, and dependencies. Applications already somewhat modular are easier to decompose than those with tightly coupled components.
 
-**Risk Evaluation:** Consider regulatory requirements, data sovereignty constraints, and availability expectations. Some workloads might have requirements that make cloud migration challenging or require hybrid approaches.
+- **Risk Evaluation:** Consider regulatory requirements, data sovereignty constraints, and availability expectations. Some workloads might have requirements that make cloud migration challenging or require hybrid approaches.
 
 ### Migration Patterns
 
 Several established patterns guide application modernisation:
 
-**Rehost (Lift and Shift):** Move applications to the cloud with minimal changes. This provides infrastructure benefits—reduced data centre costs, improved disaster recovery—without application re-architecture. It's the fastest approach but captures the least cloud value.
+- **Rehost (Lift and Shift):** Move applications to the cloud with minimal changes. This provides infrastructure benefits—reduced data centre costs, improved disaster recovery—without application re-architecture. It's the fastest approach but captures the least cloud value.
 
-**Replatform (Lift and Reshape):** Make modest changes to leverage cloud capabilities without fundamental re-architecture. Perhaps migrate from a self-managed database to a cloud provider's managed database service, or containerise the application for easier deployment.
+- **Replatform (Lift and Reshape):** Make modest changes to leverage cloud capabilities without fundamental re-architecture. Perhaps migrate from a self-managed database to a cloud provider's managed database service, or containerise the application for easier deployment.
 
-**Refactor (Re-architect):** Redesign the application to leverage cloud-native capabilities. This might involve decomposing a monolith into microservices, adopting serverless computing for event-driven workflows, or re-engineering for horizontal scalability.
+- **Refactor (Re-architect):** Redesign the application to leverage cloud-native capabilities. This might involve decomposing a monolith into microservices, adopting serverless computing for event-driven workflows, or re-engineering for horizontal scalability.
 
-**Replace (Retire and Replace):** Sometimes the best modernisation strategy is to replace a custom application with a commercial SaaS offering. If the application provides standard functionality that doesn't differentiate your business, buying rather than building often makes sense.
+- **Replace (Retire and Replace):** Sometimes the best modernisation strategy is to replace a custom application with a commercial SaaS offering. If the application provides standard functionality that doesn't differentiate your business, buying rather than building often makes sense.
 
-**Retain (Leave On-Premises):** Some applications might not justify migration costs, or might have technical or regulatory constraints that make cloud deployment impractical. Consciously choosing to retain certain systems is a valid strategy.
+- **Retain (Leave On-Premises):** Some applications might not justify migration costs, or might have technical or regulatory constraints that make cloud deployment impractical. Consciously choosing to retain certain systems is a valid strategy.
 
 ### The Strangler Fig Pattern
 
@@ -179,15 +179,15 @@ This incremental approach manages risk whilst delivering value continuously. Eac
 
 Building for cloud environments requires embracing certain design principles:
 
-**Statelessness:** Services should avoid storing session state locally, instead using external state stores like Redis or cloud-native session services. This allows instances to be created and destroyed freely without losing user state.
+- **Statelessness:** Services should avoid storing session state locally, instead using external state stores like Redis or cloud-native session services. This allows instances to be created and destroyed freely without losing user state.
 
-**Configuration Externalisation:** Application configuration should be injected from the environment rather than baked into deployable artefacts. This allows the same build to be deployed across development, staging, and production environments with appropriate configuration for each.
+- **Configuration Externalisation:** Application configuration should be injected from the environment rather than baked into deployable artefacts. This allows the same build to be deployed across development, staging, and production environments with appropriate configuration for each.
 
-**Health Checks and Graceful Shutdown:** Services should expose health check endpoints that orchestration platforms can use to determine if instances are functioning correctly. When shutting down, services should finish processing in-flight requests rather than abruptly terminating.
+- **Health Checks and Graceful Shutdown:** Services should expose health check endpoints that orchestration platforms can use to determine if instances are functioning correctly. When shutting down, services should finish processing in-flight requests rather than abruptly terminating.
 
-**Distributed Tracing:** Instrument services to propagate trace contexts across service boundaries, allowing requests to be tracked as they flow through the distributed system. This is essential for debugging and performance optimisation.
+- **Distributed Tracing:** Instrument services to propagate trace contexts across service boundaries, allowing requests to be tracked as they flow through the distributed system. This is essential for debugging and performance optimisation.
 
-**Circuit Breakers:** When a service dependency fails, circuit breakers prevent cascading failures by quickly failing requests rather than waiting for timeouts. This preserves system stability when components experience problems.
+- **Circuit Breakers:** When a service dependency fails, circuit breakers prevent cascading failures by quickly failing requests rather than waiting for timeouts. This preserves system stability when components experience problems.
 
 ---
 
@@ -197,45 +197,45 @@ Building for cloud environments requires embracing certain design principles:
 
 Perhaps the most significant advantage of cloud modernisation isn't technical—it's organisational. When teams can deploy independently, experiment freely, and scale elastically, the pace of innovation accelerates dramatically.
 
-**Hypothesis-Driven Development:** With cloud infrastructure, organisations can afford to test ideas quickly. Launch a new feature to a small percentage of users, measure its impact, and decide whether to expand or discontinue based on data rather than opinions.
+- **Hypothesis-Driven Development:** With cloud infrastructure, organisations can afford to test ideas quickly. Launch a new feature to a small percentage of users, measure its impact, and decide whether to expand or discontinue based on data rather than opinions.
 
-**Rapid Iteration:** When deployment cycles shrink from months to days, feedback loops tighten. Teams learn what works faster, adjust course more quickly, and compound their learning over time.
+- **Rapid Iteration:** When deployment cycles shrink from months to days, feedback loops tighten. Teams learn what works faster, adjust course more quickly, and compound their learning over time.
 
-**Product Experimentation:** Cloud infrastructure makes A/B testing and multivariate testing economically feasible. Deploy multiple variants of a feature, measure their relative performance, and adopt the approach that delivers the best business outcomes.
+- **Product Experimentation:** Cloud infrastructure makes A/B testing and multivariate testing economically feasible. Deploy multiple variants of a feature, measure their relative performance, and adopt the approach that delivers the best business outcomes.
 
 ### Cost Optimisation
 
 Whilst cloud migration sometimes increases infrastructure costs in the short term, well-architected cloud systems typically reduce total cost of ownership:
 
-**Resource Right-Sizing:** Cloud platforms provide visibility into actual resource utilisation, allowing teams to match instance sizes to workload requirements rather than over-provisioning for peak capacity.
+- **Resource Right-Sizing:** Cloud platforms provide visibility into actual resource utilisation, allowing teams to match instance sizes to workload requirements rather than over-provisioning for peak capacity.
 
-**Auto-Scaling:** Automatically scaling resources up during demand peaks and down during quiet periods significantly reduces waste compared to provisioning for maximum capacity continuously.
+- **Auto-Scaling:** Automatically scaling resources up during demand peaks and down during quiet periods significantly reduces waste compared to provisioning for maximum capacity continuously.
 
-**Reserved and Spot Instances:** For predictable workloads, reserved instances offer significant discounts over on-demand pricing. For fault-tolerant workloads, spot instances provide even greater savings by using cloud providers' excess capacity.
+- **Reserved and Spot Instances:** For predictable workloads, reserved instances offer significant discounts over on-demand pricing. For fault-tolerant workloads, spot instances provide even greater savings by using cloud providers' excess capacity.
 
-**Reduced Maintenance Overhead:** Managed services eliminate the need for teams to patch databases, upgrade operating systems, or maintain infrastructure, reducing operational headcount requirements.
+- **Reduced Maintenance Overhead:** Managed services eliminate the need for teams to patch databases, upgrade operating systems, or maintain infrastructure, reducing operational headcount requirements.
 
 ### Improved Resilience
 
 Cloud infrastructure provides resilience capabilities that are prohibitively expensive to build on-premises:
 
-**Multi-Region Deployment:** Applications can be deployed across geographic regions, ensuring that a failure in one location doesn't impact users globally. Traffic automatically routes to healthy regions when problems occur.
+- **Multi-Region Deployment:** Applications can be deployed across geographic regions, ensuring that a failure in one location doesn't impact users globally. Traffic automatically routes to healthy regions when problems occur.
 
-**Automated Failover:** Cloud platforms can detect failures and automatically redirect traffic to healthy instances, often recovering from infrastructure failures faster than human operators could respond.
+- **Automated Failover:** Cloud platforms can detect failures and automatically redirect traffic to healthy instances, often recovering from infrastructure failures faster than human operators could respond.
 
-**Disaster Recovery:** Cloud storage replication provides durable backups without maintaining secondary data centres. Infrastructure-as-code allows environments to be recreated quickly if disaster strikes.
+- **Disaster Recovery:** Cloud storage replication provides durable backups without maintaining secondary data centres. Infrastructure-as-code allows environments to be recreated quickly if disaster strikes.
 
 ### Enhanced Security
 
 Whilst cloud security requires careful implementation, cloud platforms provide security capabilities that strengthen overall posture:
 
-**Managed Security Services:** Cloud providers offer DDoS protection, web application firewalls, intrusion detection, and encryption services that would be expensive to implement independently.
+- **Managed Security Services:** Cloud providers offer DDoS protection, web application firewalls, intrusion detection, and encryption services that would be expensive to implement independently.
 
-**Automated Patching:** Managed services receive security patches automatically, reducing the window of vulnerability when exploits are discovered.
+- **Automated Patching:** Managed services receive security patches automatically, reducing the window of vulnerability when exploits are discovered.
 
-**Compliance Certifications:** Major cloud providers maintain certifications for various regulatory frameworks (HIPAA, PCI DSS, SOC 2), simplifying compliance for organisations using their services.
+- **Compliance Certifications:** Major cloud providers maintain certifications for various regulatory frameworks (HIPAA, PCI DSS, SOC 2), simplifying compliance for organisations using their services.
 
-**Identity and Access Management:** Sophisticated access control systems allow fine-grained permissions, multi-factor authentication, and audit trails for all system access.
+- **Identity and Access Management:** Sophisticated access control systems allow fine-grained permissions, multi-factor authentication, and audit trails for all system access.
 
 ---
 
