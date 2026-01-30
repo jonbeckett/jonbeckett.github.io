@@ -70,6 +70,20 @@ bundle exec jekyll build
 - **Tags**: Granular content organization for easy discovery
 - **About**: Author information and blog purpose
 
+## Documentation
+
+For comprehensive documentation about this project, see the **[wiki directory](wiki/)** which includes:
+
+- **[Getting Started](wiki/Getting-Started.md)** - Quick setup guide
+- **[Technical Architecture](wiki/Technical-Architecture.md)** - Detailed system overview
+- **[Content Guidelines](wiki/Content-Guidelines.md)** - Writing standards
+- **[Contributing](wiki/Contributing.md)** - How to contribute
+- **[Development Setup](wiki/Development-Setup.md)** - Advanced configuration
+- **[Deployment](wiki/Deployment.md)** - Deployment process
+- **[FAQ](wiki/FAQ.md)** - Frequently asked questions
+
+To populate the GitHub wiki, see **[Wiki Setup Guide](wiki/WIKI_SETUP_GUIDE.md)**.
+
 ---
 
 *This site represents ongoing thoughts and learnings in the world of software development and technology. All opinions are personal and subject to evolution as understanding deepens.*
