@@ -14,6 +14,18 @@ When not debugging "temporary" fixes from years past, Jonathan writes about soft
 
 Visit https://jonbeckett.com to read the blog in it's native habitat.
 
+## Technical Documentation
+
+For comprehensive technical details, see the [docs](docs/) directory which contains:
+
+- **[Technical Architecture Summary](docs/technical-architecture-summary.md)** - Complete system overview
+- **[Technology Stack](docs/technology-stack.md)** - Detailed breakdown of all technologies used
+- **[Local Development](docs/local-development.md)** - Developer setup and workflow guide
+- **[Content Creation](docs/content-creation.md)** - Writing posts and managing content
+- **[GitHub Pages Hosting](docs/github-pages-hosting.md)** - Hosting and deployment details
+- **[Jekyll Configuration](docs/jekyll-configuration.md)** - Jekyll and theme configuration
+- **[Dependencies Management](docs/dependencies-management.md)** - Ruby gems and dependency handling
+
 ## Technical Architecture
 
 This blog is built using modern static site generation and deployment practices:
@@ -69,20 +81,6 @@ bundle exec jekyll build
 - **Categories**: Organized by topic (Software Development, Productivity, etc.)
 - **Tags**: Granular content organization for easy discovery
 - **About**: Author information and blog purpose
-
-## Documentation
-
-For comprehensive documentation about this project, see the **[wiki directory](wiki/)** which includes:
-
-- **[Getting Started](wiki/Getting-Started.md)** - Quick setup guide
-- **[Technical Architecture](wiki/Technical-Architecture.md)** - Detailed system overview
-- **[Content Guidelines](wiki/Content-Guidelines.md)** - Writing standards
-- **[Contributing](wiki/Contributing.md)** - How to contribute
-- **[Development Setup](wiki/Development-Setup.md)** - Advanced configuration
-- **[Deployment](wiki/Deployment.md)** - Deployment process
-- **[FAQ](wiki/FAQ.md)** - Frequently asked questions
-
-To populate the GitHub wiki, see **[Wiki Setup Guide](wiki/WIKI_SETUP_GUIDE.md)**.
 
 ---
 
