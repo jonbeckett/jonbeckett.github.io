@@ -24,7 +24,7 @@ Shows: Home > Year > Post Title (simplified structure)
         {% for category in page.categories limit:1 %}
           {% comment %} Show year from category (assuming first category is the year) {% endcomment %}
           <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a href="{{ '/categories/' | append: category | append: '/' | relative_url }}" itemprop="item"><span itemprop="name">{{ category }}</span></a>
+            <a href="{{ '/categories/#' | append: category | relative_url }}" itemprop="item"><span itemprop="name">{{ category }}</span></a>
             <meta itemprop="position" content="2" />
           </li>
           <span class="sep">{{ separator }}</span>
