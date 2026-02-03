@@ -206,7 +206,7 @@ This architectural choice was philosophically and technically motivated. Microke
 
 But microkernels proved extraordinarily difficult to implement well. The HURD project, begun in 1990, struggled with complexity. Inter-process communication overhead created performance problems—every interaction between services required expensive context switches and message passing. The Mach microkernel they initially used had its own issues, including bloat and performance penalties that contradicted Unix's minimalist philosophy. Progress was slow, delayed by both technical challenges and the small number of developers willing to tackle such ambitious low-level work.
 
-By 1991, after eight years of development, the GNU project had created an impressive suite of tools but still lacked a working kernel. The movement needed something to make the vision real, to demonstrate that a completely free operating system was possible.
+By 1991, the GNU project—after eight years since Stallman's initial announcement—had created an impressive suite of tools but still lacked a working kernel. The HURD was in early development but far from ready. The movement needed something to make the vision real, to demonstrate that a completely free operating system was possible.
 
 That something would come from an unexpected source—not from MIT or the FSF, but from a 21-year-old student in Finland.
 
