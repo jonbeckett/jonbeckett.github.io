@@ -1,3 +1,8 @@
+---
+name: Image Management
+description: Unsplash image integration including photo ID extraction, URL construction with proper dimensions, photographer attribution, and header configuration
+---
+
 # Image Management and Unsplash Integration
 
 This skill handles all aspects of selecting, configuring, and attributing images from Unsplash for blog posts.

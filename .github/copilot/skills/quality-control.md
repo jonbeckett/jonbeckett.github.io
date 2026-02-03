@@ -1,3 +1,8 @@
+---
+name: Quality Control
+description: Quality standards, publishing checklists, common mistakes to avoid, and best practices for ensuring consistent high-quality blog content
+---
+
 # Quality Control and Common Mistakes
 
 This skill defines quality standards, common pitfalls, and best practices to ensure consistent, high-quality blog content.

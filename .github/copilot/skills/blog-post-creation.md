@@ -1,3 +1,8 @@
+---
+name: Blog Post Creation
+description: Complete creation of new blog posts for jonbeckett.com, including file naming conventions, front matter templates, and initial structure setup
+---
+
 # Blog Post Creation Skill
 
 This skill handles the complete creation of new blog posts for jonbeckett.com, including file naming, front matter, and initial structure.

@@ -1,3 +1,8 @@
+---
+name: Writing Style Guidelines
+description: Voice, tone, structure, and content standards for jonbeckett.com blog posts including narrative style, technical depth requirements, and content organization
+---
+
 # Writing Style and Content Guidelines
 
 This skill defines the voice, tone, structure, and content standards for jonbeckett.com blog posts.

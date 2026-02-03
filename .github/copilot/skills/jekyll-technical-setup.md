@@ -1,3 +1,8 @@
+---
+name: Jekyll Technical Setup
+description: Jekyll configuration, local development commands, GitHub Pages deployment, theme setup, and technical considerations for jonbeckett.com site
+---
+
 # Jekyll Configuration and Technical Setup
 
 This skill covers Jekyll configuration, local development, deployment, and technical considerations specific to the jonbeckett.com site.

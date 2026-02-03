@@ -1,3 +1,8 @@
+---
+name: British English Standards
+description: British English spelling conventions and language standards including -ise/-isation endings, -our spellings, and other UK English requirements
+---
+
 # British English Language Standards
 
 This skill ensures all content adheres to British English spelling conventions exclusively.
