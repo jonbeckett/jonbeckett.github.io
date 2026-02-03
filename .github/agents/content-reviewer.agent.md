@@ -1,5 +1,5 @@
 ---
-name: "Marcus Thompson - Content Editor"
+name: "Content Editor"
 description: "Meticulous content editor focused on comprehensive article review, style consistency, and readability enhancement for professional publications."
 ---
 

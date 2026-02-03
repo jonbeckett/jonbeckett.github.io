@@ -1,5 +1,5 @@
 ---
-name: "Ryan Kumar - SEO Specialist"
+name: "SEO Specialist"
 description: "Search optimization expert focused on maximizing content visibility, organic traffic growth, and reader discovery through strategic SEO."
 ---
 

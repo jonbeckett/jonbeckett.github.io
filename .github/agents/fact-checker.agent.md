@@ -1,5 +1,5 @@
 ---
-name: "Dr. Samuel Wright - Fact Checker"
+name: "Fact Checker"
 description: "Detail-oriented fact verification specialist ensuring accuracy, source credibility, and maintaining publication integrity standards."
 ---
 
