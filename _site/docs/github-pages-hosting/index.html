@@ -1,0 +1,411 @@
+
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js" dir="ltr">
+  <head>
+    
+<meta charset="utf-8">
+
+
+<!-- begin _includes/seo.html --><title>GitHub Pages Hosting - jonbeckett.com</title>
+<meta name="description" content="Software and Web Developer">
+
+
+  <meta name="author" content="Jonathan Beckett">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="jonbeckett.com">
+<meta property="og:title" content="GitHub Pages Hosting">
+<meta property="og:url" content="https://jonbeckett.com/docs/github-pages-hosting/">
+
+
+  <meta property="og:description" content="Software and Web Developer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://jonbeckett.com/docs/github-pages-hosting/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="jonbeckett.com Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <meta name="follow.it-verification-code" content="46JJqqLrzpNsmCFk3FRQ"/>
+<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+<link rel="shortcut icon" href="/assets/images/favicon.svg">
+  </head>
+
+  <body class="layout--default">
+    
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        
+        <a class="site-title" href="/">
+          jonbeckett.com
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/posts/"
+                
+                
+              >Posts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <h1 id="github-pages-hosting">GitHub Pages Hosting</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>The jonbeckett.com blog is hosted on <strong>GitHub Pages</strong>, GitHub’s free static site hosting service that provides automated Jekyll building, global CDN distribution, and seamless integration with Git-based workflows.</p>
+
+<h2 id="hosting-architecture">Hosting Architecture</h2>
+
+<h3 id="github-pages-infrastructure">GitHub Pages Infrastructure</h3>
+<ul>
+  <li><strong>Global CDN</strong>: Content delivered from edge locations worldwide</li>
+  <li><strong>Automatic SSL</strong>: HTTPS enforcement with Let’s Encrypt certificates</li>
+  <li><strong>Custom Domain</strong>: jonbeckett.com configured via CNAME file</li>
+  <li><strong>Build System</strong>: Automated Jekyll compilation on every push</li>
+</ul>
+
+<h3 id="repository-configuration">Repository Configuration</h3>
+<ul>
+  <li><strong>Repository</strong>: jonbeckett/jonbeckett.github.io</li>
+  <li><strong>Branch</strong>: main (default GitHub Pages branch)</li>
+  <li><strong>Build Source</strong>: Root directory of main branch</li>
+  <li><strong>Custom Domain</strong>: jonbeckett.com (via CNAME file)</li>
+</ul>
+
+<h2 id="domain-configuration">Domain Configuration</h2>
+
+<h3 id="custom-domain-setup">Custom Domain Setup</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># CNAME file content
+jonbeckett.com
+</code></pre></div></div>
+
+<h3 id="dns-configuration-required">DNS Configuration Required</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># DNS A Records (pointing to GitHub Pages IPs)
+jonbeckett.com → 185.199.108.153
+jonbeckett.com → 185.199.109.153
+jonbeckett.com → 185.199.110.153
+jonbeckett.com → 185.199.111.153
+
+# CNAME Record for www subdomain
+www.jonbeckett.com → jonbeckett.github.io
+</code></pre></div></div>
+
+<h3 id="https-configuration">HTTPS Configuration</h3>
+<ul>
+  <li><strong>SSL Certificate</strong>: Automatically provided by GitHub Pages</li>
+  <li><strong>HTTPS Enforcement</strong>: Enabled in repository settings</li>
+  <li><strong>HTTP Redirects</strong>: Automatic redirect from HTTP to HTTPS</li>
+</ul>
+
+<h2 id="deployment-process">Deployment Process</h2>
+
+<h3 id="automated-deployment">Automated Deployment</h3>
+<ol>
+  <li><strong>Code Push</strong>: Changes pushed to main branch</li>
+  <li><strong>Build Trigger</strong>: GitHub Pages detects changes automatically</li>
+  <li><strong>Jekyll Build</strong>: Site compiled using GitHub Pages Jekyll environment</li>
+  <li><strong>Content Deployment</strong>: Built site deployed to GitHub’s CDN</li>
+  <li><strong>Cache Invalidation</strong>: CDN caches updated globally</li>
+</ol>
+
+<h3 id="build-environment">Build Environment</h3>
+<ul>
+  <li><strong>Jekyll Version</strong>: Latest supported by github-pages gem</li>
+  <li><strong>Ruby Version</strong>: GitHub Pages default Ruby environment</li>
+  <li><strong>Build Time</strong>: Typically 30-60 seconds for full site rebuild</li>
+  <li><strong>Build Limits</strong>: 10 builds per hour, 100GB bandwidth per month</li>
+</ul>
+
+<h2 id="github-pages-limitations">GitHub Pages Limitations</h2>
+
+<h3 id="technical-constraints">Technical Constraints</h3>
+<ul>
+  <li><strong>Plugin Restrictions</strong>: Only whitelisted Jekyll plugins allowed</li>
+  <li><strong>Build Time Limit</strong>: 10 minutes maximum per build</li>
+  <li><strong>File Size Limit</strong>: 100MB maximum per file</li>
+  <li><strong>Repository Size</strong>: 1GB soft limit, 5GB hard limit</li>
+</ul>
+
+<h3 id="supported-jekyll-plugins">Supported Jekyll Plugins</h3>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># GitHub Pages whitelisted plugins</span>
+<span class="na">plugins</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">jekyll-paginate</span>
+  <span class="pi">-</span> <span class="s">jekyll-sitemap</span>
+  <span class="pi">-</span> <span class="s">jekyll-gist</span>
+  <span class="pi">-</span> <span class="s">jekyll-feed</span>
+  <span class="pi">-</span> <span class="s">jekyll-include-cache</span>
+  <span class="pi">-</span> <span class="s">jekyll-archives</span>
+</code></pre></div></div>
+
+<h2 id="performance--availability">Performance &amp; Availability</h2>
+
+<h3 id="global-cdn-performance">Global CDN Performance</h3>
+<ul>
+  <li><strong>Edge Locations</strong>: 200+ locations worldwide</li>
+  <li><strong>Response Time</strong>: Sub-100ms from nearest edge</li>
+  <li><strong>Uptime SLA</strong>: 99.9% availability target</li>
+  <li><strong>Bandwidth</strong>: Unlimited (fair use policy)</li>
+</ul>
+
+<h3 id="caching-strategy">Caching Strategy</h3>
+<ul>
+  <li><strong>Static Assets</strong>: Long-term caching (1 year)</li>
+  <li><strong>HTML Content</strong>: Short-term caching (5 minutes)</li>
+  <li><strong>DNS TTL</strong>: 24 hours for A records</li>
+  <li><strong>CDN Purge</strong>: Automatic on content updates</li>
+</ul>
+
+<h2 id="monitoring--analytics">Monitoring &amp; Analytics</h2>
+
+<h3 id="github-pages-status">GitHub Pages Status</h3>
+<ul>
+  <li><strong>Build Status</strong>: Visible in repository Actions tab</li>
+  <li><strong>Deploy History</strong>: Complete deployment log available</li>
+  <li><strong>Error Reporting</strong>: Build failures reported via email/GitHub notifications</li>
+</ul>
+
+<h3 id="traffic-analytics">Traffic Analytics</h3>
+<ul>
+  <li><strong>Google Analytics</strong>: Integrated for visitor tracking</li>
+  <li><strong>GitHub Insights</strong>: Repository traffic and clone statistics</li>
+  <li><strong>Performance Monitoring</strong>: Core Web Vitals via Google Search Console</li>
+</ul>
+
+<h2 id="security-features">Security Features</h2>
+
+<h3 id="github-pages-security">GitHub Pages Security</h3>
+<ul>
+  <li><strong>DDoS Protection</strong>: Automatic mitigation at CDN level</li>
+  <li><strong>SSL/TLS</strong>: Modern encryption protocols (TLS 1.2+)</li>
+  <li><strong>Security Headers</strong>: Basic security headers included</li>
+  <li><strong>HSTS</strong>: HTTP Strict Transport Security enabled</li>
+</ul>
+
+<h3 id="content-security">Content Security</h3>
+<ul>
+  <li><strong>Safe Mode</strong>: Jekyll runs in safe mode (no arbitrary code execution)</li>
+  <li><strong>Dependency Scanning</strong>: GitHub Dependabot for security updates</li>
+  <li><strong>Branch Protection</strong>: Optional branch protection rules</li>
+</ul>
+
+<h2 id="backup--recovery">Backup &amp; Recovery</h2>
+
+<h3 id="version-control-backup">Version Control Backup</h3>
+<ul>
+  <li><strong>Git History</strong>: Complete change history preserved</li>
+  <li><strong>Repository Cloning</strong>: Full backup via git clone</li>
+  <li><strong>GitHub Archive</strong>: Repository download via GitHub interface</li>
+</ul>
+
+<h3 id="content-recovery">Content Recovery</h3>
+<ul>
+  <li><strong>Commit History</strong>: Point-in-time recovery via Git</li>
+  <li><strong>Build Artifacts</strong>: Previous builds accessible via Pages history</li>
+  <li><strong>External Backups</strong>: Automated backups to external services possible</li>
+</ul>
+
+<h2 id="cost-structure">Cost Structure</h2>
+
+<h3 id="github-pages-pricing">GitHub Pages Pricing</h3>
+<ul>
+  <li><strong>Public Repositories</strong>: Free hosting with unlimited bandwidth</li>
+  <li><strong>Custom Domains</strong>: Free SSL certificates included</li>
+  <li><strong>Build Minutes</strong>: Unlimited for public repositories</li>
+  <li><strong>Storage</strong>: 1GB included, additional storage available</li>
+</ul>
+
+<h3 id="third-party-costs">Third-Party Costs</h3>
+<ul>
+  <li><strong>Domain Registration</strong>: Annual domain renewal fees</li>
+  <li><strong>External Analytics</strong>: Google Analytics (free tier)</li>
+  <li><strong>Monitoring Services</strong>: Optional third-party monitoring</li>
+</ul>
+
+<h2 id="migration-considerations">Migration Considerations</h2>
+
+<h3 id="moving-from-github-pages">Moving From GitHub Pages</h3>
+<ul>
+  <li><strong>Static Export</strong>: Site can be built locally and deployed elsewhere</li>
+  <li><strong>Domain Transfer</strong>: DNS changes required for new hosting</li>
+  <li><strong>SSL Certificates</strong>: New certificates needed for alternative hosting</li>
+  <li><strong>Build Process</strong>: May require custom CI/CD pipeline</li>
+</ul>
+
+<h3 id="alternative-hosting-options">Alternative Hosting Options</h3>
+<ul>
+  <li><strong>Netlify</strong>: Enhanced features and build customization</li>
+  <li><strong>Vercel</strong>: Performance optimization and edge functions</li>
+  <li><strong>Cloudflare Pages</strong>: Advanced security and edge computing</li>
+  <li><strong>Self-Hosted</strong>: Complete control with manual management</li>
+</ul>
+
+<hr />
+
+<p><strong>Hosting Configuration</strong>: GitHub Pages with Custom Domain<br />
+<strong>Primary Domain</strong>: jonbeckett.com<br />
+<strong>Repository</strong>: jonbeckett/jonbeckett.github.io<br />
+<strong>SSL Certificate</strong>: GitHub Pages automatic SSL<br />
+<strong>CDN</strong>: GitHub’s global content delivery network</p>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="mailto:jonathan.beckett@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://linkedin.com/in/jonathanbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://github.com/jonbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://bsky.app/profile/jonbeckett.bsky.social" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> BlueSky</a></li>
+        
+      
+        
+          <li><a href="/disclaimer/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-info-circle" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2026 <a href="https://jonbeckett.com">jonbeckett.com</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,595 @@
+
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js" dir="ltr">
+  <head>
+    
+<meta charset="utf-8">
+
+
+<!-- begin _includes/seo.html --><title>Dependencies Management - jonbeckett.com</title>
+<meta name="description" content="Software and Web Developer">
+
+
+  <meta name="author" content="Jonathan Beckett">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="jonbeckett.com">
+<meta property="og:title" content="Dependencies Management">
+<meta property="og:url" content="https://jonbeckett.com/docs/dependencies-management/">
+
+
+  <meta property="og:description" content="Software and Web Developer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://jonbeckett.com/docs/dependencies-management/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="jonbeckett.com Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <meta name="follow.it-verification-code" content="46JJqqLrzpNsmCFk3FRQ"/>
+<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+<link rel="shortcut icon" href="/assets/images/favicon.svg">
+  </head>
+
+  <body class="layout--default">
+    
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        
+        <a class="site-title" href="/">
+          jonbeckett.com
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/posts/"
+                
+                
+              >Posts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <h1 id="dependencies-management">Dependencies Management</h1>
+
+<h2 id="ruby-gems-overview">Ruby Gems Overview</h2>
+
+<p>The blog’s dependencies are managed through <strong>Bundler</strong> and defined in the <code class="language-plaintext highlighter-rouge">Gemfile</code>. This ensures consistent gem versions across development and production environments.</p>
+
+<h2 id="gemfile-structure">Gemfile Structure</h2>
+
+<h3 id="primary-dependencies">Primary Dependencies</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">source</span> <span class="s2">"https://rubygems.org"</span>
+
+<span class="c1"># GitHub Pages gem includes Jekyll and compatible plugins</span>
+<span class="n">gem</span> <span class="s2">"github-pages"</span><span class="p">,</span> <span class="ss">group: :jekyll_plugins</span>
+
+<span class="c1"># Additional Jekyll plugins</span>
+<span class="n">group</span> <span class="ss">:jekyll_plugins</span> <span class="k">do</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-feed"</span><span class="p">,</span> <span class="s2">"~&gt; 0.12"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h3 id="platform-specific-dependencies">Platform-Specific Dependencies</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Windows and JRuby timezone support</span>
+<span class="n">platforms</span> <span class="ss">:mingw</span><span class="p">,</span> <span class="ss">:x64_mingw</span><span class="p">,</span> <span class="ss">:mswin</span><span class="p">,</span> <span class="ss">:jruby</span> <span class="k">do</span>
+  <span class="n">gem</span> <span class="s2">"tzinfo"</span><span class="p">,</span> <span class="s2">"&gt;= 1"</span><span class="p">,</span> <span class="s2">"&lt; 3"</span>
+  <span class="n">gem</span> <span class="s2">"tzinfo-data"</span>
+<span class="k">end</span>
+
+<span class="c1"># Windows file watching performance</span>
+<span class="n">gem</span> <span class="s2">"wdm"</span><span class="p">,</span> <span class="s2">"~&gt; 0.1"</span><span class="p">,</span> <span class="ss">:platforms</span> <span class="o">=&gt;</span> <span class="p">[</span><span class="ss">:mingw</span><span class="p">,</span> <span class="ss">:x64_mingw</span><span class="p">,</span> <span class="ss">:mswin</span><span class="p">]</span>
+
+<span class="c1"># JRuby HTTP parser compatibility</span>
+<span class="n">gem</span> <span class="s2">"http_parser.rb"</span><span class="p">,</span> <span class="s2">"~&gt; 0.6.0"</span><span class="p">,</span> <span class="ss">:platforms</span> <span class="o">=&gt;</span> <span class="p">[</span><span class="ss">:jruby</span><span class="p">]</span>
+</code></pre></div></div>
+
+<h2 id="github-pages-gem">GitHub Pages Gem</h2>
+
+<h3 id="whats-included">What’s Included</h3>
+<p>The <code class="language-plaintext highlighter-rouge">github-pages</code> gem is a meta-gem that includes:</p>
+<ul>
+  <li><strong>Jekyll</strong>: Static site generator</li>
+  <li><strong>Jekyll plugins</strong>: GitHub Pages whitelisted plugins</li>
+  <li><strong>Dependencies</strong>: All required supporting gems</li>
+  <li><strong>Version matching</strong>: Exactly matches GitHub Pages environment</li>
+</ul>
+
+<h3 id="included-plugins">Included Plugins</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Automatically included with github-pages gem:</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">coffeescript</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">commonmark</span><span class="o">-</span><span class="n">ghpages</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">default</span><span class="o">-</span><span class="n">layout</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">gist</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">github</span><span class="o">-</span><span class="n">metadata</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">optional</span><span class="o">-</span><span class="n">front</span><span class="o">-</span><span class="n">matter</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">paginate</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">readme</span><span class="o">-</span><span class="n">index</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">redirect</span><span class="o">-</span><span class="n">from</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">relative</span><span class="o">-</span><span class="n">links</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">remote</span><span class="o">-</span><span class="n">theme</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">sass</span><span class="o">-</span><span class="n">converter</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">seo</span><span class="o">-</span><span class="n">tag</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">sitemap</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">swiss</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">architect</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">cayman</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">dinky</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">hacker</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">leap</span><span class="o">-</span><span class="n">day</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">merlot</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">midnight</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">minimal</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">modernist</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">primer</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">slate</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">tactile</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">theme</span><span class="o">-</span><span class="n">time</span><span class="o">-</span><span class="n">machine</span>
+<span class="o">-</span> <span class="n">jekyll</span><span class="o">-</span><span class="n">titles</span><span class="o">-</span><span class="n">from</span><span class="o">-</span><span class="n">headings</span>
+<span class="o">-</span> <span class="n">jemoji</span>
+<span class="o">-</span> <span class="n">kramdown</span><span class="o">-</span><span class="n">parser</span><span class="o">-</span><span class="n">gfm</span>
+<span class="o">-</span> <span class="n">liquid</span>
+<span class="o">-</span> <span class="n">mercenary</span>
+<span class="o">-</span> <span class="n">minima</span>
+<span class="o">-</span> <span class="n">nokogiri</span>
+<span class="o">-</span> <span class="n">rouge</span>
+<span class="o">-</span> <span class="n">ruby</span>
+<span class="o">-</span> <span class="n">safe_yaml</span>
+</code></pre></div></div>
+
+<h2 id="dependency-management-commands">Dependency Management Commands</h2>
+
+<h3 id="install-dependencies">Install Dependencies</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Install all gems from Gemfile</span>
+bundle <span class="nb">install</span>
+
+<span class="c"># Install without production dependencies (if applicable)</span>
+bundle <span class="nb">install</span> <span class="nt">--without</span> production
+
+<span class="c"># Install to specific path</span>
+bundle <span class="nb">install</span> <span class="nt">--path</span> vendor/bundle
+</code></pre></div></div>
+
+<h3 id="update-dependencies">Update Dependencies</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Update all gems to latest compatible versions</span>
+bundle update
+
+<span class="c"># Update specific gem</span>
+bundle update jekyll-feed
+
+<span class="c"># Update github-pages gem</span>
+bundle update github-pages
+
+<span class="c"># Show outdated gems</span>
+bundle outdated
+</code></pre></div></div>
+
+<h3 id="version-management">Version Management</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Show current gem versions</span>
+bundle list
+
+<span class="c"># Show dependency tree</span>
+bundle viz
+
+<span class="c"># Check for security issues</span>
+bundle audit
+
+<span class="c"># Clean unused gems</span>
+bundle clean
+</code></pre></div></div>
+
+<h2 id="version-constraints">Version Constraints</h2>
+
+<h3 id="github-pages-compatibility">GitHub Pages Compatibility</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Use exact versions to match GitHub Pages</span>
+<span class="n">gem</span> <span class="s2">"github-pages"</span><span class="p">,</span> <span class="s2">"~&gt; 228"</span><span class="p">,</span> <span class="ss">group: :jekyll_plugins</span>
+
+<span class="c1"># Or use latest version (automatic updates)</span>
+<span class="n">gem</span> <span class="s2">"github-pages"</span><span class="p">,</span> <span class="ss">group: :jekyll_plugins</span>
+</code></pre></div></div>
+
+<h3 id="plugin-version-constraints">Plugin Version Constraints</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Specific version</span>
+<span class="n">gem</span> <span class="s2">"jekyll-feed"</span><span class="p">,</span> <span class="s2">"0.15.1"</span>
+
+<span class="c1"># Compatible version range</span>
+<span class="n">gem</span> <span class="s2">"jekyll-feed"</span><span class="p">,</span> <span class="s2">"~&gt; 0.12"</span>
+
+<span class="c1"># Minimum version</span>
+<span class="n">gem</span> <span class="s2">"jekyll-feed"</span><span class="p">,</span> <span class="s2">"&gt;= 0.12"</span>
+</code></pre></div></div>
+
+<h2 id="lock-file-management">Lock File Management</h2>
+
+<h3 id="gemfilelock-purpose">Gemfile.lock Purpose</h3>
+<ul>
+  <li><strong>Exact Versions</strong>: Records exact gem versions used</li>
+  <li><strong>Reproducible Builds</strong>: Ensures consistent dependencies</li>
+  <li><strong>Nested Dependencies</strong>: Tracks all transitive dependencies</li>
+  <li><strong>Platform Specific</strong>: Different locks for different platforms</li>
+</ul>
+
+<h3 id="lock-file-operations">Lock File Operations</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Generate new lock file</span>
+bundle <span class="nb">install</span>
+
+<span class="c"># Update lock file</span>
+bundle update
+
+<span class="c"># Remove lock file (regenerates on next install)</span>
+<span class="nb">rm </span>Gemfile.lock
+bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<h3 id="version-control">Version Control</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Commit lock file for reproducible builds</span>
+git add Gemfile.lock
+git commit <span class="nt">-m</span> <span class="s2">"Update dependencies"</span>
+
+<span class="c"># Or ignore lock file for flexible versions (not recommended)</span>
+<span class="nb">echo</span> <span class="s2">"Gemfile.lock"</span> <span class="o">&gt;&gt;</span> .gitignore
+</code></pre></div></div>
+
+<h2 id="development-vs-production">Development vs Production</h2>
+
+<h3 id="environment-specific-gems">Environment-Specific Gems</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Development only gems</span>
+<span class="n">group</span> <span class="ss">:development</span> <span class="k">do</span>
+  <span class="n">gem</span> <span class="s2">"html-proofer"</span>  <span class="c1"># HTML validation</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-admin"</span>  <span class="c1"># Admin interface</span>
+<span class="k">end</span>
+
+<span class="c1"># Test gems</span>
+<span class="n">group</span> <span class="ss">:test</span> <span class="k">do</span>
+  <span class="n">gem</span> <span class="s2">"rspec"</span>
+  <span class="n">gem</span> <span class="s2">"capybara"</span>
+<span class="k">end</span>
+
+<span class="c1"># Jekyll plugins (loaded in all environments)</span>
+<span class="n">group</span> <span class="ss">:jekyll_plugins</span> <span class="k">do</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-feed"</span><span class="p">,</span> <span class="s2">"~&gt; 0.12"</span>
+  <span class="n">gem</span> <span class="s2">"jekyll-sitemap"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h3 id="bundle-installation-flags">Bundle Installation Flags</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Skip development and test groups</span>
+bundle <span class="nb">install</span> <span class="nt">--without</span> development <span class="nb">test</span>
+
+<span class="c"># Only install specific groups</span>
+bundle <span class="nb">install</span> <span class="nt">--with</span> development
+
+<span class="c"># Skip optional dependencies</span>
+bundle <span class="nb">install</span> <span class="nt">--without</span> optional
+</code></pre></div></div>
+
+<h2 id="troubleshooting-dependencies">Troubleshooting Dependencies</h2>
+
+<h3 id="common-issues">Common Issues</h3>
+
+<h4 id="gem-version-conflicts">Gem Version Conflicts</h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Error: conflicting gem versions</span>
+bundle update
+bundle <span class="nb">install</span>
+
+<span class="c"># Nuclear option: clear everything</span>
+<span class="nb">rm</span> <span class="nt">-rf</span> vendor/bundle
+<span class="nb">rm </span>Gemfile.lock
+bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<h4 id="platform-specific-issues">Platform-Specific Issues</h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># macOS ARM (M1/M2) issues</span>
+bundle config <span class="nb">set</span> <span class="nt">--local</span> force_ruby_platform <span class="nb">true
+</span>bundle <span class="nb">install</span>
+
+<span class="c"># Windows issues</span>
+gem <span class="nb">install </span>wdm
+bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<h4 id="build-tool-dependencies">Build Tool Dependencies</h4>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Ubuntu/Debian</span>
+<span class="nb">sudo </span>apt-get <span class="nb">install </span>build-essential zlib1g-dev
+
+<span class="c"># macOS</span>
+xcode-select <span class="nt">--install</span>
+
+<span class="c"># Install Ruby development headers</span>
+<span class="nb">sudo </span>apt-get <span class="nb">install </span>ruby-dev  <span class="c"># Ubuntu</span>
+brew <span class="nb">install </span>ruby              <span class="c"># macOS</span>
+</code></pre></div></div>
+
+<h3 id="dependency-resolution">Dependency Resolution</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Check for dependency conflicts</span>
+bundle check
+
+<span class="c"># Resolve conflicts interactively</span>
+bundle <span class="nb">install</span> <span class="nt">--verbose</span>
+
+<span class="c"># Force specific gem version</span>
+bundle update gem_name <span class="nt">--conservative</span>
+</code></pre></div></div>
+
+<h2 id="security-management">Security Management</h2>
+
+<h3 id="security-audits">Security Audits</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Install bundler-audit</span>
+gem <span class="nb">install </span>bundler-audit
+
+<span class="c"># Check for vulnerabilities</span>
+bundle audit check
+
+<span class="c"># Update vulnerability database</span>
+bundle audit update
+</code></pre></div></div>
+
+<h3 id="automated-security-updates">Automated Security Updates</h3>
+
+<h4 id="dependabot-configuration">Dependabot Configuration</h4>
+<p>Create <code class="language-plaintext highlighter-rouge">.github/dependabot.yml</code>:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">version</span><span class="pi">:</span> <span class="m">2</span>
+<span class="na">updates</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">package-ecosystem</span><span class="pi">:</span> <span class="s2">"</span><span class="s">bundler"</span>
+    <span class="na">directory</span><span class="pi">:</span> <span class="s2">"</span><span class="s">/"</span>
+    <span class="na">schedule</span><span class="pi">:</span>
+      <span class="na">interval</span><span class="pi">:</span> <span class="s2">"</span><span class="s">weekly"</span>
+    <span class="na">open-pull-requests-limit</span><span class="pi">:</span> <span class="m">10</span>
+</code></pre></div></div>
+
+<h4 id="github-security-alerts">GitHub Security Alerts</h4>
+<ul>
+  <li><strong>Automatic Detection</strong>: GitHub scans for vulnerabilities</li>
+  <li><strong>Pull Request Creation</strong>: Automated security update PRs</li>
+  <li><strong>Notification System</strong>: Email alerts for security issues</li>
+</ul>
+
+<h2 id="performance-optimization">Performance Optimization</h2>
+
+<h3 id="bundle-configuration">Bundle Configuration</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Configure bundle for performance</span>
+bundle config <span class="nb">set</span> <span class="nt">--local</span> path <span class="s1">'vendor/bundle'</span>
+bundle config <span class="nb">set</span> <span class="nt">--local</span> clean <span class="nb">true
+</span>bundle config <span class="nb">set</span> <span class="nt">--local</span> without <span class="s1">'development test'</span>
+
+<span class="c"># Parallel installation</span>
+bundle config <span class="nb">set</span> <span class="nt">--local</span> <span class="nb">jobs </span>4
+</code></pre></div></div>
+
+<h3 id="gem-installation-optimization">Gem Installation Optimization</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Skip documentation installation</span>
+bundle config <span class="nb">set</span> <span class="nt">--local</span> no-document <span class="nb">true</span>
+
+<span class="c"># Use system gems when possible</span>
+bundle config <span class="nb">set</span> <span class="nt">--local</span> disable_shared_gems <span class="nb">false</span>
+</code></pre></div></div>
+
+<h2 id="cicd-integration">CI/CD Integration</h2>
+
+<h3 id="github-actions-integration">GitHub Actions Integration</h3>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># .github/workflows/build.yml</span>
+<span class="na">name</span><span class="pi">:</span> <span class="s">Build and Deploy</span>
+<span class="na">on</span><span class="pi">:</span>
+  <span class="na">push</span><span class="pi">:</span>
+    <span class="na">branches</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">main</span><span class="pi">]</span>
+
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">build</span><span class="pi">:</span>
+    <span class="na">runs-on</span><span class="pi">:</span> <span class="s">ubuntu-latest</span>
+    <span class="na">steps</span><span class="pi">:</span>
+      <span class="pi">-</span> <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/checkout@v2</span>
+      
+      <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Setup Ruby</span>
+        <span class="na">uses</span><span class="pi">:</span> <span class="s">ruby/setup-ruby@v1</span>
+        <span class="na">with</span><span class="pi">:</span>
+          <span class="na">ruby-version</span><span class="pi">:</span> <span class="m">2.7</span>
+          <span class="na">bundler-cache</span><span class="pi">:</span> <span class="no">true</span>  <span class="c1"># Automatically runs bundle install</span>
+      
+      <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Build site</span>
+        <span class="na">run</span><span class="pi">:</span> <span class="s">bundle exec jekyll build</span>
+</code></pre></div></div>
+
+<h3 id="caching-dependencies">Caching Dependencies</h3>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Cache bundler gems</span>
+<span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Cache gems</span>
+  <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/cache@v2</span>
+  <span class="na">with</span><span class="pi">:</span>
+    <span class="na">path</span><span class="pi">:</span> <span class="s">vendor/bundle</span>
+    <span class="na">key</span><span class="pi">:</span> <span class="s">$-gems-$</span>
+    <span class="na">restore-keys</span><span class="pi">:</span> <span class="pi">|</span>
+      <span class="s">$-gems-</span>
+</code></pre></div></div>
+
+<h2 id="alternative-dependency-managers">Alternative Dependency Managers</h2>
+
+<h3 id="rubygems-direct">RubyGems Direct</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Install gems directly (not recommended)</span>
+gem <span class="nb">install </span>jekyll
+gem <span class="nb">install </span>github-pages
+</code></pre></div></div>
+
+<h3 id="docker-approach">Docker Approach</h3>
+<div class="language-dockerfile highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Dockerfile for consistent environment</span>
+<span class="k">FROM</span><span class="s"> ruby:2.7</span>
+
+<span class="k">WORKDIR</span><span class="s"> /site</span>
+<span class="k">COPY</span><span class="s"> Gemfile* ./</span>
+<span class="k">RUN </span>bundle <span class="nb">install</span>
+
+<span class="k">COPY</span><span class="s"> . .</span>
+<span class="k">CMD</span><span class="s"> ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]</span>
+</code></pre></div></div>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Build and run with Docker</span>
+docker build <span class="nt">-t</span> jekyll-blog <span class="nb">.</span>
+docker run <span class="nt">-p</span> 4000:4000 jekyll-blog
+</code></pre></div></div>
+
+<hr />
+
+<p><strong>Dependency Manager</strong>: Bundler<br />
+<strong>Primary Gem</strong>: github-pages (meta-gem)<br />
+<strong>Lock File</strong>: Gemfile.lock (tracked in Git)<br />
+<strong>Security</strong>: Bundler-audit and Dependabot<br />
+<strong>Platform Support</strong>: Cross-platform compatibility</p>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="mailto:jonathan.beckett@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://linkedin.com/in/jonathanbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://github.com/jonbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://bsky.app/profile/jonbeckett.bsky.social" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> BlueSky</a></li>
+        
+      
+        
+          <li><a href="/disclaimer/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-info-circle" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2026 <a href="https://jonbeckett.com">jonbeckett.com</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

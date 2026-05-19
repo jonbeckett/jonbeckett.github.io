@@ -1,0 +1,491 @@
+
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js" dir="ltr">
+  <head>
+    
+<meta charset="utf-8">
+
+
+<!-- begin _includes/seo.html --><title>File Structure - jonbeckett.com</title>
+<meta name="description" content="Software and Web Developer">
+
+
+  <meta name="author" content="Jonathan Beckett">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="jonbeckett.com">
+<meta property="og:title" content="File Structure">
+<meta property="og:url" content="https://jonbeckett.com/docs/file-structure/">
+
+
+  <meta property="og:description" content="Software and Web Developer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://jonbeckett.com/docs/file-structure/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="jonbeckett.com Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <meta name="follow.it-verification-code" content="46JJqqLrzpNsmCFk3FRQ"/>
+<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+<link rel="shortcut icon" href="/assets/images/favicon.svg">
+  </head>
+
+  <body class="layout--default">
+    
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        
+        <a class="site-title" href="/">
+          jonbeckett.com
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/posts/"
+                
+                
+              >Posts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <h1 id="file-structure">File Structure</h1>
+
+<h2 id="repository-organization">Repository Organization</h2>
+
+<p>The blog follows Jekyll’s standard directory structure with Minimal Mistakes theme conventions and GitHub Pages compatibility.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jonbeckett.github.io/
+├── _config.yml                 # Jekyll configuration
+├── _data/                      # YAML data files
+│   └── navigation.yml          # Site navigation menu
+├── _includes/                  # Reusable template components
+│   ├── breadcrumbs.html        # Breadcrumb navigation
+│   └── head/
+│       └── custom.html         # Custom head elements
+├── _pages/                     # Static pages
+│   ├── about.md               # About page
+│   ├── categories.md          # Categories archive
+│   ├── disclaimer.md          # Legal disclaimer
+│   ├── posts.md              # Posts archive
+│   └── tags.md               # Tags archive
+├── _posts/                     # Blog posts (organized by year)
+│   ├── 2025/                  # 2025 posts
+│   └── 2026/                  # 2026 posts
+├── _site/                      # Generated site (excluded from repo)
+├── assets/                     # Static assets
+│   ├── css/
+│   │   └── main.scss          # Main stylesheet
+│   └── images/                # Image assets
+│       └── banners/           # Banner images
+├── docs/                       # Technical documentation
+├── CNAME                       # Custom domain configuration
+├── Gemfile                     # Ruby dependencies
+├── index.html                  # Homepage template
+└── README.md                   # Repository documentation
+</code></pre></div></div>
+
+<h2 id="core-configuration-files">Core Configuration Files</h2>
+
+<h3 id="jekyll-configuration">Jekyll Configuration</h3>
+<ul>
+  <li><strong>_config.yml</strong> - Main Jekyll configuration file
+    <ul>
+      <li>Site metadata and settings</li>
+      <li>Theme configuration (Minimal Mistakes)</li>
+      <li>Plugin configuration</li>
+      <li>Default layouts and values</li>
+      <li>Analytics and comments setup</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="ruby-dependencies">Ruby Dependencies</h3>
+<ul>
+  <li><strong>Gemfile</strong> - Ruby gem dependencies
+    <ul>
+      <li>github-pages gem (includes Jekyll)</li>
+      <li>jekyll-feed plugin</li>
+      <li>Platform-specific dependencies</li>
+    </ul>
+  </li>
+  <li><strong>Gemfile.lock</strong> - Locked dependency versions (auto-generated)</li>
+</ul>
+
+<h3 id="domain-configuration">Domain Configuration</h3>
+<ul>
+  <li><strong>CNAME</strong> - Custom domain configuration for GitHub Pages
+    <ul>
+      <li>Contains: <code class="language-plaintext highlighter-rouge">jonbeckett.com</code></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="content-organization">Content Organization</h2>
+
+<h3 id="posts-directory-structure">Posts Directory Structure</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_posts/
+├── 2025/                       # Year-based organization
+│   ├── 2025-01-05-linux-history-evolution.md
+│   ├── 2025-05-01-note-taking.md
+│   ├── 2025-06-01-getting-things-done.md
+│   └── ...
+└── 2026/                       # Current year posts
+    ├── 2026-01-02-flexible-bdd-solutions.md
+    ├── 2026-01-03-ai-note-taking-revolution.md
+    └── ...
+</code></pre></div></div>
+
+<h3 id="post-naming-convention">Post Naming Convention</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>YYYY-MM-DD-post-title.md
+</code></pre></div></div>
+<ul>
+  <li><strong>YYYY</strong>: Four-digit year</li>
+  <li><strong>MM</strong>: Two-digit month</li>
+  <li><strong>DD</strong>: Two-digit day</li>
+  <li><strong>post-title</strong>: Hyphen-separated slug</li>
+  <li><strong>.md</strong>: Markdown file extension</li>
+</ul>
+
+<h3 id="static-pages">Static Pages</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_pages/
+├── about.md                    # Author and site information
+├── categories.md               # Category taxonomy page
+├── disclaimer.md               # Legal disclaimer
+├── posts.md                   # All posts archive
+└── tags.md                    # Tag taxonomy page
+</code></pre></div></div>
+
+<h2 id="template-structure">Template Structure</h2>
+
+<h3 id="data-files">Data Files</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_data/
+└── navigation.yml              # Site navigation configuration
+</code></pre></div></div>
+
+<p><strong>Navigation Structure:</strong></p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">main</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">About"</span>
+    <span class="na">url</span><span class="pi">:</span> <span class="s">/about/</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Posts"</span>  
+    <span class="na">url</span><span class="pi">:</span> <span class="s">/posts/</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Categories"</span>
+    <span class="na">url</span><span class="pi">:</span> <span class="s">/categories/</span>
+  <span class="pi">-</span> <span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Tags"</span>
+    <span class="na">url</span><span class="pi">:</span> <span class="s">/tags/</span>
+</code></pre></div></div>
+
+<h3 id="include-files">Include Files</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_includes/
+├── breadcrumbs.html           # Custom breadcrumb navigation
+└── head/
+    └── custom.html            # Custom HTML head elements
+</code></pre></div></div>
+
+<h2 id="asset-organization">Asset Organization</h2>
+
+<h3 id="stylesheets">Stylesheets</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>assets/
+└── css/
+    └── main.scss              # Main stylesheet entry point
+</code></pre></div></div>
+
+<p><strong>SCSS Structure:</strong></p>
+<div class="language-scss highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">---</span>
+<span class="nn">#</span> <span class="nt">Front</span> <span class="nt">matter</span> <span class="nt">required</span> <span class="nt">for</span> <span class="nt">Jekyll</span> <span class="nt">processing</span>
+<span class="nt">---</span>
+
+<span class="o">@</span><span class="nt">charset</span> <span class="s2">"utf-8"</span><span class="p">;</span>
+
+<span class="k">@import</span> <span class="s2">"minimal-mistakes/skins/default"</span><span class="p">;</span>
+<span class="k">@import</span> <span class="s2">"minimal-mistakes"</span><span class="p">;</span>
+</code></pre></div></div>
+
+<h3 id="images">Images</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>assets/
+└── images/
+    ├── banners/               # Banner images for posts
+    │   └── README.txt         # Banner usage documentation
+    └── jonbeckett.jpg         # Author profile image
+</code></pre></div></div>
+
+<h2 id="generated-content">Generated Content</h2>
+
+<h3 id="build-output">Build Output</h3>
+<ul>
+  <li><strong>_site/</strong> - Generated static site (excluded from repository)
+    <ul>
+      <li>Complete HTML/CSS/JS output</li>
+      <li>Processed by Jekyll during build</li>
+      <li>Deployed to GitHub Pages automatically</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="cache-directories-excluded">Cache Directories (Excluded)</h3>
+<ul>
+  <li><strong>.sass-cache/</strong> - SCSS compilation cache</li>
+  <li><strong>.jekyll-cache/</strong> - Jekyll build cache</li>
+  <li><strong>node_modules/</strong> - Node.js dependencies (if used)</li>
+  <li><strong>vendor/</strong> - Bundler vendor directory</li>
+</ul>
+
+<h2 id="documentation-structure">Documentation Structure</h2>
+
+<h3 id="technical-documentation">Technical Documentation</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docs/                           # Comprehensive technical docs
+├── README.md                   # Documentation index
+├── technology-stack.md         # Technologies overview
+├── github-pages-hosting.md     # Hosting configuration
+├── jekyll-configuration.md     # Jekyll setup details
+├── file-structure.md          # This file
+└── ...                        # Additional documentation files
+</code></pre></div></div>
+
+<h2 id="file-permissions--ownership">File Permissions &amp; Ownership</h2>
+
+<h3 id="jekyll-processing">Jekyll Processing</h3>
+<ul>
+  <li><strong>Processed Files</strong>: Markdown files with front matter</li>
+  <li><strong>Static Files</strong>: Assets copied directly to _site/</li>
+  <li><strong>Excluded Files</strong>: Listed in _config.yml exclude section</li>
+</ul>
+
+<h3 id="front-matter-requirements">Front Matter Requirements</h3>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="c1"># Minimal front matter for Jekyll processing</span>
+<span class="c1"># Required for .md files in _posts/ and _pages/</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<h2 id="backup--version-control">Backup &amp; Version Control</h2>
+
+<h3 id="git-tracking">Git Tracking</h3>
+<ul>
+  <li><strong>Tracked</strong>: All source files and content</li>
+  <li><strong>Ignored</strong>: Generated files and caches
+    <ul>
+      <li>_site/</li>
+      <li>.sass-cache/</li>
+      <li>.jekyll-cache/</li>
+      <li>Gemfile.lock (platform-specific)</li>
+      <li>vendor/</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="gitignore-pattern">.gitignore Pattern</h3>
+<pre><code class="language-gitignore">_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+node_modules/
+.DS_Store
+</code></pre>
+
+<h2 id="file-size-considerations">File Size Considerations</h2>
+
+<h3 id="github-pages-limits">GitHub Pages Limits</h3>
+<ul>
+  <li><strong>Single File</strong>: 100MB maximum</li>
+  <li><strong>Repository Size</strong>: 1GB soft limit</li>
+  <li><strong>Build Time</strong>: 10 minutes maximum</li>
+</ul>
+
+<h3 id="optimization-strategies">Optimization Strategies</h3>
+<ul>
+  <li><strong>Image Compression</strong>: Optimize images before upload</li>
+  <li><strong>Asset Minification</strong>: SCSS compiled to compressed CSS</li>
+  <li><strong>HTML Compression</strong>: Enabled via compress_html setting</li>
+</ul>
+
+<h2 id="access-patterns">Access Patterns</h2>
+
+<h3 id="url-structure">URL Structure</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://jonbeckett.com/
+├── /                          # Homepage (index.html)
+├── /about/                    # About page (_pages/about.md)
+├── /posts/                    # Posts archive (_pages/posts.md)
+├── /categories/               # Categories page (_pages/categories.md)
+├── /tags/                     # Tags page (_pages/tags.md)
+├── /disclaimer/               # Disclaimer (_pages/disclaimer.md)
+├── /YYYY/MM/DD/post-title/    # Individual posts
+├── /categories/category-name/ # Category archives
+└── /tags/tag-name/           # Tag archives
+</code></pre></div></div>
+
+<h3 id="asset-urls">Asset URLs</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://jonbeckett.com/assets/
+├── /css/main.css             # Compiled stylesheet
+└── /images/                  # Image assets
+</code></pre></div></div>
+
+<hr />
+
+<p><strong>Directory Structure</strong>: Standard Jekyll with Minimal Mistakes theme<br />
+<strong>Content Organization</strong>: Year-based post organization<br />
+<strong>Asset Management</strong>: SCSS preprocessing with compression<br />
+<strong>Version Control</strong>: Git with appropriate .gitignore patterns</p>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="mailto:jonathan.beckett@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://linkedin.com/in/jonathanbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://github.com/jonbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://bsky.app/profile/jonbeckett.bsky.social" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> BlueSky</a></li>
+        
+      
+        
+          <li><a href="/disclaimer/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-info-circle" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2026 <a href="https://jonbeckett.com">jonbeckett.com</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

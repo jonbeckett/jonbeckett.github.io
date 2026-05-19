@@ -1,0 +1,386 @@
+
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js" dir="ltr">
+  <head>
+    
+<meta charset="utf-8">
+
+
+<!-- begin _includes/seo.html --><title>Technology Stack - jonbeckett.com</title>
+<meta name="description" content="Software and Web Developer">
+
+
+  <meta name="author" content="Jonathan Beckett">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="jonbeckett.com">
+<meta property="og:title" content="Technology Stack">
+<meta property="og:url" content="https://jonbeckett.com/docs/technology-stack/">
+
+
+  <meta property="og:description" content="Software and Web Developer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://jonbeckett.com/docs/technology-stack/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="jonbeckett.com Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <meta name="follow.it-verification-code" content="46JJqqLrzpNsmCFk3FRQ"/>
+<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+<link rel="shortcut icon" href="/assets/images/favicon.svg">
+  </head>
+
+  <body class="layout--default">
+    
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        
+        <a class="site-title" href="/">
+          jonbeckett.com
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/posts/"
+                
+                
+              >Posts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <h1 id="technology-stack">Technology Stack</h1>
+
+<h2 id="core-technologies">Core Technologies</h2>
+
+<h3 id="static-site-generator">Static Site Generator</h3>
+<ul>
+  <li><strong>Jekyll 4.x</strong> - Ruby-based static site generator</li>
+  <li><strong>GitHub Pages compatibility</strong> - Uses github-pages gem for deployment</li>
+  <li><strong>Liquid templating engine</strong> - For dynamic content generation</li>
+  <li><strong>Kramdown</strong> - Markdown processor with GFM (GitHub Flavored Markdown) support</li>
+</ul>
+
+<h3 id="programming-languages--markup">Programming Languages &amp; Markup</h3>
+<ul>
+  <li><strong>Ruby</strong> - Jekyll’s underlying language</li>
+  <li><strong>HTML5</strong> - Semantic markup structure</li>
+  <li><strong>SCSS/Sass</strong> - CSS preprocessing for styling</li>
+  <li><strong>YAML</strong> - Configuration and front matter data</li>
+  <li><strong>Markdown</strong> - Content authoring format</li>
+  <li><strong>Liquid</strong> - Template language for dynamic content</li>
+</ul>
+
+<h3 id="frontend-framework--theme">Frontend Framework &amp; Theme</h3>
+<ul>
+  <li><strong>Minimal Mistakes</strong> - Remote Jekyll theme
+    <ul>
+      <li>Version: Latest stable from mmistakes/minimal-mistakes</li>
+      <li>Skin: Default theme variant</li>
+      <li>Responsive design with mobile optimization</li>
+      <li>Built-in SEO optimization</li>
+      <li>Social media integration</li>
+      <li>Archive and taxonomy support</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="build--deployment-platform">Build &amp; Deployment Platform</h3>
+<ul>
+  <li><strong>GitHub Pages</strong> - Automated Jekyll building and hosting</li>
+  <li><strong>GitHub Actions</strong> - Automated deployment pipeline</li>
+  <li><strong>Git version control</strong> - Source code management</li>
+</ul>
+
+<h2 id="dependencies--gems">Dependencies &amp; Gems</h2>
+
+<h3 id="core-jekyll-dependencies-via-github-pages-gem">Core Jekyll Dependencies (via github-pages gem)</h3>
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Primary dependency that includes Jekyll and GitHub Pages compatible gems</span>
+<span class="n">gem</span> <span class="s2">"github-pages"</span><span class="p">,</span> <span class="ss">group: :jekyll_plugins</span>
+</code></pre></div></div>
+
+<h3 id="jekyll-plugins">Jekyll Plugins</h3>
+<ul>
+  <li><strong>jekyll-feed</strong> (~&gt; 0.12) - RSS/Atom feed generation</li>
+  <li><strong>jekyll-paginate</strong> - Post pagination support</li>
+  <li><strong>jekyll-sitemap</strong> - XML sitemap generation</li>
+  <li><strong>jekyll-gist</strong> - GitHub Gist embedding</li>
+  <li><strong>jekyll-include-cache</strong> - Performance optimization for includes</li>
+  <li><strong>jekyll-archives</strong> - Category and tag archive generation</li>
+</ul>
+
+<h3 id="platform-specific-dependencies">Platform-Specific Dependencies</h3>
+<ul>
+  <li><strong>tzinfo</strong> - Timezone information (Windows/JRuby)</li>
+  <li><strong>tzinfo-data</strong> - Timezone data files</li>
+  <li><strong>wdm</strong> - Windows directory monitoring for file watching</li>
+  <li><strong>http_parser.rb</strong> - HTTP parsing for JRuby compatibility</li>
+</ul>
+
+<h2 id="third-party-services">Third-Party Services</h2>
+
+<h3 id="analytics">Analytics</h3>
+<ul>
+  <li><strong>Google Analytics 4</strong> (G-0J6K0088RD)</li>
+  <li><strong>Google Tag Manager</strong> integration</li>
+  <li>Anonymous IP tracking disabled for privacy</li>
+</ul>
+
+<h3 id="comments-system">Comments System</h3>
+<ul>
+  <li><strong>Giscus</strong> - GitHub Discussions-powered commenting
+    <ul>
+      <li>Repository: Connected to GitHub repository discussions</li>
+      <li>Theme: Light theme matching site design</li>
+      <li>Reactions enabled for user engagement</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="content-delivery">Content Delivery</h3>
+<ul>
+  <li><strong>GitHub’s CDN</strong> - Asset delivery and caching</li>
+  <li><strong>Font Awesome</strong> - Icon library (via theme)</li>
+</ul>
+
+<h2 id="development-tools">Development Tools</h2>
+
+<h3 id="version-control">Version Control</h3>
+<ul>
+  <li><strong>Git</strong> - Source code versioning</li>
+  <li><strong>GitHub</strong> - Repository hosting and collaboration</li>
+</ul>
+
+<h3 id="package-management">Package Management</h3>
+<ul>
+  <li><strong>Bundler</strong> - Ruby gem dependency management</li>
+  <li><strong>RubyGems</strong> - Ruby package repository</li>
+</ul>
+
+<h3 id="local-development">Local Development</h3>
+<ul>
+  <li><strong>Ruby 2.7+</strong> - Required Ruby version</li>
+  <li><strong>Jekyll serve</strong> - Local development server</li>
+  <li><strong>Bundle exec</strong> - Isolated gem environment execution</li>
+</ul>
+
+<h2 id="browser-compatibility">Browser Compatibility</h2>
+
+<h3 id="modern-browser-support">Modern Browser Support</h3>
+<ul>
+  <li>Chrome 70+</li>
+  <li>Firefox 65+</li>
+  <li>Safari 12+</li>
+  <li>Edge 79+</li>
+</ul>
+
+<h3 id="mobile-compatibility">Mobile Compatibility</h3>
+<ul>
+  <li>iOS Safari 12+</li>
+  <li>Chrome Mobile 70+</li>
+  <li>Android Browser 8+</li>
+</ul>
+
+<h2 id="performance-features">Performance Features</h2>
+
+<h3 id="optimization">Optimization</h3>
+<ul>
+  <li><strong>HTML compression</strong> - Automated minification</li>
+  <li><strong>SCSS compilation</strong> - Compressed CSS output</li>
+  <li><strong>Image optimization</strong> - Responsive image handling</li>
+  <li><strong>Caching headers</strong> - Browser caching optimization</li>
+</ul>
+
+<h3 id="seo-features">SEO Features</h3>
+<ul>
+  <li><strong>Structured data</strong> - JSON-LD markup for search engines</li>
+  <li><strong>Open Graph</strong> - Social media sharing optimization</li>
+  <li><strong>Twitter Cards</strong> - Enhanced Twitter link previews</li>
+  <li><strong>Canonical URLs</strong> - Duplicate content prevention</li>
+  <li><strong>XML sitemaps</strong> - Search engine crawling support</li>
+</ul>
+
+<h2 id="security-considerations">Security Considerations</h2>
+
+<h3 id="content-security">Content Security</h3>
+<ul>
+  <li><strong>GitHub Pages security</strong> - Automated security updates</li>
+  <li><strong>HTTPS enforcement</strong> - SSL/TLS encryption for all traffic</li>
+  <li><strong>Safe gem whitelist</strong> - Only approved Jekyll plugins</li>
+</ul>
+
+<h3 id="privacy-features">Privacy Features</h3>
+<ul>
+  <li><strong>IP anonymization</strong> - Google Analytics privacy setting</li>
+  <li><strong>No third-party tracking</strong> - Minimal external dependencies</li>
+  <li><strong>GDPR considerations</strong> - Privacy-focused analytics setup</li>
+</ul>
+
+<hr />
+
+<p><strong>Technology Stack Version</strong>: February 1, 2026<br />
+<strong>Jekyll Version</strong>: 4.x (via github-pages gem)<br />
+<strong>Ruby Version</strong>: 2.7+ required<br />
+<strong>Theme Version</strong>: mmistakes/minimal-mistakes (remote)</p>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="mailto:jonathan.beckett@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://linkedin.com/in/jonathanbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://github.com/jonbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://bsky.app/profile/jonbeckett.bsky.social" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> BlueSky</a></li>
+        
+      
+        
+          <li><a href="/disclaimer/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-info-circle" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2026 <a href="https://jonbeckett.com">jonbeckett.com</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1053 @@
+
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.28.0 by Michael Rose
+  Copyright 2013-2026 Michael Rose - mademistakes.com | @mmistakes
+  Copyright 2024-2026 iBug - ibugone.com | @iBug
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js" dir="ltr">
+  <head>
+    
+<meta charset="utf-8">
+
+
+<!-- begin _includes/seo.html --><title>How AI Comprehends Prompt Meaning: From Tokens to Intent - jonbeckett.com</title>
+<meta name="description" content="Modern AI models do not read prompts like humans, yet they can still infer intent by modelling patterns, context, and probability across tokens at extraordinary scale.">
+
+
+  <meta name="author" content="Jonathan Beckett">
+  
+  <meta property="article:author" content="Jonathan Beckett">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="jonbeckett.com">
+<meta property="og:title" content="How AI Comprehends Prompt Meaning: From Tokens to Intent">
+<meta property="og:url" content="https://jonbeckett.com/2026/05/19/how-ai-comprehends-prompt-meaning/">
+
+
+  <meta property="og:description" content="Modern AI models do not read prompts like humans, yet they can still infer intent by modelling patterns, context, and probability across tokens at extraordinary scale.">
+
+
+
+  <meta property="og:image" content="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&amp;h=400&amp;fit=crop&amp;crop=entropy&amp;auto=format&amp;q=80">
+  
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2026-05-19T00:00:00+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://jonbeckett.com/2026/05/19/how-ai-comprehends-prompt-meaning/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="jonbeckett.com Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <meta name="follow.it-verification-code" content="46JJqqLrzpNsmCFk3FRQ"/>
+<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+<link rel="shortcut icon" href="/assets/images/favicon.svg">
+  </head>
+
+  <body class="layout--single">
+    
+<nav class="skip-links" aria-label="Skip links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        
+        <a class="site-title" href="/">
+          jonbeckett.com
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/posts/"
+                
+                
+              >Posts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+  
+
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%), url('https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          How AI Comprehends Prompt Meaning: From Tokens to Intent
+
+        
+      </h1>
+      
+        <p class="page__lead">Modern AI models do not read prompts like humans, yet they can still infer intent by modelling patterns, context, and probability across tokens at extraordinary scale.
+</p>
+      
+      
+
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2026-05-19T00:00:00+00:00">May 19, 2026</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+      
+    </div>
+  
+  
+    <span class="page__hero-caption">Photo by <a href="https://unsplash.com/@googledeepmind">Google DeepMind</a> on <a href="https://unsplash.com">Unsplash</a>
+</span>
+  
+</div>
+
+
+
+
+
+
+  
+    
+
+
+
+
+  <nav class="breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+      
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <span class="sep">/</span>
+      
+      
+      
+        
+          
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a href="/categories/#artificial-intelligence" itemprop="item"><span itemprop="name">artificial-intelligence</span></a>
+            <meta itemprop="position" content="2" />
+          </li>
+          <span class="sep">/</span>
+        
+      
+      
+      
+      <li class="current">How AI Comprehends Prompt Meaning: From Tokens to Intent</li>
+    </ol>
+  </nav>
+
+  
+
+
+<div id="main" role="main">
+  
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://jonbeckett.com/">
+        <img src="/assets/images/jonbeckett.jpg" alt="Jonathan Beckett" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://jonbeckett.com/" itemprop="url">Jonathan Beckett</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Software and Web Developer</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-location-dot" aria-hidden="true"></i> <span itemprop="name" class="p-locality">UK</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://linkedin.com/in/jonathanbeckett" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/jonbeckett" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://bsky.app/profile/jonbeckett.bsky.social" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i><span class="label">BlueSky</span></a></li>
+          
+        
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:jonathan.beckett@gmail.com" rel="me" class="u-email">
+            <meta itemprop="email" content="jonathan.beckett@gmail.com" />
+            <i class="fas fa-fw fa-square-envelope" aria-hidden="true"></i><span class="label">Email</span>
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="How AI Comprehends Prompt Meaning: From Tokens to Intent">
+    <meta itemprop="description" content="Modern AI models do not read prompts like humans, yet they can still infer intent by modelling patterns, context, and probability across tokens at extraordinary scale.">
+    <meta itemprop="datePublished" content="2026-05-19T00:00:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <h1 id="how-ai-comprehends-prompt-meaning-from-tokens-to-intent">How AI Comprehends Prompt Meaning: From Tokens to Intent</h1>
+
+<p>You type a prompt like, “Draft a concise update for a frustrated stakeholder, but keep it reassuring.”<br />
+Within seconds, an AI model gives you something that sounds measured, empathetic, and practical.</p>
+
+<p>It is tempting to think the model has <em>understood</em> your meaning in the same way a person would. In reality, it has done something both less and more interesting: it has transformed your words into numerical patterns, compared those patterns with billions of learned associations, and predicted the next best tokens to satisfy what your prompt <em>statistically implies</em>.</p>
+
+<p>That might sound mechanical, but it is exactly where the power lies. AI prompt comprehension is not mind-reading; it is high-dimensional pattern inference performed at a scale no human can match.</p>
+
+<hr />
+
+<h2 id="what-comprehension-means-for-a-language-model">What “comprehension” means for a language model</h2>
+
+<p>For humans, comprehension includes lived experience, intention, and shared social context.<br />
+For a large language model (LLM), comprehension means:</p>
+
+<ol>
+  <li>Converting prompt text into tokens</li>
+  <li>Mapping token sequences into vector representations</li>
+  <li>Using attention to weigh relationships across the full context window</li>
+  <li>Predicting output tokens that best fit the learned distribution</li>
+</ol>
+
+<p>So when we say a model “understands a prompt”, we usually mean that it can infer:</p>
+
+<ul>
+  <li><strong>Task type</strong> (explain, compare, summarise, translate, generate code)</li>
+  <li><strong>Constraint set</strong> (length, tone, format, audience)</li>
+  <li><strong>Domain framing</strong> (legal, medical, product, technical, editorial)</li>
+  <li><strong>Implicit intent</strong> (what the user is <em>really</em> trying to achieve)</li>
+</ul>
+
+<p>This is not semantic understanding in a conscious sense. It is operational understanding: enough structure to produce useful output consistently.</p>
+
+<hr />
+
+<h2 id="step-1-tokenisation--the-prompt-is-split-before-it-is-interpreted">Step 1: Tokenisation — the prompt is split before it is interpreted</h2>
+
+<p>LLMs do not process text character by character in the way we read prose. They use tokenisation, which breaks text into pieces (words, sub-words, punctuation, symbols, code fragments).</p>
+
+<p>For example, this prompt:</p>
+
+<blockquote>
+  <p>“Summarise this architecture for a non-technical board in five bullet points.”</p>
+</blockquote>
+
+<p>is internally transformed into token IDs. Those IDs are then mapped into vectors in a high-dimensional space.</p>
+
+<p>The key implication: prompt wording changes token boundaries and token relationships. That is why small edits can produce very different outputs.</p>
+
+<hr />
+
+<h2 id="step-2-embeddings--meaning-as-geometry">Step 2: Embeddings — meaning as geometry</h2>
+
+<p>After tokenisation, each token is represented as a vector. In this space, similar concepts tend to cluster:</p>
+
+<ul>
+  <li>“brief”, “concise”, and “short” are near one another</li>
+  <li>“critical”, “urgent”, and “high priority” may align in certain contexts</li>
+  <li>“board”, “stakeholder”, and “executive audience” influence register and style</li>
+</ul>
+
+<p>Meaning emerges from <strong>relative position</strong>, not dictionary definitions. The model has learned these positions from enormous training data, where context repeatedly teaches which tokens co-occur and in what patterns.</p>
+
+<p>In effect, the model’s “understanding” is geometric and probabilistic.</p>
+
+<hr />
+
+<h2 id="step-3-attention--deciding-what-matters-most">Step 3: Attention — deciding what matters most</h2>
+
+<p>Transformers use attention mechanisms to determine which parts of your prompt should influence each next token prediction.</p>
+
+<p>If your prompt says:</p>
+
+<blockquote>
+  <p>“Explain like I am new to cloud computing, avoid jargon, and include one practical example.”</p>
+</blockquote>
+
+<p>attention helps the model track:</p>
+
+<ul>
+  <li>that the audience is beginner-level</li>
+  <li>that jargon is constrained</li>
+  <li>that an example is required</li>
+</ul>
+
+<p>Multi-head attention allows different relationship types to be tracked in parallel: syntax, topical relevance, instruction hierarchy, and style constraints.</p>
+
+<p>This is why structured prompts usually perform better: they make importance easier to detect.</p>
+
+<hr />
+
+<h2 id="step-4-intent-inference--explicit-instruction-plus-latent-signals">Step 4: Intent inference — explicit instruction plus latent signals</h2>
+
+<p>Most prompts contain less information than users think. Models therefore infer intent from latent signals:</p>
+
+<ul>
+  <li>Word choice (“brief”, “formal”, “neutral”, “opinionated”)</li>
+  <li>Framing (“as a product manager”, “for legal review”, “for children”)</li>
+  <li>Expected artefact (“table”, “checklist”, “ADR”, “PR description”)</li>
+  <li>Risk profile (“safe”, “non-speculative”, “cite sources”)</li>
+</ul>
+
+<p>A short prompt like:</p>
+
+<blockquote>
+  <p>“Write this professionally”</p>
+</blockquote>
+
+<p>is ambiguous to a human and an AI alike. The model fills gaps using default patterns from training and fine-tuning. Sometimes those defaults match your intent; sometimes they miss entirely.</p>
+
+<p>That is not stubbornness; it is uncertainty resolution.</p>
+
+<hr />
+
+<h2 id="why-models-can-seem-to-understand-nuance">Why models can seem to understand nuance</h2>
+
+<p>Three forces make model outputs feel surprisingly nuanced:</p>
+
+<ol>
+  <li>
+    <p><strong>Scale of prior examples</strong><br />
+Models have seen vast numbers of tone shifts, rhetorical forms, and domain conventions.</p>
+  </li>
+  <li>
+    <p><strong>Instruction tuning and preference optimisation</strong><br />
+Fine-tuning teaches models to align responses with what humans rate as helpful, clear, and safe.</p>
+  </li>
+  <li>
+    <p><strong>Context-sensitive generation</strong><br />
+Outputs are conditioned on your exact prompt plus conversation history, not just a generic template.</p>
+  </li>
+</ol>
+
+<p>The result is behaviour that often resembles comprehension: adapting tone, preserving constraints, and maintaining coherence across complex requests.</p>
+
+<hr />
+
+<h2 id="where-prompt-comprehension-fails">Where prompt comprehension fails</h2>
+
+<p>Even strong models fail in repeatable ways:</p>
+
+<h3 id="1-conflicting-instructions">1. Conflicting instructions</h3>
+<p>If you ask for “detailed analysis” and “under 50 words”, the model must guess priority.</p>
+
+<h3 id="2-hidden-assumptions">2. Hidden assumptions</h3>
+<p>If key context remains in your head, the model cannot recover it reliably.</p>
+
+<h3 id="3-underspecified-quality-criteria">3. Underspecified quality criteria</h3>
+<p>“Make it better” has no measurable target unless “better” is defined.</p>
+
+<h3 id="4-context-dilution">4. Context dilution</h3>
+<p>Long chats can blur instruction salience, especially when constraints appear early and are not reinforced.</p>
+
+<h3 id="5-false-confidence">5. False confidence</h3>
+<p>The model may produce fluent but incorrect content when the probability surface favours plausible form over verified fact.</p>
+
+<p>Understanding these failure modes makes prompt design far more practical.</p>
+
+<hr />
+
+<h2 id="a-practical-framework-write-prompts-as-contracts">A practical framework: write prompts as contracts</h2>
+
+<p>If you want better comprehension, treat prompts as compact contracts:</p>
+
+<h3 id="1-define-the-objective">1) Define the objective</h3>
+<ul>
+  <li>What output do you need?</li>
+  <li>What decision will it support?</li>
+</ul>
+
+<h3 id="2-define-the-audience">2) Define the audience</h3>
+<ul>
+  <li>Technical depth</li>
+  <li>Tone and reading level</li>
+</ul>
+
+<h3 id="3-define-constraints">3) Define constraints</h3>
+<ul>
+  <li>Format</li>
+  <li>Length</li>
+  <li>Do/don’t rules</li>
+</ul>
+
+<h3 id="4-define-evidence-requirements">4) Define evidence requirements</h3>
+<ul>
+  <li>Cite source types</li>
+  <li>Mark uncertainty</li>
+  <li>Separate assumptions from facts</li>
+</ul>
+
+<h3 id="5-define-completion-criteria">5) Define completion criteria</h3>
+<ul>
+  <li>What does “done well” look like?</li>
+</ul>
+
+<p>A contract-style prompt reduces ambiguity and allows the model’s statistical strengths to work in your favour.</p>
+
+<hr />
+
+<h2 id="example-weak-prompt-vs-robust-prompt">Example: weak prompt vs robust prompt</h2>
+
+<h3 id="weak">Weak</h3>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Explain Kubernetes.
+</code></pre></div></div>
+
+<h3 id="robust">Robust</h3>
+
+<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Explain Kubernetes to a senior finance stakeholder with no engineering background.
+Use plain English and avoid technical jargon unless essential.
+Structure:
+1) What problem it solves (max 80 words)
+2) Why it matters to cost, risk, and delivery speed (3 bullets)
+3) One concrete example from a medium-sized company
+4) Two common misconceptions
+Length: 250-320 words.
+Tone: clear, neutral, non-sales.
+</code></pre></div></div>
+
+<p>The second prompt does not make the model “smarter”; it makes the task boundary explicit, which improves intent alignment.</p>
+
+<hr />
+
+<h2 id="prompt-meaning-in-multi-turn-conversations">Prompt meaning in multi-turn conversations</h2>
+
+<p>In chat workflows, comprehension is cumulative. The model does not just parse your latest message; it reinterprets it against prior turns.</p>
+
+<p>That enables refinement:</p>
+
+<ul>
+  <li>“Make it shorter”</li>
+  <li>“Keep section 2, rewrite section 3 for legal”</li>
+  <li>“Use British English and remove American spellings”</li>
+</ul>
+
+<p>But it also creates drift risk. If the conversation grows long, critical constraints should be restated. In practice, reminders such as “keep the same audience and output structure” can dramatically improve consistency.</p>
+
+<hr />
+
+<h2 id="the-role-of-system-and-tool-context">The role of system and tool context</h2>
+
+<p>Prompt meaning is not derived from user text alone. In production systems, the model is also conditioned by:</p>
+
+<ul>
+  <li>System instructions (behavioural rules, style, safety)</li>
+  <li>Retrieved documents (RAG context)</li>
+  <li>Tool outputs (search results, code snippets, logs)</li>
+  <li>Policy and guardrail layers</li>
+</ul>
+
+<p>So when an assistant “understands” your prompt, it is actually synthesising multiple context streams. This is why the same user prompt can produce different outputs across products, even with similar base models.</p>
+
+<hr />
+
+<h2 id="does-ai-truly-understand-meaning">Does AI truly understand meaning?</h2>
+
+<p>If “true understanding” requires consciousness, intention, and grounded experience, then no.<br />
+If “understanding” means reliable inference from linguistic and contextual signals to perform useful tasks, then often yes.</p>
+
+<p>The practical answer for most teams is neither hype nor dismissal:</p>
+
+<ul>
+  <li>Do not anthropomorphise the model</li>
+  <li>Do not underestimate its pattern-inference capability</li>
+  <li>Design prompts and workflows that make intent legible</li>
+</ul>
+
+<p>In other words, treat AI as a probabilistic collaborator with excellent recall for patterns and limited ownership of truth.</p>
+
+<hr />
+
+<h2 id="final-thought-better-prompts-are-better-thinking">Final thought: better prompts are better thinking</h2>
+
+<p>The most valuable shift is not learning “magic words”; it is clarifying your own intent before you ask.</p>
+
+<p>When you define objective, audience, constraints, evidence, and success criteria, you improve both model output and human decision quality. Prompt engineering, at its best, is simply disciplined communication under uncertainty.</p>
+
+<p>AI comprehends prompt meaning by turning language into structure, structure into probability, and probability into output. Our job is to provide the clearest possible structure for the outcome we actually want.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+  
+    
+
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#ai" class="page__taxonomy-item p-category" rel="tag">ai</a><span class="sep">, </span>
+    
+      <a href="/tags/#context-engineering" class="page__taxonomy-item p-category" rel="tag">context-engineering</a><span class="sep">, </span>
+    
+      <a href="/tags/#llm" class="page__taxonomy-item p-category" rel="tag">llm</a><span class="sep">, </span>
+    
+      <a href="/tags/#natural-language-processing" class="page__taxonomy-item p-category" rel="tag">natural-language-processing</a><span class="sep">, </span>
+    
+      <a href="/tags/#prompting" class="page__taxonomy-item p-category" rel="tag">prompting</a>
+    
+    </span>
+  </p>
+
+
+  
+
+  
+    
+
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#artificial-intelligence" class="page__taxonomy-item p-category" rel="tag">artificial-intelligence</a><span class="sep">, </span>
+    
+      <a href="/categories/#software-development" class="page__taxonomy-item p-category" rel="tag">software-development</a>
+    
+    </span>
+  </p>
+
+
+  
+
+
+        
+
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-05-19T00:00:00+00:00">May 19, 2026</time></p>
+
+
+      </footer>
+
+      
+
+      
+
+  <nav class="pagination" aria-label="Post pagination">
+    
+      <a href="/2026/04/24/claude-mythos-anthropic-ai-capabilities-concerns/" class="pagination--pager" title="The Model They Won’t Release: Claude Mythos, Project Glasswing, and the New Frontier of AI Risk">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    
+
+<div class="page__related">
+  
+  <h2 class="page__related-title">You May Also Enjoy</h2>
+  <div class="grid__wrapper">
+    
+      
+      
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc p-name" itemprop="headline">
+      
+        <a class="u-url" href="/2026/04/24/claude-mythos-anthropic-ai-capabilities-concerns/" rel="permalink">The Model They Won’t Release: Claude Mythos, Project Glasswing, and the New Frontier of AI Risk
+</a>
+      
+    </h2>
+    
+
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2026-04-24T00:00:00+00:00">April 24, 2026</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          17 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt p-summary" itemprop="description">Anthropic’s Claude Mythos Preview is almost certainly the most capable AI model ever built — and it’s the first frontier model since GPT-2 that its creators ...</p>
+  </article>
+</div>
+
+    
+      
+      
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc p-name" itemprop="headline">
+      
+        <a class="u-url" href="/2026/03/18/github-copilot-memory-context-future/" rel="permalink">Total Recall: GitHub Copilot’s Memory, the Risks It Carries, and the Platform Future It Points To
+</a>
+      
+    </h2>
+    
+
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2026-03-18T00:00:00+00:00">March 18, 2026</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          16 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt p-summary" itemprop="description">GitHub Copilot’s new memory capabilities promise a more personalised, context-aware coding assistant that learns your preferences, your codebase, and your te...</p>
+  </article>
+</div>
+
+    
+      
+      
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc p-name" itemprop="headline">
+      
+        <a class="u-url" href="/2026/03/06/open-source-ai-cathedral-and-bazaar/" rel="permalink">The Bazaar Fights Back: Can Open Source AI Overtake the Closed Giants?
+</a>
+      
+    </h2>
+    
+
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2026-03-06T00:00:00+00:00">March 6, 2026</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          15 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt p-summary" itemprop="description">Nearly thirty years ago, Eric Raymond described two models of software development—the Cathedral and the Bazaar. That tension has never felt more relevant th...</p>
+  </article>
+</div>
+
+    
+      
+      
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc p-name" itemprop="headline">
+      
+        <a class="u-url" href="/2026/02/26/post-work-society-ai-automation-future/" rel="permalink">Beyond Human Labor: The Emerging Post-Work Society and the Automation Horizon
+</a>
+      
+    </h2>
+    
+
+
+  <p class="page__meta">
+    
+      
+      <span class="page__meta-date">
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+        
+        <time datetime="2026-02-26T00:00:00+00:00">February 26, 2026</time>
+      </span>
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
+        
+          12 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt p-summary" itemprop="description">As AI and robotics converge toward unprecedented capability, we stand at the threshold of humanity’s most profound transition since the agricultural revoluti...</p>
+  </article>
+</div>
+
+    
+  </div>
+</div>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="mailto:jonathan.beckett@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://linkedin.com/in/jonathanbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+        
+          <li><a href="https://github.com/jonbeckett" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://bsky.app/profile/jonbeckett.bsky.social" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> BlueSky</a></li>
+        
+      
+        
+          <li><a href="/disclaimer/" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-info-circle" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">&copy; 2026 <a href="https://jonbeckett.com">jonbeckett.com</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
