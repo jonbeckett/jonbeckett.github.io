@@ -365,7 +365,7 @@ The JavaScript framework landscape continues to evolve. Server components, islan
 
 ---
 
-## Conclusion
+
 
 When Ryan Dahl demonstrated Node.js in 2009, he couldn't have known he was launching a revolution. The idea of JavaScript on the server seemed almost absurd to many—JavaScript was the language you used because you had to, not because you wanted to.
 

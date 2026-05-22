@@ -1050,7 +1050,7 @@ Based on this research, here are suggested approaches for your blog post:
 
 ---
 
-## CONCLUSION
+
 
 The UK 8-bit computer boom of the 1980s was a unique moment in technological and cultural history. Unlike any other country, Britain created an environment where:
 

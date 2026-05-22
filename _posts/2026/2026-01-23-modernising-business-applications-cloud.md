@@ -364,7 +364,7 @@ Hybrid architectures can address situations where some components genuinely must
 
 ---
 
-## Conclusion: The Imperative of Modernisation
+The Imperative of Modernisation
 
 The migration to cloud-based service architectures represents one of the most significant shifts in enterprise technology since the advent of client-server computing. But unlike previous transitions—which were primarily about technology advancement—this transformation is fundamentally about business agility.
 

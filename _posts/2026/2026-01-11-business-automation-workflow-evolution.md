@@ -380,7 +380,7 @@ This partnership requires:
 
 ---
 
-## Conclusion: The Democratization Continues
+The Democratization Continues
 
 Looking back over thirty-five years of business automation, the pattern is clear: capabilities that once required massive investment and specialized expertise have become accessible to virtually everyone. The FileNET implementation that cost millions and took years can now be approximated by a citizen developer in an afternoon.
 

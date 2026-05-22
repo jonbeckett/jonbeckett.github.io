@@ -126,7 +126,7 @@ Choosing to slow down in a fast-paced industry requires conviction. You'll face 
 
 But as 37signals has demonstrated over more than two decades, there's tremendous value in swimming against this current. Their products remain successful not despite their restraint, but because of it.
 
-## Conclusion: The Wisdom of Intentional Pace
+The Wisdom of Intentional Pace
 
 The next time you're tempted to add "just one more feature" or respond to competitive pressure with a flurry of new functionality, remember the wisdom embedded in the 37signals approach: **sometimes the most valuable thing you can do is resist the urge to do more**.
 

@@ -301,7 +301,7 @@ Microsoft's GitHub strategy offers several important lessons for technology comp
 
 ---
 
-## Conclusion: The New Developer Platform Paradigm
+The New Developer Platform Paradigm
 
 Microsoft's strategic shift from Azure DevOps to GitHub represents more than just platform consolidation—it signals a fundamental change in how we think about developer platforms and enterprise software. By choosing to prioritise GitHub's collaborative, community-driven approach over Azure DevOps' traditional enterprise model, Microsoft has bet on a vision of software development that values simplicity, collaboration, and ecosystem integration over comprehensive feature sets and rigid process enforcement.
 

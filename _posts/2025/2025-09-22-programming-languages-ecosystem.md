@@ -1032,7 +1032,7 @@ Structured approach to language selection:
 
 ---
 
-## Conclusion: Languages as Tools for Thought and Action
+Languages as Tools for Thought and Action
 
 Programming languages are far more than mere notation systems for instructing computers. They are tools for thought that shape how we conceive of problems and solutions, frameworks for collaboration that enable teams to work together effectively, and expressions of values about what matters in software development.
 

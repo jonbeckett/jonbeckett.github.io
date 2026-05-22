@@ -424,7 +424,7 @@ By making web development accessible to millions rather than thousands, LAMP unl
 
 ---
 
-## Conclusion: The Stack That Changed the World
+The Stack That Changed the World
 
 The LAMP stack represents more than just four pieces of software.  It embodies a philosophy:  powerful technology should be accessible to everyone, not just those who can afford expensive licences. It demonstrated that community-driven development could create software as capable as any commercial alternative.
 

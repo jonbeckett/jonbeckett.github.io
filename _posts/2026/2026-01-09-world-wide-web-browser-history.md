@@ -269,7 +269,7 @@ The dream of "write once, run anywhere"—which failed for Java applets—has la
 
 ---
 
-## Conclusion: The Web's Unfinished Story
+The Web's Unfinished Story
 
 From Tim Berners-Lee's proposal at CERN to Chrome's global dominance, the World Wide Web has undergone continuous transformation. Each era brought new challenges:
 

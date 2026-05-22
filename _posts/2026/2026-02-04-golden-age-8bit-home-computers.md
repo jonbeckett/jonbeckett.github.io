@@ -247,7 +247,7 @@ Why do these 40-year-old computers still matter? Why do people collect them, wri
 
 **Nostalgia**: For those who experienced the 8-bit era, these machines evoke powerful memories of childhood and adolescence. The sight of a Spectrum or the sound of a Commodore 64 loading a game from tape can transport people instantly back decades.
 
-## Conclusion
+
 
 The British 8-bit home computer boom was a remarkable phenomenon that arose from a unique combination of circumstances: government support for computing education, fierce commercial competition driving down prices, and a generation of young people eager to explore the possibilities of these new machines.
 

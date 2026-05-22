@@ -392,7 +392,7 @@ The physical, immediate nature of paper and pen supports present-moment awarenes
 
 ---
 
-## Conclusion: The Irreplaceable Value of the Tangible
+The Irreplaceable Value of the Tangible
 
 The persistence of Moleskine and other paper notebooks in our digital age tells us something profound about human nature and the thinking process. Despite having access to incredibly sophisticated digital tools that can store unlimited information, sync across devices, and search instantly, millions of people still choose to think, plan, and create with paper and ink.
 

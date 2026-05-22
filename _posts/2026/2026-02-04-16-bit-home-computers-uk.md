@@ -580,7 +580,7 @@ Annual conventions and meetups celebrate these platforms. Retro computing shows 
 
 ---
 
-## Conclusion: The Golden Age We Lived Through
+The Golden Age We Lived Through
 
 The 16-bit era in British computing—roughly 1987 to 1994—represented a unique moment when home computers were genuinely creative tools, not just consumption devices. A teenager with an Amiga, Atari ST, or Archimedes had access to capabilities that rivalled professional equipment costing ten times as much. You could make music that sounded like chart hits, create graphics that looked professional, program games that might be published, and explore computing in ways that modern locked-down devices often prevent.
 

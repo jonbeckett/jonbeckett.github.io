@@ -517,7 +517,7 @@ True stress-free productivity isn't just about getting more done—it's about su
 
 ---
 
-## Conclusion: The Art of Knowing What You're Not Doing
+The Art of Knowing What You're Not Doing
 
 Perhaps GTD's greatest gift isn't helping you do more things—it's helping you do the right things with confidence. When you have a trusted system that captures everything requiring your attention, you can make conscious choices about what to do and what not to do without the nagging anxiety of potentially forgetting something important.
 

@@ -538,7 +538,7 @@ While we consider these larger implications, there are practical steps individua
 
 ---
 
-## Conclusion: Embracing Complexity
+Embracing Complexity
 
 The impact of AI on note-taking reflects a broader transformation of human knowledge work that is both exciting and challenging. We are developing capabilities that would have seemed magical just a few years ago—the ability to instantly synthesize vast amounts of information, identify patterns across enormous datasets, and generate insights that might take humans years to discover.
 

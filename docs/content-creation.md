@@ -120,7 +120,7 @@ More detailed content with examples.
 code block here
 \```
 
-## Conclusion
+
 
 Summary and call to action.
 ```

@@ -501,7 +501,7 @@ The tension between openness and control, between innovation and regulation, bet
 
 ---
 
-## Conclusion: A Gift to Humanity
+A Gift to Humanity
 
 The internet represents one of humanity's most significant technological achievements—not because of any single invention, but because of sustained collaboration across decades, institutions, and nations. From Licklider's vision to the billions of users today, the internet evolved through the contributions of countless individuals working toward a common goal: connecting the world.
 

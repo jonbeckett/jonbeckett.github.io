@@ -399,7 +399,7 @@ Pre-built agent templates and knowledge bases tailored to specific industries wi
 
 ---
 
-## Conclusion: The Democratisation of Enterprise AI
+The Democratisation of Enterprise AI
 
 Microsoft Copilot Studio represents a fundamental shift in how organisations approach AI development. By lowering barriers to agent creation while maintaining enterprise-grade governance, Microsoft has enabled a new paradigm where business teams and IT collaborate as partners rather than operating in sequential handoffs.
 

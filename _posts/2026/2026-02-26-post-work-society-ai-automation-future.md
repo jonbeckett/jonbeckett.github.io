@@ -118,7 +118,7 @@ Imagine cities where beautiful architecture isn't constrained by construction co
 
 This vision isn't utopian fantasy if we navigate the transition wisely. The technical capabilities are emerging faster than most anticipated. The question isn't whether AI and robotics will transform society, but whether we'll guide that transformation toward outcomes that enhance rather than diminish human flourishing.
 
-## Conclusion: The Choice Before Us
+The Choice Before Us
 
 We stand at an inflection point in human history. The convergence of artificial intelligence and robotics promises capabilities that could fulfill humanity's ancient dream of freedom from drudgery and scarcity. But realizing this potential requires conscious choices about how we develop, deploy, and govern these technologies.
 
