@@ -4,41 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Hello, I'm Jonathan Beckett
-
-**Software and web developer, husband, father, cat wrangler, writer, runner, coffee drinker, retro video games player. Pizza solves most things.**
-
-Welcome to my little corner of the internet! I'm Jon (though my mum still calls me Jonathan when I'm in trouble), and if you've stumbled across this blog, there's a fair chance you're either interested in software development, productivity systems, or you've made a delightful navigation error. Either way, you're very welcome here.
-
-## What I Do
-
-By day, I wrestle with code and pretend to understand why servers occasionally decide to have existential crises. I'm a software and web developer who's spent more years than I care to count convincing computers to do useful things—though they don't always cooperate as enthusiastically as I'd like.
-
-My professional world revolves around building things that work (most of the time), solving problems that probably shouldn't exist in the first place, and explaining to users why their "simple" request would require rewriting half the internet. It's a glamorous life, really.
-
-## What I Think About
-
-When I'm not debugging someone else's "temporary" fix from 2019, you'll find me thinking and writing about:
-
-- **Software development methodologies** that actually work in the real world (spoiler: most of them need significant adaptation)
-- **Productivity systems** and note-taking methods, because apparently I collect these like some people collect stamps
-- **Technology evolution** and how we got from punch cards to artificial intelligence having opinions about our code
-- **The eternal quest** for the perfect development workflow that doesn't involve crying into my keyboard
-
-I write about these topics because they fascinate me, but also because explaining complex ideas helps me understand them better. If my rambling thoughts occasionally help someone else figure out their own challenges, that's a delightful bonus.
-
-## What I Do When I'm Not Computing
-
-Life isn't all semicolons and merge conflicts, thankfully. When I manage to drag myself away from screens:
-
-- **Running** keeps me sane and gives me time to think through thorny problems (or plan what to have for dinner)
-- **Coffee** is both fuel and social lubricant—I'm convinced good code is directly proportional to caffeine quality
-- **Reading** feeds my curiosity about everything from ancient history to quantum physics
-- **Terrible movies** provide essential balance to all the serious thinking—sometimes you just need zombies or explosions
-- **Retro video games** remind me why I fell in love with computers in the first place
-- **Retro tech** fascinates me endlessly—there's something deeply satisfying about the elegant simplicity of old 8-bit computers
-- **Cat wrangling** is a full-time job disguised as pet ownership
-
 ## The Blog Bit
 
 This blog is where I collect my thoughts on technology, productivity, and the occasionally absurd world of software development. I try to write substantial, thoughtful pieces rather than quick hot takes—partly because complex topics deserve proper exploration, and partly because I'm constitutionally incapable of writing anything short.
@@ -55,7 +20,9 @@ I believe pizza solves most problems (the remainder require proper version contr
 
 ## Getting in Touch
 
-If you'd like to chat about any of the topics I write about, argue with my methodology choices, or share your own experiences with the eternal quest for better productivity systems, I'd love to hear from you. You can find me on most of the usual social networks, over at [Recursive Words](https://recursivewords.com), or even lurking in the comments section of my [YouTube channel](https://youtube.com/@jonbeckett)—though I'm gradually retreating from the noisier corners of the internet in favour of more thoughtful conversations.
+If you'd like to chat about any of the topics I write about, argue with my methodology choices, or share your own experiences with the eternal quest for better productivity systems, I'd love to hear from you.
+
+You can find me on most of the usual social networks as "jonbeckett", or lurking in the comments section of my [YouTube channel](https://youtube.com/@jonbeckett), where I fly pretend aeroplanes in a questionably correct manner.
 
 Thanks for reading, and I hope you find something useful in my digital ramblings. Now, if you'll excuse me, I need to go explain to a server why it shouldn't randomly restart itself during business hours.
 
