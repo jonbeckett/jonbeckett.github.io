@@ -6,6 +6,7 @@ tags: [37signals, basecamp, feature-creep, product-development, minimalism, rewo
 excerpt: "While most companies race to ship feature upon feature, the most successful products are built by teams that deliberately slow down. Drawing from 37signals' philosophy, discover why restraint beats velocity in building products that truly matter."
 header:
   overlay_image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

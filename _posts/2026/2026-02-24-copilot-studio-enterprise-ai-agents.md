@@ -15,6 +15,7 @@ tags:
 excerpt: "Microsoft Copilot Studio has transformed how enterprises build and deploy AI agents. From no-code business users to professional developers, the platform democratises AI agent creation while maintaining enterprise-grade security and governance. Discover how organisations are leveraging Copilot Studio to automate workflows, enhance customer experiences, and empower their workforce with intelligent digital assistants."
 header:
   overlay_image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Levart_Photographer](https://unsplash.com/@sasha_levart) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

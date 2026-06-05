@@ -20,6 +20,7 @@ tags:
 excerpt: "GitHub Copilot's new memory capabilities promise a more personalised, context-aware coding assistant that learns your preferences, your codebase, and your team's conventions. But persistent AI memory raises real questions about privacy, secret exposure, and who actually controls what an AI assistant knows about your work."
 header:
   overlay_image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [julianklausmann](https://unsplash.com/@julianklausmann) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

@@ -20,6 +20,7 @@ tags:
 excerpt: "Every web page request triggers an intricate dance between browsers, routers, switches, and servers spanning the globe. Follow the complete journey from typing a URL to the final rendered page, revealing the remarkable infrastructure that makes the modern web possible."
 header:
   overlay_image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%)"
   caption: "Photo by [Taylor Vick](https://unsplash.com/@tvick) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

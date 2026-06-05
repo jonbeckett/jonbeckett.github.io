@@ -14,6 +14,7 @@ tags:
 excerpt: "The story of how a Cold War-era defence project evolved into the most transformative communications network in human history—told through the visionaries, engineers, and pivotal moments that shaped the internet."
 header:
   overlay_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

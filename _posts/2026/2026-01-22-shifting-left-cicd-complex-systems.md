@@ -19,6 +19,7 @@ tags:
 excerpt: "In complex development projects with multiple teams and countless moving parts, the traditional approach of 'fixing it later' becomes exponentially expensive. Discover why shifting left—moving testing, security, and quality checks earlier in the development cycle—isn't just a best practice, it's a survival strategy."
 header:
   overlay_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Emile Perron](https://unsplash.com/@emilep) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

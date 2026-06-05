@@ -18,6 +18,7 @@ tags:
 excerpt: "The tension between commercial and open-source software development has shaped the technology industry for decades. As the lines continue to blur, understanding the unique strengths and challenges of each approach becomes crucial for developers, businesses, and technology leaders navigating today's complex software landscape."
 header:
   overlay_image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

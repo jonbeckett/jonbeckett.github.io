@@ -17,6 +17,7 @@ tags:
 excerpt: "Beyond the buzzwords and marketing hype lies a fascinating but fundamentally understandable technology. Understanding how AI actually works—from neural networks and training data to transformers and emergent behavior—reveals both its remarkable capabilities and important limitations."
 header:
   overlay_image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

@@ -16,6 +16,7 @@ tags:
 excerpt: "As enterprises grapple with aging monolithic systems, the migration to cloud-based service architectures has become less about technology trends and more about business survival. Discover why modernisation isn't just an IT initiative—it's a strategic imperative that transforms how organisations compete in the digital age."
 header:
   overlay_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

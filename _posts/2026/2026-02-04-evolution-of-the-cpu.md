@@ -14,6 +14,7 @@ tags:
 excerpt: "Trace the remarkable journey of CPU development from the first programmable computers to modern processors, exploring the innovations that transformed both industry and everyday life."
 header:
   overlay_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   teaser: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop&crop=entropy&auto=format&q=80"
 toc: true

@@ -15,6 +15,7 @@ tags:
 excerpt: "In fast-paced Agile and DevOps environments where software changes constantly, automated tests face a unique challenge: keeping pace with evolving requirements. Here's how this problem manifests and what teams can do about it."
 header:
   overlay_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Carlos Muza](https://unsplash.com/@kmuza) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

@@ -18,6 +18,7 @@ tags:
 excerpt: "The story of how affordable 8-bit computers transformed British homes in the 1980s, creating a generation of programmers and launching a gaming industry that would conquer the world."
 header:
   overlay_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   teaser: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 toc: true

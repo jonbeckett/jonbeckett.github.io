@@ -15,6 +15,7 @@ tags:
 excerpt: "The Karpathy Guidelines offer a structured pre-coding checklist designed to counteract the most common and costly mistakes AI coding agents make — from over-engineering solutions to silently acting on wrong assumptions."
 header:
   overlay_image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

@@ -20,6 +20,7 @@ tags:
 excerpt: "Anthropic's Claude Mythos Preview is almost certainly the most capable AI model ever built — and it's the first frontier model since GPT-2 that its creators have decided the world is not yet ready to use. What it can do, what it revealed about itself during testing, and why that matters."
 header:
   overlay_image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Adi Goldstein](https://unsplash.com/@adigold1) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

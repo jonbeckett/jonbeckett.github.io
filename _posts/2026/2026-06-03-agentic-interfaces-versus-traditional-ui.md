@@ -15,6 +15,7 @@ tags:
 excerpt: "As AI agents grow more capable, a provocative question is gaining serious traction in design and engineering circles: will conversational, autonomous interfaces eventually make the click-and-tap paradigm obsolete — or are the two destined to coexist forever?"
 header:
   overlay_image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Possessed Photography](https://unsplash.com/@possessedphotography) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

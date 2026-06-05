@@ -42,6 +42,7 @@ tags:
 excerpt: "A compelling one-sentence description that appears in post previews and social media shares. Should be engaging and informative."
 header:
   overlay_image: "https://images.unsplash.com/photo-[ID]?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-[ID]?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Photographer Name](https://unsplash.com/@photographer) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-[ID]?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
@@ -58,9 +59,10 @@ header:
 - **excerpt**: Single sentence, 120-200 characters, compelling summary
 - **header images**: Use Unsplash images with proper attribution
   - overlay_image: 1200x400px for desktop headers
+  - og_image: 1200x630px for social media sharing (LinkedIn, Facebook, Twitter) — uses same photo ID as overlay_image
   - teaser: 600x300px for thumbnails and archive listings
   - Always include photographer credit in caption
-  - Both overlay_image and teaser use same photo ID with different dimensions
+  - overlay_image, og_image, and teaser all use the same photo ID with different dimensions
 
 ## Common Categories
 

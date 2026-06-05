@@ -14,6 +14,7 @@ tags:
 excerpt: "Microsoft Build 2026 was full of exciting announcements, but read between the lines and a quieter, more uncomfortable truth emerges: cloud AI compute cannot scale to meet demand, NVIDIA's chips are the bottleneck, and the open source world is watching carefully—and learning."
 header:
   overlay_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Adi Goldstein](https://unsplash.com/@adigold1) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

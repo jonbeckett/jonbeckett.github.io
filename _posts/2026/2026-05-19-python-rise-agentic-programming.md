@@ -15,6 +15,7 @@ tags:
 excerpt: "From a scripting language for system administrators to the undisputed lingua franca of artificial intelligence, Python's rise to dominance in the age of agentic programming is no accident — it's the result of decades of ecosystem investment, community momentum, and a design philosophy that turns out to be extraordinarily well-suited to programming autonomous AI."
 header:
   overlay_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Chris Ried](https://unsplash.com/@cdr6934) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

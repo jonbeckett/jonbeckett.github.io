@@ -16,6 +16,7 @@ tags:
 excerpt: "Copilot billing changes have turned AI from a novelty spend into an operating cost, accelerating a predictable shift towards self-hosted open-source model stacks such as Qwen 3.6."
 header:
   overlay_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Kristopher Roller](https://unsplash.com/@krisroller) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

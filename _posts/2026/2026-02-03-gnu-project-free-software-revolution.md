@@ -16,6 +16,7 @@ tags:
 excerpt: "The story of how one programmer's refusal to sign a non-disclosure agreement sparked a revolution that would challenge the entire software industry—told through the visionaries, conflicts, and ideological battles that shaped the Free Software movement."
 header:
   overlay_image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

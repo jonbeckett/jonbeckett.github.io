@@ -17,6 +17,7 @@ tags:
 excerpt: "As AI and robotics converge toward unprecedented capability, we stand at the threshold of humanity's most profound transition since the agricultural revolution. Within decades, intelligent machines may shoulder the burden of maintaining civilization itself—forcing us to reimagine not just how we work, but why we work at all."
 header:
   overlay_image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Andy Kelly](https://unsplash.com/@askkell) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

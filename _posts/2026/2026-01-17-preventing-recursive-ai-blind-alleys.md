@@ -16,6 +16,7 @@ tags:
 excerpt: "AI coding agents are transforming software development, but their lack of domain knowledge and common sense can lead them into recursive exploration of dead ends. Understanding these limitations and implementing effective oversight strategies is crucial for harnessing AI assistance without wasting time on fruitless pursuits."
 header:
   overlay_image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Possessed Photography](https://unsplash.com/@possessedphotography) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

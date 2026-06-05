@@ -17,6 +17,7 @@ tags:
 excerpt: "The Amiga, Atari ST, and Archimedes transformed British homes into creative powerhouses, launching the demo scene, bedroom coders, and a cultural revolution that still echoes through gaming and music today."
 header:
   overlay_image: "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Lorenzo Herrera](https://unsplash.com/@lorenzoherrera) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"

@@ -19,6 +19,7 @@ tags:
 excerpt: "Nearly thirty years ago, Eric Raymond described two models of software development—the Cathedral and the Bazaar. That tension has never felt more relevant than it does today, as open source AI models begin to challenge the dominance of the closed commercial giants."
 header:
   overlay_image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
+  og_image:      "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=630&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 100%)"
   caption: "Photo by [Sean Lim](https://unsplash.com/@seanlimm) on [Unsplash](https://unsplash.com)"
   teaser: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
