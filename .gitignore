@@ -1,3 +1,5 @@
 .bundle/
 _site/
 vendor/
+
+.playwright-mcp/

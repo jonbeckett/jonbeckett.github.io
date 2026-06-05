@@ -1,0 +1,10 @@
+{
+  "systemMessage": "Follow repository rules in .continue/rules as mandatory operating constraints. Do not ignore alwaysApply rules. For file edits and tool calls, prioritise safety and minimal, reversible changes.",
+  "skills": {
+    "enabled": true,
+    "dirs": [
+      ".github/skills",
+      ".continue/rules"
+    ]
+  }
+}

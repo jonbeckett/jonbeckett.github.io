@@ -1,0 +1,10 @@
+name: Web Research MCP
+version: 1.0.0
+schema: v1
+mcpServers:
+  - name: Browser Research
+    type: stdio
+    command: npx
+    args:
+      - -y
+      - "@playwright/mcp@latest"
