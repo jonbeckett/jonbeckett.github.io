@@ -29,13 +29,49 @@ You are deep in a Playwright test automation project for a corporate system that
 
 The question that keeps developers awake at night is straightforward: at what point does buying a gaming rig and running an open model locally become the cheaper option?
 
+## Understanding Copilot Plans, Credits and Costs
+
+Before diving into the numbers, it helps to understand what GitHub Copilot actually offers and how its credit system works in practice.
+
+### The Plan Options
+
+GitHub currently offers six Copilot plans:
+
+| Plan | Monthly Price (UK) | AI Credits | Effective Credit Value | Best For |
+|------|-------------------|------------|--------------------|----------|
+| Copilot Free | £0 | ~£0.40 | ~£0.40 | Occasional users, students |
+| Copilot Pro | £8 ($10) | £12 (1,500 credits) | £15 (1,500 credits) | Individual developers light usage |
+| Copilot Pro+ | £31 ($39) | £56 (7,000 credits) | £70 (7,000 credits) | Power users needing more credits |
+| Copilot Max | £80 ($100) | £160 (20,000 credits) | £200 (20,000 credits) | Heavy agentic coders like the author |
+| Copilot Business | £15 ($19)/user | £15/user (1,900 credits) | £15/user + promo | Teams needing org-level features |
+| Copilot Enterprise | £31 ($39)/user | £31/user (3,900 credits) | £31/user + promo | Large organisations |
+
+The key thing to understand is that **credits are a currency, not a cap**. Each plan includes a monthly credit allowance whose *dollar value* exceeds the subscription price -- Pro gets £12 of credits for £8, Max gets £160 for £80. This subsidy makes even heavy usage feel like a deal, at least until you see how fast agentic sessions burn through them.
+
+### What AI Credits Actually Buy You
+
+One credit equals $0.01 USD (approximately £0.008). Crucially, code completions -- the tab-completion autocomplete most people associate with Copilot -- remain **free and unlimited** on all paid plans. They do not consume credits at all.
+
+Credits are only consumed by chat interactions, agentic coding sessions, and premium model access. Here is what different credit amounts translate into for agentic coding workflows:
+
+| Credits Spent | GPT-5.4 nano Output | Claude Sonnet 4.6 Output | Claude Opus 4.8 Output |
+|--------------|--------------------|------------------------|----------------------|
+| £0.40 (40 credits) | 32M output tokens | 6.7M output tokens | 1.6M output tokens |
+| £1.00 (100 credits) | 80M output tokens | 16.7M output tokens | 4M output tokens |
+| £5.00 (500 credits) | 400M output tokens | 83.3M output tokens | 20M output tokens |
+| £10.00 (1,000 credits) | 800M output tokens | 167M output tokens | 40M output tokens |
+
+These numbers look enormous until you consider what a single agentic session actually consumes. A moderately complex coding agent step -- reading a codebase section, generating refactored code, and writing it back -- typically involves 10K input tokens plus 2K output tokens. On Claude Sonnet 4.6 that costs roughly **6 credits** per step. Run ten such steps during a focused agentic session and you have spent **£0.48**. A full day of aggressive agentic work -- fifty steps across multiple files -- could consume **300 credits (£2.40)** in a single day.
+
+This is the maths behind the headline numbers. A Max subscriber burning through 20,000 credits in five days is not an anomaly: it is what happens when you run dozens of agentic coding sessions daily on frontier models across a large corporate codebase. Each session reads files, analyses context, generates code, and writes changes -- multiplying token consumption exponentially compared to a simple chat prompt.
+
 ## The June 2026 Billing Revolution
 
-On 1 June 2026, GitHub Copilot fundamentally changed how it charges for AI assistance. The old Premium Request Unit system was replaced with GitHub AI Credits -- a token-based billing model where one credit equals $0.01 USD. The base subscription prices remained unchanged, but the economics beneath them shifted dramatically.
+On 1 June 2026, GitHub Copilot fundamentally changed how it charges for AI assistance. The old Premium Request Unit system was replaced with GitHub AI Credits -- a token-based billing model where one credit equals $0.01 USD (approximately £0.008). The base subscription prices remained unchanged, but the economics beneath them shifted dramatically.
 
 ### Your Copilot Max Allowance
 
-The Copilot Max plan costs $100 per month (approximately £80 for UK subscribers) and includes 20,000 AI credits -- comprising 10,000 base credits plus 10,000 flex credits. At face value, this represents $200 in credit value, effectively subsidising half your usage.
+The Copilot Max plan costs $100 per month (approximately £80 for UK subscribers) and includes 20,000 AI credits -- comprising 10,000 base credits plus 10,000 flex credits. At face value, this represents $200 (£160) in credit value, effectively subsidising half your usage.
 
 However, the subsidy vanishes quickly when you are running frontier models in agentic sessions. The flex component is also subject to change at GitHub's discretion, introducing a layer of uncertainty into any cost planning.
 
@@ -45,10 +81,10 @@ The critical insight from June's billing change is that model choice now dominat
 
 | Model | Input per 1M tokens | Cached Input per 1M tokens | Output per 1M tokens |
 |-------|-------------------|--------------------------|--------------------|
-| GPT-5.5 | $5.00 | $0.50 | $30.00 |
-| Claude Sonnet 4.6 | $3.00 | $0.30 | $15.00 |
-| Claude Opus 4.8 | $5.00 | $0.50 | $25.00 |
-| MAI-Code-1-Flash | $0.75 | $0.075 | $4.50 |
+| GPT-5.5 | $5.00 (£4.00) | $0.50 (£0.40) | $30.00 (£24.00) |
+| Claude Sonnet 4.6 | $3.00 (£2.40) | $0.30 (£0.24) | $15.00 (£12.00) |
+| Claude Opus 4.8 | $5.00 (£4.00) | $0.50 (£0.40) | $25.00 (£20.00) |
+| MAI-Code-1-Flash | $0.75 (£0.60) | $0.075 (£0.06) | $4.50 (£3.60) |
 
 The spread is staggering. GPT-5.5 output costs 24 times more per million tokens than GPT-5.4 nano. A developer who switches between models without tracking consumption is effectively setting fire to their budget.
 
@@ -64,19 +100,19 @@ For a full-time developer running agentic coding sessions -- the kind of workflo
 | Heavy agent iteration | 250K in / 20K out | 105 credits | 175 credits |
 | Review-heavy task | 100K in / 40K out | 90 credits | 150 credits |
 
-A single heavy agentic iteration with Claude Opus costs 175 credits -- that is $1.75 from your monthly allowance for one operation. For complex Playwright test generation across a large codebase, where the agent must repeatedly read test results, analyse failures, modify page objects, update fixtures, and regenerate assertions, you are easily executing dozens of heavy iterations per session.
+A single heavy agentic iteration with Claude Opus costs 175 credits -- that is $1.75 (£1.40) from your monthly allowance for one operation. For complex Playwright test generation across a large codebase, where the agent must repeatedly read test results, analyse failures, modify page objects, update fixtures, and regenerate assertions, you are easily executing dozens of heavy iterations per session.
 
 The developer experience that prompted this analysis confirmed the mathematics in practice: 20,000 credits consumed within five working days of full-time agentic development. That is approximately 4,000 credits per day, or roughly £32 per day solely for AI assistance on top of the base subscription.
 
-At that burn rate, the 20,000 credits last one week. The remaining three weeks require either purchasing additional credits at $0.01 each or accepting blocked usage depending on organisational policy. The realistic monthly cost for this developer, running Claude Sonnet and Opus models in agentic sessions, is approximately **$700-£560 per month**.
+At that burn rate, the 20,000 credits last one week. The remaining three weeks require either purchasing additional credits at $0.01 each or accepting blocked usage depending on organisational policy. The realistic monthly cost for this developer, running Claude Sonnet and Opus models in agentic sessions, is approximately **£560 ($700) per month**.
 
 To put that in perspective: the AI assistance costs nearly **seven times** the base subscription price.
 
 ### A Broader Developer Experience
 
-My experience is not unique. Since the June 1 billing change, developers across Reddit, X, and GitHub forums have documented a wide spectrum of outcomes -- from those who barely notice the change to others whose bills have inflated tenfold. The TechTimes reported projected cost increases of 10x to 50x for power users running agentic coding sessions. On Reddit, one developer estimated their company's Copilot bill would jump from $29/month to nearly $750/month, while another projected $50 to around $3,000. GitHub's own community FAQ thread accumulated 435 comments with 904 downvotes -- one of the most lopsided reactions in the forum's history.
+My experience is not unique. Since the June 1 billing change, developers across Reddit, X, and GitHub forums have documented a wide spectrum of outcomes -- from those who barely notice the change to others whose bills have inflated tenfold. The TechTimes reported projected cost increases of 10x to 50x for power users running agentic coding sessions. On Reddit, one developer estimated their company's Copilot bill would jump from $29 (£23) per month to nearly $750 (£600) per month, while another projected $50 (£40) to around $3,000 (£2,400). GitHub's own community FAQ thread accumulated 435 comments with 904 downvotes -- one of the most lopsided reactions in the forum's history.
 
-Septim Labs published a detailed calculator analysing three representative developer profiles using the Copilot Pro plan ($10/month, 1,000 credits included), which provides useful comparative benchmarks even for Max subscribers:
+Septim Labs published a detailed calculator analysing three representative developer profiles using the Copilot Pro plan (£8/month / $10 per month, 1,000 credits included), which provides useful comparative benchmarks even for Max subscribers:
 
 **The Light User -- A Non-Event**
 
@@ -212,7 +248,7 @@ The most important variable in this calculation is not today's prices but tomorr
 
 Open-weight models are improving rapidly. Qwen's development has been particularly aggressive, with each iteration closing the capability gap with frontier proprietary models. A 32B model in late 2026 may rival a 72B model from early 2026, and the trend suggests continued convergence.
 
-Meanwhile, GitHub's flex credit component is subject to change at Microsoft's discretion. The current subsidy (where Max plan holders receive $200 of credits for $100 monthly) may not persist indefinitely. If flex credits are reduced or eliminated, the effective cost of agentic coding on Copilot rises proportionally.
+Meanwhile, GitHub's flex credit component is subject to change at Microsoft's discretion. The current subsidy (where Max plan holders receive $200 (£160) of credits for $100 (£80) monthly) may not persist indefinitely. If flex credits are reduced or eliminated, the effective cost of agentic coding on Copilot rises proportionally.
 
 The breakeven calculation that looks like 12 months today could become six months tomorrow if GitHub reduces included credits. The hardware investment becomes more attractive with each passing month as local models improve and cloud pricing remains fixed or increases.
 
