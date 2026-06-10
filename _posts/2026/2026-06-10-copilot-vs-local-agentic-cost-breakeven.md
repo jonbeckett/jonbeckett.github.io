@@ -252,6 +252,29 @@ Meanwhile, GitHub's flex credit component is subject to change at Microsoft's di
 
 The breakeven calculation that looks like 12 months today could become six months tomorrow if GitHub reduces included credits. The hardware investment becomes more attractive with each passing month as local models improve and cloud pricing remains fixed or increases.
 
+## Data Governance: The Hidden Cost Nobody Talks About
+
+Beyond the spreadsheet numbers lies a factor that matters enormously for enterprise developers -- data governance, intellectual property protection, and compliance risk. This is where local AI's advantage is not just economic but structural.
+
+### The Cloud Data Problem
+
+When you use GitHub Copilot with Claude Sonnet or Opus, every line of code your agent reads, every proprietary API specification your session analyses, and every architectural decision discussed gets transmitted to a cloud server operated by Anthropic and processed in their infrastructure. Your codebases are sent across the internet. Sensitive internal systems pass through frontier model providers' data centres.
+
+This is not theoretical -- it is an inevitability of how LLM inference works. The model needs your context. For a developer working on proprietary software, confidential client systems, or regulated financial infrastructure, every agentic session represents a potential data exfiltration vector:
+
+- **Training data concerns:** Even if Anthropic states they do not train on Max plan data, their terms can change at any time. Once you have shipped it across the internet, control is no longer yours.
+- **Audit trail gaps:** Cloud AI interactions leave opaque logging trails. When a regulated organisation needs to know *exactly* what data touched which systems, proprietary AI vendors provide black boxes.
+- **Compliance exposure:** GDPR, HIPAA, SOC 2, PCI-DSS -- each compliance framework has specific requirements about where personal and sensitive data can reside. Sending code containing customer identifiers, internal architecture diagrams, or infrastructure configurations to cloud AI providers may violate these obligations depending on jurisdiction and industry sector.
+- **Supply chain risk:** Cloud AI adds another vendor to your supply chain. If Anthropic experiences an outage, a breach, or policy change affecting your Copilot access, you have zero control over the resolution timeline.
+
+### The Local Model Advantage
+
+A locally run model via Ollama on your own hardware has **zero data exfiltration risk by design**. Your code never leaves your network. Your architecture diagrams, API specifications, and business logic remain entirely under your control. There is no vendor term that can change this -- it is a fundamental property of running inference on your own GPU.
+
+For enterprise developers working on complex corporate systems with sensitive infrastructure, compliance requirements, or confidential client data, this is not a marginal benefit. It is decisive.
+
+No amount of cost savings justifies sending proprietary source code across the internet to an external provider -- and local AI delivers both governance certainty and economic sense simultaneously.
+
 ## The Verdict
 
 For the full-time developer doing complex agentic coding work, using Claude Sonnet and Opus models within GitHub Copilot at the usage levels this analysis describes, the NVIDIA RTX 4090 hardware investment pays for itself in under five months -- and potentially in under four months when the resale value is factored in.
