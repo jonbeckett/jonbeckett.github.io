@@ -1,7 +1,7 @@
 ---
 title: "AI at Work: A Practical Guide to What Artificial Intelligence Does Well and Where It Falls Short"
 layout: single
-date: 2026-06-23
+date: 2026-06-22
 categories:
   - artificial-intelligence
   - software-development
