@@ -1,7 +1,7 @@
 ---
 title: "Foundations of Software Testing: Core Principles, Techniques, and the Art of Finding Bugs"
 layout: single
-date: 2026-08-04
+date: 2026-07-28
 categories:
   - software-development
   - testing
