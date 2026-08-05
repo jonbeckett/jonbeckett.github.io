@@ -25,9 +25,9 @@ header:
 
 # The AI Agent Team: How Many Virtual Developers Can One Developer Really Manage?
 
-You hire a senior developer. They have deep domain expertise, years of experience, and the judgement to know which architectural decisions are worth making and which are academic exercises in futility. Their annual cost is £75,000.
+You hire a senior developer on a day-rate basis. They have deep domain expertise, years of experience, and the judgement to know which architectural decisions are worth making and which are academic exercises in futility. At £1,000 per day, that is £20,000 for a 20-day month -- annualised at £240,000 if fully allocated across a year.
 
-Then you add five AI agents to their team. Code Orchestrator handles routine refactoring and scaffolding. Architecture Advisor reviews design decisions before they are committed. Test Strategist generates and maintains test suites. Documentation Writer produces API reference material. Monitoring Agent tracks deployment health and logs errors. The agents cost £400 per month across all five -- a fraction of what five junior developers would cost, even accounting for the fact that none of them can take the lunchbreaks or attend the Monday standup meetings that human team members endure as part of the social fabric.
+Then you add five AI agents to their team. Code Orchestrator handles routine refactoring and scaffolding. Architecture Advisor reviews design decisions before they are committed. Test Strategist generates and maintains test suites. Documentation Writer produces API reference material. Monitoring Agent tracks deployment health and logs errors. The agents cost not the £400 a month that vendors would have you believe -- but closer to £3,000-£5,000 per month when running complex projects with Claude Opus on full-time agentic coding sessions, because the credit burn is real and it burns fast. A single professional developer directing agents through an intensive project recently burned 15,000 credits in two days using Claude Opus. That is not a monthly figure; it is a fortnightly one. The cost of running agents at professional intensity is orders of magnitude higher than the vendors' advertised rates suggest.
 
 The senior developer now manages seven work streams simultaneously: their own complex tasks plus oversight of five agents producing output at speeds no human could match. By week three, they are spending more time reviewing agent output than doing original work. The agents have generated 40,000 lines of code in that period -- most of it functional, much of it correct, all of it requiring the senior developer's time to verify before committing.
 
@@ -53,11 +53,11 @@ Now insert AI agents into this structure as genuine team members, not as tools s
 
 | Agent Role | Function | Human Analogue | Monthly Credit Cost |
 |-----------|----------|---------------|-------------------|
-| Code Orchestrator | Explores codebases, generates refactored output, writes files | Junior to Mid-Level Developer | £30-60 |
-| Architecture Advisor | Analyzes design, suggests structural improvements | Senior Developer | £80-150 |
-| Test Strategist | Designs test plans, generates suites, maintains coverage | QA Engineer | £40-80 |
-| Documentation Writer | Produces API docs, guides, architecture descriptions | Technical Writer | £20-40 |
-| Monitoring Agent | Tracks deployment health, logs errors, alerts on anomalies | DevOps Engineer | £15-30 |
+| Code Orchestrator | Explores codebases, generates refactored output, writes files | Junior to Mid-Level Developer | £800-2,500 |
+| Architecture Advisor | Analyzes design, suggests structural improvements | Senior Developer | £1,500-4,000 |
+| Test Strategist | Designs test plans, generates suites, maintains coverage | QA Engineer | £600-1,500 |
+| Documentation Writer | Produces API docs, guides, architecture descriptions | Technical Writer | £200-600 |
+| Monitoring Agent | Tracks deployment health, logs errors, alerts on anomalies | DevOps Engineer | £100-400 |
 
 These agents *perform* these functions. When a senior developer directs the Code Orchestrator to refactor a module, they are delegating work to a virtual team member in the same way they would delegate to a junior developer -- except the virtual team member produces output ten times faster and requires ten times as much review time per line of code produced.
 
@@ -168,14 +168,14 @@ The management challenges above determine the commercial model. If a senior deve
 
 Current market pricing for professional AI agent platforms:
 
-| Agent Platform | Monthly Cost | Primary Function |
-|---------------|-------------|-----------------|
-| GitHub Copilot Max | £80/month (20,000 credits) | Code generation and orchestration |
-| Claude Code Enterprise | £60-120/month | Architecture review, complex reasoning |
-| Cursor/Cline + local models | £30-50/month | Coding assistance with local inference |
-| specialised tooling (test frameworks, monitoring) | £20-40/month | QA, observability, documentation |
+| Agent Platform | Monthly Cost (Professional Intensity) | Primary Function |
+|---------------|--------------------------------------|----------------|
+| GitHub Copilot Max | £80-600+/month | Code generation and orchestration (basic 20,000-credit quota exhausted quickly at agentic intensity) |
+| Claude Code / API (Opus) | £1,000-4,000+/month | Architecture review, complex reasoning -- the expensive tier, and the one that burns credits fastest |
+| Cursor/Cline + Claude Opus API | £800-2,500/month | Active coding sessions at professional intensity |
+| Specialised tooling (test frameworks, monitoring) | £100-400/month | QA, observability, documentation |
 
-A fully augmented team -- code agent, architecture advisor, test strategist, and documentation writer -- costs approximately £190-290 per month. This is the *actual* cost of virtual team members, not an inflated figure designed to extract margin from clients who do not understand what they pay for.
+A fully augmented team -- code agent, architecture advisor, test strategist, and documentation writer -- costs approximately £2,500-7,000 per month at professional intensity on complex projects. The entry-level subscription prices vendors advertise (£80 here, £120 there) apply to light usage; professional agentic coding sessions with Claude Opus consume credits at a rate that makes those figures look fictional. A single developer burning 15,000 credits in two days is not unusual -- and 20 working days of that usage produces a bill the vendor pricing calculator was never designed to show you.
 
 ### The Three Pricing Models
 
@@ -185,12 +185,12 @@ Itemise each agent as a virtual team member alongside human resources in project
 
 | Resource | Type | Monthly Cost |
 |----------|------|-------------|
-| Lead Developer | Human (Senior) | £8,000 |
-| Code Orchestrator Agent | Virtual Team Member | £60 |
-| Test Strategist Agent | Virtual Team Member | £80 |
-| **Monthly Total** | | **£8,140** |
+| Lead Developer | Human (Senior, day-rate) | £20,000 |
+| Code Orchestrator Agent | Virtual Team Member | £1,500 |
+| Test Strategist Agent | Virtual Team Member | £800 |
+| **Monthly Total** | | **£22,300** |
 
-This model is honest about what the client is funding and demonstrates that AI agents are a marginal cost of the overall engagement -- approximately 2% of total project cost. The clients who understand this model appreciate the transparency; those who do not may question why they are paying for something "that costs nothing." The answer, of course, is that it does cost something -- £140/month -- and the value proposition is not that agents are free but that they are an efficient addition to an existing team.
+This model is honest about what the client is funding. Agents are no longer a rounding error on the invoice -- at professional intensity they represent 10-15% of total project cost, which is both significant enough to be worth showing and modest enough to justify without embarrassment. Clients who see this model understand they are paying for a specific team composition; those who push back on the agent line items are the same clients who would push back on tooling licences and infrastructure costs. The conversation is worth having.
 
 **Model B: Efficiency Discount**
 
@@ -206,9 +206,9 @@ Offer three tiers with different agent configurations:
 
 | Tier | Team Composition | Monthly Cost | Best For |
 |------|-----------------|-------------|----------|
-| Basic | Senior developer only (no agents) | £6,000 | Projects requiring maximum human judgment |
-| Standard | Senior + 2 agents | £7,500 | Typical feature development work |
-| Premium | Senior + 4 agents | £9,000 | Complex projects with tight timelines |
+| Basic | Senior developer only (no agents) | £20,000 | Projects requiring maximum human judgment or restricted data environments |
+| Standard | Senior + 2 agents | £23,000 | Typical feature development work |
+| Premium | Senior + 4 agents | £26,500 | Complex projects with tight timelines and high agent intensity |
 
 This model lets clients choose their level of agent involvement without requiring education about what AI agents are. It converts the opaque "who pays?" question into a transparent commercial choice where agents are positioned as capacity multipliers rather than cost items to minimise.
 
@@ -254,11 +254,11 @@ At the 1+3 configuration, the monthly economics for a typical engagement are:
 
 | Resource | Cost |
 |----------|------|
-| Senior Developer salary | £8,000 |
-| 3 Agents (code, test, docs) | £160 |
-| **Total** | **£8,160** |
+| Senior Developer (day-rate, £1,000/day × 20 days) | £20,000 |
+| 3 Agents at professional intensity (code, test, docs) | £3,500 |
+| **Total** | **£23,500** |
 
-Compare this to an all-human team delivering equivalent output: senior developer (£8,000) + mid-level developer (£5,000) + junior QA (£3,500) = £16,500. The augmented team delivers approximately 70% of the all-human team's output at 49% of the cost -- because the senior developer's time is focused on high-value work while agents handle volume tasks.
+Compare this to an all-human team delivering equivalent output: senior developer (£20,000) + mid-level developer (£12,000) + junior QA (£7,000) = £39,000. The augmented team delivers approximately 70% of the all-human team's output at 60% of the cost -- because the senior developer's time is focused on high-value work while agents handle volume tasks. The agent costs are real and significant, but the comparison still holds: £23,500 versus £39,000 for comparable throughput is a compelling argument.
 
 The margin for the delivery company is different between models (higher percentage margin on the augmented team due to lower absolute cost), but the value proposition to the client is clear: they are paying for productive output, not subsidising internal tooling choices.
 
