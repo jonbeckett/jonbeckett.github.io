@@ -18,7 +18,7 @@ title: jonbeckett.com
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jonathan Beckett"
-description: "Software and Web Developer"
+description: "Content Creator"
 url: "https://jonbeckett.com"
 baseurl: ""
 repository: "jonbeckett/jonbeckett.github.io"
@@ -68,13 +68,10 @@ analytics:
 author:
   name: "Jonathan Beckett"
   avatar: "/assets/images/jonbeckett.jpg"
-  bio: "Software and Web Developer"
+  bio: "Content Creator"
   location: "UK"
   email: "jonathan.beckett@gmail.com"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jonathanbeckett"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonbeckett"
@@ -87,9 +84,6 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jonathan.beckett@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jonathanbeckett"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonbeckett"
