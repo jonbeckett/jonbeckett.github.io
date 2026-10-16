@@ -7,10 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Homepage feature cards: force a balanced 2x2 grid instead of 3-up theme defaults. */
+/* Homepage feature cards: 4-up grid on wide screens, 2-up on tablets, 1-up on phones. */
 .layout--splash .feature__wrapper {
 	display: grid;
-	grid-template-columns: repeat(2, minmax(0, 1fr));
+	grid-template-columns: repeat(4, minmax(0, 1fr));
 	gap: 1.5rem;
 }
 
@@ -18,6 +18,12 @@
 	float: none;
 	width: auto;
 	margin: 0;
+}
+
+@media (max-width: 1023px) {
+	.layout--splash .feature__wrapper {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
 }
 
 @media (max-width: 767px) {
