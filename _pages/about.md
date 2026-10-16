@@ -2,17 +2,26 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-## About the blog
+![Jonathan Beckett](/assets/images/jonbeckett_newsprint.jpg)
 
-This blog is being re-written at the moment. Check back soon.
+### Hi - I'm Jonathan Beckett - accidental content creator, and definitely not a "real pilot".
 
+In the daytime I’m a software and web developer for a Microsoft partner, working on huge corporate systems that I can rarely tell anybody anything about. In my spare time - among other things - I tinker with flight simulation software and record my escapades on YouTube. You might have seen me on-stage at the recent FlightSimExpo in St Paul, Minneapolis!
 
-## About me
+My story with flight simulation started in the mid 1980s, and "Flight Sim 737" on an 8bit computer - followed a few years later by Sublogic Flight Simulator II on the Atari ST, and then various flight simulators on the PC over the next twenty five years. For a long time - when my daughters were young - I didn't have a computer capable of running a simulator, but then inherited one from my Dad, and the journey proper began. He and his friends at a virtual airline were having problems learning the ZiboMod 737 in X-Plane - so I stepped in and recorded some tutorial videos. Little did I know just how steep, and just how slippery a slope I was standing on.
 
-Hi - I'm Jonathan - married to someone far more sensible than me, father to offspring who have inherited my stubborn streak, and servant to cats who have strong opinions about my working schedule. We live somewhere in Britain where it rains frequently enough to make indoor hobbies essential. I tend to believe pizza solves most problems, and that the best productivity system is the one you'll actually use - which partly explains why I still like bullet journals.
+Fast forward five or six years and here we are - with over a thousand videos on YouTube, somewhere in the region of 50,000 subscribers, several thousand email subscribers to my blog, thousands more at ko-fi, and countless tutorials, guides, and livestreams shared with anybody interested in watching, learning, and hopefully being entertained.
 
-## Getting in touch
+Here's where you can find me online:
 
-You can always reach me at [jonathan.beckett@gmail.com](mailto:jonathan.beckett@gmail.com).
+- **[YouTube Channel](https://youtube.com/@jonbeckett)** — follow along with my flight sim escapades and livestreams
+- **[Discord Server](https://discord.gg/rmA5XqV69s)** - find everything I contribute to the world of Flight Simulation, ask questions, and message me!
+- **[Discord Profile](https://discord.com/users/571319837532356623)** - request me as a friend!
+- **[Substack Blog](https://jonbeckett.substack.com/)** — subscribe for free regular emails about my escapades
+- **[BlueSky](https://bsky.app/profile/jonbeckett.bsky.social)** - follow me on BlueSky, where I post links to everything I'm doing
+- **[X](https://x.com/thejonbeckett)** - follow me on X, where I post links to everything I'm doing
+- **[Facebook Page](https://www.facebook.com/jonbeckettnotarealpilot)** - join my Facebook group, and get the same news there
+- **[Ko-Fi Shop](https://ko-fi.com/jonbeckett/shop)** — use my guides and startup procedures to help get started in your favourite aircraft.

@@ -13,24 +13,24 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
+locale: "en-GB"
 title: jonbeckett.com
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jonathan Beckett"
-description: "Content Creator"
+description: "Flight Simulation and Aviation Enthusiast"
 url: "https://jonbeckett.com"
 baseurl: ""
-repository: "jonbeckett/jonbeckett.github.io"
+repository: "jonbeckett.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
-  provider: disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname: jonbeckett-com # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -61,35 +61,65 @@ search: false # true, false (default)
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-0J6K0088RD"
+    tracking_id: "G-S960B8KY9Y"
     anonymize_ip: false # true, false (default)
 
 # Site Author
 author:
   name: "Jonathan Beckett"
   avatar: "/assets/images/jonbeckett.jpg"
-  bio: "Content Creator"
+  bio: "Flight Simulation and Aviation Enthusiast"
   location: "UK"
-  email: "jonathan.beckett@gmail.com"
+  email: "jonbeckett@outlook.com"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonbeckett"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@jonbeckett"
+    - label: "Substack"
+      icon: "fas fa-fw fa-newspaper"
+      url: "https://jonbeckett.substack.com"
+    - label: "Ko-Fi Shop"
+      icon: "fas fa-fw fa-bag-shopping"
+      url: "https://ko-fi.com/jonbeckett/shop"
+    - label: "Discord Server"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/rmA5XqV69s"
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.online/jonbeckett"
+    - label: "X"
+      icon: "fab fa-fw fa-x"
+      url: "https://x.com/thejonbeckett"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/jonbeckettnotarealpilot"
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jonathan.beckett@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonbeckett"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@jonbeckett"
+    - label: "Substack Newsletter"
+      icon: "fas fa-fw fa-newspaper"
+      url: "https://jonbeckett.substack.com/"
+    - label: "Ko-Fi Shop"
+      icon: "fas fa-fw fa-bag-shopping"
+      url: "https://ko-fi.com/jonbeckett/shop"
+    - label: "Discord Server"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/rmA5XqV69s"
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jonbeckett.bsky.social"
+    - label: "X"
+      icon: "fab fa-fw fa-x"
+      url: "https://x.com/thejonbeckett"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/jonbeckettnotarealpilot"
     - label: "Disclaimer"
       icon: "fas fa-fw fa-info-circle"
       url: "/disclaimer/"
