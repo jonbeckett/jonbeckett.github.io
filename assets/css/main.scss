@@ -54,3 +54,20 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/* Homepage card headings are links: no underline, theme link colour on hover/focus. */
+.layout--splash .feature__wrapper .archive__item-title {
+	font-size: $h-size-2;
+
+	a,
+	a:visited {
+		color: $text-color;
+		text-decoration: none;
+		transition: color 0.2s ease-in-out;
+	}
+
+	a:hover,
+	a:focus-visible {
+		color: $link-color;
+	}
+}
