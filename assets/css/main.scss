@@ -31,3 +31,16 @@
 		grid-template-columns: 1fr;
 	}
 }
+
+/* Homepage sponsors footer: sits below the social cards, separated by a rule. */
+.layout--splash .sponsors {
+	margin-top: 3rem;
+	padding-top: 2rem;
+	border-top: 1px solid $border-color;
+}
+
+.layout--splash .sponsors__title {
+	margin: 0 0 1.5rem;
+	text-align: center;
+	font-size: $type-size-4;
+}
