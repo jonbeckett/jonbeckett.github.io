@@ -61,14 +61,14 @@ search: false # true, false (default)
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-S960B8KY9Y"
+    tracking_id: "G-0J6K0088RD"
     anonymize_ip: false # true, false (default)
 
 # Site Author
 author:
   name: "Jonathan Beckett"
   avatar: "/assets/images/jonbeckett.jpg"
-  bio: "Flight Simulation and Aviation Enthusiast"
+  bio: "Content Creator"
   location: "UK"
   email: "jonbeckett@outlook.com"
   links:
