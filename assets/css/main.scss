@@ -44,3 +44,13 @@
 	text-align: center;
 	font-size: $type-size-4;
 }
+
+/* Centre the homepage card images, headings, text and buttons. */
+.layout--splash .feature__wrapper .archive__item {
+	text-align: center;
+}
+
+.layout--splash .feature__wrapper .archive__item-teaser img {
+	margin-left: auto;
+	margin-right: auto;
+}
