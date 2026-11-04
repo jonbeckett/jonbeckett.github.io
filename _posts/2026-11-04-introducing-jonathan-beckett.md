@@ -9,14 +9,14 @@ tags:
   - flight-simulation
   - aviation
   - youtube
-excerpt: "I'm Jonathan Beckett: software developer, aviation enthusiast and virtual pilot. Here's how a childhood interest in flight simulation grew into a community."
+excerpt: "I'm Jonathan Beckett: software developer, aviation enthusiast and virtual pilot."
 header:
   overlay_image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&h=400&fit=crop&crop=entropy&auto=format&q=80"
   overlay_filter: "linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%)"
   teaser: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&h=300&fit=crop&crop=entropy&auto=format&q=80"
 ---
 
-Hello, and welcome. I'm Jonathan Beckett: software and web developer by day, aviation enthusiast and virtual pilot whenever I can be. I'm **not a real pilot**; I simply enjoy learning about aircraft and sharing what I discover in flight simulation.
+Hello, and welcome. I'm Jonathan Beckett: software and web developer by day, aviation enthusiast and virtual pilot whenever I can be. I'm **not a real pilot**, but I enjoy learning about aircraft and sharing what I discover in the world of flight simulation.
 
 ## From an 8-bit cockpit to the virtual skies
 
@@ -32,8 +32,6 @@ I still work as a software and web developer for a Microsoft partner, building l
 
 ## What you'll find here
 
-This blog is another place to share those adventures. I'll write about flights, aircraft, simulator updates, and the practical things I've learned along the way. Whether you're new to flight simulation or have been flying virtual skies for years, I hope you'll find something useful, interesting, or at least entertaining.
+This website will become my homepage in the new year - a jumping off point for everything I do online. Whether you're new to flight simulation or have been flying virtual skies for years, I hope you'll find something useful, interesting, or at least entertaining via the links on the front page.
 
-You can [read the blog posts](/posts/), [watch my videos on YouTube](https://youtube.com/@jonbeckett), or [follow my writing on Substack](https://jonbeckett.substack.com/). I also share guides and procedures through my [Ko-fi shop](https://ko-fi.com/jonbeckett/shop), and you can join the conversation on [Discord](https://discord.gg/rmA5XqV69s).
-
-Thanks for stopping by. I hope to see you in the virtual skies.
+Thanks for stopping by. I hope to see you in the virtual skies!
